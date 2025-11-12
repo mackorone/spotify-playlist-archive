@@ -4,7 +4,7 @@
 
 > For skating and grooving.
 
-258 songs - 18 hr 58 min
+258 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/58mFu3oIpBa0HLNeJIxsw3) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth](https://open.spotify.com/album/4PLM698gAODdpx7Wy3LNPj) | 4:07 | 2022-05-13 | 2022-05-21 |
 | [High](https://open.spotify.com/track/0tQ92AMarYMFFcLnJPjBCT) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyway](https://open.spotify.com/album/6wMCS84QUyhS0v7C2gYObc) | 4:53 | 2021-12-17 | 2022-05-14 |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2022-05-13 |  |
-| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2023-07-13 |  |
+| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 6:10 | 2023-07-13 |  |
 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 | 2022-07-27 |  |
 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 | 2022-05-13 |  |
 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 | 2021-12-17 | 2022-05-14 |

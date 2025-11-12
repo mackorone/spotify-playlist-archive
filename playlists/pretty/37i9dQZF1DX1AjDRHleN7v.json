@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 398041,
+  "num_followers": 398101,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Na minha cabe\u00e7a",
-      "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Na minha cabe\u00e7a",
+      "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -767,22 +767,18 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
+        "name": "Saquarema (Remix)",
+        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
       },
       "artists": [
         {
-          "name": "Patr\u00edcia Ahmaral",
-          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
         }
       ],
-      "duration_ms": 190453,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
+      "duration_ms": 232353,
+      "name": "Saquarema - Remix",
+      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
     },
     {
       "added_at": "2025-10-24 15:23:27",
@@ -803,18 +799,22 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Saquarema (Remix)",
-        "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
       "artists": [
         {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+          "name": "Patr\u00edcia Ahmaral",
+          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 232353,
-      "name": "Saquarema - Remix",
-      "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
+      "duration_ms": 190453,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
     },
     {
       "added_at": "2025-10-24 15:23:27",

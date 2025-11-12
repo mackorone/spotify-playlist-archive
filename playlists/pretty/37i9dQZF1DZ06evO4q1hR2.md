@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,353 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,380 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 35 | [Amor Imposible](https://open.spotify.com/track/6QxIAW54300NHUEpSCOfRq) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:54 |
 | 36 | [No volveré](https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o) | [Banda 89](https://open.spotify.com/artist/6obOm55X77MaT63vvPielg), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [No volveré](https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn) | 2:40 |
 | 37 | [El Hijo Del Pueblo](https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [3 Grandes De La Banda En Homenaje A José Alfredo Jiménez](https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u) | 3:07 |
-| 38 | [Profundamente](https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h) | 3:13 |
-| 39 | [Alguien Dijo](https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Alguien Dijo](https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI) | 2:17 |
+| 38 | [Alguien Dijo](https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Alguien Dijo](https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI) | 2:17 |
+| 39 | [Profundamente](https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h) | 3:13 |
 | 40 | [Mi Corazón Te Quiere](https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 2:44 |
 | 41 | [El Borrego](https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:01 |
 | 42 | [Prohibido \(En Vivo\)](https://open.spotify.com/track/2oaXSRWXf0pjmODxwKBxmq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido \(En Vivo\)](https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Dolor Y Amor](https://open.spotify.com/track/4jaY53IV5NntsISYc1Frmn) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 4:35 |
 | 50 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/4X0ktZrJzaw4D23lNC3um2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Ley De La Vida](https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg) | 2:41 |
 
-Snapshot ID: `aQ/ZgAAAAAC1zzD92o/CkYiXSicth1fx`
+Snapshot ID: `aRErAAAAAACleEZVTsy7jLJEhlcOjzYF`

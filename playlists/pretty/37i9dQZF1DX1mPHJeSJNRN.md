@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,297 likes - 97 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,296 likes - 97 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 62 | [All The Way](https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd) | 3:32 |
 | 63 | [Say It](https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:57 |
 | 64 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 |
-| 65 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
-| 66 | [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 |
+| 65 | [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 |
+| 66 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
 | 67 | [I've Never Been in Love Before](https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Tarder\-Stoll](https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd) | [Caity Gyorgy Quartet](https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm) | 5:47 |
 | 68 | [I Can't Be Bothered Now](https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 2:59 |
 | 69 | [Only Love Can Break Your Heart \- Live](https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:04 |

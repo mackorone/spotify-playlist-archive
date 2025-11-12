@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,854 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,874 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [Lady Double Dealer \- 2009 Digital Remaster](https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:21 |
 | 50 | [Pictures of You](https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:51 |
 
-Snapshot ID: `aQ/ZgAAAAACg3Bh2xf/LvT51v/BGoNlM`
+Snapshot ID: `aRErAAAAAACwl01ftV6DYaR3XaxJs6PT`

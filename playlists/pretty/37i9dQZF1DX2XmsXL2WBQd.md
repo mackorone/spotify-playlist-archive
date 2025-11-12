@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,159 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,212 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 5 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 6 | [Express Yourself \- Remix](https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Greatest Hits](https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr) | 4:21 |
 | 7 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
-| 8 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
-| 9 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
+| 8 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
+| 9 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
 | 10 | [It's Like That](https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 4:50 |
 | 11 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
 | 12 | [You Gots To Chill](https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:21 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 51 | [Boogie Down Bronx](https://open.spotify.com/track/2CbgPrMwa0UWUdppsOIoTR) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:18 |
 | 52 | [Jam On Revenge \(The Wikki Wikki Song\)](https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:35 |
 | 53 | [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 |
-| 54 | [Go See the Doctor](https://open.spotify.com/track/60z5ezmI1iL3s2pPEct4wh) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Kool Moe Dee \(Bonus Track Version\)](https://open.spotify.com/album/2gDDmbIsGzPKdHERy8ozIt) | 5:33 |
-| 55 | [Manifest](https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Mass Appeal: The Best Of Gang Starr \(Explicit\)](https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR) | 4:50 |
+| 54 | [Manifest](https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Mass Appeal: The Best Of Gang Starr \(Explicit\)](https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR) | 4:50 |
+| 55 | [Go See the Doctor](https://open.spotify.com/track/60z5ezmI1iL3s2pPEct4wh) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Kool Moe Dee \(Bonus Track Version\)](https://open.spotify.com/album/2gDDmbIsGzPKdHERy8ozIt) | 5:33 |
 | 56 | [The Breaks](https://open.spotify.com/track/4Tr756ILIER3QrujKqVKcc) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Cool \- Funk](https://open.spotify.com/album/7gQvwVSqfD2lqzf40WFNQz) | 4:04 |
 | 57 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc), [Zev Love](https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
 | 58 | [I Can't Live Without My Radio](https://open.spotify.com/track/1Yit1yv3n5f44TTevE4xxl) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:27 |

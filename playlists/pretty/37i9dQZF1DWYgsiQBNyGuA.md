@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Gabriel Jacoby
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,504 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,555 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 66 | [LOVE!](https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 1:40 |
 | 67 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |
 | 68 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
-| 69 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
-| 70 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
+| 69 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
+| 70 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
 | 71 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
-| 72 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
-| 73 | [Out My Hair](https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 2:57 |
+| 72 | [Out My Hair](https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 2:57 |
+| 73 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
 | 74 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 | 75 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
 | 76 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 88 | [Kill Switch](https://open.spotify.com/track/1uLxsQ0X6utcJEV5qE5w88) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Kill Switch](https://open.spotify.com/album/2jESbKIGLtz7rRO38a9SFi) | 3:04 |
 | 89 | [Hash Browns](https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [The Hash Brown Demos](https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg) | 1:59 |
 | 90 | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/album/6J9R7EmL3lIrfnXzZwxRB8) | 3:20 |
-| 91 | [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 |
-| 92 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
+| 91 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
+| 92 | [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 |
 | 93 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
 | 94 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
 | 95 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |

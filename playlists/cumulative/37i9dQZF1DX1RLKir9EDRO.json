@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: s\u0131la argun \u00c7izim: Isu Kim",
+  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: ARKADA\u015e \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 158095,
       "name": "Aha \u015eenlik",
       "url": "https://open.spotify.com/track/70ZqACAiAhJLFVbMbwbPoG"
@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 205479,
       "name": "Bile Bile",
       "url": "https://open.spotify.com/track/1wXg79ESBNQ9ZRCs7ZI3EJ"
@@ -5795,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "D\u00fcnya Bir G\u00f6lge",
+        "url": "https://open.spotify.com/album/3qIYrckWVJFF59wesfzJ61"
+      },
+      "artists": [
+        {
+          "name": "Duygu Alkan",
+          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204027,
+      "name": "D\u00fcnya Bir G\u00f6lge",
+      "url": "https://open.spotify.com/track/1WKjDRxTgiY8Ctke2rZA2N"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya \u00dczerinde Bir G\u00fcn",
         "url": "https://open.spotify.com/album/6h4fM4fFkZIq5nOtdSSIKy"
       },
@@ -6910,7 +6928,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 280998,
       "name": "Gecemin G\u00fcnd\u00fcz\u00fc",
       "url": "https://open.spotify.com/track/2Bn5ygsqUu18kJdNRCDEHx"
@@ -15395,6 +15413,24 @@
     },
     {
       "album": {
+        "name": "Sende Sakl\u0131",
+        "url": "https://open.spotify.com/album/2j10XJwhCwR3khQilIaEd3"
+      },
+      "artists": [
+        {
+          "name": "s\u00f6rf",
+          "url": "https://open.spotify.com/artist/0htq9HNkRIKmIt4l33WNSr"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Sende Sakl\u0131",
+      "url": "https://open.spotify.com/track/6aGIPT5385DAVpO9FuDQ2D"
+    },
+    {
+      "album": {
         "name": "Senden Bahsetmi\u015fim",
         "url": "https://open.spotify.com/album/1qpUzJ1fuZwoVNFf1dvQL6"
       },
@@ -16132,6 +16168,24 @@
       "duration_ms": 162000,
       "name": "Son G\u00fclen Ben Olaca\u011f\u0131m",
       "url": "https://open.spotify.com/track/7kMpGUpq5rjTTxoove5IkO"
+    },
+    {
+      "album": {
+        "name": "Son Kalan Sevgi",
+        "url": "https://open.spotify.com/album/1i4R0hL5WBawbOJJzWskTF"
+      },
+      "artists": [
+        {
+          "name": "Serbest Radikal",
+          "url": "https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251488,
+      "name": "Son Kalan Sevgi",
+      "url": "https://open.spotify.com/track/79ACxIaSx19G4U7IxCGswo"
     },
     {
       "album": {

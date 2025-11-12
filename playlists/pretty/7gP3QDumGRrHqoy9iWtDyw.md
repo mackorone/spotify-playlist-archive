@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,572 likes - 61 songs - 3 hr 37 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,569 likes - 61 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

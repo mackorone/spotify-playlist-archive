@@ -4,7 +4,7 @@
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Venerus
 
-393 songs - 20 hr 57 min
+395 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 | 2025-01-16 | 2025-03-18 |
 | [Fumantina](https://open.spotify.com/track/7pPBHzshVTaaWejG7mlb4r) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Fumantina](https://open.spotify.com/album/6FgC7laRXop6DMm9KhjWgb) | 3:17 | 2025-05-28 | 2025-07-04 |
 | [FUORI ROTTA](https://open.spotify.com/track/2GuOuGiBR1hCaf0FBl93Uw) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [FUORI ROTTA](https://open.spotify.com/album/6xKa5iiKwEl8yumheDmbiC) | 3:00 | 2024-06-27 | 2024-09-20 |
+| [Futuri Possibili](https://open.spotify.com/track/1uwRaRWJiMiDD945IPdFbV) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 3:29 | 2025-11-11 |  |
 | [Gangsta Story](https://open.spotify.com/track/6LaTDXwti80gtqeHqfTsx7) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [Gangsta Story](https://open.spotify.com/album/0mmVqF87bpTP5PtZcwT7EX) | 3:13 | 2024-09-13 | 2024-10-11 |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-06-27 | 2024-11-29 |
 | [Gatti](https://open.spotify.com/track/6j0MdDXIfJBAwjX0FBeJdW) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [POTREBBE NON AVERE PESO](https://open.spotify.com/album/4UyGhPNZ1O32lLapKTzhwx) | 3:18 | 2024-11-07 | 2024-12-06 |
@@ -210,6 +211,7 @@
 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 | 2024-09-06 |
 | [MARCIA INDIETRO \(feat\. ARIETE\)](https://open.spotify.com/track/0GAXeiEXGHjQl4clO17FRg) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA VACANZA](https://open.spotify.com/album/3feilFBJs9Sth0r4BwizKX) | 2:32 | 2025-06-19 | 2025-10-04 |
 | [Marco](https://open.spotify.com/track/2YywWE5M9C6vn5KmXH8D9u) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Marco](https://open.spotify.com/album/07HKCzahOB4OhaZseqGVSP) | 2:59 | 2025-07-24 | 2025-08-29 |
+| [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 | 2025-11-11 |  |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 | 2024-10-25 |
 | [Meglio di niente](https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Il Male](https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB) | 3:43 | 2025-09-25 | 2025-10-21 |
 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 | 2024-06-27 | 2025-05-30 |

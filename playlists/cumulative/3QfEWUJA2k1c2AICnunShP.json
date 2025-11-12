@@ -79,6 +79,32 @@
     },
     {
       "album": {
+        "name": "Herzlich tut mich verlangen, Op. 122/10",
+        "url": "https://open.spotify.com/album/6fxDWG6bxcEAGhLnHjvMIf"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Ferruccio Busoni",
+          "url": "https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2020-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "6 Chorale Preludes, BV B 50: Herzlich tut mich verlangen, Op. 122/10",
+      "url": "https://open.spotify.com/track/7M94BkzJqwAN3PLj5cdNEx"
+    },
+    {
+      "album": {
         "name": "A Hidden Life",
         "url": "https://open.spotify.com/album/6CiMatDAzdpJXM3Ad7NIaL"
       },
@@ -1033,7 +1059,7 @@
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 164973,
+      "duration_ms": 166640,
       "name": "GoldBergHain (Quodlibet on \"Kraut und R\u00fcben haben mich vertrieben\") for Violin & String Orchestra",
       "url": "https://open.spotify.com/track/5bmp5QR3Dwb5r9kgEX8kF3"
     },
@@ -1190,32 +1216,6 @@
       "duration_ms": 268613,
       "name": "Herz und Mund und Tat und Leben, BWV 147: Chorale. Jesus bleibet meine Freude (Arr. for Piano)",
       "url": "https://open.spotify.com/track/2R0vxgZ5SJUD6dLjkgOx5C"
-    },
-    {
-      "album": {
-        "name": "6 Chorale Preludes, BV B 50/Herzlich tut mich verlangen, Op. 122/10",
-        "url": "https://open.spotify.com/album/6fxDWG6bxcEAGhLnHjvMIf"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Ferruccio Busoni",
-          "url": "https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "date_added": "2020-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181040,
-      "name": "Herzlich tut mich verlangen, Op. 122/10",
-      "url": "https://open.spotify.com/track/7M94BkzJqwAN3PLj5cdNEx"
     },
     {
       "album": {
@@ -2526,12 +2526,12 @@
       },
       "artists": [
         {
-          "name": "Florian Christl",
-          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
-        },
-        {
           "name": "Robert Schumann",
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
         }
       ],
       "date_added": "2020-07-11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 80 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,541 likes - 80 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 32 | [Koyon So \- Game](https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Koyon So](https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy) | 6:15 |
 | 33 | [Akoo Te Brofo](https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Akoo Te Brofo](https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw) | 9:33 |
 | 34 | [Kɔkɔɔkɔ](https://open.spotify.com/track/5qgU9btg2VcakTumfiLbQ8) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 4:48 |
-| 35 | [Juliana](https://open.spotify.com/track/2MvreSWPJVvtwk2ijWolDZ) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [Sweet Talks](https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu) | 5:52 |
+| 35 | [Duke](https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h) | [Kantata](https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 5:34 |
 | 36 | [Akonoba](https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Love Classics](https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW) | 6:15 |
-| 37 | [Duke](https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h) | [Kantata](https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 5:34 |
+| 37 | [Juliana](https://open.spotify.com/track/2MvreSWPJVvtwk2ijWolDZ) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [Sweet Talks](https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu) | 5:52 |
 | 38 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 | 39 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |
 | 40 | [Asew](https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Asew](https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5) | 6:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1914270,
+  "num_followers": 1914115,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-10-24 04:00:11",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2025-10-24 04:00:11",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
-    },
-    {
-      "added_at": "2025-10-24 04:00:11",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2025-10-24 04:00:11",

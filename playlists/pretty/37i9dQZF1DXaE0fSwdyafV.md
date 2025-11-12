@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,471 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,468 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 72 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 |
 | 73 | [Crystals](https://open.spotify.com/track/4nnHOJqInr9r8c7RxuiT9j) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:03 |
 | 74 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |
-| 75 | [The Hanging Tree](https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Hanging Tree](https://open.spotify.com/album/2CuwE8reOOjtnd9bHLtDD0) | 2:51 |
+| 75 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
 
 Snapshot ID: `AAAAAA+VdfiDNT/1yWQmGY2Spsb5bhqd`

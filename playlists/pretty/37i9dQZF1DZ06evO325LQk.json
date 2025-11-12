@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37819,
+  "num_followers": 37816,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAA73/4jILIF4l+MEhIAiGR4",
+  "snapshot_id": "aRErAAAAAADsxhhM40EMbk8nLQZV0cbQ",
   "tracks": [
     {
       "added_at": null,
@@ -540,7 +540,7 @@
       "added_at": null,
       "album": {
         "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
       },
       "artists": [
         {
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
         {
-          "name": "Evita Manji",
-          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+          "name": "Popstar",
+          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
         }
       ],
-      "duration_ms": 215021,
-      "name": "Berlin Nightmare (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
+      "duration_ms": 291130,
+      "name": "Elegance (feat. Popstar)",
+      "url": "https://open.spotify.com/track/0Dw0LJVfSHtu1npU4sjvKh"
     },
     {
       "added_at": null,
@@ -624,7 +624,7 @@
       "added_at": null,
       "album": {
         "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
@@ -632,13 +632,13 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
         {
-          "name": "Popstar",
-          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 291130,
-      "name": "Elegance (feat. Popstar)",
-      "url": "https://open.spotify.com/track/0Dw0LJVfSHtu1npU4sjvKh"
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
     },
     {
       "added_at": null,

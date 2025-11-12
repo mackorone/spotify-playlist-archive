@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,031 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,032 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 |
 | 50 | [Cante Aleluia](https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 3:34 |
 
-Snapshot ID: `aQ/ZgAAAAAD/Ayf4buGbXJl+Gtn5uoZ2`
+Snapshot ID: `aRErAAAAAAClHuc4McmJKvhYyRui/UJu`

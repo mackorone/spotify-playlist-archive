@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 151316,
+  "num_followers": 151464,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
         "name": "PAPOTA",
         "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
       },
@@ -999,38 +1015,6 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 220101,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176159,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
     },
     {
       "added_at": "2025-11-07 17:17:08",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 210054,
-      "name": "Everything Is Peaceful Love",
-      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
         "name": "Ego Death At A Bachelorette Party",
         "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 201372,
       "name": "Mirtazapine",
       "url": "https://open.spotify.com/track/4pwhlpE65Y1vzWLYvbPpic"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
     },
     {
       "added_at": "2025-11-07 17:17:08",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
-        "name": "Lachryma",
-        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Lachryma",
-      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
         "name": "NAIKI",
         "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 145714,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
+        "name": "Lachryma",
+        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
     },
     {
       "added_at": "2025-11-07 17:17:08",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 236635,
-      "name": "KISSING IN PUBLIC",
-      "url": "https://open.spotify.com/track/6sJR82bgpwFPjzB1DHzGw8"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 146933,
       "name": "BIRDS",
       "url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 236635,
+      "name": "KISSING IN PUBLIC",
+      "url": "https://open.spotify.com/track/6sJR82bgpwFPjzB1DHzGw8"
     },
     {
       "added_at": "2025-11-07 17:17:08",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 245435,
+      "name": "Happy Mistake",
+      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
         "name": "Dollar A Day",
         "url": "https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd"
       },
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 245435,
-      "name": "Happy Mistake",
-      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
         "name": "SPACE INVADER",
         "url": "https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL"
       },
@@ -1771,6 +1771,22 @@
       "duration_ms": 274302,
       "name": "SPACE INVADER",
       "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 129629,
+      "name": "VOLTAGE",
+      "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
     },
     {
       "added_at": "2025-11-07 17:17:08",
@@ -1795,22 +1811,6 @@
       "duration_ms": 221894,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
-        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
-        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 129629,
-      "name": "VOLTAGE",
-      "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
     },
     {
       "added_at": "2025-11-07 17:17:08",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
-        "name": "Reconstruction",
-        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 175888,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 318121,
       "name": "Overqualified",
       "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
+        "name": "Reconstruction",
+        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 175888,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts"
     },
     {
       "added_at": "2025-11-07 17:17:08",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2025-11-07 17:17:08",
       "album": {
+        "name": "Sad And Beautiful World",
+        "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 358368,
+      "name": "Beautiful Strangers",
+      "url": "https://open.spotify.com/track/3JCNSJUl4zyugzIdf6y71n"
+    },
+    {
+      "added_at": "2025-11-07 17:17:08",
+      "album": {
         "name": "Sin Rodeos",
         "url": "https://open.spotify.com/album/7nJKLhhZcVY9bFcBY4JNE4"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 175363,
       "name": "A Ella",
       "url": "https://open.spotify.com/track/1I88XGUqtzp4GhlxkeSMQr"
-    },
-    {
-      "added_at": "2025-11-07 17:17:08",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
-        }
-      ],
-      "duration_ms": 203405,
-      "name": "Four",
-      "url": "https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg"
     }
   ],
   "unique_name": "The GRAMMYs Official Playlist",

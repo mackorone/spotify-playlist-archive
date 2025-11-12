@@ -1,6 +1,6 @@
 {
   "description": "A trip down pop's memory lane.",
-  "num_followers": 545039,
+  "num_followers": 545042,
   "original_name": "Classic Pop Picks",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,22 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+        "name": "Mail on Sunday",
+        "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+      "duration_ms": 231400,
+      "name": "Low (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -195,22 +199,18 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Mail on Sunday",
-        "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 231400,
-      "name": "Low (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
-    },
-    {
-      "added_at": "2024-03-27 15:56:13",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -463,22 +447,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2024-03-27 15:56:13",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -503,6 +471,38 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
+    },
+    {
+      "added_at": "2024-03-27 15:56:13",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
+    },
+    {
+      "added_at": "2024-03-27 15:56:13",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -651,8 +651,8 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -735,8 +735,8 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81"
+    },
+    {
+      "added_at": "2024-03-27 15:56:13",
+      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 269493,
       "name": "OMG (feat. will.i.am)",
       "url": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
-    },
-    {
-      "added_at": "2024-03-27 15:56:13",
-      "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/0yac0FPhLRH9i9lOng3f81"
     },
     {
       "added_at": "2024-03-27 15:56:13",

@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 170000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/38GHW30hLw28Noczz5ALKg"
@@ -4232,6 +4232,24 @@
       "duration_ms": 134606,
       "name": "The Golden Path",
       "url": "https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn"
+    },
+    {
+      "album": {
+        "name": "The Golden Willow",
+        "url": "https://open.spotify.com/album/7f6XwQ54is0lkfZkLpeyT0"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158255,
+      "name": "The Golden Willow",
+      "url": "https://open.spotify.com/track/7H4vDTB3gLpuSZAmDdMFbA"
     },
     {
       "album": {

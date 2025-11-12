@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 321883,
+  "num_followers": 322012,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAa46+/C7LjDtJ8cg/4Z740",
+  "snapshot_id": "aRErAAAAAAAhCP5TQolic59ESaAwk8+A",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 149669,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
         "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 198426,
       "name": "Don't Want To (with Keith Urban)",
       "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie IV",
-        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
-      },
-      "artists": [
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197343,
-      "name": "My Only Enemy",
-      "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
         "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 193880,
       "name": "Past Yesterday (with Skylar Grey)",
       "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie IV",
+        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
+      },
+      "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197343,
+      "name": "My Only Enemy",
+      "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
     },
     {
       "added_at": null,

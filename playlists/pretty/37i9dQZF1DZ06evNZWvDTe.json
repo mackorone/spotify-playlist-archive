@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13438,
+  "num_followers": 13443,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABM96jXcNeaUJN+t4u/uRj0",
+  "snapshot_id": "aRErAAAAAADk1tqc+f09ZfT+e/3K6NVi",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adonai (Remix) [feat. Castro]",
-        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
-        }
-      ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix) [feat. Castro]",
-      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adonai (Remix) [feat. Castro]",
+        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
+        }
+      ],
+      "duration_ms": 288130,
+      "name": "Adonai (Remix) [feat. Castro]",
+      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
         "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 195555,
       "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
       "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jamz",
+        "url": "https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 206077,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0CE5rrrM0UqlbtVzDb4kTT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 207761,
       "name": "Rollies and Cigars",
       "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hope (Brighter Day)",
-        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 316421,
-      "name": "Hope (Brighter Day)",
-      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jamz",
-        "url": "https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp"
+        "name": "Hope (Brighter Day)",
+        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
       },
       "artists": [
         {
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 206077,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/0CE5rrrM0UqlbtVzDb4kTT"
+      "duration_ms": 316421,
+      "name": "Hope (Brighter Day)",
+      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
     },
     {
       "added_at": null,
@@ -999,22 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disturbation",
-        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
+        "name": "Oluwa Ni (Wemi You)",
+        "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
       },
       "artists": [
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 223883,
-      "name": "Confirm (feat. Sarkodie) - Remix",
-      "url": "https://open.spotify.com/track/5faNR7l2oKzCAh9Hpnjnxg"
+      "duration_ms": 197467,
+      "name": "Oluwa Ni (Wemi You)",
+      "url": "https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W"
     }
   ],
   "unique_name": "This Is Sarkodie",

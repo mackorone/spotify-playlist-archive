@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 215261,
       "name": "25",
       "url": "https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 262948,
       "name": "Bring Me My Horse",
       "url": "https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f"
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Watercress",
+        "url": "https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195040,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1"
+    },
+    {
+      "album": {
         "name": "Do You Want To Be Honest?",
         "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
@@ -662,6 +680,24 @@
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/2Bw4yItttk3AbNpgCxecrh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244367,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/601duPbqge25OtknrrS99N"
     },
     {
       "album": {
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 145185,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ"
@@ -1172,6 +1208,24 @@
       "duration_ms": 194675,
       "name": "Last Forever - Acoustic",
       "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+    },
+    {
+      "album": {
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Last Goodbyes",
+      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
     },
     {
       "album": {
@@ -1770,7 +1824,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
@@ -1792,6 +1846,24 @@
       "duration_ms": 155947,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
+    },
+    {
+      "album": {
+        "name": "Romeo & Julia",
+        "url": "https://open.spotify.com/album/3xuoSZmnVBiW2ZrIt3DuF4"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149028,
+      "name": "Romeo & Julia",
+      "url": "https://open.spotify.com/track/4HSLqHcwaj5clHCrXfmp0B"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,648 likes - 42 songs - 2 hr 27 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,651 likes - 42 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

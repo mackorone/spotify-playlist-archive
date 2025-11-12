@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-312 songs - 17 hr 58 min
+313 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Love No Other](https://open.spotify.com/track/6YO8Co43WvQ3ziqqfvdBmc) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [The Message](https://open.spotify.com/album/06yILDavdcbbvqqELnMOYX) | 3:15 | 2024-09-26 | 2024-11-08 |
 | [Lucky Star](https://open.spotify.com/track/0dyKAdVxw1ZR4Dm7ubUJmF) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lucky Star](https://open.spotify.com/album/1jBCW2wlEWOJ2UGFEqR8qS) | 4:44 | 2024-08-15 | 2024-11-08 |
 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 | 2025-05-30 |
-| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 |  |
+| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-11-12 |
 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:34 | 2025-02-13 | 2025-05-03 |
 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 | 2025-02-13 |  |
 | [Mazda Familia](https://open.spotify.com/track/2OCU63YuZVNuBZa8IDO99J) | [PNC](https://open.spotify.com/artist/1vxEjlZ4EHSA2lMheggLuS) | [Mazda Familia](https://open.spotify.com/album/6AE3UHZ98oYeENhRlZAtc7) | 3:08 | 2024-05-20 | 2024-11-08 |
@@ -249,6 +249,7 @@
 | [Russian Roulette](https://open.spotify.com/track/15FlGj5TdFqPgKFwEnKDOm) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Russian Roulette](https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs) | 4:39 | 2025-07-24 |  |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-12 |  |
 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 | 2025-05-08 | 2025-09-12 |
+| [Same as before](https://open.spotify.com/track/64tuUEMv7BZktKqZ3U2hKl) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [Same as before](https://open.spotify.com/album/03xyc29RWF0WJH028QUkwe) | 2:53 | 2025-11-06 |  |
 | [Screaming In Your Driveway](https://open.spotify.com/track/6ioWmo3bnXNWJLd484Qux4) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Screaming In Your Driveway](https://open.spotify.com/album/3dBrKXxoVbd4nxPH5p6qv5) | 4:12 | 2024-05-20 | 2024-08-16 |
 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 | 2025-08-14 |  |
 | [See No Evil](https://open.spotify.com/track/6yaV16TOXIqxQaa14dZ7Sk) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [See No Evil](https://open.spotify.com/album/5b9U2aOIhQ6OBYfL7cm6Ef) | 2:21 | 2024-08-15 | 2024-11-08 |

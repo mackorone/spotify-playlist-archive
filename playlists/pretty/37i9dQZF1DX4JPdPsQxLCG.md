@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,480 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,480 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 28 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 29 | [Harvest Moon](https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 5:03 |
 | 30 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
-| 31 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
+| 31 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
 | 32 | [When the Night Feels My Song](https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh) | 3:07 |
-| 33 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
+| 33 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
 | 34 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:06 |
 | 35 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 |
 | 36 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 50 | [Too Late Now](https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:29 |
 | 51 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
 | 52 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
-| 53 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
-| 54 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 |
+| 53 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 |
+| 54 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 55 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 56 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 | 57 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
-| 58 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
-| 59 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5) | 2:49 |
-| 60 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
-| 61 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
-| 62 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
+| 58 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
+| 59 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
+| 60 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5) | 2:49 |
+| 61 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
+| 62 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
 | 63 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 |
 | 64 | [The Bridge](https://open.spotify.com/track/24jaYO61YocxAaD00zmNTM) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [The Bridge](https://open.spotify.com/album/5jybWpBPGtgDzGftITHCjv) | 3:04 |
 | 65 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 72 | [All Is Well](https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [All Is Well](https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka) | 3:15 |
 | 73 | [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 |
 | 74 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 |
-| 75 | [Goldie Montana](https://open.spotify.com/track/5vKml30abCjY2IAlborIm2) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Montana](https://open.spotify.com/album/1yU6oeWp9QFRGZO4hwRQYk) | 4:05 |
+| 75 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
 
 Snapshot ID: `AAAAAB1Yz3tjhpVhZISw2vLjecwdJ+gK`

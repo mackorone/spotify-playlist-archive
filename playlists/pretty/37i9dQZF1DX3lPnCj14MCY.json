@@ -1,6 +1,6 @@
 {
   "description": "Embrace all colours with your favourite anthems. \"Let's have a kiki!\"",
-  "num_followers": 39546,
+  "num_followers": 39552,
   "original_name": "Rainbow Mix",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 269696,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "True Confessions (Collector's Edition)",
-        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 229164,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1039,18 +1039,34 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1091,22 +1107,6 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Ta-Dah",
-        "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "I Don't Feel Like Dancin'",
-      "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 407053,
       "name": "Hot Stuff - 12\" Version",
       "url": "https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Ta-Dah",
+        "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "I Don't Feel Like Dancin'",
+      "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "ZITTI E BUONI",
-        "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 192654,
-      "name": "ZITTI E BUONI",
-      "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 255760,
       "name": "Conga",
       "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "ZITTI E BUONI",
+        "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 192654,
+      "name": "ZITTI E BUONI",
+      "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1440,7 +1440,7 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 231560,
+      "duration_ms": 370426,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
     },

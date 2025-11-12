@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,120 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,114 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 16 | [Heart On Ice](https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:25 |
 | 17 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
 | 18 | [Hairclips](https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Hairclips](https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx) | 3:04 |
-| 19 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
-| 20 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
+| 19 | [FVN 07: Afraid I'll Change](https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Failed Voice Notes](https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe) | 3:13 |
+| 20 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
 | 21 | [Deja Vu](https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Deja Vu](https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL) | 2:09 |
-| 22 | [FVN 07: Afraid I'll Change](https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Failed Voice Notes](https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe) | 3:13 |
+| 22 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
 | 23 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
 | 24 | [Pain Interlude](https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7) | [Tskinz](https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap) | [Pain Interlude](https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF) | 1:08 |
 | 25 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 40 | [Nothing's Changed](https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Nothing's Changed](https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS) | 2:39 |
 | 41 | [Different Man](https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 2:41 |
 | 42 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
-| 43 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |
-| 44 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
+| 43 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
+| 44 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |
 | 45 | [The Jam](https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0) | [Stylistic Murder](https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s), [Cam One](https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF) | [The Jam](https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F) | 2:39 |
 | 46 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
 | 47 | [Red Flags](https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Red Flags](https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs) | 2:47 |

@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 79344,
+  "num_followers": 79371,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2025-09-15 14:00:12",
       "album": {
+        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
+        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Pavel Haas Quartet",
+          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
+        }
+      ],
+      "duration_ms": 642333,
+      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: IV. Finale. Andante sostenuto - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/58UGcmPEL1BGmDwkaZsBwH"
+    },
+    {
+      "added_at": "2025-09-15 14:00:12",
+      "album": {
         "name": "Dvorak: The 9 Symphonies",
         "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 668306,
       "name": "Symphony No. 1 in C Minor, Op. 3, B. 9 - \"The Bells of Zlonice\": II. Adagio di molto",
       "url": "https://open.spotify.com/track/6S5oOvLf2lTSjVq8Y0KVvD"
-    },
-    {
-      "added_at": "2025-09-15 14:00:12",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
-        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Pavel Haas Quartet",
-          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
-        }
-      ],
-      "duration_ms": 642333,
-      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: IV. Finale. Andante sostenuto - Allegro con fuoco",
-      "url": "https://open.spotify.com/track/58UGcmPEL1BGmDwkaZsBwH"
     },
     {
       "added_at": "2025-09-15 14:00:12",
@@ -891,30 +891,6 @@
     {
       "added_at": "2025-09-15 14:00:12",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Legends Op. 59, Czech Suite Op. 39",
-        "url": "https://open.spotify.com/album/38zC1vOcW19QnBw0HHf7OV"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Cristian M\u0103celaru",
-          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
-        },
-        {
-          "name": "WDR Sinfonieorchester",
-          "url": "https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97"
-        }
-      ],
-      "duration_ms": 347030,
-      "name": "Legends, Op. 59, B. 122: VI. Allegro con moto",
-      "url": "https://open.spotify.com/track/5ppkIsSbPxRLb8h8dPo7Ru"
-    },
-    {
-      "added_at": "2025-09-15 14:00:12",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Complet Symphonies - Legends - Slavonic Dances & Czech Suite",
         "url": "https://open.spotify.com/album/4X8vf4EUAyDC5NVNRTg8dN"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 654533,
       "name": "Dvo\u0159\u00e1k: Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": II. Largo",
       "url": "https://open.spotify.com/track/2BHzcjxnVIX0ja3XI5ZfSB"
+    },
+    {
+      "added_at": "2025-09-15 14:00:12",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Legends Op. 59, Czech Suite Op. 39",
+        "url": "https://open.spotify.com/album/38zC1vOcW19QnBw0HHf7OV"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        },
+        {
+          "name": "WDR Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97"
+        }
+      ],
+      "duration_ms": 347030,
+      "name": "Legends, Op. 59, B. 122: VI. Allegro con moto",
+      "url": "https://open.spotify.com/track/5ppkIsSbPxRLb8h8dPo7Ru"
     },
     {
       "added_at": "2025-09-15 14:00:12",

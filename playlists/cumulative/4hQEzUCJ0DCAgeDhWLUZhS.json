@@ -8557,6 +8557,24 @@
     },
     {
       "album": {
+        "name": "The Wreckage",
+        "url": "https://open.spotify.com/album/3mdtLYpOLXesjwFVxvjVAZ"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268378,
+      "name": "The Wreckage",
+      "url": "https://open.spotify.com/track/4UG5A6MoilYGC9Ii1s3LnL"
+    },
+    {
+      "album": {
         "name": "The Writing On The Wall",
         "url": "https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN"
       },

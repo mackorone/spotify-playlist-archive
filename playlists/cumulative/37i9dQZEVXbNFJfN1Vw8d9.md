@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,581 songs - 3 day 14 hr 3 min
+1,582 songs - 3 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [BADGYAL](https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:13 | 2024-04-27 | 2024-12-25 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-06-10 |
 | [Bailando Bachata](https://open.spotify.com/track/2dK99lWPkBVwNen6gK1AtI) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailemos Otra Vez](https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI) | 2:50 | 2024-05-12 | 2024-06-03 |
-| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-06 |  |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-06 | 2025-11-12 |
 | [Baja Pa' Acá](https://open.spotify.com/track/3HCcfBsa4TdiC0so0fPnRi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:20 | 2024-11-16 | 2024-11-21 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-04-06 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-05-08 |
@@ -1169,6 +1169,7 @@
 | [QUE HABILIDAD](https://open.spotify.com/track/1IidViHpUaEASL36jjPsK0) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:53 | 2022-11-05 | 2022-11-11 |
 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-05-17 | 2025-05-19 |
 | [Que Me Lleve el Aire](https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Que Me Lleve el Aire](https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm) | 2:50 | 2024-10-09 | 2024-10-18 |
+| [Que Sensación \- Remix](https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Que Sensación \(Remix\)](https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ) | 2:34 | 2025-11-11 |  |
 | [Que te vaya bien](https://open.spotify.com/track/63lpWMzGpcjpN9DGoDbl7W) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Que te vaya bien](https://open.spotify.com/album/1iIi4atC1br3SvGbIK2Wzg) | 3:24 | 2023-04-22 | 2023-06-08 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-05-15 | 2023-05-18 |
 | [Quemando Calorías](https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:02 | 2022-09-15 | 2022-09-17 |

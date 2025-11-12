@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover: sudan",
+  "description": "Most exciting artists from the Indian Indie scene. Cover: Aanchal Tyagi",
   "name": "RADAR India",
   "tracks": [
     {
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 167903,
       "name": "Ishaare",
       "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
@@ -4654,6 +4654,32 @@
       "duration_ms": 224090,
       "name": "Nasamjhi",
       "url": "https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr"
+    },
+    {
+      "album": {
+        "name": "Nasha",
+        "url": "https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        },
+        {
+          "name": "Dronark",
+          "url": "https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Nasha",
+      "url": "https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt"
     },
     {
       "album": {

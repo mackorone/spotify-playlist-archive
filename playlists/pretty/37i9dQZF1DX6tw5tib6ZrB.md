@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Shane Eagle, Digga D, Sexxy Red and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,790 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,803 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

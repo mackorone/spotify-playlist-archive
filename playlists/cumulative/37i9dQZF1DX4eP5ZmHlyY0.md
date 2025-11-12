@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: YEONJUN
 
-790 songs - 1 day 19 hr 20 min
+792 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [GET STUPID](https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [GET STUPID](https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7) | 2:40 | 2024-06-18 | 2024-06-26 |
 | [Get Wild](https://open.spotify.com/track/4IDWkk8s12B50Ksb4aS87W) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Get Wild](https://open.spotify.com/album/54og7pfmDGwwaVrROP2aiL) | 2:58 | 2025-03-06 | 2025-04-07 |
 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2025-03-06 | 2025-03-24 |
-| [GHOST](https://open.spotify.com/track/4FmajtNhF2DlWRe9soinXN) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [GHOST](https://open.spotify.com/album/3P0KCz0vPQnJoXjy3wGhOG) | 3:33 | 2025-10-07 |  |
+| [GHOST](https://open.spotify.com/track/4FmajtNhF2DlWRe9soinXN) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [GHOST](https://open.spotify.com/album/3P0KCz0vPQnJoXjy3wGhOG) | 3:33 | 2025-10-07 | 2025-11-12 |
 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 | 2024-11-12 | 2025-03-20 |
 | [GIANT \(Korean Version\)](https://open.spotify.com/track/157BWJSAbWf72tNvC1P1kv) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 2:53 | 2025-03-20 | 2025-06-11 |
 | [Gifted\. \- Orchestra ver.](https://open.spotify.com/track/6eVpSSlmikGCpP6gdt0FnH) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Gifted\. \-Orchestra ver.\-](https://open.spotify.com/album/0k3aV68FkJd7YOMlteL4WD) | 3:51 | 2024-03-26 | 2024-05-01 |
@@ -370,7 +370,7 @@
 | [LOVE / HATE](https://open.spotify.com/track/08nRL1drNzWuYvxfTplhgS) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [LOVE / HATE](https://open.spotify.com/album/4ZGFTkABqgi5LofCHOWVDc) | 2:22 | 2025-01-14 | 2025-04-03 |
 | [Love 119 \- Japanese Version](https://open.spotify.com/track/5Gw3SiNinRr4kY8FxKl7Dm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119 \(Japanese Version\)](https://open.spotify.com/album/40zoR4FnNilJl5gK2qzjCg) | 2:53 | 2024-01-24 | 2024-01-29 |
 | [Love Fire](https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE Ⅱ](https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO) | 3:11 | 2024-04-02 | 2024-07-27 |
-| [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 | 2025-07-17 |  |
+| [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 | 2025-07-17 | 2025-11-12 |
 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 | 2025-05-02 | 2025-06-02 |
 | [LOVE RACE](https://open.spotify.com/track/4v0Gi15gE9l5KBV4DR2abo) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [LOVE RACE](https://open.spotify.com/album/1S3hm1VJcpSb6CkDtw4mTA) | 2:58 | 2025-03-11 | 2025-05-16 |
 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 | 2024-05-14 | 2024-10-02 |
@@ -624,6 +624,7 @@
 | [The Stranger](https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY IDENTITY](https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK) | 3:03 | 2025-03-06 | 2025-04-21 |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-05-26 |  |
 | [Tick\-Tack](https://open.spotify.com/track/3BNpzwhcHzHbn2c0Ymmzib) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/0QL5RbXpEomD15jDSbTkr5) | 2:49 | 2025-04-08 | 2025-05-07 |
+| [Tiger](https://open.spotify.com/track/0gNPZeBRc7Yal1BlDKc8we) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Unit Digital Single \[Tiger\]](https://open.spotify.com/album/3ld4YGGgl5gLB0rfkm20ma) | 2:52 | 2025-11-11 |  |
 | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K) | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1) | 3:02 | 2025-07-01 | 2025-07-09 |
 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-04-24 | 2025-09-19 |
 | [TIME MACHINE](https://open.spotify.com/track/5NRkJih2PxdvMS8Bz3qA7q) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [TIME MACHINE](https://open.spotify.com/album/1GbvjB3ehllvBn31u6Iaer) | 3:35 | 2025-05-01 | 2025-06-29 |
@@ -694,6 +695,7 @@
 | [Would You Like One?](https://open.spotify.com/track/4Fo6du4dMMqN72B3c9Dfea) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Would You Like One?](https://open.spotify.com/album/58FTaiaiSiLosIevaONenR) | 3:13 | 2025-06-02 | 2025-06-04 |
 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 | 2024-10-01 | 2025-03-07 |
 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 | 2024-01-19 | 2024-03-17 |
+| [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 | 2025-11-11 |  |
 | [X](https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [5x](https://open.spotify.com/album/549FaK4UMSSCdbxKVLWaYL) | 2:51 | 2025-06-28 | 2025-09-22 |
 | [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 | 2025-03-06 | 2025-09-01 |
 | [YG](https://open.spotify.com/track/69DgzXRvRI0YHz6UBv6vjK) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [YG](https://open.spotify.com/album/2UjkJVkg3KwglkkzGvRMWo) | 3:52 | 2024-06-12 | 2024-06-19 |

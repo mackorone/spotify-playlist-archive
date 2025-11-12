@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,295,651 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,295,586 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 52 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 53 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
 | 54 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
-| 55 | [Gimme Time](https://open.spotify.com/track/1Pf68BJogLxb58x8qfyGV6) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Gimme Time](https://open.spotify.com/album/5rY6nSDLQiATueGGsey3sX) | 3:52 |
-| 56 | [Cell Phone Says](https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 2:38 |
+| 55 | [Cell Phone Says](https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 2:38 |
+| 56 | [Gimme Time](https://open.spotify.com/track/1Pf68BJogLxb58x8qfyGV6) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Gimme Time](https://open.spotify.com/album/5rY6nSDLQiATueGGsey3sX) | 3:52 |
 | 57 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 58 | [Pieces of My Heart](https://open.spotify.com/track/3ynLyAD1uNeXxm47XarUwD) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Michelangelo Dying](https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho) | 3:39 |
 | 59 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |

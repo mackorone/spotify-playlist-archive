@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,917 likes - 60 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,975 likes - 60 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 50 | [Contemporary Insanity](https://open.spotify.com/track/5nlzy7UuII3tv8jPV2JiLo) | [Happy the Man](https://open.spotify.com/artist/6aJOdlEvn7AFJTHCLZTwJH) | [The Muse Awakens](https://open.spotify.com/album/56MxFDtd5NhmmGBzbNmc0I) | 3:24 |
 | 51 | [Inca Roads](https://open.spotify.com/track/0txIkFgdvURMOn35C2fvI3) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [One Size Fits All](https://open.spotify.com/album/4mp2SC1Wq9jZJINGPAKv0V) | 8:45 |
 | 52 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 |
-| 53 | [The Passage of Time](https://open.spotify.com/track/0VqKNoxYKpZjfEGc3rVFY8) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v) | [LTE3 \(Deluxe Edition\)](https://open.spotify.com/album/6GDFV4kWsQDYuah6tSqmu2) | 7:33 |
+| 53 | [The Passage of Time](https://open.spotify.com/track/0VqKNoxYKpZjfEGc3rVFY8) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v) | [LTE3 \(Deluxe Edition\)](https://open.spotify.com/album/6GDFV4kWsQDYuah6tSqmu2) | 7:32 |
 | 54 | [Nine Feet Underground \- Medley](https://open.spotify.com/track/0Y4Qokp46GcqB9aXX2nFNZ) | [Caravan](https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s) | [In The Land Of Grey And Pink](https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd) | 22:44 |
 | 55 | [Red](https://open.spotify.com/track/2ROj14ZhKchHWBMtzwzo0i) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/13dGZzRzFoejmyVXAbTPAH) | 6:15 |
 | 56 | [Theme One \- Original Version / 2005 Remaster](https://open.spotify.com/track/5laKMHPXWIIJMsuMhSgnwV) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [Pawn Hearts](https://open.spotify.com/album/5Lrsef2F6ZHNC5yIUEJouw) | 3:15 |

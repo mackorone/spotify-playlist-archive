@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644 likes - 195 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 195 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 46 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
 | 47 | [Thin White Lies](https://open.spotify.com/track/4t4OlapTFToGpFKOldh5S2) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:02 |
 | 48 | [OKLOSER](https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 2:49 |
-| 49 | [BUTTERFLIES](https://open.spotify.com/track/5cfsQZEFf1IpQr8F9vI9le) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:13 |
-| 50 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
+| 49 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
+| 50 | [BUTTERFLIES](https://open.spotify.com/track/5cfsQZEFf1IpQr8F9vI9le) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:13 |
 | 51 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 |
 | 52 | [Moonwalk](https://open.spotify.com/track/0bJQ2EJndGgy6gN63wSHty) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Father Figure 3: Somewhere Out There](https://open.spotify.com/album/0vXeeb0BRZOZqkfARsPNA3) | 2:46 |
 | 53 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
@@ -135,9 +135,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 125 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
 | 126 | [Personally](https://open.spotify.com/track/0j3tmysUmOvbXno7km0T2T) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:31 |
 | 127 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 |
-| 128 | [Hot Shit](https://open.spotify.com/track/4bzKnckkoLhwvTtWV3nir9) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:39 |
-| 129 | [SAFE SPACE](https://open.spotify.com/track/1xwa32HgXQvkRxVTB2qP0U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:14 |
-| 130 | [LYIN'](https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:06 |
+| 128 | [SAFE SPACE](https://open.spotify.com/track/1xwa32HgXQvkRxVTB2qP0U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:14 |
+| 129 | [LYIN'](https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:06 |
+| 130 | [Hot Shit](https://open.spotify.com/track/4bzKnckkoLhwvTtWV3nir9) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:39 |
 | 131 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
 | 132 | [OPEN UP YOUR HEART](https://open.spotify.com/track/5FnykXoSCz0wKihfEujJRl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:34 |
 | 133 | [Boy Bye](https://open.spotify.com/track/7hkG66i9EGLFPLlQuMd2U4) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 3:25 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 194 | [Trampoline](https://open.spotify.com/track/7p5jd7xEbVLwtuQQBKQhck) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [Trampoline](https://open.spotify.com/album/6Yc22hJMoAe01X3hzGkug5) | 3:17 |
 | 195 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcBPngAAAADssiKDE4pSoGfhFjrapLoO`
+Snapshot ID: `AcBVegAAAAA2IbVfFCj+LoBeB+0TN/2V`

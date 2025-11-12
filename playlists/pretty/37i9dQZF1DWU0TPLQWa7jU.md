@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,089 likes - 56 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,091 likes - 56 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 13 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |
 | 14 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
 | 15 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
-| 16 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
-| 17 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
+| 16 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
+| 17 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
 | 18 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
 | 19 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 20 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |

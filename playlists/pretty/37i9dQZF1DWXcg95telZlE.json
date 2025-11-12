@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 429253,
+  "num_followers": 429360,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Flying Platters Around The World",
-        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Twilight Time - Single Version",
-      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Ricky Sings Again (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 134040,
       "name": "Lonesome Town",
       "url": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Flying Platters Around The World",
+        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Twilight Time - Single Version",
+      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Sarah Vaughan Sings George Gershwin",
-        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 246161,
-      "name": "I've Got A Crush On You",
-      "url": "https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "In The Wee Small Hours",
         "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 210066,
       "name": "Mood Indigo - Remastered 1998",
       "url": "https://open.spotify.com/track/2LuKtTtotMk41MxesmjCdR"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Sarah Vaughan Sings George Gershwin",
+        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 246161,
+      "name": "I've Got A Crush On You",
+      "url": "https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Magic Of Malcolm Vaughan",
-        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
+        "name": "Presenting Don Cornell",
+        "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
         }
       ],
-      "duration_ms": 172133,
-      "name": "St Therese of the Roses",
-      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+      "duration_ms": 169200,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Presenting Don Cornell",
-        "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
+        "name": "The Magic Of Malcolm Vaughan",
+        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
       },
       "artists": [
         {
-          "name": "Don Cornell",
-          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
+      "duration_ms": 172133,
+      "name": "St Therese of the Roses",
+      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Golden Hits Collection",
         "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 157360,
       "name": "The Great Pretender",
       "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Platters Golden Hits",
         "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 154200,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 168706,
       "name": "True Love Ways",
       "url": "https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Rockin' Gals Of The 1950's",
         "url": "https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 183573,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
     },
     {
       "added_at": "2022-05-30 12:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2025! \(WONDERLIVET 2025의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,324 likes - 84 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,345 likes - 84 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 56 | [全力少年](https://open.spotify.com/track/3Ztjw8utVpcrzms1RrsJvR) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [空創クリップ](https://open.spotify.com/album/1FNUB07yBe3CJwXUQQoOdh) | 4:32 |
 | 57 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 |
 | 58 | [Gradation](https://open.spotify.com/track/2SVVvS6o2eA5ZYfqmuxLDh) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4rFhc7tA2BtnE8geA7raXo) | 3:21 |
-| 59 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 |
+| 59 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue \(캔트비블루\)](https://open.spotify.com/artist/7aOYQbC08adgXPAyMAVqJP) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 |
 | 60 | [사랑이라 했던 말 속에서](https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [사랑이라 했던 말 속에서](https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK) | 3:19 |
 | 61 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 |
 | 62 | [rose \- feat\. Vaundy](https://open.spotify.com/track/1GHRempxln5XiNEYYvPz7f) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [rose \(feat\. Vaundy\)](https://open.spotify.com/album/4dF1UtRhD4zW3w0h6MXerB) | 3:07 |

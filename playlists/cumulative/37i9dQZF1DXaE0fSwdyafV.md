@@ -4,7 +4,7 @@
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-173 songs - 10 hr 58 min
+174 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2023-07-11 | 2024-07-27 |
 | [Back in the 90's](https://open.spotify.com/track/5d4ERnrRRe9o4I7aFLFTvP) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [BoJack Horseman \(Music from the Netflix Original Series\)](https://open.spotify.com/album/1TCONwUgvvjqSYJFPUCUTW) | 0:43 | 2024-03-22 | 2024-07-27 |
 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 | 2023-07-11 |  |
+| [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 | 2025-10-30 |  |
 | [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 | 2023-07-11 | 2024-04-19 |
 | [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:21 | 2024-03-22 | 2024-07-27 |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2023-07-11 | 2024-04-19 |
@@ -155,7 +156,7 @@
 | [The Ballad of the Witches' Road \(Pop Version\) \- From "Agatha All Along"/Soundtrack Version](https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [The Ballad of the Witches' Road \(Pop Version\) \[From "Agatha All Along"\]](https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm) | 2:31 | 2024-10-21 | 2025-10-28 |
 | [The Ballad of the Witches' Road \(Sacred Chant Version\)](https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg) | [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Sasheer Zamata](https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ), [Ali Ahn](https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X), [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944), [Debra Jo Rupp](https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo), [Agatha All Along \- Cast](https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 3:17 | 2024-10-01 |  |
 | [the fruits](https://open.spotify.com/track/58VTP6KnZs12PcAj5rMJ4W) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the fruits](https://open.spotify.com/album/48ssTnnFOCIP17sRaFNqu1) | 3:29 | 2023-07-11 |  |
-| [The Hanging Tree](https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Hanging Tree](https://open.spotify.com/album/2CuwE8reOOjtnd9bHLtDD0) | 2:51 | 2025-10-27 |  |
+| [The Hanging Tree](https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Hanging Tree](https://open.spotify.com/album/2CuwE8reOOjtnd9bHLtDD0) | 2:51 | 2025-10-27 | 2025-11-12 |
 | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn) | 3:53 | 2024-11-15 |  |
 | [The Trees They Do Grow High](https://open.spotify.com/track/2h0Zp9QzFMDUy2vUHvzZvK) | [ØXN](https://open.spotify.com/artist/09nPZTiGMozpSfECdShjZz) | [CYRM](https://open.spotify.com/album/7KBKojoN6AMpr5iQzKd2qD) | 7:47 | 2025-10-27 |  |
 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 | 2024-07-23 |  |

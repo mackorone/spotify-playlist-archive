@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4726,
+  "num_followers": 4727,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACQH1nlMeD9/UMoZH/Kduvt",
+  "snapshot_id": "aRErAAAAAAA3WN9aiovM7i9/iY+/UH8u",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 187226,
       "name": "Mi Ciudad Es Fresca",
       "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 201804,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
     },
     {
       "added_at": null,
@@ -580,37 +580,17 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Mi Castigo",
-      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
-          "name": "Gambeta",
-          "url": "https://open.spotify.com/artist/0NondYskkFto74mrICHYR4"
-        },
-        {
-          "name": "Piel Roja",
-          "url": "https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq"
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
         }
       ],
-      "duration_ms": 224071,
-      "name": "Colombianos World Wide",
-      "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
+      "duration_ms": 240529,
+      "name": "Siempre Recuerdos",
+      "url": "https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc"
     },
     {
       "added_at": null,
@@ -635,6 +615,30 @@
       "duration_ms": 212980,
       "name": "Yo Quise",
       "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Gambeta",
+          "url": "https://open.spotify.com/artist/0NondYskkFto74mrICHYR4"
+        },
+        {
+          "name": "Piel Roja",
+          "url": "https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq"
+        }
+      ],
+      "duration_ms": 224071,
+      "name": "Colombianos World Wide",
+      "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
     },
     {
       "added_at": null,
@@ -672,17 +676,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
         }
       ],
-      "duration_ms": 240529,
-      "name": "Siempre Recuerdos",
-      "url": "https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc"
+      "duration_ms": 181120,
+      "name": "Mi Castigo",
+      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
     },
     {
       "added_at": null,

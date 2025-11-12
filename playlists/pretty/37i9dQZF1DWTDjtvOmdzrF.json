@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562049,
+  "num_followers": 562053,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Walking Back Home",
-        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 132762,
-      "name": "Walking Back Home",
-      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Tuhan Sebut Sia-Sia",
         "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 317453,
       "name": "Tuhan Sebut Sia-Sia",
       "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 132762,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Dia",
-        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
+        "name": "Saktenane (Acoustic Version)",
+        "url": "https://open.spotify.com/album/23USEM1MKRCLJKVXJtr6qr"
       },
       "artists": [
         {
-          "name": "Anji",
-          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        },
+        {
+          "name": "Destya Eka",
+          "url": "https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2"
         }
       ],
-      "duration_ms": 207490,
-      "name": "Dia",
-      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+      "duration_ms": 326000,
+      "name": "Saktenane - Acoustic Version",
+      "url": "https://open.spotify.com/track/04smuF7vPy6v2PQSdigGYV"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Saktenane (Acoustic Version)",
-        "url": "https://open.spotify.com/album/23USEM1MKRCLJKVXJtr6qr"
+        "name": "Dia",
+        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },
       "artists": [
         {
-          "name": "Vadesta",
-          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
-        },
-        {
-          "name": "Destya Eka",
-          "url": "https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2"
+          "name": "Anji",
+          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Saktenane - Acoustic Version",
-      "url": "https://open.spotify.com/track/04smuF7vPy6v2PQSdigGYV"
+      "duration_ms": 207490,
+      "name": "Dia",
+      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Salahkah Aku Terlalu Mencintaimu",
-        "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
-      },
-      "artists": [
-        {
-          "name": "Fatin",
-          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "Salahkah Aku Terlalu Mencintaimu",
-      "url": "https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Sekilas Info",
         "url": "https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 350626,
       "name": "Lagunya Begini, Nadanya Begitu",
       "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Salahkah Aku Terlalu Mencintaimu",
+        "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "Salahkah Aku Terlalu Mencintaimu",
+      "url": "https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv"
     },
     {
       "added_at": "2025-05-05 23:09:10",

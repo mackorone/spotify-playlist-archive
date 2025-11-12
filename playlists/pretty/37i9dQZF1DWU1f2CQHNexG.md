@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Bronski Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,283 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,331 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 25 | [Love My Way](https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Forever Now](https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV) | 3:33 |
 | 26 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
 | 27 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
-| 28 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
-| 29 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
+| 28 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
+| 29 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 30 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 |
 | 31 | [Rock Me Amadeus](https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco 3](https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh) | 3:22 |
 | 32 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 63 | [Always Something There to Remind Me](https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Burning Bridges](https://open.spotify.com/album/6yRpzEmRaZbj1tFD0zYLe8) | 3:38 |
 | 64 | [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 |
 | 65 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 |
-| 66 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/19omiIPoSfj8S1MlqK1aCd) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/6adz3RVhKbyw53pXOXJ83a) | 4:04 |
-| 67 | [Eyes Without A Face](https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM) | 4:59 |
-| 68 | [Pop Muzik \- 12 Inch Version](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M / Robin Scott](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 |
+| 66 | [Pop Muzik \- 12 Inch Version](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M / Robin Scott](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 |
+| 67 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/19omiIPoSfj8S1MlqK1aCd) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/6adz3RVhKbyw53pXOXJ83a) | 4:04 |
+| 68 | [Eyes Without A Face](https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM) | 4:59 |
 | 69 | [Suburbia \- 2001 Remaster](https://open.spotify.com/track/4ETtqOYhgPo9fKKOSQK4vY) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984\-1986](https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F) | 5:07 |
 | 70 | [Echo Beach](https://open.spotify.com/track/2uUHKPZF6W0ayxmdi6HRxa) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Oh Canada!: Rock Hits](https://open.spotify.com/album/04c15XwztwFaHZchwcHSFP) | 3:34 |
 | 71 | [Only You](https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Only Yazoo \- The Best Of](https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM) | 3:12 |

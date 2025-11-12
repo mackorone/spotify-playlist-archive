@@ -5150,7 +5150,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 318620,
       "name": "How Great You Are",
       "url": "https://open.spotify.com/track/2uNdZjm6wWzLap2asj1f1S"
@@ -5332,7 +5332,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 273333,
       "name": "I Di Nma",
       "url": "https://open.spotify.com/track/5Pbsedj5IZKL5ZlrGvi7zg"
@@ -8401,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "My Papa",
+        "url": "https://open.spotify.com/album/0y57n4C6UaDIhNZRFK3fhL"
+      },
+      "artists": [
+        {
+          "name": "Samuel Folabi",
+          "url": "https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390447,
+      "name": "My Papa",
+      "url": "https://open.spotify.com/track/2EZdxvhQQ4TM4bpSCNKJVy"
+    },
+    {
+      "album": {
         "name": "My Prayer",
         "url": "https://open.spotify.com/album/0QfuwQkiU7MXWTwyNZzRDv"
       },
@@ -9288,7 +9306,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 216176,
       "name": "OL\u00d3\u00d2TIT\u00d3 NI \u00d3",
       "url": "https://open.spotify.com/track/13FnhTtUrEIbSxvid3AQgD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,442 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,452 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 18 | [Embrace It \(feat\. Sexyy Red, Flo Milli, RJ Pasin\) \- Remix](https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Embrace It \(Remix\) \(feat\. Sexyy Red, Flo Milli, RJ Pasin\)](https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT) | 3:22 |
 | 19 | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 |
 | 20 | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB) | 2:27 |
-| 21 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:32 |
-| 22 | [Mad at Me](https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:39 |
+| 21 | [Mad at Me](https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:39 |
+| 22 | [I Like It \(feat\. Sexyy Red\)](https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:32 |
 | 23 | [She's Back](https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:42 |
 | 24 | [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 |
-| 25 | [Mami \(feat\. Sexyy Red\)](https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:47 |
-| 26 | [Hellcats SRTs](https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 |
+| 25 | [Hellcats SRTs](https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 |
+| 26 | [Mami \(feat\. Sexyy Red\)](https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:47 |
 | 27 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
 | 28 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 |
 | 29 | [Fake Jammin](https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 |
 | 50 | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:58 |
 
-Snapshot ID: `aQ/ZgAAAAACqIoIpnHqwzUFBBHbj2vwM`
+Snapshot ID: `aRErAAAAAABhaB/bNc+hSSSmk2qD0++m`

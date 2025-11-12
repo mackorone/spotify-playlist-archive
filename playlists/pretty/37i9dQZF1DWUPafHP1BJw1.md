@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,713 likes - 190 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,821 likes - 190 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 182 | [Lose Yourself](https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU) | 3:06 |
 | 183 | [Yesterday Once More](https://open.spotify.com/track/19qP5vtDpeJEcSNb38HiJc) | [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n) | [Yesterday Once More](https://open.spotify.com/album/3yDYZd5HRXPfwR4B7wJl6n) | 3:20 |
 | 184 | [A Sky Full of Stars](https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Uncharted](https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd) | 4:08 |
-| 185 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 |
+| 185 | [No Woman, No Cry \(Arr\. Kanneh\-Mason for Solo Cello\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 |
 | 186 | [Human Nature \(Arr\. R\. Boyd & L\. Metcalf for Cello & Guitar\)](https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s) | [Boyd Meets Girl](https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR) | [Boyd Meets Girl](https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk) | 2:42 |
 | 187 | [Better Days](https://open.spotify.com/track/4yw5GYrOrrJ53yfYuxSCOz) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Better Days](https://open.spotify.com/album/29OyLTZAtJ1URhQlHPDELU) | 4:02 |
 | 188 | [Nothing Else Matters \- Instrumental Version](https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:45 |

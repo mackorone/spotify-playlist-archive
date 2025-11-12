@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 52 min
+105 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,9 @@
 | [北斗七星](https://open.spotify.com/track/39g89cqTVnDGbqt4OVHJRo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 3:54 | 2023-03-19 | 2024-06-09 |
 | [君と僕](https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [スカパラ登場](https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0) | 2:11 | 2023-01-14 |  |
 | [君にサチアレ](https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:10 | 2023-01-14 | 2025-09-18 |
+| [国境の北、オーロラの果て](https://open.spotify.com/track/4liRNu88ctwbWMPRMq4iJw) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Dear My Sister](https://open.spotify.com/album/34uEG1RJN5mB375Y6jDnM2) | 4:50 | 2025-11-12 |  |
 | [多重露光 \- feat.川上洋平](https://open.spotify.com/track/1S29G9NDzS6CTjPeQpyWCd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:13 | 2023-01-14 | 2024-11-04 |
-| [天空橋](https://open.spotify.com/track/5bOYQWLp9r94uILGt8p9B2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Paradise Has NO BORDER](https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ) | 3:57 | 2025-11-09 |  |
+| [天空橋](https://open.spotify.com/track/5bOYQWLp9r94uILGt8p9B2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Paradise Has NO BORDER](https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ) | 3:57 | 2025-11-09 | 2025-11-12 |
 | [太陽と心臓](https://open.spotify.com/track/15jVFXYhmWejl922GsMRO2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [欲望](https://open.spotify.com/album/4PYr4vs7P4lqnSBxV3znHi) | 4:27 | 2023-01-14 | 2023-12-14 |
 | [快哉を叫ぶとき](https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:27 | 2023-01-14 | 2025-11-09 |
 | [愛の讃歌 with strings](https://open.spotify.com/track/04v0jBklO4I1n5DppyqNDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 3:48 | 2023-01-14 | 2024-02-23 |

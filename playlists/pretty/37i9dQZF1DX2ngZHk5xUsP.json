@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu pilihan yang cocok nemenin kamu menuju Bekasi",
-  "num_followers": 21251,
+  "num_followers": 21257,
   "original_name": "Bekasi Jauh, Semangat! ",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
+        "name": "Musafir Anthem",
+        "url": "https://open.spotify.com/album/7rcFEv0Bgv2mlLHkH0aCn6"
+      },
+      "artists": [
+        {
+          "name": "Syarikat Idola Remaja",
+          "url": "https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "Musafir Anthem",
+      "url": "https://open.spotify.com/track/1nPEAW7GDnfAmtWK8Eh4yb"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
         "name": "Our Sincere Desire",
         "url": "https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 203050,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
-        "name": "Musafir Anthem",
-        "url": "https://open.spotify.com/album/7rcFEv0Bgv2mlLHkH0aCn6"
-      },
-      "artists": [
-        {
-          "name": "Syarikat Idola Remaja",
-          "url": "https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "Musafir Anthem",
-      "url": "https://open.spotify.com/track/1nPEAW7GDnfAmtWK8Eh4yb"
     },
     {
       "added_at": "2025-09-26 09:30:14",

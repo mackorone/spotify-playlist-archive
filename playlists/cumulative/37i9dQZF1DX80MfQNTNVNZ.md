@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-614 songs - 1 day 12 hr 9 min
+615 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Decoy](https://open.spotify.com/track/4RkDFAZNUs1APBiiLTMQRh) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Decoy](https://open.spotify.com/album/02U743jQlB4LA8xJLWijQf) | 2:51 | 2022-03-31 | 2022-04-21 |
 | [Defection](https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW) | 4:05 | 2022-03-24 | 2022-07-28 |
 | [Didn't Cha Know](https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [On & On](https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA) | 5:02 | 2023-01-19 | 2024-01-19 |
-| [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 | 2025-07-11 |  |
+| [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 | 2025-07-11 | 2025-11-12 |
 | [Disco Pantz](https://open.spotify.com/track/7JOocpT1H61AgjsIfoAMW5) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Disco Pantz](https://open.spotify.com/album/17RXQxm5hjvPqret5I2t5D) | 2:53 | 2021-12-23 | 2022-07-29 |
 | [DISTRACT ME \- ft\. Jyodan](https://open.spotify.com/track/2LX3FMvSdSxs35reHTtifF) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [DISTRACT ME \(ft\. Jyodan\)](https://open.spotify.com/album/0TCZ8S74pzsyZk4BAZicDV) | 2:33 | 2024-08-25 | 2024-12-01 |
 | [Do It](https://open.spotify.com/track/1cyP2lN6FqZsF8eO1L62Qv) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/1mdlZytWHqyITkGx18A4R0) | 4:18 | 2022-03-31 | 2022-04-21 |
@@ -421,6 +421,7 @@
 | [Seasons \(feat\. Nenashi\)](https://open.spotify.com/track/3IrBRRFdG4aPWAoGllIqHU) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Seasons \(feat\. Nenashi\)](https://open.spotify.com/album/1vHS4sfFRx5XmNiIz07TJO) | 3:25 | 2022-03-24 | 2022-06-18 |
 | [Self Voodoo](https://open.spotify.com/track/3bzXiqsNRSLNBpFNRM4l0a) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Self Voodoo](https://open.spotify.com/album/2etUfe2zN46ky5EFNY4j6T) | 2:49 | 2022-10-27 | 2022-11-21 |
 | [Self Voodoo](https://open.spotify.com/track/7BlWbTMkXIFiIgewaTQqf1) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:49 | 2022-11-17 | 2022-12-09 |
+| [Selfish](https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Selfish](https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O) | 3:46 | 2025-11-11 |  |
 | [Senchimentaru Way](https://open.spotify.com/track/4yTIsOhNcSy3X3D4jsfD2a) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Senchimentaru Way](https://open.spotify.com/album/2mk4oejQTKNi0ioBHP2nFn) | 3:09 | 2023-10-19 | 2023-12-01 |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2021-12-23 | 2022-07-27 |
 | [Sentiment](https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a) | 3:53 | 2022-07-28 | 2023-02-24 |

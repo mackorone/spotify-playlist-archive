@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116537,
+  "num_followers": 116533,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Campingstol",
-        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Campingstol",
-      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Jentekveld",
         "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 138568,
       "name": "Jentekveld",
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Campingstol",
+        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Campingstol",
+      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
         "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 199920,
       "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
       "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Flesk og duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 206974,
       "name": "Flesk og Duppe",
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Kunna vorre v\u00e6r",
         "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 138388,
       "name": "Kunna vorre v\u00e6r",
       "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+      "duration_ms": 170526,
+      "name": "N\u00e5 er det freda'n igjen",
+      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
       },
       "artists": [
         {
-          "name": "Rune Rudberg",
-          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 170526,
-      "name": "N\u00e5 er det freda'n igjen",
-      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Her og n\u00e5",
-        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
       },
       "artists": [
         {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
         }
       ],
-      "duration_ms": 136981,
-      "name": "Her og n\u00e5",
-      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+        "name": "Her og n\u00e5",
+        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
       },
       "artists": [
         {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
         }
       ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
+      "duration_ms": 136981,
+      "name": "Her og n\u00e5",
+      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
+        "name": "SK\u00c5LER",
+        "url": "https://open.spotify.com/album/1kSVaAqrGdiXxh2gMUuCRH"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Olav Haust",
+          "url": "https://open.spotify.com/artist/70zQbRqxcwsB6jJxNzd9Uv"
+        },
+        {
+          "name": "KLIKK",
+          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
+        }
+      ],
+      "duration_ms": 146909,
+      "name": "SK\u00c5LER",
+      "url": "https://open.spotify.com/track/7yZGSZLKWGWDHMfdaDuqzu"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
         "name": "H\u00e5per du er lykkelig n\u00e5",
         "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
       },
@@ -1143,22 +1167,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 140945,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "29 tonn",
         "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
       },
@@ -1171,6 +1179,22 @@
       "duration_ms": 198268,
       "name": "29 tonn",
       "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 140945,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -1207,46 +1231,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "SK\u00c5LER",
-        "url": "https://open.spotify.com/album/1kSVaAqrGdiXxh2gMUuCRH"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "Olav Haust",
-          "url": "https://open.spotify.com/artist/70zQbRqxcwsB6jJxNzd9Uv"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        }
-      ],
-      "duration_ms": 146909,
-      "name": "SK\u00c5LER",
-      "url": "https://open.spotify.com/track/7yZGSZLKWGWDHMfdaDuqzu"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 167980,
-      "name": "Zetor\u2019n",
-      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Om igjen",
         "url": "https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 175250,
       "name": "Om igjen",
       "url": "https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Fineste i bygda",
+        "url": "https://open.spotify.com/album/7JFPf1f5pWX81h6EMxolbY"
+      },
+      "artists": [
+        {
+          "name": "Bare Andy",
+          "url": "https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU"
+        }
+      ],
+      "duration_ms": 191982,
+      "name": "Fineste i bygda",
+      "url": "https://open.spotify.com/track/0ao1DL2cMdCuh4mB8r1y9z"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

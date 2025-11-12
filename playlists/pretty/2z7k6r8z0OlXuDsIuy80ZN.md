@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 153,697 likes - 40 songs - 2 hr 4 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 153,709 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 40 | [Ciao Amore](https://open.spotify.com/track/1oWw1Jiq75Zo2BTaCKndfU) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Ciao Amore](https://open.spotify.com/album/1cty6itPVYtpgSFOopJsQr) | 2:45 |
 
-Snapshot ID: `AAAq+MkQvuiVtnfW/f7a6q98fIeWhrDb`
+Snapshot ID: `AAAq+cUUjOeN/RNh7AGuDDZfFQNDA96d`

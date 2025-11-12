@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,694 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,658 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 23 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 24 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 |
 | 25 | [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
-| 26 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
-| 27 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
+| 26 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
+| 27 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 | 28 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
 | 29 | [Award Tour \(feat\. Trugoy The Dove\)](https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Trugoy The Dove](https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:46 |
 | 30 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 70 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 |
 | 71 | [Far Rockaway](https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Far Rockaway](https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0) | 2:22 |
 | 72 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 |
-| 73 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
-| 74 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
+| 73 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
+| 74 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 75 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
 | 76 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 |
 | 77 | [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 79 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
 | 80 | [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 |
 | 81 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
-| 82 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
-| 83 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |
+| 82 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |
+| 83 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
 | 84 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
 | 85 | [Lost Cause](https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl) | [8rae](https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP) | [WHO TF IS 8RAE?](https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh) | 2:31 |
 | 86 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 97 | [Cry Alone](https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Cry Alone](https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU) | 1:42 |
 | 98 | [WAN ME DEAD](https://open.spotify.com/track/7xQNKbIhGbfibisThIb75d) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [WAN ME DEAD](https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR) | 2:11 |
 | 99 | [Feint](https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 3:10 |
-| 100 | [Wildin'](https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Wildin'](https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i) | 2:19 |
+| 100 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 
 Snapshot ID: `AAAAADxYkzwhNHG/gaDkM0sLyXf3Diwr`

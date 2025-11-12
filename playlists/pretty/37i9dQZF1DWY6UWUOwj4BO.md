@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,949 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,011 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 6 | [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 |
 | 7 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 |
 | 8 | [Je pense à vous \- Version orchestrale](https://open.spotify.com/track/4U4IQfzY4sRsylQqpoBrVZ) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous \(Version orchestrale\)](https://open.spotify.com/album/6WSJzN4z3tyDRteyJ6l2Hg) | 3:03 |
-| 9 | [Vaitimbora \- Acoustic](https://open.spotify.com/track/1uLA9u8N6GgqQ5kZ4pZCsg) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora \(Acoustic\)](https://open.spotify.com/album/6JzDVUugnZpQYIEImbclJL) | 1:54 |
+| 9 | [Vaitimbora \- Acoustic](https://open.spotify.com/track/1uLA9u8N6GgqQ5kZ4pZCsg) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora \(Acoustic\)](https://open.spotify.com/album/6JzDVUugnZpQYIEImbclJL) | 1:54 |
 | 10 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 |
 | 11 | [Die With A Smile \- Acoustic](https://open.spotify.com/track/3sDIlJZzYNHtnSuuOxvTal) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG) | 4:11 |
 | 12 | [birds of a feather \- acoustic](https://open.spotify.com/track/120VaTLpym9mSr5iym6MTG) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [birds of a feather \(acoustic\)](https://open.spotify.com/album/7LS87XiKzv8hWDhQH0EJU4) | 3:54 |

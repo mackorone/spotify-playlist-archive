@@ -4,7 +4,7 @@
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-879 songs - 2 day 10 hr 57 min
+880 songs - 2 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Be Water II](https://open.spotify.com/track/6RVJSSqXk7yRLWBjTryHQp) | [Christian Sands](https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU) | [Be Water](https://open.spotify.com/album/2DTYuoK8hW1l9zx7b3AdgG) | 5:59 | 2021-03-10 | 2022-03-30 |
 | [Beautiful Ghosts \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/6PPbs1c7f7Ove5JHUPmNZ2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Beautiful Ghosts \(From The Motion Picture "Cats"\)](https://open.spotify.com/album/59YCk9wEnWWopdzu4Yh1dJ) | 4:21 | 2021-03-10 | 2022-03-30 |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 | 2024-11-08 | 2025-11-08 |
+| [Beautiful Strangers](https://open.spotify.com/track/3JCNSJUl4zyugzIdf6y71n) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Sad And Beautiful World](https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH) | 5:58 | 2025-11-07 |  |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-11-08 | 2025-11-08 |
 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 | 2023-11-10 | 2024-11-09 |
 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2023-11-10 | 2024-11-09 |
@@ -285,7 +286,7 @@
 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 | 2022-11-24 | 2023-11-11 |
 | [Formwela 10](https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [SONGWRIGHTS APOTHECARY LAB](https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO) | 3:28 | 2022-03-29 | 2022-11-24 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-11-08 | 2025-11-08 |
-| [Four](https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [Fly](https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV) | 3:23 | 2025-11-07 |  |
+| [Four](https://open.spotify.com/track/4lRAemYqmqH4B5sMWmeRpg) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [Fly](https://open.spotify.com/album/2lN2HpUppxgHZ3S5gzZ1qV) | 3:23 | 2025-11-07 | 2025-11-12 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-03-29 | 2022-11-24 |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2023-11-10 | 2024-11-09 |
 | [From This Place](https://open.spotify.com/track/4KmmcGnoSmo8BrKQTrb2HD) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From This Place](https://open.spotify.com/album/5PfjsKZLI9whAwPSfNgnES) | 4:40 | 2021-03-10 | 2022-03-30 |

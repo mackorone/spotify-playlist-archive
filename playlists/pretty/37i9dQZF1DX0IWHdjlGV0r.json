@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Emis Killa",
-  "num_followers": 128256,
+  "num_followers": 128275,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-11-06 23:01:08",
       "album": {
+        "name": "Emanuele",
+        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Vogl Sul A Te",
+      "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
+    },
+    {
+      "added_at": "2025-11-06 23:01:08",
+      "album": {
         "name": "Mafia Slime 2",
         "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 185343,
       "name": "A Lei",
       "url": "https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R"
-    },
-    {
-      "added_at": "2025-11-06 23:01:08",
-      "album": {
-        "name": "Emanuele",
-        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Vogl Sul A Te",
-      "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
     },
     {
       "added_at": "2025-11-06 23:01:08",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2025-11-06 23:01:08",
       "album": {
-        "name": "TASTO DOLENTE",
-        "url": "https://open.spotify.com/album/56Vc6dnUSbvpkVIGlsVXu4"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
       "artists": [
         {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Achille G",
-          "url": "https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1"
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         }
       ],
-      "duration_ms": 150395,
-      "name": "TASTO DOLENTE",
-      "url": "https://open.spotify.com/track/6vRbAMXqJcnOxcn8rEYjkw"
+      "duration_ms": 221631,
+      "name": "MADAME - L'anima (feat. Madame)",
+      "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
     },
     {
       "added_at": "2025-11-06 23:01:08",
@@ -1167,22 +1167,42 @@
     {
       "added_at": "2025-11-06 23:01:08",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+        "name": "TASTO DOLENTE",
+        "url": "https://open.spotify.com/album/56Vc6dnUSbvpkVIGlsVXu4"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
         },
         {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+          "name": "Achille G",
+          "url": "https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1"
         }
       ],
-      "duration_ms": 221631,
-      "name": "MADAME - L'anima (feat. Madame)",
-      "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
+      "duration_ms": 150395,
+      "name": "TASTO DOLENTE",
+      "url": "https://open.spotify.com/track/6vRbAMXqJcnOxcn8rEYjkw"
+    },
+    {
+      "added_at": "2025-11-06 23:01:08",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 184304,
+      "name": "Centro (feat. Coez)",
+      "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
     },
     {
       "added_at": "2025-11-06 23:01:08",
@@ -1207,26 +1227,6 @@
       "duration_ms": 151013,
       "name": "NON IN VENDITA (feat. nayt & Rose Villain)",
       "url": "https://open.spotify.com/track/2BJtI3TpvvMmyPcsTowu3S"
-    },
-    {
-      "added_at": "2025-11-06 23:01:08",
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
-      },
-      "artists": [
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 184304,
-      "name": "Centro (feat. Coez)",
-      "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
     },
     {
       "added_at": "2025-11-06 23:01:08",

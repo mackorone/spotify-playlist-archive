@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-508 songs - 1 day 8 hr 37 min
+509 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [It's Your Night \(feat\. Sin\)](https://open.spotify.com/track/61d379C30BV6RmhvOCbTgl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT), [Sin](https://open.spotify.com/artist/5fXGHEv0fMfnWadX5gPO6c) | [Indecent Proposal](https://open.spotify.com/album/4IaNPTTO60pDLpLzcZS2C1) | 5:55 | 2024-10-19 | 2025-06-01 |
 | [JAY Z Blue](https://open.spotify.com/track/2GKbtXbDgF1Nks1HQm7JVC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 3:50 | 2024-01-29 |  |
 | [Jesus Is Lord](https://open.spotify.com/track/7sBgFMWqDWQgrsNSpIBoe8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 0:49 | 2024-01-29 |  |
+| [JEWELZ](https://open.spotify.com/track/0gFffj7c4dHfgVX1WsEgP1) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/6vrSMos4nL8m3hNByUlOMf) | 2:54 | 2025-11-11 |  |
 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2024-01-29 | 2025-11-08 |
 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 | 2024-05-11 | 2024-11-04 |
 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 | 2024-01-29 |  |

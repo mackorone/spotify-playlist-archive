@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,779 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,792 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 57 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
 | 58 | [Desejando Eu \- Ao Vivo](https://open.spotify.com/track/3056x1XkmICnQmji68rrft) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP) | 2:40 |
 | 59 | [Trovão](https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
-| 60 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
-| 61 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
-| 62 | [Linda Voz \(Olá\)](https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ) | [Sensações](https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p) | 4:29 |
-| 63 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
+| 60 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
+| 61 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
+| 62 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
+| 63 | [Linda Voz \(Olá\)](https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ) | [Sensações](https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p) | 4:29 |
 | 64 | [Sogra \- Ao Vivo](https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sogra \(Ao Vivo\)](https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH) | 2:57 |
 | 65 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
 | 66 | [Deixa Tudo Como Tá \- Ao Vivo](https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 3:37 |

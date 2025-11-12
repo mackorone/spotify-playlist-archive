@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,365 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,387 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 64 | [James Dean](https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Panic Vertigo \- EP](https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm) | 3:18 |
 | 65 | [Ban All the Music](https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 2:52 |
 | 66 | [The Other Line](https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
-| 67 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
-| 68 | [Major System Error](https://open.spotify.com/track/7DHaf24CxsjF8mbXmoJv7G) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Knowing What You Know Now](https://open.spotify.com/album/6ugcC7DaLDApGMJbGQtg5w) | 3:25 |
+| 67 | [Major System Error](https://open.spotify.com/track/7DHaf24CxsjF8mbXmoJv7G) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Knowing What You Know Now](https://open.spotify.com/album/6ugcC7DaLDApGMJbGQtg5w) | 3:25 |
+| 68 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
 | 69 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
 | 70 | [Hung Up](https://open.spotify.com/track/1W3fMkViHndp2kv7PQNfAQ) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 3:24 |
 | 71 | [Nimble Bastard](https://open.spotify.com/track/2uaWEm24SEHUWlCVopjDbh) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:39 |

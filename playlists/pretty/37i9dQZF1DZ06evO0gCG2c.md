@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,644 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,696 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 47 | [Clap Again](https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Right Now \(Na Na Na\)](https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy) | 5:10 |
 | 48 | [Til the Sun Rise Up \(feat\. Akon\)](https://open.spotify.com/track/0yKDhfz8g8qeTNZAriJu40) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Til The Sun Rise Up \(feat\. Akon\)](https://open.spotify.com/album/04oMkzMvbvXOULJvhFB15g) | 3:10 |
 | 49 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
-| 50 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
+| 50 | [Locked Up With You](https://open.spotify.com/track/6uHwHayD8ao5qcUiszrqB6) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up With You](https://open.spotify.com/album/5GSOGELgj8snnvjZtGDWem) | 3:04 |
 
-Snapshot ID: `aQ/ZgAAAAADDE0wto0Wxml8bXn4ya573`
+Snapshot ID: `aRErAAAAAACwwhQYFx6GHNKd2ghbJdH8`

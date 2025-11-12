@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: Potra
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,491 likes - 118 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,486 likes - 118 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

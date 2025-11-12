@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Beéle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,507,252 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,507,606 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 74 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 |
 | 75 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 |
 | 76 | [Parte & Choke \(with Ryan Castro\) \- Remix](https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m) | [Parte & Choke \(with Ryan Castro\) \[Remix\]](https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO) | 3:38 |
-| 77 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 77 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 78 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 79 | [Te Regalo](https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [Te Regalo](https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO) | 2:27 |
 | 80 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 |

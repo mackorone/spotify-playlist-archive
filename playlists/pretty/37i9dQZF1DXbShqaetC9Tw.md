@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,464 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,444 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 35 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 36 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
 | 37 | [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 |
-| 38 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
+| 38 | [Mouse](https://open.spotify.com/track/3Xz3KJ4ZsFmiwRcrzuXV3m) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/7qOgTG0UtYwFhp2SDJb5bs) | 3:58 |
 | 39 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
-| 40 | [Mouse](https://open.spotify.com/track/3Xz3KJ4ZsFmiwRcrzuXV3m) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/7qOgTG0UtYwFhp2SDJb5bs) | 3:58 |
+| 40 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
 | 41 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
 | 42 | [you and me eternal summer \(feat\. Jin Hwi PARK\)](https://open.spotify.com/track/4tn2F1d9H1uFn0mCbaRbp0) | [Choi Yoon Young](https://open.spotify.com/artist/2SAaO0ut9ykA6nsqWl2wXg), [jin hwi Park](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [you and me eternal summer \(feat\. Jin Hwi PARK\)](https://open.spotify.com/album/48uHd68qRAU8PtzlI25KPG) | 4:24 |
 | 43 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 47 | [MOVIE](https://open.spotify.com/track/4VnBF5nptyzyiY9AKJ95z9) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [bright \#9](https://open.spotify.com/album/44LkNR2ydGI4qVdaDPgEBg) | 3:00 |
 | 48 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 49 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 |
-| 50 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
+| 50 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
 
 Snapshot ID: `AAAAAIp0bcN7FvPepzYMKjnDwqdiBNIH`

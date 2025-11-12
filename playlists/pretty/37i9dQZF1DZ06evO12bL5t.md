@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,551 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,567 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 26 | [Chequen Los Datos](https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:06 |
 | 27 | [De La Calle \(Remix\)](https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 2:37 |
 | 28 | [NO VAN A PODER](https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa Largo 2](https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB) | 3:13 |
-| 29 | [HASHERO](https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:58 |
-| 30 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 |
+| 29 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 |
+| 30 | [HASHERO](https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:58 |
 | 31 | [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 |
 | 32 | [Crimes](https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:40 |
 | 33 | [Elevando Rango](https://open.spotify.com/track/52DOAxLyM09nzSJlq0x1iy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 2:56 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 41 | [Reyes Magos](https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [JOP](https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba) | [Reyes Magos](https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF) | 2:08 |
 | 42 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 |
 | 43 | [Vara Alta](https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 3:08 |
-| 44 | [En El Laboratorio](https://open.spotify.com/track/3JV1vCdoRnyVSMle9pFkfB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:05 |
+| 44 | [El Saco](https://open.spotify.com/track/7EWvUP83AuQh717BkOfGVS) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:20 |
 | 45 | [Siempre Activo](https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 4:26 |
 | 46 | [Oro](https://open.spotify.com/track/0peDp43dtDzI4I5599gG02) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Oro](https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np) | 2:17 |
 | 47 | [Pasajes De La Vida](https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:41 |
-| 48 | [El Saco](https://open.spotify.com/track/7EWvUP83AuQh717BkOfGVS) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:20 |
+| 48 | [En El Laboratorio](https://open.spotify.com/track/3JV1vCdoRnyVSMle9pFkfB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:05 |
 | 49 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
 | 50 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
 
-Snapshot ID: `aQ/ZgAAAAACuy3F30fWfdcVruJ7eC+ch`
+Snapshot ID: `aRErAAAAAADK2R5fyfEetIpRUl8DYR4n`

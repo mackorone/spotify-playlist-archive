@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,095 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,097 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 43 | [Black & Gold](https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold](https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7) | 4:34 |
 | 44 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
 | 45 | [Cobrastyle \(feat\. Mad Cobra\)](https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Fresh](https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5) | 2:59 |
-| 46 | [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 |
-| 47 | [Closer](https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Boy With No Name](https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR) | 4:00 |
-| 48 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
+| 46 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
+| 47 | [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 |
+| 48 | [Closer](https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Boy With No Name](https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR) | 4:00 |
 | 49 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 |
-| 50 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
-| 51 | [Be Your Love](https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Be Your Love](https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ) | 3:14 |
+| 50 | [Be Your Love](https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Be Your Love](https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ) | 3:14 |
+| 51 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
 | 52 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 53 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
 | 54 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 62 | [Yesterday](https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday](https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y) | 2:48 |
 | 63 | [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 |
 | 64 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
-| 65 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
-| 66 | [Are You What You Want to Be?](https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:30 |
+| 65 | [Are You What You Want to Be?](https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:30 |
+| 66 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
 | 67 | [Holding On](https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:50 |
 | 68 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
 | 69 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 76 | [Black And White Town](https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Some Cities](https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V) | 4:15 |
 | 77 | [Wrong Time](https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Wrong Time](https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ) | 2:50 |
 | 78 | [She Don't Dance](https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [She Don't Dance](https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH) | 3:46 |
-| 79 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
-| 80 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
+| 79 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
+| 80 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 81 | [Dreaming](https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Smallpools](https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn) | 3:36 |
 | 82 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn) | 3:37 |
 | 83 | [Goodbye Mr A](https://open.spotify.com/track/4spfRBAAdrMKR35lZWrgYF) | [The Hoosiers](https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4) | [The Trick To Life](https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH) | 4:26 |

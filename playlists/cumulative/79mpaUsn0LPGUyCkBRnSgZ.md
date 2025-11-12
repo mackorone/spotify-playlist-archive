@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-960 songs - 2 day 15 hr 26 min
+961 songs - 2 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-06-13 | 2023-04-20 |
 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 | 2022-09-11 |  |
 | [Holy Ghost \(feat\. Joe Fox\)](https://open.spotify.com/track/6AHNkRbVzkh95xilnYzDT7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:11 | 2022-08-11 |  |
-| [Home Town](https://open.spotify.com/track/1T0MNevUUpzbzFCDuokthn) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 3:10 | 2025-11-10 |  |
+| [Home Town](https://open.spotify.com/track/1T0MNevUUpzbzFCDuokthn) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 3:10 | 2025-11-10 | 2025-11-12 |
 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 | 2022-03-19 | 2025-09-24 |
 | [Honky Cat](https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:13 | 2022-05-18 |  |
 | [Hopeless Romantic](https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:56 | 2023-05-18 |  |
@@ -658,6 +658,7 @@
 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 | 2023-04-25 |  |
 | [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 | 2025-06-23 |  |
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
+| [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 | 2025-11-11 |  |
 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 | 2024-07-02 | 2025-08-14 |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2024-01-08 |  |
 | [Quartz](https://open.spotify.com/track/0xXmPzAdGlPBaJ0csqYxYs) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 4:00 | 2025-07-24 |  |

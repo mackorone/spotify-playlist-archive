@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Manisha Eerabathini
 
-424 songs - 1 day 1 hr 27 min
+425 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 | 2024-02-14 | 2025-09-11 |
 | [Baapu](https://open.spotify.com/track/59jdncLuldJpVDYfBAm2Co) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Baapu](https://open.spotify.com/album/3CloadVWRFcT50PfnGPkUQ) | 3:19 | 2025-06-19 | 2025-08-11 |
 | [Badlove](https://open.spotify.com/track/4JKJkslEo77sWeJ5dAAIxp) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [Badlove](https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L) | 3:20 | 2025-02-03 | 2025-08-01 |
+| [Bangaru](https://open.spotify.com/track/09qjN4zFiZH8lcuINSJ5lk) | [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [Bangaru](https://open.spotify.com/album/51t7QiRHzfXqyiZ3euyglO) | 3:20 | 2025-11-11 |  |
 | [Beach Road Melody](https://open.spotify.com/track/0MbZn4qAeUUDKYhJiE8z0T) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Beach Road Melody](https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch) | 1:37 | 2024-04-25 | 2024-05-09 |
 | [Befikr Maama](https://open.spotify.com/track/4BkVCo1tvqkr9Px00GISlZ) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Befikr Maama](https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5) | 2:58 | 2023-05-16 | 2024-06-22 |
 | [Bhoo Bandham](https://open.spotify.com/track/4UXkFdFmKnkZP6gcF3rb3a) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Bhoo Bandham](https://open.spotify.com/album/1BpORTZsYI1axbf7yr5DBM) | 5:38 | 2023-11-07 | 2023-12-02 |
@@ -116,7 +117,7 @@
 | [Idhi Prema](https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Manasa Adusumilli](https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Lalitha Shravani](https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS) | [Idhi Prema](https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic) | 3:00 | 2023-10-04 | 2025-08-15 |
 | [Idhivarakepudu](https://open.spotify.com/track/2X171GMMznwh0UZr5QJ0gF) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Idhivarakepudu](https://open.spotify.com/album/2K0f2Co8UA0qxGwKmGPGkY) | 3:58 | 2025-11-06 |  |
 | [In Search Of Life](https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [In Search Of Life](https://open.spotify.com/album/00Q5uYS7BzbLpm08mxC23e) | 3:45 | 2023-04-05 | 2023-07-04 |
-| [INDIAN HIPHOP](https://open.spotify.com/track/113BYbdqf0kWunlw3ZG6nb) | [IN SAINITY](https://open.spotify.com/artist/5olrFo2BenPv61UX8CaK6P), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj), [MAAMSAHARI](https://open.spotify.com/artist/7hwk312K7gTvkDm62e36eR) | [INDIAN HIPHOP](https://open.spotify.com/album/423h0WhPvPaMpQaeBAngli) | 2:50 | 2025-09-05 |  |
+| [INDIAN HIPHOP](https://open.spotify.com/track/113BYbdqf0kWunlw3ZG6nb) | [IN SAINITY](https://open.spotify.com/artist/5olrFo2BenPv61UX8CaK6P), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj), [MAAMSAHARI](https://open.spotify.com/artist/7hwk312K7gTvkDm62e36eR) | [INDIAN HIPHOP](https://open.spotify.com/album/423h0WhPvPaMpQaeBAngli) | 2:50 | 2025-09-05 | 2025-11-12 |
 | [Indrajaalam](https://open.spotify.com/track/6bBtQflwHLrskjlPciYyoI) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Indrajaalam](https://open.spotify.com/album/2ih6hzcJEBCmeKgXJbIivT) | 4:26 | 2022-10-28 | 2023-05-26 |
 | [Inkola](https://open.spotify.com/track/1koGGNOAWSLg6qh2kxS6UX) | [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Inkola](https://open.spotify.com/album/67SfotzEC6YyLiiLcfdkF4) | 2:25 | 2025-01-29 | 2025-05-30 |
 | [Innallu](https://open.spotify.com/track/0GuMZb62U3tZ0SCHkrzL84) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/6QsGIqhILxrugCXeoz34Ew) | 4:20 | 2023-10-13 | 2024-04-19 |

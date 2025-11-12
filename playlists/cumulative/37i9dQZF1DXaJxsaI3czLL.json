@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Burnt",
+        "url": "https://open.spotify.com/album/39cHTNTRQ1ESIkV3fBnDCE"
+      },
+      "artists": [
+        {
+          "name": "mmm",
+          "url": "https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209536,
+      "name": "Cruel Odds",
+      "url": "https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz"
+    },
+    {
+      "album": {
         "name": "475",
         "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
       },
@@ -8768,7 +8786,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 305213,
       "name": "\u7f8e\u8c8c\u306e\u9752\u7a7a\uff08Bibo no Aozora\uff09 - Geimori - Medley",
       "url": "https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL"

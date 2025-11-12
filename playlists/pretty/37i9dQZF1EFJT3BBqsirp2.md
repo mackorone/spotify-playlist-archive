@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4nbpc2ldpGh1THRHf14KsI">Finn Keane</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 68 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let You Love Me](https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:11 |
-| 2 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 |
+| 2 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
 | 3 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 4 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 5 | [You for Me](https://open.spotify.com/track/0YYftFKuZmU06epZRCYuYO) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 2:55 |
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 10 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 11 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |
 | 12 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
-| 13 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
-| 14 | [360 featuring robyn & yung lean](https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:09 |
+| 13 | [360 featuring robyn & yung lean](https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:09 |
+| 14 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
 | 15 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 |
 | 16 | [Sick Thoughts](https://open.spotify.com/track/4uxJICczweCIPZkIA6AN5k) | [Lou Bliss](https://open.spotify.com/artist/3mRtqarEAPGOkpadcWZgdY) | [Sick Thoughts](https://open.spotify.com/album/7mx1CvOT0GIK2e3h6X6q0Z) | 3:20 |
 | 17 | [B2b featuring tinashe](https://open.spotify.com/track/2xsvVV9DXvYtqXId9Uf2ra) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:33 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 67 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 68 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcBPlAAAAABPF/tM1uOcWVopTZlUy7f2`
+Snapshot ID: `AcBVZgAAAADTpT22+Iogv9qHIuMQhRNf`

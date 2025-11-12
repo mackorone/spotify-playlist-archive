@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,275 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,285 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 18 | [Troubadour](https://open.spotify.com/track/4qjmnM1aYvayCTDd0uuRKH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 2:56 |
 | 19 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 |
 | 20 | [Hell of a Year](https://open.spotify.com/track/4RYTi6AJnzLu6qYtkjZGvZ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/6C9MVfh8Zhx1Q8xtR6ZVV2) | 3:52 |
-| 21 | [Wild as You](https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:06 |
+| 21 | [Dear Rodeo](https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:14 |
 | 22 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
 | 23 | [Diamond In My Pocket](https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Different Day](https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k) | 3:16 |
 | 24 | [Diamonds & Gasoline](https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:54 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 86 | [Beer, Bait and Ammo](https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy) | [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [Beer, Bait and Ammo](https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T) | 5:15 |
 | 87 | [Delta Dawn](https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [16 Biggest Hits](https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx) | 2:56 |
 | 88 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
-| 89 | [Three Days](https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 3:44 |
-| 90 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
+| 89 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
+| 90 | [Three Days](https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 3:44 |
 | 91 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
 | 92 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
 | 93 | [New Strings](https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:50 |

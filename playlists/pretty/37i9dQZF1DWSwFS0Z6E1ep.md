@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,497 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,554 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 25 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 |
 | 26 | [Splish Splash](https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Bobby Darin](https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB) | 2:11 |
 | 27 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 |
-| 28 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
-| 29 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
+| 28 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
+| 29 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
 | 30 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 31 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
 | 32 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 48 | [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 |
 | 49 | [Just A Gigolo \- Remastered](https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 4:43 |
 | 50 | [I'm Walkin'](https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:06 |
-| 51 | [Be Bop a Lula](https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Saga All Stars: Be Bop a Lula / 1956](https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs) | 2:36 |
-| 52 | [Bo Diddley](https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:29 |
+| 51 | [Bo Diddley](https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:29 |
+| 52 | [Be Bop a Lula](https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Saga All Stars: Be Bop a Lula / 1956](https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs) | 2:36 |
 | 53 | [Hey, Good Lookin'](https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:54 |
 | 54 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
 | 55 | [Good Golly, Miss Molly](https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Rock 'N' Roll Legends](https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA) | 2:08 |

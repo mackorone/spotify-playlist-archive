@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Genezio x Bamby
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,424 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,447 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

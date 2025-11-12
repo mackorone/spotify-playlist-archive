@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "album": {
         "name": "Wanna Be (Remix Alternate Versions)",
         "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
       },

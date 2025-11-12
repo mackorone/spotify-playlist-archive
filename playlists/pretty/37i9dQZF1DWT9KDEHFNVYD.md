@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,930 likes - 100 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,937 likes - 100 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 47 | [Geisha](https://open.spotify.com/track/73trN65gnLaNoq3roYpBBx) | [Missus Beastly](https://open.spotify.com/artist/5e1sdfpA3pJtObau0T3bQY) | [Soul Jazz Records Presents DEUTSCHE ELEKTRONISCHE MUSIK 3: Experimental German Rock and Electronic Music 1971\-81](https://open.spotify.com/album/1ucJmCPMOHVNttvmlLJdGs) | 5:27 |
 | 48 | [Doors Unlocked and Open](https://open.spotify.com/track/3f4jwbmw35TF2Wx9y47GuW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys \(Deluxe Edition\)](https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy) | 5:37 |
 | 49 | [Spargelspiegel](https://open.spotify.com/track/02bagVPVBpq8SImmbRmEyI) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [Future Sounds Of Kraut, Vol\. 2 \- compiled by Fred und Luna](https://open.spotify.com/album/7wDksYEO61GFZj7zX4rS5G) | 4:43 |
-| 50 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
+| 50 | [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 |
 | 51 | [Black Sand](https://open.spotify.com/track/6UZipqSMamNtONEnVYRN88) | [Brainticket](https://open.spotify.com/artist/0d11irn1BkpHJ6X8EyDsi7) | [Cottonwoodhill](https://open.spotify.com/album/7h2AERd0CxTtK0xWrUtlDE) | 4:05 |
-| 52 | [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 |
+| 52 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
 | 53 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 |
 | 54 | [Motoring](https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA) | [TOY](https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA) | [Toy](https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s) | 4:33 |
 | 55 | [Schwebebahn](https://open.spotify.com/track/6vaycV6nN0pRo9lSZLPKLI) | [Hoelderlin](https://open.spotify.com/artist/6KdRTV8GYYhX8hhPWbTZk3) | [Hoelderlin](https://open.spotify.com/album/37rnY9C3CxIq0c1YLSHCcR) | 7:22 |
@@ -82,17 +82,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 72 | [Conductor 71](https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 4:10 |
 | 73 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 74 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 |
-| 75 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 |
-| 76 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
+| 75 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
+| 76 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 |
 | 77 | [Silver Cloud](https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 8:02 |
 | 78 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 |
 | 79 | [Sandtrommel](https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:26 |
 | 80 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 |
 | 81 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 | 82 | [Run\-a\-Round](https://open.spotify.com/track/4PCJV3YbgMwrTrhKsk12bN) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 9:41 |
-| 83 | [Sunrise, Sunset](https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 6:54 |
+| 83 | [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 |
 | 84 | [La Düsseldorf](https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 4:29 |
-| 85 | [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 |
+| 85 | [Sunrise, Sunset](https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 6:54 |
 | 86 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
 | 87 | [Autoroute](https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh) | [L'été suivant...](https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM) | 6:27 |
 | 88 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |

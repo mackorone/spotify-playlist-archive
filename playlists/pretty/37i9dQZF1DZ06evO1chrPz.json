@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 206341,
+  "num_followers": 206354,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACN5wDf2N/OGrhD9LQlX3l9",
+  "snapshot_id": "aRErAAAAAAAFvgFv/NA6qBgk4/EEfGuB",
   "tracks": [
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elohim (Live)",
+        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+        }
+      ],
+      "duration_ms": 447670,
+      "name": "Elohim - Live From Church",
+      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -983,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elohim (Live)",
-        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
       "artists": [
         {
@@ -992,13 +1012,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Aubree Archibeck",
-          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 447670,
-      "name": "Elohim - Live From Church",
-      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
+      "duration_ms": 339870,
+      "name": "Pieces (Live)",
+      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
     },
     {
       "added_at": null,
@@ -1019,26 +1039,6 @@
       "duration_ms": 300973,
       "name": "One Thing Remains",
       "url": "https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 339870,
-      "name": "Pieces (Live)",
-      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
     }
   ],
   "unique_name": "This Is Bethel Music",

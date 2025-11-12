@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-640 songs - 1 day 11 hr 18 min
+641 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 | 2024-02-27 |  |
 | [Celebration](https://open.spotify.com/track/14CuAx9KIrVXC0O4ac91uH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [In Trap We Trust, Vol\. 1](https://open.spotify.com/album/4lU2rIbaKMUbwnN4FQj8Hu) | 4:22 | 2024-02-27 | 2025-07-10 |
 | [Celebration](https://open.spotify.com/track/5D2r5KcaVPuri7xD0FZZJC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Turnt Up, Vol\. 6](https://open.spotify.com/album/4rESAMfV7F2cNSz93OEa2M) | 3:50 | 2024-02-27 |  |
-| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 |  |
+| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 | 2025-11-12 |
 | [Centuries \- Gazzo Remix](https://open.spotify.com/track/4ZzbcSm6MxnC15BcDqEYyK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3) | [Centuries \(Gazzo Remix\)](https://open.spotify.com/album/4dFub54EO7uoweA7OYoZd7) | 4:19 | 2025-05-29 |  |
 | [Centuries \- Remix](https://open.spotify.com/track/4LutIwQfcpXjVs7mIySYCD) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Jonathan "JR" Rotem](https://open.spotify.com/artist/0td8n3WZG9kptG9UsmYfc9) | [Make America Psycho Again](https://open.spotify.com/album/4vfQ7uk37WT80Ed8JeIdNO) | 3:22 | 2025-05-29 |  |
 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 | 2024-02-27 |  |
@@ -618,6 +618,7 @@
 | [West Coast](https://open.spotify.com/track/1B7Vir1E4FcFPP5tUzDSmR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 3:15 | 2024-02-27 |  |
 | [WET WHITE TEE SHIRT \(SIDE A\)](https://open.spotify.com/track/5wVX4Cz2D4kFWA1aaiFnTl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:14 | 2024-02-27 |  |
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2024-02-27 |  |
+| [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/track/5gliitoCPCUpUxQXII2NvA) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE) | 2:29 | 2025-11-11 |  |
 | [What You Do to Me](https://open.spotify.com/track/2cY8x0jQ1wWEipUCouclsD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 3:21 | 2024-02-27 |  |
 | [When a Woman](https://open.spotify.com/track/6MFVCPU3QN3YqMjJz4mtFe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:18 | 2024-02-27 |  |
 | [When I Die](https://open.spotify.com/track/25AEte8XqBCT7NaBvBum9n) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [When I Die](https://open.spotify.com/album/6KF5zlT9iFtWPYNBdPTCzR) | 2:42 | 2024-02-27 |  |

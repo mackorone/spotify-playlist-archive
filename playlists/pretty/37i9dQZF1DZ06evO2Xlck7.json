@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABNAu40DYuNnDbBjGy/vkjQ",
+  "snapshot_id": "aRErAAAAAABZAY+DCe8DPL3XKVc4DhMC",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falling Into Place",
-        "url": "https://open.spotify.com/album/1ZrlxMP6ED5663411mFRay"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 334733,
-      "name": "New Kid",
-      "url": "https://open.spotify.com/track/1dytArzS7Ub5ULYgQb6o8B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Oblivion",
         "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 203466,
       "name": "Back To Oblivion",
       "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Falling Into Place",
+        "url": "https://open.spotify.com/album/1ZrlxMP6ED5663411mFRay"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 334733,
+      "name": "New Kid",
+      "url": "https://open.spotify.com/track/1dytArzS7Ub5ULYgQb6o8B"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What It Is To Burn - X",
-        "url": "https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 225408,
-      "name": "Worms Of The Earth - Live",
-      "url": "https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Oblivion",
         "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 321306,
       "name": "Play Dead",
       "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What It Is To Burn - X",
+        "url": "https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 225408,
+      "name": "Worms Of The Earth - Live",
+      "url": "https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brown Acid - The Fifth Trip",
-        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Nothing In The Sun",
-      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Oblivion",
         "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 189786,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brown Acid - The Fifth Trip",
+        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Nothing In The Sun",
+      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "Spanish Fly (Bonus Track)",
-      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Oblivion",
         "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 211613,
       "name": "Further From The Few",
       "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "Spanish Fly (Bonus Track)",
+      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love My Vol.9",
         "url": "https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 345600,
       "name": "Pre World - Main Floor House Mix",
       "url": "https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Picasso Trigger",
-      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
     },
     {
       "added_at": null,

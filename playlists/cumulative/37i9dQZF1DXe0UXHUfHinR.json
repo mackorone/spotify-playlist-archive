@@ -13729,6 +13729,24 @@
     },
     {
       "album": {
+        "name": "Blue Break Beats",
+        "url": "https://open.spotify.com/album/6bj1DXsO7tUiqYDYcIDQxJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 626466,
+      "name": "The Sidewinder",
+      "url": "https://open.spotify.com/track/0jGh2myWgeSSuj0bXeYZn0"
+    },
+    {
+      "album": {
         "name": "Tempo Di Chet",
         "url": "https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL"
       },
@@ -14678,7 +14696,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 200626,
       "name": "Warm Valley",
       "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"

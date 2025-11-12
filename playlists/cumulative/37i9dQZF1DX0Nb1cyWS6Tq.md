@@ -4,7 +4,7 @@
 
 > Release the bats..\. The Cure on cover.
 
-304 songs - 22 hr 44 min
+305 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Holiday on the Moon](https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 6:05 | 2021-10-15 | 2022-07-29 |
 | [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 | 2024-03-30 |
 | [Hollow Eyes](https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl) | [Red Lorry Yellow Lorry](https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq) | [Talk About The Weather](https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8) | 3:39 | 2021-10-15 | 2022-07-27 |
+| [Horse Tears](https://open.spotify.com/track/2QzT0Ld6RZxdskwGEZNV2D) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 5:10 | 2025-01-09 |  |
 | [I Put A Spell On You \- Remastered 2020](https://open.spotify.com/track/7cls5t47NYg0pfP1djxGu5) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [I Put A Spell On You \(Remastered 2020\)](https://open.spotify.com/album/5SDB6dlRVY9YsW4qHC4cP5) | 2:16 | 2021-10-15 | 2022-07-24 |
 | [I Walk The Line](https://open.spotify.com/track/4c7JcQKPQP3o5ojUcrZ42B) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/3ycsLfUjtUL3pjSk96bB3S) | 4:51 | 2021-10-15 | 2022-07-29 |
 | [I Walk the Line](https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp) | 4:51 | 2021-10-15 | 2024-04-19 |
@@ -291,7 +292,7 @@
 | [Under the Milky Way](https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:57 | 2021-10-15 | 2024-04-19 |
 | [Under The Milky Way](https://open.spotify.com/track/39Skq6MS8fFyrv5v02RDqO) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/7pV5wWB234RArP1U3mf2QB) | 4:58 | 2021-10-15 | 2022-07-29 |
 | [Until Before After](https://open.spotify.com/track/6oIEW3Yv1MaxeoGslHyfG4) | [In The Nursery](https://open.spotify.com/artist/5GXP40qqAgwCsG6mQ3NMWj) | [1961](https://open.spotify.com/album/15UYDt3JMf3Qu7ycpm3jgI) | 4:33 | 2021-10-15 | 2022-07-02 |
-| [Valentine's Day](https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Za Bakdaz: The Unfinished Opera](https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5) | 2:49 | 2021-10-15 |  |
+| [Valentine's Day](https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Za Bakdaz: The Unfinished Opera](https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5) | 2:49 | 2021-10-15 | 2025-11-12 |
 | [Vampiria](https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Wolfheart](https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7) | 5:35 | 2021-10-15 |  |
 | [Vampyr](https://open.spotify.com/track/2NLfaNEbc4uH0L5S4cPHx3) | [Mica](https://open.spotify.com/artist/0ru8vaH80Oj3roXyoLmX4g) | [Vampyr](https://open.spotify.com/album/2Sz2tzGre41AKQQPCcw8YG) | 2:41 | 2025-01-09 |  |
 | [Vampyre Girl \(2014\)](https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl) | [The Awakening](https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc) | [Anthology XV](https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1) | 4:12 | 2025-01-09 |  |

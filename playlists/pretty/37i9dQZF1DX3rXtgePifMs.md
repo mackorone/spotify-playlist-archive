@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,314 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,302 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 61 | [Vem com tudo](https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Vem com tudo](https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8) | 3:14 |
 | 62 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
 | 63 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
-| 64 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [O Que Se Leva \(Dói\)](https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE) | 2:50 |
-| 65 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
-| 66 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
+| 64 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
+| 65 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
+| 66 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [O Que Se Leva \(Dói\)](https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE) | 2:50 |
 | 67 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
 | 68 | [Powder](https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd) | [Pontypool](https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ) | [Powder](https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R) | 3:26 |
 | 69 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |

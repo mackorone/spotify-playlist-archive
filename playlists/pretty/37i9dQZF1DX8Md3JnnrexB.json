@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 213869,
+  "num_followers": 213874,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 226493,
       "name": "Too Hot - Single Version",
       "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 281200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -343,26 +343,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Jewels In The Crown",
-        "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Ever Changing Times (feat. Michael McDonald)",
-      "url": "https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 316893,
       "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "Jewels In The Crown",
+        "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Ever Changing Times (feat. Michael McDonald)",
+      "url": "https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
+        "name": "Beautiful Ballads",
+        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Love, Need and Want You",
+      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
         "name": "Golden Time Of Day (Remastered)",
         "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "Beautiful Ballads",
-        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
+        "name": "Brother, Brother, Brother",
+        "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Love, Need and Want You",
-      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
+      "duration_ms": 192600,
+      "name": "Work to Do",
+      "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -483,22 +499,6 @@
       "duration_ms": 200174,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
-        "name": "Brother, Brother, Brother",
-        "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Work to Do",
-      "url": "https://open.spotify.com/track/1b7tZPt3S2UN6OrPUBqGCp"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
-        "name": "The Essential George Duke",
-        "url": "https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L"
-      },
-      "artists": [
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Say That You Will",
-      "url": "https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
         "name": "Song Book 1985-2010",
         "url": "https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 248626,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
+        "name": "The Essential George Duke",
+        "url": "https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L"
+      },
+      "artists": [
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Say That You Will",
+      "url": "https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br"
     },
     {
       "added_at": "2025-06-06 13:10:13",

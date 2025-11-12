@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 236809,
+  "num_followers": 236854,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAADJsZg1ZKWa15acIncNU3r+",
+  "snapshot_id": "aRErAAAAAADqR/nAeLyynz/UJEwB6g94",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Enamorada",
-        "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 141493,
-      "name": "Mis Muertos",
-      "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Algo Sucede",
         "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 200706,
       "name": "Tu Calor",
       "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Enamorada",
+        "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 141493,
+      "name": "Mis Muertos",
+      "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "M\u00edrame Bien",
-      "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193866,
       "name": "Oleada",
       "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "M\u00edrame Bien",
+      "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "De Mis Pasos (Unplugged) (En Vivo) (with Juan Son)",
-      "url": "https://open.spotify.com/track/6SjCCvEeJvxWfTsSkoL1DR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qomunidad",
         "url": "https://open.spotify.com/album/46UM2myH9VM6Y2NKeWtBBG"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 231082,
       "name": "El Para\u00edso",
       "url": "https://open.spotify.com/track/6ep0QDcZlwNAxT5iLv40Ew"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "De Mis Pasos (Unplugged) (En Vivo) (with Juan Son)",
+      "url": "https://open.spotify.com/track/6SjCCvEeJvxWfTsSkoL1DR"
     },
     {
       "added_at": null,

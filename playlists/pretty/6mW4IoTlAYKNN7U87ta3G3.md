@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mW4IoTlAYKNN7U87ta3G3.md) - [plain]
 
 > Celebrating 90 years of Decca Records.
 
-[Decca Records](https://open.spotify.com/user/deccarecords) - 975 likes - 55 songs - 3 hr 14 min
+[Decca Records](https://open.spotify.com/user/deccarecords) - 976 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/6mW4IoTlAYKNN7U87ta3G3.md) - [plain]
 | 16 | [Particles \- Island Songs VI](https://open.spotify.com/track/6bcjo4kEC3bS46YbKjdywg) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Island Songs](https://open.spotify.com/album/1LvZUmULkYj2c3oxIZhbkX) | 3:58 |
 | 17 | [Last Century Man](https://open.spotify.com/track/6Hi9ucIR3QC7yKJSGEMCwm) | [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Solomon Grey](https://open.spotify.com/album/3NJfv17x2MrV0rKUgv5o2e) | 5:00 |
 | 18 | [Après un rêve, Op.7, No.1 \(Arr\. Cello & Piano\)](https://open.spotify.com/track/7KFro4f3gPPlV5cmXLMD2D) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/4acUoXCarbvGhgd8Rqt2Ka) | 2:56 |
-| 19 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 |
+| 19 | [No Woman, No Cry \(Arr\. Kanneh\-Mason for Solo Cello\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 |
 | 20 | [Einaudi: Elegy For The Arctic](https://open.spotify.com/track/4MvqWzm7BDfHKkms39axnn) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Elegy For The Arctic](https://open.spotify.com/album/4bfDiEITxMSZ4HXlt7U1xz) | 2:38 |
 | 21 | [Hey Laura](https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj) | 3:19 |
 | 22 | [Hymn \- Piano Version](https://open.spotify.com/track/4tesNMsqVVoxUB9ZSeFzBG) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Open Heart Story](https://open.spotify.com/album/1I890o2F14RRpr8zlauWr1) | 4:39 |

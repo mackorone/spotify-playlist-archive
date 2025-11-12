@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,722 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,730 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 26 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
 | 27 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
 | 28 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 |
-| 29 | [Kintsugi](https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Kintsugi](https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw) | 3:31 |
-| 30 | [Panorama ayacuchano](https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Guitarra y Canto del Ande](https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1) | 5:41 |
+| 29 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
+| 30 | [Kintsugi](https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Kintsugi](https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw) | 3:31 |
 | 31 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
-| 32 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
+| 32 | [Panorama ayacuchano](https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Guitarra y Canto del Ande](https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1) | 5:41 |
 | 33 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
 | 34 | [La lluvia \(The Rain\)](https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX) | [Alpamayo](https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK) | [Alpamayo: Music From Peru and Ecuador](https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK) | 4:04 |
 | 35 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 46 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
 | 47 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
 | 48 | [Sol de los Andes](https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu) | [Apurimac](https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi) | [Melodias Andinas \- Musica Instrumental](https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz) | 2:29 |
-| 49 | [Presente Simple](https://open.spotify.com/track/0VHAHQJZvo6djEvDB551Vf) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Presente Simple](https://open.spotify.com/album/5ti3NX7RmgXSSWaFJQ9eay) | 3:21 |
-| 50 | [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 |
+| 49 | [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 |
+| 50 | [Presente Simple](https://open.spotify.com/track/0VHAHQJZvo6djEvDB551Vf) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Presente Simple](https://open.spotify.com/album/5ti3NX7RmgXSSWaFJQ9eay) | 3:21 |
 
 Snapshot ID: `AAAAAA3B1FJmwq4Bwt86cQH5esWYdS2g`

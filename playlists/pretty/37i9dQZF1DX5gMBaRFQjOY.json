@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 587441,
+  "num_followers": 587659,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2025-11-03 22:16:59",
+      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 202026,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/7ETtI1QTDcdI8yL55eXVOF"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 146666,
       "name": "There Stands The Glass",
       "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "added_at": "2025-11-03 22:16:59",
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/7ETtI1QTDcdI8yL55eXVOF"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "Tears Of Fire: The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Golden Ring - Single Version",
-      "url": "https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
         "name": "Songs Of The Brazos Valley",
         "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+        "name": "Tammy's Greatest Hits",
+        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
       "artists": [
         {
-          "name": "George Hamilton IV",
-          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
+      "duration_ms": 154626,
+      "name": "I Don't Wanna Play House",
+      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+      },
+      "artists": [
+        {
+          "name": "George Hamilton IV",
+          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
+    },
+    {
+      "added_at": "2025-11-03 22:16:59",
+      "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "Tammy's Greatest Hits",
-        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I Don't Wanna Play House",
-      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
         "name": "Almost Persuaded",
         "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 176360,
       "name": "Almost Persuaded",
       "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "added_at": "2025-11-03 22:16:59",
+      "album": {
+        "name": "Tears Of Fire: The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Golden Ring - Single Version",
+      "url": "https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf"
     },
     {
       "added_at": "2025-11-03 22:16:59",

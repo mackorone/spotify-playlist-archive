@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
+    },
+    {
+      "album": {
         "name": "#HABIBATI",
         "url": "https://open.spotify.com/album/251HxTPJ9TixCopti7Zn2g"
       },
@@ -12802,7 +12820,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -14392,7 +14410,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -19018,7 +19036,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -30072,7 +30090,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 78960,
       "name": "\u043c\u0438\u043d\u0438\u044e\u0431\u043a\u0430",
       "url": "https://open.spotify.com/track/4c8cveMq2r70IVDbJIUwxv"
@@ -39492,7 +39510,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 191815,
       "name": "\u044f\u043a\u0449\u043e \u0446\u0435 \u043d\u0435 \u043f\u043e-\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u044c\u043e\u043c\u0443",
       "url": "https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB"

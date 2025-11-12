@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,963 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,965 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 72 | [Forever \(Van She Tech Remix\)](https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3) | [Walter Meego](https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS), [Van She Tech](https://open.spotify.com/artist/0aqgzJNXZRtRY2tacDnses) | [Indie\_structable](https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg) | 4:20 |
 | 73 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
 | 74 | [Genesis](https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd) | 3:54 |
-| 75 | [Fancy Footwork](https://open.spotify.com/track/24YW8RhBjRCX7fOWt3YlVR) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/2y70M2PR4IabZgN1wxttNx) | 3:18 |
+| 75 | [It Ain't Easy](https://open.spotify.com/track/6bM8gEfn4LqivqV2AWdbLo) | [Bit Funk](https://open.spotify.com/artist/3QzHXIuwKTQzOhgA3F8mN1) | [Archives & Relics \(2008\-2012\)](https://open.spotify.com/album/1HBqpqPLXCybdgETimYQTp) | 5:34 |
 
 Snapshot ID: `AAAAAOq5zSR7ghV36Swb33qTdoi1xzYr`

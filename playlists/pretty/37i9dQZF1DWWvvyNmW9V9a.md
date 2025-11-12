@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Bella and Edward, but make it teen beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,104,312 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,104,163 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

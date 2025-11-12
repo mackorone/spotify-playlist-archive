@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37621,
+  "num_followers": 37622,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAD+EB0qDFQiJFjGPDr629qn",
+  "snapshot_id": "aRErAAAAAACgOuC3Bn+Mgwl3v812MTuP",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/0ABVcWFqeuzlCL1feJjPjs"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 264239,
       "name": "Guiding Lights",
       "url": "https://open.spotify.com/track/65QPpi3wnDr1MPBd6OXxLM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 223320,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
     },
     {
       "added_at": null,
@@ -642,11 +642,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 241693,
-      "name": "A Letter To No One",
-      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
+      "duration_ms": 182893,
+      "name": "I Am Happy",
+      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
     },
     {
       "added_at": null,
@@ -710,15 +714,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 182893,
-      "name": "I Am Happy",
-      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
+      "duration_ms": 241693,
+      "name": "A Letter To No One",
+      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Groove Continental: Side A",
         "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 174320,
       "name": "Disco Body Parts (feat. AWOLNATION)",
       "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
     },
     {
       "added_at": null,

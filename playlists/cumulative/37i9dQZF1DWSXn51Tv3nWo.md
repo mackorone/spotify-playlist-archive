@@ -4,7 +4,7 @@
 
 > There are some new trolls on the block\. Rock your body to the music from Trolls, including Trolls Band Together.
 
-94 songs - 4 hr 47 min
+94 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Happy Prank Day](https://open.spotify.com/track/04Y0qz8DJtYK1LKQzKzP8V) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Harper](https://open.spotify.com/artist/7MjMfQskeb73adj1haGs7k), [Cooper](https://open.spotify.com/artist/1e9E4tGNxrzTxuImKufdqr), [DJ Suki](https://open.spotify.com/artist/0u3wJFFUvQozEfOwgnLKK0), [Guy Diamond](https://open.spotify.com/artist/4D5oXxmEutTMj9s6YxzS2q), [Satin](https://open.spotify.com/artist/2QRNoVWN7avKiwDKFJWq79), [Chenille](https://open.spotify.com/artist/3XPLcgu5GdY1n7jZ30qiCe) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:18 | 2021-11-26 |  |
 | [Hello](https://open.spotify.com/track/2jXTBrywc6ruxaUXW84Xhr) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 1:37 | 2021-11-26 |  |
 | [Holiday](https://open.spotify.com/track/3hsyh6h2KU3VNFYPHBUXlm) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA), [Christopher Mintz\-Plasse](https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj), [The Bergens](https://open.spotify.com/artist/0145M1oBeEX50yBgaCeQWY) | [TROLLS Holiday](https://open.spotify.com/album/3lo9YzrubM3XXIKjBL1cgf) | 2:50 | 2021-11-26 |  |
-| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2021-11-26 |  |
+| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 6:10 | 2021-11-26 |  |
 | [Hustle Dimension](https://open.spotify.com/track/2nlnngOFdNYV51bAff4CgK) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 2:01 | 2023-11-17 |  |
 | [I Fall to Pieces](https://open.spotify.com/track/2zWc9ii8uDntk6srjMKTGY) | [Sam Rockwell](https://open.spotify.com/artist/6WPC3Dc27kiyJ14fZbDXMl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 2:13 | 2021-11-26 |  |
 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:51 | 2021-11-26 |  |

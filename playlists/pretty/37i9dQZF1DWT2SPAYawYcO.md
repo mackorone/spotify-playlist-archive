@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Paul Kelly, Joji, BENEE, ROSALÍA, Gorillaz, IDLES, Hatchie + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,990 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,980 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

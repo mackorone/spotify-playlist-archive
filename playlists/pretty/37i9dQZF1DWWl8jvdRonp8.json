@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 287129,
+  "num_followers": 287206,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Navidad Con La Regida",
         "url": "https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 267250,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 234920,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
     },
     {
       "added_at": "2025-01-23 17:30:18",

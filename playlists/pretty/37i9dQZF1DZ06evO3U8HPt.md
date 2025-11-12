@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 
 > This is Ella Langley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,917 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,012 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 | 6 | [girl you're taking home](https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:04 |
 | 7 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:44 |
 | 8 | [Wish I Didn't Know Now](https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Wish I Didn't Know Now](https://open.spotify.com/album/0rPZBEzGKgrKRXC8wSwViY) | 4:26 |
-| 9 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
-| 10 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:43 |
+| 9 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:43 |
+| 10 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
 | 11 | [paint the town blue](https://open.spotify.com/track/3hlnEAM64xfug9i81hwPB7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:05 |
 | 12 | [Strangers](https://open.spotify.com/track/1maZDh7a04ixruZ36q2kha) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 3:32 |
-| 13 | [This Version Of Us](https://open.spotify.com/track/3ZhgC1o5jAR5pRZvEQ1RJ1) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:10 |
-| 14 | [Excuse The Mess](https://open.spotify.com/track/5KP3uYT70kYwQYLXUwLlua) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
+| 13 | [Excuse The Mess](https://open.spotify.com/track/5KP3uYT70kYwQYLXUwLlua) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
+| 14 | [This Version Of Us](https://open.spotify.com/track/3ZhgC1o5jAR5pRZvEQ1RJ1) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:10 |
 | 15 | [20\-20](https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:15 |
 | 16 | [nicotine](https://open.spotify.com/track/47CCJxLcvIB8KS7lZxXDDN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:36 |
-| 17 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 |
-| 18 | [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
+| 17 | [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
+| 18 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 |
 | 19 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 |
 | 20 | [love you tonight](https://open.spotify.com/track/2nMJZxXtV5oTPbtIXMpzhX) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:53 |
 | 21 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3U8HPt.md) - [plain]
 | 29 | [Hey Ma I Made It](https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hey Ma I Made It](https://open.spotify.com/album/5Pr7NCTji1hzZxQttXNiqb) | 3:30 |
 | 30 | [Buzzes Like Neon](https://open.spotify.com/track/6Tj35xx9Rmb13ybnVh0OLk) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Buzzes Like Neon](https://open.spotify.com/album/0Nrc4EuEY9c7XDHOaXCx23) | 3:28 |
 
-Snapshot ID: `aQ/ZgAAAAABlIgu4AAxELCU/Grwclccx`
+Snapshot ID: `aRErAAAAAAA/0v4S62mdr1XfrEt/cwBT`

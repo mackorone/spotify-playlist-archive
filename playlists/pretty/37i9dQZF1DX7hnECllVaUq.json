@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: James Johnston",
-  "num_followers": 313893,
+  "num_followers": 313987,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "One Man Band",
-      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "Tailgates & Tanlines",
         "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 225560,
       "name": "Country Girl (Shake It For Me)",
       "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "One Man Band",
+      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Backup Plan (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 181518,
-      "name": "Backup Plan (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1239,34 +1235,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
-      },
-      "artists": [
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 235002,
-      "name": "Am I Okay?",
-      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1287,18 +1271,34 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 178723,
-      "name": "Religiously",
-      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 178723,
+      "name": "Religiously",
+      "url": "https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     }
   ],
   "unique_name": "Country Worldwide",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,402,924 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,402,725 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 86 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 |
 | 87 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 |
 | 88 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 |
-| 89 | [No Judgement](https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [No Judgement](https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T) | 2:56 |
+| 89 | [Kiss from a Rose](https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ) | 4:48 |
 | 90 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
-| 91 | [Kiss from a Rose](https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ) | 4:48 |
+| 91 | [No Judgement](https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [No Judgement](https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T) | 2:56 |
 | 92 | [17](https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:02 |
 | 93 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
 | 94 | [24 Hours](https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:30 |

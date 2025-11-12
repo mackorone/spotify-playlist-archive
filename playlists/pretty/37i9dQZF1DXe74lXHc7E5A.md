@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover:  lil baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,058 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,102 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 49 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
 | 50 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
 | 51 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 |
-| 52 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 |
-| 53 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
+| 52 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
+| 53 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 |
 | 54 | [CORLEONE \(feat\. ODUMODUBLVCK & Steel Banglez\)](https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:49 |
 | 55 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 |
 | 56 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 |

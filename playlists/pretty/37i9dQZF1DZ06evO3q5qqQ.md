@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,302 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,321 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 41 | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE) | 2:33 |
 | 42 | [¿En Dónde Te Habías Metido?](https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Color Del Amor](https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C) | 4:22 |
 | 43 | [El Chapio](https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:55 |
-| 44 | [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 |
-| 45 | [La Playa](https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1) | 3:46 |
-| 46 | [M&G](https://open.spotify.com/track/65JrwoN5AgA9KOGYtYCxou) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:32 |
+| 44 | [M&G](https://open.spotify.com/track/65JrwoN5AgA9KOGYtYCxou) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:32 |
+| 45 | [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 |
+| 46 | [La Playa](https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1) | 3:46 |
 | 47 | [Que las Cuartitos No Falten](https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:59 |
-| 48 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:12 |
-| 49 | [El Amor No Es Para Todos](https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Amor No Es Para Todos](https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES) | 2:22 |
+| 48 | [El Amor No Es Para Todos](https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Amor No Es Para Todos](https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES) | 2:22 |
+| 49 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:12 |
 | 50 | [Bloqueada](https://open.spotify.com/track/472neU5v6nPCe81cPaiZOT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:58 |
 
-Snapshot ID: `aQ/ZgAAAAACUtbZ8esx9+noD7Ftz84yV`
+Snapshot ID: `aRErAAAAAADBebuYrS/+mUJMgxdC5B+R`

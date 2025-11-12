@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,593 likes - 42 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,599 likes - 42 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 17 | [Then I Will \- From The Motion Picture Bonhoeffer](https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Then I Will \(From The Motion Picture Bonhoeffer\)](https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c) | 4:11 |
 | 18 | [Still Rolling Stones](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:08 |
 | 19 | [O' Lord \- Radio Version](https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:29 |
-| 20 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
-| 21 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 |
+| 20 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 |
+| 21 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
 | 22 | [Everything](https://open.spotify.com/track/2YR7SB90SZhMf9J3HYogKa) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:18 |
 | 23 | [Here's My Heart](https://open.spotify.com/track/1m4hUSuv0IlccTAOOBRumJ) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 6:15 |
 | 24 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 41 | [Kaleidoscope Jesus](https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:54 |
 | 42 | [Close \- Live](https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 5:08 |
 
-Snapshot ID: `aQ/ZgAAAAADDbguyxAMix2B5pLJ944eT`
+Snapshot ID: `aRErAAAAAACdx6nhQ7MFti3BWhVCOnkK`

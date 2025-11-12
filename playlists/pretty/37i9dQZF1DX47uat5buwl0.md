@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,632 likes - 78 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,591 likes - 78 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 32 | [Donkerblauwe Deuntjes](https://open.spotify.com/track/6dXVnLOCoKZHjDhYm5Ayrx) | [Lustrum Triton](https://open.spotify.com/artist/4YJ3fLFKp9nTmz2rCt9Fq9), [MOMENTUM](https://open.spotify.com/artist/4hXjXth6uVMW3wugrbmFlM), [Laurence Koch](https://open.spotify.com/artist/07DcKIZlMlQhecgr0VG8Q8), [Marit van der Ploeg](https://open.spotify.com/artist/6mbOnW3YCIgiMB7U5p7I73) | [Donkerblauwe Deuntjes](https://open.spotify.com/album/73eYiVbNZ51AyTSHnoKYqD) | 2:21 |
 | 33 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 |
 | 34 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 |
-| 35 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 35 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 36 | [Snelle Jelle](https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Snelle Jelle](https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH) | 2:16 |
 | 37 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 |
 | 38 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 |

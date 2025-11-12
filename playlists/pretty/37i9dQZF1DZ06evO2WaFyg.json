@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 262946,
+  "num_followers": 262981,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABMSznuB1MKCX5Crl9SLjZ9",
+  "snapshot_id": "aRErAAAAAABc1kmeJplpiFbC8A7gy7Il",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 210600,
       "name": "Pipe Down (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Season 3",
-        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Digits",
-      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
       "added_at": null,
@@ -479,6 +479,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "It's Up (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -527,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 GIGS",
-        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "It's Up (feat. Young Thug & 21 Savage)",
-      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -571,6 +571,26 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,
@@ -599,26 +619,6 @@
       "duration_ms": 226400,
       "name": "That Go! (feat. T-Shyne)",
       "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "City Girls",
-      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "City Girls",
+      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -807,6 +807,30 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo"
     },
     {
       "added_at": null,
@@ -855,30 +879,6 @@
       "duration_ms": 199011,
       "name": "Oh Okay (feat. Young Thug & Lil Baby)",
       "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 366592,
-      "name": "SKITZO (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1023,6 +1003,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 366592,
+      "name": "SKITZO (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miss My Dogs",
         "url": "https://open.spotify.com/album/4gg4WF1614e90qTq8sDMFD"
       },
@@ -1039,22 +1039,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+        "name": "Beautiful Thugger Girls",
+        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
       },
       "artists": [
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 248813,
-      "name": "Yuck (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
+      "duration_ms": 236586,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u"
     },
     {
       "added_at": null,
@@ -1087,18 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Thugger Girls",
-        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+        "name": "Hookah",
+        "url": "https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG"
       },
       "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u"
+      "duration_ms": 202320,
+      "name": "Hookah",
+      "url": "https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U"
     }
   ],
   "unique_name": "This Is Young Thug",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,377 likes - 340 songs - 21 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,378 likes - 340 songs - 21 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 45 | [Courage to Change](https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:52 |
 | 46 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 47 | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 |
-| 48 | [Salted Wound \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/69b5QMSpgvGhcjbQXzmxfP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Salted Wound \(From The" Fifty Shades Of Grey" Soundtrack\)](https://open.spotify.com/album/72KO15RSLNUVAqcQbgorYP) | 4:31 |
-| 49 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 |
+| 48 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 |
+| 49 | [Salted Wound \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/69b5QMSpgvGhcjbQXzmxfP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Salted Wound \(From The" Fifty Shades Of Grey" Soundtrack\)](https://open.spotify.com/album/72KO15RSLNUVAqcQbgorYP) | 4:31 |
 | 50 | [Dynamite \(feat\. Sia\)](https://open.spotify.com/track/0LcLOyu9n5qRTeax5IdewO) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:32 |
 | 51 | [Waterfall](https://open.spotify.com/track/7pYFPMeK0TnaTGdS6qOtEr) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Waterfall](https://open.spotify.com/album/4j8Wr17zfsvxEpeTXHbrmL) | 3:20 |
 | 52 | [Reaper](https://open.spotify.com/track/1usLCyaUZ2y0uoPmKj1uYo) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:39 |
@@ -325,8 +325,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 315 | [Guitars and Microphones](https://open.spotify.com/track/4VIurhWXPYqIZqIsFCLNmE) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:24 |
 | 316 | [Bottoms Up](https://open.spotify.com/track/7fUotzz4voFnmsT6TkeGgp) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 2:38 |
 | 317 | [Time Wave Zero](https://open.spotify.com/track/1IT1QXgq61RFe1E1hWXMIH) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:23 |
-| 318 | [Crush Me With Your Love](https://open.spotify.com/track/3YJvOg1AqvtUqAiTHmBxWZ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:19 |
-| 319 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 318 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 319 | [Crush Me With Your Love](https://open.spotify.com/track/3YJvOg1AqvtUqAiTHmBxWZ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:19 |
 | 320 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
 | 321 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
 | 322 | [Sweet One \(feat\. Sia\)](https://open.spotify.com/track/4fYW8D26oT3GjmaBYK3Pm9) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr), [The Captains](https://open.spotify.com/artist/37JtJzCZlbzsJqpkRSoXiG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Emperor's Box](https://open.spotify.com/album/6MuRAdOhzqvhItkS8lUPST) | 4:07 |
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 339 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 340 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcBPngAAAAAVP1o4psQuHiv/hzRhhDl5`
+Snapshot ID: `AcBVegAAAAAmRa4r3fIJ2sCDCEP5QD0H`

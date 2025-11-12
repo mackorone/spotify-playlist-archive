@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-466 songs - 1 day 5 hr 53 min
+467 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-10-06 |
 | [CD](https://open.spotify.com/track/0MxfrxF46gT6S3oz6CbNbF) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [CD](https://open.spotify.com/album/3x4ngwfnySLcB3UBtAID91) | 3:06 | 2023-07-11 | 2023-08-18 |
 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2025-07-11 |  |
-| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 |  |
+| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 | 2025-11-12 |
 | [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 | 2024-09-25 | 2025-01-14 |
 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 | 2023-08-01 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-23 |  |
@@ -407,6 +407,7 @@
 | [Todai](https://open.spotify.com/track/1Zcmka6ZS0KHmFSvEJdQSZ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 2:54 | 2022-12-01 | 2022-12-16 |
 | [Todai](https://open.spotify.com/track/7M7R9d2XP1EfqpIq4D0Zlv) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 2:54 | 2022-11-10 | 2022-11-13 |
 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 | 2022-10-20 | 2022-12-03 |
+| [Too Good to be Bad](https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Too Good to be Bad](https://open.spotify.com/album/5NQNmJ3Q1PALGrmnl0c22t) | 2:52 | 2025-11-11 |  |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-26 | 2025-04-09 |
 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-23 | 2023-07-07 |
 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 | 2023-07-13 | 2023-08-16 |

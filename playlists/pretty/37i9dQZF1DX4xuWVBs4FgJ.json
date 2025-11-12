@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1820959,
+  "num_followers": 1820931,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
         "name": "Ashlyn",
         "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 222926,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 216346,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Waiting for God in the Garden",
-        "url": "https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR"
-      },
-      "artists": [
-        {
-          "name": "CLAY",
-          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
-        }
-      ],
-      "duration_ms": 180081,
-      "name": "Waiting for God in the Garden",
-      "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Home Movies",
         "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 196000,
       "name": "Home Movies",
       "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Waiting for God in the Garden",
+        "url": "https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR"
+      },
+      "artists": [
+        {
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+        }
+      ],
+      "duration_ms": 180081,
+      "name": "Waiting for God in the Garden",
+      "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
     },
     {
       "added_at": "2025-10-07 16:14:02",

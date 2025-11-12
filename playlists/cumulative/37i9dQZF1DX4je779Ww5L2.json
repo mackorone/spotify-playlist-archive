@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "album": {
         "name": "Pass Through Time",
         "url": "https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl"
       },
@@ -1266,6 +1284,24 @@
       "duration_ms": 183226,
       "name": "The Sun Will Rise",
       "url": "https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0"
+    },
+    {
+      "album": {
+        "name": "The Truth Can Wait",
+        "url": "https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh"
+      },
+      "artists": [
+        {
+          "name": "Lum\u00ef",
+          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "The Truth Can Wait",
+      "url": "https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb"
     },
     {
       "album": {

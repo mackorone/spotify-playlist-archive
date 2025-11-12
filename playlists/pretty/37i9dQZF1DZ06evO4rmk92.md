@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,768 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,794 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 10 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 |
 | 11 | [Nature Boy](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 12 | [Mona Lisa](https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:14 |
-| 13 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:31 |
-| 14 | [When Sunny Gets Blue](https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 2:46 |
+| 13 | [When Sunny Gets Blue](https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 2:46 |
+| 14 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:31 |
 | 15 | [Orange Colored Sky](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
 | 16 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
 | 17 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 29 | [You Made Me Love You \(I Didn't Want To Do It\) \- Remastered](https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Thank You, Pretty Baby](https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2) | 2:52 |
 | 30 | [The Party's Over](https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 2:44 |
 | 31 | [Let's Fall In Love](https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:48 |
-| 32 | [The Girl From Ipanema](https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ultimate Nat King Cole](https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4) | 2:54 |
-| 33 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
+| 32 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
+| 33 | [The Girl From Ipanema](https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ultimate Nat King Cole](https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4) | 2:54 |
 | 34 | [On The Street Where You Live](https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 3:12 |
 | 35 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 |
 | 36 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/3VWYuQ65f34zCUYSoakoJR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Let's Face The Music \(Expanded Edition\)](https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
 | 50 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
 
-Snapshot ID: `aQ/ZgAAAAABFWevCtd0Rx2Wpb0WJE9A0`
+Snapshot ID: `aRErAAAAAABiSvpJOKAm1UXgK8n4e/fA`

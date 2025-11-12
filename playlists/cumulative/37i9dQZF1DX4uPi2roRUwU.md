@@ -4,7 +4,7 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-188 songs - 8 hr 46 min
+189 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Drink in Moderation](https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ) | [BOY LOCO](https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX) | [Drink in Moderation](https://open.spotify.com/album/5NUUa5rNKMGLgOC7eRIaL8) | 2:20 | 2024-12-16 | 2025-04-08 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-09-01 | 2024-10-30 |
 | [Endless Summer \(LUM!X Remix\)](https://open.spotify.com/track/2sfyCks2pCYrutBLaAScGe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Endless Summer \(LUM!X Remix\)](https://open.spotify.com/album/3RoaCuBXnv3ehgethBtNHV) | 2:37 | 2023-09-01 | 2023-09-09 |
+| [Ex's & Oh's](https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Ex's & Oh's](https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR) | 2:03 | 2025-11-06 |  |
 | [Feel](https://open.spotify.com/track/4scxvvNN8Dhm5y4p54QamD) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Feel](https://open.spotify.com/album/7kkyeILHHd6XfHyR3K36yD) | 2:47 | 2024-12-09 | 2025-07-09 |
 | [Feels Like \(La La La\)](https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Feels Like \(La La La\)](https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn) | 2:48 | 2024-03-06 | 2024-05-19 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2023-09-01 |  |
@@ -97,7 +98,7 @@
 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 | 2024-11-11 |  |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2024-03-15 |  |
 | [Jet Plane](https://open.spotify.com/track/71uN50XgLYyAJaSXr0TNsY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Jet Plane \(with VIZE & JP Cooper\)](https://open.spotify.com/album/7iceVLH1NBbwX6Ij7XUBKv) | 2:58 | 2024-02-09 | 2024-05-18 |
-| [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 | 2024-08-22 |  |
+| [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 | 2024-08-22 | 2025-11-12 |
 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 | 2025-03-13 |  |
 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 | 2024-07-01 | 2024-09-17 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-19 | 2025-09-30 |

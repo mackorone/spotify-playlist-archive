@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,013 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,065 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 27 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 |
 | 28 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 |
 | 29 | [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 |
-| 30 | [WOKE UP x XDM](https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [XDM Unidentified Waves](https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205) | 3:09 |
-| 31 | [go!](https://open.spotify.com/track/5t2y268snYiNava21XWxMZ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 2:11 |
+| 30 | [go!](https://open.spotify.com/track/5t2y268snYiNava21XWxMZ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 2:11 |
+| 31 | [WOKE UP x XDM](https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [XDM Unidentified Waves](https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205) | 3:09 |
 | 32 | [SynthScale](https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [SynthScale](https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg) | 5:19 |
 | 33 | [wo ai ni \- Shinichi Osawa Remix](https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [wo ai ni](https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV) | 3:33 |
 | 34 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |

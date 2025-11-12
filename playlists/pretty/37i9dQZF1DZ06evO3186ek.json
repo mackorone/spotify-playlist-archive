@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 162890,
+  "num_followers": 162888,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAgNIWYi1otycF79sJIpa7y",
+  "snapshot_id": "aRErAAAAAADHot2xwv8YbMPplqcvUYdL",
   "tracks": [
     {
       "added_at": null,
@@ -116,16 +116,12 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
           "name": "Joe L Barnes",
           "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
       "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes)",
+      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
@@ -140,16 +136,16 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "Cody Carnes",
           "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
       "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
+      "name": "Firm Foundation (He Won't)[Feat. Chandler Moore]",
       "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
@@ -239,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 400646,
+      "name": "Closer (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/786kFVhHYQ3zIgTHWo6WHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -287,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 400646,
-      "name": "Closer (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/786kFVhHYQ3zIgTHWo6WHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
         "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
@@ -335,6 +331,26 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 435535,
+      "name": "The Story I'll Tell ( Feat. Naomi Raine)",
+      "url": "https://open.spotify.com/track/5ypaD5LqwkhRKBuIptdkVl"
     },
     {
       "added_at": null,
@@ -387,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 435535,
-      "name": "The Story I'll Tell",
-      "url": "https://open.spotify.com/track/5ypaD5LqwkhRKBuIptdkVl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
         "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
       },
@@ -444,16 +440,12 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "Steffany Gretzinger",
           "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
       "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger)",
+      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
       "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
@@ -548,20 +540,20 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
           "name": "Israel Houghton",
           "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
         },
         {
           "name": "Mav City Gospel Choir",
           "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
       "duration_ms": 492415,
-      "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
+      "name": "God Will Work It Out (feat. Naomi Raine, Israel Houghton & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
     },
     {
@@ -587,6 +579,34 @@
       "duration_ms": 509977,
       "name": "Talking To Jesus (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond (I See The Glory) feat. Mara Justine",
+        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 343953,
+      "name": "Diamond (I See the Glory) feat. Mara Justine",
+      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
     },
     {
       "added_at": null,
@@ -639,6 +659,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 515232,
+      "name": "Mercy (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
@@ -667,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 515232,
-      "name": "Mercy (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
         "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
@@ -715,34 +735,6 @@
       "duration_ms": 202503,
       "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
       "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamond (I See The Glory) feat. Mara Justine",
-        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 343953,
-      "name": "Diamond (I See the Glory) feat. Mara Justine",
-      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
     },
     {
       "added_at": null,
@@ -776,16 +768,12 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "KJ Scriven",
           "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
         }
       ],
       "duration_ms": 542193,
-      "name": "Man of Your Word (feat. KJ Scriven)",
+      "name": "Man of Your Word (feat. KJ Scriven, Chandler Moore)",
       "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
     },
     {
@@ -936,16 +924,12 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
       "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown)",
+      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
       "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
@@ -960,20 +944,12 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
           "name": "Mav City Gospel Choir",
           "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
         }
       ],
       "duration_ms": 360451,
-      "name": "Jireh (feat. Mav City Gospel Choir)",
+      "name": "Jireh (feat. Mav City Gospel Choir, Chandler Moore, Naomi Raine)",
       "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
     },
     {
@@ -1241,7 +1217,7 @@
         }
       ],
       "duration_ms": 513188,
-      "name": "Yes & Amen",
+      "name": "Yes & Amen(feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
     }
   ],

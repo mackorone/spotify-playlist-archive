@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,745 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,772 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 81 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
 | 82 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 |
 | 83 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 |
-| 84 | [Crocodile](https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:45 |
+| 84 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
 | 85 | [Love & Robots](https://open.spotify.com/track/3TQDm5KzgBzjIBhkiYVKjB) | [EASTLAND PARK](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP) | [not a fish\. EP](https://open.spotify.com/album/2hROGt5wtn4fiQaNBV2OvL) | 3:31 |
 | 86 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
-| 87 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
+| 87 | [Crocodile](https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:45 |
 | 88 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 |
 | 89 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
 | 90 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 |

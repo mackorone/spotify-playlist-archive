@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Giorgia in cover
 
-431 songs - 22 hr 0 min
+436 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 | 2025-02-12 | 2025-06-13 |
 | [LA VOCE CHE CREDEVO DI AVER PERSO](https://open.spotify.com/track/2xQMUqcxDKrhpGtLYbXVs7) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [ANIME](https://open.spotify.com/album/0ox8dkBzXmmV7cgfstXdcu) | 3:03 | 2025-10-02 | 2025-10-21 |
 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 | 2025-01-16 | 2025-02-18 |
+| [Laguna](https://open.spotify.com/track/0L7oxMR89ji7A6htHnPR8L) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Laguna](https://open.spotify.com/album/5W4eH1naXtnfhw3f93qB2V) | 3:08 | 2025-11-11 |  |
 | [Lampo](https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lampo](https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv) | 3:27 | 2025-06-19 | 2025-08-23 |
 | [Lasciamene un po'](https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Lasciamene un po'](https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco) | 3:27 | 2025-09-11 | 2025-11-07 |
 | [Latitante](https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Latitante](https://open.spotify.com/album/0th9XXNZc92LIWSPwLovAv) | 2:55 | 2024-07-04 | 2024-08-02 |
@@ -224,6 +225,7 @@
 | [LUNA ROSSA](https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [TOCCA IL CIELO](https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv) | 2:40 | 2025-05-22 | 2025-06-04 |
 | [Lunarossa \(feat\. Mahmood\)](https://open.spotify.com/track/1AtoFMtluLDiW0nZd7skxp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Canerandagio](https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR) | 2:58 | 2025-08-28 | 2025-09-26 |
 | [Lunedì blu](https://open.spotify.com/track/23WMdJgRYnVZpxPNUamXa8) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lunedì blu](https://open.spotify.com/album/3o217jWs0rLnkC1bj48RAw) | 3:09 | 2025-09-18 | 2025-10-24 |
+| [Luoghi Perduti](https://open.spotify.com/track/0buQEirKTKRWP0rPK4NaDl) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Luoghi Perduti](https://open.spotify.com/album/1XlyOWkPvZd9mnUjhFcKLG) | 3:02 | 2025-11-11 |  |
 | [L’ANTIDOTO](https://open.spotify.com/track/3LoF82vdIovbNRhhye7MVu) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [L’ANTIDOTO](https://open.spotify.com/album/7kcfPADNgBevXaUV3H9u4Q) | 2:28 | 2025-03-20 | 2025-04-25 |
 | [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 | 2025-08-28 | 2025-09-23 |
 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 | 2024-11-20 | 2025-01-17 |
@@ -333,6 +335,7 @@
 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-10-24 | 2025-05-23 |
 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 | 2025-08-28 |  |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-07-01 | 2024-12-06 |
+| [Radio Erotika](https://open.spotify.com/track/59IeMCaIqZczzhLEKzijWU) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [Radio Erotika](https://open.spotify.com/album/2neQ86CxCxsq2JbfJrV4Wv) | 2:35 | 2025-11-11 |  |
 | [Ragazze facili](https://open.spotify.com/track/3KJF0gcADaG7bSR4zKfE1G) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [ALASKA BABY](https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq) | 4:02 | 2024-11-28 | 2024-12-13 |
 | [Ragazzina](https://open.spotify.com/track/7FyxANPDgfcq4TXH4pDzRv) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Ragazzina](https://open.spotify.com/album/6WE48UOg2niHYQjmGqWhU9) | 3:12 | 2025-10-16 | 2025-11-04 |
 | [Ragione e Follia](https://open.spotify.com/track/3AKqs2n900YLNiayeLnTUJ) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Ragione e Follia](https://open.spotify.com/album/1CBt7d71THAwB6RL2d3Yio) | 3:12 | 2025-06-26 | 2025-08-15 |
@@ -375,8 +378,10 @@
 | [Sono Un Grande](https://open.spotify.com/track/7nCNEWj8T3NUew4rvVXX2D) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [SONO UN GRANDE](https://open.spotify.com/album/21lb48X13ygaYOsHi8RCS6) | 3:21 | 2025-10-23 |  |
 | [Sottocosto](https://open.spotify.com/track/1vFMS4QY6wVqoDnaRuL0SB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Sottocosto](https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM) | 2:57 | 2025-05-29 | 2025-06-27 |
 | [SOTTOMARINI](https://open.spotify.com/track/51ttz3b0rd7a6UOASo36lv) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [SOTTOMARINI](https://open.spotify.com/album/28da0MtocHgOTrheQsmGe5) | 2:53 | 2025-02-20 | 2025-04-18 |
+| [Sottovoce](https://open.spotify.com/track/2DoflfeYOpvsFpmNK6dxEB) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Sottovoce](https://open.spotify.com/album/1rRflSMvQtIEy8Ij2TFmpa) | 3:17 | 2025-11-11 |  |
 | [SPA CABARET](https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SPA CABARET](https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ) | 3:31 | 2025-03-20 | 2025-04-18 |
 | [SPERO CHE DIO NON ME LA PORTI VIA](https://open.spotify.com/track/0PQ56MIXWCCtrQNhkSf2ic) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/48XM18Azz6c6afvKV239IW) | 3:01 | 2025-10-09 |  |
+| [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 | 2025-11-11 |  |
 | [Spirito Libero](https://open.spotify.com/track/6AT8BqPSI5cb8DpmtMu3E5) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Spirito Libero \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5YzPlEnke0TCwqtyY0BVEo) | 3:00 | 2025-05-15 | 2025-05-23 |
 | [Spogliami](https://open.spotify.com/track/0yDCcAlCuvKLE34cxMRVDp) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Spogliami](https://open.spotify.com/album/2Aq48XzFY1UZA1PAAJobcS) | 3:19 | 2025-01-09 | 2025-01-24 |
 | [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 | 2024-11-13 | 2024-12-20 |

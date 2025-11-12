@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1098565,
+  "num_followers": 1098775,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAGRcOMv5yEzFoGOZDeTYOZ",
+  "snapshot_id": "aRErAAAAAACtcIOsGTsKtwZyENBio8RN",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "QUE VUELVAS",
-      "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado del 2023",
         "url": "https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "QUE VUELVAS",
+      "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Casi oficial",
+      "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 189512,
       "name": "Si T\u00fa Me Vieras",
       "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Casi oficial",
-      "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mutuo",
-        "url": "https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177888,
-      "name": "Mutuo",
-      "url": "https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 168124,
       "name": "El Correcto",
       "url": "https://open.spotify.com/track/0rvGl8ZQBLhOZcqc33gPbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mutuo",
+        "url": "https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177888,
+      "name": "Mutuo",
+      "url": "https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ"
     },
     {
       "added_at": null,

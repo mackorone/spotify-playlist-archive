@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,863 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,895 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 21 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 | 22 | [Pennywise \- Deadly Guns Remix](https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Pennywise \(Deadly Guns Remix\)](https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb) | 2:32 |
 | 23 | [Dynamite \- 2025 OST](https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Dynamite \(2025 OST\)](https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ) | 2:53 |
-| 24 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 |
-| 25 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 |
+| 24 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 |
+| 25 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 |
 | 26 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 |
 | 27 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
 | 28 | [Club Banger](https://open.spotify.com/track/2wkQjbEHsp0VbFdbc3FFWS) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Club Banger](https://open.spotify.com/album/1dRTAgu3lF9zpe1WaDZ2wf) | 1:58 |

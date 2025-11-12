@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 9996,
+  "num_followers": 10000,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACqHQV7CHUhDkEs58nFmZq7",
+  "snapshot_id": "aRErAAAAAADc9bsLUgmF0NxD+/3FBQ6f",
   "tracks": [
     {
       "added_at": null,
@@ -455,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Kanon Pokajanen: Kondakion",
-      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
         "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 509994,
       "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
       "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Kanon Pokajanen: Kondakion",
+      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Choral Music",
-        "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
+        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
       },
       "artists": [
         {
@@ -720,17 +720,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
-        },
-        {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Morning Star",
-      "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
+      "duration_ms": 401800,
+      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
     },
     {
       "added_at": null,
@@ -763,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
+        "name": "Arvo P\u00e4rt: Choral Music",
+        "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
       },
       "artists": [
         {
@@ -772,13 +768,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
         }
       ],
-      "duration_ms": 401800,
-      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
+      "duration_ms": 161026,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
     },
     {
       "added_at": null,
@@ -803,6 +803,106 @@
       "duration_ms": 296986,
       "name": "Most Holy Mother of God",
       "url": "https://open.spotify.com/track/1dfc3iE4B7OTMAwLYFYYCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Summa",
+      "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Maria Listra",
+          "url": "https://open.spotify.com/artist/1IgLtPfQtkvDMPtmhSlttw"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 835200,
+      "name": "L'abb\u00e9 Agathon",
+      "url": "https://open.spotify.com/track/0lC8cVUN3S0ZTGoBzVQJbp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 498573,
+      "name": "Kanon Pokajanen: Ode VI",
+      "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 490920,
+      "name": "And One of the Pharisees...",
+      "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
     },
     {
       "added_at": null,
@@ -840,106 +940,6 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Maria Listra",
-          "url": "https://open.spotify.com/artist/1IgLtPfQtkvDMPtmhSlttw"
-        },
-        {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 835200,
-      "name": "L'abb\u00e9 Agathon",
-      "url": "https://open.spotify.com/track/0lC8cVUN3S0ZTGoBzVQJbp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Summa",
-      "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 490920,
-      "name": "And One of the Pharisees...",
-      "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 498573,
-      "name": "Kanon Pokajanen: Ode VI",
-      "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Tractus",
-        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
           "name": "Estonian Philharmonic Chamber Choir",
           "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
         },
@@ -955,54 +955,6 @@
       "duration_ms": 177626,
       "name": "Veni creator",
       "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Symphony No. 2: III",
-      "url": "https://open.spotify.com/track/4C9DIuIqyXlPEyV7Z56KxH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Fratres",
-        "url": "https://open.spotify.com/album/7IIbRzKOYUk5saQx3w0Jb7"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "I Fiamminghi (The Orchestra of Flanders)",
-          "url": "https://open.spotify.com/artist/4vjFTop2IzNPaDE4ShfPuD"
-        },
-        {
-          "name": "Rudolf Werthen",
-          "url": "https://open.spotify.com/artist/6mGXy7lIC2AAoPCjBZTxNl"
-        }
-      ],
-      "duration_ms": 614333,
-      "name": "Fratres (Version for Strings & Percussion)",
-      "url": "https://open.spotify.com/track/0iCBry8uGq4XL48x76b2EQ"
     },
     {
       "added_at": null,
@@ -1031,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Tractus",
-        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
       "artists": [
         {
@@ -1040,17 +992,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
         },
         {
           "name": "T\u00f5nu Kaljuste",
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 752973,
-      "name": "These Words\u2026",
-      "url": "https://open.spotify.com/track/2t2K02f366I69a4ZBfgSwh"
+      "duration_ms": 287373,
+      "name": "Symphony No. 2: III",
+      "url": "https://open.spotify.com/track/4C9DIuIqyXlPEyV7Z56KxH"
     },
     {
       "added_at": null,
@@ -1075,8 +1027,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
       "artists": [
         {
@@ -1084,17 +1036,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
         },
         {
           "name": "T\u00f5nu Kaljuste",
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 678586,
-      "name": "Symphony No. 1 \"Polyphonic\": I. Canons",
-      "url": "https://open.spotify.com/track/5geidohxFYXnTHnGGCm4pl"
+      "duration_ms": 752973,
+      "name": "These Words\u2026",
+      "url": "https://open.spotify.com/track/2t2K02f366I69a4ZBfgSwh"
     },
     {
       "added_at": null,
@@ -1119,6 +1071,54 @@
       "duration_ms": 479533,
       "name": "Kanon Pokajanen: Ode V",
       "url": "https://open.spotify.com/track/16g7VkScYmSC2bAqRoDaRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Fratres",
+        "url": "https://open.spotify.com/album/7IIbRzKOYUk5saQx3w0Jb7"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "I Fiamminghi (The Orchestra of Flanders)",
+          "url": "https://open.spotify.com/artist/4vjFTop2IzNPaDE4ShfPuD"
+        },
+        {
+          "name": "Rudolf Werthen",
+          "url": "https://open.spotify.com/artist/6mGXy7lIC2AAoPCjBZTxNl"
+        }
+      ],
+      "duration_ms": 614333,
+      "name": "Fratres (Version for Strings & Percussion)",
+      "url": "https://open.spotify.com/track/0iCBry8uGq4XL48x76b2EQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 678586,
+      "name": "Symphony No. 1 \"Polyphonic\": I. Canons",
+      "url": "https://open.spotify.com/track/5geidohxFYXnTHnGGCm4pl"
     },
     {
       "added_at": null,

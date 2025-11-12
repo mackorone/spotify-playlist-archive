@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AOTO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Pxrge Trxxxper",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -224,7 +224,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 226800,
       "name": "128",
       "url": "https://open.spotify.com/track/03qgnamcJASDvzIagmMg7w"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 118378,
       "name": "ANATA",
       "url": "https://open.spotify.com/track/0goTEDUnLSEXLEZC09hVbm"
@@ -2879,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/1wCEA0KH6EDEC3GSy2voeP"
+      },
+      "artists": [
+        {
+          "name": "YOUNG GAGA GG DIOR",
+          "url": "https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137037,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0lSt2PbfbHWcf7R22RgBCH"
+    },
+    {
+      "album": {
         "name": "Frozen 2",
         "url": "https://open.spotify.com/album/4PGMAw2cbkbo9kCh9f5r1O"
       },
@@ -3292,6 +3310,28 @@
       "duration_ms": 148604,
       "name": "bottom",
       "url": "https://open.spotify.com/track/1X7Qz1fMx7cZcVbzE0EYgM"
+    },
+    {
+      "album": {
+        "name": "BOUNCE (feat. C.O.S.A.)",
+        "url": "https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157139,
+      "name": "BOUNCE (feat. C.O.S.A.)",
+      "url": "https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ"
     },
     {
       "album": {
@@ -6046,6 +6086,24 @@
       "duration_ms": 168837,
       "name": "emotion+",
       "url": "https://open.spotify.com/track/0ccu7nyospKvEzOTnPppLD"
+    },
+    {
+      "album": {
+        "name": "En",
+        "url": "https://open.spotify.com/album/1FCSx8jrCJd4OHvywqVg40"
+      },
+      "artists": [
+        {
+          "name": "5Leaf",
+          "url": "https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154503,
+      "name": "En",
+      "url": "https://open.spotify.com/track/5SSdq2MbNNRj2y9ARtJy39"
     },
     {
       "album": {
@@ -13221,6 +13279,24 @@
     },
     {
       "album": {
+        "name": "N side Nostalgia",
+        "url": "https://open.spotify.com/album/7hQJIkeOKzPcDjPmtP78FD"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u8c37\u62f3\u56db\u90ce",
+          "url": "https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "N side Nostalgia",
+      "url": "https://open.spotify.com/track/2YX1I8Lfl1jhDh5IE5DG1M"
+    },
+    {
+      "album": {
         "name": "n0is3",
         "url": "https://open.spotify.com/album/7nnzLrPxqTHMLlMcaczQ8Z"
       },
@@ -14039,6 +14115,32 @@
     },
     {
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0nuOArbWi5pMmGWloRGH5K"
+      },
+      "artists": [
+        {
+          "name": "WillHalo",
+          "url": "https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx"
+        },
+        {
+          "name": "999dobby",
+          "url": "https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc"
+        },
+        {
+          "name": "J1rock",
+          "url": "https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95342,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/0HbR7y988vvGBwUYDCxziy"
+    },
+    {
+      "album": {
         "name": "COOL DOWN 2",
         "url": "https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG"
       },
@@ -14306,7 +14408,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 180223,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/4odOC8MmhKBR7JPjQ3lITl"
@@ -14703,6 +14805,28 @@
     },
     {
       "album": {
+        "name": "ORENOMANE",
+        "url": "https://open.spotify.com/album/5pI7kgwVwOqKxZs3ysUUow"
+      },
+      "artists": [
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        },
+        {
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253032,
+      "name": "ORENOMANE",
+      "url": "https://open.spotify.com/track/6SCMoerymlQz25XH3a8HGZ"
+    },
+    {
+      "album": {
         "name": "ORERAWABAKA",
         "url": "https://open.spotify.com/album/6GxDhLN3ROhZNHyX0BhLnM"
       },
@@ -15054,7 +15178,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 135949,
       "name": "Pain Always",
       "url": "https://open.spotify.com/track/39tWjRwf5Mbz9Im1BTmREi"
@@ -16528,7 +16652,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 154015,
       "name": "Risk Your (feat. Bonbero)",
       "url": "https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP"
@@ -16834,7 +16958,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 147547,
       "name": "Runnin' Out",
       "url": "https://open.spotify.com/track/1ZHFRdoknRywefniSsZTWN"
@@ -17044,7 +17168,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 172000,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/6X4yjQUedTysOxv0R18eTH"
@@ -17567,6 +17691,28 @@
     },
     {
       "album": {
+        "name": "TWO SIDES",
+        "url": "https://open.spotify.com/album/6OokLDgyfhzrP4jijFgTpL"
+      },
+      "artists": [
+        {
+          "name": "Elle",
+          "url": "https://open.spotify.com/artist/2t0Zf9y5gzeiGm2Qw3F321"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173685,
+      "name": "Shi Wa (feat. Siero)",
+      "url": "https://open.spotify.com/track/535odU3ITcNtfGuPIljNYA"
+    },
+    {
+      "album": {
         "name": "SHIBUSHO",
         "url": "https://open.spotify.com/album/2RjMP0EbxN7Yq5A3aClR78"
       },
@@ -18076,6 +18222,24 @@
       "duration_ms": 195750,
       "name": "Snow Dancing In The Dark",
       "url": "https://open.spotify.com/track/0qtsTPJx64022RRwXPdnSt"
+    },
+    {
+      "album": {
+        "name": "sora",
+        "url": "https://open.spotify.com/album/6tvyTj8QS2AgiOEimPLkbo"
+      },
+      "artists": [
+        {
+          "name": "OH\u00a5A",
+          "url": "https://open.spotify.com/artist/7uf98BiqPbSrZDuhSt2KId"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111708,
+      "name": "sora",
+      "url": "https://open.spotify.com/track/6jHvU5W31lQuir2JP6jNKh"
     },
     {
       "album": {
@@ -19102,7 +19266,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 135000,
       "name": "Switch!",
       "url": "https://open.spotify.com/track/6Td7ZVBmvlnWMA0RKMw5VZ"
@@ -20362,6 +20526,28 @@
       "duration_ms": 150624,
       "name": "Until I Die",
       "url": "https://open.spotify.com/track/5XR0jpBmQZW6dJLZiwgPkg"
+    },
+    {
+      "album": {
+        "name": "UPDRAFT",
+        "url": "https://open.spotify.com/album/0CD2v5gBl1fM27zLbyT9kt"
+      },
+      "artists": [
+        {
+          "name": "HIZAGUTYA",
+          "url": "https://open.spotify.com/artist/5Ea97dD3vhOI7pwzeiBWae"
+        },
+        {
+          "name": "Scoop Keef",
+          "url": "https://open.spotify.com/artist/169IM0IHba9XWQHAYtggPR"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137571,
+      "name": "UPDRAFT",
+      "url": "https://open.spotify.com/track/0fRRGhANA28fQH3l9t0BbN"
     },
     {
       "album": {
@@ -23262,7 +23448,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 197496,
       "name": "\u697d\u3057\u3044\u3060\u3051\u3058\u3083 (feat. Worldwide Skippa)",
       "url": "https://open.spotify.com/track/3bTF24ppSYQ8aohmy2CcRC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,789,474 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,789,548 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 27 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 |
 | 28 | [What Don't Belong To Me](https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:27 |
 | 29 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 |
-| 30 | [Cooped Up / Return Of The Mack](https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Cooped Up / Return Of The Mack](https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF) | 2:07 |
-| 31 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
+| 30 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
+| 31 | [Cooped Up / Return Of The Mack](https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Cooped Up / Return Of The Mack](https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF) | 2:07 |
 | 32 | [Nosedive \(Feat\. Lainey Wilson\)](https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:12 |
 | 33 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
 | 34 | [Over Now](https://open.spotify.com/track/09IOPhEh1OMe0HD9b36FJk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 49 | [Brother \(with Post Malone & YoungBoy Never Broke Again\)](https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Brother](https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ) | 3:37 |
 | 50 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 |
 
-Snapshot ID: `aQ/ZgAAAAADGPnbUfzswqqk8OwXeWT0b`
+Snapshot ID: `aRErAAAAAAB3UTl9pfVMYuGTRQYsgYhy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: TCTS, Jess Bays
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,940 likes - 133 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,913 likes - 133 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

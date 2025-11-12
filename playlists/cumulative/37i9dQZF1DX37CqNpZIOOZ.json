@@ -233,36 +233,6 @@
     },
     {
       "album": {
-        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
-        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Lise Davidsen",
-          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276080,
-      "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
-      "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
-    },
-    {
-      "album": {
         "name": "R. Strauss & Wagner: Lieder",
         "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
       },
@@ -2026,6 +1996,36 @@
       "duration_ms": 138834,
       "name": "Rote Rosen, TrV 119",
       "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
+        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276080,
+      "name": "Ruhe, meine Seele, Op. 27 No. 1 (Version with Orchestra)",
+      "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
     },
     {
       "album": {

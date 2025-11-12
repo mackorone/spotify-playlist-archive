@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Salim-Sulaiman and Shankar Mahadevan",
-  "num_followers": 80928,
+  "num_followers": 80940,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2025-11-05 07:00:48",
       "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Amjad Sabri",
+          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "duration_ms": 717190,
+      "name": "Rang",
+      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2025-11-05 07:00:48",
+      "album": {
         "name": "Holi Aayi Re | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 328181,
       "name": "Holi Aayi Re | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI"
-    },
-    {
-      "added_at": "2025-11-05 07:00:48",
-      "album": {
-        "name": "Coke Studio: Season 9",
-        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
-      },
-      "artists": [
-        {
-          "name": "Amjad Sabri",
-          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 717190,
-      "name": "Rang",
-      "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
     },
     {
       "added_at": "2025-11-05 07:00:48",

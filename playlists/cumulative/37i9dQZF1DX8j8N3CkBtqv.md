@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Parvaaz, The Yellow Diary and other exciting artists.
 
-1,213 songs - 2 day 18 hr 17 min
+1,214 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [filhaal](https://open.spotify.com/track/6SO0WhGWE7L37gKJ8QjGlu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [filhaal](https://open.spotify.com/album/5HBeJ0OkBN6k8JxPODwgZ2) | 3:06 | 2023-11-24 | 2023-12-23 |
 | [Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her](https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq) | 3:27 | 2025-01-31 | 2025-06-07 |
 | [Fireflies](https://open.spotify.com/track/0yYPEw8XGbRhIczNuGzw5H) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Fireflies](https://open.spotify.com/album/7H4sAe84ZPcJW7Th30CJg5) | 3:28 | 2023-09-15 | 2023-10-14 |
+| [Firki](https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Firki](https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv) | 2:56 | 2025-11-07 |  |
 | [Fizayen](https://open.spotify.com/track/5KW82dijsE2Gw3dP7Rn62w) | [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Fizayen](https://open.spotify.com/album/6a5usnCX7OSRSReqsVti6W) | 3:27 | 2025-07-04 | 2025-08-09 |
 | [Fizool](https://open.spotify.com/track/1xZ921cGTi0p4YtyxbRs0G) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Fizool](https://open.spotify.com/album/21syGm5hk5cQUB9CsFkh8C) | 2:31 | 2024-05-17 | 2024-06-29 |
 | [Follow](https://open.spotify.com/track/4OFQByHmefFNvNwuEtPkWl) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [pixl.](https://open.spotify.com/artist/3Lf8QtJRE01j9Hqyd5bVRC) | [Follow](https://open.spotify.com/album/3q074oTlvh5FBfOZUhsJFt) | 3:16 | 2024-07-12 | 2024-07-19 |
@@ -939,7 +940,7 @@
 | [Sada](https://open.spotify.com/track/47elssTpBeIWZ6NJcY3INw) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Aaromal](https://open.spotify.com/artist/5nRJ2qrhbaylhsz0lslpFV) | [Tijori](https://open.spotify.com/album/6UReia3IQFACuinYHkpMS6) | 4:46 | 2024-08-16 | 2024-09-28 |
 | [Sada \- From "Tijori"](https://open.spotify.com/track/7AvF3ANEUvn8rHI9Q3XFPL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Aaromal](https://open.spotify.com/artist/5nRJ2qrhbaylhsz0lslpFV) | [Sada \(From "Tijori"\)](https://open.spotify.com/album/0Ux0Ddwebdd41QGJGsIGjX) | 4:46 | 2024-07-19 | 2024-08-24 |
 | [Safar](https://open.spotify.com/track/4d3TElnih8QT0Y9E2dRAQW) | [Ekansh Mamgai](https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T) | [Safar](https://open.spotify.com/album/550GsoOszuZZyuSJNw4xOS) | 2:50 | 2023-09-01 | 2023-09-30 |
-| [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 | 2025-08-08 |  |
+| [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 | 2025-08-08 | 2025-11-12 |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-19 | 2023-07-15 |
 | [Sahara](https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Sahara](https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu) | 3:14 | 2023-04-14 | 2023-07-01 |
 | [Sahiba](https://open.spotify.com/track/0tYEiXI2xDfbGlmVkqgjgg) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Savera](https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8) | 3:56 | 2024-06-28 | 2024-08-03 |

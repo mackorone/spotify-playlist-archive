@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,025,736 likes - 151 songs - 7 hr 50 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,025,694 likes - 151 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 4 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 |
 | 5 | [gigolo](https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [gigolo](https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0) | 1:58 |
 | 6 | [The Machine](https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [The Machine](https://open.spotify.com/album/0cDcH04KfQpQe5cEo6agvL) | 3:12 |
-| 7 | [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 |
+| 7 | [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 |
 | 8 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW), [UPxMT](https://open.spotify.com/artist/501jUQ5hTudaK2sZO3xeAD) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 |
 | 9 | [check](https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [check](https://open.spotify.com/album/7hCpAt99Yn4Ny26WZUBuBi) | 2:02 |
 | 10 | [We Rise](https://open.spotify.com/track/7uSZPbd8DxdkmSauCKnITY) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [We Rise](https://open.spotify.com/album/1fgSS7d1R3fin79TUkhuxW) | 4:26 |

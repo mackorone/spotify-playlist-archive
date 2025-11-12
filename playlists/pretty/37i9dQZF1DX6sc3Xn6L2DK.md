@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,144 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,148 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 13 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 |
 | 14 | [A Love International](https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 4:15 |
 | 15 | [White Limousine](https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc) | 4:07 |
-| 16 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 |
+| 16 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 |
 | 17 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
-| 18 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 |
+| 18 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 |
 | 19 | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK) | 4:18 |
 | 20 | [Turns Out That I Am God](https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Turns Out That I Am God](https://open.spotify.com/album/3EJQOpa5mrtRQwernIVL36) | 3:05 |
 | 21 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 27 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 |
 | 28 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 |
 | 29 | [Hot Burrito \#1](https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:37 |
-| 30 | [Blue Pill Blues](https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:07 |
-| 31 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 30 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 31 | [Blue Pill Blues](https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:07 |
 | 32 | [Until We Meet Again](https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Until We Meet Again](https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub) | 3:01 |
 | 33 | [Murmur of Yearning](https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Murmur of Yearning](https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L) | 3:50 |
 | 34 | [Aw Heck](https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 2:20 |
-| 35 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 |
-| 36 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
+| 35 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
+| 36 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 |
 | 37 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 38 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
 | 39 | [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 72 | [If I Had Wings](https://open.spotify.com/track/5G2h3SmlMFhSGCbHugDWAU) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [If I Had Wings](https://open.spotify.com/album/6JPBDsRgTZFhBKbeBBtlj1) | 4:33 |
 | 73 | [Our Love Is a Fire](https://open.spotify.com/track/20lcS77F1O036phxW1XkoA) | [The High Divers](https://open.spotify.com/artist/4kEnncENM0eEkmZgbY4hVv) | [Ride With You](https://open.spotify.com/album/6i25hu7Ucnu7Ek4RFahn0l) | 3:29 |
 | 74 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
-| 75 | [Unchained Melody](https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:55 |
+| 75 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
 
 Snapshot ID: `AAAAAI4fdJjCjwecbHXGnOK+XGy0S54S`

@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Awich
 
-1,402 songs - 3 day 10 hr 20 min
+1,404 songs - 3 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [could it be magic?](https://open.spotify.com/track/6CNh1flfKkPFTS2dnueiCs) | [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [Perfect Sense](https://open.spotify.com/album/0npicG7KRdq1P5KVZzJDtx) | 3:43 | 2023-11-07 | 2023-11-30 |
 | [CREAM](https://open.spotify.com/track/651fQeqTd1Ey4UT5taZVkB) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [CREAM](https://open.spotify.com/album/5JU1UWjdplLyeC4lEhj0uH) | 2:54 | 2022-10-04 | 2022-11-09 |
 | [Crown \(feat\. 7\)](https://open.spotify.com/track/2Q0Yo5PjgoMNw5QWKUeySD) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Crown \(feat\. 7\)](https://open.spotify.com/album/0JXmXd8jh6ydRdKfEYO1nW) | 2:27 | 2025-11-04 |  |
+| [Cruel Odds](https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz) | [mmm](https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec) | [Burnt](https://open.spotify.com/album/39cHTNTRQ1ESIkV3fBnDCE) | 3:29 | 2025-11-11 |  |
 | [Crush Style](https://open.spotify.com/track/5t4Y3IWiYiguDDPe7zW02z) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Crush Style](https://open.spotify.com/album/4iF42sLoBZy1xqC0Ssgvah) | 2:52 | 2022-02-01 | 2022-03-08 |
 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 | 2025-08-19 |  |
 | [Cute](https://open.spotify.com/track/6jcqQCCsyt4p9dSwETvXMR) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [To the one who chose me and the one who did not choose me](https://open.spotify.com/album/6tlmoidAsdokPY9tcYlpV4) | 2:32 | 2025-03-18 | 2025-07-09 |
@@ -488,6 +489,7 @@
 | [LION](https://open.spotify.com/track/1apSVqNYcqLp7q7mqfpyuv) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [LION](https://open.spotify.com/album/0bpAgQSadkh9F7Biymw5Ik) | 3:06 | 2023-09-05 | 2023-11-08 |
 | [LIP LACQUER](https://open.spotify.com/track/0XdaDEPEncwfJVUZhsHNY5) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1) | [LIP LACQUER](https://open.spotify.com/album/3BCgvnxlWG3423gXXqzmXD) | 2:16 | 2022-02-01 | 2022-03-08 |
 | [LIP LACQUER](https://open.spotify.com/track/3fwJCFmroPgDxC3RZLBGQB) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1) | [LIP LACQUER](https://open.spotify.com/album/1sd5OkTveh2IImzidzGeim) | 2:16 | 2022-12-06 | 2023-01-04 |
+| [Lip Noise](https://open.spotify.com/track/3kmlp8uPqbrqTmvsyHSM1K) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [](https://open.spotify.com/album/null) | 4:58 | 2025-11-11 |  |
 | [Little me](https://open.spotify.com/track/74G4PgZvz517mM0mIwq0a2) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [swim in the milk](https://open.spotify.com/album/32NWYAXVYLx35KbtHJuyld) | 3:14 | 2022-07-05 | 2022-08-03 |
 | [Little Red Riding Hood](https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Little Red Riding Hood](https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3) | 3:15 | 2023-04-04 | 2023-05-03 |
 | [Living in the city](https://open.spotify.com/track/0cdmmJVUfN4vHx0YFnvUwt) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Living in the city](https://open.spotify.com/album/2ZP9kZo7RmT5zWhY02cOnH) | 5:06 | 2022-03-07 | 2022-04-06 |
@@ -624,7 +626,7 @@
 | [NOT MY FAULT](https://open.spotify.com/track/1Ggy7TViwOQ2soAjZOmBhM) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [NOT MY FAULT](https://open.spotify.com/album/2GZ9f3RjbxRFpshSs1NELV) | 3:07 | 2024-06-20 | 2024-09-11 |
 | [NOT OK](https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [NOT OK](https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC) | 4:51 | 2023-11-07 | 2023-11-30 |
 | [Not So Different \- Remix](https://open.spotify.com/track/4V3fw2tzq2XVm7smo4U3yR) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [アヴェドン](https://open.spotify.com/artist/74a3rSfeuEi9Iz5xXPtyo9) | [Self Selection “HIP HOP”](https://open.spotify.com/album/0VRtFgOc0hVwmB0K3XcAi0) | 3:42 | 2023-09-05 | 2023-10-04 |
-| [Not Your Mama](https://open.spotify.com/track/3WxH7aG8DmX0ADK2DSOlsz) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Not Your Mama](https://open.spotify.com/album/2sQc3lirxt9fRSmk24jAhd) | 3:10 | 2025-09-16 |  |
+| [Not Your Mama](https://open.spotify.com/track/3WxH7aG8DmX0ADK2DSOlsz) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Not Your Mama](https://open.spotify.com/album/2sQc3lirxt9fRSmk24jAhd) | 3:10 | 2025-09-16 | 2025-11-12 |
 | [nothin'](https://open.spotify.com/track/0Y7NneU33uLwvMPm3FoKtr) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [side\_effects+.](https://open.spotify.com/album/4Jx3azXrVdoovOjAzU4eVJ) | 3:38 | 2022-08-02 | 2022-09-07 |
 | [Now For Ever \(with AFRO PARKER\)](https://open.spotify.com/track/1eoQ8MBGC2eFm0dMGvvyD2) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw), [Afro Parker](https://open.spotify.com/artist/5GicEnOZvLtI2F5EuAZAhK) | [Now For Ever \(with AFRO PARKER\)](https://open.spotify.com/album/2OegblezfBKlHhD0U0QoAG) | 3:56 | 2021-11-30 | 2022-01-05 |
 | [NOW ON AIR](https://open.spotify.com/track/26ET1M21sUgAr9b9FDDfhz) | [AKAIKO\-EN](https://open.spotify.com/artist/5ztM0WRyJguGFiLusqTBKs) | [猛烈リトミック](https://open.spotify.com/album/2knUE2rk5LDKayahJOG7vf) | 4:18 | 2022-03-07 | 2022-04-06 |
@@ -938,7 +940,7 @@
 | [Used To Be Mine](https://open.spotify.com/track/0S3m17l6s69nRlENPq2MW4) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Used To Be Mine](https://open.spotify.com/album/2vwhQOYWpRiBUSjCPPJKDV) | 2:43 | 2022-05-31 | 2022-07-06 |
 | [utopia](https://open.spotify.com/track/2ZGNBMtfO8A9E8MgWZ3pYa) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [utopia](https://open.spotify.com/album/51h8VWaL5aTvrBsfF5aWc1) | 4:32 | 2024-01-09 | 2024-02-07 |
 | [Vacantly](https://open.spotify.com/track/6raGlROk8GhlXBkBW0LpPX) | [toddle](https://open.spotify.com/artist/7tFz86gTEtTUA0JA7c9Yh1) | [Vacantly](https://open.spotify.com/album/1c3hxNhaT5ypX4hgaEStvk) | 3:15 | 2022-10-04 | 2022-11-09 |
-| [Venus](https://open.spotify.com/track/35pTdvFQUjqyQwXRuBfYwu) | [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [Venus](https://open.spotify.com/album/0a4M9djldSAwLG6qpcJodJ) | 2:37 | 2025-09-02 |  |
+| [Venus](https://open.spotify.com/track/35pTdvFQUjqyQwXRuBfYwu) | [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [Venus](https://open.spotify.com/album/0a4M9djldSAwLG6qpcJodJ) | 2:37 | 2025-09-02 | 2025-11-12 |
 | [Verbal Justice](https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:04 | 2023-06-06 | 2023-07-05 |
 | [VIDEO](https://open.spotify.com/track/4h5SPjtEEPa2Tam7DcgUuf) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [JUST SAYING HI](https://open.spotify.com/album/4hnW7kQFsv60ccyuQxPAST) | 4:20 | 2022-01-04 | 2022-02-02 |
 | [Villain](https://open.spotify.com/track/0ejtTMsf4ZljUhAZZk5boY) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [Villain](https://open.spotify.com/album/5oY52goRcs3mfvurujXOu3) | 4:06 | 2023-04-04 | 2023-05-03 |
@@ -1341,7 +1343,7 @@
 | [溺れる魚](https://open.spotify.com/track/478GUJPpgncuUrOZCKoFK5) | [埋火](https://open.spotify.com/artist/60UwLyHzwEJm7poQtLdKU9) | [ジオラマ](https://open.spotify.com/album/0aNJas8YcFTDplk2nA19YN) | 3:55 | 2022-05-04 | 2022-06-01 |
 | [漂流](https://open.spotify.com/track/2JAi04qVp3gaQmIb3HsH0D) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/0l8baO2a0PasmzInWEGVUv) | 3:42 | 2023-01-03 | 2024-04-19 |
 | [漂流](https://open.spotify.com/track/5bwTdH8uTCvqNkt88yJdTg) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 3:42 | 2023-01-03 | 2024-06-21 |
-| [演者](https://open.spotify.com/track/681kiGoIIxyvuF8ushEloJ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [演者](https://open.spotify.com/album/6wiqtrrfWCxDxNpgJi3NAs) | 2:49 | 2025-07-15 |  |
+| [演者](https://open.spotify.com/track/681kiGoIIxyvuF8ushEloJ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [演者](https://open.spotify.com/album/6wiqtrrfWCxDxNpgJi3NAs) | 2:49 | 2025-07-15 | 2025-11-12 |
 | [火をつけて](https://open.spotify.com/track/1b0CUQ3HX7tl4eoLKRUxN3) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 4:39 | 2023-01-03 | 2024-06-21 |
 | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 | 2023-09-05 | 2024-01-10 |
 | [灯火](https://open.spotify.com/track/3B08qtYJGxfCeCCdVCg3YU) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [言葉のない夜に](https://open.spotify.com/album/5u8OhRFA6M1eUi9497iQnj) | 3:38 | 2023-01-03 | 2024-06-21 |

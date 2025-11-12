@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,469 likes - 50 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,531 likes - 50 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 8:29 |
 | 50 | [It Is So](https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 5:50 |
 
-Snapshot ID: `aQ/ZgAAAAAC0onBxFBG6xu7kQwwenkfl`
+Snapshot ID: `aRErAAAAAAAJ8V0sHhxLwADosKsAWmnf`

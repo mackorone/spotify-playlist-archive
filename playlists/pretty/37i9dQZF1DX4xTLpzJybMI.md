@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain]
 
 > Dive into the sounds of Korea’s bold and brilliant female rappers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 106 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 134 likes - 106 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain]
 | 105 | [Colors](https://open.spotify.com/track/3k1YGUrrLTIOCZUird9Kp7) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [SLEEQ](https://open.spotify.com/artist/6o2aThSX75afHwksESovZH) | [GOOD GIRL Episode 1](https://open.spotify.com/album/4uikzBR5QCvx2YBZQsgIDD) | 3:26 |
 | 106 | [Goodbye Boy](https://open.spotify.com/track/1drCzM3kJvHqrCK21QyGse) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Goodbye Boy](https://open.spotify.com/album/39tr8GJkE0Po4q5nZm2W7W) | 2:57 |
 
-Snapshot ID: `AAAAAJlhGxalmUukfbbEtYeJi3IluLfi`
+Snapshot ID: `AAAAAAxmjNz7WxK79JA9FGy0aRuJxkHd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,439 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,461 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Arturon Beltran](https://open.spotify.com/track/1lZvh4pLyuZ2xlGrkRXpn7) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK) | 2:08 |
 | 50 | [El Chavo](https://open.spotify.com/track/5RQfIg3MnYpq6xf4l98ATT) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:48 |
 
-Snapshot ID: `aQ/ZgAAAAADBhde4oNz3qYM3/ZuKMVob`
+Snapshot ID: `aRErAAAAAABDYUOVtcqaiTX1DJf2K3Fo`

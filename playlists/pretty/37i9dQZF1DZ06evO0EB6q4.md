@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,221 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,269 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 14 | [Ya Para Qué](https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:18 |
 | 15 | [Nunca Tuve Tanto](https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c) | 2:49 |
 | 16 | [Flaca](https://open.spotify.com/track/26JLezveasjmj1YypgUGsf) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn) | 3:24 |
-| 17 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
-| 18 | [Sin Ti Estoy Bien](https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sin Ti Estoy Bien](https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw) | 3:41 |
-| 19 | [Los No Tan Tristes](https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
-| 20 | [Me Da Lo Mismo](https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 4:06 |
+| 17 | [Sin Ti Estoy Bien](https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sin Ti Estoy Bien](https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw) | 3:41 |
+| 18 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
+| 19 | [Me Da Lo Mismo](https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 4:06 |
+| 20 | [Los No Tan Tristes](https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
 | 21 | [Duelo](https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Duelo](https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy) | 2:52 |
 | 22 | [Cariñitos Y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos Y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 |
 | 23 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 46 | [Mía](https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG) | 3:10 |
 | 47 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
 | 48 | [Mal Mal Mal](https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf) | 3:48 |
-| 49 | [Caballero](https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:29 |
-| 50 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
+| 49 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
+| 50 | [Caballero](https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:29 |
 
-Snapshot ID: `aQ/ZgAAAAABfjc6cxUrrgVWxSRwj27u1`
+Snapshot ID: `aRErAAAAAAAfYObnTQyu7knrlYHyWDYJ`

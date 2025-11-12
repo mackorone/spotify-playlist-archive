@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,123 likes - 100 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,164 likes - 100 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 27 | [Midnight On Mars](https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:56 |
 | 28 | [To Drift Like Clouds](https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Music For Zen Meditation And Other Joys](https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp) | 1:36 |
 | 29 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
-| 30 | [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc) | 2:51 |
-| 31 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 |
+| 30 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 |
+| 31 | [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc) | 2:51 |
 | 32 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 33 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
 | 34 | [Looking Glass](https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Keys To Imagination](https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n) | 6:39 |
-| 35 | [The Third Wave \- Love In The Waves](https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:17 |
-| 36 | [Rubycon \- Pt\. 1 / Remastered 2018](https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 17:17 |
+| 35 | [Rubycon \- Pt\. 1 / Remastered 2018](https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 17:17 |
+| 36 | [The Third Wave \- Love In The Waves](https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:17 |
 | 37 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 | 38 | [Carnation Lily Lily Rose](https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0), [Andrew White](https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT) | [Island](https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr) | 4:48 |
 | 39 | [Keys To Imagination](https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Keys To Imagination](https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n) | 5:14 |

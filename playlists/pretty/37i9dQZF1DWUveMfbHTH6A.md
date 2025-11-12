@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,599 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,20 +29,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 19 | [in your head](https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw) | [cloudyfield](https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur) | [in your head](https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm) | 2:50 |
 | 20 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
 | 21 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
-| 22 | [How Long](https://open.spotify.com/track/4Nj7olHNFww7pswTjw5K69) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/6kotQsMomxpJKZtGWyNUS0) | 3:30 |
-| 23 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
+| 22 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
+| 23 | [How Long](https://open.spotify.com/track/4Nj7olHNFww7pswTjw5K69) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/6kotQsMomxpJKZtGWyNUS0) | 3:30 |
 | 24 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 25 | [all over u](https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:21 |
 | 26 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
 | 27 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
-| 28 | [Lorelei](https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:24 |
-| 29 | [HELLO PITI](https://open.spotify.com/track/0pwJNdOShRPkqNAmtrFAvv) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Cómo duele si es tan bonito](https://open.spotify.com/album/1ieiB4J3foLe9yOQj1ia18) | 2:23 |
+| 28 | [HELLO PITI](https://open.spotify.com/track/0pwJNdOShRPkqNAmtrFAvv) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Cómo duele si es tan bonito](https://open.spotify.com/album/1ieiB4J3foLe9yOQj1ia18) | 2:23 |
+| 29 | [Lorelei](https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:24 |
 | 30 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
 | 31 | [Stacy's Chips](https://open.spotify.com/track/0QaPoZqWfIYDMu3I3NncY8) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 2:48 |
 | 32 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 |
-| 33 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
-| 34 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 35 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 33 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 34 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
+| 35 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 36 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
 | 37 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
 | 38 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 58 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
 | 59 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
 | 60 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
-| 61 | [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 |
-| 62 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
+| 61 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
+| 62 | [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 |
 | 63 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
 | 64 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 |
 | 65 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |

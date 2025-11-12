@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 588420,
+  "num_followers": 588500,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAA9uepn1eWdmpDa8AUMoYbo",
+  "snapshot_id": "aRErAAAAAACuofTjVVp63oNFFsJh7Z3t",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "10:15 Saturday Night",
-      "url": "https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Japanese Whispers",
         "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 253333,
       "name": "Charlotte Sometimes - Single Version",
       "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "10:15 Saturday Night",
+      "url": "https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodflowers",
-        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 335746,
-      "name": "The Last Day Of Summer",
-      "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disintegration (Remastered)",
         "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 367426,
       "name": "Prayers For Rain - Remastered",
       "url": "https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloodflowers",
+        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 335746,
+      "name": "The Last Day Of Summer",
+      "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
     },
     {
       "added_at": null,

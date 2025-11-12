@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133024,
+  "num_followers": 133034,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABXYAuKIFfnwI1j3FXHq2LT",
+  "snapshot_id": "aRErAAAAAABS97QsqEMO6FVydMDoBloY",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Rock And Roll Music",
-      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Juke Box Hits",
         "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 91666,
-      "name": "Trick Or Treat",
-      "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 169000,
       "name": "Nadine - Stereo Remix",
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 91666,
+      "name": "Trick Or Treat",
+      "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 151706,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+      "duration_ms": 130506,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 130506,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
+      "duration_ms": 151706,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 122480,
-      "name": "Viva Viva Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
+      "duration_ms": 122480,
+      "name": "Viva Viva Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-817 songs - 1 day 18 hr 16 min
+818 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Bend](https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:33 | 2024-11-21 | 2025-01-10 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-30 |  |
 | [BeskidtSex:RenLove](https://open.spotify.com/track/7dKPeMm0tpK7y7qFKO806v) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [BeskidtSex:RenLove](https://open.spotify.com/album/0OHLCenPpS6dRHu03J4YkA) | 2:04 | 2024-11-14 | 2025-01-31 |
+| [Beto’s Horns \- fred remix](https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Beto’s Horns \(fred remix\)](https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU) | 3:46 | 2025-11-06 |  |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 | 2025-05-30 |
 | [Billions](https://open.spotify.com/track/1hDVOJEokmcV95POJxtrts) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Billions](https://open.spotify.com/album/0DmLEKzoH3czxSOTlvrNDK) | 3:42 | 2025-09-11 | 2025-09-26 |
 | [Bipolar](https://open.spotify.com/track/1ZtTGHFQwhltWz9jNVPBxp) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Bipolar](https://open.spotify.com/album/4fnTUUw8cxDHm1u58Z3JRM) | 2:51 | 2025-06-12 | 2025-09-12 |
@@ -823,7 +824,7 @@
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 | 2025-06-20 |
 | [Yârimsin](https://open.spotify.com/track/0FiwTjUtrcWjRG85s3qtrX) | [AySay](https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE) | [Yârimsin](https://open.spotify.com/album/1tPFZmztNqBLtmnV4n1tFU) | 4:47 | 2025-10-23 | 2025-11-07 |
 | [Åboulevarden](https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [Åboulevarden](https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4) | 2:42 | 2025-05-29 | 2025-07-23 |
-| [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 | 2025-08-28 |  |
+| [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 | 2025-08-28 | 2025-11-12 |
 | [Øresund \(feat\. Thomas Helmig\)](https://open.spotify.com/track/7DnzLWWY227roD8kyYAZQg) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Øresund \(feat\. Thomas Helmig\)](https://open.spotify.com/album/3hSUeg27HqPCY7RHWkD6AZ) | 3:30 | 2025-04-10 | 2025-04-18 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

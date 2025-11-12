@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Vaundy
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Ado
 
-1,650 songs - 4 day 6 hr 10 min
+1,653 songs - 4 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [FLN](https://open.spotify.com/track/6mBNGsS8tPt8IqRIev50lY) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [vanitas](https://open.spotify.com/album/16XLHBZEggSq15PKsVG55t) | 3:15 | 2021-12-19 | 2022-02-07 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2022-07-17 | 2022-08-29 |
 | [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 | 2022-03-13 | 2022-04-11 |
+| [FMP](https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FMP](https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK) | 3:24 | 2025-11-11 |  |
 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 | 2022-07-10 | 2022-08-02 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-30 | 2023-05-15 |
 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-26 | 2024-05-22 |
@@ -305,7 +306,7 @@
 | [Gravity \(feat\. Satoshi Fujihara\) \[OFFICIAL HIGE DANDISM\]](https://open.spotify.com/track/73EiAv1UPdVSueGrVHeDT7) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Satoshi Fujihara](https://open.spotify.com/artist/7hAm1vHUQJI1ymDy8bNkCM) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 3:11 | 2022-09-11 | 2022-10-03 |
 | [Greatest Journey](https://open.spotify.com/track/7FaArVLHS3aEqfhAishhk7) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Greatest Journey](https://open.spotify.com/album/0QbN68y6D0WCViH0iiDlQ5) | 2:58 | 2022-08-14 | 2022-09-19 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-07-02 | 2023-08-07 |
-| [GYOZA](https://open.spotify.com/track/7HAdYFd294rpZKWaKQ61DY) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [GYOZA](https://open.spotify.com/album/5aorXdHmHQVbipkIocPbDU) | 3:59 | 2025-10-28 |  |
+| [GYOZA](https://open.spotify.com/track/7HAdYFd294rpZKWaKQ61DY) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [GYOZA](https://open.spotify.com/album/5aorXdHmHQVbipkIocPbDU) | 3:59 | 2025-10-28 | 2025-11-12 |
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-05-01 | 2023-02-06 |
 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-12 | 2025-09-06 |
 | [HALO](https://open.spotify.com/track/35wZiQV2QPEEGjyh6XScaz) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [HALO](https://open.spotify.com/album/05X7klCQo760eyhjGMB87Q) | 3:06 | 2025-05-27 | 2025-06-25 |
@@ -365,6 +366,7 @@
 | [I Need You](https://open.spotify.com/track/16GmwXr8eice4keZxd1iov) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [I Need You](https://open.spotify.com/album/3WnvIXxIhgRgjfigcVNWx2) | 3:37 | 2022-07-10 | 2022-07-18 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2023-09-17 | 2023-10-16 |
 | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/track/12qmPGMrOCogibc7qyxT9s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/album/3yMv72mFXC359orTQ2mZHe) | 3:45 | 2022-07-25 | 2022-09-26 |
+| [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 | 2025-11-11 |  |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-04-23 | 2024-12-18 |
 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 | 2023-06-25 | 2024-01-15 |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-30 | 2023-05-08 |
@@ -424,7 +426,7 @@
 | [KIMINOMAMA](https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [KIMINOMAMA](https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz) | 2:57 | 2023-02-26 | 2023-07-03 |
 | [KIMINOMAMA](https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 2:57 | 2023-07-02 | 2023-07-06 |
 | [Kimochy](https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 3:18 | 2023-04-09 | 2023-05-01 |
-| [Kiseki Wo Mattetatte](https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kiseki Wo Mattetatte](https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ) | 5:19 | 2025-10-28 |  |
+| [Kiseki Wo Mattetatte](https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kiseki Wo Mattetatte](https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ) | 5:19 | 2025-10-28 | 2025-11-12 |
 | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/track/0qjWX3mtR845RXlbrt9RJS) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/album/47fiiDihH7dce4HLaz9c57) | 7:02 | 2023-12-03 | 2024-01-01 |
 | [KIZAO](https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [KIZAO](https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK) | 3:40 | 2024-10-22 | 2024-12-11 |
 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2023-10-05 | 2023-11-27 |
@@ -771,7 +773,7 @@
 | [STAR STATUS](https://open.spotify.com/track/3hGnKxKKdcgCl2XbjkslH9) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [STAR STATUS](https://open.spotify.com/album/1SX4III94nkOvAnShZJcIH) | 2:37 | 2022-09-11 | 2022-09-19 |
 | [STAR TRAIN](https://open.spotify.com/track/0iB3hXMWoXsBVyTpnac2EY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [STAR TRAIN](https://open.spotify.com/album/74di94ym4qompX7rxSl8kb) | 4:34 | 2022-02-20 | 2022-03-14 |
 | [Stardom](https://open.spotify.com/track/7gdbaUPut1M0ewKOSAqvyW) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Stardom](https://open.spotify.com/album/5zieK5I6FAIjUR3I3OYThE) | 3:37 | 2022-11-17 | 2023-01-30 |
-| [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 | 2025-10-14 |  |
+| [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 | 2025-10-14 | 2025-11-12 |
 | [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-07-03 | 2022-07-29 |
 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 | 2022-07-25 | 2022-08-08 |
 | [Starry Night \- 星空に願いを](https://open.spotify.com/track/3GL4PaLX0ZARhXC445O8wV) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Starry Night \(星空に願いを\)](https://open.spotify.com/album/4gM8eGJsXU1nk4UNSTlORE) | 2:58 | 2022-10-23 | 2022-11-21 |
@@ -962,6 +964,7 @@
 | [あぁ、もう。](https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [あぁ、もう。](https://open.spotify.com/album/23lZ1iicD23SONnNdolPE5) | 4:44 | 2021-12-19 | 2022-01-31 |
 | [あいもかわらず](https://open.spotify.com/track/5LCHehf37b64IBHggD6xQf) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr), [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [あいもかわらず](https://open.spotify.com/album/15nCW8kn6TVp1ZZphcBa0p) | 4:30 | 2022-08-07 | 2022-09-19 |
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-30 | 2023-05-30 |
+| [あなたといたい](https://open.spotify.com/track/3lhSoYrMfyX9Mg24Fdp0eo) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [あなたといたい](https://open.spotify.com/album/7sXFcyqLpDJiLs4awycwQk) | 3:33 | 2025-11-11 |  |
 | [あなたのことをおしえて](https://open.spotify.com/track/6x4ApXjfn5paE3MLkab65F) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [あなたのことをおしえて](https://open.spotify.com/album/6IMsVn3Ly1cR94CkXctwHp) | 2:29 | 2025-05-06 | 2025-07-02 |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-02-04 | 2024-03-27 |
 | [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 | 2025-06-24 | 2025-08-06 |

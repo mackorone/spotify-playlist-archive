@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 1041343,
+  "num_followers": 1041985,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 244880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 244880,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "Shape of My Heart",
-      "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Daniel Powter",
         "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Born to Do It",
         "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235133,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 258653,
       "name": "Goodbye My Lover",
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "Jordin Sparks",
+        "url": "https://open.spotify.com/album/3SR9XT8f7LEUDcMFZO4wPd"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "No Air (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/7EGhmltmWJHCHobd3g8Hnw"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "I Don't Want You Back",
         "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 239586,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "Jordin Sparks",
-        "url": "https://open.spotify.com/album/3SR9XT8f7LEUDcMFZO4wPd"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "No Air (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/7EGhmltmWJHCHobd3g8Hnw"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 234786,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 242466,
       "name": "Officially Missing You",
       "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 234786,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Face To Face",
-        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/5XQavlXrNHBBvlN4IJqhqW"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Evolution of Robin Thicke",
         "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 254146,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/5XQavlXrNHBBvlN4IJqhqW"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Taylor Swift (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 287226,
       "name": "Rise & Fall (feat. Sting)",
       "url": "https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Taylor Swift (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU"
     },
     {
       "added_at": "2024-02-12 15:05:39",

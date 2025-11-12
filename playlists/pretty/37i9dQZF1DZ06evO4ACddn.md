@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192 likes - 31 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191 likes - 31 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Backroads](https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:06 |
 | 2 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 |
 | 3 | [Bound](https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:36 |
-| 4 | [Black Mire](https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 4:12 |
+| 4 | [Diamond Days](https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:48 |
 | 5 | [Radar \- Redux](https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 3:53 |
 | 6 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 |
 | 7 | [Keeper](https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:33 |
-| 8 | [Diamond Days](https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:48 |
+| 8 | [Black Mire](https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 4:12 |
 | 9 | [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 |
 | 10 | [Victory Line](https://open.spotify.com/track/5ANtXtO9R4gR16Q41yCOtR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:54 |
 | 11 | [Your Heavy Heart](https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:44 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 30 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 |
 | 31 | [Long Way](https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:26 |
 
-Snapshot ID: `aQ/ZgAAAAAC7e/QJweFlMhJ0OUpHU1Sv`
+Snapshot ID: `aRErAAAAAAAQk6lpUql5w+UauBtWGAWi`

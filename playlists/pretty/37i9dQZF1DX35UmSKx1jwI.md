@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,214 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,226 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 53 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 54 | [Twist in My Sobriety \- Sans Souci Remix Edit](https://open.spotify.com/track/3Y8JxJlJZ6GTjGcT7qac9b) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC), [Sans Souci](https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ) | [Twist in My Sobriety](https://open.spotify.com/album/1FhwuPzJ4JtlCRHqDlMmls) | 3:12 |
 | 55 | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/track/3bNIlJBpwgwFNnFuSjH6Uh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/album/0wMS7Uv7zvR9e7xCTqo39u) | 2:57 |
-| 56 | [The Call](https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Louis Leibfried](https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [The Call](https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV) | 3:42 |
-| 57 | [Move](https://open.spotify.com/track/5uwCM3ggK3z2hV71R2gODy) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt) | [Move](https://open.spotify.com/album/1RhSZpacB3qtqujj4hgMeI) | 3:23 |
+| 56 | [Move](https://open.spotify.com/track/5uwCM3ggK3z2hV71R2gODy) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt) | [Move](https://open.spotify.com/album/1RhSZpacB3qtqujj4hgMeI) | 3:23 |
+| 57 | [The Call](https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Louis Leibfried](https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [The Call](https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV) | 3:42 |
 | 58 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 |
 | 59 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 60 | [Happier \- Tiësto’s AFTR:HRS Remix](https://open.spotify.com/track/1uuUnsWpJwqBh5GRQ8uxla) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Happier \(Tiësto’s AFTR:HRS Remix\)](https://open.spotify.com/album/5GpwroXObdnETiIpVb1l23) | 3:36 |

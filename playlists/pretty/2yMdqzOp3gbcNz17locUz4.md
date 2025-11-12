@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain]
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH?si=rp\_WtEGDQ1WW7vZ6JzOEAg">polyana</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,629 likes - 115 songs - 6 hr 20 min
+[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,631 likes - 115 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

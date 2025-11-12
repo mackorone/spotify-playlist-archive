@@ -2,9 +2,9 @@
 
 ### [Ultimate Pop Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYRNXjFoiid2)
 
-> Pop to fuel your gaming\. Cover: Lydia Night
+> Pop to fuel your gaming\. Cover: KATSEYE
 
-445 songs - 21 hr 52 min
+446 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [crash my car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [crash my car/devil on my shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 | 2022-04-15 | 2022-05-28 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 | 2025-05-24 |
 | [CRAZY \(English ver.\)](https://open.spotify.com/track/69MMbwpvp5I9QTIzJeinpe) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 | 2024-12-13 |  |
-| [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 | 2025-09-19 |  |
+| [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 | 2025-09-19 | 2025-11-12 |
 | [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-21 | 2025-05-23 |
 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2021-10-22 | 2022-02-24 |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2022-02-11 | 2022-04-16 |
@@ -248,6 +248,7 @@
 | [Luv Me A Little](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Luv Me A Little](https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId) | 3:44 | 2023-01-27 | 2023-03-05 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-06-28 | 2025-05-24 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-10-22 | 2022-02-12 |
+| [M.I.A \- VALORANT Game Changers Version](https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [M.I.A \(VALORANT Game Changers Version\)](https://open.spotify.com/album/4w96kbeZiq2Q2n8dDAVi4K) | 2:09 | 2025-11-11 |  |
 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 | 2022-07-15 | 2022-07-27 |
 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 | 2025-03-14 | 2025-04-26 |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-04-15 | 2022-04-29 |

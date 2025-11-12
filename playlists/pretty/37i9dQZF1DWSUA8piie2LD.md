@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,370 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,439 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 2 | [If I Could Fly](https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:16 |
 | 3 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 |
 | 4 | [When I Think of You](https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:09 |
-| 5 | [Sweet Thing](https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 3:54 |
-| 6 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
+| 5 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
+| 6 | [Sweet Thing](https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 3:54 |
 | 7 | [Smooth Sensation](https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:36 |
 | 8 | [Greenstreet](https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 3:58 |
 | 9 | [Now 'Til Forever](https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Unconditional](https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV) | 4:36 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 21 | [Undun](https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Moonlight](https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk) | 4:53 |
 | 22 | [Sunshine](https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF) | [Gordon James](https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz) | [In Joy](https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43) | 5:05 |
 | 23 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
-| 24 | [Body Language](https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:55 |
+| 24 | [The Closer I Get To You](https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Reflections](https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5) | 4:26 |
 | 25 | [Nightfall](https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:32 |
-| 26 | [The Closer I Get To You](https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Reflections](https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5) | 4:26 |
+| 26 | [Body Language](https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:55 |
 | 27 | [Twice in a Lifetime](https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Vivid](https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6) | 4:43 |
 | 28 | [Love's Serenade](https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Dance Of The Soul](https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh) | 4:31 |
 | 29 | [100 Ways](https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc) | [Fattburger](https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi) | [Work to Do](https://open.spotify.com/album/6THuvzMAocj3aImePgicNH) | 4:53 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 53 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 54 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
 | 55 | [Puerto Banus](https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 4](https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS) | 3:46 |
-| 56 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |
+| 56 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 |
 | 57 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
-| 58 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 |
+| 58 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |
 | 59 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
 | 60 | [Here With You](https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:17 |
 | 61 | [Manhattan](https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [GK](https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu) | 4:46 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 66 | [Missin' You](https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [West Coast Coolin'](https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx) | 4:16 |
 | 67 | [Nightlife](https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Nightlife](https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN) | 4:31 |
 | 68 | [Take\-Out Dreams](https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [The Collected](https://open.spotify.com/album/25GRErR059zar6ytzLzHye) | 5:25 |
-| 69 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 |
-| 70 | [The Lady In My Life](https://open.spotify.com/track/3T6oXUTD0BKKpCFw6ZLQgs) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe) | 4:30 |
+| 69 | [The Lady In My Life](https://open.spotify.com/track/3T6oXUTD0BKKpCFw6ZLQgs) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe) | 4:30 |
+| 70 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 |
 | 71 | [Shelbi](https://open.spotify.com/track/6rsEUK5SHTPTI7lBAC40Cz) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Cover to Cover](https://open.spotify.com/album/6tNoPJMjPioawoVZyhbAaT) | 4:02 |
 | 72 | [Bedtime Story](https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 5:20 |
 | 73 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
-| 74 | [Can't Tell You Why](https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0xol8frvOzgzF6T8pfNOzp) | 4:14 |
-| 75 | [Sensuality](https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 6:32 |
+| 74 | [Sensuality](https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 6:32 |
+| 75 | [Can't Tell You Why](https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0xol8frvOzgzF6T8pfNOzp) | 4:14 |
 
 Snapshot ID: `AAAAANGL5zFiQYT0v83LEYTFjgdaxA8d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:5QdEbQJ3ylBnc3gsIASAT5">G Herbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,014 likes - 159 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,980 likes - 159 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 80 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 81 | [La Cabra](https://open.spotify.com/track/0FKOREvZIIbdtiwzTt6UfW) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [La Cabra](https://open.spotify.com/album/3u1Safc1Q3INNuHotvXRfy) | 2:28 |
 | 82 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 |
-| 83 | [lights](https://open.spotify.com/track/0oVMa3jhgmaDxitZ7ZR3jw) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [noise \(meaning\)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 1:34 |
+| 83 | [lights](https://open.spotify.com/track/0oVMa3jhgmaDxitZ7ZR3jw) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [noise \( meaning \)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 1:34 |
 | 84 | [STAY](https://open.spotify.com/track/1fyI1vM8byw1wB8eO7bG11) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [STAY](https://open.spotify.com/album/6z6YQWrg8uXoDQXFpNgv2U) | 3:14 |
 | 85 | [Grief, Joy, & Gratitude](https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Grief, Joy, & Gratitude](https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo) | 3:10 |
 | 86 | [Okay \(Cyber Racing\)](https://open.spotify.com/track/7f0L8fI9IcNexCngLspWi5) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Okay \(Cyber Racing\)](https://open.spotify.com/album/3AIH3PPVn6o54Abvo60j5a) | 2:54 |

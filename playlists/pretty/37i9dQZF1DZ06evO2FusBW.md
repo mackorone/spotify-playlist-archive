@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,039 likes - 43 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,040 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 35 | [Human Compassion](https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 3:22 |
 | 36 | [Ever After](https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 4:12 |
 | 37 | [Meditation 22](https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Le Rêve d'une note](https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY) | 22:34 |
-| 38 | [SAMADHI](https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:34 |
-| 39 | [Piano 17](https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Piano 17](https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g) | 4:47 |
-| 40 | [Nocturne](https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:13 |
-| 41 | [A Tale in Paris](https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Winter Impressions](https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR) | 2:46 |
-| 42 | [Meditation 111](https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 111](https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC) | 2:22 |
-| 43 | [Evolving Memories](https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 2:33 |
+| 38 | [Piano 17](https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Piano 17](https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g) | 4:47 |
+| 39 | [SAMADHI](https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:34 |
+| 40 | [A Tale in Paris](https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Winter Impressions](https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR) | 2:46 |
+| 41 | [Evolving Memories](https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 2:33 |
+| 42 | [Nocturne](https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:13 |
+| 43 | [Meditation 111](https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 111](https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC) | 2:22 |
+| 44 | [POWER OF THE SEA](https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:37 |
 
-Snapshot ID: `aQ/ZgAAAAAAVrMrV/mYgG7+w9k/uqMrW`
+Snapshot ID: `aRErAAAAAAATUfDr2CE5n3o5ZEJPFwlj`

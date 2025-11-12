@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Lainey Wilson",
-  "num_followers": 662224,
+  "num_followers": 662409,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-11-07 05:00:30",
       "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Dirt Cheap",
+      "url": "https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa"
+    },
+    {
+      "added_at": "2025-11-07 05:00:30",
+      "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2025-11-07 05:00:30",
-      "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Dirt Cheap",
-      "url": "https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa"
     },
     {
       "added_at": "2025-11-07 05:00:30",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-11-07 05:00:30",
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
-    },
-    {
-      "added_at": "2025-11-07 05:00:30",
-      "album": {
         "name": "OIL MONEY",
         "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 178933,
       "name": "OIL MONEY",
       "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
+    },
+    {
+      "added_at": "2025-11-07 05:00:30",
+      "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2025-11-07 05:00:30",

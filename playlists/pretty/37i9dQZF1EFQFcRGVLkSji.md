@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 157 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 157 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 67 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 68 | [CELEBRATE LIFE](https://open.spotify.com/track/6FagVvK1pxw7dflOgAZG0G) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ant Beale](https://open.spotify.com/artist/5AR8oVaAhBu6x3W9AoluKp), [DRAM](https://open.spotify.com/artist/1V8JxzFgX6DRXjpW65na1D) | [FIREWORKS](https://open.spotify.com/album/6RfdJTFUBXrseitaphVXdA) | 3:19 |
 | 69 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
-| 70 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
-| 71 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
+| 70 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
+| 71 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
 | 72 | [Stain \(feat\. Hunxho and BabyDrill\)](https://open.spotify.com/track/7wV3kIwsnKaKkm3hg2dTKz) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:46 |
 | 73 | [DIAMONDS LIGHTS FAST CARS \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0dE6bo63eqDDfIr8XZhZpN) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 2:41 |
 | 74 | [Disclosure](https://open.spotify.com/track/3tRfmb7TerFE7XsQBVGl8l) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print](https://open.spotify.com/album/6ccDPGKd4UC3rWOokj2DCs) | 3:00 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 156 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 157 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcBP0AAAAADAVn++vIu8BtodtRb19TdH`
+Snapshot ID: `AcBVcAAAAAAOQKx6tBVMiONWbhuDPmjD`

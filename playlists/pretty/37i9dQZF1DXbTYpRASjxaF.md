@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Fúria, Muse Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,312 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,311 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Temitas chulos para acompañarte cuando vas de un sitio a otro.
 
-134 songs - 7 hr 57 min
+135 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [BOBOMENSOTONTO](https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:01 | 2025-08-08 | 2025-09-05 |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2025-09-04 |  |
 | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [BEJO](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [ABHIR](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2) | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb) | 6:53 | 2023-02-10 | 2025-08-05 |
-| [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2025-09-04 |  |
+| [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2025-09-04 | 2025-11-12 |
 | [Clavado en Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 | 2025-09-04 |  |
 | [Como Camarón](https://open.spotify.com/track/1VB4sadHjFcFklHcZuoROi) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:22 | 2025-09-04 |  |
 | [Como enamorarme](https://open.spotify.com/track/16RcB6ae7pNeCQVIrPuytu) | [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [Como enamorarme](https://open.spotify.com/album/5sm6yb6gTPjDJ65xqfaBK3) | 2:40 | 2025-08-04 | 2025-09-05 |
@@ -90,6 +90,7 @@
 | [NENA](https://open.spotify.com/track/3ppWnyd25vR1pzzJCCqNOo) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [NENA](https://open.spotify.com/album/2efbNWy2TEalZjnmW4oRQO) | 2:26 | 2025-08-04 | 2025-09-05 |
 | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:47 | 2023-02-10 | 2025-09-05 |
 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 | 2023-02-10 | 2025-08-05 |
+| [Niebla](https://open.spotify.com/track/3WFmq2n3RValfsDQKSJWvc) | [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [La fe que me tengas](https://open.spotify.com/album/60rPrMCY7y6tTD9thTAj8v) | 2:57 | 2025-09-04 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2023-02-10 | 2024-04-19 |
 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 | 2025-09-04 |  |
 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 | 2025-09-04 |  |

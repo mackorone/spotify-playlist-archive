@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 200353,
       "name": "Colors",
       "url": "https://open.spotify.com/track/61Y8I1rRg4dbf5di8ZEO3S"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 202390,
       "name": "FYI",
       "url": "https://open.spotify.com/track/5Px94nagQ9C6WrklMCxVk1"
@@ -786,6 +786,40 @@
       "duration_ms": 219349,
       "name": "Give You the World",
       "url": "https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/4bK2DGVw3hFSPhHvI8ShZg"
+      },
+      "artists": [
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        },
+        {
+          "name": "C\u00e9zanne",
+          "url": "https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Superfuse",
+          "url": "https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f"
+        },
+        {
+          "name": "Prime8",
+          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0X9ViQWrgaSzDE7mACBH4R"
     },
     {
       "album": {
@@ -840,7 +874,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 169258,
       "name": "Gray",
       "url": "https://open.spotify.com/track/2RAMTRT08DatjsIPSZGNPt"
@@ -1786,10 +1820,28 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 234237,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
+    },
+    {
+      "album": {
+        "name": "Pay Day",
+        "url": "https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205301,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu"
     },
     {
       "album": {
@@ -2317,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "The Hunger",
+        "url": "https://open.spotify.com/album/1oVvWkB49cTkOBeuoXuYic"
+      },
+      "artists": [
+        {
+          "name": "Frankie Fame",
+          "url": "https://open.spotify.com/artist/1n6mGzCvv5VzvZWFVAnnKl"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182276,
+      "name": "The Hunger",
+      "url": "https://open.spotify.com/track/2xu4JGgkhydWJy3iy243Ju"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ"
       },
@@ -2776,6 +2846,28 @@
       "duration_ms": 141818,
       "name": "World Is Waking Up",
       "url": "https://open.spotify.com/track/053nOMzHpuHNVjI1Ng2Q4b"
+    },
+    {
+      "album": {
+        "name": "You Might Like It",
+        "url": "https://open.spotify.com/album/4mCbtxxh0Ijv3JYkrEERUf"
+      },
+      "artists": [
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
+        },
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208541,
+      "name": "You Might Like It",
+      "url": "https://open.spotify.com/track/3ulq6ciJHrVMB0T6Q3rsvR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,419 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,428 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 35 | [Do You Remember?](https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:58 |
 | 36 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
 | 37 | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/album/1WPY8kRB01objem7KdBwya) | 4:27 |
-| 38 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
+| 38 | [If Only I Could Tell You \- T.S.S.R\. Piano Edit](https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ) | 1:40 |
 | 39 | [Amor](https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:08 |
-| 40 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
-| 41 | [If Only I Could Tell You \- T.S.S.R\. Piano Edit](https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ) | 1:40 |
+| 40 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
+| 41 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
 | 42 | [Days Are Getting Shorter](https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w) | 5:34 |
 | 43 | [God or The Devil?](https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 1:20 |
 | 44 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Only Death Can Separate Us](https://open.spotify.com/track/11phAxtq0J8bWpKa8JAg4T) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ) | 2:26 |
 | 50 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 |
 
-Snapshot ID: `aQ/ZgAAAAAAqLSKmM1Lu7twG6H9rrD/X`
+Snapshot ID: `aRErAAAAAAAfKVFZfaw/Ml1sOPsadMNV`

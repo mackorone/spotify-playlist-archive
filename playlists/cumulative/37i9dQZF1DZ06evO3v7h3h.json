@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 187669,
       "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
       "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 243070,
       "name": "Ainda Tem",
       "url": "https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl"
@@ -264,10 +264,32 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 223488,
       "name": "Bilhete 2.0",
       "url": "https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev"
+    },
+    {
+      "album": {
+        "name": "Bilhete 2.0",
+        "url": "https://open.spotify.com/album/2L1EGPKmx9EHcKNIrkKSSK"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223488,
+      "name": "Bilhete 2.0",
+      "url": "https://open.spotify.com/track/2O2E2MTkbJkEJaBlsFsJbd"
     },
     {
       "album": {

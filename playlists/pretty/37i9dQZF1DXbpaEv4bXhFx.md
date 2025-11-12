@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,309 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,312 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,22 +27,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 17 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 |
 | 18 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 19 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
-| 20 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
-| 21 | [Seed](https://open.spotify.com/track/5PinFdI9r167ql5cVNYtFR) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 4:15 |
+| 20 | [Seed](https://open.spotify.com/track/5PinFdI9r167ql5cVNYtFR) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 4:15 |
+| 21 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 22 | [On A Rainy Day](https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [STABLE MINDSET](https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h) | 3:32 |
 | 23 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
 | 24 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 |
-| 25 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
-| 26 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
+| 25 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
+| 26 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
 | 27 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 28 | [Sleepless Rainy Night](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 4:26 |
 | 29 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
 | 30 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
 | 31 | [Monsoon](https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Monsoon](https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY) | 3:49 |
 | 32 | [A Kind Of Confession \- Male Version](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |
-| 33 | [빗소리 \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [음악 캠핑 갈래?](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 |
+| 33 | [I’ll Hold You Tight](https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Destined with You \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK) | 3:35 |
 | 34 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
-| 35 | [I’ll Hold You Tight](https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Destined with You \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK) | 3:35 |
+| 35 | [빗소리 \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [음악 캠핑 갈래?](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 |
 | 36 | [A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 |
 | 37 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 |
 | 38 | [Can We Talk Again](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Can We Talk Again](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 |
 | 50 | [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 |
 
-Snapshot ID: `AAAAALB/Ixk62ndltMpwdFfEcPMzFwAp`
+Snapshot ID: `AAAAAK/1fWK4D5Ah+YS78E5OJO1PsZkp`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXd2MdEcIEA/Wl0521MwKfPqLzV",
+  "snapshot_id": "AAAAAMiDiZ16O3v8/elk1Wv1FvzwKyUD",
   "tracks": [
     {
       "added_at": "2025-10-24 06:00:21",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 238508,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "todas las veces",
         "url": "https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 170794,
       "name": "todas las veces",
       "url": "https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 238508,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "dejarte ir",
+        "url": "https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "duration_ms": 197071,
+      "name": "dejarte ir",
+      "url": "https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/3BcDq7RJRxlNHNU5gphQ38"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 146829,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "dejarte ir",
-        "url": "https://open.spotify.com/album/2arJkzrPLF2OHcXwkG45GI"
-      },
-      "artists": [
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        }
-      ],
-      "duration_ms": 197071,
-      "name": "dejarte ir",
-      "url": "https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Dejar llegar",
-        "url": "https://open.spotify.com/album/5ehJ63uoMptTAfac9cvPDn"
-      },
-      "artists": [
-        {
-          "name": "Grecia Vallejo",
-          "url": "https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI"
-        }
-      ],
-      "duration_ms": 187205,
-      "name": "Dejar llegar",
-      "url": "https://open.spotify.com/track/5drbZ0eBIGweQplzN97Vlp"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "palacio <3",
         "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 156000,
       "name": "palacio <3",
       "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Dejar llegar",
+        "url": "https://open.spotify.com/album/5ehJ63uoMptTAfac9cvPDn"
+      },
+      "artists": [
+        {
+          "name": "Grecia Vallejo",
+          "url": "https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI"
+        }
+      ],
+      "duration_ms": 187205,
+      "name": "Dejar llegar",
+      "url": "https://open.spotify.com/track/5drbZ0eBIGweQplzN97Vlp"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
-        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
-      },
-      "artists": [
-        {
-          "name": "Pambo",
-          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
-        }
-      ],
-      "duration_ms": 212326,
-      "name": "Fondo",
-      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Mantenme pendiente",
         "url": "https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 264658,
       "name": "Mantenme pendiente",
       "url": "https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
+        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
+      },
+      "artists": [
+        {
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+        }
+      ],
+      "duration_ms": 212326,
+      "name": "Fondo",
+      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/2OHUQeAUQzD7XJV4brIs1A"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163217,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/2mrgI05Xvxm8QG5RxFMHSC"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Despu\u00e9s del Norte",
         "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 165456,
       "name": "Medias tintas",
       "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/2OHUQeAUQzD7XJV4brIs1A"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163217,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/2mrgI05Xvxm8QG5RxFMHSC"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Nadie Me Corta el Pelo Como T\u00fa",
-        "url": "https://open.spotify.com/album/0bfXdh6mwJ7AyS8RN8AfdD"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 261613,
-      "name": "Nadie Me Corta el Pelo Como T\u00fa",
-      "url": "https://open.spotify.com/track/0QKl2byffi9u6tDHuKe5OT"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
         "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
       },
@@ -1071,26 +1055,6 @@
       "duration_ms": 210200,
       "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
       "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Sed de Acci\u00f3n Con Carolina Ross (Re-versi\u00f3n)",
-        "url": "https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 213959,
-      "name": "Sed de Acci\u00f3n - Re-versi\u00f3n",
-      "url": "https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1127,22 +1091,38 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Hubo Algo",
-        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
+        "name": "Nadie Me Corta el Pelo Como T\u00fa",
+        "url": "https://open.spotify.com/album/0bfXdh6mwJ7AyS8RN8AfdD"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
         }
       ],
-      "duration_ms": 311618,
-      "name": "Hubo Algo",
-      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+      "duration_ms": 261613,
+      "name": "Nadie Me Corta el Pelo Como T\u00fa",
+      "url": "https://open.spotify.com/track/0QKl2byffi9u6tDHuKe5OT"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Sed de Acci\u00f3n Con Carolina Ross (Re-versi\u00f3n)",
+        "url": "https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213959,
+      "name": "Sed de Acci\u00f3n - Re-versi\u00f3n",
+      "url": "https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1167,6 +1147,26 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Hubo Algo",
+        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 311618,
+      "name": "Hubo Algo",
+      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "tu foto x ah\u00ed",
         "url": "https://open.spotify.com/album/0KoyYy8BP8bTg1UmMQRw2b"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 156244,
       "name": "tu foto x ah\u00ed",
       "url": "https://open.spotify.com/track/0iVaOOMUWOOLXJMlExbFxZ"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "par\u00eds",
-        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "par\u00eds",
-      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Un buen d\u00eda",
-        "url": "https://open.spotify.com/album/0TMrSx0D2v9ntzdb5dl6Su"
+        "name": "par\u00eds",
+        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Un buen d\u00eda",
-      "url": "https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U"
+      "duration_ms": 163902,
+      "name": "par\u00eds",
+      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1243,6 +1227,22 @@
       "duration_ms": 168000,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Un buen d\u00eda",
+        "url": "https://open.spotify.com/album/0TMrSx0D2v9ntzdb5dl6Su"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Un buen d\u00eda",
+      "url": "https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Algo Mejor",
-        "url": "https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT"
+        "name": "Papalote",
+        "url": "https://open.spotify.com/album/1qZF0H7ybTqldbTHRjdBhK"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 153746,
-      "name": "Algo Mejor",
-      "url": "https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF"
+      "duration_ms": 316411,
+      "name": "Papalote",
+      "url": "https://open.spotify.com/track/1o5I8ktLXeSqs56ao4bvrT"
     }
   ],
   "unique_name": "Pop Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Tim Godfrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,253 likes - 99 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,271 likes - 99 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 7 | [My Papa](https://open.spotify.com/track/2EZdxvhQQ4TM4bpSCNKJVy) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [My Papa](https://open.spotify.com/album/0y57n4C6UaDIhNZRFK3fhL) | 6:30 |
 | 8 | [Wayekhona](https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wayekhona](https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV) | 4:00 |
 | 9 | [Goodness And Mercy](https://open.spotify.com/track/1lgzLzh6dZabFvdJAD1CaG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [No Label](https://open.spotify.com/album/0ghyhpA9XBMUK7d7D8IniC) | 3:38 |
-| 10 | [E DEY WORK](https://open.spotify.com/track/1OvQm2CalyUh1MWpKIloaH) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Yvonne](https://open.spotify.com/artist/1WBQpneKoFEuK76UClIwmb) | [E DEY WORK](https://open.spotify.com/album/6JZKOVX7QQ3nF1dYovTt1M) | 1:26 |
+| 10 | [E DEY WORK](https://open.spotify.com/track/1OvQm2CalyUh1MWpKIloaH) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Yvonne](https://open.spotify.com/artist/50PhcatYIIBcH41wgFNU3Q) | [E DEY WORK](https://open.spotify.com/album/6JZKOVX7QQ3nF1dYovTt1M) | 1:26 |
 | 11 | [Tomorrow](https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay) | [Awesome Madu](https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Tomorrow](https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm) | 3:13 |
 | 12 | [Do A Work In Me \- Live](https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Do A Work In Me \(Live\)](https://open.spotify.com/album/6f0MbPfuYyhs9ZS0u2ekpL) | 9:21 |
 | 13 | [Pray](https://open.spotify.com/track/6jE1iKmQNYgJUWLq3Xk2dM) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Pray](https://open.spotify.com/album/21C4fJssal3r4mmLuuGZgF) | 2:22 |

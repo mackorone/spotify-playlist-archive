@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419934,
+  "num_followers": 419917,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -303,42 +303,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Another Friday Night / Hot Heavy Summer / Sister",
-        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 229291,
-      "name": "Hot Heavy Summer",
-      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Sad Disco (Pine Studios)",
-        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Sad Disco (Pine Studios)",
-      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -359,6 +323,42 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Sad Disco (Pine Studios)",
+        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Sad Disco (Pine Studios)",
+      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Another Friday Night / Hot Heavy Summer / Sister",
+        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 229291,
+      "name": "Hot Heavy Summer",
+      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
         }
       ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+      "duration_ms": 242266,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -407,18 +407,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Nothing Compares",
-      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -931,6 +931,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "In the Game",
+        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        },
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "In the Game",
-        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        },
-        {
-          "name": "Susan O'Neill",
-          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
-      },
-      "artists": [
-        {
-          "name": "Jenn Grant",
-          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
-        },
-        {
-          "name": "Kim Harris",
-          "url": "https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Judy",
-      "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        },
+        {
+          "name": "Kim Harris",
+          "url": "https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Judy",
+      "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Shape of Silence",
-        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 200355,
-      "name": "Causing Trouble",
-      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Shape of Silence",
+        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 200355,
+      "name": "Causing Trouble",
+      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "all of my lessons",
-        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 176795,
-      "name": "all of my lessons",
-      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 247826,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "all of my lessons",
+        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 176795,
+      "name": "all of my lessons",
+      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Love Without Possession",
         "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 241681,
       "name": "Love Without Possession",
       "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Stranger Danger",
-        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Stranger Danger",
-      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Stranger Danger",
+        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Stranger Danger",
+      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Northsiders",
-        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/6OzPiCJQmxVRKgYlD5XMMJ"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 236483,
       "name": "Shine",
       "url": "https://open.spotify.com/track/2hxxoC0rF7UkUuaY9Lagjx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Northsiders",
+        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Narcissist - EP",
         "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 241000,
       "name": "Not Healthy Anymore",
       "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1999,6 +1999,22 @@
       "duration_ms": 287693,
       "name": "Third Way",
       "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "On the Outside",
+        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        }
+      ],
+      "duration_ms": 189215,
+      "name": "On the Outside",
+      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2039,22 +2055,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "On the Outside",
-        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
-      },
-      "artists": [
-        {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        }
-      ],
-      "duration_ms": 189215,
-      "name": "On the Outside",
-      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Green to Gold",
         "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
       },
@@ -2067,22 +2067,6 @@
       "duration_ms": 237985,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "All Now",
-        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "All Now",
-      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "All Now",
+        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 270026,
+      "name": "All Now",
+      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Big Star (Alt)",
         "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
       },
@@ -2115,6 +2115,22 @@
       "duration_ms": 244632,
       "name": "Big Star - Alt",
       "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wilderness Within You",
+        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 230366,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2139,22 +2155,6 @@
       "duration_ms": 193000,
       "name": "We Cannot Resist - Edit",
       "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Wilderness Within You",
-        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 230366,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Where I Should End",
-        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 318718,
-      "name": "Any Dreams?",
-      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Head of Roses: Phantom Limb",
         "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 222371,
       "name": "The Weakness in Me",
       "url": "https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Where I Should End",
+        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 318718,
+      "name": "Any Dreams?",
+      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2423,6 +2423,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb"
+      },
+      "artists": [
+        {
+          "name": "Scott Hirsch",
+          "url": "https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT"
+        },
+        {
+          "name": "Kelly McFarling",
+          "url": "https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr"
+        }
+      ],
+      "duration_ms": 294974,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "All Of The Women [Feat. Sa-Roc] (dim star remix)",
         "url": "https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK"
       },
@@ -2443,26 +2463,6 @@
       "duration_ms": 279504,
       "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
       "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb"
-      },
-      "artists": [
-        {
-          "name": "Scott Hirsch",
-          "url": "https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT"
-        },
-        {
-          "name": "Kelly McFarling",
-          "url": "https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr"
-        }
-      ],
-      "duration_ms": 294974,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7"
     },
     {
       "added_at": "2025-02-07 05:00:36",

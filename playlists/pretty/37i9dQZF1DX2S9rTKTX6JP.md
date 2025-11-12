@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,345 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,451 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 65 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
 | 66 | [How To Save A Life](https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [How To Save A Life](https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW) | 3:38 |
 | 67 | [Imagine](https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 4:48 |
-| 68 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 |
-| 69 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 |
+| 68 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 |
+| 69 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 |
 | 70 | [Someone You Loved](https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Ashland](https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw) | [Someone You Loved](https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7) | 3:01 |
 | 71 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
 | 72 | [Under Pressure](https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:31 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 80 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
 | 81 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 82 | [DJ Got Us Fallin in Love](https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To) | [Her Bright Skies](https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI) | [DJ Got Us Fallin in Love](https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL) | 3:35 |
-| 83 | [Landslide \- Remastered](https://open.spotify.com/track/2dc1BYopTHgviDXawShfME) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Remastered\)](https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W) | 3:10 |
-| 84 | [Uninvited](https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Uninvited](https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8) | 4:19 |
+| 83 | [Uninvited](https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Uninvited](https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8) | 4:19 |
+| 84 | [Landslide \- Remastered](https://open.spotify.com/track/2dc1BYopTHgviDXawShfME) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Remastered\)](https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W) | 3:10 |
 | 85 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 86 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
 | 87 | [Immigrant Song](https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [The Girl With the Dragon Tattoo](https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7) | 2:47 |

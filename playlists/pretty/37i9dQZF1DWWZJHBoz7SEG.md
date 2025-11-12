@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Nueva semana, nuevas rolitas con $HUPE, Victor Mendivil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,238 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,272 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 74 | [Nuevo Leon y Tamaulipas](https://open.spotify.com/track/4Ty6gMAi0JKGAlaoTNVdRb) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Nuevo Leon y Tamaulipas](https://open.spotify.com/album/3h5LWdWvWVf30qElPKX0U7) | 3:08 |
 | 75 | [Cada Que](https://open.spotify.com/track/329NHIkE7Dw4vWTIEa66Z9) | [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b), [Labibe](https://open.spotify.com/artist/7tNmrA3JfzeuLengk9zIw8) | [Cada Que](https://open.spotify.com/album/22wEs0S7ambKafyEn7gmcE) | 4:32 |
 | 76 | [Clara Demente](https://open.spotify.com/track/2OzbdPWxKMk092M1Rqj9aG) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Clara Demente](https://open.spotify.com/album/35Ll1VRpIuB14jEx7iwSpb) | 3:10 |
-| 77 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:11 |
+| 77 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:12 |
 | 78 | [esa fui yo](https://open.spotify.com/track/54VjEorHcET8CEvFjijhzv) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 2:58 |
 | 79 | [Bailar Contigo](https://open.spotify.com/track/7p0yajnYNRP60vDZg2DVrx) | [Grupo Anexxado](https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9) | [Bailar Contigo](https://open.spotify.com/album/0b6aCzMHaYTksC2KuumvyB) | 3:09 |
 | 80 | [Oro](https://open.spotify.com/track/0eopPzx0CfDLvyGUVUyeCV) | [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU) | [Oro](https://open.spotify.com/album/4STdYDmzeVxscv1ryti7WK) | 2:46 |

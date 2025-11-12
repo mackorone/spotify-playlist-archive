@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Library Card",
+  "description": "Nieuwe alternative & rock releases. Cover: White Lies",
   "name": "New Alternative",
   "tracks": [
     {
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 174785,
       "name": "Big Bad Bubble Boy",
       "url": "https://open.spotify.com/track/6mp2XssdIXxPOxoiC1aUQz"
@@ -2110,6 +2110,10 @@
         {
           "name": "VALS ALARM",
           "url": "https://open.spotify.com/artist/3q1SvFNWA77vrDRqEpgjbS"
+        },
+        {
+          "name": "BUBU",
+          "url": "https://open.spotify.com/artist/4WEZCyaxD43THQtsOCmTAO"
         }
       ],
       "date_added": "2025-10-28",
@@ -2921,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Euromancer",
+        "url": "https://open.spotify.com/album/1OXZ5hSPzfLzmu3FW8MylL"
+      },
+      "artists": [
+        {
+          "name": "The Hickey Underworld",
+          "url": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192499,
+      "name": "Euromancer",
+      "url": "https://open.spotify.com/track/2JQrW31ZhY0h5GH8vrkonM"
+    },
+    {
+      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/2f0rzCRR4HFFetoLsPQl0y"
       },
@@ -3516,7 +3538,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 146211,
       "name": "GATEKEEPER - Studio Version",
       "url": "https://open.spotify.com/track/4EX7RmTivh42tz5DWBcVMg"
@@ -3768,7 +3790,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 173113,
       "name": "Good Grace",
       "url": "https://open.spotify.com/track/5vuC4HzdniJMs7BgEoSPnN"
@@ -3898,6 +3920,24 @@
       "duration_ms": 224333,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/2RamsZF43V7p6POXrQ44cM"
+    },
+    {
+      "album": {
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/2KTzR18cs1Oj7US8wUXFvi"
+      },
+      "artists": [
+        {
+          "name": "WAAX",
+          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "HANDS",
+      "url": "https://open.spotify.com/track/64QFjvDeg3YVf9oGkASVx3"
     },
     {
       "album": {
@@ -5165,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269813,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa"
+    },
+    {
+      "album": {
         "name": "DIVE (deluxe)",
         "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
       },
@@ -5725,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Little Something",
+        "url": "https://open.spotify.com/album/7IL6ugfBnWIrP69SHLcHsh"
+      },
+      "artists": [
+        {
+          "name": "Fit",
+          "url": "https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "Little Something",
+      "url": "https://open.spotify.com/track/3PMn2pKbdsAsVpyiNG140r"
+    },
+    {
+      "album": {
         "name": "Living A Lie",
         "url": "https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg"
       },
@@ -5952,7 +6028,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 208028,
       "name": "Lucky Dimes",
       "url": "https://open.spotify.com/track/4s1rGbXjdZ6zF35189dxDE"
@@ -6618,7 +6694,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 160082,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/6NoBTn0bTHFtCMkt8jgqq3"
@@ -6806,6 +6882,24 @@
       "duration_ms": 126285,
       "name": "No Obligation",
       "url": "https://open.spotify.com/track/5AnKgZ8Ctag36HxyPP5Uzn"
+    },
+    {
+      "album": {
+        "name": "No Profit",
+        "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
+      },
+      "artists": [
+        {
+          "name": "MAHA",
+          "url": "https://open.spotify.com/artist/5gPTyE1PeMWs2oVCtwY4G4"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "No Profit",
+      "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
     },
     {
       "album": {
@@ -8009,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "Mercy Is A Wild Beast",
+        "url": "https://open.spotify.com/album/4nZvhUblPFNcJzXq388tJX"
+      },
+      "artists": [
+        {
+          "name": "Youri Lentjes",
+          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320103,
+      "name": "Sanctus",
+      "url": "https://open.spotify.com/track/55XIRzjn6KRGfshfBGFopW"
+    },
+    {
+      "album": {
         "name": "Sandcastle Molds",
         "url": "https://open.spotify.com/album/3eZcliPovnaww1ahgJ1gnN"
       },
@@ -8074,7 +8186,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 144544,
       "name": "say something",
       "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
@@ -8910,7 +9022,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 244840,
       "name": "Straight Line Was A Lie",
       "url": "https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4"
@@ -9789,6 +9901,24 @@
     },
     {
       "album": {
+        "name": "The Night (I Wanna Know)",
+        "url": "https://open.spotify.com/album/7e6npKI9Pg3506X4UDMY8X"
+      },
+      "artists": [
+        {
+          "name": "Quentyn",
+          "url": "https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155883,
+      "name": "The Night (I Wanna Know)",
+      "url": "https://open.spotify.com/track/2SufAz8tnLFegXflJCNT9K"
+    },
+    {
+      "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
       },
@@ -10117,6 +10247,24 @@
     },
     {
       "album": {
+        "name": "Champain",
+        "url": "https://open.spotify.com/album/0ZZDys93y8hwmXEKD5QdBu"
+      },
+      "artists": [
+        {
+          "name": "Portland",
+          "url": "https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213639,
+      "name": "Time Is Now",
+      "url": "https://open.spotify.com/track/5qQQ1mH73T2FauOpYhFV5H"
+    },
+    {
+      "album": {
         "name": "Time Waited",
         "url": "https://open.spotify.com/album/6TX9eLehGePcSscGQvXrI0"
       },
@@ -10186,6 +10334,24 @@
       "duration_ms": 234216,
       "name": "To All The Ones That I Love",
       "url": "https://open.spotify.com/track/6Z3Ank38DbdeCtlpcvZfQH"
+    },
+    {
+      "album": {
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233289,
+      "name": "To Space",
+      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
     },
     {
       "album": {
@@ -10704,7 +10870,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 255026,
       "name": "Victory City",
       "url": "https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy"
@@ -10798,6 +10964,24 @@
       "duration_ms": 209250,
       "name": "Want",
       "url": "https://open.spotify.com/track/596Nd1HxYf2YsnB9py9kWe"
+    },
+    {
+      "album": {
+        "name": "War Crimes",
+        "url": "https://open.spotify.com/album/5NgSKHs4bWaEEnwDKsIWjW"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220821,
+      "name": "War Crimes",
+      "url": "https://open.spotify.com/track/1dp573qknNnGvmBGZcyDXE"
     },
     {
       "album": {
@@ -10992,7 +11176,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 180092,
       "name": "When You Are Around",
       "url": "https://open.spotify.com/track/7790DH8sb3lsz7hZgHHxsl"
@@ -11028,7 +11212,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 269826,
       "name": "White Horses",
       "url": "https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe"

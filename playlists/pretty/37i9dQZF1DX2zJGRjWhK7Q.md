@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,770 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,821 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 5 | [Siempre Seré Guajiro](https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx) | [William Millan](https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj), [Saoco](https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1) | [Siempre Seré Guajiro](https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d) | 5:27 |
 | 6 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
 | 7 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
-| 8 | [El Dia De Suerte](https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 5:27 |
-| 9 | [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 |
+| 8 | [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 |
+| 9 | [El Dia De Suerte](https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 5:27 |
 | 10 | [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 |
 | 11 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
 | 12 | [Lejos De Ti](https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH) | 4:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Ana Torroja en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,638 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,647 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 27 | [QUIERO OLVIDARTE \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [QUIERO OLVIDARTE \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
 | 28 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 29 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 |
-| 30 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
-| 31 | [Contigo](https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Contigo](https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt) | 2:37 |
+| 30 | [Contigo](https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Contigo](https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt) | 2:37 |
+| 31 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
 | 32 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
 | 33 | [El Vuelo](https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:11 |
 | 34 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 40 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
 | 41 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
 | 42 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
-| 43 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
-| 44 | [karma](https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [karma](https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB) | 2:30 |
+| 43 | [karma](https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [karma](https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB) | 2:30 |
+| 44 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
 | 45 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
 | 46 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 |
 | 47 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
-| 48 | [el niño bueno](https://open.spotify.com/track/6WW6JomwQgE8GWNt4pF6vP) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [para ti: querida amiga](https://open.spotify.com/album/41Xi6hQy7ywcAEB4zTEhB6) | 2:17 |
-| 49 | [legacy](https://open.spotify.com/track/4Wslzp9UBqMpPFpoRcXsJf) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [legacy](https://open.spotify.com/album/3Zxmyv9ZFl0izIeH6AWhnF) | 2:54 |
+| 48 | [legacy](https://open.spotify.com/track/4Wslzp9UBqMpPFpoRcXsJf) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [legacy](https://open.spotify.com/album/3Zxmyv9ZFl0izIeH6AWhnF) | 2:54 |
+| 49 | [el niño bueno](https://open.spotify.com/track/6WW6JomwQgE8GWNt4pF6vP) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [para ti: querida amiga](https://open.spotify.com/album/41Xi6hQy7ywcAEB4zTEhB6) | 2:17 |
 | 50 | [Amantes](https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amantes](https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC) | 2:33 |
 
 Snapshot ID: `AAAAAPtXNzZgsUL17juSKYw3wtFqesoW`

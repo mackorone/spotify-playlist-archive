@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,477 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,501 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 83 | [If You Love Me \(Let Me Know\)](https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:16 |
 | 84 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:40 |
 | 85 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
-| 86 | [Drinkin' My Baby \(Off My Mind\) \- 2009 Remaster](https://open.spotify.com/track/0aH37hHD9bgClsjGngV974) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:25 |
-| 87 | [Southern Nights](https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Greatest Hits](https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4) | 2:59 |
+| 86 | [Southern Nights](https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Greatest Hits](https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4) | 2:59 |
+| 87 | [Drinkin' My Baby \(Off My Mind\) \- 2009 Remaster](https://open.spotify.com/track/0aH37hHD9bgClsjGngV974) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:25 |
 | 88 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 | 89 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
 | 90 | [Take This Job and Shove It](https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Johnny Paycheck \- 16 Biggest Hits](https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,153 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,334 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 33 | [Que Sí](https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:23 |
 | 34 | [Vuelve por Favor](https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tornasol](https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H) | 4:16 |
 | 35 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 |
-| 36 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 4:50 |
-| 37 | [Bonita \- Bonus Track](https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 3:39 |
+| 36 | [Bonita \- Bonus Track](https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 3:39 |
+| 37 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 4:50 |
 | 38 | [Hoy No](https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 4:02 |
 | 39 | [El Cristal](https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:01 |
 | 40 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Algo Es Mejor](https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:00 |
 | 50 | [Pornocracia](https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:23 |
 
-Snapshot ID: `aQ/ZgAAAAADw7eNqqaxod3v4CAt6+fQO`
+Snapshot ID: `aRErAAAAAADWiw4Cj+qoFGwdSzSaz16O`

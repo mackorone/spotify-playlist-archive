@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Lyodra, Kehlani, Katy Perry, Padi dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,424 likes - 111 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,454 likes - 111 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Relapse](https://open.spotify.com/track/4XdqhvEAFjRKCpHIZ9LFB2) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [Relapse](https://open.spotify.com/album/1AHEZh8SyRQzT2AAFMMZoS) | 3:36 |
 | 111 | [First Snow in Tokyo](https://open.spotify.com/track/3xPOoS63y7nYO3axO0JHRw) | [postscript](https://open.spotify.com/artist/1auOWTTckAehdkARxrmnrO) | [First Snow in Tokyo](https://open.spotify.com/album/0FPJKNrgvgRBfBaRTHPhKG) | 3:27 |
 
-Snapshot ID: `AAAAAEoQ/Kk/3OGPiDDg6pZmq/IqYIbK`
+Snapshot ID: `AAAAAKT1hx5iHYoT5+yJTXLqA5sa3Dvr`

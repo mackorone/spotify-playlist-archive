@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 663072,
+  "num_followers": 663118,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAADebXCl9B6mV9BU6l2G1Gpg",
+  "snapshot_id": "aRErAAAAAAAiDilBlZgiUGd0ykw8WawK",
   "tracks": [
     {
       "added_at": null,
@@ -872,16 +872,16 @@
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
           "name": "Eric Andre",
@@ -894,15 +894,11 @@
         {
           "name": "Kid Cudi",
           "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 217266,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R"
+      "duration_ms": 219133,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
     },
     {
       "added_at": null,
@@ -968,16 +964,16 @@
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
           "name": "Eric Andre",
@@ -990,11 +986,15 @@
         {
           "name": "Kid Cudi",
           "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 219133,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
+      "duration_ms": 217266,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-579 songs - 1 day 0 hr 5 min
+580 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2019-05-26\* |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2024-10-18 |  |
 | [Midas Era](https://open.spotify.com/track/3REVoefyjqwG5Ihs9T9J2x) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The SP1200 Project: A Re\-Awakening](https://open.spotify.com/album/61pswtqA5qcrpmtWbb4LPc) | 2:49 | 2019-05-26\* | 2020-01-14 |
+| [Midnight](https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV) | [Nahokimama](https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Midnight](https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb) | 2:12 | 2025-11-11 |  |
 | [Midnight Run \(feat\. Lex \(de Kalhex\)\)](https://open.spotify.com/track/4sn8q7k9mlmwudXxmHbwKp) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Midnight Run \(feat\. Lex \(de Kalhex\)\)](https://open.spotify.com/album/7mbryiUrIzyLEqTLfwjmTk) | 2:54 | 2025-09-18 | 2025-11-01 |
 | [MidStation](https://open.spotify.com/track/6KEOX0H9NMSK7qLH7a64Nc) | [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [Immerse](https://open.spotify.com/album/282HB39K4wb7LWyUw7H0H9) | 1:56 | 2019-06-14 | 2019-08-31 |
 | [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 | 2022-07-21 | 2025-10-16 |
@@ -442,7 +443,7 @@
 | [Self Medication](https://open.spotify.com/track/0Woiq306viHioD5ZkVN9x5) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Self Medication](https://open.spotify.com/album/4QpqaTsvKKKa7sGspKE4Qx) | 2:11 | 2019-05-26\* | 2019-08-13 |
 | [SERENADE](https://open.spotify.com/track/4WKfoQZecT50AuTAArHxQz) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [SERENADE](https://open.spotify.com/album/2SkleYWCJITY6pvdmMRGH1) | 1:50 | 2019-05-26\* | 2021-10-11 |
 | [Seseragi](https://open.spotify.com/track/4ANIuRARV6NUZQ8funtPBA) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Seseragi](https://open.spotify.com/album/2JD5d2OCXxL5Cwt9x3jD6z) | 2:37 | 2025-09-18 |  |
-| [settle down](https://open.spotify.com/track/6uyitNldOLr44QmicuClak) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [keep going](https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL) | 1:42 | 2021-11-28 |  |
+| [settle down](https://open.spotify.com/track/6uyitNldOLr44QmicuClak) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [keep going](https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL) | 1:42 | 2021-11-28 | 2025-11-12 |
 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/4gZFSfMknXFOQQcNKveqHV) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/4CraVd8KY7P8xGMMLqKiQX) | 2:58 | 2019-05-26\* | 2022-04-20 |
 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG) | 2:58 | 2022-11-17 | 2024-04-19 |
 | [Shinny Cloud](https://open.spotify.com/track/1QXcdvepUVCQQDse2XH7ZZ) | [Hayjee](https://open.spotify.com/artist/0IHEtl5vYHC7KTNBstRMwt), [Da Solist](https://open.spotify.com/artist/43biVxxyNYggA1g2iYylDW), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Shinny Cloud](https://open.spotify.com/album/6ug6OQSvs5t64gR3CsbbTY) | 2:40 | 2020-11-06 | 2021-10-28 |

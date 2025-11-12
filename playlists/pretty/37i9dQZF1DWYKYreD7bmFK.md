@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,885 likes - 16 songs - 46 min 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 10,970 likes - 17 songs - 48 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 | 8 | [UN BEL CASINO](https://open.spotify.com/track/2wZTZwpgOtMI2z6sr5qZVW) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [UN BEL CASINO](https://open.spotify.com/album/4X4DPAwogzfJnDaB8V1HLY) | 3:07 |
 | 9 | [Scusa Mamma](https://open.spotify.com/track/032UiUwwoEYSc5DfOgILgH) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Scusa Mamma](https://open.spotify.com/album/72qO7YmCVximahALImPx7M) | 2:31 |
 | 10 | [Mon Amour](https://open.spotify.com/track/32MSyU9DbEBSmUGQWJm9Q4) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Mon Amour](https://open.spotify.com/album/1k9M6MbGeVeSmDCB5BRKix) | 2:17 |
-| 11 | [Inizialmente Tu](https://open.spotify.com/track/4vdUdncyJWMoLAIDO9WAfT) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [Inizialmente Tu](https://open.spotify.com/album/6eiDHXFrqpEhgF8jqCKQZ3) | 3:05 |
-| 12 | [Maria](https://open.spotify.com/track/4RJVJi20vRPunYATJEYIxQ) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Maria](https://open.spotify.com/album/5qnM379RxrraXflgj7ObDV) | 2:14 |
-| 13 | [Ullallà](https://open.spotify.com/track/1awla02OwE5uKeKSYj7u0R) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Ullallà](https://open.spotify.com/album/6H70unPTHZmictgTc52us2) | 2:52 |
-| 14 | [Amico Lontano](https://open.spotify.com/track/4w3ZbY68eOuvuMJbVJgQHF) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [Amico Lontano](https://open.spotify.com/album/1TBdifXGPgO0WX1vuOZ9BC) | 2:56 |
-| 15 | [PIZZA AMERICANA](https://open.spotify.com/track/5HKQuMckT8eoF6fQGNMhrd) | [AMSI](https://open.spotify.com/artist/2lYoyllLwqdW5mjvgOnLGw) | [PIZZA AMERICANA](https://open.spotify.com/album/1NSgJAde8dr8JJmvbRR5d1) | 2:52 |
-| 16 | [Nuntannamurà](https://open.spotify.com/track/3DQy4kOBuD0Ypt5wfjaSIo) | [CAINERO](https://open.spotify.com/artist/2T58UeifQnkmAg655hjDCG) | [Nuntannamurà](https://open.spotify.com/album/2oeVaWxbdo92zxDBfYhC3s) | 2:58 |
+| 11 | [FENOMENALE](https://open.spotify.com/track/7Lyp3UJHMJ6w7FP6bRa9Rj) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [FENOMENALE](https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4) | 2:48 |
+| 12 | [Inizialmente Tu](https://open.spotify.com/track/4vdUdncyJWMoLAIDO9WAfT) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [Inizialmente Tu](https://open.spotify.com/album/6eiDHXFrqpEhgF8jqCKQZ3) | 3:05 |
+| 13 | [Maria](https://open.spotify.com/track/4RJVJi20vRPunYATJEYIxQ) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Maria](https://open.spotify.com/album/5qnM379RxrraXflgj7ObDV) | 2:14 |
+| 14 | [Ullallà](https://open.spotify.com/track/1awla02OwE5uKeKSYj7u0R) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Ullallà](https://open.spotify.com/album/6H70unPTHZmictgTc52us2) | 2:52 |
+| 15 | [Amico Lontano](https://open.spotify.com/track/4w3ZbY68eOuvuMJbVJgQHF) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [Amico Lontano](https://open.spotify.com/album/1TBdifXGPgO0WX1vuOZ9BC) | 2:56 |
+| 16 | [PIZZA AMERICANA](https://open.spotify.com/track/5HKQuMckT8eoF6fQGNMhrd) | [AMSI](https://open.spotify.com/artist/2lYoyllLwqdW5mjvgOnLGw) | [PIZZA AMERICANA](https://open.spotify.com/album/1NSgJAde8dr8JJmvbRR5d1) | 2:52 |
+| 17 | [Nuntannamurà](https://open.spotify.com/track/3DQy4kOBuD0Ypt5wfjaSIo) | [CAINERO](https://open.spotify.com/artist/2T58UeifQnkmAg655hjDCG) | [Nuntannamurà](https://open.spotify.com/album/2oeVaWxbdo92zxDBfYhC3s) | 2:58 |
 
-Snapshot ID: `AAAAALDm57cb2028zVH51K2zFvbZV68S`
+Snapshot ID: `AAAAAIo8b3bsIoCbo/3YDZuvXIhdr1KW`

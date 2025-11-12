@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,121 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,416 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 62 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
 | 63 | [Paso del norte](https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Exitos de Los Broncos de Reynosa](https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT) | 2:54 |
 | 64 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 |
-| 65 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
-| 66 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
+| 65 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
+| 66 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
 | 67 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
 | 68 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 |
 | 69 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |

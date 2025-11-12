@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42280,
+  "num_followers": 42282,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABMupR0JGk2izezeyQJABUp",
+  "snapshot_id": "aRErAAAAAACntsElw3REzT9mx6r5tJ1l",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All She Wanna Do",
         "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 214536,
       "name": "Move (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do It For The Bay",
-        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 118551,
-      "name": "Do It For The Bay",
-      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
     },
     {
       "added_at": null,

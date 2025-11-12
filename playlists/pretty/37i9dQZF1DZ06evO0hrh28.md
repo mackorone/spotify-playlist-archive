@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,933 likes - 47 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,952 likes - 47 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 16 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
 | 17 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 |
 | 18 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 |
-| 19 | [perfectas](https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 3:38 |
-| 20 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 |
+| 19 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 |
+| 20 | [perfectas](https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 3:38 |
 | 21 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 |
 | 22 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
 | 23 | [como si no importara](https://open.spotify.com/track/7M0mBls29IohQIPGqegcyE) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:53 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 33 | [Facts.mp3](https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:10 |
 | 34 | [DAMN GIRL](https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [KUSTOM](https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp) | 3:21 |
 | 35 | [cielo en la mente](https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:49 |
-| 36 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
-| 37 | [Maldita Noche \- En Vivo Estadio Vélez](https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Maldita Noche \(En Vivo Estadio Vélez\)](https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH) | 3:30 |
+| 36 | [Maldita Noche \- En Vivo Estadio Vélez](https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Maldita Noche \(En Vivo Estadio Vélez\)](https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH) | 3:30 |
+| 37 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
 | 38 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 |
 | 39 | [mi otra mitad](https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 |
 | 40 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 46 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 |
 | 47 | [El Plan](https://open.spotify.com/track/2oEQCtOciINCIQBvCs6yyj) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Plan](https://open.spotify.com/album/0JxHCoRxyFbzLroVHAsAcs) | 3:37 |
 
-Snapshot ID: `aQ/ZgAAAAAATwKjUmOez48fsdhkYMALT`
+Snapshot ID: `aRErAAAAAAD34sZQO9/IjPcus27GpOYY`

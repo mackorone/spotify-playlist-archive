@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,158 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,219 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 24 | [The Sick, The Dying… And The Dead!](https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:04 |
 | 25 | [Train Of Consequences \- Remastered 2004](https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:31 |
 | 26 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 |
-| 27 | [The Threat Is Real](https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:22 |
-| 28 | [Five Magics \- 2004 Remix](https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:39 |
+| 27 | [Five Magics \- 2004 Remix](https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:39 |
+| 28 | [The Threat Is Real](https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:22 |
 | 29 | [Architecture Of Aggression](https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:39 |
 | 30 | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:07 |
 | 31 | [Kill The King](https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Blood Of Heroes \- Remastered 2004](https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:50 |
 | 50 | [A Secret Place \- Remastered 2004 / Remixed](https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 5:24 |
 
-Snapshot ID: `aQ/ZgAAAAAC5Pkg0maGPpCwH+mD4Joff`
+Snapshot ID: `aRErAAAAAACOJnrl0NqVQSaH/0VoN1Oj`

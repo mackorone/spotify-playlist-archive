@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 
 > This is Elmiene\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,458 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,461 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 9 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
 | 10 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 11 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
-| 12 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
-| 13 | [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 |
+| 12 | [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 |
+| 13 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 14 | [Different Too](https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:45 |
 | 15 | [TLC](https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 3:20 |
 | 16 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 21 | [Golden](https://open.spotify.com/track/3WJI2S7Zz9pEfHnke2Z6k8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:44 |
 | 22 | [Days!](https://open.spotify.com/track/6VsOaeuFQ2F7Ux3kkvKDa5) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 0:51 |
 | 23 | [Until It's Dust](https://open.spotify.com/track/616o0X9kcvy732UKKnL68j) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 2:35 |
-| 24 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 |
+| 24 | [Untitled \(How Does It Feel?\) \- Live From 525](https://open.spotify.com/track/2YJnUBbDDQ83tPEfAxcVOu) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From 525](https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA) | 3:12 |
 | 25 | [Promise Me A Rose](https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:21 |
-| 26 | [Untitled \(How Does It Feel?\) \- Live From 525](https://open.spotify.com/track/2YJnUBbDDQ83tPEfAxcVOu) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From 525](https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA) | 3:12 |
+| 26 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 |
 | 27 | [Dark Out \(Season of Thieves\)](https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 1:55 |
 | 28 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
 | 29 | [Before I Take A While](https://open.spotify.com/track/7bvDwFcfjSX7BlCpgh2n0X) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 3:10 |
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 43 | [Coraline \- Live From 525](https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From 525](https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA) | 2:50 |
 | 44 | [Breaking Point \- Live From Brussels](https://open.spotify.com/track/5dWRG9Zv96UKVcOxVLlxZK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From Brussels](https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU) | 3:18 |
 | 45 | [Pool \(feat\. Elmiene\)](https://open.spotify.com/track/0csHRGsK3gKsERufowurNK) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 4:34 |
-| 46 | [Dead Homies \(feat\. BLKPRL & Elmiene\)](https://open.spotify.com/track/0gHh8O97smBg8KamiTiOY6) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [BLKPRL](https://open.spotify.com/artist/6rPIMLDp29I1LgFB4JPZn2), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 3:53 |
 
-Snapshot ID: `aQ/ZgAAAAABVudDonUuik9RljWH2sq/I`
+Snapshot ID: `aRErAAAAAADwRu/qG2OeHGI3yR2QLXIK`

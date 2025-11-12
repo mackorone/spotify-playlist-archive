@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 171616,
+  "num_followers": 171604,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Banjo Babes",
         "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Blonde On The Tracks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
-      },
-      "artists": [
-        {
-          "name": "Emma Swift",
-          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
-        }
-      ],
-      "duration_ms": 276576,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Ruminations",
-        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
-      },
-      "artists": [
-        {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Barbary Coast (Later)",
-      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Ruminations",
+        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
+      },
+      "artists": [
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Barbary Coast (Later)",
+      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Miracle of Love",
-        "url": "https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 268839,
-      "name": "Miracle of Love",
-      "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 286139,
       "name": "Bullet Holes in the Sky",
       "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Miracle of Love",
+        "url": "https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 268839,
+      "name": "Miracle of Love",
+      "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Prospect Hill: The American Songster Omnibus",
-        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 170456,
-      "name": "Georgia Drumbeat",
-      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "In Another Life",
         "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 238560,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Prospect Hill: The American Songster Omnibus",
+        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 170456,
+      "name": "Georgia Drumbeat",
+      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "From Where I Started",
-        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW"
       },
       "artists": [
         {
-          "name": "Sera Cahoone",
-          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Time to Give",
-      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
+      "duration_ms": 231263,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C"
     }
   ],
   "unique_name": "Contemporary Folk",

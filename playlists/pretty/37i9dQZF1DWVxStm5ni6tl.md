@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: KOLA, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,112 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,121 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

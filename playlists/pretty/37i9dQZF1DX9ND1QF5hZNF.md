@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,035 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,017 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 7 | [Falling Behind](https://open.spotify.com/track/3mJSu7WdreL5WucqTpjwW7) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Falling Behind](https://open.spotify.com/album/6w9ZhMq9O9UwoOT8A6fkp1) | 4:43 |
 | 8 | [ABOUT YOU](https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ABOUT YOU](https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE) | 3:31 |
 | 9 | [Bolide allemand \- Jaykill & Sublife Remix](https://open.spotify.com/track/1RSEQ5skCiI2o9lNoUv7go) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Jaykill](https://open.spotify.com/artist/0dGPMxHTZHlIWhNqfrWs9e), [SubLife](https://open.spotify.com/artist/6PZjd0IGgGy8f1kVfKp7sc) | [Bolide allemand](https://open.spotify.com/album/2ggT3ZPX8xC4eUPPlpvAKH) | 5:39 |
-| 10 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
+| 10 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 11 | [Spellbound](https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Spellbound](https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX) | 2:17 |
 | 12 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 |
 | 13 | [Without You \(Falling\)](https://open.spotify.com/track/3MbtBolpM1RQWqFWhq82Jc) | [BEAUMARCHAIS](https://open.spotify.com/artist/3yC7olUrcDiQ4mcLVozqqP) | [Without You \(Falling\)](https://open.spotify.com/album/23PSFyueca3yMzlxh8JHHY) | 2:58 |

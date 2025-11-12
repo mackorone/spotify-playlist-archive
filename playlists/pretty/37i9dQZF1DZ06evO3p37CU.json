@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAATLfUHZx6JfBUGdBoNudlG",
+  "snapshot_id": "aRErAAAAAADsnz11H65aVTSeP9rLXQMB",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Never Story",
-        "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 265882,
-      "name": "D/vision",
-      "url": "https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swing (From \"Marvel's Spider-Man 2\")",
         "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 184346,
       "name": "Swing - From \"Marvel's Spider-Man 2\"",
       "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Never Story",
+        "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 265882,
+      "name": "D/vision",
+      "url": "https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs That Made Me Feel",
-        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "You Comfort Me",
-      "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 293873,
       "name": "Baptize (with JID & EARTHGANG feat. Ant Clemons)",
       "url": "https://open.spotify.com/track/5zWOqc9si4XnemdxZH4WGG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs That Made Me Feel",
+        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "You Comfort Me",
+      "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revenge Of The Dreamers III",
+        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
+      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -615,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge Of The Dreamers III",
-        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
       },
       "artists": [
         {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 194613,
-      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
-      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
+      "duration_ms": 238200,
+      "name": "Proud Of U (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4u8xrKWeF7xBO9kGwIk6u7"
     },
     {
       "added_at": null,
@@ -655,22 +675,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+        "name": "SNAKEGANG EP Volume 1",
+        "url": "https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu"
       },
       "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "SNAKEGANG",
+          "url": "https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ"
         }
       ],
-      "duration_ms": 238200,
-      "name": "Proud Of U (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4u8xrKWeF7xBO9kGwIk6u7"
+      "duration_ms": 158174,
+      "name": "GLIMMER.",
+      "url": "https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0"
     },
     {
       "added_at": null,
@@ -707,30 +731,6 @@
       "duration_ms": 333328,
       "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
       "url": "https://open.spotify.com/track/7KwGV5HUzjLIk1yFCYAfMn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SNAKEGANG EP Volume 1",
-        "url": "https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "SNAKEGANG",
-          "url": "https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ"
-        }
-      ],
-      "duration_ms": 158174,
-      "name": "GLIMMER.",
-      "url": "https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS (Deluxe)",
-        "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
       "artists": [
         {
@@ -900,13 +900,17 @@
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 201191,
-      "name": "AMBEYONC\u00c9 (feat. Smino)",
-      "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": null,
@@ -935,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+        "name": "GHETTO GODS (Deluxe)",
+        "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
       },
       "artists": [
         {
@@ -944,17 +948,13 @@
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
+      "duration_ms": 201191,
+      "name": "AMBEYONC\u00c9 (feat. Smino)",
+      "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
     },
     {
       "added_at": null,
@@ -1087,22 +1087,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Options (with Wale)",
-        "url": "https://open.spotify.com/album/32JawunWi79g0aZOpjr0Os"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 154253,
-      "name": "Options (with Wale)",
-      "url": "https://open.spotify.com/track/4BcJTOfO1EI6sn1TEKZUyR"
+      "duration_ms": 175778,
+      "name": "Jozi Flows (with Bas & EARTHGANG)",
+      "url": "https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln"
     },
     {
       "added_at": null,
@@ -1131,26 +1135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+        "name": "Options (with Wale)",
+        "url": "https://open.spotify.com/album/32JawunWi79g0aZOpjr0Os"
       },
       "artists": [
         {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 175778,
-      "name": "Jozi Flows (with Bas & EARTHGANG)",
-      "url": "https://open.spotify.com/track/0T7zFfMGZ5rQEH4VPbNJln"
+      "duration_ms": 154253,
+      "name": "Options (with Wale)",
+      "url": "https://open.spotify.com/track/4BcJTOfO1EI6sn1TEKZUyR"
     },
     {
       "added_at": null,

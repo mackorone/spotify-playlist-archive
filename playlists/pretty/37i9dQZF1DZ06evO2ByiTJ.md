@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,597 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,599 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 30 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 |
 | 31 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 |
 | 32 | [Mergulhar](https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mergulhar](https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3) | 4:36 |
-| 33 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 |
-| 34 | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS) | 4:17 |
+| 33 | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS) | 4:17 |
+| 34 | [Colhendo Frutos](https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:22 |
 | 35 | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC) | 4:09 |
 | 36 | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj) | 4:13 |
-| 37 | [Colhendo Frutos](https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:22 |
-| 38 | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/album/075EOV324SMWzffd3uO7QX) | 5:09 |
+| 37 | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/album/075EOV324SMWzffd3uO7QX) | 5:09 |
+| 38 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 |
 | 39 | [O Reino \(Ao Vivo\)](https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:18 |
-| 40 | [O Melhor da Festa](https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 4:07 |
-| 41 | [Muda o Meu Coração](https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda o Meu Coração](https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3) | 5:09 |
+| 40 | [Muda o Meu Coração](https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda o Meu Coração](https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3) | 5:09 |
+| 41 | [O Melhor da Festa](https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 4:07 |
 | 42 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
 | 43 | [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 |
 | 44 | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 |
 | 50 | [El Elyon](https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [El Elyon](https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T) | 4:00 |
 
-Snapshot ID: `aQ/ZgAAAAADqTgmsnc1r7OuLJ4LtHznF`
+Snapshot ID: `aRErAAAAAAArEXp2uzywxG86+AL8f9HJ`

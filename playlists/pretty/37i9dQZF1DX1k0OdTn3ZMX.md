@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Amy Lee, Poppy and Courtney LaPlante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,855 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,908 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Traffic](https://open.spotify.com/track/3gpWJdEl2siwZTran2nhRH) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Keys To The City](https://open.spotify.com/album/6R9JatwRXocbajKarpTqPy) | 3:20 |
-| 2 | [Mercia](https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Mercia](https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep) | 5:34 |
-| 3 | [Falcon](https://open.spotify.com/track/4KkDLPwDQT7IMU2p1eIv78) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Falcon](https://open.spotify.com/album/482tW8CH2QTOiDZyEyvDrg) | 3:47 |
-| 4 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
-| 5 | [The World Doesn't Owe You](https://open.spotify.com/track/4k7ZsD9vIzgN4B4amE5BQk) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [The World Doesn't Owe You](https://open.spotify.com/album/3BUWtGQCe2K3Rz0DPeeGRU) | 3:40 |
-| 6 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 |
-| 7 | [Disappear](https://open.spotify.com/track/09ofXA1JKT4UhRDIhRkOpE) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Disappear](https://open.spotify.com/album/2E2M2jt9rsdOMycC5hOaV9) | 3:51 |
-| 8 | [To Love & To Lose](https://open.spotify.com/track/0Y01xLCDm2DH2Jv1zpWKMj) | [Druidess](https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW) | [All You Are](https://open.spotify.com/album/3lCvNfZ9mgeAyYQes1yl2r) | 3:50 |
-| 9 | [Burn](https://open.spotify.com/track/1KuWRvpl3re56LcnowXZgp) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [Burn](https://open.spotify.com/album/5zKQ2RGjv1Xifa0uQxqCeI) | 3:03 |
-| 10 | [D!E FOR ME](https://open.spotify.com/track/35AtGNzmpojI3DGerua6Xt) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [D!E FOR ME](https://open.spotify.com/album/5UkkLoIW75RudvilPnkJuJ) | 2:26 |
-| 11 | [THE VEIL](https://open.spotify.com/track/6GI38SAryXGJdXtZSljOSy) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [ERIK SEIME](https://open.spotify.com/artist/4sySRuh2u7W8V04xkWNPg5) | [THE VEIL](https://open.spotify.com/album/1uF3KzT84qsZJYmXVu7nqp) | 3:52 |
+| 2 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 |
+| 3 | [Disappear](https://open.spotify.com/track/09ofXA1JKT4UhRDIhRkOpE) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Disappear](https://open.spotify.com/album/2E2M2jt9rsdOMycC5hOaV9) | 3:51 |
+| 4 | [D!E FOR ME](https://open.spotify.com/track/35AtGNzmpojI3DGerua6Xt) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [D!E FOR ME](https://open.spotify.com/album/5UkkLoIW75RudvilPnkJuJ) | 2:26 |
+| 5 | [THE VEIL](https://open.spotify.com/track/6GI38SAryXGJdXtZSljOSy) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [ERIK SEIME](https://open.spotify.com/artist/4sySRuh2u7W8V04xkWNPg5) | [THE VEIL](https://open.spotify.com/album/1uF3KzT84qsZJYmXVu7nqp) | 3:52 |
+| 6 | [Mercia](https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Mercia](https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep) | 5:34 |
+| 7 | [Falcon](https://open.spotify.com/track/4KkDLPwDQT7IMU2p1eIv78) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Falcon](https://open.spotify.com/album/482tW8CH2QTOiDZyEyvDrg) | 3:47 |
+| 8 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
+| 9 | [The World Doesn't Owe You](https://open.spotify.com/track/4k7ZsD9vIzgN4B4amE5BQk) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [The World Doesn't Owe You](https://open.spotify.com/album/3BUWtGQCe2K3Rz0DPeeGRU) | 3:40 |
+| 10 | [To Love & To Lose](https://open.spotify.com/track/0Y01xLCDm2DH2Jv1zpWKMj) | [Druidess](https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW) | [All You Are](https://open.spotify.com/album/3lCvNfZ9mgeAyYQes1yl2r) | 3:50 |
+| 11 | [Burn](https://open.spotify.com/track/1KuWRvpl3re56LcnowXZgp) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [Burn](https://open.spotify.com/album/5zKQ2RGjv1Xifa0uQxqCeI) | 3:03 |
 | 12 | [Blow The Doors Off](https://open.spotify.com/track/4vCdCtrEs4G7pdgUPWZKUu) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Duncan Sparks](https://open.spotify.com/artist/3g00xUM1brns2SMQ1Zud9L) | [Blow The Doors Off](https://open.spotify.com/album/5iRoIirvZwRZucEbTyXqLB) | 2:24 |
 | 13 | [STRAIGHT\_OUTTA\_NOWHERE](https://open.spotify.com/track/4blbQ7E3zG6mon3WKPjhWF) | [H\-Blockx](https://open.spotify.com/artist/1V3Nl0Y3EZwqP38KHws6vB) | [STRAIGHT\_OUTTA\_NOWHERE](https://open.spotify.com/album/0n2K7Ex3dYFnBELPZkfJU1) | 2:54 |
 | 14 | [The Worst Kind](https://open.spotify.com/track/2ahd2e0nGpjacPvcn7tSBW) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [The Worst Kind](https://open.spotify.com/album/64icoYySMr9aisyqzEFjQm) | 4:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 79 | [Homebound](https://open.spotify.com/track/6ViU8p8KmjL02ZzWwYBGYu) | [dEMOTIONAL](https://open.spotify.com/artist/0RuPWYczjuZmLc4omO51GN) | [Homebound](https://open.spotify.com/album/0ViSCyRzZDIQceh1OXLrlk) | 4:52 |
 | 80 | [Night Terror](https://open.spotify.com/track/16n3V2ItwynKU7PgjLU8QM) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [Night Terror](https://open.spotify.com/album/0i8r88YVTKGxc8aKCuKhGL) | 2:32 |
 
-Snapshot ID: `AAAAADYbgfJnjLmiveIQQXHXL36PX/5I`
+Snapshot ID: `AAAAAKhAw7y2AWXa4KCK0TtnlWTmlhid`

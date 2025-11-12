@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028,496 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,028,525 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 69 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 70 | [Nearly Forgot My Broken Heart](https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Higher Truth](https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl) | 3:54 |
 | 71 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 3:48 |
-| 72 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
+| 72 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
 | 73 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
-| 74 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
+| 74 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
 | 75 | [Slow Ride](https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Fool for the City](https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi) | 8:14 |
 | 76 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 77 | [My Hero](https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:18 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 132 | [So Much So Right](https://open.spotify.com/track/0zGDgUAduvKAqcD2Q2r3Cn) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Milestone](https://open.spotify.com/album/29vi4lP3QGpUMnoaSZQiUf) | 4:35 |
 | 133 | [Say What You Will](https://open.spotify.com/track/4nkIEw3tLQ153CXJBu5WWN) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Art Of Letting Go](https://open.spotify.com/album/0eXQmC5w5ziGRBN3yhnQKK) | 3:33 |
 | 134 | [Superblood Wolfmoon](https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Superblood Wolfmoon](https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg) | 3:49 |
-| 135 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 |
-| 136 | [Just What the Doctor Ordered](https://open.spotify.com/track/6uufS093628MRruPbXiW5g) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [The Essential Ted Nugent](https://open.spotify.com/album/0n5v0O4M1D6Cw5d4KZb5mQ) | 3:45 |
+| 135 | [Just What the Doctor Ordered](https://open.spotify.com/track/6uufS093628MRruPbXiW5g) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [The Essential Ted Nugent](https://open.spotify.com/album/0n5v0O4M1D6Cw5d4KZb5mQ) | 3:45 |
+| 136 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 |
 | 137 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
 | 138 | [Can't Stop Talking](https://open.spotify.com/track/09b2bFKmoijMzZrT1l3bmT) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Can't Stop Talking](https://open.spotify.com/album/7onaqBNVYbUE8CkAmBzXaA) | 2:43 |
 | 139 | [Darkside](https://open.spotify.com/track/1tgFoqQG9thuoI6If2olvA) | [Dead Posey](https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO) | [Are You in a Cult?](https://open.spotify.com/album/0gpASYYFSbwON3aNeR3Kms) | 3:17 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 147 | [California Dreamin'](https://open.spotify.com/track/3C2yrpMcXa3b9JsG3kLPb1) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [California Dreamin'](https://open.spotify.com/album/2tXpwyplOkYgdLldDl0fIE) | 4:18 |
 | 148 | [Blank Generation \(Studio Version\) \- Recorded at Electric Lady Studios](https://open.spotify.com/track/7rklSHokP7SFLERdaCbheh) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Live at Electric Lady](https://open.spotify.com/album/1AP1CpLlnQa4nPzDT8rR2v) | 3:53 |
 | 149 | [Quick Escape](https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Quick Escape](https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY) | 4:46 |
-| 150 | [Making Gestures](https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y) | [The Pack a.d.](https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo) | [Funeral Mixtape](https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy) | 4:10 |
+| 150 | [Vilified](https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Vilified](https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe) | 4:31 |
 
 Snapshot ID: `AAAAAK8RHVsgpBF5LThiHZx2m+7cSASb`

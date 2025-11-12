@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "FENOMENALE",
+        "url": "https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4"
+      },
+      "artists": [
+        {
+          "name": "Joseph",
+          "url": "https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "FENOMENALE",
+      "url": "https://open.spotify.com/track/7Lyp3UJHMJ6w7FP6bRa9Rj"
+    },
+    {
+      "album": {
         "name": "Fiamma",
         "url": "https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI"
       },

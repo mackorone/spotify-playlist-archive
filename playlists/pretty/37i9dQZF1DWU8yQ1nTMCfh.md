@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Zoé
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,734 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,731 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 45 | [Manifesting](https://open.spotify.com/track/3Lqygn1Bx76OdUwcWABT7t) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [No lo volveré a hacer](https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip) | 2:49 |
 | 46 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
 | 47 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 |
-| 48 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
-| 49 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 48 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 49 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
 | 50 | [MALAVIDA \(feat\. Evlay\)](https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 2:56 |
 | 51 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
 | 52 | [santos inocentes](https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [santos inocentes](https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9) | 2:52 |
-| 53 | [Misterio, Cigarros y Menta](https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 2:44 |
-| 54 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 |
-| 55 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 |
-| 56 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
+| 53 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 |
+| 54 | [Misterio, Cigarros y Menta](https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 2:44 |
+| 55 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
+| 56 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 |
 | 57 | [Brujería](https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Brujería](https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0) | 2:53 |
 | 58 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 |
 | 59 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 70 | [Adictos](https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Adictos](https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN) | 3:57 |
 | 71 | [Mirando al techo](https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 3:34 |
 | 72 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
-| 73 | [Una sensación](https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Una sensación](https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR) | 3:17 |
-| 74 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 |
+| 73 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 |
+| 74 | [Una sensación](https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Una sensación](https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR) | 3:17 |
 | 75 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 |
 
 Snapshot ID: `AAAAAP1ri/3wNeMt0VQbfe+252ENp1rs`

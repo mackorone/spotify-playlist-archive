@@ -4,10 +4,11 @@
 
 > hand\-picked and hot right now 📈 cover: Olga Myko
 
-733 songs - 1 day 15 hr 49 min
+733 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-10 |  |
 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 | 2024-01-23 | 2024-03-06 |
 | [+44](https://open.spotify.com/track/7DtJBp6XLtTjb4ZrHiHuW3) | [hugo](https://open.spotify.com/artist/3GImcFMFlbCjuy1QRaFQGl) | [+44](https://open.spotify.com/album/7lE6gXVz3XKFj9h4hLcmJk) | 3:04 | 2025-06-25 | 2025-07-17 |
 | [1\-800](https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Ironmouse](https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C) | [1\-800](https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI) | 3:29 | 2025-07-16 | 2025-08-22 |
@@ -310,7 +311,6 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-05 | 2024-05-25 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-10-14 | 2025-02-07 |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-09-23 | 2025-03-04 |
-| [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 | 2025-11-10 |  |
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-27 | 2025-10-23 |
 | [I Think They Call This Love](https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE) | 3:13 | 2024-10-14 | 2024-12-10 |
 | [I'M TRYNA](https://open.spotify.com/track/1ca2jDAcDOT79MYLRoaciZ) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [I'M TRYNA](https://open.spotify.com/album/0qdg9SF90FBXDXxjNgMm6R) | 2:52 | 2024-06-14 | 2024-09-24 |
@@ -713,7 +713,7 @@
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-19 | 2024-05-18 |
 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 | 2025-09-01 | 2025-09-19 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-24 |  |
-| [Where Love Lives \- Classic Club Mix](https://open.spotify.com/track/65hHk4bV2XtL2j9NGBpLtg) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Where Love Lives \(featured on the John Lewis Christmas Advert 2025\)](https://open.spotify.com/album/2s2xll4WA81USky4yHjiH3) | 6:12 | 2025-11-10 |  |
+| [Where Love Lives \- Classic Club Mix \- featured on the John Lewis Christmas Advert 2025](https://open.spotify.com/track/65hHk4bV2XtL2j9NGBpLtg) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Where Love Lives \(featured on the John Lewis Christmas Advert 2025\)](https://open.spotify.com/album/2s2xll4WA81USky4yHjiH3) | 6:12 | 2025-11-10 |  |
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-08-04 | 2025-09-16 |
 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 | 2025-04-14 | 2025-05-16 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-08-02 | 2024-11-12 |

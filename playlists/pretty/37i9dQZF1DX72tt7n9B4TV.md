@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,479 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,474 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 29 | [You Hear Yes](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
 | 30 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
 | 31 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
-| 32 | [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 |
-| 33 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
+| 32 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
+| 33 | [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 |
 | 34 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
 | 35 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/64Js3amhV3Pa7ho3Io1PM1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/6GTggBhgEjHs2pak8yTc7q) | 3:30 |
 | 36 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 39 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
 | 40 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 41 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 |
-| 42 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 |
-| 43 | [Crystal Roses](https://open.spotify.com/track/24sCYoOyqR880pCFfQsika) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:19 |
-| 44 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
+| 42 | [Crystal Roses](https://open.spotify.com/track/24sCYoOyqR880pCFfQsika) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:19 |
+| 43 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
+| 44 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 |
 | 45 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 46 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 |
 | 47 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 54 | [Nausea](https://open.spotify.com/track/72GCQgLhbw93GxZNWv7Qx0) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 3:21 |
 | 55 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
 | 56 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
-| 57 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
-| 58 | [Numb To What Is Real](https://open.spotify.com/track/3XxQGzWtSiawfLLsDqEH25) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Superheaven](https://open.spotify.com/album/3PAgZaonECR1PGhRg3YBVX) | 2:49 |
+| 57 | [Numb To What Is Real](https://open.spotify.com/track/3XxQGzWtSiawfLLsDqEH25) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Superheaven](https://open.spotify.com/album/3PAgZaonECR1PGhRg3YBVX) | 2:49 |
+| 58 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
 | 59 | [I'll Wait](https://open.spotify.com/track/0YSeLT9HdsmHsCcmuYDcky) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 2:52 |
 | 60 | [Call](https://open.spotify.com/track/1eGdBOJKqioNJ4v3Eawcwp) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:30 |
 | 61 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |

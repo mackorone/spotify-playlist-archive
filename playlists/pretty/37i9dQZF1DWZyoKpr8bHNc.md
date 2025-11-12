@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,361 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,473 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 40 | [Hebbina Hebbina](https://open.spotify.com/track/0y8xuNb76WLCH5BbSz0XNU) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 7:33 |
 | 41 | [Nwina Al Jazi Nwina](https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 5:08 |
 | 42 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
-| 43 | [Ma Zal Bhob Rbina](https://open.spotify.com/track/4yDyc4KLT5oxvObDqH2hom) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 1](https://open.spotify.com/album/5xpuYvYWnsl01vJic7hZaq) | 3:27 |
+| 43 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 |
 | 44 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
-| 45 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 |
+| 45 | [Ma Zal Bhob Rbina](https://open.spotify.com/track/4yDyc4KLT5oxvObDqH2hom) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 1](https://open.spotify.com/album/5xpuYvYWnsl01vJic7hZaq) | 3:27 |
 | 46 | [Ya Ahl El Hawa](https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 6:55 |
 | 47 | [Tal el\-sahar \- Remastered](https://open.spotify.com/track/0D5ymfVlEIhttb3P3lZYmP) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 3:23 |
 | 48 | [Ktir Mohalaia](https://open.spotify.com/track/1WvJC3zAXl9RvBtN8u0FOB) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 4:10 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 55 | [Ya Saken Albi](https://open.spotify.com/track/50x4cUPlmajTIHp0LRHqqj) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 7:31 |
 | 56 | [Dakhlak wel hawa \- Remastered](https://open.spotify.com/track/1qj89M4ZVFDYP1sTcocBep) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 4:43 |
 | 57 | [Helwi W Ya Niyalha](https://open.spotify.com/track/0pK13fWr2YzS8UjHMq9vUY) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 3:43 |
-| 58 | [Men Douwara La Douwara](https://open.spotify.com/track/1MRDz5Z3xTpq10yZL1dgVy) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 2](https://open.spotify.com/album/1jWBZVLtrIMaB81Q1s3SSs) | 3:29 |
+| 58 | [Ya Samra Ya Tamr Hindi](https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx) | [Issam Raggi](https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD) | [Issam Raggi](https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq) | 5:25 |
 | 59 | [Ya Marek Al Tawahine](https://open.spotify.com/track/3oQrFEnC6rVqs9dhmwCJVw) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamseddine 1](https://open.spotify.com/album/7czqfjO0jjfK7yY1TImbEe) | 2:45 |
-| 60 | [Ya Samra Ya Tamr Hindi](https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx) | [Issam Raggi](https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD) | [Issam Raggi](https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq) | 5:25 |
+| 60 | [Men Douwara La Douwara](https://open.spotify.com/track/1MRDz5Z3xTpq10yZL1dgVy) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 2](https://open.spotify.com/album/1jWBZVLtrIMaB81Q1s3SSs) | 3:29 |
 | 61 | [Etuel Omrak 2](https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 5:29 |
 | 62 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 | 63 | [Yess'idli Sabahou](https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 1](https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a) | 4:25 |

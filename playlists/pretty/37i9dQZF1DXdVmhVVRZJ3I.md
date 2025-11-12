@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,298 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,385 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 37 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 |
 | 38 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 | 39 | [New Memories](https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [New Memories](https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI) | 3:14 |
-| 40 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
-| 41 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
+| 40 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
+| 41 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 42 | [It's My Life](https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm) | [WhyNot Music](https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [It's My Life](https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn) | 3:05 |
 | 43 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
 | 44 | [Won't Back Down](https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Won't Back Down](https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII) | 2:45 |

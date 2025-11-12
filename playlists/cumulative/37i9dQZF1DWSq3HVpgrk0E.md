@@ -4,7 +4,7 @@
 
 > The whole truth\. Cover: Young Thug
 
-50 songs - 2 hr 33 min
+51 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Carried Away](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 | 2025-10-17 |  |
 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-10-17 |  |
 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 | 2025-10-17 |  |
-| [DARK AURA](https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DARK AURA](https://open.spotify.com/album/71gwUOOxYPgpA7z55066tn) | 2:53 | 2025-10-17 |  |
+| [DARK AURA](https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DARK AURA](https://open.spotify.com/album/71gwUOOxYPgpA7z55066tn) | 2:53 | 2025-10-17 | 2025-11-12 |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-10-17 |  |
 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 | 2025-10-17 |  |
 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 | 2025-10-17 |  |
@@ -35,6 +35,7 @@
 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 3:45 | 2025-10-17 |  |
 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 | 2025-10-17 |  |
 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-10-17 |  |
+| [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 | 2025-10-17 |  |
 | [NEW DROP](https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:37 | 2025-10-17 |  |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2025-10-17 |  |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2025-10-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Diego & Arnaldo, Zé Neto & Cristiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,034,697 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,035,024 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 45 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 | 46 | [Melhor Me Bloquear \- Ao Vivo](https://open.spotify.com/track/2ThEetsRrVOEoCNpoFVDjM) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão De Tempo \(Ao Vivo\)](https://open.spotify.com/album/0qee89pzVfZRIzhrI0ax7v) | 3:11 |
 | 47 | [12 Horas / Pra Você Acreditar \- Ao Vivo](https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Cê Tá Doido \(São José Do Rio Preto\) \[Ao Vivo\]](https://open.spotify.com/album/0gbJAL2rZwc77ra11uiHDu) | 4:10 |
-| 48 | [Filho da Mãe \- Ao Vivo](https://open.spotify.com/track/7opE9OJaqrvkQspmfJdVsS) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Filho da Mãe \(Ao Vivo\)](https://open.spotify.com/album/0qRxN9Kk8579hU3yTjyR92) | 2:17 |
-| 49 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 |
-| 50 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
-| 51 | [Não, Mas Quase \- Ao Vivo](https://open.spotify.com/track/0lTCXzpd3WL5FsPsrO2W4W) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Memórias \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1VpjNIveluI9560oRm8oYA) | 2:49 |
+| 48 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 |
+| 49 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
+| 50 | [Não, Mas Quase \- Ao Vivo](https://open.spotify.com/track/0lTCXzpd3WL5FsPsrO2W4W) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Memórias \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1VpjNIveluI9560oRm8oYA) | 2:49 |
 
-Snapshot ID: `AAAAANmd2JlXlacAX+ngSuwQhbrr6K2f`
+Snapshot ID: `AAAAAG5v3+qxrF567TnkQC7n/rqO3mUS`

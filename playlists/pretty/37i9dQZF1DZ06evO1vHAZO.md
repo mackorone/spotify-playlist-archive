@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,199 likes - 43 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,205 likes - 43 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 20 | [Half The World Away \- Remastered](https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:27 |
 | 21 | [Some Might Say](https://open.spotify.com/track/6CpEUxOlhcynZpIvPY08iv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 5:27 |
 | 22 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
-| 23 | [I'm Outta Time](https://open.spotify.com/track/4Q2UM2QSR7Gye03jvl4Rdw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/75KnF13DIx7GXfz5IesWtT) | 4:10 |
+| 23 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
 | 24 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 |
-| 25 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
-| 26 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
-| 27 | [Sad Song \- Mauldeth Road West Demo, Nov '92](https://open.spotify.com/track/52T65lyjsgArtoojwttcvU) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov '92\)](https://open.spotify.com/album/089WE1Vmilp2odEqlfvpdl) | 4:34 |
-| 28 | [Go Let It Out](https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:38 |
-| 29 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
+| 25 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
+| 26 | [Sad Song \- Mauldeth Road West Demo, Nov '92](https://open.spotify.com/track/52T65lyjsgArtoojwttcvU) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov '92\)](https://open.spotify.com/album/089WE1Vmilp2odEqlfvpdl) | 4:34 |
+| 27 | [Go Let It Out](https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:38 |
+| 28 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
+| 29 | [I'm Outta Time](https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:10 |
 | 30 | [Rockin' Chair](https://open.spotify.com/track/0cinxoejsLL50k5BN8AQlK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:35 |
 | 31 | [The Girl In The Dirty Shirt \- Remastered](https://open.spotify.com/track/1MkwGdfDRDpDe0y2LkHAFO) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:49 |
 | 32 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:26 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 42 | [Going Nowhere](https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:39 |
 | 43 | [Let's All Make Believe](https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Go Let It Out](https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM) | 3:53 |
 
-Snapshot ID: `aQ/ZgAAAAADZd375Zzxv9RVoQ97h7bsd`
+Snapshot ID: `aRErAAAAAAAfzYZfO97ySoxsv2Lw9n5O`

@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 16026,
+  "num_followers": 16031,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAB0yF8qJjC270a2VOY7CsPB",
+  "snapshot_id": "aRErAAAAAAC/4F6afOHQL9dZ9+p0Rbs7",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
+      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -515,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
-      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+      "duration_ms": 223000,
+      "name": "Ain't Nothin' You Can Do",
+      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real Cool Cat",
         "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 160543,
       "name": "Laugh, Laugh, Laugh",
       "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -620,9 +604,25 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Ain't Nothin' You Can Do",
-      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+      "duration_ms": 239000,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 307306,
       "name": "Chauffeur Blues",
       "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 356472,
       "name": "Jail",
       "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 133133,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N"
     },
     {
       "added_at": null,

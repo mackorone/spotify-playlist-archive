@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,831 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,838 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 49 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 |
 | 50 | [Lost Highway](https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost Highway](https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf) | 3:09 |
 
-Snapshot ID: `aQ/ZgAAAAABqx80FtOPVNiupi8y/A8sG`
+Snapshot ID: `aRErAAAAAAAn52qSFRToOuuV+7R4RqyS`

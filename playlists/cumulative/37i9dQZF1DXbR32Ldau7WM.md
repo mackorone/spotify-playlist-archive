@@ -2,9 +2,9 @@
 
 ### [Rock Strike Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> J\-Rock acts who have broken the border and are making global impact\.   Cover: Yogee New Waves
+> J\-Rock acts who have broken the border and are making global impact\.   Cover: Ryokuoushoku Shakai
 
-1,427 songs - 3 day 21 hr 29 min
+1,430 songs - 3 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [I am a revolution](https://open.spotify.com/track/3UX2YMVnpHKYakRGu9m4CQ) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [High Hopes](https://open.spotify.com/album/7MsA39cX1czb1oyPCOnIAo) | 2:55 | 2023-04-11 | 2023-05-10 |
 | [I DON'T WANNA](https://open.spotify.com/track/1mOeV8FLM1u2K6FQikcWvM) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [BLAST OFF!](https://open.spotify.com/album/5K6mctmxGbGJUuii7uRt2d) | 3:21 | 2022-05-10 | 2022-06-21 |
 | [I feel free](https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA) | [Michiya Haruhata](https://open.spotify.com/artist/6B3JbWQ1eamId6N5y09gzg), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [I feel free](https://open.spotify.com/album/1MwejdU3E2kxJ9BeeHNIvv) | 4:03 | 2022-05-12 | 2022-07-21 |
-| [I Guess I Won't Tell](https://open.spotify.com/track/3irFpwC2rmWOvH9BFE1flf) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Luv Sux Sessions](https://open.spotify.com/album/43w0P1Dtw0rhfnrGCc04YK) | 3:33 | 2025-09-02 |  |
+| [I Guess I Won't Tell](https://open.spotify.com/track/3irFpwC2rmWOvH9BFE1flf) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Luv Sux Sessions](https://open.spotify.com/album/43w0P1Dtw0rhfnrGCc04YK) | 3:33 | 2025-09-02 | 2025-11-12 |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/6BGCOeart36zrZsEN9vOs7) | 2:48 | 2022-09-27 | 2022-11-02 |
 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 | 2023-11-08 | 2024-10-19 |
 | [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 | 2024-01-16 | 2024-04-19 |
@@ -474,6 +474,7 @@
 | [Music, Dance & Love](https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 4:33 | 2022-11-17 | 2022-11-23 |
 | [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 | 2022-11-03 |
 | [Music, Dance & Love](https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/53RSNtlBrBo908JZQcWo5q) | 4:33 | 2022-11-01 | 2022-11-19 |
+| [My Answer](https://open.spotify.com/track/4GO7Cp6n1TRIiFDFWz1M7w) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [My Answer](https://open.spotify.com/album/2KX1v552m6IxuOTxcF1Nde) | 3:32 | 2025-11-11 |  |
 | [My Generation](https://open.spotify.com/track/7MUZ9Co138juL29YOlWUHM) | [HAINO KEIJI & THE HARDY ROCKS](https://open.spotify.com/artist/1Jhy6KsTiZt5gzyeUBHWog), [Keiji Haino](https://open.spotify.com/artist/6BsNCY0qB2WLl5LlXqA79y), [THE HARDY ROCKS](https://open.spotify.com/artist/49tynFr7fbNdIuBPRM8daI) | [きみはぼくの めの「前」にいるのか すぐ「隣」にいるのか](https://open.spotify.com/album/5OoOnalfT1jTkq37pgE4Ti) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2023-11-01 |
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-12 |  |
@@ -545,6 +546,7 @@
 | [Particle Dreams](https://open.spotify.com/track/1cjkmVOBoso2ZnMXqEx7rs) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 3:47 | 2024-02-27 | 2024-03-06 |
 | [Persona](https://open.spotify.com/track/1ApCX5JxjkoAaMmIEhzEgm) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Persona](https://open.spotify.com/album/011oK7g20IZJ6Ie7HXskgt) | 3:06 | 2024-10-08 | 2024-11-06 |
 | [Personal Communication](https://open.spotify.com/track/6hrLZjcUC2Ruxn5nNWuKmk) | [Plasticzooms](https://open.spotify.com/artist/45pcIklchW1WFozLF8E1Y0) | [Personal Communication](https://open.spotify.com/album/4KcSHytIzcWH1EzOyTr4nx) | 3:44 | 2023-09-19 | 2023-09-27 |
+| [Phantom Robbers\(GENEI KAKUMEIDAN\)](https://open.spotify.com/track/5cMQ8hMeVFyk2a3t4XcaGb) | [LAST ALLIANCE](https://open.spotify.com/artist/3j8Vtsosedh2OfhYZ381pC) | [Phantom Robbers\(GENEI KAKUMEIDAN\)](https://open.spotify.com/album/1rhuwNS4XnrHkrdpZuQg0U) | 2:57 | 2025-11-11 |  |
 | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 | 2024-10-15 | 2024-10-23 |
 | [phosphorus](https://open.spotify.com/track/1tLlEdyTU1p2b8M2whXcpU) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [phosphorus](https://open.spotify.com/album/2wEnl7YpbABFyVKzd8Ckkc) | 5:00 | 2025-09-16 | 2025-09-24 |
 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 | 2025-06-11 | 2025-09-17 |
@@ -556,7 +558,7 @@
 | [pray](https://open.spotify.com/track/3oreXQb2kmZj1EJD98NjCq) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 4:12 | 2023-07-11 | 2023-07-13 |
 | [pray](https://open.spotify.com/track/7BkGZVTdlz0lQfecp07RR5) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 4:12 | 2023-07-11 | 2023-07-19 |
 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 | 2025-06-24 | 2025-09-10 |
-| [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 |  |
+| [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 | 2025-11-12 |
 | [Psycho flowers](https://open.spotify.com/track/7ojiNfzXOK27Uy2nXKovfE) | [OUTRAGE](https://open.spotify.com/artist/0olIu1jyt7RrXOQVAdc5LG) | ["Psycho flowers" "Summer rain"](https://open.spotify.com/album/1anvZ9uXENT23a2jg5I3kC) | 3:52 | 2022-08-23 | 2022-09-07 |
 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 | 2025-01-21 | 2025-10-09 |
 | [Pure Green](https://open.spotify.com/track/5BTPjsqZlFKsvXaSaNEnTc) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Pure Green](https://open.spotify.com/album/145Ga4i1lUhkXAFLBFBco1) | 4:02 | 2024-04-30 | 2024-09-04 |
@@ -831,6 +833,7 @@
 | [VOX](https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1) | 4:10 | 2023-02-07 | 2023-05-10 |
 | [VOX](https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f) | 4:10 | 2023-02-07 | 2023-02-09 |
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-14 | 2023-05-10 |
+| [VS EGO:](https://open.spotify.com/track/3YPzndTItgHvbhyWfT3hgZ) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [VS EGO:](https://open.spotify.com/album/55jlirk97NuDDZYkLDJ28g) | 2:19 | 2025-11-11 |  |
 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 | 2023-05-23 | 2023-05-31 |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
 | [Wandering](https://open.spotify.com/track/76AsVFk0KOGzpnlDcrSj0O) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Wandering](https://open.spotify.com/album/2MEbniyfZJNeCSzFtleDTE) | 3:33 | 2025-09-16 | 2025-10-01 |
@@ -990,7 +993,7 @@
 | [オートクチュール](https://open.spotify.com/track/57y16YFgicFBtzCnNVSrzk) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [オートクチュール](https://open.spotify.com/album/4pG489P1bIuHFYLpDmkowT) | 3:17 | 2022-05-12 | 2022-07-24 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2023-07-04 |  |
 | [カヨコ](https://open.spotify.com/track/05QKC25nXuMkjucXFlBvyk) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [カヨコ](https://open.spotify.com/album/4FMDJwUfNnBU1qku3DyXgI) | 4:02 | 2022-05-10 | 2022-05-27 |
-| [カルチャー](https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [カルチャー](https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv) | 2:58 | 2025-09-09 |  |
+| [カルチャー](https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [カルチャー](https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv) | 2:58 | 2025-09-09 | 2025-11-12 |
 | [ガッツだぜ!! V](https://open.spotify.com/track/1l1sKGhllHsrEb0Ge6f9os) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ズ盤](https://open.spotify.com/album/5wYoY3kT3f1c0AdT7VSmoX) | 4:00 | 2022-05-24 | 2022-07-14 |
 | [キミシダイ列車](https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [残響リファレンス](https://open.spotify.com/album/46tySm112BCkEkfssfPODv) | 4:14 | 2024-09-26 |  |
 | [キラーチューン](https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [娯楽\(バラエティ\)](https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp) | 3:42 | 2023-09-05 | 2024-02-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394768,
+  "num_followers": 394771,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,22 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "IS THIS LOVE",
-        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
+        "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 155080,
-      "name": "IS THIS LOVE",
-      "url": "https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at"
+      "duration_ms": 200511,
+      "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -567,22 +571,18 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd"
+        "name": "IS THIS LOVE",
+        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 200511,
-      "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1"
+      "duration_ms": 155080,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -607,22 +607,6 @@
       "duration_ms": 197870,
       "name": "99 Steps",
       "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -675,6 +659,22 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 260778,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -707,22 +723,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "HOWL",
-      "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
         "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 152546,
       "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
       "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -787,6 +771,22 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
         "url": "https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 173606,
       "name": "Ghost Avenue",
       "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "BE CLASSIC (English ver.)",
-        "url": "https://open.spotify.com/album/7dStltvEbsKi2qjY48nYuu"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "BE CLASSIC (English ver.)",
-      "url": "https://open.spotify.com/track/4UOwAdn4wjjjX0r62fPTbO"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
       },
@@ -1319,22 +1303,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "mild days",
-        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "mild days",
-      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "\u7206\u901f\u8ad6\u7406ness",
         "url": "https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L"
       },
@@ -1347,6 +1315,22 @@
       "duration_ms": 152871,
       "name": "\u7206\u901f\u8ad6\u7406ness",
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "mild days",
+        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "mild days",
+      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
+        "name": "BE CLASSIC (English ver.)",
+        "url": "https://open.spotify.com/album/7dStltvEbsKi2qjY48nYuu"
       },
       "artists": [
         {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
         }
       ],
-      "duration_ms": 174095,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
+      "duration_ms": 159080,
+      "name": "BE CLASSIC (English ver.)",
+      "url": "https://open.spotify.com/track/4UOwAdn4wjjjX0r62fPTbO"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1443,6 +1427,22 @@
       "duration_ms": 268203,
       "name": "Cult.",
       "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "duration_ms": 174095,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202181,
-      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "Don't Tell Nobody",
         "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 173925,
       "name": "Don't Tell Nobody",
       "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202181,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
     },
     {
       "added_at": "2025-11-05 02:33:29",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-11-05 02:33:29",
       "album": {
-        "name": "stay tune",
-        "url": "https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 163608,
-      "name": "stay tune",
-      "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"
-    },
-    {
-      "added_at": "2025-11-05 02:33:29",
-      "album": {
         "name": "Kurayami/Get used to it",
         "url": "https://open.spotify.com/album/3mOFUx8wl2HKNQ5GAg2854"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 218933,
       "name": "Kurayami",
       "url": "https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne"
+    },
+    {
+      "added_at": "2025-11-05 02:33:29",
+      "album": {
+        "name": "stay tune",
+        "url": "https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 163608,
+      "name": "stay tune",
+      "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"
     }
   ],
   "unique_name": "Tokyo Rising",

@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-941 songs - 1 day 21 hr 23 min
+944 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Amado Nervo](https://open.spotify.com/track/2Pob0B0xBaszDLVBDWNh0U) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Amado Nervo](https://open.spotify.com/album/6a4WIqXe0jVegSsNx8vCDJ) | 3:09 | 2023-10-20 | 2024-02-09 |
 | [Amoralis](https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Always Wear A Crown](https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg) | 4:13 | 2023-10-20 | 2024-02-28 |
 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 | 2023-10-20 | 2024-03-21 |
+| [Anagro](https://open.spotify.com/track/0vNRbK9UxLXJSminB42c45) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Anagro](https://open.spotify.com/album/7BE4x4mUcWvN7VTGIEjQYJ) | 2:51 | 2025-11-11 |  |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2023-10-20 | 2024-02-09 |
 | [Ancient Calm](https://open.spotify.com/track/61Nh3AZTeyO41688TfNmw7) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Ancient Calm](https://open.spotify.com/album/39muA5z5ivtLfO1qOnzOlI) | 2:50 | 2024-02-08 | 2024-07-16 |
 | [Anheral Motions](https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Anheral Motions](https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0) | 2:56 | 2025-04-09 |  |
@@ -191,6 +192,7 @@
 | [Curves](https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Curves](https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ) | 3:14 | 2023-10-20 | 2024-02-09 |
 | [Cynefin](https://open.spotify.com/track/1C9e2HhO9qpMYl1FYg5yBZ) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Cynefin](https://open.spotify.com/album/1GeP88hFXR90DgXtU860ov) | 3:23 | 2023-10-20 | 2024-02-09 |
 | [Cynosure](https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Cynosure](https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d) | 2:36 | 2025-06-17 |  |
+| [Cyrene](https://open.spotify.com/track/0ba7fzDvZHSyVRrC4c5Tr7) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Cyrene](https://open.spotify.com/album/5GftmKG9oxt9uLGoe2hood) | 2:46 | 2025-11-11 |  |
 | [D'une Certaine Distance](https://open.spotify.com/track/3bUaSIfWsg01lqJW9O5JCS) | [Aintzane Martzel](https://open.spotify.com/artist/48LwBBG7FfBjBUjGdaRCiO) | [D'une Certaine Distance](https://open.spotify.com/album/1XHuFjN6JmqlzCfZ91KRAh) | 2:51 | 2023-10-20 | 2024-02-28 |
 | [Dachaigh](https://open.spotify.com/track/7BqlHggYnNB26lfAw6y7Ch) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Dachaigh](https://open.spotify.com/album/2UnxVf2gBHvYG9GvfGYWPw) | 3:17 | 2023-10-20 | 2024-02-28 |
 | [Daffodilian Dreams](https://open.spotify.com/track/4xEChYDVoW5ZW21kuwUwSD) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Daffodilian Dreams](https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf) | 2:27 | 2024-05-20 |  |
@@ -630,6 +632,7 @@
 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/14ysBEpCMcW4sV0CWhiPRe) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 | 2023-10-20 | 2024-02-09 |
 | [Phenomena](https://open.spotify.com/track/5DzOeqMOYZ7WoLU9iokZHG) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Phenomena](https://open.spotify.com/album/7yolTQvPFt3vweDqvAO4Xp) | 2:47 | 2024-01-17 | 2024-03-21 |
 | [Phenomena](https://open.spotify.com/track/6iP5Gok0mu3BExvKsVvZ46) | [South To Somewhere](https://open.spotify.com/artist/7KFsW7U7h7SSoMRdxFJmL2) | [Phenomena](https://open.spotify.com/album/7D9oHv8kKSnR2KZ7ZxXKZK) | 2:35 | 2025-02-04 |  |
+| [Placid](https://open.spotify.com/track/742kqQt105kEHD0I8A9Kmg) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Placid](https://open.spotify.com/album/5DckMEoufXVkRjne54lPdo) | 2:46 | 2025-11-11 |  |
 | [Placid Echoes](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Placid Echoes](https://open.spotify.com/album/7qB2UagPGPPr2t7hTZQS58) | 2:36 | 2024-07-22 | 2025-05-21 |
 | [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 | 2024-08-30 |  |
 | [Plegaria](https://open.spotify.com/track/6yOZX34ZsQZV303qDJjWPm) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK) | [Plegaria](https://open.spotify.com/album/6vbPuXiFruQ4Ju9L6NCDVJ) | 3:18 | 2023-10-20 | 2024-02-28 |

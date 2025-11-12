@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,717 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,729 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 9 | [Los Angeles Is Burning](https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 3:23 |
 | 10 | [Do What You Want](https://open.spotify.com/track/6kE91QjOimRTG5BW1BBj4D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:07 |
 | 11 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
-| 12 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 |
-| 13 | [New Dark Ages](https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [New Maps of Hell \(Deluxe Edition\)](https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA) | 2:47 |
+| 12 | [New Dark Ages](https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [New Maps of Hell \(Deluxe Edition\)](https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA) | 2:47 |
+| 13 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 |
 | 14 | [Recipe For Hate](https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:02 |
 | 15 | [Modern Man](https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:57 |
 | 16 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
 | 50 | [Tiny Voices](https://open.spotify.com/track/1XrTWPYZbc0yLpBLY3rKD9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:37 |
 
-Snapshot ID: `aQ/ZgAAAAADNXdDuycMYBANG5u/BjbLv`
+Snapshot ID: `aRErAAAAAADwhre4CmMZWrqXU4dNSIdU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Alanis Yuki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,708 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,675 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 8 | [Soy un avión](https://open.spotify.com/track/0HuMsGcFrztItXtd2YczBE) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Soy un avión](https://open.spotify.com/album/2XrTvh8wXfdLs2ZaMiuY2k) | 4:08 |
 | 9 | [Días de mierda](https://open.spotify.com/track/2qR5mLaPSziRkIEMpPwalL) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Días de mierda](https://open.spotify.com/album/66JSFXdeZ0MznMIH8ST0CR) | 2:55 |
 | 10 | [ACELERADAS](https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [ACELERADAS](https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO) | 3:30 |
-| 11 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:11 |
+| 11 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:12 |
 | 12 | [en vd nose si todo sto te importa](https://open.spotify.com/track/1PCuam9Qriz6pali3F42Dz) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [en vd nose si todo sto te importa](https://open.spotify.com/album/6eydbQsYTLrlUkwFOMQbPi) | 2:00 |
 | 13 | [sigarette](https://open.spotify.com/track/4avCTktGYaQfkrEnvnpQyr) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo), [Daniel Boudzali](https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq) | [sigarette](https://open.spotify.com/album/59adf5hmRaWLY02HlIPVRO) | 2:03 |
 | 14 | [El Truco](https://open.spotify.com/track/45UrvuH3q6WEza7nS7pBqA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Truco](https://open.spotify.com/album/6usSIxiPVQPkULmJuvB47M) | 3:22 |

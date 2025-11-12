@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 231760,
+  "num_followers": 231788,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 273693,
       "name": "Do I Look Worried",
       "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 318293,
-      "name": "Are You Alright?",
-      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Childhood Home",
         "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 162800,
       "name": "A House Is A Home",
       "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 318293,
+      "name": "Are You Alright?",
+      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Traveling Kind",
-        "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "The Traveling Kind",
-      "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 286069,
       "name": "Love & Happiness",
       "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Traveling Kind",
+        "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "The Traveling Kind",
+      "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 284030,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1140,7 +1140,7 @@
           "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 161013,
+      "duration_ms": 161023,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "The Birds Of St. Marks",
+        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Birds Of St. Marks",
+      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Birds Of St. Marks",
-        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "The Birds Of St. Marks",
-      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "In Spite of Ourselves",
         "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 213600,
       "name": "In Spite of Ourselves (feat. Iris DeMent)",
       "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2024-08-30 04:00:00",

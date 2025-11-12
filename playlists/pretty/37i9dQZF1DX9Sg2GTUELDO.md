@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 陳蕾 Panther Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,248 likes - 158 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,250 likes - 158 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

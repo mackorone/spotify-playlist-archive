@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,425 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,517 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 60 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
 | 61 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 |
 | 62 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 |
-| 63 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
-| 64 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
+| 63 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
+| 64 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
 | 65 | [The Way We Get By](https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Kill the Moonlight](https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i) | 2:39 |
 | 66 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
 | 67 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 92 | [Soul And Fire](https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bubble & Scrape](https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H) | 3:46 |
 | 93 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 |
 | 94 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
-| 95 | [Galaxie / Hello, Goodbye](https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:31 |
+| 95 | [You Know More Than I Know](https://open.spotify.com/track/5J7aILM0273RGHm7czdLxx) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:35 |
 | 96 | [What’s The Frequency, Kenneth? \- Remastered 2013](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
-| 97 | [Cold Blooded Old Times](https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 4:14 |
-| 98 | [Enter Laughing](https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:42 |
-| 99 | [You Know More Than I Know](https://open.spotify.com/track/5J7aILM0273RGHm7czdLxx) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:35 |
+| 97 | [Galaxie / Hello, Goodbye](https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:31 |
+| 98 | [Cold Blooded Old Times](https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 4:14 |
+| 99 | [Enter Laughing](https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:42 |
 | 100 | [Blue Light](https://open.spotify.com/track/4nC7ADktP434rqxHtFbkba) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 2:46 |
 
 Snapshot ID: `AAAAAKkxEYkL0JNqWTCYw57+Ye8zuQ2n`

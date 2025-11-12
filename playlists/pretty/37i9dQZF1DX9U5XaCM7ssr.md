@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,073 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,156 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 27 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |
 | 28 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 |
 | 29 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
-| 30 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
+| 30 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 |
 | 31 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
-| 32 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 |
+| 32 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
 | 33 | [Tresno Tekan Mati New Version \- Remastered 2023](https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U) | 4:31 |
 | 34 | [Malam Rawan](https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Malam Rawan](https://open.spotify.com/album/6K3f48VhTPIz9wFO1iQFOH) | 3:40 |
 | 35 | [Langit Abu\-Abu](https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 46 | [Tanpa Cinta](https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tanpa Cinta](https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz) | 4:15 |
 | 47 | [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 |
 | 48 | [Risalah Hati](https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Bintang Lima](https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ) | 4:52 |
-| 49 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 |
-| 50 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 |
+| 49 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 |
+| 50 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 |
 
 Snapshot ID: `AAAAABauVsBOoNBzBizslWzIzQ78KLzE`

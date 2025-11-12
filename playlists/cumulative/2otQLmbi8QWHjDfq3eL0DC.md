@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md) - cumulative - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
-### [HOUSE MUSIC 2025 \| TOP 100 DANCE HITS 2025](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
+### [HOUSE MUSIC 2025 🪩 100 BEST DANCE HITS 2025](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025!
+> House Music 2025 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2025 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
 363 songs - 17 hr 49 min
 

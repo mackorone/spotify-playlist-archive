@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,649 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,672 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 24 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
 | 25 | [Mind Your Own Business](https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL) | 3:13 |
 | 26 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
-| 27 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
+| 27 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
 | 28 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 |
-| 29 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
+| 29 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
 | 30 | [Wargasm](https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:42 |
 | 31 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 |
 | 32 | [Land: Horses / Land of a Thousand Dances / La Mer\(de\)](https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 9:25 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 63 | [Step Close Now](https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Demonstration Tapes](https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU) | 1:58 |
 | 64 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 65 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
-| 66 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
-| 67 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
+| 66 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
+| 67 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
 | 68 | [My Baby \(Axe Nice\)](https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Mannequin Pussy](https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK) | 0:59 |
 | 69 | [Getting Nowhere Fast](https://open.spotify.com/track/0xF9xdi5cI0fi7ZgC7MrzZ) | [Girls At Our Best!](https://open.spotify.com/artist/5DYT0cYfntdC8sxyIOAhiC) | [Pleasure](https://open.spotify.com/album/3X3iZ9MRMFk75oqiSpeKuV) | 2:00 |
 | 70 | [Alabama Movies](https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [Fuzz Steilacoom](https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY) | 3:40 |

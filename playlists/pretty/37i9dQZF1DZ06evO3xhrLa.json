@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 243750,
+  "num_followers": 243758,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACZ54uzgF16KR8fkXpY3OkD",
+  "snapshot_id": "aRErAAAAAADmjoEevFZnybKG+2grVIlg",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "3:16AM",
+      "url": "https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 227400,
       "name": "Drunk Texting (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "3:16AM",
-      "url": "https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU"
     },
     {
       "added_at": null,

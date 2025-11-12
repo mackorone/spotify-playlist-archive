@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 44.2025 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 45.2025 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -60,6 +60,86 @@
       "duration_ms": 165677,
       "name": "15P",
       "url": "https://open.spotify.com/track/1ygRROar1duYozCdLxUL9z"
+    },
+    {
+      "album": {
+        "name": "Das weisse Album",
+        "url": "https://open.spotify.com/album/1YKG4ksCAHSyxs8EfoYy2p"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "1999 Pt. 5 (Mainpark Baby)",
+      "url": "https://open.spotify.com/track/38wy8njwwp1r4SwJZ6TS3e"
+    },
+    {
+      "album": {
+        "name": "Das weisse Album",
+        "url": "https://open.spotify.com/album/1YKG4ksCAHSyxs8EfoYy2p"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145906,
+      "name": "1999 Pt. 6 (Gabriel vs. Luzifer)",
+      "url": "https://open.spotify.com/track/7eksUI2XbDxcT1CHSXDyPb"
+    },
+    {
+      "album": {
+        "name": "Russisch Roulette (Deluxe)",
+        "url": "https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94373,
+      "name": "1999 Pt. I",
+      "url": "https://open.spotify.com/track/2QXmLZFdyPRIZfCUajyKEM"
+    },
+    {
+      "album": {
+        "name": "Russisch Roulette (Deluxe)",
+        "url": "https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154746,
+      "name": "1999 Pt. III",
+      "url": "https://open.spotify.com/track/0VOoFMLU692oDIDlMxSOH9"
     },
     {
       "album": {
@@ -247,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
         "name": "All meine Jungs",
         "url": "https://open.spotify.com/album/50TpvyJmNqdopeLlfZ56sc"
       },
@@ -298,7 +396,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 252546,
       "name": "Alles oder Nix",
       "url": "https://open.spotify.com/track/46blMHWBntl39gPyCRkWfz"
@@ -491,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Rookie de l'ann\u00e9e",
+        "url": "https://open.spotify.com/album/7DnUxvmq4OTTlAE88P7TAq"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121843,
+      "name": "Back outside",
+      "url": "https://open.spotify.com/track/39Un0tg79MUAr52bLTZEhk"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -542,7 +658,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -1064,7 +1180,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 211498,
       "name": "CANCELLED!",
       "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
@@ -1086,7 +1202,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 119235,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
@@ -1159,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Chabos wissen wer der Babo ist",
+        "url": "https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139908,
+      "name": "Chabos wissen wer der Babo ist",
+      "url": "https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t"
+    },
+    {
+      "album": {
         "name": "City Gang",
         "url": "https://open.spotify.com/album/058FOns5rSe31L0unH9SzT"
       },
@@ -1174,6 +1308,32 @@
       "duration_ms": 146230,
       "name": "City Gang",
       "url": "https://open.spotify.com/track/2LW6ZSYpRDatz2MpgdWw4e"
+    },
+    {
+      "album": {
+        "name": "Conan x Xenia",
+        "url": "https://open.spotify.com/album/0OEBqwwZxa5aKEkDEDHzi6"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200773,
+      "name": "Conan x Xenia",
+      "url": "https://open.spotify.com/track/1mfmCQWZhV30L4Aj8ytMLz"
     },
     {
       "album": {
@@ -1228,7 +1388,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
@@ -1286,6 +1446,24 @@
       "duration_ms": 161273,
       "name": "Damals",
       "url": "https://open.spotify.com/track/0eWD1BvnBXkjlK7DyGGsbW"
+    },
+    {
+      "album": {
+        "name": "Das Gl\u00fcck / Leider Wahr",
+        "url": "https://open.spotify.com/album/2XLPkO78E1sA080183HvuU"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177254,
+      "name": "Das Gl\u00fcck",
+      "url": "https://open.spotify.com/track/51DLj5bZ2vubejwJYPrikS"
     },
     {
       "album": {
@@ -1468,7 +1646,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
@@ -1508,7 +1686,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 170773,
       "name": "Drama",
       "url": "https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6"
@@ -1754,7 +1932,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 212777,
       "name": "Father Figure",
       "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
@@ -1824,7 +2002,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -1960,10 +2138,28 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 168727,
       "name": "Geboren um zu leben",
       "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
+    },
+    {
+      "album": {
+        "name": "GHETTOGIRL",
+        "url": "https://open.spotify.com/album/08GhLa1KoFgFU8EYs2i12D"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165372,
+      "name": "GHETTOGIRL",
+      "url": "https://open.spotify.com/track/3idbCPumlga23rxFA08fZE"
     },
     {
       "album": {
@@ -2132,7 +2328,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 160405,
       "name": "Herzensmensch",
       "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
@@ -2359,6 +2555,28 @@
     },
     {
       "album": {
+        "name": "Russisch Roulette (Deluxe)",
+        "url": "https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189280,
+      "name": "Ich rolle mit meim Besten - Babos Remix",
+      "url": "https://open.spotify.com/track/2AXOg2WMjJt8Os7M3b589T"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/37OceDzXOrW69Gmji6gAxH"
       },
@@ -2396,6 +2614,24 @@
       "duration_ms": 159404,
       "name": "Immer",
       "url": "https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc"
+    },
+    {
+      "album": {
+        "name": "Aus meinem Tagebuch",
+        "url": "https://open.spotify.com/album/18lmPK5jSx7uwin7aYqUMb"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Mey",
+          "url": "https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "In meinem Garten",
+      "url": "https://open.spotify.com/track/4T9sZmhUcwnAimjnBTl7eW"
     },
     {
       "album": {
@@ -2446,7 +2682,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -2577,6 +2813,50 @@
     },
     {
       "album": {
+        "name": "Russisch Roulette (Deluxe)",
+        "url": "https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        },
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251640,
+      "name": "Lass die Affen aus'm Zoo - Babos Remix",
+      "url": "https://open.spotify.com/track/7vrAlRlFbter0SlGd0ik7t"
+    },
+    {
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
         "name": "Aymen",
         "url": "https://open.spotify.com/album/5AJ9eYWrmaGXZ11jhAfWk5"
       },
@@ -2644,6 +2924,24 @@
       "duration_ms": 156524,
       "name": "Leopard",
       "url": "https://open.spotify.com/track/1lAXT40ddSDINaCjCvzPVR"
+    },
+    {
+      "album": {
+        "name": "Laternen- und Herbstlieder",
+        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Lichterkinder",
+      "url": "https://open.spotify.com/track/0iLyAlInsomkzvxAMYlS6R"
     },
     {
       "album": {
@@ -2829,6 +3127,28 @@
     },
     {
       "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/0m2iRaAMg7EmOwOEWEHt9H"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126930,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/1OsqxSWKQR1WnsLwMw1N2l"
+    },
+    {
+      "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
@@ -2858,10 +3178,28 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "album": {
+        "name": "PLATINBLOCK",
+        "url": "https://open.spotify.com/album/0rvvkv9MNmAx7HSS6kYknL"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Mann im Spiegel",
+      "url": "https://open.spotify.com/track/1BE3EIYISnygOwhIvoCRs4"
     },
     {
       "album": {
@@ -2974,7 +3312,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj"
@@ -3181,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Rookie de l'ann\u00e9e",
+        "url": "https://open.spotify.com/album/7DnUxvmq4OTTlAE88P7TAq"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140200,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/4Y6tN306RKH54S4WAWZuYO"
+    },
+    {
+      "album": {
         "name": "nobody (make me feel)",
         "url": "https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ"
       },
@@ -3196,7 +3552,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 165120,
       "name": "nobody (make me feel)",
       "url": "https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY"
@@ -3515,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "RADW",
+        "url": "https://open.spotify.com/album/0t12J4LVwodPdmzrXSy5n2"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "RADW",
+      "url": "https://open.spotify.com/track/4IrH8L9pkMVSeA6uJZjtT8"
+    },
+    {
+      "album": {
         "name": "RAGE GIRL",
         "url": "https://open.spotify.com/album/6LY4dLPFzOWc7NER0ZemqZ"
       },
@@ -3617,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "Rookie de l'ann\u00e9e",
+        "url": "https://open.spotify.com/album/7DnUxvmq4OTTlAE88P7TAq"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152091,
+      "name": "Rookie de l'ann\u00e9e",
+      "url": "https://open.spotify.com/track/0b5MsImsPDNjhjrJ3WDYSb"
+    },
+    {
+      "album": {
         "name": "RS7",
         "url": "https://open.spotify.com/album/6hpv3u2QBfPn1N8UDKMJC8"
       },
@@ -3694,7 +4090,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 182797,
       "name": "SAB\u00cdA QUE NO",
       "url": "https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt"
@@ -4136,7 +4532,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -4206,6 +4602,32 @@
       "duration_ms": 153175,
       "name": "Syt",
       "url": "https://open.spotify.com/track/1dSVYOSn86KfbnPv87KJsK"
+    },
+    {
+      "album": {
+        "name": "Der Holland Job",
+        "url": "https://open.spotify.com/album/6H16l0aclr4Ck2t8xGGX5x"
+      },
+      "artists": [
+        {
+          "name": "Coup",
+          "url": "https://open.spotify.com/artist/3DoYGi5spOR9sIqjdkf2R4"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "Tach Tach",
+      "url": "https://open.spotify.com/track/7B5bGlw1n5iEIMsUmGTypc"
     },
     {
       "album": {
@@ -4480,7 +4902,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 241766,
       "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
@@ -4546,7 +4968,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
@@ -4568,6 +4990,24 @@
       "duration_ms": 141999,
       "name": "Theater \ud83c\udfad",
       "url": "https://open.spotify.com/track/2ewwQzODKfnyZpgtDalWW5"
+    },
+    {
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357266,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0"
     },
     {
       "album": {
@@ -4612,7 +5052,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -4634,6 +5074,28 @@
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169004,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA"
     },
     {
       "album": {
@@ -4982,7 +5444,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
@@ -5132,7 +5594,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 202009,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
@@ -5378,7 +5840,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 159673,
       "name": "YAMA",
       "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"

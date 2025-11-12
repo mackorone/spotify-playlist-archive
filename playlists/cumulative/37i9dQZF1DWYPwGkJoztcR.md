@@ -4,11 +4,11 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-134 songs - 7 hr 44 min
+138 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2025-06-27 |  |
+| [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2025-06-27 | 2025-11-12 |
 | [A Way With My Heart](https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc), [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [A Way With My Heart](https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk) | 3:15 | 2025-09-15 |  |
 | [adeline](https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J) | [Katie Koss](https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN) | [i'm changing my mind](https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB) | 3:54 | 2025-06-27 |  |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2025-06-27 | 2025-10-18 |
@@ -21,7 +21,7 @@
 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 | 2025-08-06 |  |
 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 | 2025-06-27 |  |
 | [Bend](https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bend](https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT) | 3:56 | 2025-10-31 |  |
-| [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 | 2025-06-27 |  |
+| [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 | 2025-06-27 | 2025-11-12 |
 | [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 | 2025-09-03 |  |
 | [By the Way](https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [By the Way](https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u) | 2:40 | 2025-09-03 |  |
 | [Call Me When You Get In](https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Emily Rink](https://open.spotify.com/artist/65A05MaAQkUbLQm8jVtZHF) | [Call Me When You Get In](https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM) | 3:48 | 2025-06-27 |  |
@@ -35,6 +35,7 @@
 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2025-06-27 | 2025-09-04 |
 | [Cruisin’](https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Cruisin’](https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI) | 3:24 | 2025-06-27 |  |
 | [Daydreaming](https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [In my cluttered head](https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC) | 3:23 | 2025-06-27 |  |
+| [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 | 2025-11-11 |  |
 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 | 2025-06-27 |  |
 | [Don't Break My Heart](https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Don't Break My Heart](https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN) | 2:54 | 2025-10-02 |  |
 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 | 2025-09-25 |  |
@@ -44,6 +45,7 @@
 | [Falling](https://open.spotify.com/track/0V9YrzbwrwU56cJEzo8l5q) | [Loes Haverkort](https://open.spotify.com/artist/54777M62D5hfIB0mFJ7Lzy) | [Falling](https://open.spotify.com/album/3wJxsWMmDGAxsBOR55WHVK) | 3:36 | 2025-06-27 | 2025-09-26 |
 | [Falling Easy](https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Green Lights](https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku) | 2:57 | 2025-06-27 |  |
 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 | 2025-09-10 |  |
+| [Find Me](https://open.spotify.com/track/601duPbqge25OtknrrS99N) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Find Me](https://open.spotify.com/album/2Bw4yItttk3AbNpgCxecrh) | 4:04 | 2025-11-11 |  |
 | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 | 2025-06-27 |  |
 | [Forever](https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Forever](https://open.spotify.com/album/1NBKZ51sVnHveH2MDZDZZU) | 3:27 | 2025-06-27 | 2025-09-04 |
 | [goodbye](https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [goodbye](https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq) | 2:50 | 2025-06-27 |  |
@@ -69,8 +71,9 @@
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2025-06-27 |  |
 | [Just Say Aye](https://open.spotify.com/track/2FUWdMp90MAPCc1zV0CtQd) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Just Say Aye](https://open.spotify.com/album/6aTtPR8tdR33NwAFJg9yyb) | 3:38 | 2025-06-27 | 2025-10-16 |
 | [Kind Of Love](https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Kind Of Love](https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ) | 3:54 | 2025-06-27 | 2025-11-08 |
-| [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 | 2025-06-27 |  |
+| [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 | 2025-06-27 | 2025-11-12 |
 | [Last Forever \- Acoustic](https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Last Forever](https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P) | 3:14 | 2025-06-27 |  |
+| [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 | 2025-11-11 |  |
 | [Lean On Me](https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Lean On Me](https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5) | 3:32 | 2025-06-27 | 2025-10-03 |
 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 | 2025-10-02 |  |
 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 | 2025-10-02 |  |
@@ -103,8 +106,9 @@
 | [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 | 2025-06-27 |  |
 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 | 2025-06-27 |  |
 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 | 2025-06-27 |  |
-| [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-06-27 |  |
+| [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-06-27 | 2025-11-12 |
 | [Roller Coaster](https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Roller Coaster](https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd) | 2:35 | 2025-06-27 |  |
+| [Romeo & Julia](https://open.spotify.com/track/4HSLqHcwaj5clHCrXfmp0B) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Romeo & Julia](https://open.spotify.com/album/3xuoSZmnVBiW2ZrIt3DuF4) | 2:29 | 2025-11-11 |  |
 | [Same Heart](https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Same Heart](https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8) | 3:39 | 2025-10-09 |  |
 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 | 2025-06-27 |  |
 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 | 2025-09-03 |  |

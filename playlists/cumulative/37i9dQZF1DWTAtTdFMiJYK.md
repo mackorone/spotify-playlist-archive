@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: sudan
+> Most exciting artists from the Indian Indie scene\. Cover: Aanchal Tyagi
 
-371 songs - 20 hr 55 min
+372 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/track/50UEBQ956XJj1tEYU11Q29) | [Iram](https://open.spotify.com/artist/03vOPjk4buG4luOCylcWVh) | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/album/1qJfNKu5Iazzgfc1PwMX9T) | 4:23 | 2021-12-06 | 2022-01-11 |
 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-20 | 2023-11-25 |
 | [internet friends](https://open.spotify.com/track/7eGJxi6rL5Z0p7yQKJD8ID) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [internet friends](https://open.spotify.com/album/7h2qB3e507wkDaa3syS7l5) | 3:14 | 2022-02-08 | 2022-02-25 |
-| [Ishaare](https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 2:47 | 2025-08-10 |  |
+| [Ishaare](https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 2:47 | 2025-08-10 | 2025-11-12 |
 | [Ishq Ke Sheher Mein](https://open.spotify.com/track/79IhwHGuF3XLbzZQuGPmWs) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Ishq Ke Sheher Mein](https://open.spotify.com/album/14LTcY8KKrT8VZTC5KkUK0) | 3:01 | 2022-03-21 | 2022-11-10 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-07-03 | 2024-06-22 |
 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 | 2025-11-03 |  |
@@ -240,6 +240,7 @@
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-10-05 | 2025-03-11 |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-10 |  |
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 | 2024-06-11 |
+| [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 | 2025-11-11 |  |
 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 | 2025-02-18 | 2025-10-11 |
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-01-10 |  |
 | [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 | 2022-09-29 | 2024-03-30 |

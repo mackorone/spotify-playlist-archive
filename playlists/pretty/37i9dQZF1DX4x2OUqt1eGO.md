@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,523 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,529 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 65 | [Ninuvina Namadendhu](https://open.spotify.com/track/3cEJRKdCWYnFqM0DHuFZs8) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 6:43 |
 | 66 | [Bansuri & Tabla \(Live\)](https://open.spotify.com/track/1OPqzUmJ6cWgmeHrZ27T3s) | [Pandit Atul Shankar](https://open.spotify.com/artist/2BH0PQI32fInzYixUio497), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:18 |
 | 67 | [Song of Praise](https://open.spotify.com/track/3GcIaOkyZP2KqN5OFHn5pB) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Shilong Chamber Choir](https://open.spotify.com/artist/50ZzirHCaFqOadumoImXut), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Stephen Devassy](https://open.spotify.com/artist/1bJWW46CNRUpySTWeks99j) | [Silence Is Bliss](https://open.spotify.com/album/3cgDSVSPSIWi8jyg0eMUDT) | 5:05 |
-| 68 | [Bliss](https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI) | 7:25 |
-| 69 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 |
+| 68 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 |
+| 69 | [Healing Song](https://open.spotify.com/track/6eCmV7Lo5Aqn9QbxMR94Mq) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX), [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Healing Song](https://open.spotify.com/album/3rHQ7V8XGIiQfPZOJ5KTqa) | 3:23 |
 | 70 | [Kavadi Chindu](https://open.spotify.com/track/7zmtHg5CDTu9k4TixF7FbE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 2:29 |
-| 71 | [Healing Song](https://open.spotify.com/track/6eCmV7Lo5Aqn9QbxMR94Mq) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX), [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Healing Song](https://open.spotify.com/album/3rHQ7V8XGIiQfPZOJ5KTqa) | 3:23 |
+| 71 | [Bliss](https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI) | 7:25 |
 | 72 | [Inner Peace](https://open.spotify.com/track/2YMUsN8bE7GfGBxCdnT1ox) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Inner Peace](https://open.spotify.com/album/4FoTmbikEtF6Jj4mzvpWQD) | 6:40 |
-| 73 | [Pinneyum Pinneyum \- Flute Cover](https://open.spotify.com/track/4aIJnXG66BILEOKTLd6eKW) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Pinneyum Pinneyum \(Flute Cover\)](https://open.spotify.com/album/6pjZknaVN4G2pLzLLtxiV9) | 4:34 |
-| 74 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 |
-| 75 | [Raag Megh](https://open.spotify.com/track/673opWGY1zqKXIVv1y2aAB) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Suchismita](https://open.spotify.com/artist/228XjAjxsgRuOwO0zaZHcT), [Debopriya Chatterjee](https://open.spotify.com/artist/4tR5TyljrXvbbKY14uwB2v) | [Ananta\-The Wonder of the Indian Flute](https://open.spotify.com/album/6QwWZtgUoNYhPpi1sNpspn) | 8:55 |
+| 73 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 |
+| 74 | [Shiva Medicine](https://open.spotify.com/track/5e1m5IOaefA2QOzl9ADGEm) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX) | [Shiva Medicine](https://open.spotify.com/album/47FfjcwJOPkJa59P9IgwZe) | 2:59 |
+| 75 | [Pinneyum Pinneyum \- Flute Cover](https://open.spotify.com/track/4aIJnXG66BILEOKTLd6eKW) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Pinneyum Pinneyum \(Flute Cover\)](https://open.spotify.com/album/6pjZknaVN4G2pLzLLtxiV9) | 4:34 |
 
 Snapshot ID: `AAAAAEgA3GulMU/P2DGutjFwgUFeyCEX`

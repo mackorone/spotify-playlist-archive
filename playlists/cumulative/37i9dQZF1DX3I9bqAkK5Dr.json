@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Bangaru",
+        "url": "https://open.spotify.com/album/51t7QiRHzfXqyiZ3euyglO"
+      },
+      "artists": [
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200365,
+      "name": "Bangaru",
+      "url": "https://open.spotify.com/track/09qjN4zFiZH8lcuINSJ5lk"
+    },
+    {
+      "album": {
         "name": "Beach Road Melody",
         "url": "https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch"
       },
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 170181,
       "name": "INDIAN HIPHOP",
       "url": "https://open.spotify.com/track/113BYbdqf0kWunlw3ZG6nb"

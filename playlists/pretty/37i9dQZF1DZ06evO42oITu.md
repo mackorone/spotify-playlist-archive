@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,793 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,845 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 16 | [My Back Pages \- Live at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/0bIGNGUqgpB82sAksxonkZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn), [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 4:39 |
 | 17 | [Lies](https://open.spotify.com/track/0mgXOSuxdH84O2MSc1ZmrU) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:06 |
 | 18 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Cream Of Clapton](https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp) | 4:24 |
-| 19 | [Ten Long Years](https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:40 |
-| 20 | [For Your Love](https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [For Your Love](https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp) | 2:33 |
+| 19 | [Autumn Leaves](https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton](https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe) | 5:40 |
+| 20 | [Ten Long Years](https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:40 |
 | 21 | [Sensitive Kind](https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Don White](https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 5:17 |
-| 22 | [Autumn Leaves](https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton](https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe) | 5:40 |
+| 22 | [For Your Love](https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [For Your Love](https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp) | 2:33 |
 | 23 | [Can't Find My Way Home \- Live from Madison Square Garden](https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Live from Madison Square Garden](https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH) | 5:32 |
 | 24 | [Old Love \- Acoustic Live](https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 7:51 |
 | 25 | [Before You Accuse Me](https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 49 | [San Francisco Bay Blues \- Acoustic Live](https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:28 |
 | 50 | [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 |
 
-Snapshot ID: `aQ/ZgAAAAADn3P1NDxuAAZoNdFZS/2ws`
+Snapshot ID: `aRErAAAAAADswXctitENOmJSyugSe7h/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit diesem sonnigen Genre Mix 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,113 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,991 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 31 | [VEMPA](https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP) | [VEMPA](https://open.spotify.com/album/0AXShQulBiviUJkpaVR4EH) | 2:14 |
 | 32 | [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 |
 | 33 | [Copines](https://open.spotify.com/track/65PsPkMG2QiFM8N5qnuv4B) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/1co4qjh6yQGXUnVM52yEYb) | 2:51 |
-| 34 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 34 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 35 | [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 |
 | 36 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
 | 37 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 45 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 |
 | 46 | [BLESSINGS](https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLESSINGS](https://open.spotify.com/album/0nL0w3df3IsbhIXYEcTXDQ) | 3:28 |
 | 47 | [Russian Roulette](https://open.spotify.com/track/2Bz5QMGrL79GU6TVNZyMxO) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Russian Roulette](https://open.spotify.com/album/0sCjMjmrFC7AxI0rhkHU4K) | 2:48 |
-| 48 | [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 |
+| 48 | [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 |
 | 49 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 50 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 | 51 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |

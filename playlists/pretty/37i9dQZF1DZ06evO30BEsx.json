@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1750,
+  "num_followers": 1754,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAAoUkL9DvQklVvkysIZDBx",
+  "snapshot_id": "aRErAAAAAABTJEqPXmPleBaxb/R7KqZo",
   "tracks": [
     {
       "added_at": null,
@@ -487,30 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dunckel: Wake",
-        "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
-      },
-      "artists": [
-        {
-          "name": "JB Dunckel",
-          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Wake",
-      "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -543,22 +519,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Franck & Chopin: Cello Sonatas",
-        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
+        "name": "Dunckel: Wake",
+        "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
       },
       "artists": [
+        {
+          "name": "JB Dunckel",
+          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
+        },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
-      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
+      "duration_ms": 252866,
+      "name": "Wake",
+      "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 239653,
       "name": "Towards the Forest",
       "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Franck & Chopin: Cello Sonatas",
+        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
     },
     {
       "added_at": null,
@@ -1271,26 +1271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Prelude\" - Smooth Music to Relax",
-        "url": "https://open.spotify.com/album/730Up82NNpqAUkVC5gN6OX"
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Quenton Blache",
+          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 91093,
-      "name": "Bach, JS: The Well-Tempered Clavier, Book I, Prelude and Fugue No. 5 in D Major, BWV 850: Prelude (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/3y4QmqlRsihdxeneueiq1i"
+      "duration_ms": 230880,
+      "name": "Of Wind and Rain",
+      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
     },
     {
       "added_at": null,
@@ -1327,50 +1327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
-        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
+        "name": "\"Prelude\" - Smooth Music to Relax",
+        "url": "https://open.spotify.com/album/730Up82NNpqAUkVC5gN6OX"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "B\u00e9atrice Muthelet",
-          "url": "https://open.spotify.com/artist/1g2WdTd3cGeJBqaRPd337j"
-        },
-        {
-          "name": "Esther Hoppe",
-          "url": "https://open.spotify.com/artist/5P6R1Fp5iLgZHZ090XVs7F"
-        },
-        {
-          "name": "Florent Jodelet",
-          "url": "https://open.spotify.com/artist/6bRfALDm1P7NjYk9eIiRiE"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Michel Dalberto",
-          "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
-        },
-        {
-          "name": "Paul Meyer",
-          "url": "https://open.spotify.com/artist/31rALqMKxBY8SoTJhNwJhn"
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         }
       ],
-      "duration_ms": 76133,
-      "name": "Saint-Sa\u00ebns: Le carnaval des animaux, R 125: XII. Fossiles",
-      "url": "https://open.spotify.com/track/6twvqDY7lfbPn3FUD1VlDX"
+      "duration_ms": 91093,
+      "name": "Bach, JS: The Well-Tempered Clavier, Book I, Prelude and Fugue No. 5 in D Major, BWV 850: Prelude (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/3y4QmqlRsihdxeneueiq1i"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

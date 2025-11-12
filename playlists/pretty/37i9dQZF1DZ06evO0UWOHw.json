@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 14724,
+  "num_followers": 14747,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABsYCRmeQ/zoi/PoZEaXCSz",
+  "snapshot_id": "aRErAAAAAACQeX/J2UVrupXC0da5OXiZ",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Ba$Tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Ba$Tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 158833,
       "name": "Pier 46",
       "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c8K\u00d3 GROOVE",
-        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "EARLY",
-      "url": "https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$exy Girl $ummer (Vol.1)",
         "url": "https://open.spotify.com/album/68q09r65wcBidNleimVoLk"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 168979,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c8K\u00d3 GROOVE",
+        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "EARLY",
+      "url": "https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nataraja",
         "url": "https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 187500,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
     },
     {
       "added_at": null,

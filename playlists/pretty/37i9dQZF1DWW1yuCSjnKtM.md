@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > hand\-picked and hot right now 📈 cover: Olga Myko
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,291 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,285 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 24 | [Actually Romantic](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:43 |
 | 25 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 26 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
-| 27 | [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 |
+| 27 | [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 |
 | 28 | [Maui Wowie](https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 2:23 |
 | 29 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 30 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 49 | [Card Declined \(Brimful of Asha\)](https://open.spotify.com/track/1KCtSFsSn9khPDhM4cdGm9) | [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Card Declined \(Brimful of Asha\)](https://open.spotify.com/album/0TU7fkJIagDONaPvWu3DE1) | 2:32 |
 | 50 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer and the Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 |
 | 51 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
-| 52 | [Where Love Lives \- Classic Club Mix](https://open.spotify.com/track/65hHk4bV2XtL2j9NGBpLtg) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Where Love Lives \(featured on the John Lewis Christmas Advert 2025\)](https://open.spotify.com/album/2s2xll4WA81USky4yHjiH3) | 6:12 |
+| 52 | [Where Love Lives \- Classic Club Mix \- featured on the John Lewis Christmas Advert 2025](https://open.spotify.com/track/65hHk4bV2XtL2j9NGBpLtg) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Where Love Lives \(featured on the John Lewis Christmas Advert 2025\)](https://open.spotify.com/album/2s2xll4WA81USky4yHjiH3) | 6:12 |
 | 53 | [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 |
 | 54 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
 | 55 | [Gravity](https://open.spotify.com/track/2l4wCQ546fNBZGrsMwAD3E) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Hazbin Hotel: Season Two \(Episodes 1 \- 2\) \[Original Soundtrack\]](https://open.spotify.com/album/2u4FWAUYshQ5iY9E2twPFR) | 1:53 |

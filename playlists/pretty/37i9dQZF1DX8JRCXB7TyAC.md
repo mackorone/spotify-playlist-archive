@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,904 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,942 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 21 | [Jazbaati Bande](https://open.spotify.com/track/3EVoVFpeF3O89KLyJMuhxL) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jazbaati Bande](https://open.spotify.com/album/6dKzLGsI9xxqgvjImYA3kw) | 3:42 |
 | 22 | [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 |
 | 23 | [Jhota](https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Jhota](https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA) | 3:14 |
-| 24 | [Laash Dikh Jagi](https://open.spotify.com/track/2M6ODDrTfCzG12dBwbQaOS) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn) | [Laash Dikh Jagi](https://open.spotify.com/album/7rfQyabA0isF063nrnTEtq) | 2:24 |
+| 24 | [Lootere](https://open.spotify.com/track/4Y20wcBIVQzwFxzzcRKplm) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Hanssika Digiya](https://open.spotify.com/artist/1Jm5hSL0TPOm9hmtfr7Bck) | [Lootere](https://open.spotify.com/album/3GuoHn0egfctFWyuVhDaBh) | 2:16 |
 | 25 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
 | 26 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 |
 | 27 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 |

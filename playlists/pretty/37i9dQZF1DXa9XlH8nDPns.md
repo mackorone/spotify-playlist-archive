@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > Feelgood indie & roadtrip bangers
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,520 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,523 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 46 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
 | 47 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
 | 48 | [Don't Forget You Love Me](https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Don't Forget You Love Me](https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1) | 3:37 |
-| 49 | [Vanishing Point](https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Vanishing Point](https://open.spotify.com/album/6ecsDCvIi7BsZmyUHEYHyV) | 4:58 |
-| 50 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
+| 49 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
+| 50 | [Vanishing Point](https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Vanishing Point](https://open.spotify.com/album/6ecsDCvIi7BsZmyUHEYHyV) | 4:58 |
 | 51 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 52 | [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 |
 | 53 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 |

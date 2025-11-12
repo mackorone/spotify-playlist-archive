@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Showdemcamp, Lil Baby, Victony, Ko\-Jo Cue, Rosalia and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,284 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,344 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 20 | [No Issues](https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [No Issues](https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn) | 3:21 |
 | 21 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 |
 | 22 | [Options](https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [MAYBE II](https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv) | 3:42 |
-| 23 | [LAGOS \(feat\. TR1GGA\)](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS \(feat\. TR1GGA\)](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 |
+| 23 | [LAGOS](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 |
 | 24 | [Fire \(feat\. NATURE\)](https://open.spotify.com/track/1DB7dwGuuAC4vhKMjzwvHR) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y) | [Fire \(feat\. NATURE\)](https://open.spotify.com/album/2JvONmEfmoUipHNOzvd7Ee) | 4:04 |
 | 25 | [SIMMER DOWN](https://open.spotify.com/track/3n7r7yp5Y72lSJIVIdUDZ4) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [Horus AI Sagnia](https://open.spotify.com/artist/7dfGMLZEL0gKxWGbzMu7WS) | [SWEET SOUR](https://open.spotify.com/album/0xYrY6iXL8qQkfC7WoCLmA) | 2:13 |
 | 26 | [DON'T ASK DON'T ANSWER \(feat\. NATURE\)](https://open.spotify.com/track/3OKpzbpU6pfvBq5SIVLbVb) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [DON'T ASK DON'T ANSWER \(feat\. NATURE\)](https://open.spotify.com/album/5IHpH7DE5YWsqhL93aBGv7) | 2:37 |

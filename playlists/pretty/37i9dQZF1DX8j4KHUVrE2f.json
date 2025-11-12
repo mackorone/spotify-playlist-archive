@@ -1,6 +1,6 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1101482,
+  "num_followers": 1101498,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Alright, Still (Deluxe)",
-        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 216480,
       "name": "Empire State of Mind (Part II) Broken Down",
       "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "Alright, Still (Deluxe)",
+        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "Lazarus",
         "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh"
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf"
+      "duration_ms": 311291,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 311291,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw"
+      "duration_ms": 225906,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf"
     },
     {
       "added_at": "2024-06-03 14:44:19",

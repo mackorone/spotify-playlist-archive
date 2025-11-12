@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,261 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,291 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 45 | [Mecha Corta](https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mecha Corta](https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA) | 3:30 |
 | 46 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
 | 47 | [La Misión \(Episodio 2\)](https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Misión \(Episodio 2\)](https://open.spotify.com/album/07gHdHOclypZGhqlaRmuSi) | 5:23 |
-| 48 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
-| 49 | [Si la muerte pregunta](https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:29 |
+| 48 | [Si la muerte pregunta](https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:29 |
+| 49 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
 | 50 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 
-Snapshot ID: `aQ/ZgAAAAABcLpAjCS+LxSREKMm6MQRw`
+Snapshot ID: `aRErAAAAAABWJsaGr2mmtWelFeWiuk6L`

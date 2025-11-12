@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,386 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,437 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 40 | [Borrachera](https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5) | [Little Joe](https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby) | [Puro Tejano](https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr) | 3:16 |
 | 41 | [Tú Robaste Mi Corazón](https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy), [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:47 |
 | 42 | [Las Nubes](https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9) | [Little Joe & La Familia](https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN) | [Chulas Fronteras and Del Mero Corazón](https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc) | 4:54 |
-| 43 | [Tejano Mix \- Radio Edit](https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Fama](https://open.spotify.com/artist/3mK3I4pAYHDILmtW2DAiPR), [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE), [David Marez](https://open.spotify.com/artist/1RXrFi7d58eFQxyWkdbQuq) | [Tejano Mix](https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg) | 4:44 |
+| 43 | [Maldito Amor](https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [30 Del Recuerdo](https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD) | 4:01 |
 | 44 | [Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Devórame Otra Vez, Qué Esperabas featuring Jay Perez](https://open.spotify.com/track/1yyuvKMFwBzIw8xu9rq6Dv) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq), [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Que Cante El Mundo \(Remastered\)](https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC) | 9:04 |
-| 45 | [Maldito Amor](https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [30 Del Recuerdo](https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD) | 4:01 |
+| 45 | [Tejano Mix \- Radio Edit](https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Fama](https://open.spotify.com/artist/3mK3I4pAYHDILmtW2DAiPR), [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE), [David Marez](https://open.spotify.com/artist/1RXrFi7d58eFQxyWkdbQuq) | [Tejano Mix](https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg) | 4:44 |
 | 46 | [Contigo Quiero Estar](https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:07 |
 | 47 | [Poquito A Poco](https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:25 |
 | 48 | [La Mancha](https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Simplemente Tejano](https://open.spotify.com/album/49NcAGCAejf91zf9378McY) | 4:38 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 95 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
 | 96 | [Don Luis El Tejano](https://open.spotify.com/track/6O35QNCUYlHnnHKMMhirxT) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:02 |
 | 97 | [Te Sigo Amando](https://open.spotify.com/track/6141FXNkDLkERK3HcaCgYN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:34 |
-| 98 | [Algun Día](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 |
+| 98 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
 | 99 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/3GZMMuN6QVF6PQLWFpwTpN) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:10 |
 | 100 | [Missing My Baby](https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:51 |
 

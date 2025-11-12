@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,338 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,571 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Have Yourself A Merry Little Christmas \(Performed on Piano\)](https://open.spotify.com/track/4XWWwPtmyaxe0MInJImz4c) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA) | [Have Yourself A Merry Little Christmas \(Performed on Piano\)](https://open.spotify.com/album/5EPC92bul5X1FHNHDWCSr5) | 2:37 |
 | 2 | [Nos Galan \(Deck the Halls\) \[Arr\. Huws for Harp\]](https://open.spotify.com/track/2uBN1UFDjS2DqFl6oyTlS7) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Nos Galan \(Deck the Halls\) \[Arr\. Huws for Harp\]](https://open.spotify.com/album/3lWhGuwvwVyUzyLJW73o5l) | 3:05 |
-| 3 | [O Holy Night](https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [O Holy Night](https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ) | 3:09 |
+| 3 | [O Holy Night](https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [O Holy Night](https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ) | 3:09 |
 | 4 | [Away In A Manger](https://open.spotify.com/track/3cEPV9YxmKzDlwDyr9hq0C) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Away In A Manger](https://open.spotify.com/album/0RDcl4gX6NawVNGV9nC6Xg) | 1:53 |
 | 5 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 |
 | 6 | [Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/track/4IGPENN8Ou2Q4MFbXKwt8l) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Carol of the Bells \(arr\. piano\) / Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7) | 6:54 |

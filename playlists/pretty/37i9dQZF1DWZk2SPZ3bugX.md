@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,046 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,044 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
+| 1 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 2 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 3 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 |
 | 4 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |

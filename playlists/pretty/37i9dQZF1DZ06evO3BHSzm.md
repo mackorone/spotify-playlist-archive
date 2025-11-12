@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,794 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,791 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 29 | [Batman \- Mono Version](https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One](https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM) | 1:34 |
 | 30 | [Athena](https://open.spotify.com/track/255k7GWdOau9yOsewX85lg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [It's Hard](https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A) | 3:47 |
 | 31 | [1921](https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:49 |
-| 32 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 |
-| 33 | [Long Live Rock \- Single Mix](https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:56 |
+| 32 | [Long Live Rock \- Single Mix](https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:56 |
+| 33 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 |
 | 34 | [I Saw Her Standing There 2 \- Shepperton Tour Rehearsal / 1978](https://open.spotify.com/track/7zTF0MKT65fABwQ8btx3bM) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [I Saw Her Standing There 2 \(Shepperton Tour Rehearsal / 1978\)](https://open.spotify.com/album/153WbbfQt3FqHt04PUj0ii) | 3:29 |
 | 35 | [It's A Boy](https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 0:38 |
 | 36 | [Slip Kid](https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:29 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 42 | [The Punk And The Godfather](https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 5:10 |
 | 43 | [Pictures Of Lily](https://open.spotify.com/track/123RhEzztpTieeEd13NexC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:42 |
 | 44 | [Sister Disco](https://open.spotify.com/track/7xo7YHCPkXlh8ibJmSHBFN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:22 |
-| 45 | [New Song \- Pete Vocal Version](https://open.spotify.com/track/79rkfGjPoYuUKPt4DsaDQp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [New Song \(Pete Vocal Version\)](https://open.spotify.com/album/2c4vUP2C3NIB5akiXef06H) | 4:20 |
+| 45 | [Don't Let Go The Coat](https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 3:48 |
 | 46 | [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 |
-| 47 | [Don't Let Go The Coat](https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 3:48 |
+| 47 | [New Song \- Pete Vocal Version](https://open.spotify.com/track/79rkfGjPoYuUKPt4DsaDQp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [New Song \(Pete Vocal Version\)](https://open.spotify.com/album/2c4vUP2C3NIB5akiXef06H) | 4:20 |
 | 48 | [905](https://open.spotify.com/track/1OUhfm8VXT7jvDPjH7P6Sx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:02 |
 | 49 | [The Dirty Jobs](https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 4:28 |
 | 50 | [I've Had Enough](https://open.spotify.com/track/2j5BDdYwHfJVPfgzmnD2DF) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:14 |
 
-Snapshot ID: `aQ/ZgAAAAAChc3pBfH6lUfT3Xs/oZlr2`
+Snapshot ID: `aRErAAAAAAA67LsqV6Cub0Eq5sqhctB/`

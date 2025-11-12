@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 892399,
+  "num_followers": 892423,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAfMkAW+tfllt33PnDxwC66",
+  "snapshot_id": "aRErAAAAAADtrbFu9XGWyW4qvURU7PB1",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 268493,
+      "name": "Beez In The Trap",
+      "url": "https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Major Key",
         "url": "https://open.spotify.com/album/6ZQyMrmlg95L8gy63Pnm33"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 202636,
       "name": "Plain Jane REMIX (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 268493,
-      "name": "Beez In The Trap",
-      "url": "https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC"
     },
     {
       "added_at": null,

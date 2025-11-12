@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621 likes - 275 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624 likes - 275 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 26 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
 | 27 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
 | 28 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 |
-| 29 | [Wish Wish \(feat\. Cardi B & 21 Savage\)](https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:22 |
-| 30 | [No Sucker \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/6A9wHAasMxed0firnDao1K) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:08 |
+| 29 | [No Sucker \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/6A9wHAasMxed0firnDao1K) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:08 |
+| 30 | [Wish Wish \(feat\. Cardi B & 21 Savage\)](https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:22 |
 | 31 | [I DID IT \(feat\. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby\)](https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:45 |
 | 32 | [Since 6ix](https://open.spotify.com/track/0lOKsvuwUhu0a6ZEaviQ46) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 2:32 |
 | 33 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 274 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 275 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `AcBPqAAAAACZ4DaNY/IUtUodDvN430vi`
+Snapshot ID: `AcBVegAAAACEarxea7NlRcaIthx5KUZY`

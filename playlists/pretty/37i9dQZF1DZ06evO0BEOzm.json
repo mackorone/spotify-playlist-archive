@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 304505,
+  "num_followers": 304506,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAADqpJacjib25AoVJ0uBXsCi",
+  "snapshot_id": "aRErAAAAAAAL9sQJNsghx53nl521tvP3",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        }
-      ],
-      "duration_ms": 156988,
-      "name": "Mamushi (feat. Yuki Chiba)",
-      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WAP (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 187541,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,898 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,893 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 4 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
 | 5 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 6 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
-| 7 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 7 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 8 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 |
 | 9 | [069](https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Unzensiert](https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0) | 3:42 |
 | 10 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |

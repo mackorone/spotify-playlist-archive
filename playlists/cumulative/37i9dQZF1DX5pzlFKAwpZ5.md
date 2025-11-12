@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-333 songs - 1 day 0 hr 27 min
+335 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [727](https://open.spotify.com/track/0suUEHQAFjinEWzHCmOnf5) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [727](https://open.spotify.com/album/7gglMpd2CByh9qlty0Doja) | 3:29 | 2025-05-02 |  |
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-12-30 |  |
 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 |  |
+| [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 | 2025-11-11 |  |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |
 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 | 2025-02-21 |  |
 | [A Tale](https://open.spotify.com/track/7xCVZnISlnQ2v30xD6qGY1) | [Synagetic Voice Orchestra](https://open.spotify.com/artist/4ajIjToZA6Hfqo3U2vQqeN) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts) | 5:35 | 2024-03-07 | 2025-01-25 |
@@ -169,7 +170,7 @@
 | [Luminous](https://open.spotify.com/track/0x3TVsyBVHoaZnZVDdg1Vt) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Blue](https://open.spotify.com/album/1iP5wtr2dm9MdiMvwaOlgY) | 2:23 | 2022-01-07 | 2023-04-22 |
 | [lunar longing](https://open.spotify.com/track/6eKuXiRbo9ElFZO1f3lQWk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [lunar longing](https://open.spotify.com/album/4zOzOegSYCfl8o7qTTwTEP) | 2:54 | 2025-09-18 |  |
 | [Lyrical Ambient](https://open.spotify.com/track/799an9PYCuT6vqIVVgbku3) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lyrical Ambient](https://open.spotify.com/album/1ci4darogxWg7G3p1V2J8V) | 3:05 | 2022-07-22 | 2023-08-19 |
-| [Make A Wish](https://open.spotify.com/track/6dBhSWJOUmFCvL27QmEDKa) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:41 | 2022-01-07 |  |
+| [Make A Wish](https://open.spotify.com/track/6dBhSWJOUmFCvL27QmEDKa) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:41 | 2022-01-07 | 2025-11-12 |
 | [Many](https://open.spotify.com/track/3qD5oBoffRNT8EPgFY6lgQ) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Taba](https://open.spotify.com/album/1yM3jiytdU1m6793rSOCM1) | 2:16 | 2025-06-03 |  |
 | [Meditate Tree](https://open.spotify.com/track/10oCzOihnI3bK0WTUtX6bi) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.7](https://open.spotify.com/album/0ncAz6Q13wOuvBIe5qWgmI) | 2:49 | 2022-07-22 | 2022-08-04 |
 | [Meditate Tree](https://open.spotify.com/track/3UrXhetqxfROItPT6URWHb) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Meditate Tree](https://open.spotify.com/album/07dwyiZBrQmoaQvOolbHI5) | 2:49 | 2022-01-07 |  |
@@ -184,6 +185,7 @@
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 |  |
 | [My Hollow](https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [My Hollow](https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ) | 4:08 | 2024-09-06 | 2025-01-14 |
 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 | 2025-07-03 |  |
+| [Nature Morte](https://open.spotify.com/track/1BJh0hlduwUNWwsRqCDoRY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Nature Morte](https://open.spotify.com/album/3jLoX9HzMViUkvhvBDCvNN) | 3:32 | 2025-11-11 |  |
 | [New Age](https://open.spotify.com/track/6Ibgsk6qCE5rUn0jMA4KxA) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:58 | 2024-09-25 | 2025-05-23 |
 | [New Van Dyke Parks](https://open.spotify.com/track/1qWjVkwBVhZzWEovby6QZa) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 2:04 | 2023-03-03 | 2023-08-19 |
 | [Night](https://open.spotify.com/track/45Dxx50STJXoWCaDQkr6kx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/59qt7thlZ8bYAd4B22QeZ1) | 3:36 | 2023-09-08 | 2024-04-19 |
@@ -290,7 +292,7 @@
 | [Twilight Glow Of The Sky](https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [The Long Night in Winter Light](https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3) | 3:55 | 2023-03-11 |  |
 | [Twilight Sea](https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 6:05 | 2022-01-07 | 2025-02-10 |
 | [Twilight Sea](https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 6:05 | 2023-09-08 | 2024-04-19 |
-| [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-01-07 |  |
+| [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-01-07 | 2025-11-12 |
 | [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 | 2022-10-01 |
 | [ubi](https://open.spotify.com/track/5SpqLL6fVoeRKSPrBqIz1k) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:03 | 2022-01-07 | 2022-07-29 |
 | [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 | 2023-02-17 |  |

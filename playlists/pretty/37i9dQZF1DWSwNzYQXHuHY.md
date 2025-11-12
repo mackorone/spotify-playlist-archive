@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,708 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,709 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 11 | [Sign](https://open.spotify.com/track/5pbYgrBHeVrw7OjMUQgXP3) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Indigging \#05](https://open.spotify.com/album/4R6zDRWhdqzfAJPnoHITmy) | 3:09 |
 | 12 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 13 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
-| 14 | [99.9% \(WONWOO Solo\)](https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:05 |
-| 15 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
+| 14 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
+| 15 | [99.9% \(WONWOO Solo\)](https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:05 |
 | 16 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
 | 17 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 18 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,589 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,605 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 77 | [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
 | 78 | [Orvnge](https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Orvnge](https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU) | 4:22 |
 | 79 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |
-| 80 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
-| 81 | [Rock To The Beat](https://open.spotify.com/track/6urOPAkDfSK1LZ3jeHVgGA) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:23 |
+| 80 | [Rock To The Beat](https://open.spotify.com/track/6urOPAkDfSK1LZ3jeHVgGA) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:23 |
+| 81 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
 | 82 | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv) | [Frédéric Sanchez](https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9) | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2) | 1:22 |
 | 83 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
 | 84 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,133 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,226 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 79 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
 | 80 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
 
-Snapshot ID: `AAAAAHvvMNOl1P1ZFrRddBkomYwvRY56`
+Snapshot ID: `AAAAAAn8jkYWOG6IvTaerr2i3AeJ2JPK`

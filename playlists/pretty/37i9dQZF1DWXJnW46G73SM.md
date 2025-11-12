@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: آمال ماهر
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,231 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,274 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 18 | [نفسي اطمن بيك](https://open.spotify.com/track/0kQg2Pns2QNl9AijRGabPQ) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [نفسي اطمن بيك](https://open.spotify.com/album/10fY6NV6quSecarlJT9UZB) | 3:06 |
 | 19 | [Tehid ElMa3bad](https://open.spotify.com/track/5YoGXXnHY3n1MrFUu7ODtT) | [Haneen](https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO) | [Baya3 Kalam Pt\. 2](https://open.spotify.com/album/3zVn8rsKl5fotm4bpc7Fyd) | 3:27 |
 | 20 | [3ALA BAB EL CIMA](https://open.spotify.com/track/3U5uSudlSamkLBK8ZQKZ50) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Karim Osman](https://open.spotify.com/artist/6ZeP5tvlTQ0RjQfowlad3j), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [3ALA BAB EL CIMA](https://open.spotify.com/album/1lIZxwTXQxVLIvPyDwmTWf) | 3:27 |
-| 21 | [Nasy \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/7wCCqw8CSbkHMkYIqcINXB) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Nasy](https://open.spotify.com/album/5qz4xp51ET1gOZLYSYGEx7) | 2:49 |
+| 21 | [Nasy \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/7wCCqw8CSbkHMkYIqcINXB) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Nasy](https://open.spotify.com/album/5qz4xp51ET1gOZLYSYGEx7) | 2:49 |
 | 22 | [سلامي امانه](https://open.spotify.com/track/35Qk7KSF5we0gHMlUaHEvs) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [سلامي امانه](https://open.spotify.com/album/1UBy2k9nbNPQXaYeKD0Ts9) | 2:40 |
 | 23 | [Bey Ulu ma y Ulu](https://open.spotify.com/track/3GYulbp28vjI5wpIbHCZZc) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:49 |
 | 24 | [Rouh El Baher](https://open.spotify.com/track/3tDJsXij36UkVCvMUs3Tne) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Rouh El Baher](https://open.spotify.com/album/4kmByZdeUNhllYmdZlCONO) | 3:58 |

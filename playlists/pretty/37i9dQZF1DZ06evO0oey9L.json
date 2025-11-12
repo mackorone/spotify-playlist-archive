@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 95805,
+  "num_followers": 95818,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAClrp0dtJsp1ffqy6n3Knsk",
+  "snapshot_id": "aRErAAAAAAB/HJER5mxgnzEN3yGcNRW7",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALFA Y OMEGA",
-        "url": "https://open.spotify.com/album/3wo8txPsFDPdlIIPd3ZghE"
+        "name": "De La Escuelita Graduado",
+        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 190263,
-      "name": "ALFA Y OMEGA",
-      "url": "https://open.spotify.com/track/314qc7qcc4idg1dvP6estp"
+      "duration_ms": 163918,
+      "name": "De La Escuelita Graduado",
+      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALFA Y OMEGA",
+        "url": "https://open.spotify.com/album/3wo8txPsFDPdlIIPd3ZghE"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 190263,
+      "name": "ALFA Y OMEGA",
+      "url": "https://open.spotify.com/track/314qc7qcc4idg1dvP6estp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sangre De Rancho",
         "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 160153,
       "name": "El Exceso Me Encanto",
       "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De La Escuelita Graduado",
-        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 163918,
-      "name": "De La Escuelita Graduado",
-      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,881 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,869 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 11 | [Gel Benimle](https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 4:23 |
 | 12 | [Tavla](https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:31 |
 | 13 | [Güneşe Dokundum](https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [Tepeler](https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z) | 2:53 |
-| 14 | [Unuttum Derdimi](https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Unuttum Derdimi](https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s) | 3:49 |
-| 15 | [Her Yerde Sen](https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Yerde Sen](https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0) | 3:39 |
+| 14 | [Her Yerde Sen](https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Yerde Sen](https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0) | 3:39 |
+| 15 | [Unuttum Derdimi](https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Unuttum Derdimi](https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s) | 3:49 |
 | 16 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
 | 17 | [Galiba Sevmiyorlar](https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Kötü Şeyler](https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5) | 2:59 |
 | 18 | [Sen Benim Şarkılarımsın](https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ) | [Gündoğarken](https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei) | [Bir Yaz Daha Bitiyor](https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl) | 2:59 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 24 | [Bildiğim Gibi](https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [Bildiğim Gibi](https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro) | 2:54 |
 | 25 | [Kaybolur](https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Kaybolur](https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ) | 4:52 |
 | 26 | [Şarkı Söylemek Lazım](https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Şarkı Söylemek Lazım](https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU) | 4:20 |
-| 27 | [Müteşekkir](https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:33 |
-| 28 | [Şarkılar Güzelse Hala](https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:37 |
-| 29 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
+| 27 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
+| 28 | [Müteşekkir](https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:33 |
+| 29 | [Şarkılar Güzelse Hala](https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:37 |
 | 30 | [Hatıralar](https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:36 |
 | 31 | [Gözlerinin Hapsindeyim](https://open.spotify.com/track/7B35SoCqYSOKiea23ZJ3QK) | [Kayahan](https://open.spotify.com/artist/71wTGSTWEPSLnfe7tA2wkX) | [Yemin Ettim](https://open.spotify.com/album/0wk9uSvvpf9DncU45NDb8V) | 2:52 |
 | 32 | [Çapkınca](https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çapkınca](https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo) | 3:38 |

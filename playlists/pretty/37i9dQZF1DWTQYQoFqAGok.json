@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64307,
+  "num_followers": 64309,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Groove Zone",
-        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
-      },
-      "artists": [
-        {
-          "name": "Pepe Hernandez",
-          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
-        }
-      ],
-      "duration_ms": 272771,
-      "name": "Nu Soul",
-      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/6IbnxAPwtYL8uJtgiYgJVG"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Semillas De Copinol",
         "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
       },
       "artists": [
         {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
         }
       ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
     },
     {
       "added_at": "2024-08-29 03:09:23",

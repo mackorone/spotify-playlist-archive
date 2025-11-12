@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 921319,
+  "num_followers": 921212,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Jumpin",
+        "url": "https://open.spotify.com/album/3cGPTrlJGeTpC5aJheKBYL"
+      },
+      "artists": [
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        },
+        {
+          "name": "ALKEMY",
+          "url": "https://open.spotify.com/artist/771D3936gQeS3Dw5qLcHR2"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Jumpin",
+      "url": "https://open.spotify.com/track/2hNss6COTP0Vev63tdcrz2"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
@@ -1387,30 +1411,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Jumpin",
-        "url": "https://open.spotify.com/album/3cGPTrlJGeTpC5aJheKBYL"
-      },
-      "artists": [
-        {
-          "name": "Luis Torres",
-          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
-        },
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        },
-        {
-          "name": "ALKEMY",
-          "url": "https://open.spotify.com/artist/771D3936gQeS3Dw5qLcHR2"
-        }
-      ],
-      "duration_ms": 164798,
-      "name": "Jumpin",
-      "url": "https://open.spotify.com/track/2hNss6COTP0Vev63tdcrz2"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Keep On Dancin\u2019",
-        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "Keep On Dancin\u2019",
-      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Droppin' It (La La La)",
         "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 156190,
       "name": "Droppin' It (La La La)",
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Keep On Dancin\u2019",
+        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Keep On Dancin\u2019",
+      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
       },
@@ -1735,22 +1755,18 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
+        "name": "Pump Up The Bass",
+        "url": "https://open.spotify.com/album/3pvkvEhntrf8LSkFYqRzVk"
       },
       "artists": [
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Kris Kiss",
-          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
         }
       ],
-      "duration_ms": 150875,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
+      "duration_ms": 214625,
+      "name": "Pump Up The Bass",
+      "url": "https://open.spotify.com/track/3iQAh7rg2thgBt1hm6rUca"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "808",
         "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 176692,
       "name": "808",
       "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1923,22 +1939,6 @@
       "duration_ms": 205846,
       "name": "No Ecstasy Love",
       "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Pump Up The Bass",
-        "url": "https://open.spotify.com/album/3pvkvEhntrf8LSkFYqRzVk"
-      },
-      "artists": [
-        {
-          "name": "D'Angello & Francis",
-          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Pump Up The Bass",
-      "url": "https://open.spotify.com/track/3iQAh7rg2thgBt1hm6rUca"
     }
   ],
   "unique_name": "Shuffle Syndrome",

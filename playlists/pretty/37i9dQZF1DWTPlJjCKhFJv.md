@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 
 > You can clean in summer too, don't sweat it
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,741 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,742 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 | 6 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 3:53 |
 | 7 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
 | 8 | [Bootleg Firecracker](https://open.spotify.com/track/5RiUovPs1eny08xABOB6WJ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/4i5d5kGQ1xE3BokTsAkuBU) | 3:20 |
-| 9 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
+| 9 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 6:10 |
 | 10 | [Edge](https://open.spotify.com/track/0buJlA4Ki50ZyfnyyAf5UR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 3:37 |
 | 11 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
 | 12 | [Apple featuring the japanese house](https://open.spotify.com/track/2VjDrlitBuCe8ucjaDkvOe) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Apple featuring the japanese house](https://open.spotify.com/album/2RUHosOID5YBfLYPwfQl6M) | 2:37 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 | 30 | [Somebody](https://open.spotify.com/track/78AZoiQnRHHKY0mf9Iy4RD) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strangers / Lovers](https://open.spotify.com/album/1a2Amnw2ZnlpSh83KYsf4k) | 3:10 |
 | 31 | [Angel](https://open.spotify.com/track/0NzkgLxpgruOwsolRuu36E) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Borrowed Heaven](https://open.spotify.com/album/5V282yl63bCEvTogUxqASg) | 3:25 |
 | 32 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
-| 33 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 |
+| 33 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 34 | [front seat honey](https://open.spotify.com/track/5bwErSkWEn7erwob3o00d0) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:07 |
-| 35 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
+| 35 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 |
 | 36 | [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 |
 | 37 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 38 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 |

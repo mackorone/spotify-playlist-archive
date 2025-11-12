@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 73017,
+  "num_followers": 73058,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,38 @@
     {
       "added_at": "2025-10-13 07:03:56",
       "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Merchane Family",
+          "url": "https://open.spotify.com/artist/1WDnC2xfV1qAmQl7X962Ru"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Chalabati",
+      "url": "https://open.spotify.com/track/3Tcr63qRR8bUc5YjMn7I7E"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
+        "name": "Aicha",
+        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 513816,
+      "name": "Youbati - Boulila",
+      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
         "name": "African Gnaoua Blues",
         "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
@@ -615,38 +647,6 @@
       "duration_ms": 362093,
       "name": "Mrahba",
       "url": "https://open.spotify.com/track/2zKuTLrINginlVwg75onMg"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
-        "name": "Aicha",
-        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 513816,
-      "name": "Youbati - Boulila",
-      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Merchane Family",
-          "url": "https://open.spotify.com/artist/1WDnC2xfV1qAmQl7X962Ru"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Chalabati",
-      "url": "https://open.spotify.com/track/3Tcr63qRR8bUc5YjMn7I7E"
     },
     {
       "added_at": "2025-10-13 07:03:56",

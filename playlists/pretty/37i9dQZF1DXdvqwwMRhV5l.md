@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 
 > Allerbeste songs uit de 00's! Cover: Dinand Woesthoff \(Kane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,379 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,386 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 | 15 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 |
 | 16 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 |
 | 17 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 |
-| 18 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
-| 19 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
-| 20 | [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 |
+| 18 | [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 |
+| 19 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
+| 20 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
 | 21 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 22 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 23 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 | 83 | [Because of You](https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Greatest Hits \- Chapter One](https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM) | 3:40 |
 | 84 | [Father & Friend](https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Live It Out](https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6) | 4:16 |
 | 85 | [Built to Last](https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Devils & Angels \(Standard Version\)](https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW) | 3:41 |
-| 86 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
-| 87 | [Big Yellow Taxi](https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Films About Ghosts \(The Best Of Counting Crows\)](https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb) | 3:45 |
+| 86 | [Big Yellow Taxi](https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Films About Ghosts \(The Best Of Counting Crows\)](https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb) | 3:45 |
+| 87 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
 | 88 | [Inside My Head](https://open.spotify.com/track/5UtvhLYNU64o73VrYjzbZY) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Discover](https://open.spotify.com/album/2gfEHNSCClgdKQB4VeoYV7) | 3:24 |
 | 89 | [Nine Million Bicycles](https://open.spotify.com/track/258WCBHPsUHZvyBJcY2LCw) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/4BoYXQwGGdlxKEKXNZcxjJ) | 3:15 |
 | 90 | [Left Outside Alone](https://open.spotify.com/track/3OLf2Gid7GdhRBPKi1ZPeP) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [The Best of Anastacia](https://open.spotify.com/album/0uO5BAM0HsJoC4PQxXKDAf) | 4:18 |

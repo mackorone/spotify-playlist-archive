@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,147 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,170 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,20 +28,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 18 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 |
 | 19 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 |
 | 20 | [Do Nothin' Till You Hear From Me \- 1956 Version](https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 4:16 |
-| 21 | [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
-| 22 | [It Had To Be You](https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:03 |
+| 21 | [It Had To Be You](https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:03 |
+| 22 | [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
 | 23 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
 | 24 | [Easy Living](https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 3:01 |
-| 25 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
-| 26 | [I'm a Fool to Want You](https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:23 |
+| 25 | [I'm a Fool to Want You](https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:23 |
+| 26 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
 | 27 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 |
 | 28 | [I Must Have That Man!](https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:03 |
-| 29 | [Tenderly](https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:19 |
-| 30 | [Baby, I Don't Cry Over You](https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 |
+| 29 | [Baby, I Don't Cry Over You](https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 |
+| 30 | [Tenderly](https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:19 |
 | 31 | [Day In Day Out](https://open.spotify.com/track/0jf1It36dfQZrBT8sEVLJM) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Songs For Distingué Lovers](https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw) | 6:49 |
 | 32 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 |
-| 33 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 |
-| 34 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
+| 33 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
+| 34 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 |
 | 35 | [Body And Soul](https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 6:18 |
 | 36 | [I Cover The Waterfront](https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:29 |
 | 37 | [God Bless The Child](https://open.spotify.com/track/2xtC6kb6H26qVX4ZdncS7f) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 49 | [Don't Explain](https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:24 |
 | 50 | [You Don't Know What Love Is](https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:48 |
 
-Snapshot ID: `aQ/ZgAAAAAD+P625xZlb0gYWuDoTD47o`
+Snapshot ID: `aRErAAAAAACb4M8O0GT+8mcUmgKG1inc`

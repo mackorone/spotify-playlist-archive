@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Vaundy",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Ado",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -4797,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "FMP",
+        "url": "https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204892,
+      "name": "FMP",
+      "url": "https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ"
+    },
+    {
+      "album": {
         "name": "Focus on me",
         "url": "https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn"
       },
@@ -5894,7 +5912,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 239472,
       "name": "GYOZA",
       "url": "https://open.spotify.com/track/7HAdYFd294rpZKWaKQ61DY"
@@ -7047,6 +7065,24 @@
     },
     {
       "album": {
+        "name": "BE:ST",
+        "url": "https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
+    },
+    {
+      "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
       },
@@ -8164,7 +8200,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 319633,
       "name": "Kiseki Wo Mattetatte",
       "url": "https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9"
@@ -14886,7 +14922,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 197853,
       "name": "Stare In Wonder",
       "url": "https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM"
@@ -18550,6 +18586,24 @@
       "duration_ms": 234586,
       "name": "\u3042\u3066\u3082\u306a\u304f",
       "url": "https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
+        "url": "https://open.spotify.com/album/7sXFcyqLpDJiLs4awycwQk"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213757,
+      "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
+      "url": "https://open.spotify.com/track/3lhSoYrMfyX9Mg24Fdp0eo"
     },
     {
       "album": {

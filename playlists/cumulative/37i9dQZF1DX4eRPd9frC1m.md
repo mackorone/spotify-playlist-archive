@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a> 💪💥
 
-447 songs - 1 day 0 hr 2 min
+448 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
 | [Seizure](https://open.spotify.com/track/5wqPpv0nROPAMg7h7R0wA8) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Seizure](https://open.spotify.com/album/4OFTlIf1lE1QToK9Ckrzla) | 2:51 | 2022-07-08 | 2023-03-18 |
 | [select@](https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:44 | 2025-01-17 |  |
-| [Set Me Free](https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Set Me Free](https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX) | 3:01 | 2025-01-17 |  |
+| [Set Me Free](https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Set Me Free](https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX) | 3:01 | 2025-01-17 | 2025-11-12 |
 | [Shake](https://open.spotify.com/track/1jRgrTBpB8GIB99bYjnDL3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Shake](https://open.spotify.com/album/6apexIQhAgroK41Kt6FOjd) | 3:14 | 2021-11-19 | 2022-01-08 |
 | [Shake It Off](https://open.spotify.com/track/2uXp1P1jPrjiVkKafgqYPW) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Shake It Off](https://open.spotify.com/album/0GzWA2pdhCEj2xvymykNOZ) | 2:17 | 2025-04-18 | 2025-04-29 |
 | [Sharp Shooter](https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80) | 3:43 | 2023-05-26 | 2023-08-19 |
@@ -381,6 +381,7 @@
 | [Stinger](https://open.spotify.com/track/0yrSc38VgNvTRVfzD01oDE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Stinger](https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3) | 3:50 | 2021-11-19 | 2022-01-08 |
 | [Stop Drop](https://open.spotify.com/track/4hW2wf0DhhaLvefFrM5zTN) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Stop Drop](https://open.spotify.com/album/0LJwceA0lLt26asDjvYUa5) | 5:02 | 2021-11-19 | 2022-01-08 |
 | [Street \- PEEKABOO Remix](https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Street \(PEEKABOO Remix\)](https://open.spotify.com/album/61xOtAdVCQIj6Ipt4MzgXd) | 4:11 | 2023-08-18 | 2023-09-10 |
+| [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 | 2025-11-11 |  |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-04-28 | 2025-05-13 |
 | [Switch \(with Nat James\) \- Kozmoz Remix](https://open.spotify.com/track/1Kp1WlBmhTvhtRUidGeSyt) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa), [Kozmoz](https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:28 | 2023-08-18 | 2023-09-10 |
 | [symphony no.5 in bass minor](https://open.spotify.com/track/1uvCbCFeAvYnZbx5LcBVsv) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [symphony no.5 in bass minor](https://open.spotify.com/album/1NGql2rFlIPyIdRqFrEa0P) | 2:58 | 2024-05-10 | 2025-04-19 |

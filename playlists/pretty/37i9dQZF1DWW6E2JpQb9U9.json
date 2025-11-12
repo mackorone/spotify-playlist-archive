@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 124599,
+  "num_followers": 124601,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
-        "name": "El Cintur\u00f3n Gris (En Vivo)",
-        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "El Cintur\u00f3n Gris - En Vivo",
-      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
-    },
-    {
-      "added_at": "2025-09-19 03:00:14",
-      "album": {
         "name": "Instante Eterno (ac\u00fastico en Vivo)",
         "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
+        "name": "El Cintur\u00f3n Gris (En Vivo)",
+        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 237037,
+      "name": "El Cintur\u00f3n Gris - En Vivo",
+      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
+    },
+    {
+      "added_at": "2025-09-19 03:00:14",
+      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -939,38 +939,6 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
-        "name": "Chivo Expiatorio (En Vivo)",
-        "url": "https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 298017,
-      "name": "Chivo Expiatorio - En Vivo",
-      "url": "https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe"
-    },
-    {
-      "added_at": "2025-09-19 03:00:14",
-      "album": {
-        "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
-        "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 294784,
-      "name": "Savia - Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
-    },
-    {
-      "added_at": "2025-09-19 03:00:14",
-      "album": {
         "name": "Memorias Del Olvido - En Vivo En Bogot\u00e1",
         "url": "https://open.spotify.com/album/1iBWS6Z4fWi6mmKZQf4LF5"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 311605,
       "name": "De la Guitarra - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
+    },
+    {
+      "added_at": "2025-09-19 03:00:14",
+      "album": {
+        "name": "Chivo Expiatorio (En Vivo)",
+        "url": "https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 298017,
+      "name": "Chivo Expiatorio - En Vivo",
+      "url": "https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe"
+    },
+    {
+      "added_at": "2025-09-19 03:00:14",
+      "album": {
+        "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
+        "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 294784,
+      "name": "Savia - Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
     },
     {
       "added_at": "2025-09-19 03:00:14",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
-    },
-    {
-      "added_at": "2025-09-19 03:00:14",
-      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
-        "name": "Veinticirco La Gira (En Vivo)",
-        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 249742,
-      "name": "Kil\u00f3metros - En Vivo",
-      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
+      "duration_ms": 244800,
+      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
     },
     {
       "added_at": "2025-09-19 03:00:14",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
+        "name": "Veinticirco La Gira (En Vivo)",
+        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 249742,
+      "name": "Kil\u00f3metros - En Vivo",
+      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
+    },
+    {
+      "added_at": "2025-09-19 03:00:14",
+      "album": {
         "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
         "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
-        "name": "Se Fue al Cielo (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 230528,
-      "name": "Se Fue al Cielo - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
-    },
-    {
-      "added_at": "2025-09-19 03:00:14",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2025-09-19 03:00:14",
+      "album": {
+        "name": "Se Fue al Cielo (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 230528,
+      "name": "Se Fue al Cielo - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
     },
     {
       "added_at": "2025-09-19 03:00:14",
@@ -1655,8 +1655,8 @@
     {
       "added_at": "2025-09-19 03:00:14",
       "album": {
-        "name": "La Fuente (Vivo en Obras 11/06/2022)",
-        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
+        "name": "Ni\u00f1o Abuelo (Vivo en Obras 20/12/2024)",
+        "url": "https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC"
       },
       "artists": [
         {
@@ -1664,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 251434,
-      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
-      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
+      "duration_ms": 280661,
+      "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
+      "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
     },
     {
       "added_at": "2025-09-19 03:00:14",

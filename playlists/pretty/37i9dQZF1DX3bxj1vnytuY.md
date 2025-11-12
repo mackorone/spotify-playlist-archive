@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,305 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,315 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 59 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 |
 | 60 | [Elgoa](https://open.spotify.com/track/4hLv1dWaXMwUjgyfRmE56p) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Hamada Hammy](https://open.spotify.com/artist/3ynNwCnPhBjoUFpNe3zoXl) | [Elgoa EP](https://open.spotify.com/album/794UFSLjBzEsZslOOC3ylc) | 7:01 |
 | 61 | [Atlas](https://open.spotify.com/track/6kzqQrcvMJOmyNYopwbVA4) | [Ateoo](https://open.spotify.com/artist/7mFcLxdq3SVTfDOnnoqXYL), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Atlas](https://open.spotify.com/album/2NEznFmMnif2LbUrHrLW4F) | 5:50 |
-| 62 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
+| 62 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 63 | [Tawada \- Saint Evo Remix](https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Anas Chlih](https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tawada](https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M) | 7:15 |
 | 64 | [Shelter of Hearts](https://open.spotify.com/track/59tv27hHZZMiBsXfVuwrMA) | [GMJ](https://open.spotify.com/artist/2jtEP3ZWQNoXeWQvjF86xU), [Matter](https://open.spotify.com/artist/477uzVK10OHa3NS2KXbnTh) | [Shelter of Hearts](https://open.spotify.com/album/1NgvZDLBodIcqEIxOdpjF8) | 7:58 |
 | 65 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 |

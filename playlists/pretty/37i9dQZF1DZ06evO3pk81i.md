@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,761 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,766 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 35 | [NTPD Recordar](https://open.spotify.com/track/6D8D4OY5Hp52frnZayENqQ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 3:16 |
 | 36 | [Bailando \- Live](https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Bailando \(Live\)](https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP) | 3:09 |
 | 37 | [HASTA EL FONDO](https://open.spotify.com/track/6Dj96onw1xh18NAsc8l3GY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:23 |
-| 38 | [48 Horas](https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:21 |
-| 39 | [Te Quiero a Ti \(Version Norteña\)](https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:21 |
+| 38 | [Te Quiero a Ti \(Version Norteña\)](https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:21 |
+| 39 | [48 Horas](https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:21 |
 | 40 | [En Ti Pensando](https://open.spotify.com/track/73HfMf0c93AZMEfY8udH6f) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:05 |
 | 41 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 |
 | 42 | [La Bella](https://open.spotify.com/track/3Eaz3p3w8eWm3UBiMW8RrE) | [Alfredo Manzo](https://open.spotify.com/artist/2bLVfd7SyWSloS4isXMazU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Bella](https://open.spotify.com/album/14BQ2d4IWbtNctmhiyV3ur) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 49 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
 | 50 | [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 |
 
-Snapshot ID: `aQ/ZgAAAAAA4ZRU8RJeldvEN3Ax7M4Zz`
+Snapshot ID: `aRErAAAAAACAiD5qIqGO7FY7Iy1bWULr`

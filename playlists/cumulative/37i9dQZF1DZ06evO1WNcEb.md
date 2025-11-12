@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-91 songs - 8 hr 4 min
+92 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Calma, Por favor \(Ao Vivo\)](https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o) | 4:05 | 2024-12-15 | 2025-04-17 |
 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 | 2023-08-21 | 2023-08-24 |
 | [Casa de Bênção](https://open.spotify.com/track/5ShkPfQmBWA1BT2uqu8S7Q) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 5:58 | 2023-07-09 |  |
+| [Chuva de Poder \(Ao Vivo\)](https://open.spotify.com/track/4OWwlfutzdzEWpq4fMF5Lp) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Chuva de Poder \(Ao Vivo\)](https://open.spotify.com/album/4vuFihJQt6LBnPaYSpDzHm) | 3:22 | 2025-11-12 |  |
 | [Com o Teu Fogo](https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:13 | 2023-12-19 |  |
 | [De Manhã \(Ao Vivo\)](https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [De Manhã \(Ao Vivo\)](https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3) | 4:35 | 2024-08-22 |  |
 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 | 2023-07-09 | 2025-01-03 |
@@ -64,7 +65,7 @@
 | [Nenhuma Condenação Há](https://open.spotify.com/track/24IEINiIOIkN4qGOvrxVUy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 3](https://open.spotify.com/album/3y6ualnXSZFNulRKap3vZr) | 4:27 | 2023-07-09 | 2023-11-11 |
 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 | 2023-07-09 |  |
 | [Não É Tarde \- Ao Vivo](https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [30 Anos na África \(Ao Vivo\)](https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw) | 3:16 | 2024-04-29 | 2025-03-25 |
-| [O Deus Que Eu Amo \(Ao Vivo\)](https://open.spotify.com/track/0sF54Gb2JduGLkhDFireir) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Deus Que Eu Amo \(Ao Vivo\)](https://open.spotify.com/album/2mGwdhWGTotonz1VHTxey0) | 3:44 | 2025-09-03 |  |
+| [O Deus Que Eu Amo \(Ao Vivo\)](https://open.spotify.com/track/0sF54Gb2JduGLkhDFireir) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Deus Que Eu Amo \(Ao Vivo\)](https://open.spotify.com/album/2mGwdhWGTotonz1VHTxey0) | 3:44 | 2025-09-03 | 2025-11-12 |
 | [O Milagre Sou Eu](https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Lucas Santos](https://open.spotify.com/artist/216ebrw2DF5jcgmTR06rtR) | [O Milagre Sou Eu](https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF) | 4:06 | 2023-07-09 |  |
 | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l) | 6:33 | 2025-11-05 |  |
 | [O Nome Santo de Jesus / Jesus \(Ao Vivo\)](https://open.spotify.com/track/2mqBuUEOPI9dq3jkhPJbvk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [O Nome Santo de Jesus / Jesus \(Ao Vivo\)](https://open.spotify.com/album/44SugMMq21GWWpPkgP7c60) | 5:30 | 2024-11-17 | 2025-06-26 |

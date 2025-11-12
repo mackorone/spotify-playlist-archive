@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "",
+        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
+    },
+    {
+      "album": {
+        "name": "",
         "url": "https://open.spotify.com/album/20tHwFUQPP8ZwjIyumlC0J"
       },
       "artists": [
@@ -4076,7 +4094,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5538,6 +5556,28 @@
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
+    },
+    {
+      "album": {
+        "name": "Burn The Flame (feat. SB19)",
+        "url": "https://open.spotify.com/album/5wHRHI1mmt4VMzsxT3jw6C"
+      },
+      "artists": [
+        {
+          "name": "Honor of Kings",
+          "url": "https://open.spotify.com/artist/6SyQf0xvpbCo2auehJzD9k"
+        },
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208027,
+      "name": "Burn The Flame (feat. SB19)",
+      "url": "https://open.spotify.com/track/3mvN8n8mg7X41CbGvc7xYU"
     },
     {
       "album": {
@@ -8024,7 +8064,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 209187,
       "name": "DAM",
       "url": "https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P"
@@ -18604,7 +18644,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 177376,
       "name": "Kaadhal Ponmaan (From \"Nellikkampoyil Night Riders\")",
       "url": "https://open.spotify.com/track/21s7NBfZO6vg7YpBipRvfT"
@@ -24458,7 +24498,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 254823,
       "name": "Neeye Punchiri - One Side Love",
       "url": "https://open.spotify.com/track/1yioABzRG4WFEkO98WV5l7"
@@ -25058,7 +25098,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -30290,7 +30330,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -32660,7 +32700,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -39720,7 +39760,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"

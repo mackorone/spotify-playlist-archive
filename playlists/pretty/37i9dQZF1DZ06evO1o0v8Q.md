@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,070 likes - 36 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,113 likes - 36 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 14 | [ENDLESS](https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:58 |
 | 15 | [Big Smile](https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:29 |
 | 16 | [Drop](https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:36 |
-| 17 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 |
+| 17 | [DULL](https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:18 |
 | 18 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
 | 19 | [High Pressure](https://open.spotify.com/track/6chFS0M9e67gNlHY11wnDm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
 | 20 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 |
-| 21 | [DULL](https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:18 |
+| 21 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 |
 | 22 | [UNDERWATER BOI](https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 3:04 |
 | 23 | [Keep It Moving](https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:17 |
 | 24 | [\(Lost Another\) Piece of My World](https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:51 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 35 | [Better Way](https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:31 |
 | 36 | [New Rules](https://open.spotify.com/track/41qY7F57ob5JSwboHiPoBk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 2:36 |
 
-Snapshot ID: `aQ/ZgAAAAAB39o/s5QitOGzTVAxAuZ9u`
+Snapshot ID: `aRErAAAAAABZdBqfx2WdL4FBEvl0sSZq`

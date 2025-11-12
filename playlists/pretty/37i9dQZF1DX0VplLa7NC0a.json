@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 40047,
+  "num_followers": 40055,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -839,30 +839,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
-      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
         "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 499626,
       "name": "Variazzioni di clarinetto in C Major",
       "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
+      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
     },
     {
       "added_at": "2025-09-15 14:00:16",

@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 197019,
+  "num_followers": 197050,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Grande",
-        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
-      },
-      "artists": [
-        {
-          "name": "Von Wegen Lisbeth",
-          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
-        }
-      ],
-      "duration_ms": 230413,
-      "name": "Wenn du tanzt",
-      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Powerbausa",
         "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 203630,
       "name": "Was du Liebe nennst",
       "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
+      },
+      "artists": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
+        }
+      ],
+      "duration_ms": 230413,
+      "name": "Wenn du tanzt",
+      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 259346,
-      "name": "Der Weg",
-      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215786,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 259346,
+      "name": "Der Weg",
+      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "F\u00fcr immer ab jetzt",
-        "url": "https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339"
-      },
-      "artists": [
-        {
-          "name": "Johannes Oerding",
-          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "F\u00fcr immer ab jetzt",
-      "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "paris syndrom (dach session)",
         "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 170658,
       "name": "paris syndrom - dach session",
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "F\u00fcr immer ab jetzt",
+        "url": "https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339"
+      },
+      "artists": [
+        {
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
+        }
+      ],
+      "duration_ms": 231946,
+      "name": "F\u00fcr immer ab jetzt",
+      "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
     },
     {
       "added_at": "2025-03-26 13:54:44",

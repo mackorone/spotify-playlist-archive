@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,357 songs - 2 day 20 hr 29 min
+1,358 songs - 2 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,7 +600,8 @@
 | [Hayırlı Günler 2.0](https://open.spotify.com/track/5XtjwTxPMiACfmHid66Kmj) | [Batusyex](https://open.spotify.com/artist/35yu1Gbfpc5yhLd7nqpZ4S), [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR) | [Hayırlı Günler 2.0](https://open.spotify.com/album/0BteimbqmxUEBZOU3QmsuZ) | 1:56 | 2024-03-23 | 2024-03-25 |
 | [Hayırlı Günler 2.0](https://open.spotify.com/track/0yOlGWIRXS0PL1EIvWId1H) | [ferhatşandır](https://open.spotify.com/artist/4e3mnWgp9R1wJ9Iss5DwgR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [Hayırlı Günler 2.0](https://open.spotify.com/album/0Fr4EBaeGyXAZibNMCYwuE) | 1:56 | 2024-03-13 | 2024-03-17 |
 | [Hayırlı Günler 2.0](https://open.spotify.com/track/6aIZ437qo18S0y6YIoLJih) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt) | [Hayırlı Günler](https://open.spotify.com/album/583iMAGHX2C26cZfEnssff) | 1:56 | 2024-03-19 | 2024-03-21 |
-| [Heba Olan Dünler](https://open.spotify.com/track/4yZCCXHXgO4UZy4ye15yq7) | [S3R Music](https://open.spotify.com/artist/4dzh7DQAOPGgQ1ZaQuJpMw) | [Heba Olan Dünler](https://open.spotify.com/album/7lSkBKVNTeqw5uTBPMZBwg) | 6:39 | 2025-11-06 |  |
+| [Heba Olan Dünler](https://open.spotify.com/track/7BKu0WSv3sQiSfii07Ynha) | [666 Psycho Music](https://open.spotify.com/artist/4530kVy7xmyszFIoWLwz3W) | [Heba Olan Dünler](https://open.spotify.com/album/6umoQY72torhBJXtbHrv71) | 6:39 | 2025-11-11 |  |
+| [Heba Olan Dünler](https://open.spotify.com/track/4yZCCXHXgO4UZy4ye15yq7) | [S3R Music](https://open.spotify.com/artist/4dzh7DQAOPGgQ1ZaQuJpMw) | [Heba Olan Dünler](https://open.spotify.com/album/7lSkBKVNTeqw5uTBPMZBwg) | 6:39 | 2025-11-06 | 2025-11-12 |
 | [Hele Bi \(Club Version\)](https://open.spotify.com/track/6iDXzCkxKklISwvWbPz8Lv) | [Alişan](https://open.spotify.com/artist/321nPMiJ4ZY5ihxMz99R4J) | [Ve Kimselere Güvenmiyorum](https://open.spotify.com/album/27fIai0ddD2PqECy6GmcZv) | 4:03 | 2023-09-18 | 2023-11-28 |
 | [Hep De Yorgun](https://open.spotify.com/track/0ywlnV6QEZneCbbqLev6qL) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Keşke Herkes](https://open.spotify.com/album/38U7toi0UImOfSe76qxQtE) | 3:05 | 2022-11-28 | 2023-03-04 |
 | [Hep Mi Ben](https://open.spotify.com/track/4eDT9NP6B0OJnd5nKuBseL) | [Ayaz Erdoğan](https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA) | [Hep Mi Ben](https://open.spotify.com/album/2Ry7nIEn65HRl8jlxJNP1G) | 3:38 | 2022-04-03 | 2022-09-11 |

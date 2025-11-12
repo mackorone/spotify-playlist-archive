@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 89 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 | 90 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcBPxgAAAAAKwGky60ywzbkXZ0YES1pd`
+Snapshot ID: `AcBVZgAAAABGQRIP6cFFnUMFKlQjmCE3`

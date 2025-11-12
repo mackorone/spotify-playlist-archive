@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,738 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,747 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 51 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 |
 | 52 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 |
 | 53 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
-| 54 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 |
-| 55 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
+| 54 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
+| 55 | [Tardes de Melancolía](https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 3:30 |
 | 56 | [Vos](https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Vos](https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t) | 3:18 |
 | 57 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 58 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 83 | [Flaca](https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Flaca](https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs) | 3:46 |
 | 84 | [Dije que sí](https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Decir que sí](https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0) | 2:18 |
 | 85 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
-| 86 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
+| 86 | [No me Arrepiento de este Amor](https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de este Amor](https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT) | 3:01 |
 | 87 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 |
-| 88 | [No me Arrepiento de este Amor](https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de este Amor](https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT) | 3:01 |
-| 89 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 |
-| 90 | [Visa](https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Visa](https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o) | 3:07 |
+| 88 | [Dopamina](https://open.spotify.com/track/7ontkt96zdqa5SOxdA8xFu) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Dopamina](https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01) | 3:14 |
+| 89 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
+| 90 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 |
 
 Snapshot ID: `AAAAABxkWv6xdV9HR0ZdmCTK8TvJuAEU`

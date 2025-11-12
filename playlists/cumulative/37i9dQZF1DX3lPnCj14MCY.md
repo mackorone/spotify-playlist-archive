@@ -4,7 +4,7 @@
 
 > Embrace all colours with your favourite anthems\. "Let's have a kiki!"
 
-100 songs - 6 hr 42 min
+100 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Heavy Cross](https://open.spotify.com/track/428Dl0NOBojmUS98R2pDHr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/1GB8gZTSdbiup5FzxNknRo) | 4:02 | 2025-06-20 |  |
 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 | 2025-06-20 |  |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2025-06-20 |  |
-| [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 | 2025-06-20 |  |
+| [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 | 2025-06-20 |  |
 | [Hot Stuff \- 12" Version](https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 6:47 | 2025-06-20 |  |
 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 | 2025-06-20 |  |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2025-06-20 |  |

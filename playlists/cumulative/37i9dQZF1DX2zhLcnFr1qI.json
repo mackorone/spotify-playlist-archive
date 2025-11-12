@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Baby, it's cold outside \ud83c\udf81\ud83c\udf32 here's some EDM to keep warm!",
-  "name": "Electronic Christmas",
+  "description": "Baby, it's cold outside \ud83c\udf32\ud83c\udf81 here's some EDM to keep warm!",
+  "name": "Christmas EDM",
   "tracks": [
     {
       "album": {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "All I Want for Christmas",
       "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
@@ -222,10 +222,36 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 151448,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ"
+    },
+    {
+      "album": {
+        "name": "Alone For Christmas",
+        "url": "https://open.spotify.com/album/4rCM5rGwCxFgI2BRdsnRTY"
+      },
+      "artists": [
+        {
+          "name": "Moonsound",
+          "url": "https://open.spotify.com/artist/1jfhMoC88bueFbxYuwUpNN"
+        },
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/3Zd5lZmsC7lqZPXHBqNUSe"
+        },
+        {
+          "name": "Bianca Tilici",
+          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Alone For Christmas",
+      "url": "https://open.spotify.com/track/3QcoC0ShW882Ne43pRtx8H"
     },
     {
       "album": {
@@ -244,7 +270,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 191478,
       "name": "Angels we have Heard",
       "url": "https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ"
@@ -350,7 +376,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 157440,
       "name": "Battle - Cause & Affect Jingle Bells Remix",
       "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
@@ -416,7 +442,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 199384,
       "name": "Carnival - Xmas Edition",
       "url": "https://open.spotify.com/track/46DEBWLA2nsbvzrsLTraEF"
@@ -496,7 +522,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 206125,
       "name": "Caroling Caroling",
       "url": "https://open.spotify.com/track/6bHwkInIrzlxdtpLSaRcU6"
@@ -602,7 +628,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 167373,
       "name": "Christmas is Here (feat. Late Night Alumni)",
       "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
@@ -628,7 +654,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 145029,
       "name": "Christmas Rave",
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
@@ -650,7 +676,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "Christmas Tequila",
       "url": "https://open.spotify.com/track/4efYndb7hVjS7UsslN7OXP"
@@ -706,6 +732,24 @@
       "duration_ms": 168857,
       "name": "christmas time",
       "url": "https://open.spotify.com/track/7rkuXl7laeAVFZwWzMR8Tl"
+    },
+    {
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/6Sx4I1xJq1JAHQW2B0oeq2"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/7HRdJq5bMNsHWSuL9dydRh"
     },
     {
       "album": {
@@ -794,7 +838,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 147096,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO"
@@ -816,6 +860,36 @@
       "duration_ms": 205840,
       "name": "Cold December",
       "url": "https://open.spotify.com/track/7MhkmIAz4WiJKRxWbjuy7b"
+    },
+    {
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/08THEEV4Duc2rMjpXrThRN"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "Sand\u00ebro",
+          "url": "https://open.spotify.com/artist/2puv5ixqpJlgnHDqgQ4N8C"
+        },
+        {
+          "name": "Carl Lazy",
+          "url": "https://open.spotify.com/artist/6gyMxOyNvsTT7WbuFNbUKi"
+        },
+        {
+          "name": "Karlie Chui",
+          "url": "https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/2xSBRgIr6kq1zass3gKqT0"
     },
     {
       "album": {
@@ -922,7 +996,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175920,
       "name": "Do They Know It's Christmas",
       "url": "https://open.spotify.com/track/0JJbG4ZjiJU7GsybxcLs2r"
@@ -1006,6 +1080,28 @@
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/4QmuuapUu0BmINYlqJ1AR4"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "F4ST",
+          "url": "https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129936,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/4ImguD6MyMd3tXvDyPHe4J"
     },
     {
       "album": {
@@ -1151,6 +1247,40 @@
     },
     {
       "album": {
+        "name": "Elements Of Life Christmas EP",
+        "url": "https://open.spotify.com/album/7bKv4AhrphInwWY1QqYfEU"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Elements Of Life",
+          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
+        },
+        {
+          "name": "Cindy Mizelle",
+          "url": "https://open.spotify.com/artist/3gyPrhQ5NNNl84banW4UZX"
+        },
+        {
+          "name": "Fonzi Thornton",
+          "url": "https://open.spotify.com/artist/2yIqYxsD6KKEf5RtCmhNid"
+        },
+        {
+          "name": "Patricia Lacy",
+          "url": "https://open.spotify.com/artist/2DjRC8czthnK1KHhbiXJNh"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "Holidaze",
+      "url": "https://open.spotify.com/track/5T7kGbU0UdIUHrOM8TUpCM"
+    },
+    {
+      "album": {
         "name": "Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/1OKH32KFWv5cf2mTb8ENEz"
       },
@@ -1162,7 +1292,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 305806,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/0JtruSwwDucpjKnUnKhz0b"
@@ -1404,7 +1534,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 224400,
       "name": "Hush Dear Santa",
       "url": "https://open.spotify.com/track/7uS0lTOVielpbtTmFz4xY4"
@@ -1470,7 +1600,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 156046,
       "name": "I've Got My Love To Keep Me Warm - Somni Remix",
       "url": "https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH"
@@ -1532,7 +1662,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
@@ -1594,7 +1724,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Jingle Bass - VIP",
       "url": "https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ"
@@ -1620,6 +1750,24 @@
       "duration_ms": 180800,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf"
+    },
+    {
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/28djuUPQWHLDkLM1t1KXsF"
+      },
+      "artists": [
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138867,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3IfDmeHTrKYgncHJQlrSnn"
     },
     {
       "album": {
@@ -1740,7 +1888,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 165960,
       "name": "Jingle Bells - Bass",
       "url": "https://open.spotify.com/track/49yqMGuhxv3PdgDFamDC9b"
@@ -1849,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Jul Dance Musik 2023",
+        "url": "https://open.spotify.com/album/0UoOFxwkmbQidy3xoCwbNm"
+      },
+      "artists": [
+        {
+          "name": "Holly Jolly",
+          "url": "https://open.spotify.com/artist/39eJFvfRccrkymEmChAPRK"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225337,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/275N20G5hxfkSb8ewr7p8m"
+    },
+    {
+      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/54g1r68fEM0mbkMt7OmFku"
       },
@@ -1872,7 +2038,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 148871,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5K8Ka64VtY8EoqfNgKqYlN"
@@ -1934,7 +2100,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 167072,
       "name": "Last Christmas (with Francesco Yates)",
       "url": "https://open.spotify.com/track/5rKIc3sIadrg4VN52lSh5h"
@@ -2043,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Christmas Dance Party Vol. 3",
+        "url": "https://open.spotify.com/album/6n2zy0HMGa0pEixPURUIIf"
+      },
+      "artists": [
+        {
+          "name": "Miss L Toe",
+          "url": "https://open.spotify.com/artist/4m6LQyUKnCpr9byjgP2Ir5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/49ibLtKCURuFRgVaLWSEI6"
+    },
+    {
+      "album": {
         "name": "Merry Christmas Everyone",
         "url": "https://open.spotify.com/album/2zevqdtw3BNaySrejjLyLE"
       },
@@ -2098,7 +2282,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225066,
       "name": "My Heart Is Heading Home (This Christmas) - 7th Heaven's Xmas Overload Radio Edit",
       "url": "https://open.spotify.com/track/5jrXGISvLdnGLNR2Kd9kQq"
@@ -2186,7 +2370,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Rock Them Bells",
       "url": "https://open.spotify.com/track/0epMkNX1trzXudrhMzgXxj"
@@ -2270,7 +2454,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158450,
       "name": "Rocking Around the Christmas Tree - Gabry Ponte Edit",
       "url": "https://open.spotify.com/track/3wCNjDELtnQcSQEkzsq4O4"
@@ -2322,7 +2506,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153023,
       "name": "Rudolph the Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/7369sadyMpc7FGBiQPImg4"
@@ -2388,7 +2572,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 125039,
       "name": "Santa Claus is Coming to Town",
       "url": "https://open.spotify.com/track/6ppTKW0ZDkuf18ckdpMOel"
@@ -2410,7 +2594,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 157815,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc"
@@ -2520,7 +2704,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193144,
       "name": "Somewhere In My Memory (Home Alone Theme)",
       "url": "https://open.spotify.com/track/5ZfBrAjAr1TRYl9H8Ltc5p"
@@ -2560,7 +2744,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 246493,
       "name": "Still Still Still",
       "url": "https://open.spotify.com/track/5KZjGGlnhMHQpVoMhbSX01"
@@ -2600,7 +2784,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 210357,
       "name": "THANK YOU MARIAH",
       "url": "https://open.spotify.com/track/2V2oqrlk22uH9Cjv8CICn8"
@@ -2688,7 +2872,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 241875,
       "name": "Tropical Holiday",
       "url": "https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu"
@@ -2713,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Christmas Dance Party Vol. 2",
+        "url": "https://open.spotify.com/album/0xWMPWLiF1VAU72qr96ew2"
+      },
+      "artists": [
+        {
+          "name": "Mistle Tunes",
+          "url": "https://open.spotify.com/artist/7qIJc7vL4C5KovgT0qR3RN"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206402,
+      "name": "Underneath The Tree",
+      "url": "https://open.spotify.com/track/5jpWarFbAPgAHi7heDAeaJ"
+    },
+    {
+      "album": {
         "name": "A Very Decent Christmas 5",
         "url": "https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz"
       },
@@ -2724,10 +2926,36 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 137600,
       "name": "WAWA - Xmas Edition",
       "url": "https://open.spotify.com/track/4ogkYfqk0DRvmQgpghCpEj"
+    },
+    {
+      "album": {
+        "name": "We Wish You A Merry Christmas",
+        "url": "https://open.spotify.com/album/1ZJ1Mc23tkKYi5F4srBp1A"
+      },
+      "artists": [
+        {
+          "name": "Acko",
+          "url": "https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi"
+        },
+        {
+          "name": "GREGG",
+          "url": "https://open.spotify.com/artist/3Dd8hs6oduPlzzHhqtYAzM"
+        },
+        {
+          "name": "Medusa",
+          "url": "https://open.spotify.com/artist/08Cmz2Whs8UYTPT4Th0c8w"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/0cfu7nvZeY8jvSiRujJqgv"
     },
     {
       "album": {
@@ -2760,7 +2988,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218244,
       "name": "Whim",
       "url": "https://open.spotify.com/track/6PAWxLsMLFV7yNinpK6eJY"
@@ -2778,10 +3006,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 368918,
       "name": "White Christmas - Original Mix",
       "url": "https://open.spotify.com/track/7mIf5heujHBQPOi6cnDDBF"
+    },
+    {
+      "album": {
+        "name": "Christmas Dance Party Vol. 3",
+        "url": "https://open.spotify.com/album/6n2zy0HMGa0pEixPURUIIf"
+      },
+      "artists": [
+        {
+          "name": "Holly Jolly",
+          "url": "https://open.spotify.com/artist/39eJFvfRccrkymEmChAPRK"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204210,
+      "name": "Why Couldn't It Be Christmas Every Day",
+      "url": "https://open.spotify.com/track/3kwdJkNaprSFMJIxX1mGUl"
     },
     {
       "album": {
@@ -2858,7 +3104,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 123250,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0nbeg7UUXdyAs1MBUhi9B4"
@@ -2898,7 +3144,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 178739,
       "name": "Winter Wonderland ^Bsiide",
       "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
@@ -2992,7 +3238,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173043,
       "name": "Wonderful Dream (Holidays Are Coming)",
       "url": "https://open.spotify.com/track/4GQr5He2pvm4UKc63esd2a"

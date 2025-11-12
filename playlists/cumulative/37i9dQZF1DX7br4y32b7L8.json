@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
+    },
+    {
+      "album": {
         "name": "0612345678",
         "url": "https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g"
       },
@@ -5336,6 +5354,32 @@
       "duration_ms": 134398,
       "name": "GO BESTFRIEND",
       "url": "https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo"
+    },
+    {
+      "album": {
+        "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
+        "url": "https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154151,
+      "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
+      "url": "https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS"
     },
     {
       "album": {
@@ -14740,7 +14784,7 @@
       },
       "artists": [
         {
-          "name": "Mariana Froes",
+          "name": "Mari Froes",
           "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         },
         {

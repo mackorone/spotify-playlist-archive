@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 29391,
+  "num_followers": 29403,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -191,22 +175,18 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Good Girl Gone Bad",
-        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 275986,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -227,6 +207,26 @@
       "duration_ms": 248866,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -283,22 +283,6 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -371,6 +355,22 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Ill Na Na",
-        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
-      },
-      "artists": [
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
-        {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Get Me Home",
-      "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Be",
         "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 241133,
       "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
       "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Ill Na Na",
+        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Get Me Home",
+      "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
     },
     {
       "added_at": "2022-10-01 16:13:28",

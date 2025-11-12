@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🕊️ ☮️ FML PAZ NOS ESTADIOS ☮️ 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,274 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,168 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

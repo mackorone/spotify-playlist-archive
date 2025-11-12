@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,183 likes - 75 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,219 likes - 75 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 27 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 |
 | 28 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
 | 29 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
-| 30 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
-| 31 | [Vou Deixar na Cruz](https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Profeta da Esperança](https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF) | 4:40 |
+| 30 | [Vou Deixar na Cruz](https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Profeta da Esperança](https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF) | 4:40 |
+| 31 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 32 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
 | 33 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 |
 | 34 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |

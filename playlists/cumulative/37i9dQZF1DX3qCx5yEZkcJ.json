@@ -6089,6 +6089,32 @@
     },
     {
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb"
+      },
+      "artists": [
+        {
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132507,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV"
+    },
+    {
+      "album": {
         "name": "Midnight Run (feat. Lex (de Kalhex))",
         "url": "https://open.spotify.com/album/7mbryiUrIzyLEqTLfwjmTk"
       },
@@ -8604,7 +8630,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 102000,
       "name": "settle down",
       "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"

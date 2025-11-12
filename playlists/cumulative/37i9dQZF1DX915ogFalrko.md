@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-152 songs - 9 hr 9 min
+153 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Note to self](https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Note to self](https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ) | 2:45 | 2025-09-25 | 2025-09-29 |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 |  |
 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 | 2025-08-07 |  |
+| [Out Of The Blue](https://open.spotify.com/track/1RSn4iuoSFtw1K8VvWmzcn) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Evan Klar](https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2) | [P.S I Love You](https://open.spotify.com/album/0rOSkVbGUhgFTrpRJL6vqn) | 2:56 | 2025-11-06 |  |
 | [Out of Time Man](https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two of Diamonds](https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5) | 2:57 | 2025-07-18 |  |
 | [Paradis bleu](https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Paradis bleu](https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg) | 3:57 | 2025-07-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Peace of Mind](https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG) | 2:36 | 2025-07-18 | 2025-08-22 |
@@ -121,7 +122,7 @@
 | [So Be So Mine](https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [So Be So Mine](https://open.spotify.com/album/6a2sEWy5mmfAcsaSW3tt7Q) | 2:54 | 2025-09-25 | 2025-11-09 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 | 2025-07-18 |  |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2025-07-18 |  |
-| [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-12 |  |
+| [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-12 | 2025-11-12 |
 | [Sorry I'm Late, I Didn't Want To Come \- Roosevelt Remix](https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Sorry I'm Late, I Didn't Want To Come \(Roosevelt Remix\)](https://open.spotify.com/album/40kYWTnePUZyDB8K59cAiW) | 4:47 | 2025-08-01 | 2025-10-17 |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-07-18 |  |
 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 | 2025-07-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Droomsindroom & Zaan Sonnekus
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,400 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,438 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 38 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 39 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 40 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
-| 41 | [Immergroen](https://open.spotify.com/track/1DGsEvO8jHMwuZ5EVVh5zM) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Immergroen](https://open.spotify.com/album/78vTENLVOhq8juVKS5Mg8i) | 4:10 |
-| 42 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
+| 41 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
+| 42 | [Immergroen](https://open.spotify.com/track/1DGsEvO8jHMwuZ5EVVh5zM) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Immergroen](https://open.spotify.com/album/78vTENLVOhq8juVKS5Mg8i) | 4:10 |
 | 43 | [Doen Cool Shit](https://open.spotify.com/track/6DjQ7xUb6uofL8X7gUum8P) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Doen Cool Shit](https://open.spotify.com/album/3En5F5P3LFrHDfosi7GliO) | 3:13 |
 | 44 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 45 | [death\~](https://open.spotify.com/track/5PwUH6sqXKupgL1pXshfuo) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [death\~](https://open.spotify.com/album/7bjMoDctYIAITjylNYNRY2) | 1:52 |
-| 46 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
-| 47 | [Hou Weer Moed](https://open.spotify.com/track/34pyJmYIP3R26RuFvZ0ISo) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Emile Swiegers](https://open.spotify.com/artist/1QgprmdltHPfJ6FjdXvz2i) | [Hou Weer Moed](https://open.spotify.com/album/6UJ9O5EIWbwqHDsDy9Ck8N) | 4:06 |
+| 46 | [Hou Weer Moed](https://open.spotify.com/track/34pyJmYIP3R26RuFvZ0ISo) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Emile Swiegers](https://open.spotify.com/artist/1QgprmdltHPfJ6FjdXvz2i) | [Hou Weer Moed](https://open.spotify.com/album/6UJ9O5EIWbwqHDsDy9Ck8N) | 4:06 |
+| 47 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 48 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 | 49 | [Bokbefok](https://open.spotify.com/track/0YwiKZs3LZ7nIyHYTX8fb1) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bokbefok](https://open.spotify.com/album/4ZLqEGdLtWa98K7bA9hcPo) | 2:47 |
-| 50 | [High Roller](https://open.spotify.com/track/4UOYQpDkGR2mdU5X2WUOog) | [RICKY](https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj) | [High Roller](https://open.spotify.com/album/4RtnRoYPCKGyV2vvgLxOil) | 3:04 |
+| 50 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 
 Snapshot ID: `AAAAADlTlEr1BENZ+q6JMSLDuYn01vHe`

@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 64181,
+  "num_followers": 64200,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -192,16 +192,12 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
           "name": "Joe L Barnes",
           "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
       "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes)",
+      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
@@ -300,16 +296,16 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
           "name": "Cody Carnes",
           "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
       "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
+      "name": "Firm Foundation (He Won't)[Feat. Chandler Moore]",
       "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
@@ -849,6 +845,22 @@
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "I Need You Now",
+        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Nara",
@@ -891,22 +903,6 @@
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "I Need You Now",
-        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "I Need You Now",
-      "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
     },
     {
       "added_at": "2023-12-01 00:01:00",

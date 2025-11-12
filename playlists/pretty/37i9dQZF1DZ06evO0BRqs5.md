@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,597 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,595 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 19 | [月を追う真夜中](https://open.spotify.com/track/7iuJWDLufY9spbErOgImjj) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:16 |
 | 20 | [春〜spring〜](https://open.spotify.com/track/6Qot77kbGLMMlNsDnEEyN0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:23 |
 | 21 | [サンビカ](https://open.spotify.com/track/5w8BuUpt4CORux5GjRAtXd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:49 |
-| 22 | [深い森](https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [翼](https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN) | 4:26 |
-| 23 | [GENESIS](https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:38 |
+| 22 | [GENESIS](https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:38 |
+| 23 | [深い森](https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [翼](https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN) | 4:26 |
 | 24 | [約束](https://open.spotify.com/track/28YoNQJtIp77Nn3h8fl5Dv) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:46 |
 | 25 | [KASUMI](https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:40 |
 | 26 | [MEMORIA orchestra ver.](https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:29 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 41 | [フェイスレス](https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:26 |
 | 42 | [ヒトカケラの勇気](https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 3:52 |
 | 43 | [YeLL](https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:20 |
-| 44 | [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 |
-| 45 | [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 |
-| 46 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 |
-| 47 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 |
+| 44 | [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 |
+| 45 | [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 |
+| 46 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 |
+| 47 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 |
 | 48 | [FROATIN'](https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 |
-| 49 | [PHOENIX PRAYER \-TV size ver\-](https://open.spotify.com/track/2ZNivi9MHFRMpXFMB74G4V) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER \-special edition](https://open.spotify.com/album/6YzzWuOx0NtLffVP3UA521) | 1:29 |
-| 50 | [ずっとそばで](https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 |
+| 49 | [ずっとそばで](https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 |
+| 50 | [PHOENIX PRAYER \-TV size ver\-](https://open.spotify.com/track/2ZNivi9MHFRMpXFMB74G4V) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER \-special edition](https://open.spotify.com/album/6YzzWuOx0NtLffVP3UA521) | 1:29 |
 
-Snapshot ID: `aQ/ZgAAAAADassZkwjszEu4AvvKC0V0h`
+Snapshot ID: `aRErAAAAAAC45quLU6G/weyXRAKncAnz`

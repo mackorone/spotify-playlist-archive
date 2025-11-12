@@ -5765,28 +5765,6 @@
     },
     {
       "album": {
-        "name": "Mata Sede",
-        "url": "https://open.spotify.com/album/7nxl1QFQaHyy6ovhcWaddt"
-      },
-      "artists": [
-        {
-          "name": "La Dame Blanche",
-          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
-        },
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "date_added": "2021-10-20",
-      "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
-      "duration_ms": 195667,
-      "name": "Mata Sede",
-      "url": "https://open.spotify.com/track/00cXGXJcYmzfHut7Vvvuoa"
-    },
-    {
-      "album": {
         "name": "Cosas Del Universo",
         "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
       },
@@ -5808,8 +5786,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237244,
-      "name": "Maz Paz",
+      "name": "Mas Paz",
       "url": "https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg"
+    },
+    {
+      "album": {
+        "name": "Mata Sede",
+        "url": "https://open.spotify.com/album/7nxl1QFQaHyy6ovhcWaddt"
+      },
+      "artists": [
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+        },
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-17",
+      "duration_ms": 195667,
+      "name": "Mata Sede",
+      "url": "https://open.spotify.com/track/00cXGXJcYmzfHut7Vvvuoa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 470802,
+  "num_followers": 470854,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAD9SqaZ2aX5VCWA+ssQfcf5",
+  "snapshot_id": "aRErAAAAAAC2W8Iyipel+N2gTO/6kG3O",
   "tracks": [
     {
       "added_at": null,
@@ -139,34 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
         "url": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
       },
@@ -199,6 +171,34 @@
       "duration_ms": 243490,
       "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Rich As Fuck",
-      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hall Of Fame (Deluxe)",
         "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Rich As Fuck",
+      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
     },
     {
       "added_at": null,
@@ -919,26 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here I Stand",
-        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
+        "name": "Three Ringz (Thr33 Ringz) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/2J2PDIvk1YCTFy0HbJjyr7"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 309040,
-      "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
+      "duration_ms": 273826,
+      "name": "Can't Believe It (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/4D2cYdHqk8tu65jUig4OcN"
     },
     {
       "added_at": null,
@@ -963,22 +959,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Ringz (Thr33 Ringz) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/2J2PDIvk1YCTFy0HbJjyr7"
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
       "artists": [
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 273826,
-      "name": "Can't Believe It (feat. Lil' Wayne)",
-      "url": "https://open.spotify.com/track/4D2cYdHqk8tu65jUig4OcN"
+      "duration_ms": 309040,
+      "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
     },
     {
       "added_at": null,

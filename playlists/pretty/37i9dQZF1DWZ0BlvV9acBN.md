@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rosa de Saron
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,729 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,737 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,16 +54,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 44 | [O Meu Lugar](https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [O Meu Lugar](https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2) | 4:05 |
 | 45 | [Na Corte do Egito \- Ao Vivo](https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Na Corte do Egito \(Ao Vivo\)](https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz) | 4:44 |
 | 46 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
-| 47 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
-| 48 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
+| 47 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
+| 48 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
 | 49 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
-| 50 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
-| 51 | [Boom!](https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Boom!](https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC) | 3:02 |
+| 50 | [Boom!](https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Boom!](https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC) | 3:02 |
+| 51 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 52 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |
 | 53 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
 | 54 | [Grito de Katsbarnea](https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [Grito de Katsbarnea](https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK) | 3:28 |
-| 55 | [Filho do Homem](https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR) | [Rafa Couto](https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Filho do Homem](https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee) | 2:57 |
-| 56 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
+| 55 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
+| 56 | [Filho do Homem](https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR) | [Rafa Couto](https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Filho do Homem](https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee) | 2:57 |
 | 57 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
 | 58 | [Celebre \- Ao Vivo](https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Celebre \(Ao Vivo\)](https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY) | 4:09 |
 | 59 | [Ele é o Senhor \- Ao Vivo](https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Ele é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU) | 7:41 |

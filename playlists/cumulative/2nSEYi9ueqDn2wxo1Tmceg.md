@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,571 songs - 4 day 10 hr 12 min
+1,573 songs - 4 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Corazón / Death by Disco Pt\. 2 \- Hercules & Love Affair Remix](https://open.spotify.com/track/5565gISyxKOw3wdwARlSCr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Corazón / Death by Disco Pt\. 2 \(Hercules & Love Affair Remix\)](https://open.spotify.com/album/6VGrtufCnGNIMdNDDpfqRS) | 3:36 | 2025-07-02 | 2025-08-14 |
 | [Corner Of My Eye](https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Corner Of My Eye](https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs) | 3:19 | 2023-01-04 | 2023-02-16 |
 | [Covet](https://open.spotify.com/track/5jaqtaQLqzZZPVigLPooiI) | [Tanzana](https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ) | [Covet](https://open.spotify.com/album/59SRm7QgaV7ucp9IGNiGYZ) | 3:30 | 2025-02-27 | 2025-04-10 |
+| [Covet \- Edit](https://open.spotify.com/track/5sKUeYGEoLOGZfbrc0yzO4) | [Tanzana](https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ) | [Covet \(Edit\)](https://open.spotify.com/album/4HkBkz9biK7ue7gEnNcrUV) | 3:15 | 2025-11-11 |  |
 | [Cowbella](https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Cowbella](https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH) | 4:23 | 2025-06-18 | 2025-07-24 |
 | [Coyotes](https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Coyotes](https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi) | 6:27 | 2022-09-14 | 2022-10-13 |
 | [CPR](https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [CPR](https://open.spotify.com/album/6Lv6KtVqoeeNIsZQYvizcN) | 3:09 | 2024-01-10 | 2024-02-22 |
@@ -1370,6 +1371,7 @@
 | [The Olympics](https://open.spotify.com/track/0nhJsrLBDfByF9JmnDrUaU) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A) | [The Olympics](https://open.spotify.com/album/4s7WwIo5LaShH6h5BtNLUA) | 3:02 | 2025-09-24 |  |
 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-05 | 2024-07-11 |
 | [The Order Of Invisible Things](https://open.spotify.com/track/0fx672koptoXRUWbAkJEjj) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [The Order Of Invisible Things](https://open.spotify.com/album/0npoItbtbPBtGAYyrsYzm0) | 3:40 | 2025-04-30 | 2025-06-05 |
+| [The Other Side](https://open.spotify.com/track/7bMMuzcxVU2jR8krCzMMKS) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [The Other Side](https://open.spotify.com/album/0H9Ihj6IykBbM9Ui1V1LDO) | 4:41 | 2025-11-11 |  |
 | [The Parting Glass](https://open.spotify.com/track/09SJAfgaWfG9lZJJBCeDSB) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [New Traditions](https://open.spotify.com/album/0iQXVFAORwv5pUmm1qgoJi) | 4:35 | 2025-10-22 |  |
 | [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 | 2024-01-31 | 2024-03-21 |
 | [The People Say](https://open.spotify.com/track/51Xf6j7GapMJDWO0NXLS7T) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [The People Say](https://open.spotify.com/album/0vWRvfBYsFjZZ3dxCmoGMf) | 4:25 | 2023-01-24 | 2023-03-02 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 106930,
+  "num_followers": 106988,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
+        "name": "Balas Perdidas (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1o5GGiUcnDHS9Y6OK9VBTM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 174379,
+      "name": "Presiento",
+      "url": "https://open.spotify.com/track/2V4hc5gplg7EXlrRUvD4rp"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 186315,
       "name": "Puntos Suspensivos",
       "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
-        "name": "Balas Perdidas (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1o5GGiUcnDHS9Y6OK9VBTM"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Presiento",
-      "url": "https://open.spotify.com/track/2V4hc5gplg7EXlrRUvD4rp"
     },
     {
       "added_at": "2024-07-13 01:13:49",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 201122,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
-        "name": "Dime Si Te Acuerdas",
-        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Dime Si Te Acuerdas",
-      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
     },
     {
       "added_at": "2024-07-13 01:13:49",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
-        "name": "Sin Pijama",
-        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
         "name": "Los Campeones del Pueblo \"The Big Leagues\"",
         "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 226200,
       "name": "Aullando",
       "url": "https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
+        "name": "Sin Pijama",
+        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     },
     {
       "added_at": "2024-07-13 01:13:49",

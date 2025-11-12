@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,986 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,977 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 23 | [La La La](https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 2:59 |
 | 24 | [ガラガラ GO！！](https://open.spotify.com/track/5brqQm02a7xLvdStXioywi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ガラガラ GO！！](https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh) | 3:18 |
 | 25 | [My Heaven](https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:52 |
-| 26 | [Still Alive](https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:18 |
-| 27 | [Gara Gara Go!!](https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [KPOP \- JPOP Made In Korea Vol\. 2](https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl) | 3:18 |
+| 26 | [Gara Gara Go!!](https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [KPOP \- JPOP Made In Korea Vol\. 2](https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl) | 3:18 |
+| 27 | [Still Alive](https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:18 |
 | 28 | [Cafe](https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:39 |
 | 29 | [Untitled, 2014 \- BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB) | 3:44 |
 | 30 | [Lollipop](https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp), [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 49 | [Wings \(날개\) \[Daesung Solo\]](https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 50 | [Lollipop Part.2](https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Lollipop Pt.2](https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1) | 3:20 |
 
-Snapshot ID: `aQ/ZgAAAAACG41fGYTNILkBPRPwdzGN4`
+Snapshot ID: `aRErAAAAAADUKSLKX9ech9BxiIjV7To6`

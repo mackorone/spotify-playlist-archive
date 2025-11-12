@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Larissa Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,548 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,564 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 36 | [Eterno](https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr) | [Casa Aberta](https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me) | [Eterno](https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ) | 3:29 |
 | 37 | [O Caminho \- Ao Vivo](https://open.spotify.com/track/1aDRZ7fQdnUfCq5hFzIWmn) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [O Caminho \(Ao Vivo\)](https://open.spotify.com/album/7ogKkqtvKtLVa0JfjUHsmi) | 4:37 |
 | 38 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
-| 39 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
-| 40 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
+| 39 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
+| 40 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
 | 41 | [Quanto Amor](https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Quanto Amor](https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj) | 3:44 |
 | 42 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 | 43 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 |

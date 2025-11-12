@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACURFwyP6kvdV8VHcs5y07M",
+  "snapshot_id": "aRErAAAAAACKSycdf/R9KlUDR09tr+Jc",
   "tracks": [
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
+      "duration_ms": 167090,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
     },
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed It Up (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
+        "name": "Pink Is Better",
+        "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 143277,
-      "name": "Speed It Up (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
+      "duration_ms": 155657,
+      "name": "High Heels (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
     },
     {
       "added_at": null,
@@ -744,29 +744,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 167090,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Is Better",
-        "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
-      },
-      "artists": [
-        {
-          "name": "Token",
-          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 155657,
-      "name": "High Heels (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 199680,
       "name": "Jealous (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speed It Up (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 143277,
+      "name": "Speed It Up (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
     },
     {
       "added_at": null,

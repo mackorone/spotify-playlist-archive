@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,464 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,465 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 44 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 45 | [Sure to Fall](https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Red Hot: A Memphis Celebration of Sun Records](https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c) | 2:51 |
 | 46 | [I Can't Stand the Rain](https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Traveler's Soul](https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly) | 4:08 |
-| 47 | [The Fact](https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Goodtime Charlie](https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN) | 3:27 |
+| 47 | [Our Problem](https://open.spotify.com/track/3ftHWoelVf9VdGx0xYpu1e) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Nona Hendryx](https://open.spotify.com/artist/5pTDagkiVMJC5DJtSAdbXg), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Our Problem](https://open.spotify.com/album/4PgHxgeoL6DcrCEXPKiw2P) | 3:45 |
+| 48 | [Twas Twined & Twisted](https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:07 |
 
-Snapshot ID: `aQ/ZgAAAAABRP7xU9O1cO0MKiFPz6rkb`
+Snapshot ID: `aRErAAAAAADjtmaIxOUb66he9Hf2RnPp`

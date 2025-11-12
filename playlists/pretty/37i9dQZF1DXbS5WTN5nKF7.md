@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Julien Lieb !
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,196 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,290 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 45 | [Butterfly](https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Butterfly](https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY) | 3:43 |
 | 46 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
 | 47 | [L'amour fou \- Single Version](https://open.spotify.com/track/3kerBSaEveqacWJv10JeDZ) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 3:29 |
-| 48 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
+| 48 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 49 | [Feel Good](https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:43 |
 | 50 | [Cry For You](https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5) | [Cry For You](https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE) | 2:41 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Mago de Tarso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,927 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,928 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 17 | [1 Carro Por Mês](https://open.spotify.com/track/5blbXhDaRRuepTvD5WNTTD) | [Tillmann](https://open.spotify.com/artist/2XyP1qlFXuEu9324XZ89ak), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6) | [PRODÍGIO](https://open.spotify.com/album/2nOhblCsrKSO9ImIQn1Zsa) | 3:13 |
 | 18 | [Sotaque de Novela](https://open.spotify.com/track/0uakFqU1kcpGyWygupiBbY) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [WR No Beat](https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs), [Casa Amarela](https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs) | [Sotaque de Novela](https://open.spotify.com/album/05VfZ8O7pflnKSzXPqyCy3) | 2:08 |
 | 19 | [BUNDÃO GG](https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV) | [MIXTRAPISEIRO](https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY) | 3:12 |
-| 20 | [Toque Carinhoso](https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Jhonny](https://open.spotify.com/artist/1ko2svaaKi43qIhrCRjmRW) | [Toque Carinhoso](https://open.spotify.com/album/7kuchmS0xo9mmBQ6aO4dS4) | 3:06 |
+| 20 | [Toque Carinhoso](https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Jhonny](https://open.spotify.com/artist/1ko2svaaKi43qIhrCRjmRW), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Toque Carinhoso](https://open.spotify.com/album/7kuchmS0xo9mmBQ6aO4dS4) | 3:06 |
 | 21 | [Conexões de Máfia \- Ao Vivo](https://open.spotify.com/track/3Y67i1aaAKB07Vkkp9QqOv) | [Swing Guetto](https://open.spotify.com/artist/3YopikOb54FkbPp8KVyN2E) | [O Prazer dos Paredões](https://open.spotify.com/album/58rvxcwrq67gf5ppD4yMnk) | 1:49 |
 | 22 | [Cabra da Peste](https://open.spotify.com/track/1nB2x9nhWH72VtNuwFx5mc) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Cabra da Peste](https://open.spotify.com/album/3WIh7Q76afhe6OPh7D6mvg) | 3:17 |
 | 23 | [Forró do Largo](https://open.spotify.com/track/0q655CQ0gj3OTyVvYuDjcq) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [Forró do Largo](https://open.spotify.com/album/1J07Vg4Lh3x3HMMQgp7VYD) | 2:48 |

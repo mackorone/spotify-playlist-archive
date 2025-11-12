@@ -4,7 +4,7 @@
 
 > 
 
-2,663 songs - 5 day 18 hr 47 min
+2,664 songs - 5 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1723,6 +1723,7 @@
 | [OLDSCHOOL RAVER](https://open.spotify.com/track/1OXLGKOT0kzisuL5R128Jr) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [OLDSCHOOL RAVER](https://open.spotify.com/album/7cW80EX77zhe0lS0L54GqB) | 2:30 | 2025-08-22 |  |
 | [Oldschool Vibe](https://open.spotify.com/track/20aATMUbhkYPqvj98ROwqP) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 4:20 | 2022-08-11 |  |
 | [OMG!! \(feat\. DJ Noriken\)](https://open.spotify.com/track/0FORMQ3QMF2yIMu6mZrHHW) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [NO HERO](https://open.spotify.com/album/4Ri9luwHwCxfsoVzt9Qhb6) | 3:06 | 2025-11-07 |  |
+| [ON A MISSION](https://open.spotify.com/track/5G7DSIeNna8og1AtQvACdN) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [ON A MISSION](https://open.spotify.com/album/5S5cjnfzyAJLVncgqJ2ySB) | 3:01 | 2025-11-11 |  |
 | [On Fire](https://open.spotify.com/track/05X5EEUF98ivpyyMcXiZly) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD) | [On Fire](https://open.spotify.com/album/5TzA4F1jF2pW9XKx41tmoE) | 2:51 | 2024-01-26 |  |
 | [ON FIRE](https://open.spotify.com/track/3Ys1nZZAhSituWrry5GMCy) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [ON FIRE](https://open.spotify.com/album/2QulYRKxTMkqiljPzvQfjU) | 2:23 | 2024-03-26 |  |
 | [On My Head](https://open.spotify.com/track/6OkWQE67ED5iKiAvOY7XvU) | [Fyloh](https://open.spotify.com/artist/3VLpd6XZs2Q6OQRaIomc5h), [Vengeance](https://open.spotify.com/artist/0rkZewDpEnFUDab7m5A4Tz) | [The Next Gen V8](https://open.spotify.com/album/3a17W77oxHl06n3oJg7P6N) | 2:38 | 2025-06-06 |  |

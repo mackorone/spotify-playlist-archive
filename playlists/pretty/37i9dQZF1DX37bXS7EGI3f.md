@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Battle Beast
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,389 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,479 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,16 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 80 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 81 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
 | 82 | [Childhood](https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45), [Chris Harms](https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD) | [Of Silence](https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1) | 3:50 |
-| 83 | [Cradle To The Grave](https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Vermillion](https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9) | 3:59 |
-| 84 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
+| 83 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
+| 84 | [Cradle To The Grave](https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Vermillion](https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9) | 3:59 |
 | 85 | [Helldiver](https://open.spotify.com/track/6yxiUlPSK6oq1HFkepBh8Z) | [Invasion](https://open.spotify.com/artist/0UVhdgxNalIFFYqUoLeREd) | [Helldiver](https://open.spotify.com/album/59U6vhesTkJjbJAba5ZSKv) | 3:32 |
 | 86 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 |
 | 87 | [Morphine Waltz](https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Opera](https://open.spotify.com/album/1dDS9EG35qdgeshBzEP2ja) | 3:36 |
 | 88 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 |
 | 89 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 |
 | 90 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
-| 91 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 |
-| 92 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
+| 91 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
+| 92 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 |
 | 93 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
 | 94 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
 | 95 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |

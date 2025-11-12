@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,061 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,546 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 73 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
 | 74 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
 | 75 | [Some Kind Of Wonderful \- Remastered 1999](https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [30 Years Of Funk: 1969\-1999 The Anthology](https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm) | 3:22 |
-| 76 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
-| 77 | [Heart Of Glass](https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:12 |
+| 76 | [Heart Of Glass](https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:12 |
+| 77 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
 | 78 | [Right Back Where We Started From](https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Right Back Where We Started From](https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB) | 3:12 |
 | 79 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 80 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 139 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
 | 140 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
 | 141 | [Loves Me Like a Rock](https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:33 |
-| 142 | [Boogie Oogie Oogie \- Remastered 2004](https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 5:38 |
-| 143 | [Everybody Dance](https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Good Times: The Very Best Of Chic & Sister Sledge](https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU) | 4:07 |
+| 142 | [Everybody Dance](https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Good Times: The Very Best Of Chic & Sister Sledge](https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU) | 4:07 |
+| 143 | [Boogie Oogie Oogie \- Remastered 2004](https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 5:38 |
 | 144 | [Let's All Chant](https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Let's All Chant](https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez) | 3:04 |
 | 145 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
 | 146 | [Working My Way Back to You](https://open.spotify.com/track/7cLkQkC9Z7hnN767rfRl5G) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Very Best of the Spinners](https://open.spotify.com/album/05jU4HqC6CTnRuP1e4yYnS) | 4:02 |

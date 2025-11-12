@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACVspPHnQAefYPsXzYozizI",
+  "snapshot_id": "aRErAAAAAAC9d5hERg9WypJb2V5UFK7L",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 159712,
+      "name": "Touring Tx",
+      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 105629,
       "name": "El Drogadito",
       "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 159712,
-      "name": "Touring Tx",
-      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
     },
     {
       "added_at": null,

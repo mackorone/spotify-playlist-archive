@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: mermaidonmars
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,085 likes - 88 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,132 likes - 88 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
-| 2 | [I'm So Pretty](https://open.spotify.com/track/5DnNt5sIgBNQpvk0gun1JL) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [I'm So Pretty](https://open.spotify.com/album/2PybMedC0ginMdfPl1EhMs) | 2:27 |
-| 3 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
-| 4 | [Never Been Better](https://open.spotify.com/track/5D6qQXww5siYkd2YyJpLEf) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Never Been Better](https://open.spotify.com/album/5Bzfi69AAAg0v7o6IIDWGb) | 2:59 |
+| 2 | [Never Been Better](https://open.spotify.com/track/5D6qQXww5siYkd2YyJpLEf) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Never Been Better](https://open.spotify.com/album/5Bzfi69AAAg0v7o6IIDWGb) | 2:59 |
+| 3 | [I'm So Pretty](https://open.spotify.com/track/5DnNt5sIgBNQpvk0gun1JL) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [I'm So Pretty](https://open.spotify.com/album/2PybMedC0ginMdfPl1EhMs) | 2:27 |
+| 4 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 | 5 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
 | 6 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
 | 7 | [Better Or Worse](https://open.spotify.com/track/5c09miCbkmZviJyPEmxdxy) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Better Or Worse](https://open.spotify.com/album/5U3pZ4BfzGzs5d4kql49QU) | 2:50 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 87 | [Punch Drunk Love](https://open.spotify.com/track/3z2obVsOJkPHUXTgRjjbHe) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/6bAQ0jnn6C7MWgjevnkPT6) | 3:17 |
 | 88 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 |
 
-Snapshot ID: `AAAAAPWmfxaqVXwrF5+/MIErRaxM8//I`
+Snapshot ID: `AAAAAPK6zSASaD5cI1plm4iYWEEtJnTD`

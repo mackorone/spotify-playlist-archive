@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACU9MdxzK1LVusEYdRBSPRN",
+  "snapshot_id": "aRErAAAAAAD8iKnjK9GZ6/YPvJDHQMal",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 149807,
+      "name": "Make It Even",
+      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Aint Feeling You (Bonus Edition)",
         "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 161333,
       "name": "Flash (feat. Bloodhound Q50)",
       "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 149807,
-      "name": "Make It Even",
-      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 103249,
+      "name": "Bigger Than Life Or Death",
+      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shiesty Season: Certified",
         "url": "https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 212331,
       "name": "7.62 God (Reloaded) [feat. EST Gee & BIG30]",
       "url": "https://open.spotify.com/track/3vtDYruaEKSuep0ZgfAsHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 103249,
-      "name": "Bigger Than Life Or Death",
-      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 132501,
       "name": "All I Know (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "THE ONE & ONLY",
-      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Aint Feeling You",
         "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 199565,
       "name": "My Love (feat. Veeze & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/047PEPAZ1uaAGls8D86gZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 139681,
+      "name": "THE ONE & ONLY",
+      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
     },
     {
       "added_at": null,

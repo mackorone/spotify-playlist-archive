@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 89205,
+  "num_followers": 89215,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABefC04n5H0VDQ8A5Do9E8F",
+  "snapshot_id": "aRErAAAAAAAh3CaB6d3Ai79OMRKNDKJx",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo de Cristal",
-        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
+        "name": "Mas all\u00e1 de la Zona",
+        "url": "https://open.spotify.com/album/4IHM9TLc2zWpidWNG7zo4M"
       },
       "artists": [
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
         {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Mundo de Cristal",
-      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
+      "duration_ms": 242500,
+      "name": "Juicio",
+      "url": "https://open.spotify.com/track/4lYYtskPURCM27jljNKQIA"
     },
     {
       "added_at": null,
@@ -179,66 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas all\u00e1 de la Zona",
-        "url": "https://open.spotify.com/album/4IHM9TLc2zWpidWNG7zo4M"
+        "name": "Mundo de Cristal",
+        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
       },
       "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
         {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Juicio",
-      "url": "https://open.spotify.com/track/4lYYtskPURCM27jljNKQIA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En alabanza y gracia",
-        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 226648,
-      "name": "Con tanto amor",
-      "url": "https://open.spotify.com/track/0lAP6EvRXa37KcmzvIdgGY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Rastafari todo concuerda",
-        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 241068,
-      "name": "Fuma del humo y sana",
-      "url": "https://open.spotify.com/track/7kCXcX93yudTcnr5RZXdnd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanazion",
-        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 185618,
-      "name": "Dos que brillamos",
-      "url": "https://open.spotify.com/track/712ohvUbUMUe9NF1ZOS9ly"
+      "duration_ms": 210000,
+      "name": "Mundo de Cristal",
+      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
     },
     {
       "added_at": null,
@@ -268,9 +220,41 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 212530,
-      "name": "Todo cuadra",
-      "url": "https://open.spotify.com/track/5COh0vK5ecMdGYRoAvLglB"
+      "duration_ms": 226648,
+      "name": "Con tanto amor",
+      "url": "https://open.spotify.com/track/0lAP6EvRXa37KcmzvIdgGY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/33Q7YnZvnbbIA8f0frAwgn"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 185618,
+      "name": "Dos que brillamos",
+      "url": "https://open.spotify.com/track/712ohvUbUMUe9NF1ZOS9ly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Rastafari todo concuerda",
+        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 241068,
+      "name": "Fuma del humo y sana",
+      "url": "https://open.spotify.com/track/7kCXcX93yudTcnr5RZXdnd"
     },
     {
       "added_at": null,
@@ -287,6 +271,22 @@
       "duration_ms": 265565,
       "name": "Conquista",
       "url": "https://open.spotify.com/track/4uaoi4nSH1UyeYh8EdUmZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En alabanza y gracia",
+        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 212530,
+      "name": "Todo cuadra",
+      "url": "https://open.spotify.com/track/5COh0vK5ecMdGYRoAvLglB"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En alabanza y gracia",
-        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 253142,
-      "name": "En Zion mi anhelo",
-      "url": "https://open.spotify.com/track/51KXnyV3u3TGUhpilGyt1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La B\u00fasqueda",
         "url": "https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 192882,
       "name": "Alg\u00fan d\u00eda aprender\u00e9",
       "url": "https://open.spotify.com/track/0RLLyw31g5rGi7xnsLpgLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En alabanza y gracia",
+        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 253142,
+      "name": "En Zion mi anhelo",
+      "url": "https://open.spotify.com/track/51KXnyV3u3TGUhpilGyt1Y"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En alabanza y gracia",
-        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 191609,
-      "name": "Bendita",
-      "url": "https://open.spotify.com/track/4N6NPzM6XO9iXaHf3X4CaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 260549,
       "name": "S\u00e9",
       "url": "https://open.spotify.com/track/6mWYyoewes1J4fqX0TlZW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En alabanza y gracia",
+        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 191609,
+      "name": "Bendita",
+      "url": "https://open.spotify.com/track/4N6NPzM6XO9iXaHf3X4CaY"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En alabanza y gracia",
-        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "Guerrero de Jah",
-      "url": "https://open.spotify.com/track/4UpYWMyuwEf2V3nswTHdxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Rastafari todo concuerda",
         "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 226416,
       "name": "Con el diablo al lado",
       "url": "https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En alabanza y gracia",
+        "url": "https://open.spotify.com/album/59icG6Ga7mI8aPorxoBEC5"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Guerrero de Jah",
+      "url": "https://open.spotify.com/track/4UpYWMyuwEf2V3nswTHdxJ"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristal 9",
-        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "La vida",
-      "url": "https://open.spotify.com/track/3MB0RVkjGowef4HLoeNeQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Rastafari todo concuerda",
         "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 212693,
       "name": "Por lo que obtuve",
       "url": "https://open.spotify.com/track/4qFtkjfZLSrfDzTRbRjkFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "La vida",
+      "url": "https://open.spotify.com/track/3MB0RVkjGowef4HLoeNeQF"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristal 9",
-        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 207943,
-      "name": "Dentro de mi",
-      "url": "https://open.spotify.com/track/1CZmuEzA7p7QIu2kE4phS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Rastafari todo concuerda",
         "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 184132,
       "name": "Es ignorancia",
       "url": "https://open.spotify.com/track/46Q8tX9yStG64mwCDNW9MF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 207943,
+      "name": "Dentro de mi",
+      "url": "https://open.spotify.com/track/1CZmuEzA7p7QIu2kE4phS2"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristal 9",
-        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Cuanto heredamos",
-      "url": "https://open.spotify.com/track/3h6m0wvnj4yyB3u29NeX16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 197762,
       "name": "Rasta Es",
       "url": "https://open.spotify.com/track/4ThVJbKqD1kq5EdSFMTtiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Cuanto heredamos",
+      "url": "https://open.spotify.com/track/3h6m0wvnj4yyB3u29NeX16"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristal 9",
-        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 317465,
-      "name": "Amar es mas",
-      "url": "https://open.spotify.com/track/1BUW2OuuqNSUSphIKVxHNu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La B\u00fasqueda",
         "url": "https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 233000,
       "name": "Laberinto interno",
       "url": "https://open.spotify.com/track/0e5y2pI0PGFE5XbjFwNyOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 317465,
+      "name": "Amar es mas",
+      "url": "https://open.spotify.com/track/1BUW2OuuqNSUSphIKVxHNu"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristal 9",
-        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 158113,
-      "name": "Busc\u00e1ndote",
-      "url": "https://open.spotify.com/track/6fNIlun66chXqiuKGiiu4j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La B\u00fasqueda",
         "url": "https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180447,
       "name": "No existen fronteras",
       "url": "https://open.spotify.com/track/7joTq2CorwMDNeI0DZechn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 158113,
+      "name": "Busc\u00e1ndote",
+      "url": "https://open.spotify.com/track/6fNIlun66chXqiuKGiiu4j"
     },
     {
       "added_at": null,

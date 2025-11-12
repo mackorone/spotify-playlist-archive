@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,363 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,367 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 28 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 |
 | 29 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
 | 30 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
-| 31 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
-| 32 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
+| 31 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
+| 32 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 33 | [Cry to Me](https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:34 |
 | 34 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
 | 35 | [Ferry Cross the Mersey \- Stereo; 1997 Remaster](https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Ferry Cross The Mersey \[Mono And Stereo Version\]](https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD) | 2:23 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 63 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
 | 64 | [Love Me Do \- Mono / Remastered](https://open.spotify.com/track/5JT7CoUSGNk7mMNkHMQjqr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |
 | 65 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6aTeoDQaHkkpzhI1bDcmdJ) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [The Definitive Collection](https://open.spotify.com/album/1pjFUrcV77wbRBNpTRMlRc) | 2:29 |
-| 66 | [My Cherie Amour](https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF) | 2:53 |
-| 67 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
-| 68 | [Stay](https://open.spotify.com/track/6xi2kRGOrdLJNo4wFyaCis) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing](https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg) | 1:34 |
-| 69 | [Where Did Our Love Go \- Stereo Version](https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go: 40th Anniversary Edition](https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6) | 2:31 |
+| 66 | [Where Did Our Love Go \- Stereo Version](https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go: 40th Anniversary Edition](https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6) | 2:31 |
+| 67 | [My Cherie Amour](https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF) | 2:53 |
+| 68 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
+| 69 | [Stay](https://open.spotify.com/track/6xi2kRGOrdLJNo4wFyaCis) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing](https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg) | 1:34 |
 | 70 | [A Change Is Gonna Come](https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News \(Remastered\)](https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG) | 3:11 |
 | 71 | [Rescue Me \- Single Version](https://open.spotify.com/track/6PchKwjaU56tU8HcFYhuGv) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [Very Best Of](https://open.spotify.com/album/53TLQwKkFTn0eSqMzPsse6) | 2:50 |
 | 72 | [You Don't Own Me](https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1) | 2:30 |

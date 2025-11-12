@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694 likes - 151 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 151 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 45 | [Nothing Here](https://open.spotify.com/track/2u8W9YjnCuR7tgaefRDYx7) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Journey](https://open.spotify.com/album/4vTfrB4P9R7ozSk7H2jdLI) | 2:37 |
 | 46 | [Hawaiian Mazes](https://open.spotify.com/track/6IwqOnORFD7Jssoyor6Ngf) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:03 |
 | 47 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 |
-| 48 | [Remember Us \(feat\. Rapsody\)](https://open.spotify.com/track/3vS7px4CSV1I8hP5MXEdk8) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:51 |
-| 49 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
-| 50 | [Here Again](https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:45 |
+| 48 | [Here Again](https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:45 |
+| 49 | [Remember Us \(feat\. Rapsody\)](https://open.spotify.com/track/3vS7px4CSV1I8hP5MXEdk8) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:51 |
+| 50 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 51 | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN) | 2:53 |
 | 52 | [Midnight Dreams](https://open.spotify.com/track/6xKUJ0HwdyEIeiuwM3sfQ1) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:12 |
 | 53 | [Grey Area](https://open.spotify.com/track/5b1DQvXpubrUx0xeOB4f6n) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Grey Area](https://open.spotify.com/album/7zwvGqcqwKaUaYXjAWTwN4) | 2:48 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 129 | [Small Talk](https://open.spotify.com/track/1yZ4DgpOllcy8ylgOLGKMy) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:15 |
 | 130 | [THE UNIVERSE](https://open.spotify.com/track/1MsC4r2rLGULtETHuKC0YY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:06 |
 | 131 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 |
-| 132 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 |
-| 133 | [THE LIMIT](https://open.spotify.com/track/6EPvMw1tSW3DLtvY19v4pY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:04 |
+| 132 | [THE LIMIT](https://open.spotify.com/track/6EPvMw1tSW3DLtvY19v4pY) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/2gUc2FyjuzvnfxDCcqUy7T) | 3:04 |
+| 133 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 |
 | 134 | [Even Angels \(feat\. Blas Cantó\)](https://open.spotify.com/track/6ASYGi2AtXMPlwExjle1a4) | [Carlos Marco](https://open.spotify.com/artist/7L2leV7PPUnxsoSPkxLGxd), [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [Chalk Dreams](https://open.spotify.com/album/488np3gSXZtNGWUINrcTZi) | 3:46 |
 | 135 | [Hot](https://open.spotify.com/track/17NTv6hcvFtARMyxdDXUI5) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:49 |
 | 136 | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/track/2WOebgcOKKxoyH2xvfzGq2) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an), [Kulkid](https://open.spotify.com/artist/54jIQsyNf1V5MEWlkHOZtS) | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/album/4OsHCvcM8ch3Di8sR0JPzH) | 4:19 |
@@ -155,9 +155,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 145 | [You Must Be Crazy Too](https://open.spotify.com/track/3m204CzQHq1rftQgi4mPgC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:25 |
 | 146 | [Wine & Dine](https://open.spotify.com/track/1Wr9QgovQwIrdRleNJb3on) | [Safa Gaw](https://open.spotify.com/artist/2P5nu6GCjVReV48szUvmE1) | [Wine & Dine](https://open.spotify.com/album/4qWUEL2Fdje8N6C9MEb8NO) | 2:25 |
 | 147 | [BLACK SUMMER](https://open.spotify.com/track/74rkl9hRCe99KQxNL1hyMD) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 4:03 |
-| 148 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
-| 149 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
+| 148 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
+| 149 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
 | 150 | [Queen's Testimony \(feat\. K\. Michelle\)](https://open.spotify.com/track/3nhAgKYrwTzttbN34lmV61) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:56 |
 | 151 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AcBPvAAAAADvCvYIRA/eGPz1mpulpLoh`
+Snapshot ID: `AcBVXAAAAABQhowaFXNFdDwPqrXJ0CZh`

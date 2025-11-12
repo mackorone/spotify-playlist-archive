@@ -1,12 +1,12 @@
 {
   "description": "for the baddies.",
-  "num_followers": 370597,
+  "num_followers": 370762,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM6RSsnCz2VAsr1t/seD64nTQSK3",
+  "snapshot_id": "AAAAAGTpiHx+ZCK/o5P8COJ6xpR65IuC",
   "tracks": [
     {
       "added_at": "2025-11-04 08:59:14",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-11-04 08:59:14",
       "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb"
-      },
-      "artists": [
-        {
-          "name": "Trxy!",
-          "url": "https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD"
-        }
-      ],
-      "duration_ms": 115401,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8"
-    },
-    {
-      "added_at": "2025-11-04 08:59:14",
-      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 211027,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf"
+    },
+    {
+      "added_at": "2025-11-04 08:59:14",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb"
+      },
+      "artists": [
+        {
+          "name": "Trxy!",
+          "url": "https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD"
+        }
+      ],
+      "duration_ms": 115401,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8"
     },
     {
       "added_at": "2025-11-04 08:59:14",

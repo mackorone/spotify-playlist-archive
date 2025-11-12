@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Iris Caltwait, Girl Group, Ramón og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,621 likes - 102 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,616 likes - 102 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: 90s dance anthems! Cover: Ultra Naté
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,509 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,477 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

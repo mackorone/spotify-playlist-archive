@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-139 songs - 8 hr 6 min
+140 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Little Less Lonely](https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:15 | 2023-06-17 | 2024-12-10 |
 | [Love Away The Night](https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:38 | 2023-06-17 | 2025-10-24 |
 | [Love Away The Night](https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW) | [Adam Brand \(Special Bonus Tour Edition\)](https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD) | 3:38 | 2025-10-26 |  |
-| [Love Away The Night](https://open.spotify.com/track/1OzoLsteJyXgpk9HD3cZRT) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/4gTB1IyWqYUyLX4fgroTW3) | 3:38 | 2025-10-27 |  |
+| [Love Away The Night](https://open.spotify.com/track/1OzoLsteJyXgpk9HD3cZRT) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/4gTB1IyWqYUyLX4fgroTW3) | 3:38 | 2025-10-27 | 2025-11-12 |
 | [Love Away The Night \- with Adam Brand](https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv) | 3:38 | 2023-06-17 | 2025-10-26 |
 | [Love Is a Lesson](https://open.spotify.com/track/3pcrdFr7EHoqzgIim2QApn) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Wired](https://open.spotify.com/album/3GFZgCAsf4F7tvYF5eU8VJ) | 4:16 | 2025-04-17 | 2025-04-20 |
 | [Love Is A Lesson \(feat\. Adam Brand\)](https://open.spotify.com/track/1x4RA9JlbUloiOb5CqQqoj) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Wired](https://open.spotify.com/album/2YVoRvMleX9NQyNvUC3de0) | 4:16 | 2023-06-27 | 2024-10-29 |
@@ -117,6 +117,7 @@
 | [Sleepless Nights](https://open.spotify.com/track/0LRDeyEdxwwXmO25KboUE4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Sleepless Nights](https://open.spotify.com/album/5X3A67WW1vgO5r6o5UBIun) | 3:35 | 2024-02-10 | 2024-11-17 |
 | [Some Dreams](https://open.spotify.com/track/5RxqW3arT9yBX81YCZ7hiu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:01 | 2025-10-26 | 2025-10-28 |
 | [Someday](https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo) | 2:28 | 2023-06-17 | 2025-10-24 |
+| [Someday](https://open.spotify.com/track/3SEuFv4bwCh3ImgLJL6ERG) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/1pHOIYV04PXSNHjwmcZD22) | 2:28 | 2025-11-12 |  |
 | [Speed of Life](https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:02 | 2024-12-09 |  |
 | [Speed Of Life](https://open.spotify.com/track/6qgjCMasssUe7BEeBx95Oy) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:02 | 2023-06-17 | 2024-12-02 |
 | [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/6zZUz5d1IbmEz3ckpDZiC0) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Steve Ford](https://open.spotify.com/artist/3w3POrLv9wRAYjuPWOwj8C), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 3:35 | 2025-11-05 |  |

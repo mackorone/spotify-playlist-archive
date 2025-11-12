@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: MELODOWNZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,073 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,081 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 17 | [EVERYTHING IS CORNY](https://open.spotify.com/track/2DCkiI3Vevpiew4cmFfLkC) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX), [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [EVERYTHING IS CORNY](https://open.spotify.com/album/5ZYpAbOaHuTytiIrI7RXff) | 2:28 |
 | 18 | [Try Me](https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Try Me](https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35) | 3:12 |
 | 19 | [Trenches](https://open.spotify.com/track/5ltYYMlBXsaoR2snQIAFMQ) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [Trenches](https://open.spotify.com/album/4xpnAH5Rv8Jf2A9mUYzqwc) | 2:51 |
-| 20 | [PINK PORCHE](https://open.spotify.com/track/5CH3HucKWPtnT9THBXfBm6) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [PINK PORCHE](https://open.spotify.com/album/0iWaEQUQrea3AijA0JUaUk) | 1:32 |
+| 20 | [PINK PORSCHE](https://open.spotify.com/track/5CH3HucKWPtnT9THBXfBm6) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [PINK PORSCHE](https://open.spotify.com/album/0iWaEQUQrea3AijA0JUaUk) | 1:32 |
 | 21 | [Game Ain't Blind](https://open.spotify.com/track/0AxGcK88VGppBodGPk0Hyo) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Game Ain't Blind](https://open.spotify.com/album/4pL3DyrcQR5zDEhz6wHFpi) | 3:18 |
 | 22 | [Take Me Away \(feat\. Jet Walker\)](https://open.spotify.com/track/4HLDxFiYAduRxuyObDW95m) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J), [Jet Walker](https://open.spotify.com/artist/4warK7747ZZIvygZIzEVN7) | [Take Me Away \(feat\. Jet Walker\)](https://open.spotify.com/album/5R8JRns4w2a5YgUnyLJZgx) | 2:48 |
 | 23 | [LOCKJAW](https://open.spotify.com/track/1ZH0Yan4zyuFfmi3rOzhbh) | [Jteazy](https://open.spotify.com/artist/7i1xIKvHS7CGozfyGZEDlW) | [LOCKJAW](https://open.spotify.com/album/0XgkRmRdxBj8OY4a32PJer) | 3:44 |

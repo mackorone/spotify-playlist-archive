@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 141 | [closer to thirty](https://open.spotify.com/track/5XL8G3q7SK2HLagmg9d2Y2) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [could the grass be greener](https://open.spotify.com/album/6OIa4oByf8NH0vfKTfM9bX) | 2:24 |
 | 142 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 |
 | 143 | [wouldn't you agree](https://open.spotify.com/track/09Q5x9qOvt2RJyv2Fepwgv) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 3:14 |
-| 144 | [Knock The Wind](https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [The Magazine](https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3) | 3:33 |
-| 145 | [WAKEY WAKEY](https://open.spotify.com/track/0xVgfhlmU1mHDPhRGNVVMn) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [PLANET JACK](https://open.spotify.com/album/3nMnDEbKFoufD684EhM1Y1) | 2:26 |
+| 144 | [WAKEY WAKEY](https://open.spotify.com/track/0xVgfhlmU1mHDPhRGNVVMn) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [PLANET JACK](https://open.spotify.com/album/3nMnDEbKFoufD684EhM1Y1) | 2:26 |
+| 145 | [Knock The Wind](https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [The Magazine](https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3) | 3:33 |
 | 146 | [My Way](https://open.spotify.com/track/1AAPG2QIYP0VB6qAplNpCB) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [My Way](https://open.spotify.com/album/7yFOHwrpzLIvkDdA0Ie8fz) | 2:06 |
 | 147 | [Go Bad \- From The Netflix Film “He’s All That"](https://open.spotify.com/track/0KrxLbZ5Ii6o6PmDgcWii8) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [He's All That \(Music From The Netflix Film\)](https://open.spotify.com/album/0Avy6QPpUbn3rJ5f76yimK) | 2:07 |
 | 148 | [taillights](https://open.spotify.com/track/6ck6obhiRdaUDBSVUXu6zB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Whiterock](https://open.spotify.com/album/5Te9mrDOcIMYrn1TkUlhpn) | 3:20 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 169 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 170 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcBPlAAAAACnWPmFTBYzOEl0iE8faHZ4`
+Snapshot ID: `AcBVcAAAAACVVk5J0orqG2XWuHmk+Hjq`

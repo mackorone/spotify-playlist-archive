@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,008 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,006 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 93 | [Circles](https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB) | 2:46 |
 | 94 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 |
 | 95 | [Rock 'N' Roll High School \- Remastered](https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loud, Fast, Ramones: Their Toughest Hits](https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t) | 2:17 |
-| 96 | [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 |
-| 97 | [What Do I Get?](https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Operators Manual \(Buzzcocks Best\)](https://open.spotify.com/album/61K4bZBmmHrMdTZiRWERBF) | 2:56 |
-| 98 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 |
+| 96 | [Straight Edge](https://open.spotify.com/track/1xXKacUn8XhZ2ifv05RjL1) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two 7s](https://open.spotify.com/album/3OirN90yBh2bSaIHcWyGsV) | 0:47 |
+| 97 | [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 |
+| 98 | [What Do I Get?](https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Operators Manual \(Buzzcocks Best\)](https://open.spotify.com/album/61K4bZBmmHrMdTZiRWERBF) | 2:56 |
 | 99 | [Identity](https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:25 |
-| 100 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag](https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP) | 2:37 |
+| 100 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 |
 
 Snapshot ID: `AAAAAH/c9Ts5g/rW0UXQqdBISwnbfbg5`

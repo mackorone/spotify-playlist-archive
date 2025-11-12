@@ -5287,6 +5287,28 @@
     },
     {
       "album": {
+        "name": "Feel That Way",
+        "url": "https://open.spotify.com/album/3qf62Ku8CzU58xY6h9TZE5"
+      },
+      "artists": [
+        {
+          "name": "D4N",
+          "url": "https://open.spotify.com/artist/5FQzNWtS11lpF0WIDiQ5HO"
+        },
+        {
+          "name": "ADB",
+          "url": "https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Feel That Way",
+      "url": "https://open.spotify.com/track/6vkeigDcenew30dyAKnme2"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5"
       },

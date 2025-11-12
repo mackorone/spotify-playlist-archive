@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1515576,
+  "num_followers": 1515530,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Aluga-se",
         "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "ciumeira",
-      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 221717,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "ciumeira",
+      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Interestelar",
         "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
       },
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 184267,
       "name": "Fica",
       "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 192714,
       "name": "Agora Eu Quero Ir",
       "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Sorte",
-        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 195138,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 245195,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 195138,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Ainda Bem Que Chegou (Acoustic Version)",
         "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 181978,
       "name": "Ainda Bem Que Chegou - Acoustic Version",
       "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
     },
     {
       "added_at": "2024-08-02 18:37:00",

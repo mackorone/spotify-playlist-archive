@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,161,284 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,161,488 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 48 | [Far East](https://open.spotify.com/track/1S0ByRYztydxw1l4FEv0H4) | [Barry Brown](https://open.spotify.com/artist/4RLadJjrl8Ygnmg4HoWH8v) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:57 |
 | 49 | [Return Of Django](https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:30 |
 | 50 | [Forward Ever Backward Never](https://open.spotify.com/track/37UsDnU8CMBbZ1bV1WZAkz) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:05 |
-| 51 | [Not Satisfied](https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:11 |
-| 52 | [Don't Stay Away](https://open.spotify.com/track/0TzactgkoJSMMRVddb8aRK) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:31 |
+| 51 | [Don't Stay Away](https://open.spotify.com/track/0TzactgkoJSMMRVddb8aRK) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:31 |
+| 52 | [Not Satisfied](https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:11 |
 | 53 | [I Love King Selassie](https://open.spotify.com/track/1m8km5zdC0WDsdwKnCZ6sa) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:29 |
 | 54 | [Don De Lion](https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:25 |
 | 55 | [Street Corner](https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 3:03 |

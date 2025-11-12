@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 140933,
+  "num_followers": 140934,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Ultimate Chi-Lites",
-        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
-      },
-      "artists": [
-        {
-          "name": "The Chi-Lites",
-          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
-        }
-      ],
-      "duration_ms": 217520,
-      "name": "Oh Girl",
-      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "The Essentials: Ruth Brown",
         "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 173733,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Ultimate Chi-Lites",
+        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
+      },
+      "artists": [
+        {
+          "name": "The Chi-Lites",
+          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
+        }
+      ],
+      "duration_ms": 217520,
+      "name": "Oh Girl",
+      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Gun",
-      "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Groove Curse",
         "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 275826,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/6LCUPmtf6kJpk5p2RPPKQm"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/59526I0d4raugRW8MHNxXy"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 210280,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/6LCUPmtf6kJpk5p2RPPKQm"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/59526I0d4raugRW8MHNxXy"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Gentry",
-          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
-        }
-      ],
-      "duration_ms": 258912,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 148240,
       "name": "Let's Take a Walk",
       "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+        }
+      ],
+      "duration_ms": 258912,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Lay It On Me: The Columbia Years",
-        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Sunday's Best",
         "url": "https://open.spotify.com/album/1fve3JXTenvbGiZEodDqgK"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 166816,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Lay It On Me: The Columbia Years",
+        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Never My Love: The Anthology",
         "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 230758,
       "name": "I Believe to My Soul",
       "url": "https://open.spotify.com/track/44mCqqpRD4QPn93kM2WGdE"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2231,6 +2231,38 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "The Bleeding Edge",
+        "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
+      },
+      "artists": [
+        {
+          "name": "The Revelations featuring Tre Williams",
+          "url": "https://open.spotify.com/artist/6jPnbwYs6cq2QyMrDxDJoV"
+        }
+      ],
+      "duration_ms": 338080,
+      "name": "Let's Straighten It Out",
+      "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/7IbmtdwhEpnEkJkYKGczXZ"
       },
@@ -2247,22 +2279,6 @@
       "duration_ms": 238254,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3H5oufBvC5CsR1uoq7JyWl"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "The Bleeding Edge",
-        "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
-      },
-      "artists": [
-        {
-          "name": "The Revelations featuring Tre Williams",
-          "url": "https://open.spotify.com/artist/6jPnbwYs6cq2QyMrDxDJoV"
-        }
-      ],
-      "duration_ms": 338080,
-      "name": "Let's Straighten It Out",
-      "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2295,22 +2311,6 @@
       "duration_ms": 180346,
       "name": "You've Really Got a Hold on Me - Single Version",
       "url": "https://open.spotify.com/track/5m8zKwogmJl7Fw2qgIoMeE"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Motown 50",
+        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 411360,
+      "name": "Papa Was A Rollin' Stone - Single Version",
+      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
       },
@@ -2575,6 +2591,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/5JdQA7Qwvrw3rgyblLzxFW"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3WORyf3FVpYdVoHEgSEt1b"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
@@ -2587,22 +2619,6 @@
       "duration_ms": 197346,
       "name": "Right As Rain",
       "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Motown 50",
-        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 411360,
-      "name": "Papa Was A Rollin' Stone - Single Version",
-      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2883,22 +2899,6 @@
       "duration_ms": 224960,
       "name": "The Addict",
       "url": "https://open.spotify.com/track/5rPXLUWqG6JwKCYMGH6e8C"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/5JdQA7Qwvrw3rgyblLzxFW"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3WORyf3FVpYdVoHEgSEt1b"
     },
     {
       "added_at": "2025-08-08 09:33:38",

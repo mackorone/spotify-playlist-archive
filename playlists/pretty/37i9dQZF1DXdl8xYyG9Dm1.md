@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Showdemcamp
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,796 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,831 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 60 | [Psychic](https://open.spotify.com/track/4gHuikjFbQimWW33jXCEdU) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Psychic](https://open.spotify.com/album/7m4DGtbnhvJowSnmFbqmcT) | 2:22 |
 | 61 | [Who's Really Rapping](https://open.spotify.com/track/6YXiZEP5bMhEQV5TJovgnz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Who's Really Rapping](https://open.spotify.com/album/31rjI4OFkFfhrnkZjBUUZ0) | 2:58 |
 | 62 | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/2dzMKs3gXrSCd1HNoRA92n) | 1:54 |
-| 63 | [BABA](https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [BABA](https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD) | 2:07 |
-| 64 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 |
+| 63 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 |
+| 64 | [BABA](https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [BABA](https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD) | 2:07 |
 | 65 | [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 |
 | 66 | [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO) | [Chocolate City](https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/album/28pficBKrjRzddaQThdPo6) | 4:25 |
 | 67 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 |

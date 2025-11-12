@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 271401,
+  "num_followers": 271536,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "I've Got a Crush On You",
+      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 291173,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "I've Got a Crush On You",
-      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "November Twilight",
-      "url": "https://open.spotify.com/track/1A0IKMO2VXftxqHDe3gigM"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 185466,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "November Twilight",
+      "url": "https://open.spotify.com/track/1A0IKMO2VXftxqHDe3gigM"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Roadhouse",
-        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
-      },
-      "artists": [
-        {
-          "name": "Ruth Cameron",
-          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 250936,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+      },
+      "artists": [
+        {
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Any Little Time",
-      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Dreamers Do",
         "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 164693,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Any Little Time",
+      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9"
-      },
-      "artists": [
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "On My Way to You",
         "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 172746,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/7dgPIW9yzB59ENbnbWslU7"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 320100,
       "name": "You're Mine, You (feat. Benny Benack III)",
       "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/7dgPIW9yzB59ENbnbWslU7"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Stella Cole",
+        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Put Your Head on My Shoulder",
         "url": "https://open.spotify.com/album/0zTG69rJsp5Ue1uDqaNGMh"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 264229,
       "name": "Put Your Head on My Shoulder",
       "url": "https://open.spotify.com/track/3MRjc814zG32JiSNQ2tYvo"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Stella Cole",
-        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -1979,22 +1963,18 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/2n1QUTdi2StG378HUORudq"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
       },
       "artists": [
         {
-          "name": "Julio Iglesias Jr",
-          "url": "https://open.spotify.com/artist/3GjoS8zAETCfiBvgfvlpGm"
-        },
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
         }
       ],
-      "duration_ms": 296306,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7"
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2047,6 +2027,26 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/2n1QUTdi2StG378HUORudq"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias Jr",
+          "url": "https://open.spotify.com/artist/3GjoS8zAETCfiBvgfvlpGm"
+        },
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 296306,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "The Glory of Love",
-        "url": "https://open.spotify.com/album/3ylEwTcLkfbtgogR5T9AY5"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        },
-        {
-          "name": "John Pizzarelli",
-          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
-        }
-      ],
-      "duration_ms": 156786,
-      "name": "The Glory of Love",
-      "url": "https://open.spotify.com/track/5eeKS8jHuWUF70KQlPBz3g"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Grasiela Piasson & Guga Stroeter",
         "url": "https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4"
       },
@@ -2123,18 +2103,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+        "name": "The Glory of Love",
+        "url": "https://open.spotify.com/album/3ylEwTcLkfbtgogR5T9AY5"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        },
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
         }
       ],
-      "duration_ms": 263266,
-      "name": "Do Nothing 'Til You Hear From Me",
-      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
+      "duration_ms": 156786,
+      "name": "The Glory of Love",
+      "url": "https://open.spotify.com/track/5eeKS8jHuWUF70KQlPBz3g"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2151,6 +2135,22 @@
       "duration_ms": 252013,
       "name": "A Certain Someone",
       "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Do Nothing 'Til You Hear From Me",
+      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Be My Valentine",
+        "url": "https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 216469,
+      "name": "Be My Valentine",
+      "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 239380,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Be My Valentine",
-        "url": "https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 216469,
-      "name": "Be My Valentine",
-      "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 217379,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/7l2h3uxkaw0R4asgHyVkQP"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Lazy Afternoon",
         "url": "https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 303266,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 217379,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/7l2h3uxkaw0R4asgHyVkQP"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Love for Connoisseurs",
-        "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
-      },
-      "artists": [
-        {
-          "name": "Angela Verbrugge",
-          "url": "https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Twentieth Century Fox",
-      "url": "https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "All You Need Is The Girl",
         "url": "https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz"
       },
@@ -2743,30 +2727,18 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "The Show Must Go On",
-        "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
+        "name": "Love for Connoisseurs",
+        "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
       },
       "artists": [
         {
-          "name": "Johanna Pettersson",
-          "url": "https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0"
-        },
-        {
-          "name": "Filip Ekestubbe",
-          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
-        },
-        {
-          "name": "Tomas Sj\u00f6dell",
-          "url": "https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv"
-        },
-        {
-          "name": "Adam Ross",
-          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
+          "name": "Angela Verbrugge",
+          "url": "https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj"
         }
       ],
-      "duration_ms": 309426,
-      "name": "Too Late Now",
-      "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
+      "duration_ms": 220720,
+      "name": "Twentieth Century Fox",
+      "url": "https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2803,18 +2775,30 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
+        "name": "The Show Must Go On",
+        "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
       "artists": [
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Johanna Pettersson",
+          "url": "https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0"
+        },
+        {
+          "name": "Filip Ekestubbe",
+          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
+        },
+        {
+          "name": "Tomas Sj\u00f6dell",
+          "url": "https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv"
+        },
+        {
+          "name": "Adam Ross",
+          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
         }
       ],
-      "duration_ms": 293124,
-      "name": "The Streets of Berlin",
-      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
+      "duration_ms": 309426,
+      "name": "Too Late Now",
+      "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2835,18 +2819,18 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Duke Ellington's Sound of Love",
-        "url": "https://open.spotify.com/album/2psYSrYQkVIF4PtoQT0Y8Z"
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
       },
       "artists": [
         {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
         }
       ],
-      "duration_ms": 289902,
-      "name": "Duke Ellington's Sound of Love",
-      "url": "https://open.spotify.com/track/0pfBWnd4W7AoFA4BawU1GT"
+      "duration_ms": 293124,
+      "name": "The Streets of Berlin",
+      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2871,18 +2855,18 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Nice Work If You Can Get It",
-        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
+        "name": "Duke Ellington's Sound of Love",
+        "url": "https://open.spotify.com/album/2psYSrYQkVIF4PtoQT0Y8Z"
       },
       "artists": [
         {
-          "name": "Kristina Ray",
-          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
         }
       ],
-      "duration_ms": 205078,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
+      "duration_ms": 289902,
+      "name": "Duke Ellington's Sound of Love",
+      "url": "https://open.spotify.com/track/0pfBWnd4W7AoFA4BawU1GT"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2903,6 +2887,22 @@
       "duration_ms": 360973,
       "name": "Thinker and a Fool",
       "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Nice Work If You Can Get It",
+        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
+      },
+      "artists": [
+        {
+          "name": "Kristina Ray",
+          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -3031,26 +3031,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Cover Up",
-        "url": "https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Christine Jensen",
-          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
-        }
-      ],
-      "duration_ms": 366306,
-      "name": "Cover Up",
-      "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "My Funny Valentine",
         "url": "https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC"
       },
@@ -3067,6 +3047,26 @@
       "duration_ms": 291509,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Cover Up",
+        "url": "https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Christine Jensen",
+          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
+        }
+      ],
+      "duration_ms": 366306,
+      "name": "Cover Up",
+      "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Anna's Dollhouse",
-        "url": "https://open.spotify.com/album/2pTZXDcFJkdfvqaUz9GcsF"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Koppel",
-          "url": "https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY"
-        }
-      ],
-      "duration_ms": 616306,
-      "name": "Black Water",
-      "url": "https://open.spotify.com/track/4R9PjSTAMvzLxCMw2m7Hqq"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Devil May Care",
         "url": "https://open.spotify.com/album/3rotHV6RMQaDfiekV9OlkK"
       },
@@ -3199,6 +3183,38 @@
       "duration_ms": 211408,
       "name": "Devil May Care",
       "url": "https://open.spotify.com/track/51zApQvjmJu06ZhUYQADJQ"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Anna's Dollhouse",
+        "url": "https://open.spotify.com/album/2pTZXDcFJkdfvqaUz9GcsF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Koppel",
+          "url": "https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY"
+        }
+      ],
+      "duration_ms": 616306,
+      "name": "Black Water",
+      "url": "https://open.spotify.com/track/4R9PjSTAMvzLxCMw2m7Hqq"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Lady Sings the Blues",
+        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -3223,22 +3239,6 @@
       "duration_ms": 236980,
       "name": "Grey Season",
       "url": "https://open.spotify.com/track/3YV2Cyh7vwDXeQYMmqrwf9"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Lady Sings the Blues",
-        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh"
     },
     {
       "added_at": "2024-09-27 07:35:47",

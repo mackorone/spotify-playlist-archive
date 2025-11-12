@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,197 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,199 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 28 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |
 | 29 | [De Liefde Van De Man Gaat Door De Maag \(Worstjes Op M'n Borstjes\)](https://open.spotify.com/track/1qR1XT5nIXhdkxTsYsxO2c) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 3:20 |
 | 30 | [Dodenrit](https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5) | [Drs\. P](https://open.spotify.com/artist/2OqiAHa5cLO0NlxuGiMgWe) | [Drs\. P Compilé Complé](https://open.spotify.com/album/6TinSF7eJQD6SpGwlmaEkn) | 5:12 |
-| 31 | [Telkens Weer](https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:12 |
-| 32 | [Ik Zie Een Ster](https://open.spotify.com/track/36ZnMUDoSrGUV8moDcilOF) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 2:56 |
+| 31 | [Ik Zie Een Ster](https://open.spotify.com/track/36ZnMUDoSrGUV8moDcilOF) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 2:56 |
+| 32 | [Telkens Weer](https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:12 |
 | 33 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
 | 34 | [Angeline \(M'n Blonde Sexmachine\)](https://open.spotify.com/track/6LlJePhi6I45KVfNiQr7Zp) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 4:19 |
 | 35 | [Ik ben Gerrit](https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX) | [Gerrit Dekzeil](https://open.spotify.com/artist/7JCwsDBlp5mgNwDq8EyLa6) | [Waar moet dat heen? Hoe zal dat gaan?](https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt) | 3:00 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 44 | [Meisjes Met Rode Haren](https://open.spotify.com/track/5NKXshbPQekjqoR2l3Q6JZ) | [Arne Jansen](https://open.spotify.com/artist/0JvAQH3pfJAvEL8cAd6TSe) | [Zijn Allergrootste Hits](https://open.spotify.com/album/6SlNC7rFjsx0BKszgslACL) | 5:35 |
 | 45 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
 | 46 | [Kom Van Dat Dak Af](https://open.spotify.com/track/1q8BkBdleysfnUhxISo489) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 2:36 |
-| 47 | [Rozen Die Bloeien](https://open.spotify.com/track/7cl1cqs6tegOCA7UFvYWAV) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Rozen Die Bloeien / Ik Hoor Nog Je Stem](https://open.spotify.com/album/293fKm52sXoMD4UP1jMiKW) | 4:05 |
-| 48 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
+| 47 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
+| 48 | [Rozen Die Bloeien](https://open.spotify.com/track/7cl1cqs6tegOCA7UFvYWAV) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Rozen Die Bloeien / Ik Hoor Nog Je Stem](https://open.spotify.com/album/293fKm52sXoMD4UP1jMiKW) | 4:05 |
 | 49 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
 | 50 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
 | 51 | [Vrede](https://open.spotify.com/track/0qBq2UVJI7sK0GUUWxFq5U) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Ben Cramer](https://open.spotify.com/album/3GwA2mE5gogR1bXJP9EVvf) | 2:56 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 53 | [Wacht Op Mij, Mona Lisa](https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S) | [Het Radi Ensemble](https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd) | [Het Beste van Het Radi Ensemble](https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh) | 3:13 |
 | 54 | [Johanna](https://open.spotify.com/track/4oHur64TnY5PQF68POh7F0) | [Henk Elsink](https://open.spotify.com/artist/7peMTGosIMq2ZGgWLmAuQW), [Hugh Den Ouden](https://open.spotify.com/artist/5EfEtw0gEFfuiCQRbDFOr5) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 5:58 |
 | 55 | [Veronica 538](https://open.spotify.com/track/4UpxV7NEhLLHWDnLZvIkXM) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq), [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [De Singles](https://open.spotify.com/album/3kTkS0et9ZhrwEmunEoQk2) | 4:55 |
-| 56 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
+| 56 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
 | 57 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |
 | 58 | [Vino \(Waar Blijft De Wijn\)](https://open.spotify.com/track/3AWIhm2aCaB2Nj6w4SH61W) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Lytse Hille Presenteert de 'Ik Kwam Je Tegen' tour](https://open.spotify.com/album/0huX9PWQ3GRT5PfpZhF6CZ) | 3:16 |
-| 59 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
+| 59 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
 | 60 | [Dag Zuster Ursula](https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:30 |
 
 Snapshot ID: `AAAAAKwMFLVtHO+A3+A3ChdFmIGPUQ97`

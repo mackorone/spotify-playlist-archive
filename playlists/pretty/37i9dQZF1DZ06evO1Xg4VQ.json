@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72499,
+  "num_followers": 72505,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABP1L5IaR45971/ABdefQs5",
+  "snapshot_id": "aRErAAAAAADy/F38Obx4Ra3Q0DjwMgYA",
   "tracks": [
     {
       "added_at": null,
@@ -270,11 +270,19 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
         }
       ],
-      "duration_ms": 295013,
-      "name": "Dios Nunca Muere",
-      "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
+      "duration_ms": 264013,
+      "name": "Zapata Se Queda (with Celso Pi\u00f1a & Tot\u00f3 la Momposina)",
+      "url": "https://open.spotify.com/track/2bact5EVRC6Pjz6Fzu7BSe"
     },
     {
       "added_at": null,
@@ -350,35 +358,11 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
         }
       ],
-      "duration_ms": 264013,
-      "name": "Zapata Se Queda (with Celso Pi\u00f1a & Tot\u00f3 la Momposina)",
-      "url": "https://open.spotify.com/track/2bact5EVRC6Pjz6Fzu7BSe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
+      "duration_ms": 295013,
+      "name": "Dios Nunca Muere",
+      "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
       "duration_ms": 230680,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/6kYIZQ1uG6hu0FltPc5CzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ken Basman",
-          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sal\u00f3n L\u00e1grimas y Deseo",
         "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 212746,
       "name": "Un Mundo Raro (feat. Diego El Cigala)",
       "url": "https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ken Basman",
+          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El \u00daltimo Trago",
-        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "En el \u00faltimo trago",
-      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiero Verte Feliz",
         "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 177773,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El \u00daltimo Trago",
+        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "En el \u00faltimo trago",
+      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
     },
     {
       "added_at": null,

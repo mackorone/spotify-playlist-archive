@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,071 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,143 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 48 | [mario](https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [mario](https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID) | 2:45 |
 | 49 | [SEN](https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [Paulina Chmura](https://open.spotify.com/artist/4nq9i2sLDlG3BrVvEvwnH7), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ), [SZAJUR](https://open.spotify.com/artist/253rVwZnTeAXcpYSFwy13A) | [SEN](https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS) | 3:01 |
 | 50 | [Co noc](https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Co noc](https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd) | 2:39 |
-| 51 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 |
-| 52 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
+| 51 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
+| 52 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 |
 | 53 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
-| 54 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
-| 55 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
+| 54 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
+| 55 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
 | 56 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 |
 | 57 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
 | 58 | [najgorsze restauracje](https://open.spotify.com/track/4zMKD8kgLfYwuZlzvGTqOJ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [najgorsze restauracje](https://open.spotify.com/album/4N7S8DQNO3TIJqVtijain8) | 2:45 |

@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-679 songs - 1 day 10 hr 56 min
+680 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Clueless](https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B) | [Clueless](https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp) | 3:10 | 2023-11-16 | 2024-11-22 |
 | [Comfortable](https://open.spotify.com/track/7GZCvyXbdMq9mRhf5lNQgI) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Comfortable](https://open.spotify.com/album/2tJSVkMzgZxqP4GXHljomJ) | 2:29 | 2021-12-16 | 2022-01-21 |
 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 | 2024-09-27 | 2025-04-12 |
+| [Complicit](https://open.spotify.com/track/3MafQbJ6au0CsZAD0ftcwk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Complicit](https://open.spotify.com/album/77FzzNEtt65KNobFAasmfM) | 2:37 | 2025-11-11 |  |
 | [Connexion](https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 3:16 | 2021-12-16 | 2023-05-13 |
 | [Control](https://open.spotify.com/track/049pAILMAf9ZLsESoBTpSV) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Control](https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0) | 2:55 | 2024-11-21 | 2025-08-15 |
 | [Control](https://open.spotify.com/track/73dizJioW3V6zacAOr1tg3) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [Covers](https://open.spotify.com/album/3uuBQUwNStdBuJs2Xoidbs) | 4:01 | 2021-12-16 | 2023-01-13 |
@@ -594,7 +595,7 @@
 | [Third Degree Burns](https://open.spotify.com/track/7Fe3uYNGJ07iGVoAvHMqMa) | [Tommy Mayran](https://open.spotify.com/artist/44oO94qqpxd8E0YUhhfMiA) | [Third Degree Burns](https://open.spotify.com/album/0xqPPKPY9f1chhppy9pgSs) | 3:04 | 2021-12-16 | 2022-07-29 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-02 | 2023-12-19 |
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-12-16 | 2022-03-26 |
-| [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 | 2024-11-21 |  |
+| [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 | 2024-11-21 | 2025-11-12 |
 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 | 2024-03-13 | 2025-02-06 |
 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 | 2024-11-21 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-21 | 2025-03-08 |

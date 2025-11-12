@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Sunnery James & Ryan Marciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,578 likes - 102 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,579 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 6 | [With Your Love](https://open.spotify.com/track/3T1CFsOfNi9Dy9cMtjNdEQ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [With Your Love](https://open.spotify.com/album/6HjOkGo6xdNpBJSTa4FlDK) | 3:02 |
 | 7 | [Clap Back](https://open.spotify.com/track/2YRpePKbVq4Z595N1GN1uB) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Clap Back](https://open.spotify.com/album/1KlATNwvXbSLVdyC1rPSgt) | 3:03 |
 | 8 | [Anyway](https://open.spotify.com/track/6vNs3dzBtzLec8eZJOWYhS) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [Anyway](https://open.spotify.com/album/5BTornzfofZqUyBcN2HdhW) | 2:37 |
-| 9 | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 5:11 |
+| 9 | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 2:55 |
 | 10 | [Buckle Up](https://open.spotify.com/track/1frpuEhKCG0pUizK7vPa4Z) | [The Subs](https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI) | [Buckle Up](https://open.spotify.com/album/6uy7jH31wll2vUMnupco6a) | 3:23 |
 | 11 | [Love The Right Way](https://open.spotify.com/track/63SPVpO9EMtDkEFo6QfUxv) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Love The Right Way](https://open.spotify.com/album/0Sj2OyE8baABGE5iCPlXCM) | 3:12 |
 | 12 | [Turn The Lights Off](https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw) | 2:42 |

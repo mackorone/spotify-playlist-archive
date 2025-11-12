@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from ROSALÍA, Gorillaz, Digga D and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,752 likes - 123 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,687 likes - 123 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 18 | [I Need A Rhythm \(feat\. ROZZZQWEEN\)](https://open.spotify.com/track/4EI4xZXYjLXV2wsnAMLZID) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [I Need A Rhythm \(feat\. ROZZZQWEEN\)](https://open.spotify.com/album/4G6Pne4osYMwMBoQQVNgxi) | 2:56 |
 | 19 | [Time to Love](https://open.spotify.com/track/4VIeoEMJltbvXeheuWAMIe) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Time to Love](https://open.spotify.com/album/311c0D09KypPSsR28imdzd) | 3:58 |
 | 20 | [ON&ON](https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ON&ON](https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh) | 4:03 |
-| 21 | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 5:11 |
+| 21 | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 2:55 |
 | 22 | [Flowers Flow](https://open.spotify.com/track/3kuzlLj2v5WhOpbVR4lavX) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [All The Flowers Have Bloomed](https://open.spotify.com/album/1GzZOyOEu5fepoX5rySrdO) | 3:36 |
 | 23 | [You & I](https://open.spotify.com/track/54ZUT13x6aO366youOmO9p) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [You & I](https://open.spotify.com/album/5EqHH76hnNUIAgogAD4elv) | 3:31 |
 | 24 | [Gravity](https://open.spotify.com/track/4uW9dtQpVIicdTOo5SaX4x) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Shady Novelle](https://open.spotify.com/artist/6uK0QOsx1haVqi5FoCBLG6) | [Cowboys On Mars](https://open.spotify.com/album/1gluadLNXj0gvuT2ndCCVC) | 2:15 |

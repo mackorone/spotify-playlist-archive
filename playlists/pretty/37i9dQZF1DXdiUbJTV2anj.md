@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Castle Rat
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,868 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,932 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WOLF I](https://open.spotify.com/track/0gGKxh6q3xQDgh5uUoA6NL) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [The Bestiary](https://open.spotify.com/album/2P4EZTQfqkw1iUyoMH72nw) | 4:37 |
-| 2 | [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 |
-| 3 | [Orbiting](https://open.spotify.com/track/4KxN0xhViLRP4EPbOS60Z3) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [If You Do Not Fear Me...](https://open.spotify.com/album/6BpTl0GVvEGHE99VTh8PDa) | 3:05 |
-| 4 | [Boo](https://open.spotify.com/track/0VO7MW5XwMoIDWQIaKcNS8) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Boo](https://open.spotify.com/album/4hiUCd5MTX6OPEKatkjYwB) | 4:42 |
+| 2 | [Orbiting](https://open.spotify.com/track/4KxN0xhViLRP4EPbOS60Z3) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [If You Do Not Fear Me...](https://open.spotify.com/album/6BpTl0GVvEGHE99VTh8PDa) | 3:05 |
+| 3 | [Boo](https://open.spotify.com/track/0VO7MW5XwMoIDWQIaKcNS8) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Boo](https://open.spotify.com/album/4hiUCd5MTX6OPEKatkjYwB) | 4:42 |
+| 4 | [Dark Flames](https://open.spotify.com/track/3QOpROhrfN6aYkqdoVy5lm) | [Decessus](https://open.spotify.com/artist/3lvwSNBpAskwYZ0NZ6CLh7) | [Dark Flames](https://open.spotify.com/album/0HJN5KPEKfh2smn5v8nF7C) | 5:50 |
 | 5 | [Craven](https://open.spotify.com/track/7hLXMjXwihu7BSzEaQsmGF) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Craven](https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd) | 3:43 |
 | 6 | [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 |
 | 7 | [MADARA · endless dream](https://open.spotify.com/track/1DHbRaVkKEUneuzlVN4Yoc) | [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj) | [MADARA · endless dream](https://open.spotify.com/album/5YB8RXBdO0fvRK7PRjYnS1) | 4:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [Breathing Underwater](https://open.spotify.com/track/6h14vSIGSm7xyzVf1RZpJq) | [Dead Air Divine](https://open.spotify.com/artist/4VP54WAmI5rW6jcKO45ESS), [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn), [Tilian](https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04) | [Breathing Underwater](https://open.spotify.com/album/5mIcx3Nbcxzfl39h8U9Abd) | 3:09 |
 | 55 | [Pull Me In](https://open.spotify.com/track/6ND1KkDppdf0JRwSEqzINC) | [NOAPOLOGY](https://open.spotify.com/artist/5ZCqsLsFST7VxWXjwAUkUV) | [Pull Me In](https://open.spotify.com/album/2lMoJhE6tbDjhdCaXlwsPg) | 4:04 |
 
-Snapshot ID: `AAAAAJOz0zdicQEcdSutUf6T71AfP1ep`
+Snapshot ID: `AAAAAOiSoNbepfl7mplZvleEod9tEpYF`

@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-239 songs - 12 hr 59 min
+240 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [I Saw Mommy Kissing Santa Claus \- Spotify Holiday Single](https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0DmXAI8kiQMatXpxapDiLH) | 2:02 | 2021-12-12 | 2022-11-11 |
 | [I'll Be Home](https://open.spotify.com/track/0YupMLYOYz6lZDbN3kRt7A) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 3:39 | 2021-12-12 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/13VqMQNpRUaEHFqerPibVo) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I'll Be Home for Christmas](https://open.spotify.com/album/0ggYChoRsfiOvD1h266pFV) | 2:45 | 2021-12-12 | 2024-04-19 |
+| [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1) | 3:26 | 2025-11-11 |  |
 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas with The Tenors](https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V) | 2:31 | 2023-10-17 | 2024-12-07 |
 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 | 2022-11-18 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1WFjVtWkQhMnaaKgg3sDb3) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 2:19 | 2023-11-15 |  |
@@ -184,7 +185,7 @@
 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 | 2021-12-12 | 2023-11-16 |
 | [Please Come Home For Christmas](https://open.spotify.com/track/6PMhkA8o1fsn3fLCYuFp9r) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Please Come Home For Christmas](https://open.spotify.com/album/0RGbhid5X6YXTfm09Fezyw) | 2:57 | 2021-12-12 | 2023-11-16 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 | 2023-10-17 | 2023-11-16 |
-| [Please Come Home For Christmas](https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 5:03 | 2023-11-15 |  |
+| [Please Come Home For Christmas](https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 5:03 | 2023-11-15 | 2025-11-12 |
 | [Red Dress](https://open.spotify.com/track/6Owqkp5aWfFy5wkkvw9ZTW) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [Red Dress](https://open.spotify.com/album/0lfxIAy2huamkPZ1xjutcZ) | 3:26 | 2021-12-12 |  |
 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/29UQV9kjexf0TJAR0UElID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4ecvpp0mbSwKEUWHAPngLV) | 3:28 | 2021-12-12 | 2022-07-29 |
 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/3vkLyqzW60sA3z0qnkX4Fs) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Holly & The Ivy](https://open.spotify.com/album/74RfZ8GZ7kwNPDJYU3kBVW) | 3:28 | 2022-11-10 | 2022-11-13 |

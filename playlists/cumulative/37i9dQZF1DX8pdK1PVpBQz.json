@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Harley Girl",
+  "description": "The best new music by independent artists and labels. Cover: Baby Smith",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -1798,6 +1798,24 @@
       "duration_ms": 176416,
       "name": "Adolescence",
       "url": "https://open.spotify.com/track/0CBXx2WCaJ35tWkmtBX8fm"
+    },
+    {
+      "album": {
+        "name": "Adored",
+        "url": "https://open.spotify.com/album/5rUVrWjxTQARIP0pHUw0PN"
+      },
+      "artists": [
+        {
+          "name": "Baby Smith",
+          "url": "https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/3pwSTMUgaiP7CR99EgwrGi"
     },
     {
       "album": {
@@ -5122,7 +5140,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 224762,
       "name": "Back To Texas",
       "url": "https://open.spotify.com/track/0DQnd5ztyLJWc4TCZCDaC1"
@@ -5260,6 +5278,24 @@
       "duration_ms": 226556,
       "name": "Backup Guy",
       "url": "https://open.spotify.com/track/0vER1h3dCZI3fuiyrrGJb9"
+    },
+    {
+      "album": {
+        "name": "Backwards Step EP",
+        "url": "https://open.spotify.com/album/0PxiFSA3ADs69TVG2ZDsBH"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297391,
+      "name": "Backwards Step",
+      "url": "https://open.spotify.com/track/44dAUybkWmNpfqVCYxo592"
     },
     {
       "album": {
@@ -11662,7 +11698,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 176000,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/16HNnYRUfle0yIheEx7aeh"
@@ -21213,6 +21249,28 @@
     },
     {
       "album": {
+        "name": "Electrolytes",
+        "url": "https://open.spotify.com/album/15CRwtTHNf4jy94R2jriOh"
+      },
+      "artists": [
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        },
+        {
+          "name": "Lonelyspeck",
+          "url": "https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161707,
+      "name": "Electrolytes",
+      "url": "https://open.spotify.com/track/1PKB4cIGJM4HYyvLniraDO"
+    },
+    {
+      "album": {
         "name": "ELEGANTE",
         "url": "https://open.spotify.com/album/0Pol9jlvTYrOFftlWhdYDS"
       },
@@ -24420,7 +24478,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 184109,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/0LS4IBpyRdO78nsUqwzYG3"
@@ -24554,7 +24612,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 140094,
       "name": "Fire and Ice",
       "url": "https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf"
@@ -27070,6 +27128,24 @@
       "duration_ms": 192000,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/2sDILVeFCYa96jLQFoAtKL"
+    },
+    {
+      "album": {
+        "name": "Get It Together",
+        "url": "https://open.spotify.com/album/6TS6UfHSIl1pUjbfubPJzA"
+      },
+      "artists": [
+        {
+          "name": "MEMORY MOTEL",
+          "url": "https://open.spotify.com/artist/3kdwmEU0YnsQtd0dny21Y5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251688,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/0QjoRYTJCq2sWsJy3DYch1"
     },
     {
       "album": {
@@ -30414,7 +30490,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 250607,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/5EVfMP3tZ8L1c2ple2YnGT"
@@ -33988,7 +34064,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 264347,
       "name": "I Love You Babe",
       "url": "https://open.spotify.com/track/7biAoWdaVpTaKbkOOdf8lC"
@@ -36206,7 +36282,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 183374,
       "name": "In The Garden",
       "url": "https://open.spotify.com/track/1JkXxDtWLPY1Z6Wn42b8Uu"
@@ -37488,7 +37564,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 178730,
       "name": "It's You!",
       "url": "https://open.spotify.com/track/5LJgndlOyPLZkhmcOHjRYq"
@@ -38557,6 +38633,28 @@
     },
     {
       "album": {
+        "name": "Keep Me Alive",
+        "url": "https://open.spotify.com/album/3vNlMPoSWc3WepLh2zHiXo"
+      },
+      "artists": [
+        {
+          "name": "Addison Dean",
+          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
+        },
+        {
+          "name": "Jaylin Rahjon",
+          "url": "https://open.spotify.com/artist/7GZv334spln2zHFg0sJi5S"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Keep Me Alive",
+      "url": "https://open.spotify.com/track/7c0jiXS8GsVEONVTwvK8xI"
+    },
+    {
+      "album": {
         "name": "Keep My Head And Hands Up",
         "url": "https://open.spotify.com/album/4frlr9bknlheBvpcZv5kQ3"
       },
@@ -38962,6 +39060,24 @@
       "duration_ms": 271500,
       "name": "Kiss Me (Kill Me)",
       "url": "https://open.spotify.com/track/2CHTt81Ly6DlMb48BXgmcW"
+    },
+    {
+      "album": {
+        "name": "Kiss the Rain",
+        "url": "https://open.spotify.com/album/6FK8wwxb2hLpVt7n87co0p"
+      },
+      "artists": [
+        {
+          "name": "THIRST TRAP",
+          "url": "https://open.spotify.com/artist/6igX8KxCATg98x9uBHMytV"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225743,
+      "name": "Kiss the Rain",
+      "url": "https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk"
     },
     {
       "album": {
@@ -50898,7 +51014,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 178699,
       "name": "off my chest",
       "url": "https://open.spotify.com/track/1xasiY103SMpHD2CxPGzRM"
@@ -53021,6 +53137,24 @@
     },
     {
       "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/4hF3A9pVaMJFYp3aUF21cO"
+      },
+      "artists": [
+        {
+          "name": "CAITLIN",
+          "url": "https://open.spotify.com/artist/37yYoQiIfgAgxKimAy9Rx8"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203240,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/21B02lAL25f8WWNMyc7uMo"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/15faiVF18L4Vk7SnCxqKgJ"
       },
@@ -54540,7 +54674,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 134810,
       "name": "Pick and Go",
       "url": "https://open.spotify.com/track/752fPgj9gKe17HOav3aSOB"
@@ -57438,6 +57572,24 @@
       "duration_ms": 168956,
       "name": "READ",
       "url": "https://open.spotify.com/track/1o2SurUyAJFFkf0kjSMKo1"
+    },
+    {
+      "album": {
+        "name": "Read My Mind",
+        "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212490,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
     },
     {
       "album": {
@@ -68941,6 +69093,24 @@
     },
     {
       "album": {
+        "name": "talk soon",
+        "url": "https://open.spotify.com/album/35tFrzCla50bM2sNNVGB7n"
+      },
+      "artists": [
+        {
+          "name": "Nat Luna",
+          "url": "https://open.spotify.com/artist/3T2tCEmOkdYPSlBUaXkK92"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163738,
+      "name": "talk soon",
+      "url": "https://open.spotify.com/track/2BDLAqF83gojhV8PXJoNoN"
+    },
+    {
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5GbHtX43MkJdrxawyYf1zl"
       },
@@ -79217,6 +79387,24 @@
     },
     {
       "album": {
+        "name": "things i should probably keep to myself",
+        "url": "https://open.spotify.com/album/5oP0i6oTSRLkz6puHDNBaH"
+      },
+      "artists": [
+        {
+          "name": "GRXCE",
+          "url": "https://open.spotify.com/artist/1g9G7BRh9Fz6AZ0PA8Y8pl"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180984,
+      "name": "without me",
+      "url": "https://open.spotify.com/track/6btVsuEP20QF9Kj7fuVWEA"
+    },
+    {
+      "album": {
         "name": "Without U",
         "url": "https://open.spotify.com/album/6a9P1aZhMgDsPY5H8Bud2b"
       },
@@ -80244,7 +80432,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 219122,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/44U8coblvssDK0S4u3ExWD"

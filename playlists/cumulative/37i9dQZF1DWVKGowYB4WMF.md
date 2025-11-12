@@ -4,7 +4,7 @@
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-80 songs - 5 hr 22 min
+80 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 | 2024-03-26 |  |
 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 | 2024-03-26 |  |
 | [Have You Seen Her](https://open.spotify.com/track/01cQPNCptd662nikuY42zw) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 5:10 | 2024-03-26 |  |
-| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2024-03-26 |  |
+| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 6:10 | 2024-03-26 |  |
 | [I Don't Like Mondays](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [The Fine Art Of Surfacing](https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts) | 4:19 | 2024-03-26 |  |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2024-03-26 |  |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 | 2024-03-26 |  |

@@ -1,15 +1,15 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136455,
+  "num_followers": 136456,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPnTGELgyoatPn1dI383r0wNeqr3",
+  "snapshot_id": "AAAAAM1VZX6kdRQJQVC3g1g/uQtsioPk",
   "tracks": [
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u3042\u306b\u3085\u30fc",
         "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/18dvOWJvmNvEkolNJ2tRNS"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Asleep Among Endives",
         "url": "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Prema",
         "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
@@ -57,7 +57,39 @@
       "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Burnt",
+        "url": "https://open.spotify.com/album/39cHTNTRQ1ESIkV3fBnDCE"
+      },
+      "artists": [
+        {
+          "name": "mmm",
+          "url": "https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Cruel Odds",
+      "url": "https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Luminescent Creatures",
+        "url": "https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "SONAR",
+      "url": "https://open.spotify.com/track/2ouelh8Hn1HtvCsIpzS5tv"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "I Don't Want To Leave",
         "url": "https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u51ac\u306e\u306f\u3058\u307e\u308a",
         "url": "https://open.spotify.com/album/1F44S2P7zYc8dElPmjqBd6"
@@ -93,39 +125,7 @@
       "url": "https://open.spotify.com/track/2NA611BGLKXlDKrV7JIJyF"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Naked Vol.2",
-        "url": "https://open.spotify.com/album/66Ms7ZzSdvS5A5kF1jEhvr"
-      },
-      "artists": [
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8 - Naked Mix",
-      "url": "https://open.spotify.com/track/0Fq6qR6DCrNxrpG703jWqf"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Luminescent Creatures",
-        "url": "https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 197172,
-      "name": "SONAR",
-      "url": "https://open.spotify.com/track/2ouelh8Hn1HtvCsIpzS5tv"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u60aa\u5922\u306e\u3088\u3046\u306a (NightTime Version)",
         "url": "https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Slow time lover",
         "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/5JtTHTw6WF8eyENbzb9il0"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/6mboagIZ1lSw5KbIN3kZNK"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u65e5\u8a18",
         "url": "https://open.spotify.com/album/1fzhvTFdiPT8AvSOsFa4vJ"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/4hHdBdQHbf2bDyes288SQK"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
         "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Ren'dez-vous",
         "url": "https://open.spotify.com/album/51M0Y7HBSSD6SggyRqGMFH"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/2dUYxBbmtmNfanhSLbRcry"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u56fd\u5b9d\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/71zMCedoxuCj0m108ODrFL"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4c6yOy3ue1sYWKWxaedSev"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
         "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "CAFE JAPAN",
         "url": "https://open.spotify.com/album/2HSrcUXXNh5ib1T2oXxM08"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/3QppEXrAGuSrs8pmlxBDou"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Editorial",
         "url": "https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1Ppu2rlgrZz0pfcRl20vpC"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "475",
         "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4s3kcmPWMIxf7LmWF4F80m"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u30d5\u30a7\u30a4\u30af\u30ef\u30fc\u30eb\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
         "url": "https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u591c\u7a7a",
         "url": "https://open.spotify.com/album/0jUNTykn9v1VLuJGkE42d7"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1rWp9c9Po0i4lAfCJYOoBh"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
         "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "KISS IN THE SKY",
         "url": "https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u7720\u308c\u306a\u3044\u591c\u306b",
         "url": "https://open.spotify.com/album/5ra5TqcJsRzIgoGvtcAMvw"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/1eBeSpdQRvARloHq0fTVzK"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5287\u5834\u30a2\u30cb\u30e1 \u30eb\u30c3\u30af\u30d0\u30c3\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3fPBJ0HC62DBciQuUYoXAz"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/4KXZ4MJKT0RYGhijfQ08Jw"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "5am",
         "url": "https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u6620\u753b\u300c\u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0\u300d (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/16TP4YtbpExH4PYTEJ2yaC"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Grapefruit Moon",
         "url": "https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5287\u5834",
         "url": "https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u706f\u706b",
         "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "bless",
         "url": "https://open.spotify.com/album/3R2OcOFPS54VirGmQaTB3D"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/5jHrTGJQ7Nw7XDOfd5N4CF"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5dee\u3057\u8272",
         "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Brilliant Blue Nemuru Diary",
         "url": "https://open.spotify.com/album/2Pd9XVDRZ71ngTjzqxlVQh"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/1juCMseyk7vT9AZ8XsoaA0"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u785d\u5b50\u306e\u7dda",
         "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/3eCl6n1uTevApLYQDC1QJM"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "YELLOW DANCER",
         "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "DESIGN",
         "url": "https://open.spotify.com/album/0QXiv0aGxKVLugiTD6Wfc4"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3F3ND4kdC19c5n08haZHnk"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "This is music too",
         "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
         "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
@@ -729,23 +729,7 @@
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Organic Plastic Music",
-        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
-      },
-      "artists": [
-        {
-          "name": "Orange Pekoe",
-          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
-      "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
@@ -761,7 +745,23 @@
       "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Organic Plastic Music",
+        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
+      },
+      "artists": [
+        {
+          "name": "Orange Pekoe",
+          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
+      "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
         "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
@@ -793,23 +793,7 @@
       "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "\u706f\u53f0 (Live Session)",
-      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
@@ -825,7 +809,7 @@
       "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
@@ -841,7 +825,23 @@
       "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Days With Uncertainty",
         "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Soup",
         "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/031ZxdGrMfQdhwJu4B2euP"
@@ -889,27 +889,7 @@
       "url": "https://open.spotify.com/track/6aeeLI3C9U6yAnE0QRCce9"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Branches",
         "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
@@ -925,7 +905,23 @@
       "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Beautiful Sleep",
+      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
@@ -945,7 +941,27 @@
       "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
@@ -969,39 +985,7 @@
       "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Beautiful Sleep",
-      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Arrows",
-        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 266729,
-      "name": "Arrows",
-      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5fc3\u306e\u305d\u3070\u306b",
         "url": "https://open.spotify.com/album/1iZDg7OG1kv1hUDuOpTFiI"
@@ -1017,7 +1001,23 @@
       "url": "https://open.spotify.com/track/2hR3yLXHkMQLvdOPR8LGQp"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Arrows",
+        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 266729,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
@@ -1053,23 +1053,7 @@
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Double Rift",
-        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
-      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "TWO MOON",
         "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
@@ -1085,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
@@ -1101,7 +1085,23 @@
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Double Rift",
+        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
+      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u306f\u306a\u3088\u3069",
         "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Night Flow",
         "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
@@ -1137,23 +1137,7 @@
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
-      },
-      "artists": [
-        {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "TWO MOON",
         "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
@@ -1169,7 +1153,23 @@
       "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
+      },
+      "artists": [
+        {
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
@@ -1185,23 +1185,7 @@
       "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
-        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
-      },
-      "artists": [
-        {
-          "name": "Takehara Pistol",
-          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
-        }
-      ],
-      "duration_ms": 331984,
-      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
-      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "What are you looking for",
         "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
@@ -1217,7 +1201,23 @@
       "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
+        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
+      },
+      "artists": [
+        {
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+        }
+      ],
+      "duration_ms": 331984,
+      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
+      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Freeway",
         "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u3081\u3050\u308b",
         "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
@@ -1249,23 +1249,7 @@
       "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Westbound EP",
-        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 228005,
-      "name": "Separate Seasons",
-      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
@@ -1281,7 +1265,23 @@
       "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Westbound EP",
+        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 228005,
+      "name": "Separate Seasons",
+      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "THUNDERBIRD",
         "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
@@ -1317,7 +1317,7 @@
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u52c7\u6c17",
         "url": "https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z"
@@ -1333,7 +1333,7 @@
       "url": "https://open.spotify.com/track/5vr4m6d0JK05OSGD8I7nMW"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u97f3\u697d\u3068\u79c1",
         "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
         "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
@@ -1365,7 +1365,7 @@
       "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
         "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
         "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
@@ -1401,7 +1401,7 @@
       "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
@@ -1421,7 +1421,7 @@
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
         "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
@@ -1437,7 +1437,7 @@
       "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5317\u3078\u5411\u304b\u3046",
         "url": "https://open.spotify.com/album/5EdJTMHBPL2ziqG47U0ILo"
@@ -1453,7 +1453,7 @@
       "url": "https://open.spotify.com/track/5FVS7nLGnbYPm5fUAPmO1D"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
@@ -1469,23 +1469,7 @@
       "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 116880,
-      "name": "\u591c\u306e\u307e\u307e\u3067",
-      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u3070\u304b\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
@@ -1501,7 +1485,39 @@
       "url": "https://open.spotify.com/track/2vbXsUHfLlmH2svOb5oDv6"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 116880,
+      "name": "\u591c\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Naked Vol.2",
+        "url": "https://open.spotify.com/album/66Ms7ZzSdvS5A5kF1jEhvr"
+      },
+      "artists": [
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8 - Naked Mix",
+      "url": "https://open.spotify.com/track/0Fq6qR6DCrNxrpG703jWqf"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
@@ -1517,7 +1533,7 @@
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "MISSLIM",
         "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
@@ -1533,7 +1549,7 @@
       "url": "https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "Wild Flowers",
         "url": "https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3"
@@ -1549,71 +1565,7 @@
       "url": "https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u6700\u60aa\u6700\u611b",
-        "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
-      },
-      "artists": [
-        {
-          "name": "Ai Higuchi",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "\u5287\u5834",
-      "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "Highlights from Simple is best",
-        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "The Rose (15th Anniversary Version\uff09",
-      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
-      },
-      "artists": [
-        {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
-      },
-      "artists": [
-        {
-          "name": "Saho Terao",
-          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
-        }
-      ],
-      "duration_ms": 430266,
-      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0"
@@ -1637,7 +1589,71 @@
       "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u6700\u60aa\u6700\u611b",
+        "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "\u5287\u5834",
+      "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Highlights from Simple is best",
+        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "The Rose (15th Anniversary Version\uff09",
+      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+      },
+      "artists": [
+        {
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
+      },
+      "artists": [
+        {
+          "name": "Saho Terao",
+          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+        }
+      ],
+      "duration_ms": 430266,
+      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u30cf\u30f3\u30b5\u30e0\u30dc\u30fc\u30a4",
         "url": "https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz"
@@ -1653,7 +1669,7 @@
       "url": "https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22"
     },
     {
-      "added_at": "2025-10-11 13:26:43",
+      "added_at": "2025-11-11 17:08:53",
       "album": {
         "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
         "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
@@ -1667,26 +1683,6 @@
       "duration_ms": 317853,
       "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
       "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
-    },
-    {
-      "added_at": "2025-10-11 13:26:43",
-      "album": {
-        "name": "UTAU",
-        "url": "https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "\u7f8e\u8c8c\u306e\u9752\u7a7a\uff08Bibo no Aozora\uff09 - Geimori - Medley",
-      "url": "https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

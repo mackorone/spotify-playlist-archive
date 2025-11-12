@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Whitney
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,869 likes - 175 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,894 likes - 175 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

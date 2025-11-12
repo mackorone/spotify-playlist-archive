@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 774089,
+  "num_followers": 774173,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "God Gave Me You",
-      "url": "https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 212000,
       "name": "I Cross My Heart - Pure Country Soundtrack Version",
       "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "Red River Blue (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "C.W. McCall's Greatest Hits",
-        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
-      },
-      "artists": [
-        {
-          "name": "C.W. McCall",
-          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Convoy",
-      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 187000,
       "name": "Love Without End, Amen",
       "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "C.W. McCall's Greatest Hits",
+        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
+      },
+      "artists": [
+        {
+          "name": "C.W. McCall",
+          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "All I Can Be",
-        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 231506,
-      "name": "Love, Me",
-      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "All I Can Be",
+        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+      "duration_ms": 231506,
+      "name": "Love, Me",
+      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
     },
     {
       "added_at": "2025-11-03 22:12:33",

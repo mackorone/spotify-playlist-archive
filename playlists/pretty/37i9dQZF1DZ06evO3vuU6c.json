@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1433967,
+  "num_followers": 1433977,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAANp28uyUxQBmTPezP3nLGF",
+  "snapshot_id": "aRErAAAAAABi6XN9ZUysIxh0dJCbiYJy",
   "tracks": [
     {
       "added_at": null,
@@ -887,34 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
-        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "LSD",
-          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
-        }
-      ],
-      "duration_ms": 175826,
-      "name": "No New Friends (feat. Sia, Diplo, and Labrinth)",
-      "url": "https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHADYXV",
         "url": "https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU"
       },
@@ -951,6 +923,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "LSD",
+          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
+        }
+      ],
+      "duration_ms": 175826,
+      "name": "No New Friends (feat. Sia, Diplo, and Labrinth)",
+      "url": "https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Forgive You [(Chromeo Remix) [radio edit]]",
         "url": "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7"
       },
@@ -971,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "When It Falls",
-        "url": "https://open.spotify.com/album/24mJNZUHHK22MvgEnG1his"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 417453,
-      "name": "Somersault",
-      "url": "https://open.spotify.com/track/7q6AZTjMECFy439nPCgCMS"
+      "duration_ms": 212668,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN"
     }
   ],
   "unique_name": "This Is Sia",

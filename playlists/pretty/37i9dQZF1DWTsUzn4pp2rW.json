@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 186893,
+  "num_followers": 186972,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
+      },
+      "artists": [
+        {
+          "name": "Susan Wong",
+          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
+        }
+      ],
+      "duration_ms": 164652,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Losing Grip",
         "url": "https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 250384,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
-      },
-      "artists": [
-        {
-          "name": "Susan Wong",
-          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
-        }
-      ],
-      "duration_ms": 164652,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Summers",
-          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "\u00e0 Fleur de Peau",
         "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 258900,
       "name": "Inside and Out",
       "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Summers",
+          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
       },
       "artists": [
         {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
         }
       ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+      "duration_ms": 216000,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
       },
       "artists": [
         {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
         }
       ],
-      "duration_ms": 216000,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 211893,
       "name": "Okay Far Away",
       "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+      },
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+        }
+      ],
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "A Bridge",
         "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 243666,
       "name": "A Bridge",
       "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
+      },
+      "artists": [
+        {
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Catwoman",
         "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 208273,
       "name": "It's Complicated",
       "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
     },
     {
       "added_at": "2025-05-18 18:29:44",

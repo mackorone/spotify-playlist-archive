@@ -4,10 +4,11 @@
 
 > Sei nella tua running era e stai preparando a tua prossima mezza maratona 🏃🏻
 
-164 songs - 8 hr 0 min
+164 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-06 |  |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-18 |  |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2023-06-23 |  |
 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 | 2023-06-23 | 2024-01-28 |
@@ -85,7 +86,6 @@
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2023-06-29 | 2023-11-14 |
 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-03-06 | 2025-07-03 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2025-07-21 |  |
-| [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 | 2025-11-06 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-06-23 |  |
 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 | 2023-06-29 | 2024-03-28 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-21 |  |

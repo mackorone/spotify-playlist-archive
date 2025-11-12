@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 228397,
       "name": "Anti-Hero (feat. Bleachers)",
       "url": "https://open.spotify.com/track/0j0gJqxitjhmmkrW56dtQH"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 241960,
       "name": "Kissing In the Cold - Mistletoe Version",
       "url": "https://open.spotify.com/track/2TaQZIxvt9TVfNqXe5A1ae"
@@ -1258,10 +1258,46 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
+    },
+    {
+      "album": {
+        "name": "American Heart",
+        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2gIRXLzCOpyQScaXylxzmk"
     },
     {
       "album": {
@@ -1326,6 +1362,24 @@
       "duration_ms": 252306,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/702fAWRsLomCKFROeMfKZd"
+    },
+    {
+      "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
     },
     {
       "album": {
@@ -1574,7 +1628,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 245666,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ"
@@ -1808,6 +1862,42 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
+    },
+    {
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215464,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ"
     },
     {
       "album": {

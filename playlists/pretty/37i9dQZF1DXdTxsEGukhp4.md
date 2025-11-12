@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,137 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,161 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OCEAN](https://open.spotify.com/track/4ZvrbjvAwIPWxlECoEMMSo) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [OCEAN](https://open.spotify.com/album/0imP3ylu6LRSGTsedAybzW) | 3:39 |
-| 2 | [なんでも言っちゃって](https://open.spotify.com/track/1ZGBwdBfy7M5XWGo4XoGlf) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [LOGIC](https://open.spotify.com/album/5ftRmSBjH02fMedZmn1alL) | 2:26 |
+| 2 | [普通の人間だって言えないよ](https://open.spotify.com/track/5mdhqO06ZE7PCZ0uNc12Qz) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [普通の人間だって言えないよ](https://open.spotify.com/album/34oChr7G0x8xWoPZDGY2iL) | 2:56 |
 | 3 | [BABY](https://open.spotify.com/track/7k9SOTCuKQA0vPaQxh22OX) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [BABY](https://open.spotify.com/album/7uOzobU8DHxUSglFZPscFf) | 2:51 |
 | 4 | [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 |
 | 5 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 |
 | 50 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 
-Snapshot ID: `AAAAAHVaCV5HniQYUWjXuLF9+3j2akEJ`
+Snapshot ID: `AAAAAF9YmjPFSx1M5bxxiBjxAf4CRPMn`

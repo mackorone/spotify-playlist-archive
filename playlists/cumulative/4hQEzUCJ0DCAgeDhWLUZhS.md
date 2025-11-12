@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-535 songs - 1 day 7 hr 20 min
+536 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [The Runner](https://open.spotify.com/track/0AWYvdcS6N463VlsbrzijH) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [The Runner](https://open.spotify.com/album/7CwnnH6mZCAKwKLgwrLWRU) | 4:21 | 2020-10-10\* | 2021-05-13 |
 | [The Way I Feel](https://open.spotify.com/track/00wwC5APlsYUz47ci2rD4o) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [The Way I Feel](https://open.spotify.com/album/42uTSaGDVKFovDuCGWRQtB) | 4:02 | 2025-10-24 |  |
 | [The Way It Goes](https://open.spotify.com/track/6SUVOI04xjnLWEm8KQfNgE) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [The Way It Goes](https://open.spotify.com/album/48bPxZj78IQWlsu2ynIhWg) | 2:34 | 2024-10-11 | 2025-06-04 |
+| [The Wreckage](https://open.spotify.com/track/4UG5A6MoilYGC9Ii1s3LnL) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Wreckage](https://open.spotify.com/album/3mdtLYpOLXesjwFVxvjVAZ) | 4:28 | 2025-11-11 |  |
 | [The Writing on the Wall](https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN) | 6:13 | 2021-07-17 | 2025-05-28 |
 | [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/track/3XJySfQxLrk1nuHB3OUPs9) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a), [Andrew Michael Wells](https://open.spotify.com/artist/4GasLQGNFJu8hUb6NiEE44) | [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/album/0sELNTcQOVostrzXOv70Bc) | 3:21 | 2023-08-18 | 2025-06-04 |
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 | 2025-06-04 |

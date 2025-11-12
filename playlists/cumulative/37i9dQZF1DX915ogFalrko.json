@@ -1791,6 +1791,28 @@
     },
     {
       "album": {
+        "name": "P.S I Love You",
+        "url": "https://open.spotify.com/album/0rOSkVbGUhgFTrpRJL6vqn"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Evan Klar",
+          "url": "https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176562,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/1RSn4iuoSFtw1K8VvWmzcn"
+    },
+    {
+      "album": {
         "name": "Two of Diamonds",
         "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
       },
@@ -2154,7 +2176,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 197703,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"

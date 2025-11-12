@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,734 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,758 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 32 | [Orgullo Rolo](https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Orgullo Rolo](https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G) | 3:45 |
 | 33 | [De Pie](https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [De Pie](https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY) | 4:28 |
 | 34 | [Sistema \- Remix](https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ) | [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [Sistema \(Remix\)](https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP) | 4:00 |
-| 35 | [MALDITO](https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:08 |
-| 36 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
+| 35 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
+| 36 | [MALDITO](https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:08 |
 | 37 | [La Ansiedad y Yo](https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La Ansiedad y Yo](https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n) | 3:14 |
 | 38 | [Origen](https://open.spotify.com/track/293p8igLtACWCeDhXohcnC) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Origen](https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO) | 5:47 |
 | 39 | [Espacio](https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [Espacio](https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs) | 4:35 |

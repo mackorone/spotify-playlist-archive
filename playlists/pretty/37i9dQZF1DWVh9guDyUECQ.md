@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Shepherd y Niko Eme
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,722 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,734 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 53 | [Honestidad](https://open.spotify.com/track/1SfZqeVwQEEIsJVSaAB8v0) | [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Lutek](https://open.spotify.com/artist/62e4UXxMpqNGBJFfyP7xk4) | [Honestidad](https://open.spotify.com/album/36gBZBhwd8WUf6gMox6Nrb) | 3:45 |
 | 54 | [Preocupado Por Quién?](https://open.spotify.com/track/6yFmXt81sn9MfwkNHUYo6e) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [El Nene](https://open.spotify.com/album/1Y394HV6hXzZpJml9gqGXL) | 3:54 |
 | 55 | [Hopetober 6](https://open.spotify.com/track/1413d1BEPIgAZD7Rw83MHV) | [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Hopetober 6](https://open.spotify.com/album/7MlbKa9IDgAJSORtuB1PVb) | 2:52 |
-| 56 | [O N L Y G O D](https://open.spotify.com/track/03XBK5XMwgPoAPRURgS4bW) | [Jay Changer](https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX), [Joe Lee](https://open.spotify.com/artist/6vNgiQRTbOJbe4MnQob1Wd), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP), [Sseven](https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw), [Jere](https://open.spotify.com/artist/7EfoVv5dszq2vZNoVETZDd) | [O N L Y G O D](https://open.spotify.com/album/52bQkBTwgi7s2vctmGXVB7) | 4:28 |
+| 56 | [O N L Y G O D](https://open.spotify.com/track/03XBK5XMwgPoAPRURgS4bW) | [Jay Changer](https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX), [Joe Lee](https://open.spotify.com/artist/6vNgiQRTbOJbe4MnQob1Wd), [Sseven](https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP), [Jere](https://open.spotify.com/artist/7EfoVv5dszq2vZNoVETZDd) | [O N L Y G O D](https://open.spotify.com/album/52bQkBTwgi7s2vctmGXVB7) | 4:28 |
 | 57 | [HIJOS DEL KING](https://open.spotify.com/track/1HAmbPro7ax6aQNmbKc505) | [Caleb](https://open.spotify.com/artist/0PWnks3CTlHQY2LJFCLSHC), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [HIJOS DEL KING](https://open.spotify.com/album/5KjFL5afDuUfy4ET4JuN54) | 2:43 |
 | 58 | [Love](https://open.spotify.com/track/7A8j7qaoYsKa38Cvg64AZz) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Antivirus](https://open.spotify.com/album/4w7Slsv9LjzUCJRafERJx7) | 3:31 |
 | 59 | [Lo Mío Es Tuyo](https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih) | [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Lo Mío Es Tuyo](https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0) | 3:05 |

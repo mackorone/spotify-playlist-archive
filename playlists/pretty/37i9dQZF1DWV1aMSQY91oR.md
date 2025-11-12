@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Smiley & Roy Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,019 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,028 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 22 | [For What \(feat\. Cash Cobain\)](https://open.spotify.com/track/6GfC36LoOZv0zCa45Et1Fg) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [For What \(feat\. Cash Cobain\)](https://open.spotify.com/album/3suGtJheyDNSi0q00nEM9h) | 2:31 |
 | 23 | [For No Reason](https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [For No Reason](https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en) | 2:39 |
 | 24 | [Streets A Lie](https://open.spotify.com/track/30HhS6WYfKWqkZJj43Itce) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Streets A Lie](https://open.spotify.com/album/3XZWwo05cC6xrEHzqs1S5H) | 2:49 |
-| 25 | [Man In The Mirror](https://open.spotify.com/track/1owyrndH115aDLZ872YHvC) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Man in the Mirror](https://open.spotify.com/album/0YwlXIYtlZOQL1qcCWNtK2) | 4:14 |
+| 25 | [Man In The Mirror](https://open.spotify.com/track/1owyrndH115aDLZ872YHvC) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Man In The Mirror](https://open.spotify.com/album/0YwlXIYtlZOQL1qcCWNtK2) | 4:14 |
 | 26 | [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 |
 | 27 | [Recon](https://open.spotify.com/track/12OG0DoAsa4kWYR04SFbBz) | [Ke$hawn](https://open.spotify.com/artist/3k3oODkNHZCkd83XO08OR0) | [Scene / Recon](https://open.spotify.com/album/6yA4p5vF5RByubbtH2RfQB) | 1:49 |
 | 28 | [97 Rockies](https://open.spotify.com/track/0HYJIIqSrfjKkA6O3jS2Ca) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [97 Rockies](https://open.spotify.com/album/1ipbLoMrHr4EmJrapPhis2) | 2:33 |

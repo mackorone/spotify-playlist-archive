@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 137974,
+  "num_followers": 137997,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -948,7 +948,7 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 231560,
+      "duration_ms": 370426,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
     },

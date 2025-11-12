@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,252 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,264 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 32 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 | 33 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 34 | [Nice Guy \(feat\. Tyla\)](https://open.spotify.com/track/3rZpsB07jU84a0LvMTGJ8L) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:16 |
-| 35 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
-| 36 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
-| 37 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
-| 38 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 |
+| 35 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
+| 36 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
+| 37 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 |
+| 38 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 39 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 |
 | 40 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 |
 | 41 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 74 | [Rock Steady](https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [GOLD II](https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn) | 3:11 |
 | 75 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 |
 | 76 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 |
-| 77 | [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 |
-| 78 | [I Go Nowhere](https://open.spotify.com/track/4e6F0OgG46Fh3mkLBrxoK6) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Master of Ballads](https://open.spotify.com/album/5E9K9Om1ctsEyuI3kPFG6X) | 2:54 |
+| 77 | [I Go Nowhere](https://open.spotify.com/track/4e6F0OgG46Fh3mkLBrxoK6) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Master of Ballads](https://open.spotify.com/album/5E9K9Om1ctsEyuI3kPFG6X) | 2:54 |
+| 78 | [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 |
 | 79 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 |
 | 80 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 

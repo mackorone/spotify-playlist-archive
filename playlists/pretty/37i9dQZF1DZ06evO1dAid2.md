@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,024 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,034 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 4 | [School Day \(Ring Ring Goes The Bell\)](https://open.spotify.com/track/3RYwxAkUbHCzCmX8M0C0Zd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:40 |
 | 5 | [Roll Over Beethoven](https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:24 |
 | 6 | [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 |
-| 7 | [Rock And Roll Music](https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:31 |
-| 8 | [Route 66](https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:51 |
+| 7 | [Route 66](https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:51 |
+| 8 | [Rock And Roll Music](https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:31 |
 | 9 | [Maybellene](https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:23 |
-| 10 | [Trick Or Treat](https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 1:31 |
-| 11 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 |
+| 10 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 |
+| 11 | [Trick Or Treat](https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 1:31 |
 | 12 | [Promised Land](https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:23 |
 | 13 | [Let It Rock](https://open.spotify.com/track/2OCoH12t6olzx9bT1PEC8F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 1:42 |
 | 14 | [Carol](https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:48 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 37 | [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 |
 | 38 | [Go Bobby Soxer](https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:58 |
 | 39 | [Dear Dad \- Single Version](https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 1:49 |
-| 40 | [Go Go Go](https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 2:31 |
+| 40 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 |
 | 41 | [Wee Wee Hours](https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 3:02 |
 | 42 | [Little Marie](https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:35 |
 | 43 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
-| 44 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 |
-| 45 | [Viva Viva Rock 'N' Roll](https://open.spotify.com/track/32KddGW46wnlpKbl62gqca) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:02 |
+| 44 | [Go Go Go](https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 2:31 |
+| 45 | [San Francisco Dues](https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 3:25 |
 | 46 | [You Two](https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:09 |
 | 47 | [Flying Home \- Live At Fillmore Auditorium, San Francisco, CA/1967](https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Live At Fillmore Auditorium](https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ) | 2:41 |
 | 48 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
-| 49 | [San Francisco Dues](https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 3:25 |
+| 49 | [Viva Viva Rock 'N' Roll](https://open.spotify.com/track/32KddGW46wnlpKbl62gqca) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:02 |
 | 50 | [I Got To Find My Baby \- Single Version](https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:12 |
 
-Snapshot ID: `aQ/ZgAAAAABXYAuKIFfnwI1j3FXHq2LT`
+Snapshot ID: `aRErAAAAAABS97QsqEMO6FVydMDoBloY`

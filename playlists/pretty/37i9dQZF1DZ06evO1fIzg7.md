@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,444 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,448 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 39 | [Beyond the Universe](https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:13 |
 | 40 | [Come with Us](https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 3:54 |
 | 41 | [China Heart](https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:42 |
-| 42 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 |
+| 42 | [Lover](https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:23 |
 | 43 | [Breaking the Circle](https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:13 |
-| 44 | [Lover](https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:23 |
-| 45 | [Wild Forever](https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 4:21 |
-| 46 | [Runaway Daydreamer](https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 4:00 |
+| 44 | [Runaway Daydreamer](https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 4:00 |
+| 45 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 |
+| 46 | [Wild Forever](https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 4:21 |
 | 47 | [Everything is Sweet](https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:49 |
 | 48 | [If You Go](https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 |
 | 49 | [Self Control](https://open.spotify.com/track/409E7VEl0dAqHw5wk5gdvM) | [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Classical 80s Dance](https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5) | 3:47 |
 | 50 | [While You're Still Young \- From ''Everybody's Talking About Jamie''](https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [The Feeling](https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db) | [While You're Still Young \(From ''Everybody's Talking About Jamie''\)](https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA) | 3:03 |
 
-Snapshot ID: `aQ/ZgAAAAAAMR63Yd29uUHPxkqHKVSQG`
+Snapshot ID: `aRErAAAAAAAuMc6MqHeFbERJeWvd1/t3`

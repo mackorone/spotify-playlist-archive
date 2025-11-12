@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,386 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,374 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 60 | [Immortalized](https://open.spotify.com/track/2BqDbaNNOMdxKc6jfJ8O0e) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:17 |
 | 61 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |
 | 62 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
-| 63 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 |
-| 64 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |
+| 63 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |
+| 64 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 |
 | 65 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 |
 | 66 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 |
 | 67 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |

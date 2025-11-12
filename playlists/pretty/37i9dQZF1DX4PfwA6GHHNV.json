@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22259,
+  "num_followers": 22261,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
         "name": "SOLEAO",
         "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
         "name": "Busy",
         "url": "https://open.spotify.com/album/6M9oPmqJzL4j4rQ2kZPPzu"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 155238,
       "name": "Busy",
       "url": "https://open.spotify.com/track/1DVdbIySidKt0RdRrh7gg1"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
-        "name": "EXPECTATIVAS",
-        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "EXPECTATIVAS",
-      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
         "name": "Wallah Wallah",
         "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 142830,
       "name": "Wallah Wallah",
       "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
+        "name": "EXPECTATIVAS",
+        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "EXPECTATIVAS",
+      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
-        "name": "Caninana",
-        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Caninana",
-      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
         "name": "Bandidas Tamb\u00e9m Falam de Amor",
         "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
+        "name": "Caninana",
+        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Caninana",
+      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
       },
@@ -787,30 +787,6 @@
       "duration_ms": 150094,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
-        "name": "Rolls Royce",
-        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "TR3VAS",
-          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Rolls Royce",
-      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -847,6 +823,30 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
+        "name": "Rolls Royce",
+        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Rolls Royce",
+      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
         "name": "BIG BIG",
         "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 182500,
       "name": "BIG BIG",
       "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
     },
     {
       "added_at": "2025-10-31 17:20:08",

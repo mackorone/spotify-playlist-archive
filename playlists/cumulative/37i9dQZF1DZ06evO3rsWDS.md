@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 38 min
+95 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Las Destrampadas](https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Ely Quintero](https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:21 | 2023-03-10 |  |
 | [Lo Que No Sirve, Estorba](https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Lo Que No Sirve, Estorba](https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t) | 2:36 | 2023-11-10 |  |
 | [Los Chismes](https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:46 | 2023-03-10 | 2025-03-16 |
-| [Los Chismes](https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:46 | 2025-06-26 |  |
+| [Los Chismes](https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:46 | 2025-06-26 | 2025-11-12 |
 | [Madre Tierra \(Interlude\)](https://open.spotify.com/track/4S99EA8o3QqzBGz7bPYJIT) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 0:46 | 2025-11-10 |  |
 | [Me Mocho Un Huevo](https://open.spotify.com/track/0YIropGYKGLj4e864f9aPG) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Me Mocho Un Huevo](https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH) | 2:16 | 2023-03-10 | 2024-01-24 |
 | [Me Mocho Un Huevo](https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Puedo](https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs) | 2:16 | 2024-01-23 | 2025-11-09 |
@@ -93,6 +93,7 @@
 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/5tToNjJK3lXfBqsvY51deQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:57 | 2025-03-26 |  |
 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:57 | 2023-03-10 | 2025-03-24 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [MAS Norteño](https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng) | [Si No Te Hubieras Ido](https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc) | 5:26 | 2023-03-10 |  |
+| [SOMOS](https://open.spotify.com/track/64hvYq2DRTMFCTc5EpuREh) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:41 | 2025-11-12 |  |
 | [Soy De Esas](https://open.spotify.com/track/1PV4AuRZJZUumVu01SEJsd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 2:35 | 2024-11-03 | 2025-01-20 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/6XiRxoDAnqmrhCMzx6CNhr) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Sólo Quédate En Silencio](https://open.spotify.com/album/7iJ7TqUIeccOaDNT4eW5cE) | 3:51 | 2023-11-10 | 2024-06-04 |
 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7) | 3:39 | 2023-03-10 |  |

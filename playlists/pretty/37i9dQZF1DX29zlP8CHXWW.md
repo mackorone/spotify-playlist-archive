@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 > Songs to prepare your heart for the <a href="https://www.passion2024.com/"> Passion 2025 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,734 likes - 42 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,724 likes - 42 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 | 10 | [First Love \- Live From Passion 2022](https://open.spotify.com/track/30QbxKlnxdmccra6Q4cnj1) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 6:46 |
 | 11 | [Where The Power Is](https://open.spotify.com/track/6j9qZn2PyyrneCk0gxhXeR) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Where The Power Is](https://open.spotify.com/album/2njYFk7yB34LFH0mdEJKG6) | 4:06 |
 | 12 | [Lord Of All](https://open.spotify.com/track/001CJF57pI6QLXivCcVc6K) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 4:31 |
-| 13 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:30 |
+| 13 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:32 |
 | 14 | [I Speak Jesus \- Live From Camp](https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 7:03 |
 | 15 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
 | 16 | [Authority ∞](https://open.spotify.com/track/6TBwHEICPaqpcHeKtEtWKu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 6:20 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 | 18 | [Holy Forever \- Live From Passion 2024](https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 10:29 |
 | 19 | [Follow \- Live From Passion 2024](https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 4:38 |
 | 20 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 |
-| 21 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:16 |
+| 21 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:15 |
 | 22 | [The Blessing \- Live](https://open.spotify.com/track/2UgxATJDci5tYoiWXAansC) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 8:12 |
 | 23 | [Fall Like Rain \- Live From Passion 2024](https://open.spotify.com/track/1e1HPM8FnWNSzap6ZI6s4f) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:55 |
 | 24 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 38308,
+  "num_followers": 38314,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAvPKltYdI/DjLWL0uT6Dzg",
+  "snapshot_id": "aRErAAAAAAD52uiSIij7NyB9qeHRLsfu",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 449426,
+      "name": "Be for Real (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven Only Knows",
         "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 240946,
       "name": "I Want My Baby Back",
       "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Is It Still Good to Ya",
-      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
     },
     {
       "added_at": null,
@@ -671,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 449426,
-      "name": "Be for Real (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ"
+      "duration_ms": 274546,
+      "name": "Is It Still Good to Ya",
+      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
       "duration_ms": 180346,
       "name": "I Can't Live Without Your Love",
       "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 303720,
-      "name": "Can't We Try",
-      "url": "https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 308333,
       "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 303720,
+      "name": "Can't We Try",
+      "url": "https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl"
     },
     {
       "added_at": null,

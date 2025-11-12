@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,731 likes - 110 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,740 likes - 110 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 68 | [Yo Quisiera](https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Yo Quisiera](https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09) | 2:57 |
 | 69 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
 | 70 | [Mi Reina](https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Mi Reina](https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd) | 3:02 |
-| 71 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
-| 72 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
+| 71 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
+| 72 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
 | 73 | [Losken Roland](https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Losken Roland](https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6) | 2:20 |
 | 74 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
 | 75 | [Loco Playa](https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Los Playa Vol\. 1](https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq) | 3:37 |

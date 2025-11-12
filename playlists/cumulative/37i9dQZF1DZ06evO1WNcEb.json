@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Chuva de Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4vuFihJQt6LBnPaYSpDzHm"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202613,
+      "name": "Chuva de Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4OWwlfutzdzEWpq4fMF5Lp"
+    },
+    {
+      "album": {
         "name": "At\u00e9 Tocar o C\u00e9u",
         "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 224706,
       "name": "O Deus Que Eu Amo (Ao Vivo)",
       "url": "https://open.spotify.com/track/0sF54Gb2JduGLkhDFireir"

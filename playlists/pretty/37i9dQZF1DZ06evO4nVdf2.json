@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 64615,
+  "num_followers": 64630,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAaFTk/CnnmrLSkiHoJ/ILg",
+  "snapshot_id": "aRErAAAAAAAkaaPdVN7thQvU/YFKT5eW",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N.I.T.",
-        "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
-      },
-      "artists": [
-        {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 209220,
-      "name": "N.I.T.",
-      "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 261640,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/4oqSnBaCeSWdQidxETsb32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N.I.T.",
+        "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
+      },
+      "artists": [
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 209220,
+      "name": "N.I.T.",
+      "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
-        }
-      ],
-      "duration_ms": 198228,
-      "name": "Las Tormentas",
-      "url": "https://open.spotify.com/track/0P58mFQ2GFgg0Xd2QvCvdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+        }
+      ],
+      "duration_ms": 198228,
+      "name": "Las Tormentas",
+      "url": "https://open.spotify.com/track/0P58mFQ2GFgg0Xd2QvCvdC"
     },
     {
       "added_at": null,

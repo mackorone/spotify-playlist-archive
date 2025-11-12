@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Abubakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,283 likes - 109 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,284 likes - 109 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

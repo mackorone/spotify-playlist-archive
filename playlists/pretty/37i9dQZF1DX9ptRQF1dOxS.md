@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Yazmin Lacey<br/>💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,026 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,042 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

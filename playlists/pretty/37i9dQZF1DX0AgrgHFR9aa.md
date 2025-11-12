@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Josman
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,933 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,942 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 5 | [Le temps n'emporte rien](https://open.spotify.com/track/3yn2iWbOwDp9eahAoppErl) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Gloria](https://open.spotify.com/album/3rQR3nAnwwWpUTG3f4KULw) | 3:23 |
 | 6 | [Train Mistral](https://open.spotify.com/track/0HU5RMcc4JXix5c3BzBSXv) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Train Mistral](https://open.spotify.com/album/06d1rMj8tdGai6uuHVb7Hs) | 3:17 |
 | 7 | [Ainsi va la rue](https://open.spotify.com/track/0wTi7XDIPqOi0cBv7JGb70) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [RUN Evolution](https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4) | 2:38 |
-| 8 | [Mick Jagger](https://open.spotify.com/track/54Q1i6GCkHuboimwxPFV7R) | [Cholo](https://open.spotify.com/artist/0OrSwuIG1yqmbxaCvAxjG9), [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc) | [Mick Jagger](https://open.spotify.com/album/3KCgQdOQIvFf2tt0CogOH4) | 3:05 |
+| 8 | [Mick Jagger](https://open.spotify.com/track/54Q1i6GCkHuboimwxPFV7R) | [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc), [Cholo](https://open.spotify.com/artist/0OrSwuIG1yqmbxaCvAxjG9) | [Mick Jagger](https://open.spotify.com/album/3KCgQdOQIvFf2tt0CogOH4) | 3:05 |
 | 9 | [L'usine](https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [L'usine](https://open.spotify.com/album/3wXVPlj7mpDK2wf8GobWMD) | 3:32 |
 | 10 | [Fardeaux Du Renard](https://open.spotify.com/track/0W89bQOaDRz9wuF2hanHsh) | [Guizmo](https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG) | [Fardeaux Du Renard](https://open.spotify.com/album/0ZpN4Vwhh0S3uL81Ki5Pgt) | 2:52 |
 | 11 | [Fin de ce monde](https://open.spotify.com/track/2UWO657TjAWYy1E75r0sZf) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Fin de ce monde](https://open.spotify.com/album/5nQdkGXFBOrlnP4RJbxi4g) | 2:58 |

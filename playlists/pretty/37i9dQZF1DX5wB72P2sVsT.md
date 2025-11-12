@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Disco Lines x Tinashe au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,174 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,180 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 16 | [Walking On A Dream \(Resurrection\)](https://open.spotify.com/track/0yfyF16cCITZcWsIF4oGZs) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Walking On A Dream \(Reimagined\)](https://open.spotify.com/album/5Bh3jkdfh2bp6KXiQq4yQp) | 2:56 |
 | 17 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 |
 | 18 | [Summer Jam](https://open.spotify.com/track/7wLTLminmuEDTdLbCapAMV) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Craig Smart](https://open.spotify.com/artist/1rIUs5FD6pwDvRkti98lNr) | [Summer Jam](https://open.spotify.com/album/4Vfe7sbn59NOVxYffwW3De) | 3:01 |
-| 19 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
+| 19 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 20 | [KALISTA \(Eke\-ke\-ke\-ke\)](https://open.spotify.com/track/4E2sPamzFvyDbZecdcX4Ik) | [Celestal](https://open.spotify.com/artist/2AEpvZkBjqbmEiojWgZmub), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [KALISTA \(Eke\-ke\-ke\-ke\)](https://open.spotify.com/album/5eNJdyQRNeMt8ROwAVYluX) | 2:21 |
 | 21 | [Cry For You](https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5) | [Cry For You](https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE) | 2:41 |
 | 22 | [Free Now](https://open.spotify.com/track/3OOjWxp0aP4aJLzpOiejRu) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Bacon Popper](https://open.spotify.com/artist/66KDF6NInRu4Gxn0WdDraQ) | [Free Now](https://open.spotify.com/album/4pm4vlIxPaGyeVjaar9PLW) | 2:27 |

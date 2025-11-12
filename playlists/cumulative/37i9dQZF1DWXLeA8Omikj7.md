@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,136 songs - 3 day 10 hr 40 min
+1,137 songs - 3 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Malibu](https://open.spotify.com/track/4Fe8wWhaxGIEa35eFHLX0b) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Malibu](https://open.spotify.com/album/7MYEcIncW4mQYBExnVA24y) | 3:57 | 2020-08-26 | 2020-10-24 |
 | [Mango Drive](https://open.spotify.com/track/29Bx7ullHh1OeH0lpNS0X7) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 7:12 | 2025-08-28 |  |
 | [Manuark](https://open.spotify.com/track/2SSdkW1L2k8scw8cUvea6l) | [Voices from The Lake](https://open.spotify.com/artist/5SbbRrhr7qhyu1jv75AzOh) | [Manuark](https://open.spotify.com/album/73qxUWhcVJKaTHKkDgpS0d) | 6:54 | 2025-10-24 |  |
+| [Maova](https://open.spotify.com/track/7rE7z8DJpCXogrfGgess34) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Maova](https://open.spotify.com/album/23zrpyDfuI8nsazNAR4Vu0) | 4:48 | 2025-10-24 |  |
 | [March](https://open.spotify.com/track/6WHsUuUidIdiUURPA3EoCl) | [TrackLab](https://open.spotify.com/artist/65DZcPFgyDuLM0ugc3dqr8) | [March](https://open.spotify.com/album/1uT5d4NZHx1WvK5QJCm5PE) | 4:08 | 2019-06-19\* | 2020-10-22 |
 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 | 2025-04-04 | 2025-04-16 |
 | [Mask](https://open.spotify.com/track/5MWzkrY9OD5kJ7SyXBdRM0) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Reassemblage](https://open.spotify.com/album/6si8jpNmxbNqbgBKwtI4dN) | 5:37 | 2021-02-27 | 2021-03-10 |
@@ -605,7 +606,7 @@
 | [Memory Arc](https://open.spotify.com/track/74EnBZX68SMjd6rTylcpPe) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 2:13 | 2019-06-19\* | 2022-04-19 |
 | [memphis](https://open.spotify.com/track/1gr3wnx384k5kcQAs2S1FA) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [memphis](https://open.spotify.com/album/2EGO4ULEQ7dq6tW0G1fbYQ) | 3:14 | 2022-03-11 | 2025-10-14 |
 | [Mercy Falls](https://open.spotify.com/track/6oSxm8jKgVbrlKo4Ktd1qr) | [CharlestheFirst](https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I) | [The Reach EP](https://open.spotify.com/album/2HVGlBI4fH2y5pDBZ6WhZf) | 3:13 | 2019-06-19\* | 2020-08-26 |
-| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 |  |
+| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 | 2025-11-12 |
 | [Mesmerized \- Edit](https://open.spotify.com/track/3IgqXawlDv7SA7oDxdz5Zz) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Mesmerized](https://open.spotify.com/album/20FSvBBhzUykkESOWR0APA) | 5:00 | 2025-01-24 | 2025-02-14 |
 | [Metro](https://open.spotify.com/track/2c6JKsE4PPXOtlD5ehbVIS) | [The EMBR](https://open.spotify.com/artist/5td7Gb5zym0uodrde5koHp) | [Metro](https://open.spotify.com/album/0GV6XG6ygQkjF1JuDdpazQ) | 2:32 | 2019-06-19\* | 2020-08-26 |
 | [Midnite](https://open.spotify.com/track/6hhq4YSYbt8ajR3j3mVcHv) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Midnite](https://open.spotify.com/album/4kxI7zTFmwZcfbLfZ1KgJV) | 3:03 | 2019-06-19\* | 2020-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079 likes - 119 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081 likes - 119 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 70 | [I USED TO \(feat\. Baby Rose\)](https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:27 |
 | 71 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 72 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/5ZDqdmsQDzhV8LSgspU752) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:11 |
-| 73 | [Andrea](https://open.spotify.com/track/1d5uov7FDUaXnF3JNmEV1s) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/4l0MaoNsVg6h02K6umfyU8) | 3:12 |
-| 74 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
+| 73 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
+| 74 | [Andrea](https://open.spotify.com/track/1d5uov7FDUaXnF3JNmEV1s) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/4l0MaoNsVg6h02K6umfyU8) | 3:12 |
 | 75 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
 | 76 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
 | 77 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 100 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
 | 101 | [Fade to Black](https://open.spotify.com/track/3NIawwPGF6X5Hjz9UUJ6tO) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 1:57 |
 | 102 | [Don't 4get](https://open.spotify.com/track/6955Y2FCvRBBXl06Qq0fh8) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:18 |
-| 103 | [Damage](https://open.spotify.com/track/3ANz1Y9gzCr7fr2JOPYYxd) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Scars of beauty](https://open.spotify.com/album/1wYJUZnk5Hp9rTJXh3kqfg) | 3:01 |
-| 104 | [Feel Alive](https://open.spotify.com/track/4SBFpbmbHSPJPhRbRjNuh7) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:42 |
+| 103 | [Feel Alive](https://open.spotify.com/track/4SBFpbmbHSPJPhRbRjNuh7) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:42 |
+| 104 | [Damage](https://open.spotify.com/track/3ANz1Y9gzCr7fr2JOPYYxd) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Scars of beauty](https://open.spotify.com/album/1wYJUZnk5Hp9rTJXh3kqfg) | 3:01 |
 | 105 | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/track/3qMj6GQYGayyJjubOZ5sm4) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/album/6bI8Tj8V4fjpMvnzHVEkPS) | 2:58 |
 | 106 | [Has a Meaning](https://open.spotify.com/track/18XUxFnqlqbEc9hPHAfOzU) | [sid tipton](https://open.spotify.com/artist/1LgF3q7qslhLt5qb6fAtNA), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 3:10 |
 | 107 | [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 118 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 119 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcBPngAAAAAEqUBeK1ZG2LDF8P1PbOq1`
+Snapshot ID: `AcBVegAAAACZ7WVQd2RF21t5bqYa9FHg`

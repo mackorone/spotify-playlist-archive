@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,533 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,541 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 30 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 31 | [It Keeps Me Young \(feat\. Peter Frampton\)](https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 2:56 |
 | 32 | [Blue No More \(feat\. James Bay\)](https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 3:39 |
-| 33 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
+| 33 | [Skin Deep \(feat\. Derek Trucks\)](https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Skin Deep](https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W) | 4:28 |
 | 34 | [Just Teasin'](https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [DJ Play My Blues](https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy) | 4:42 |
-| 35 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
-| 36 | [Skin Deep \(feat\. Derek Trucks\)](https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Skin Deep](https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W) | 4:28 |
-| 37 | [One Day Away \(feat\. Keith Urban\)](https://open.spotify.com/track/15e3leRc1c26oStnjjiex6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:44 |
+| 35 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
+| 36 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
+| 37 | [Five Long Years](https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 8:25 |
 | 38 | [Blues On Top](https://open.spotify.com/track/7cmKth6LRPrrTAk76PQ5d3) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 4:57 |
-| 39 | [Five Long Years](https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 8:25 |
+| 39 | [One Day Away \(feat\. Keith Urban\)](https://open.spotify.com/track/15e3leRc1c26oStnjjiex6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:44 |
 | 40 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
 | 41 | [Where The Blues Begins \(feat\. Carlos Santana\)](https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Living Proof](https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm) | 4:37 |
 | 42 | [Love On A Budget](https://open.spotify.com/track/2PHyfhg9Eqdkm6gMMsfy43) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [All That Makes Me Happy Is the Blues](https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:36 |
 | 50 | [Wear You Out \(feat\. Billy Gibbons\)](https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:30 |
 
-Snapshot ID: `aQ/ZgAAAAAC5/JKDz+PpbfYzSD/RGwcG`
+Snapshot ID: `aRErAAAAAACjA9gricfy0cevYPgpdRo1`

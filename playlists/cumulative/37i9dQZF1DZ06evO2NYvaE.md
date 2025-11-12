@@ -55,6 +55,6 @@
 | [Tsunami Sea](https://open.spotify.com/track/7bGzUyc4a949g2c0EIzMpx) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:16 | 2025-03-09 |  |
 | [TYG \(feat\. Spiritbox\)](https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:27 | 2025-03-08 |  |
 | [Ultraviolet](https://open.spotify.com/track/5AYeGLu0KlyZUe6bS2tgdh) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:08 | 2025-03-08 |  |
-| [Yellowjacket \- feat\. Sam Carter](https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:18 | 2025-03-08 |  |
+| [Yellowjacket \- feat\. Sam Carter](https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:18 | 2025-03-08 |  |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

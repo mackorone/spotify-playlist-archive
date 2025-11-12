@@ -4,7 +4,7 @@
 
 > 
 
-1,206 songs - 2 day 14 hr 1 min
+1,209 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [dont wait til it's late](https://open.spotify.com/track/0R2aitHLTmi85Jsswg6b6A) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [dont wait til it's late](https://open.spotify.com/album/1lMC5ZRLsDzF8bMyhwGGCm) | 2:03 | 2022-07-28 | 2025-05-21 |
 | [Dont Wait Til Its Late](https://open.spotify.com/track/3cn8MxXWtMRZpeqYDQ0hsZ) | [Summr Worldwide](https://open.spotify.com/artist/43A3EKKOLJ8qaUoNSe1fG8) | [Dont Wait Til Its Late](https://open.spotify.com/album/6AFOjMI50XbFfdy2xfrNzf) | 2:03 | 2024-08-23 | 2025-05-21 |
 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 | 2023-06-23 | 2023-12-14 |
+| [Down as a Great \(feat\. Kirko Bangz\)](https://open.spotify.com/track/4eLkXBFYBsIPwTa1pLSa2M) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:28 | 2025-11-11 |  |
 | [Drank Head](https://open.spotify.com/track/44OjMPqUb5G9da3myAJGXh) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Thot Breaker](https://open.spotify.com/album/67c9XHAeXUcTVgXWYVNlEf) | 3:53 | 2022-07-28 | 2023-04-12 |
 | [dream hollywood \(k suave\)](https://open.spotify.com/track/416hYURzddnHWH8lMNUoXd) | [sem](https://open.spotify.com/artist/2qUcgTpHYclRajlkjgLsyn) | [dream hollywood \(k suave\)](https://open.spotify.com/album/0YHLvhrQcqUB8rQPBPevvb) | 2:04 | 2023-03-20 | 2023-05-09 |
 | [Drippin'](https://open.spotify.com/track/0f85bMoarvHbdIcfhDjSjN) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:06 | 2024-07-09 | 2025-05-21 |
@@ -903,6 +904,7 @@
 | [Round Here](https://open.spotify.com/track/2jJeoy0Xq8sEtn3upQCXge) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [2wo2imes](https://open.spotify.com/artist/4o8uzbQaWtcDX3hbgulrPe) | [2wo Glokks](https://open.spotify.com/album/5CPcnwgYWekR1saI8AxHyj) | 2:34 | 2023-02-09 | 2023-05-09 |
 | [Run + Ran](https://open.spotify.com/track/3kB7daTMGpX2hPRXdZww6M) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 4:04 | 2022-03-01 | 2023-05-09 |
 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 | 2025-01-29 |  |
+| [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 | 2025-11-11 |  |
 | [Salute](https://open.spotify.com/track/1tjpoAROSHmr9QLb7Ibqoq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:45 | 2023-01-10 | 2025-05-21 |
 | [Same Thang](https://open.spotify.com/track/19kjy1ka0n0qfr9SeIViwy) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:42 | 2023-01-06 | 2023-03-01 |
 | [Same Yung Nigga \(feat\. Playboi Carti\)](https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:00 | 2024-01-02 | 2024-04-24 |
@@ -1021,6 +1023,7 @@
 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 | 2022-10-31 | 2023-05-09 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-03 | 2024-03-05 |
 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 | 2025-03-12 | 2025-05-21 |
+| [Sweet Lady](https://open.spotify.com/track/6VBuV3fk37EGAqFbDVQjHv) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Purple Summer](https://open.spotify.com/album/0mN9qYcfmWYMfsy0t30xUc) | 4:40 | 2025-11-12 |  |
 | [Sweet November](https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 4:03 | 2025-09-09 |  |
 | [Switch it Up \(feat\. G Herbo, No More Heroes\)](https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [No More Heroes](https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4) | [Shiesty Season \- Spring Deluxe](https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU) | 2:48 | 2024-05-05 | 2024-11-06 |
 | [Sydney Sweeney](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [Sydney Sweeney](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 | 2024-02-08 | 2024-05-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 70795,
+  "num_followers": 70821,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,34 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
+        "name": "Ravel et Prokofiev: Concertos pour pianos",
+        "url": "https://open.spotify.com/album/2z6hlIzl30tbJqJvxOe29g"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Anna Vinnitskaya",
+          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Gilbert Varga",
+          "url": "https://open.spotify.com/artist/6mB1ktKY4MSnVoaHZqFIUM"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Piano concerto in G Major: III. Presto",
+      "url": "https://open.spotify.com/track/0NYdiC4VC4P4xw7YAd6wek"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
         "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
         "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
       },
@@ -583,58 +611,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel et Prokofiev: Concertos pour pianos",
-        "url": "https://open.spotify.com/album/2z6hlIzl30tbJqJvxOe29g"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Anna Vinnitskaya",
-          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
-        },
-        {
-          "name": "Deutsches Symphonie-Orchester Berlin",
-          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
-        },
-        {
-          "name": "Gilbert Varga",
-          "url": "https://open.spotify.com/artist/6mB1ktKY4MSnVoaHZqFIUM"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "Piano concerto in G Major: III. Presto",
-      "url": "https://open.spotify.com/track/0NYdiC4VC4P4xw7YAd6wek"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
-        "name": "Ravel: Rapsodie espagnole; La Valse; Ma m\u00e8re l'oye; Valses nobles et sentimentales",
-        "url": "https://open.spotify.com/album/07YqwWH5cIA0EHV9vGOHGH"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 127706,
-      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
-      "url": "https://open.spotify.com/track/0tgvtn6OqCdqFCuHkiWBHP"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Ravel: Orchestral Works",
         "url": "https://open.spotify.com/album/4RydMctVxfAQBKXhkVQp3I"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 174173,
       "name": "Daphnis et Chlo\u00e9, M. 57, Pt. 1: IVa. Danse l\u00e9g\u00e8re et gracieuse de Daphnis",
       "url": "https://open.spotify.com/track/56O9RpNdJYmE9xbQODuskm"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Ravel: Rapsodie espagnole; La Valse; Ma m\u00e8re l'oye; Valses nobles et sentimentales",
+        "url": "https://open.spotify.com/album/07YqwWH5cIA0EHV9vGOHGH"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 127706,
+      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
+      "url": "https://open.spotify.com/track/0tgvtn6OqCdqFCuHkiWBHP"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
-        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Beaux Arts Trio",
-          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Piano Trio, M. 67: IV. Final. Anim\u00e9",
-      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Ravel: Piano Concertos/Honegger: Piano Concertino/Fran\u00e7aix: Piano Concertino",
         "url": "https://open.spotify.com/album/0Y9WzXwqMeAxou22AeH0eP"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 613973,
       "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
       "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
+        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Beaux Arts Trio",
+          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Piano Trio, M. 67: IV. Final. Anim\u00e9",
+      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 67720,
+      "name": "Valses nobles et sentimentales: IV. Assez anim\u00e9",
+      "url": "https://open.spotify.com/track/6Pr12xNRbrKJkLWbKVqu81"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
         "name": "Ravel: Daphnis et Chlo\u00e9",
         "url": "https://open.spotify.com/album/4ofcniYcKBLF6cQY1Dw8Z7"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 476173,
       "name": "Daphnis et Chlo\u00e9, M. 57: I. Introduction et Danse Religieuse",
       "url": "https://open.spotify.com/track/3VKEZVixRO5GF92scMk2q0"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 67720,
-      "name": "Valses nobles et sentimentales: IV. Assez anim\u00e9",
-      "url": "https://open.spotify.com/track/6Pr12xNRbrKJkLWbKVqu81"
     },
     {
       "added_at": "2025-09-15 14:00:14",
@@ -975,30 +975,6 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
-      "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
+      "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
     },
     {
       "added_at": "2025-09-15 14:00:14",

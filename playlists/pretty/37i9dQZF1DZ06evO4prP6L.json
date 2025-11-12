@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17816,
+  "num_followers": 17818,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABwQyNikv1KMFER0I/j2w1q",
+  "snapshot_id": "aRErAAAAAABW0jzq8tQevHcnf3yTeQ3U",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Robby X",
+          "url": "https://open.spotify.com/artist/3sITW1EBX02neQWVyDV1EA"
+        }
+      ],
+      "duration_ms": 185345,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 226446,
       "name": "Walk a Country Mile",
       "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Robby X",
-          "url": "https://open.spotify.com/artist/3sITW1EBX02neQWVyDV1EA"
-        }
-      ],
-      "duration_ms": 185345,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Ute Me",
+      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Is Coming To Town",
         "url": "https://open.spotify.com/album/64oRoi0CXSpMDtXYLL5rlI"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 169160,
       "name": "Country Is Coming To Town",
       "url": "https://open.spotify.com/track/1Vzthm0II4q351e5rMQ5Jy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Ute Me",
-      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
     },
     {
       "added_at": null,
@@ -631,26 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Here",
-        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
-          "name": "Tom Curtain",
-          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
-        },
-        {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Sara Storer",
-          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
         }
       ],
-      "duration_ms": 200320,
-      "name": "She Gave Us the Song",
-      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
     },
     {
       "added_at": null,
@@ -671,34 +663,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
       },
       "artists": [
         {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 171704,
-      "name": "Drive On",
-      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
+          "name": "Tom Curtain",
+          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
+        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Sara Storer",
+          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
         }
       ],
-      "duration_ms": 190346,
-      "name": "It's Only Country",
-      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+      "duration_ms": 200320,
+      "name": "She Gave Us the Song",
+      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "It's Only Country",
+      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -767,42 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Missin' Slim",
-        "url": "https://open.spotify.com/album/1g34UBpOqfpUPNNWRz9Dna"
-      },
-      "artists": [
-        {
-          "name": "Colin Buchanan",
-          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Missin' Slim",
-      "url": "https://open.spotify.com/track/2QD0oudzMWHvHiIW9mCKh5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1959",
-        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Country Crowd - Remastered 2017",
-      "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
       },
@@ -827,6 +791,42 @@
       "duration_ms": 215093,
       "name": "Spirit of the Bush - Remastered 2017",
       "url": "https://open.spotify.com/track/6zZUz5d1IbmEz3ckpDZiC0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Country Crowd - Remastered 2017",
+      "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Missin' Slim",
+        "url": "https://open.spotify.com/album/1g34UBpOqfpUPNNWRz9Dna"
+      },
+      "artists": [
+        {
+          "name": "Colin Buchanan",
+          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Missin' Slim",
+      "url": "https://open.spotify.com/track/2QD0oudzMWHvHiIW9mCKh5"
     },
     {
       "added_at": null,

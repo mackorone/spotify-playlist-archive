@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 69514,
+  "num_followers": 69573,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABuzjb2WmTEnMw85Tzwd0Fn",
+  "snapshot_id": "aRErAAAAAAAFlyvZYSLoexQc7hMZC2Wc",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cottonwood 2 (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 149449,
       "name": "PISTOL PACCIN",
       "url": "https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 133002,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 185000,
-      "name": "I Hope You're Happy (feat. Darius Rucker)",
-      "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
+      "duration_ms": 164954,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 164954,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
+      "duration_ms": 185000,
+      "name": "I Hope You're Happy (feat. Darius Rucker)",
+      "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
     },
     {
       "added_at": null,

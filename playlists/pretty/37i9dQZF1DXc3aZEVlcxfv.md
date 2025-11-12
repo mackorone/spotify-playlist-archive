@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,725 likes - 120 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,736 likes - 120 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 101 | [Ayó \(Joy Song\)](https://open.spotify.com/track/272XCmhQbip13WZRPbKYeb) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [Ayó \(Joy Song\)](https://open.spotify.com/album/38VauQ4QvqeUpNSSCVfYvT) | 3:45 |
 | 102 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/3zq1rVKwSM61vtf2NxOTAH) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
 | 103 | [Awesome God / God Only Knows \- Campfire Medley](https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 2:19 |
-| 104 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
+| 104 | [Firm Foundation \(He Won't\)\[Feat\. Chandler Moore\]](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
 | 105 | [Amazing](https://open.spotify.com/track/3LPNm4v3yBQouZbLI3oqC5) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Debbiie](https://open.spotify.com/artist/6FyetlIUC4TsUoXLZYkct9) | [Amazing](https://open.spotify.com/album/7tIynKtMjFoojTrgk1ilKO) | 2:56 |
 | 106 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
 | 107 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 |

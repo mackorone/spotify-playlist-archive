@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,292 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,319 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 21 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 22 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
 | 23 | [Demain c'est toi](https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Effet miroir](https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a) | 2:38 |
-| 24 | [Évidemment \- Remasterisé en 2004](https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 3:26 |
-| 25 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
+| 24 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
+| 25 | [Évidemment \- Remasterisé en 2004](https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 3:26 |
 | 26 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
 | 27 | [Ta main](https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:33 |
 | 28 | [Lucie](https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [Superflu](https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY) | 4:15 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 56 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
 | 57 | [Je te promets](https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [70eme Anniversaire](https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq) | 4:34 |
 | 58 | [T'es Belle](https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9) | [Jours Heureux](https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX) | 2:29 |
-| 59 | [Le grand secret \(feat\. Melissa Auf der Maur\) \- Les pianos voix](https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB), [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 4:54 |
+| 59 | [Le grand secret \(feat\. Melissa Auf der Maur\) \- Les pianos voix](https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB), [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 4:52 |
 | 60 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
 | 61 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
 | 62 | [Manque d'Amour](https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:06 |

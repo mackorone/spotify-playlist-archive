@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,394 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,418 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 32 | [Company](https://open.spotify.com/track/26ulnyg8SfgTtstCdGmArl) | [cosamote](https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY), [Creen Caesar](https://open.spotify.com/artist/5A8fI4subH9tiQHBmm3COP), [Caleb Clay](https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl) | [Company](https://open.spotify.com/album/4PO7Q4VcqrN6z9lgjU1t7T) | 2:37 |
 | 33 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
 | 34 | [Après Minuit \(feat\. Tiakola\)](https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:57 |
-| 35 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
+| 35 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 |
 | 36 | [Kinda Girl](https://open.spotify.com/track/1eQK7snhG7m9XdXVjqjyBg) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Kinda Girl](https://open.spotify.com/album/5HR0TsI7G990rFx9vPZVPm) | 2:39 |
-| 37 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 |
+| 37 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 38 | [Jies](https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:52 |
 | 39 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
 | 40 | [ONE CALL](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [ONE CALL](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 55 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 | 56 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
 | 57 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
-| 58 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 |
+| 58 | [Why You Lying](https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Why You Lying](https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID) | 2:43 |
 | 59 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
-| 60 | [Why You Lying](https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Why You Lying](https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID) | 2:43 |
+| 60 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 |
 | 61 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |
 | 62 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
 | 63 | [Bebe](https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Soundgod Fest IV](https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv) | 2:08 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 77 | [Way2Yung](https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [W2Y](https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz) | 2:18 |
 | 78 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 |
 | 79 | [FINAL](https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [FINAL](https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR) | 3:35 |
-| 80 | [MERCY PLEASE](https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MERCY PLEASE](https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh) | 2:53 |
+| 80 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 |
 
 Snapshot ID: `AAAAAMTEXXUwIDIm/sC5IqUnNYE1/1I7`

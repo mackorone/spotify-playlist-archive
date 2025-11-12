@@ -4,10 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-2,301 songs - 5 day 6 hr 52 min
+2,302 songs - 5 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-11 |  |
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-28 | 2023-11-01 |
 | [\#RihannaMove](https://open.spotify.com/track/6qtKg3ZVcEgfsdDaHRBzXu) | [Shevy O'shea](https://open.spotify.com/artist/3BOPBYb0mEmjMwEoFH9jNZ) | [\#RihannaMove](https://open.spotify.com/album/4DXvWE5WtSf3JoJQktuYvZ) | 1:52 | 2021-05-20 | 2021-07-20 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1SwmINnHRKk4RiZGdarOv1) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 3:51 | 2023-11-09 | 2023-11-13 |
@@ -931,7 +932,7 @@
 | [Just A Dream](https://open.spotify.com/track/4ft48rkthIRGV49AdAARwa) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [5.0 Deluxe](https://open.spotify.com/album/17T8wyeiIcfNg7wYfSSqZq) | 3:57 | 2022-01-08 | 2022-01-21 |
 | [Just A Lil Bit](https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:57 | 2023-10-12 | 2023-10-14 |
 | [Just Gotta Know \(Remix\)](https://open.spotify.com/track/2X7YUNEpGkWlH0UNWYEkBU) | [Kowshik Saha](https://open.spotify.com/artist/1eZS9tmup5gEujYw3L9CPb) | [Kowshik Saha](https://open.spotify.com/album/6CXqcwEVRBqzn2vtPr1g6A) | 2:49 | 2025-06-09 | 2025-06-11 |
-| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-03 | 2025-11-10 |
+| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-03 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-20 | 2023-05-08 |
 | [Jūra](https://open.spotify.com/track/0irroBgHEj5sNoNXY2pJp0) | [Jovani](https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U), [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [Jūra](https://open.spotify.com/album/2zDW7ShWhLQ4CppcMSY9HG) | 2:21 | 2024-06-23 | 2024-08-13 |
 | [Jūra](https://open.spotify.com/track/4PpaqhAwdA9c0WV3X4Q6FH) | [Jovani](https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U), [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [Noriu Šokt](https://open.spotify.com/album/6PiqXDe7wIJjhsiObo4LXx) | 2:21 | 2024-09-14 | 2024-09-18 |
@@ -1159,7 +1160,7 @@
 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2021-06-23 | 2021-09-13 |
 | [Margarita](https://open.spotify.com/track/0ZauMtvCt9ZKlKe9pLHjle) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [KARUSELĖ](https://open.spotify.com/album/0yClhxyfbV8zPfJNM9nveM) | 3:08 | 2022-09-15 | 2022-09-17 |
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-10-30 |
-| [Marozika](https://open.spotify.com/track/2LUy7WN9ExjiABCvmOVGAy) | [Vaidas Baumila](https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1) | [Vienodai žydi sodai](https://open.spotify.com/album/4v2ZLZqKiWeZgIH35fUAHf) | 3:02 | 2025-05-09 |  |
+| [Marozika](https://open.spotify.com/track/2LUy7WN9ExjiABCvmOVGAy) | [Vaidas Baumila](https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1) | [Vienodai žydi sodai](https://open.spotify.com/album/4v2ZLZqKiWeZgIH35fUAHf) | 3:02 | 2025-05-09 | 2025-11-12 |
 | [Marozika](https://open.spotify.com/track/5NoWzHj1l8Svh95bgTytwK) | [Vaidas Baumila](https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1) | [Marozika](https://open.spotify.com/album/25MZv1YSlHsGKjdM6bRCFD) | 3:02 | 2025-04-17 | 2025-05-10 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-15 | 2022-09-15 |
 | [Mary On A Cross](https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom) | 4:04 | 2022-09-14 | 2022-10-13 |
@@ -2296,7 +2297,7 @@
 | [Žiemos Daina](https://open.spotify.com/track/51J2RDkIHnLvTgyz7vqZ1e) | [Rokas Yan](https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs) | [Žiemos Daina](https://open.spotify.com/album/6w83jlm3089gc59Ph6x4qJ) | 2:40 | 2024-01-28 | 2024-01-30 |
 | [Žmogus Velniškai Bijantis Stebuklo](https://open.spotify.com/track/2XGjCJA89WfiXyFCIlJgoJ) | [Lilas ir Innomine](https://open.spotify.com/artist/7EvvLZS0GP7XuNlWFFXpFR) | [Tu \- Naktis](https://open.spotify.com/album/6WkTFthEOgdlIl84adZ9E2) | 3:14 | 2025-03-17 | 2025-09-22 |
 | [Žodžiai](https://open.spotify.com/track/5Kegh74rxTkgd6WSoaP7P5) | [Gintariniai Laikai](https://open.spotify.com/artist/49JoHj1exgBGqL8ARESQ7c), [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [Žodžiai](https://open.spotify.com/album/5lpArSOx0N0I0HeFFroNCM) | 4:32 | 2023-07-14 | 2023-07-30 |
-| [Žvaigždės](https://open.spotify.com/track/0dWhliZrU41gOE51Zgbbyz) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:22 | 2024-06-01 |  |
+| [Žvaigždės](https://open.spotify.com/track/0dWhliZrU41gOE51Zgbbyz) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:22 | 2024-06-01 | 2025-11-12 |
 | [Žvėris](https://open.spotify.com/track/0mLvYtRFUufOY2R76FLsOi) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žvėris](https://open.spotify.com/album/6qTjtegmTDa5PmitQSqFk9) | 2:00 | 2025-06-13 |  |
 | [Žvėrynas](https://open.spotify.com/track/5tfZwNfe7idsZG88eeDmBo) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [ŽVĖRYNĖ](https://open.spotify.com/album/0HQUjiRWR7bIQIEiBRYIfr) | 4:32 | 2022-02-02 | 2022-02-06 |
 | [Базовый минимум](https://open.spotify.com/track/5zCEpG9EVGBNq0Z35rSWvW) | [SABI](https://open.spotify.com/artist/0jDBG1EeQiw6n273ZPq2D8), [MIA BOYKA](https://open.spotify.com/artist/7lC9GiVHVMSIGt7yCQS0U5) | [Базовый минимум](https://open.spotify.com/album/4idemKLacb37Q5fMe9IIV6) | 2:15 | 2025-11-04 |  |

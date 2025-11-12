@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: Eloff
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,283 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,295 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 22 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 23 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
 | 24 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
-| 25 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
+| 25 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
 | 26 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
 | 27 | [Reg](https://open.spotify.com/track/2QtC6GutRB7JPpG6spfTtS) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Reg](https://open.spotify.com/album/2zKOyA9xXwtmmrOSuobNbU) | 3:39 |
-| 28 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
+| 28 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
 | 29 | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB) | 3:55 |
 | 30 | [Honeybee](https://open.spotify.com/track/1Zf4uRhtfWbMK9a8My3S03) | [Glen Rozi](https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n) | [Honeybee](https://open.spotify.com/album/68yZOyJg1hfnWfcpq0q1UI) | 2:40 |
 | 31 | [Almal Weet](https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq) | [Ichnus](https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT) | [Almal Weet](https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg) | 3:18 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 42 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
 | 43 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 |
 | 44 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 |
-| 45 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 |
-| 46 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
+| 45 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
+| 46 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 |
 | 47 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 |
 | 48 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
 | 49 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 |
-| 50 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 |
+| 50 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
 
 Snapshot ID: `AAAAAPb0ukVpsyB/+c8yjGK89IcTE23Z`

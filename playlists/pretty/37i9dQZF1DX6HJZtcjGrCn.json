@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: In\u00eas Marques Lucas ",
-  "num_followers": 36813,
+  "num_followers": 36810,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-11-07 00:00:23",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2025-11-07 00:00:23",
-      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2025-11-07 00:00:23",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2025-11-07 00:00:23",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-11-07 00:00:23",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-11-07 00:00:23",
-      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2025-11-07 00:00:23",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2025-11-07 00:00:23",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-11-07 00:00:23",
       "album": {
-        "name": "Murder on the Dancefloor (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 180872,
-      "name": "Murder on the Dancefloor - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
-    },
-    {
-      "added_at": "2025-11-07 00:00:23",
-      "album": {
         "name": "From The Pyre",
         "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "added_at": "2025-11-07 00:00:23",
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 180872,
+      "name": "Murder on the Dancefloor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
       "added_at": "2025-11-07 00:00:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-11-07 00:00:23",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 242584,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
-    },
-    {
-      "added_at": "2025-11-07 00:00:23",
-      "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2025-11-07 00:00:23",
       "album": {
-        "name": "The Scythe",
-        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 285240,
-      "name": "The Scythe",
-      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "added_at": "2025-11-07 00:00:23",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2025-11-07 00:00:23",
       "album": {
-        "name": "SPIDERS",
-        "url": "https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF"
+        "name": "The Scythe",
+        "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 267520,
-      "name": "SPIDERS",
-      "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     },
     {
       "added_at": "2025-11-07 00:00:23",
@@ -1195,6 +1179,22 @@
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+    },
+    {
+      "added_at": "2025-11-07 00:00:23",
+      "album": {
+        "name": "SPIDERS",
+        "url": "https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "SPIDERS",
+      "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
     },
     {
       "added_at": "2025-11-07 00:00:23",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-11-07 00:00:23",
       "album": {
-        "name": "This is the Killer Speaking",
-        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "This is the Killer Speaking",
-      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
-    },
-    {
-      "added_at": "2025-11-07 00:00:23",
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "added_at": "2025-11-07 00:00:23",
+      "album": {
+        "name": "This is the Killer Speaking",
+        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "This is the Killer Speaking",
+      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
     }
   ],
   "unique_name": "Cena Indie",

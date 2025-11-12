@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 23454,
+  "num_followers": 23459,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Gotta Tell You",
+        "url": "https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc"
+      },
+      "artists": [
+        {
+          "name": "Samantha Mumba",
+          "url": "https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Gotta Tell You",
+      "url": "https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 248626,
       "name": "Down And Out",
       "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Gotta Tell You",
-        "url": "https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc"
-      },
-      "artists": [
-        {
-          "name": "Samantha Mumba",
-          "url": "https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Gotta Tell You",
-      "url": "https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ"
     },
     {
       "added_at": "2022-10-01 20:09:45",

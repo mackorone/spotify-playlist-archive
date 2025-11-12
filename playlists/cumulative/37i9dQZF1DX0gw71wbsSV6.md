@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-348 songs - 21 hr 29 min
+349 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-02-28 | 2025-04-18 |
 | [Conflict](https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Conflict](https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4) | 2:47 | 2023-01-19 | 2024-01-11 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-20 |  |
+| [Cruel Odds](https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz) | [mmm](https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec) | [Burnt](https://open.spotify.com/album/39cHTNTRQ1ESIkV3fBnDCE) | 3:29 | 2025-11-11 |  |
 | [Cry For You](https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Cry For You](https://open.spotify.com/album/7rRge1A2yeEk3KUIz76qxe) | 4:13 | 2023-11-16 | 2025-03-01 |
 | [Dance With You Tonight](https://open.spotify.com/track/1WUAyibDAavzj94N8JwVpW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:38 | 2022-10-16 | 2023-10-18 |
 | [Dancing In The River](https://open.spotify.com/track/77lbsUYxFbDhSKg4qtanax) | [Ogawa & Tokoro](https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA) | [Mutual Mutation](https://open.spotify.com/album/6Ooa3F2AlDmIdmMkOlewAr) | 7:49 | 2023-11-28 | 2024-03-08 |
@@ -198,7 +199,7 @@
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 | 2024-01-26 |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-16 | 2023-01-11 |
 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-01-31 | 2025-08-22 |
-| [Odakyu Line](https://open.spotify.com/track/0Fq7ovIDzp0swrLuSCR9WW) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 4:50 | 2025-10-11 |  |
+| [Odakyu Line](https://open.spotify.com/track/0Fq7ovIDzp0swrLuSCR9WW) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 4:50 | 2025-10-11 | 2025-11-12 |
 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-07 | 2025-10-03 |
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2023-01-12 | 2023-01-20 |
 | [OVERTHINKING](https://open.spotify.com/track/7lGvTDG9FdTpUarXKd8LV0) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [OVERTHINKING](https://open.spotify.com/album/3oz1h5O7FGYXAQBql90tOo) | 3:31 | 2023-07-14 | 2023-08-16 |

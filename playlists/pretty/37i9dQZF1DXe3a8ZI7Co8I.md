@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 
 > Temitas chulos para acompañarte cuando vas de un sitio a otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,618 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,544 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 | 35 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
 | 36 | [1000CANCIONES](https://open.spotify.com/track/4TUu0QxrNe0Mz6RMVoMda1) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 4:06 |
 | 37 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
-| 38 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 |
-| 39 | [Heavenly](https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:25 |
+| 38 | [Heavenly](https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:25 |
+| 39 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 |
 | 40 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 41 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 42 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 |
-| 43 | [La casa por el tejado](https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:27 |
-| 44 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
+| 43 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
+| 44 | [La casa por el tejado](https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:27 |
 | 45 | [Princesas](https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 3:37 |
 | 46 | [Marta, Sebas, Guille y los demás](https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Pájaros En La Cabeza](https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW) | 3:43 |
 | 47 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
 | 48 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
 | 49 | [Zapatillas](https://open.spotify.com/track/42VgiRyg0YjtRVLiPFNxPJ) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Zapatillas](https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF) | 2:52 |
-| 50 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 |
+| 50 | [Niebla](https://open.spotify.com/track/3WFmq2n3RValfsDQKSJWvc) | [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [La fe que me tengas](https://open.spotify.com/album/60rPrMCY7y6tTD9thTAj8v) | 2:57 |
 
 Snapshot ID: `AAAAABypMFOVWMmVXAKW+DasVIf4k84K`

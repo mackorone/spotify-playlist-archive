@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "Funky Nassau",
+        "url": "https://open.spotify.com/album/2OMpnlwjZA67Q7mEoP5ex2"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Soulsociety",
+          "url": "https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Funky Nassau",
+      "url": "https://open.spotify.com/track/07T0VAXeX2REWuuSSAkDEA"
+    },
+    {
+      "album": {
         "name": "A Basement, A Red Light, & A Feelin', Vol. 2",
         "url": "https://open.spotify.com/album/5hzi4K0UmEH0HXDl9Wuca1"
       },
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 269973,
       "name": "Slip n' Slide",
       "url": "https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL"

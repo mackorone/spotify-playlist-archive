@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1073241,
+  "num_followers": 1073198,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "I Wanna Feel (Radio Edit)",
-        "url": "https://open.spotify.com/album/68UKcs1Vr4HgREXQ3Dvzrg"
-      },
-      "artists": [
-        {
-          "name": "Secondcity",
-          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
-        }
-      ],
-      "duration_ms": 185934,
-      "name": "I Wanna Feel - Radio Edit",
-      "url": "https://open.spotify.com/track/77jaOS5YDCDGPto5Pomi4h"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Bright Idea",
         "url": "https://open.spotify.com/album/3CbD5meaudNYNl42Ldw7Tp"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 253840,
       "name": "Bright Idea",
       "url": "https://open.spotify.com/track/2bNivLleNjHDgPonfchAfo"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "I Wanna Feel (Radio Edit)",
+        "url": "https://open.spotify.com/album/68UKcs1Vr4HgREXQ3Dvzrg"
+      },
+      "artists": [
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        }
+      ],
+      "duration_ms": 185934,
+      "name": "I Wanna Feel - Radio Edit",
+      "url": "https://open.spotify.com/track/77jaOS5YDCDGPto5Pomi4h"
     },
     {
       "added_at": "2024-03-22 16:40:22",

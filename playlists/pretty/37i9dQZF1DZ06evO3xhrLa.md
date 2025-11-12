@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,750 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,758 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 26 | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4) | 2:42 |
 | 27 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 |
 | 28 | [you vs them](https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:24 |
-| 29 | [Drunk Texting \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:47 |
-| 30 | [3:16AM](https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:20 |
+| 29 | [3:16AM](https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:20 |
+| 30 | [Drunk Texting \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:47 |
 | 31 | [Triggered \(freestyle\)](https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:29 |
 | 32 | [Promises](https://open.spotify.com/track/60W9P4zX25XPbbC5IMCoH9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Namiko](https://open.spotify.com/artist/3ntfxXBlYkRROc8NZ2D5ko), [Miyagi](https://open.spotify.com/artist/1D1twK512TGf3AzN2ez2ED) | [Souled Out \(Deluxe\)](https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo) | 4:57 |
 | 33 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 49 | [The Vapors](https://open.spotify.com/track/7mnJgJhtuBEMRNoERn1OOa) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:30 |
 | 50 | [Worthy](https://open.spotify.com/track/1dUszfK4TRd54EegEkOT34) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:33 |
 
-Snapshot ID: `aQ/ZgAAAAACZ54uzgF16KR8fkXpY3OkD`
+Snapshot ID: `aRErAAAAAADmjoEevFZnybKG+2grVIlg`

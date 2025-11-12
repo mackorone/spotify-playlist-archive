@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: KiiKii\)
 
-1,497 songs - 3 day 8 hr 31 min
+1,498 songs - 3 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,7 +843,7 @@
 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 | 2024-05-08 | 2024-08-07 |
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2021-11-02 | 2022-01-20 |
 | [Maybe](https://open.spotify.com/track/6xP3oKbamE0eyGqzA0sL7x) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Maybe](https://open.spotify.com/album/1DpIvLgqOYqLcVrewneImP) | 2:46 | 2021-10-16 | 2021-11-19 |
-| [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-08 |  |
+| [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-08 | 2025-11-12 |
 | [McNasty](https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [McNasty](https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV) | 3:12 | 2024-07-05 | 2024-09-06 |
 | [ME](https://open.spotify.com/track/7gfo1QCdgYS3dJGfjrN39Z) | [KANG SEUNG YOON](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE 2](https://open.spotify.com/album/1zQRrxf71E8Fi5CnfYEWrp) | 3:42 | 2025-11-03 |  |
 | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/track/08Oq0ODihIEHHU9Y0JRi0W) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW), [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP), [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/album/4PrWleaxfuvZ3plIJJxm8J) | 3:24 | 2020-10-13\* | 2020-11-05 |
@@ -1242,6 +1242,7 @@
 | [Summertime \(Feat\. Keem Hyoeun\)](https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Summertime](https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B) | 3:44 | 2021-07-16 | 2021-08-25 |
 | [Sunflower \(P.E.L\)](https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Sunflower](https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6) | 3:01 | 2022-09-16 | 2022-11-11 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-02-03 | 2022-04-09 |
+| [Sunsets and Cigarettes](https://open.spotify.com/track/4xk3VG8GMiS65iBtUyZ209) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Silhouette](https://open.spotify.com/album/412kW5chzKk3ucqPurnRMF) | 3:10 | 2025-11-11 |  |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-05 | 2024-11-20 |
 | [SUPADUPA](https://open.spotify.com/track/0rzOt0WKIC2JcMD06OHWsQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [PO\~MYGIRL](https://open.spotify.com/album/5XsxSx1C8PSdv9ygcqtL6v) | 2:57 | 2020-10-13\* | 2020-11-05 |
 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-24 | 2024-10-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,334 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,356 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 29 | [Je n'veux pas rester sage](https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR) | [Dolly](https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn) | [Dolly \(Edition Deluxe\)](https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y) | 4:43 |
 | 30 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
 | 31 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
-| 32 | [Mon époque](https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La part des lions](https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3) | 2:19 |
-| 33 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 |
+| 32 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 |
+| 33 | [Mon époque](https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La part des lions](https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3) | 2:19 |
 | 34 | [Stand As One](https://open.spotify.com/track/1RgcWiVrG3QwkqftEvrfBV) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 3:18 |
 | 35 | [Let Me Alone](https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Izia](https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm) | 3:51 |
 | 36 | [Soledad](https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:08 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 45 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
 | 46 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 | 47 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
-| 48 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
+| 48 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:30 |
 | 49 | [Regarde\-moi](https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7), [Jean Baptiste Mory](https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh), [Greg Baudrier](https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR), [Emmanuel Baroux](https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB), [Franck Pilant](https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5), [Frédéric Franchitti](https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F) | [De jour comme de nuit](https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0) | 4:00 |
 | 50 | [Te revoir](https://open.spotify.com/track/1IG7yiK7vAUD1bg5wfMmEO) | [Eiffel](https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ) | [Abricotine](https://open.spotify.com/album/49A5xZlHxQq92tl58EAAlC) | 5:06 |
 

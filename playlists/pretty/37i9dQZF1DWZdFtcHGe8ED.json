@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Metallica",
-  "num_followers": 578026,
+  "num_followers": 578076,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
+        "name": "Alice In Hell",
+        "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "W.T.Y.D.",
+      "url": "https://open.spotify.com/track/4puBhL71XaixTPxpK02yog"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
         "name": "Shadow People",
         "url": "https://open.spotify.com/album/5ZAFMho7IwLr15Dbq3LSfv"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 284715,
       "name": "666 - World Divided",
       "url": "https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
-        "name": "Alice In Hell",
-        "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "W.T.Y.D.",
-      "url": "https://open.spotify.com/track/4puBhL71XaixTPxpK02yog"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Skeptics Apocalypse",
-        "url": "https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT"
-      },
-      "artists": [
-        {
-          "name": "Agent Steel",
-          "url": "https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Agents of Steel",
-      "url": "https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "The Last Rager",
         "url": "https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 195466,
       "name": "The Last Rager",
       "url": "https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "Skeptics Apocalypse",
+        "url": "https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT"
+      },
+      "artists": [
+        {
+          "name": "Agent Steel",
+          "url": "https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Agents of Steel",
+      "url": "https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Activate",
-        "url": "https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs"
-      },
-      "artists": [
-        {
-          "name": "Vektor",
-          "url": "https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg"
-        }
-      ],
-      "duration_ms": 210288,
-      "name": "Activate",
-      "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Banner of Supremacy",
         "url": "https://open.spotify.com/album/6LCmFoATePvuSjLi4q0xw3"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 236410,
       "name": "Banner of Supremacy",
       "url": "https://open.spotify.com/track/4uJ4ZdRzrVuRbf8rhWmzIN"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs"
+      },
+      "artists": [
+        {
+          "name": "Vektor",
+          "url": "https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg"
+        }
+      ],
+      "duration_ms": 210288,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Witchhunter",
-        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Witchhunter",
-      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Spread the Fire",
         "url": "https://open.spotify.com/album/4bwww1qTnCIRQdWjJIrAkX"
       },
@@ -2299,6 +2283,22 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
+        "name": "Witchhunter",
+        "url": "https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Witchhunter",
+      "url": "https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
         "name": "Deadly Relics",
         "url": "https://open.spotify.com/album/200a6DqACwMAgATqO1I2W7"
       },
@@ -2311,6 +2311,22 @@
       "duration_ms": 401947,
       "name": "Khomaniac",
       "url": "https://open.spotify.com/track/7hdr0UMDjWCKZKDaN2zWlT"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "I DON'T CARE",
+        "url": "https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B"
+      },
+      "artists": [
+        {
+          "name": "Rebellix",
+          "url": "https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "I DON'T CARE",
+      "url": "https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2379,22 +2395,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "The Great Circus Train Disaster",
-        "url": "https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY"
-      },
-      "artists": [
-        {
-          "name": "Gwar",
-          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
-        }
-      ],
-      "duration_ms": 223287,
-      "name": "The Great Circus Train Disaster",
-      "url": "https://open.spotify.com/track/5J9D4u13vrQldUYmbZInY3"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Diabolical",
         "url": "https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx"
       },
@@ -2411,34 +2411,18 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Poison for the Lost",
-        "url": "https://open.spotify.com/album/6yV6pWGyElpB3UvTZ2aspM"
+        "name": "The Great Circus Train Disaster",
+        "url": "https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY"
       },
       "artists": [
         {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+          "name": "Gwar",
+          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
         }
       ],
-      "duration_ms": 259053,
-      "name": "Poison for the Lost",
-      "url": "https://open.spotify.com/track/2bdvS1A5vGy90aOpjCHFux"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
-        "name": "I DON'T CARE",
-        "url": "https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B"
-      },
-      "artists": [
-        {
-          "name": "Rebellix",
-          "url": "https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "I DON'T CARE",
-      "url": "https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8"
+      "duration_ms": 223287,
+      "name": "The Great Circus Train Disaster",
+      "url": "https://open.spotify.com/track/5J9D4u13vrQldUYmbZInY3"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2459,22 +2443,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Sever The Tongue",
-        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
-      },
-      "artists": [
-        {
-          "name": "Deicide",
-          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "Sever The Tongue",
-      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Miami Supercops",
         "url": "https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL"
       },
@@ -2491,6 +2459,22 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
+        "name": "Sever The Tongue",
+        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
+      },
+      "artists": [
+        {
+          "name": "Deicide",
+          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "Sever The Tongue",
+      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
         "name": "Index Case",
         "url": "https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 115083,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "Poison for the Lost",
+        "url": "https://open.spotify.com/album/6yV6pWGyElpB3UvTZ2aspM"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "Poison for the Lost",
+      "url": "https://open.spotify.com/track/2bdvS1A5vGy90aOpjCHFux"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2571,18 +2571,18 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Curtain Fire",
-        "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
+        "name": "Full HD",
+        "url": "https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY"
       },
       "artists": [
         {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+          "name": "Crisix",
+          "url": "https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s"
         }
       ],
-      "duration_ms": 274816,
-      "name": "Curtain Fire",
-      "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
+      "duration_ms": 292241,
+      "name": "The Many Licit Paths",
+      "url": "https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2603,18 +2603,18 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Full HD",
-        "url": "https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY"
+        "name": "Curtain Fire",
+        "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
       },
       "artists": [
         {
-          "name": "Crisix",
-          "url": "https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s"
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
         }
       ],
-      "duration_ms": 292241,
-      "name": "The Many Licit Paths",
-      "url": "https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS"
+      "duration_ms": 274816,
+      "name": "Curtain Fire",
+      "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2667,18 +2667,18 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "The Devil's Asylum",
-        "url": "https://open.spotify.com/album/4U7NMaExSJO02zodYFgkAf"
+        "name": "Exiled To The Surface",
+        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
       },
       "artists": [
         {
-          "name": "Vicious Rumors",
-          "url": "https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3"
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
         }
       ],
-      "duration_ms": 186530,
-      "name": "In Blood We Trust",
-      "url": "https://open.spotify.com/track/55Y6XsjNcIwe6CtXoIG3SK"
+      "duration_ms": 249531,
+      "name": "66 Exeter Street",
+      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2699,18 +2699,18 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Exiled To The Surface",
-        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
+        "name": "The Devil's Asylum",
+        "url": "https://open.spotify.com/album/4U7NMaExSJO02zodYFgkAf"
       },
       "artists": [
         {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
+          "name": "Vicious Rumors",
+          "url": "https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3"
         }
       ],
-      "duration_ms": 249531,
-      "name": "66 Exeter Street",
-      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
+      "duration_ms": 186530,
+      "name": "In Blood We Trust",
+      "url": "https://open.spotify.com/track/55Y6XsjNcIwe6CtXoIG3SK"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2779,22 +2779,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Leave Nothing Behind",
-        "url": "https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl"
-      },
-      "artists": [
-        {
-          "name": "Dust Bolt",
-          "url": "https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Leave Nothing Behind",
-      "url": "https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Sodom & Gomorrah",
         "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
       },
@@ -2807,6 +2791,22 @@
       "duration_ms": 246226,
       "name": "Sodom & Gomorrah",
       "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "Leave Nothing Behind",
+        "url": "https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl"
+      },
+      "artists": [
+        {
+          "name": "Dust Bolt",
+          "url": "https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Leave Nothing Behind",
+      "url": "https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2875,6 +2875,22 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
+        "name": "Taphephobia",
+        "url": "https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 222355,
+      "name": "Taphephobia",
+      "url": "https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
         "name": "Bleeding Out",
         "url": "https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO"
       },
@@ -2911,22 +2927,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Taphephobia",
-        "url": "https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 222355,
-      "name": "Taphephobia",
-      "url": "https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Origins Of Aggression",
         "url": "https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc"
       },
@@ -2939,6 +2939,22 @@
       "duration_ms": 114066,
       "name": "Thermonuclear Devastation of the Planet Earth - 2025 Re-Recording",
       "url": "https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "Killer Of Killers",
+        "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
+      },
+      "artists": [
+        {
+          "name": "Zig Zags",
+          "url": "https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Killer Of Killers",
+      "url": "https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -2975,22 +2991,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Killer Of Killers",
-        "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
-      },
-      "artists": [
-        {
-          "name": "Zig Zags",
-          "url": "https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Killer Of Killers",
-      "url": "https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Let the World Burn",
         "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
       },
@@ -3003,22 +3003,6 @@
       "duration_ms": 327953,
       "name": "Upon Their Cross",
       "url": "https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
-        "name": "A Sign of Things to Come",
-        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "A Sign of Things to Come",
-      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -3067,6 +3051,22 @@
       "duration_ms": 273746,
       "name": "Brace for Impact",
       "url": "https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "A Sign of Things to Come",
+        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "A Sign of Things to Come",
+      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
     },
     {
       "added_at": "2025-11-07 04:00:20",
@@ -3151,22 +3151,6 @@
     {
       "added_at": "2025-11-07 04:00:20",
       "album": {
-        "name": "Swallowed by Hell",
-        "url": "https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2"
-      },
-      "artists": [
-        {
-          "name": "Morbid Saint",
-          "url": "https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p"
-        }
-      ],
-      "duration_ms": 323500,
-      "name": "Bleed Them Dry",
-      "url": "https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ"
-    },
-    {
-      "added_at": "2025-11-07 04:00:20",
-      "album": {
         "name": "Non-Existent",
         "url": "https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr"
       },
@@ -3203,6 +3187,22 @@
       "duration_ms": 296157,
       "name": "Fuel the Fire",
       "url": "https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI"
+    },
+    {
+      "added_at": "2025-11-07 04:00:20",
+      "album": {
+        "name": "Swallowed by Hell",
+        "url": "https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2"
+      },
+      "artists": [
+        {
+          "name": "Morbid Saint",
+          "url": "https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p"
+        }
+      ],
+      "duration_ms": 323500,
+      "name": "Bleed Them Dry",
+      "url": "https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ"
     },
     {
       "added_at": "2025-11-07 04:00:20",

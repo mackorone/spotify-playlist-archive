@@ -4,7 +4,7 @@
 
 > De allerbeste songs van de 10's! Cover: Martin Garrix
 
-101 songs - 6 hr 8 min
+102 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 | 2021-02-22 |  |
 | [Ho Hey](https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7) | 2:43 | 2021-02-22 |  |
 | [Hold Back The River](https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 | 2021-02-22 |  |
-| [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 | 2021-02-22 |  |
+| [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 | 2021-02-22 | 2025-11-12 |
 | [Human](https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human](https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1) | 3:19 | 2021-02-22 |  |
 | [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:18 | 2021-02-22 |  |
 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 | 2021-02-22 |  |
@@ -60,6 +60,7 @@
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2021-02-22 |  |
 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 | 2021-02-22 |  |
 | [Lush Life](https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life](https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG) | 3:21 | 2021-02-22 |  |
+| [Mercy](https://open.spotify.com/track/4lYTkvMkcNRj9uoSr8Zpws) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy](https://open.spotify.com/album/5k3xD5FmMQjKuqJgK4Qk4k) | 3:28 | 2021-02-22 |  |
 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:21 | 2021-02-22 |  |
 | [My Love](https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb) | 4:22 | 2021-02-22 |  |
 | [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2021-02-22 |  |

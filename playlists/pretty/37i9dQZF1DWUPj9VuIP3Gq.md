@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPj9VuIP3Gq.md) - [plain]
 
 > Dale play y llénate de nostalgia con estas canciones inolvidables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,336 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,353 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPj9VuIP3Gq.md) - [plain]
 | 46 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6kG8VuzqKZA8D1bMVYDp98) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 4:47 |
 | 47 | [Ciega, Sordomuda](https://open.spotify.com/track/2KeFEmC9tWtNaF2hZ7yLpm) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 4:28 |
 | 48 | [Sueños](https://open.spotify.com/track/6arKgQHCGt2buopAxKTpQt) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 3:47 |
-| 49 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:08 |
+| 49 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:07 |
 | 50 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
 | 51 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4X4eypK7U3nCtOegosnciD) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso](https://open.spotify.com/album/5BegiOj46Ggq4dbLT1AK5d) | 5:10 |
 | 52 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 |

@@ -6,8 +6,116 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGEmVOkcFkZTz3NhZmyWPHyyXHZV+j",
+  "snapshot_id": "AAAGIYUUG6RchpLEYBu78o8/NZqBq1lf",
   "tracks": [
+    {
+      "added_at": "2025-11-11 07:53:23",
+      "album": {
+        "name": "\u30a2\u30d6\u30c0\u30b9\u30a3\u30de",
+        "url": "https://open.spotify.com/album/10SGnHAPTORpPP3JrA4pxH"
+      },
+      "artists": [
+        {
+          "name": "wotaku",
+          "url": "https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX"
+        },
+        {
+          "name": "\u30d5\u30ea\u30e2\u30e1\u30f3",
+          "url": "https://open.spotify.com/artist/4pLhclkqDIa5iBW0EtTKmr"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "\u30a2\u30d6\u30c0\u30b9\u30a3\u30de (feat. \u30d5\u30ea\u30e2\u30e1\u30f3)",
+      "url": "https://open.spotify.com/track/35XLC9AXk5Uyh1F5iCkmhe"
+    },
+    {
+      "added_at": "2025-11-11 07:53:41",
+      "album": {
+        "name": "STAR&!",
+        "url": "https://open.spotify.com/album/4OIidHyVFfF0Gmumcu0ie6"
+      },
+      "artists": [
+        {
+          "name": "Aira",
+          "url": "https://open.spotify.com/artist/6AIPGbjy2K7ldsleXgPwKE"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "sleeping heart (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/5kMMlgr0JBqpMN8fwT7gzf"
+    },
+    {
+      "added_at": "2025-11-11 07:53:54",
+      "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/5J9Jh1gPzlHAUgLzPRVMuo"
+      },
+      "artists": [
+        {
+          "name": "\u6cab\u5c3e",
+          "url": "https://open.spotify.com/artist/3xiRtHEkgQZINconT2YCPA"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        },
+        {
+          "name": "\u305a\u3093\u3060\u3082\u3093",
+          "url": "https://open.spotify.com/artist/3m4eychsgfjZtqppOdaThY"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Mirror Mirror (feat. KAITO&\u91cd\u97f3\u30c6\u30c8&\u305a\u3093\u3060\u3082\u3093)",
+      "url": "https://open.spotify.com/track/0wWo6DyFR4A4zl4Jx03q2D"
+    },
+    {
+      "added_at": "2025-11-11 07:54:07",
+      "album": {
+        "name": "\u30b5\u30a4\u30d0\u30fc\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/041kNhwYnY6n5qQwn5GVi9"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
+          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 127118,
+      "name": "\u30b5\u30a4\u30d0\u30fc\u30ac\u30fc\u30eb (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6GrTdtk2gTSKsMi3Q2v0Rr"
+    },
+    {
+      "added_at": "2025-11-11 07:54:18",
+      "album": {
+        "name": "Internet Junk Junkie",
+        "url": "https://open.spotify.com/album/5LGspRHggjCV1aGPPjr9u7"
+      },
+      "artists": [
+        {
+          "name": "Capchii",
+          "url": "https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 158586,
+      "name": "Internet Junk Junkie (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5IcOHjZsNglMnBmsJhpfFZ"
+    },
     {
       "added_at": "2025-10-28 08:18:31",
       "album": {
@@ -739,126 +847,6 @@
       "duration_ms": 205093,
       "name": "\u30a2\u30fc\u30ab\u30a4\u30d6\u30e6\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3nIUOATk53MOSN8yBvHUfi"
-    },
-    {
-      "added_at": "2025-09-02 08:18:43",
-      "album": {
-        "name": "mad diner\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
-        "url": "https://open.spotify.com/album/1YpbKTvrhrncvOXtUWftz9"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u5b88\u6587\u5b66",
-          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 185568,
-      "name": "\u30de\u30c3\u30c9\u30c0\u30a4\u30ca\u30fc (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
-      "url": "https://open.spotify.com/track/0upefTxEBesCT653SvsM5L"
-    },
-    {
-      "added_at": "2025-09-02 08:18:56",
-      "album": {
-        "name": "\u30e9\u30a4\u30a2\u30fc\u30e9\u30a4\u30a2\u30fc",
-        "url": "https://open.spotify.com/album/01AvsA02VTLKV3rwPAFhUu"
-      },
-      "artists": [
-        {
-          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
-          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "\u30e9\u30a4\u30a2\u30fc\u30e9\u30a4\u30a2\u30fc (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1HBrYrKhziumhi3BmFsDFC"
-    },
-    {
-      "added_at": "2025-09-02 08:19:07",
-      "album": {
-        "name": "toxo",
-        "url": "https://open.spotify.com/album/7CQga4ciBB4ZXLe3TUnTCM"
-      },
-      "artists": [
-        {
-          "name": "\u732b\u76ee",
-          "url": "https://open.spotify.com/artist/1Fxy768cDOGSRa1zhgXRn5"
-        },
-        {
-          "name": "\u9cf4\u82b1\u30d2\u30e1",
-          "url": "https://open.spotify.com/artist/5YeBpB4eLKxOdLwsHU6kFr"
-        }
-      ],
-      "duration_ms": 235201,
-      "name": "toxo (feat. \u9cf4\u82b1\u30d2\u30e1)",
-      "url": "https://open.spotify.com/track/02COtMW8BJb0SYqmvGDje4"
-    },
-    {
-      "added_at": "2025-09-02 08:19:18",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/0M7j8UOgFxRRh2TuXtqCYn"
-      },
-      "artists": [
-        {
-          "name": "Yunosuke",
-          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 212046,
-      "name": "\u30ae\u30e3\u30f3\u30d3\u30c3\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1h3ybQn6ux1m3nATZ9wp6f"
-    },
-    {
-      "added_at": "2025-09-02 08:19:30",
-      "album": {
-        "name": "\u5929\u85cd\u306e\u30a2\u30a4\u30b9\u30d8\u30f4\u30f3",
-        "url": "https://open.spotify.com/album/4MypVKWbpn5KiUfsaHfjBJ"
-      },
-      "artists": [
-        {
-          "name": "irucaice",
-          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 186772,
-      "name": "\u5929\u85cd\u306e\u30a2\u30a4\u30b9\u30d8\u30f4\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/07yibwbWDYCwyEnz6JQXaR"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,490 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,497 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 25 | [The Road](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:15 |
 | 26 | [Shadow of You](https://open.spotify.com/track/0dYn8RJrjXi5jh7pnhrcZi) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:16 |
 | 27 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 |
-| 28 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
-| 29 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
+| 28 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
+| 29 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 | 30 | [Love Alone](https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:41 |
 | 31 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
 | 32 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |

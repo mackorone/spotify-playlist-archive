@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,537 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,548 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 70 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
 | 71 | [Everybody’s Looking At Me](https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [STANS \(The Official Soundtrack\)](https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b) | 4:54 |
 | 72 | [Workin On Me](https://open.spotify.com/track/4OLpvmygTruvZfH1uyj6sS) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Workin On Me](https://open.spotify.com/album/4htzd8kCbdtovAFvLnHz5f) | 5:00 |
-| 73 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
-| 74 | [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 |
+| 73 | [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 |
+| 74 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
 | 75 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
 | 76 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 77 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 86 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 |
 | 87 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
 | 88 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
-| 89 | [Fire Your Manager \(feat\. Playboi Carti\)](https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:53 |
-| 90 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
+| 89 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
+| 90 | [Fire Your Manager \(feat\. Playboi Carti\)](https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:53 |
 | 91 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 92 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
 | 93 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 |

@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Aish Full",
+        "url": "https://open.spotify.com/album/4rY8wfXvi2Hj17DzBo69fY"
+      },
+      "artists": [
+        {
+          "name": "TEJI",
+          "url": "https://open.spotify.com/artist/6uNvr9JWcntVyh4LBH1V15"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "Aish Full",
+      "url": "https://open.spotify.com/track/1HmzvonXngsnWQkWmS3qf3"
+    },
+    {
+      "album": {
         "name": "Aitbaar",
         "url": "https://open.spotify.com/album/1htnh54RnvUv0sGU9f7Xd0"
       },
@@ -4283,6 +4301,32 @@
     },
     {
       "album": {
+        "name": "DAS DE",
+        "url": "https://open.spotify.com/album/4jcsQBRiYdcOQ5nRkZYZi5"
+      },
+      "artists": [
+        {
+          "name": "Raporrate",
+          "url": "https://open.spotify.com/artist/3p1bm0rPTPMNrZX2aV81Rd"
+        },
+        {
+          "name": "Si DUk",
+          "url": "https://open.spotify.com/artist/3QkZPXtDN98gHdNFh57qOl"
+        },
+        {
+          "name": "AR47",
+          "url": "https://open.spotify.com/artist/0Uge6lk5WB0wRIf02tRadB"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189864,
+      "name": "DAS DE",
+      "url": "https://open.spotify.com/track/3zsy8X1GP3cuKpA31DX6D8"
+    },
+    {
+      "album": {
         "name": "Das Kon",
         "url": "https://open.spotify.com/album/1HJoUB62ImrVdJUmMG9s2U"
       },
@@ -6528,7 +6572,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 145537,
       "name": "GGG",
       "url": "https://open.spotify.com/track/02p7bJUw1JMcP85BBSGK6q"
@@ -15232,7 +15276,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 154430,
       "name": "Strings Attached",
       "url": "https://open.spotify.com/track/5qXOKKtAPWAzsf2fEQIxIq"

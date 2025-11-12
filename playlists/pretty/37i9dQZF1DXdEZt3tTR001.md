@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,912 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,961 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 60 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 |
 | 61 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 62 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
-| 63 | [GOD IS REAL](https://open.spotify.com/track/0reyWELcnHNCEG2kGZ0Ctp) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LUCKY YOU](https://open.spotify.com/album/4dHcuizgdi9fpKX8MKQm43) | 2:12 |
-| 64 | ["You hate Jazz?"](https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | ["You hate Jazz?"](https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF) | 2:40 |
+| 63 | ["You hate Jazz?"](https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | ["You hate Jazz?"](https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF) | 2:40 |
+| 64 | [GOD IS REAL](https://open.spotify.com/track/0reyWELcnHNCEG2kGZ0Ctp) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LUCKY YOU](https://open.spotify.com/album/4dHcuizgdi9fpKX8MKQm43) | 2:12 |
 | 65 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
 | 66 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
 | 67 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 71 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 |
 | 72 | [pinot noir](https://open.spotify.com/track/7quKy7lopBm3VTCjYTmUvK) | [the wine is ok](https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak) | [pinot noir](https://open.spotify.com/album/5iOtQs0o3KpnAv2yIKtlws) | 2:17 |
 | 73 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
-| 74 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 |
+| 74 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
 | 75 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
-| 76 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
+| 76 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 |
 | 77 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
 | 78 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 |
-| 79 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
-| 80 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 79 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 80 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 
 Snapshot ID: `AAAAAHOKLUu3icXo434eU7aAg/oPd9Ib`

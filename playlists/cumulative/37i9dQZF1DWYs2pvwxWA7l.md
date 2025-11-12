@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover:  Tyla
 
-713 songs - 1 day 12 hr 17 min
+714 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Ama Aje](https://open.spotify.com/track/56Pd4rsTqhPVuDP842AmHT) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Ama Aje](https://open.spotify.com/album/4EKOX9c43REwT6r2b71YWc) | 3:09 | 2022-02-03 | 2022-06-01 |
 | [AMEN](https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [AMEN](https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5) | 2:08 | 2023-11-03 | 2023-11-09 |
 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-01-12 |  |
-| [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 | 2025-04-11 |  |
+| [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 | 2025-04-11 | 2025-11-12 |
 | [Angelina](https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Angelina](https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag) | 2:40 | 2024-10-11 | 2024-12-13 |
 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 | 2022-12-08 | 2023-05-14 |
 | [Another Episode](https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Another Episode](https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8) | 3:14 | 2024-03-01 | 2024-04-05 |
@@ -547,6 +547,7 @@
 | [PrAy](https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 3:37 | 2024-12-13 | 2025-04-07 |
 | [Pray For Me \(feat\. Wyclef Jean\)](https://open.spotify.com/track/2vkSZp7EDzpJ1tWY9HFThc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Pray For Me \(feat\. Wyclef Jean\)](https://open.spotify.com/album/4m1SKZ4WIrWxECvHUjlDNr) | 3:19 | 2024-08-09 | 2024-09-20 |
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-11 | 2022-07-22 |
+| [Pression](https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:35 | 2025-11-07 |  |
 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 | 2024-08-02 | 2024-08-09 |
 | [Pressure](https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Pressure](https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1) | 3:06 | 2023-03-10 | 2023-05-09 |
 | [Problems](https://open.spotify.com/track/5ILZEMgDCit02Og8RQfB6h) | [Curtis J](https://open.spotify.com/artist/1myX1TbX6OkGrelfyeRwxd), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Problems](https://open.spotify.com/album/0irnt3dtaoyMB5T7uqZQws) | 3:28 | 2023-06-02 | 2023-06-16 |

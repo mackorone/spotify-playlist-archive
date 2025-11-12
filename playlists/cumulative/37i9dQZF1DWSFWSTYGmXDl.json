@@ -2265,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206160,
+      "name": "I'll Be Home For Christmas - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP"
+    },
+    {
+      "album": {
         "name": "Christmas with The Tenors",
         "url": "https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V"
       },
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 303520,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS"

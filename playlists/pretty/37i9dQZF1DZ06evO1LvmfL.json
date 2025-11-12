@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 443336,
+  "num_followers": 443575,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACkXKFIgYCFaABWCrpOuFS3",
+  "snapshot_id": "aRErAAAAAAD2/9BKdkkmpW+UZuUJBwFH",
   "tracks": [
     {
       "added_at": null,
@@ -363,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lose Control (Alt. Versions)",
-        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
       },
       "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Lose Control - Piano Version",
-      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
+      "duration_ms": 207794,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86"
     },
     {
       "added_at": null,
@@ -395,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "About A Woman (Deluxe)",
-        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+        "name": "Lose Control (Alt. Versions)",
+        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
       },
       "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 207794,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86"
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 229367,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 151820,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 229367,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV"
     },
     {
       "added_at": null,

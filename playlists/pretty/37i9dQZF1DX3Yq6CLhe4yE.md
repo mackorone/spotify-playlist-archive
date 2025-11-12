@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Yq6CLhe4yE.md) - [plain]
 
 > Feel...everything\. Listen to the music from The Idea of You, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,188 likes - 27 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,183 likes - 27 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,451 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,445 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 2 | [Fast Slow Disco](https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Fast Slow Disco](https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q) | 3:17 |
 | 3 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
 | 4 | [Broken Man](https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:21 |
-| 5 | [Chalk Tablet Towers \(feat\. St Vincent\)](https://open.spotify.com/track/5zGElc4Fk95ONl7YihpLFN) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:02 |
-| 6 | [The Antidote](https://open.spotify.com/track/2rKP4A3wm8b5zLFyqSXCMY) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: Breaking Dawn \- Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa) | 3:39 |
+| 5 | [The Antidote](https://open.spotify.com/track/2rKP4A3wm8b5zLFyqSXCMY) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: Breaking Dawn \- Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa) | 3:39 |
+| 6 | [Chalk Tablet Towers \(feat\. St Vincent\)](https://open.spotify.com/track/5zGElc4Fk95ONl7YihpLFN) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:02 |
 | 7 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
 | 8 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 |
 | 9 | [pain for fun](https://open.spotify.com/track/7MI6Tcf7xshal6W4ZHJeEG) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:26 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 36 | [Surgeon](https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:25 |
 | 37 | [Down And Out Downtown](https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:42 |
 | 38 | [Rattlesnake](https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:34 |
-| 39 | [Dinner for Two](https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:42 |
+| 39 | [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 |
 | 40 | [Dilettante](https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:03 |
-| 41 | [My Baby Wants A Baby](https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:20 |
+| 41 | [Candy Darling](https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 1:55 |
 | 42 | [Bad Believer](https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 2:59 |
-| 43 | [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 |
+| 43 | [Dinner for Two](https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:42 |
 | 44 | [These Days](https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Jesus Saves, I Spend](https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa) | 3:19 |
 | 45 | [Chloe In The Afternoon](https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 2:55 |
 | 46 | [All My Stars Aligned](https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Marry Me](https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [Regret](https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:21 |
 | 50 | [Uneventful Days \- St\. Vincent Remix](https://open.spotify.com/track/1zyBMwIWlKozL0hom8GT5x) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Hyperspace \(2020\)](https://open.spotify.com/album/6Aqtcnv4SwSnXaZj987OQ0) | 2:59 |
 
-Snapshot ID: `aQ/ZgAAAAAD5gIquJe5SVaby4oXVbVg8`
+Snapshot ID: `aRErAAAAAADs/g0DIRFQy1yvKmFkOhHl`

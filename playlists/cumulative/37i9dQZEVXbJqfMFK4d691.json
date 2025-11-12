@@ -6574,7 +6574,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -6646,7 +6646,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -9501,6 +9501,28 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "album": {
         "name": "La player (Bandolera)",
         "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
@@ -9620,7 +9642,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 188571,
       "name": "La revancha",
       "url": "https://open.spotify.com/track/3SMBMGIjc5OrasdvWtcNLD"
@@ -14668,7 +14690,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 142041,
       "name": "Piel",
       "url": "https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90"
@@ -19396,7 +19418,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
@@ -20936,7 +20958,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -20976,7 +20998,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

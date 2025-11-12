@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Suspect 95
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,489 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,559 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

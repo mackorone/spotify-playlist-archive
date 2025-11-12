@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 
 > 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,086 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,081 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 | 42 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 |
 | 43 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
 | 44 | [Glitter](https://open.spotify.com/track/0qtK3XwbuG153dmwB8iepL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:44 |
-| 45 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
-| 46 | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/track/72794Eag03xdy7TO0KNuid) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr) | 3:22 |
+| 45 | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/track/72794Eag03xdy7TO0KNuid) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr) | 3:22 |
+| 46 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 47 | [off the table \(with The Weeknd\)](https://open.spotify.com/track/7E1jVNoWuemqUryI4FxsVD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:59 |
 | 48 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 |
 | 49 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |

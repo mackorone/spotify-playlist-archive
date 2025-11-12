@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Reik & Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,812 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,811 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 18 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 |
 | 19 | [Carne y Hueso](https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Carne y Hueso](https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9) | 2:58 |
 | 20 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 |
-| 21 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:59 |
+| 21 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:57 |
 | 22 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 |
 | 23 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 |
 | 24 | [Hoy no me siento bien](https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hoy no me siento bien](https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD) | 2:33 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 72 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 |
 | 73 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 |
 | 74 | [Después De Ti](https://open.spotify.com/track/7Gyw1SoLPJE5x1yF1ogD5o) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Después De Ti](https://open.spotify.com/album/5F5kLsabAGAACpCMxWS1D9) | 3:18 |
-| 75 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:08 |
+| 75 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:07 |
 | 76 | [Siete mares](https://open.spotify.com/track/1ZaeSo2JJZOElABqSv3qrr) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Siete mares](https://open.spotify.com/album/2pRIS5kW88w2LwhKMKhFpK) | 2:38 |
 | 77 | [PARA AMARTE A TI \(DELUXE\)](https://open.spotify.com/track/5aSTzUVvb4uBjfwBUQ2zeD) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/6jmi6EvglArIsDkOzPE8jg) | 3:34 |
 | 78 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |

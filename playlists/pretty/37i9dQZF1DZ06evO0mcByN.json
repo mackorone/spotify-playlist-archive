@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6217,
+  "num_followers": 6225,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAC1mpxEGu82GrNxr2OlEGUT",
+  "snapshot_id": "aRErAAAAAABomTlw2PHvmaKVt06fON5g",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 393986,
-      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
+      "duration_ms": 230386,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
     },
     {
       "added_at": null,
@@ -655,6 +647,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 393986,
+      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vai Valer a Pena",
         "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
+      "duration_ms": 220733,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
     },
     {
       "added_at": null,
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Vai Valer a Pena",
-      "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
+      "duration_ms": 301280,
+      "name": "360 Graus",
+      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 280117,
       "name": "Grito Aflito",
       "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 301280,
-      "name": "360 Graus",
-      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
     },
     {
       "added_at": null,

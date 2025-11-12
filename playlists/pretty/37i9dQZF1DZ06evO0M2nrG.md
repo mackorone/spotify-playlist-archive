@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,677 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,678 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 13 | [MEDICINA NATURAL](https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 2:52 |
 | 14 | [Tu No Eres un Angel](https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu No Eres un Angel](https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H) | 3:11 |
 | 15 | [Si Dios Fuera Poeta](https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:27 |
-| 16 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
+| 16 | [Un Vacío](https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Un Vacío](https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU) | 2:31 |
 | 17 | [La Vida](https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 1:10 |
-| 18 | [Un Vacío](https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Un Vacío](https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU) | 2:31 |
+| 18 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
 | 19 | [Quédate Aquí](https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:03 |
 | 20 | [Locos Dementes](https://open.spotify.com/track/1avccdZyIOpCisznKwu47H) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Locos Dementes](https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8) | 3:35 |
 | 21 | [Hola Mi Amor](https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:38 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 25 | [La Indocumentada](https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:15 |
 | 26 | [Quiéreme](https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:02 |
 | 27 | [La Falta](https://open.spotify.com/track/3ButIE6y5SSxmpI5y6rOaP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:08 |
-| 28 | [Difícile](https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Difícile](https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY) | 2:32 |
-| 29 | [Sufrimos De Lo Mismo](https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:41 |
+| 28 | [Sufrimos De Lo Mismo](https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:41 |
+| 29 | [Difícile](https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Difícile](https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY) | 2:32 |
 | 30 | [Cha Cha \- Bandera Blanca](https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:54 |
 | 31 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 |
 | 32 | [Ay Amor](https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:29 |
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 47 | [Déjame](https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Déjame](https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF) | 3:09 |
 | 48 | [Magdalena](https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Magdalena](https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn) | 3:18 |
 | 49 | [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 |
-| 50 | [Modo Romántico](https://open.spotify.com/track/5pUedtLoLoZhisVtY7zhyy) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Modo Romántico](https://open.spotify.com/album/3IKPdMbD9JAiXMsWB4rXWE) | 3:03 |
 
-Snapshot ID: `aQ/ZgAAAAACmvUOou06c/Z+kZP1XhsQK`
+Snapshot ID: `aRErAAAAAACXIlXDuhef9+H0cl7Nt5Zo`

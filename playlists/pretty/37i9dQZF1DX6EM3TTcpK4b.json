@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
-  "num_followers": 451055,
+  "num_followers": 451186,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 186653,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 179306,
       "name": "Un Vestido de Besos",
       "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Orgullo Ranchero",
-        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 129400,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Orgullo Ranchero",
+        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Yo Vendo Unos Ojos Verdes",
         "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
+      "duration_ms": 161186,
+      "name": "Mi cari\u00f1ito",
+      "url": "https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 161186,
-      "name": "Mi cari\u00f1ito",
-      "url": "https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 208266,
       "name": "Tantita Pena",
       "url": "https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Yo No Fui",
-        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Yo No Fui",
-      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "A Todas Las Que Am\u00e9",
-        "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
+        "name": "Yo No Fui",
+        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
       },
       "artists": [
         {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Una P\u00e1gina M\u00e1s",
-      "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
+      "duration_ms": 292400,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "A Todas Las Que Am\u00e9",
+        "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 161426,
+      "name": "Una P\u00e1gina M\u00e1s",
+      "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Esta Noche Voy a Verla",
+      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -1211,6 +1227,22 @@
       "duration_ms": 175106,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1247,38 +1279,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Esta Noche Voy a Verla",
-      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Y...",
-      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 195480,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Y...",
+      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Tata Dios",
-      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
         "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 236146,
       "name": "Coplas de dos tipos de cuidado (remastered)",
       "url": "https://open.spotify.com/track/3lgKbnsiz1twr0WJs3ZvNO"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Tata Dios",
+      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "15 Exitos De Federico Villa - Versiones Originales",
-        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
+        "name": "Mi Forma De Sentir",
+        "url": "https://open.spotify.com/album/44cukglFht4O2fmdNHMbfb"
       },
       "artists": [
         {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 209666,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
+      "duration_ms": 244560,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/5lgpyVntKs6yFvzSvbMJff"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "15 Exitos De Federico Villa - Versiones Originales",
+        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Corridos Antonio Aguilar",
         "url": "https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Mi Forma De Sentir",
-        "url": "https://open.spotify.com/album/44cukglFht4O2fmdNHMbfb"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 244560,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/5lgpyVntKs6yFvzSvbMJff"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233302,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "La Reina de la Canci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 231093,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 233302,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11"
     },
     {
       "added_at": "2024-07-03 18:18:42",

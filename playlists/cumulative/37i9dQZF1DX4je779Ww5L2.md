@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-84 songs - 5 hr 19 min
+86 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/track/0TV1pKSGkRLO8pmbmx9E2k) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/album/5Os6AY420xj5jC0Y68YNhl) | 3:11 | 2025-08-08 |  |
 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 | 2025-08-08 |  |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-08-08 | 2025-10-22 |
+| [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 | 2025-11-11 |  |
 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 | 2025-08-08 |  |
 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 | 2025-08-08 |  |
 | [Planets](https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:39 | 2025-09-26 |  |
@@ -76,6 +77,7 @@
 | [The Distance](https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Distance](https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud) | 3:04 | 2025-08-08 |  |
 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 | 2025-08-08 |  |
 | [The Sun Will Rise](https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Sun Will Rise](https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ) | 3:03 | 2025-08-08 |  |
+| [The Truth Can Wait](https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [The Truth Can Wait](https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh) | 3:32 | 2025-11-11 |  |
 | [Touching God \(Feat\. Yebba & Blood Orange\)](https://open.spotify.com/track/2GjW83G2ZUF7pLpcUKuP9Y) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 4:41 | 2025-10-28 |  |
 | [Tree\-lined Lanes](https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 2:53 | 2025-09-25 |  |
 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-09-26 |  |

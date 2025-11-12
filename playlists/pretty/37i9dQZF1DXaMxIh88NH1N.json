@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 206557,
+  "num_followers": 206671,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 201322,
       "name": "On D Gas",
       "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "MALEDUCADO",
-        "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 159548,
-      "name": "MALEDUCADO",
-      "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -803,22 +783,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 200658,
-      "name": "BLANCA ROSITA Y MARIA",
-      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "\u00c1lbum JGL",
         "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
@@ -839,6 +803,42 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 200658,
+      "name": "BLANCA ROSITA Y MARIA",
+      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "MALEDUCADO",
+        "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 159548,
+      "name": "MALEDUCADO",
+      "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -951,42 +951,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "CDN",
-      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1007,6 +971,42 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "CDN",
+      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "Vision De Tunel",
+        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 172890,
+      "name": "Vision De Tunel",
+      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "Se Volvieron Locos",
         "url": "https://open.spotify.com/album/4LvndqvFdW4HsmC93jEeqY"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 160714,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/7eUCC5cLcQVQVuE9JP0phS"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "Vision De Tunel",
-        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 172890,
-      "name": "Vision De Tunel",
-      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "AMOR (Remix)",
+        "url": "https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200631,
+      "name": "AMOR - Remix",
+      "url": "https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 194805,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "AMOR (Remix)",
-        "url": "https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR"
-      },
-      "artists": [
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200631,
-      "name": "AMOR - Remix",
-      "url": "https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Daytona",
-        "url": "https://open.spotify.com/album/03NuIj4ZTS7DAoUf1smCS2"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/1aOpfe9bFkKY175YQmNOjf"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Mustangson",
         "url": "https://open.spotify.com/album/7MwlQpqH0gjRaLQyLRoTCQ"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 171973,
       "name": "Mustangson",
       "url": "https://open.spotify.com/track/4cigPi41A3NvCqgOjD5znn"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/03NuIj4ZTS7DAoUf1smCS2"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/1aOpfe9bFkKY175YQmNOjf"
     },
     {
       "added_at": "2025-05-27 18:54:46",

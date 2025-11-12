@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 408366,
+  "num_followers": 408576,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
-      },
-      "artists": [
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
     },
     {
       "added_at": "2022-06-15 04:26:09",

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-320 songs - 22 hr 23 min
+321 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [HEAR THIZ MF](https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [HEAR THIZ MF](https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX) | 2:23 | 2025-01-24 |  |
 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 | 2024-05-31 |  |
 | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ) | [ÅMRTÜM](https://open.spotify.com/artist/3bb7lqTA4RWzdAXpdfR5VK), [Synta](https://open.spotify.com/artist/3xs9xI64jtMn4Z0S2nNiq2) | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/album/1b7NKQ854B78JCooKptg4F) | 4:48 | 2024-04-09 | 2025-04-19 |
+| [Hey Yo DJ](https://open.spotify.com/track/39Tvy5bwILfNREZal822Yo) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Hey Yo DJ](https://open.spotify.com/album/3RCvuHLKxK8zU9mbrSeuw5) | 3:31 | 2025-11-07 |  |
 | [High On C](https://open.spotify.com/track/48oFEZWfCjhLQuZHkKwAVW) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:18 | 2024-07-18 | 2024-07-22 |
 | [HIT IT BOY](https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD), [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [HIT IT BOY](https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u) | 2:21 | 2025-10-10 |  |
 | [Hit The Club](https://open.spotify.com/track/4AlA1z25JYMU1kgmgCc8St) | [DBF](https://open.spotify.com/artist/3p9cbFUvSrQeLgpm7Go8ky) | [Hit The Club](https://open.spotify.com/album/67vJ3MyRTpkoT8dvN8rueX) | 2:28 | 2024-07-14 | 2024-07-22 |
@@ -250,7 +251,7 @@
 | [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-08-03 |
 | [Rolling](https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Rolling](https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy) | 2:44 | 2025-07-22 |  |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 | 2025-03-20 |
-| [SAINT GRAAL](https://open.spotify.com/track/70aughWpPbdbzYSE7422O9) | [PERCEVAL](https://open.spotify.com/artist/3dJ5aHKA9m7zKAr0lX6rtb) | [SAINT GRAAL](https://open.spotify.com/album/0ajLAs1f6lQbymKSGBwhoH) | 3:24 | 2025-10-10 |  |
+| [SAINT GRAAL](https://open.spotify.com/track/70aughWpPbdbzYSE7422O9) | [PERCEVAL](https://open.spotify.com/artist/3dJ5aHKA9m7zKAr0lX6rtb) | [SAINT GRAAL](https://open.spotify.com/album/0ajLAs1f6lQbymKSGBwhoH) | 3:24 | 2025-10-10 | 2025-11-12 |
 | [Salty](https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [In My 2024 Era](https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI) | 5:39 | 2024-09-20 | 2024-10-28 |
 | [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 | 2025-11-07 |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |

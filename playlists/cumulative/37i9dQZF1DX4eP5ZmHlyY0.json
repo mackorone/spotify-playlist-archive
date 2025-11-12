@@ -4190,7 +4190,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 213960,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/4FmajtNhF2DlWRe9soinXN"
@@ -6784,7 +6784,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 151067,
       "name": "LOVE INSANE (Feat. JAY of ENHYPEN)",
       "url": "https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i"
@@ -11573,6 +11573,24 @@
     },
     {
       "album": {
+        "name": "THE BOYZ Special Unit Digital Single [Tiger]",
+        "url": "https://open.spotify.com/album/3ld4YGGgl5gLB0rfkm20ma"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/0gNPZeBRc7Yal1BlDKc8we"
+    },
+    {
+      "album": {
         "name": "Til My Fingers Bleed (with DINO, Duckwrth & Telle)",
         "url": "https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1"
       },
@@ -12854,6 +12872,24 @@
       "duration_ms": 345671,
       "name": "WOW WAR TONIGHT \uff5e\u6642\u306b\u306f\u8d77\u3053\u305b\u3088\u30e0\u30fc\u30f4\u30e1\u30f3\u30c8 (JO1 ver.)",
       "url": "https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs"
+    },
+    {
+      "album": {
+        "name": "blackout",
+        "url": "https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "X",
+      "url": "https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj"
     },
     {
       "album": {

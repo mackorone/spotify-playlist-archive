@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: LEX
 
-543 songs - 1 day 6 hr 58 min
+544 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-18 | 2024-04-26 |
 | [どうでもいい話がしたい](https://open.spotify.com/track/5neukhTvTU38FpGUjpjW6q) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [愛の産声、哀の鳴き声](https://open.spotify.com/album/2v3t0YRjdNqjO1yXJ0bhuk) | 3:23 | 2025-05-01 | 2025-06-02 |
 | [ないものねだり](https://open.spotify.com/track/1dsh4buvcBs2u7YtHy29c7) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [僕がCDを出したら](https://open.spotify.com/album/3SKxJng83DxoCi3CuHfaLU) | 4:22 | 2023-04-03 | 2023-05-02 |
-| [なんでも言っちゃって](https://open.spotify.com/track/1ZGBwdBfy7M5XWGo4XoGlf) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [LOGIC](https://open.spotify.com/album/5ftRmSBjH02fMedZmn1alL) | 2:26 | 2025-11-04 |  |
+| [なんでも言っちゃって](https://open.spotify.com/track/1ZGBwdBfy7M5XWGo4XoGlf) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [LOGIC](https://open.spotify.com/album/5ftRmSBjH02fMedZmn1alL) | 2:26 | 2025-11-04 | 2025-11-12 |
 | [にゃんにゃんにゃん](https://open.spotify.com/track/5zExZzrMotIZvgyA8CVGgi) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [にゃんにゃんにゃん](https://open.spotify.com/album/3MG1bTi5QrEVZ56HuGUjKC) | 4:15 | 2024-05-23 | 2024-09-13 |
 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-07-01 | 2024-12-02 |
 | [ぴぽぴぽ](https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:22 | 2023-11-09 | 2024-01-12 |
@@ -515,6 +515,7 @@
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-04-06 | 2023-04-21 |
 | [明日の私に幸あれ](https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [明日の私に幸あれ](https://open.spotify.com/album/4Ux2KbDwOZ4hkrzC3etcyn) | 3:34 | 2025-06-19 |  |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-10-05 | 2023-12-14 |
+| [普通の人間だって言えないよ](https://open.spotify.com/track/5mdhqO06ZE7PCZ0uNc12Qz) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [普通の人間だって言えないよ](https://open.spotify.com/album/34oChr7G0x8xWoPZDGY2iL) | 2:56 | 2025-11-11 |  |
 | [最上級にかわいいの！](https://open.spotify.com/track/3Ac9x7tA96I5xUmZTDuqMX) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめく恋と青春](https://open.spotify.com/album/6mir8HSW9pDvCcCcrlcJ5f) | 3:10 | 2025-07-01 | 2025-08-01 |
 | [最高速度](https://open.spotify.com/track/22PDXKDnBNEejFZkWzETQE) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [最高速度](https://open.spotify.com/album/70HIn4TXNsSPybodDDMxqI) | 3:50 | 2024-01-11 | 2024-03-22 |
 | [未来図](https://open.spotify.com/track/3hD6z4YbJk64kN3v3N47hr) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Memory](https://open.spotify.com/album/1lemAJOLEhD9JWaWbQnUAf) | 3:49 | 2023-10-12 | 2023-11-11 |

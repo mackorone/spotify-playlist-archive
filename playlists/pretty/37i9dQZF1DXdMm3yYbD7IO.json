@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 544118,
+  "num_followers": 544517,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2024-07-12 19:59:45",

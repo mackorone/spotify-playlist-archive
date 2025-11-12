@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Dé playlist voor het najaar van 2025! 🌦️☔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,102 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,090 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 53 | [Moonshine](https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Moonshine](https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN) | 2:40 |
 | 54 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 |
 | 55 | [Girl In Red](https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Girl In Red](https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR) | 3:33 |
-| 56 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 56 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 57 | [Don't Leave \- Kylie](https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don't Leave \(Kylie\)](https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS) | 3:08 |
 | 58 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
 | 59 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 |

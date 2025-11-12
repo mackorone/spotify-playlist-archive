@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: EsDeeKid 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,607 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,721 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 22 | [Performante Pain](https://open.spotify.com/track/2CFOMeQAeajRPnYKOBu6Zy) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Performante Pain](https://open.spotify.com/album/5qktduaeZekiMaNegeRA3z) | 3:02 |
 | 23 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
 | 24 | [Villainous Freestyle](https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Villainous Freestyle](https://open.spotify.com/album/48h2Tlyquz569oCnSVmbkq) | 2:34 |
-| 25 | [LAGOS \(feat\. TR1GGA\)](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS \(feat\. TR1GGA\)](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 |
+| 25 | [LAGOS](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 |
 | 26 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 27 | [City of God](https://open.spotify.com/track/0m8u8HYIRb5XteWBq6IrdS) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [City of God](https://open.spotify.com/album/3B07Y32rL8euqHBuVUcjHC) | 2:49 |
 | 28 | [Here We Go Again](https://open.spotify.com/track/7jXIpGIVk3M80zg1oj0sXT) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [2 EASY](https://open.spotify.com/album/1KYDfAVps1egxt3TU6jShb) | 2:20 |

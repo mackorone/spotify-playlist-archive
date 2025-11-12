@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-789 songs - 1 day 15 hr 27 min
+790 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Feel Good](https://open.spotify.com/album/5QI7p02EaQO90V2i9lVxMY) | 3:01 | 2023-08-08 | 2024-02-16 |
 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 | 2024-05-24 | 2024-12-09 |
 | [feel someth!ng](https://open.spotify.com/track/4xj9oZ67frEPQrlf8rlR89) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [false / youth](https://open.spotify.com/album/5aaY5bclpHazZWkLinHh9S) | 3:31 | 2022-12-06 | 2023-04-28 |
+| [Feel That Way](https://open.spotify.com/track/6vkeigDcenew30dyAKnme2) | [D4N](https://open.spotify.com/artist/5FQzNWtS11lpF0WIDiQ5HO), [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Feel That Way](https://open.spotify.com/album/3qf62Ku8CzU58xY6h9TZE5) | 2:49 | 2025-11-11 |  |
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2023-08-08 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-04-28 |
 | [Feelings Fade](https://open.spotify.com/track/0waYUrVgNfMbrIpImHgKg9) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Wwings](https://open.spotify.com/artist/3tqTQFEyGKpdsDZjlxjyqS) | [Feelings Fade](https://open.spotify.com/album/3Rmh9O67BIF8Y86djdKFSa) | 3:02 | 2025-01-31 |  |

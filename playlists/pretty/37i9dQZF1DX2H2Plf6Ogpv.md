@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,029 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,042 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 35 | [Butterfly](https://open.spotify.com/track/5lnCypJsQ39undAOrvqLNP) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Never, Neverland \(Deluxe Edition\)](https://open.spotify.com/album/39nstb37kAyWR4LUZMxcs9) | 3:08 |
 | 36 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
 | 37 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 38 | [Dirty Girls](https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Dirty Girls](https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP) | 2:53 |
-| 39 | [Get Down](https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 3:39 |
-| 40 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 |
+| 38 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 |
+| 39 | [Dirty Girls](https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Dirty Girls](https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP) | 2:53 |
+| 40 | [Get Down](https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 3:39 |
 | 41 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
 | 42 | [Mood Ring](https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 2:57 |
 | 43 | [Dud](https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:47 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 59 | [Crashing](https://open.spotify.com/track/6ER2Pe6DX7ocWIr3yAVYEq) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [It Is What It Is Till It Is What It Isn't](https://open.spotify.com/album/3tTDnSYNjyf37CDZN00u3Y) | 2:42 |
 | 60 | [Your Ghost](https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 3:05 |
 | 61 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
-| 62 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |
-| 63 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
+| 62 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
+| 63 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |
 | 64 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 65 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
 | 66 | [Break the Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break the Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 71 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 |
 | 72 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
 | 73 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/47llw29VMRqLBcAZt0KmBQ) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/51358heB7GDrz5qCSkXshW) | 2:57 |
-| 74 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 |
-| 75 | [Bittersweet Mary](https://open.spotify.com/track/5ztMIM0AfQmX8axBX8OJ98) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Your Own Becoming](https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS) | 3:54 |
+| 74 | [Bittersweet Mary](https://open.spotify.com/track/5ztMIM0AfQmX8axBX8OJ98) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Your Own Becoming](https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS) | 3:54 |
+| 75 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 |
 
 Snapshot ID: `AAAAAJWCYDzGzYnpQeUaWT8dJL4PizNj`

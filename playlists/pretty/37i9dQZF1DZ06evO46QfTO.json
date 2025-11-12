@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75102,
+  "num_followers": 75104,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABS7ql75jBAGBs0Ti017bCp",
+  "snapshot_id": "aRErAAAAAAA8Fq263GklMRmJ9jeWzpTV",
   "tracks": [
     {
       "added_at": null,
@@ -60,7 +60,7 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 197293,
+      "duration_ms": 197298,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beat the Devil",
+        "url": "https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 133699,
+      "name": "Beat the Devil",
+      "url": "https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beat the Devil",
-        "url": "https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 133699,
-      "name": "Beat the Devil",
-      "url": "https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI"
     },
     {
       "added_at": null,
@@ -436,7 +436,7 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 250653,
+      "duration_ms": 250664,
       "name": "GIRL",
       "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
     },
@@ -536,7 +536,7 @@
           "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 199786,
+      "duration_ms": 199785,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
     },
@@ -624,7 +624,7 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 195586,
+      "duration_ms": 195585,
       "name": "To Hell & Back",
       "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
     },
@@ -932,7 +932,7 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 136546,
+      "duration_ms": 136552,
       "name": "Make Out With Me",
       "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
     },
@@ -996,7 +996,7 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 187640,
+      "duration_ms": 187638,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },

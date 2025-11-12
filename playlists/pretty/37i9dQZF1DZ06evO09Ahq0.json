@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 533335,
+  "num_followers": 533421,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAADnsc/6KKHmw5I0EF6RMhTe",
+  "snapshot_id": "aRErAAAAAABSMJ1kzA6olw1wwXhUNGX0",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 394466,
-      "name": "Blinded in Chains",
-      "url": "https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sounding The Seventh Trumpet",
         "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 259800,
       "name": "Warmness On The Soul",
       "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 394466,
+      "name": "Blinded in Chains",
+      "url": "https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp"
     },
     {
       "added_at": null,

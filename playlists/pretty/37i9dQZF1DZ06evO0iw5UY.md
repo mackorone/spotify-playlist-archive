@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,034 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,040 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 29 | [One Minute](https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:13 |
 | 30 | [Drive Away](https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:00 |
 | 31 | [United Kids of the World \(feat\. Krewella\)](https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [United Kids of the World \(feat\. Krewella\)](https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0) | 4:16 |
-| 32 | [Ammunition](https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:26 |
+| 32 | [Lights & Thunder \- Darren Styles Remix](https://open.spotify.com/track/1PbRuN7FiaPLqyWS3kgenk) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Drive](https://open.spotify.com/album/3PYnxj0fUKzJrhtZXiOf78) | 4:18 |
 | 33 | [Somewhere to Run](https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Somewhere to Run](https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR) | 3:42 |
-| 34 | [Lights & Thunder \- Darren Styles Remix](https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Drive: Refueled](https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5) | 4:16 |
+| 34 | [Ammunition](https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:26 |
 | 35 | [Anxiety](https://open.spotify.com/track/3MIDI56fBQenFrMMz2cO7i) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:56 |
 | 36 | [Ain't That Why \- Skytech Remix](https://open.spotify.com/track/2Zf4tyy5xNiHQkVl9NrBX5) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Ain't That Why \(Skytech Remix\)](https://open.spotify.com/album/4CXlzM5U8VUpkQUk6JazmV) | 2:42 |
 | 37 | [We Go Down](https://open.spotify.com/track/5QxkroIQPiY8UKgSFFuYQd) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [zer0](https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:47 |
 | 50 | [Play Hard](https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:26 |
 
-Snapshot ID: `aQ/ZgAAAAABrXHNKNTAKIXXVBPUVvdMr`
+Snapshot ID: `aRErAAAAAAB3a2adya1+8faN3wSs8ZPw`

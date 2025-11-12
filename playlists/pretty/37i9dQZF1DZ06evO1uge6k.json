@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 258808,
+  "num_followers": 258817,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAC6IZNz+lW2Kmq92Epjy9Yp",
+  "snapshot_id": "aRErAAAAAAAJBHkzkvjF4ytz8lPGv5mk",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 324560,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn"
+      "duration_ms": 289160,
+      "name": "Rough Boy",
+      "url": "https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 289160,
-      "name": "Rough Boy",
-      "url": "https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv"
+      "duration_ms": 324560,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Doubleback",
-      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 378626,
       "name": "I Need You Tonight (2008 Remaster)",
       "url": "https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Loco",
-        "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Tube Snake Boogie",
-      "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 174240,
       "name": "I Got the Six (2008 Remaster)",
       "url": "https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Loco",
+        "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Tube Snake Boogie",
+      "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deguello",
         "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 204133,
       "name": "I Thank You",
       "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Just Got Back from Baby's",
-      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Loco",
         "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 244826,
       "name": "Pearl Necklace",
       "url": "https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Just Got Back from Baby's",
+      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
     },
     {
       "added_at": null,

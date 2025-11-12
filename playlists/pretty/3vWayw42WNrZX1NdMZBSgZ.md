@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover: Santana &amp; Carin Leon
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,083 likes - 120 songs - 6 hr 14 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,082 likes - 120 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 3 | [supersexi](https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec) | [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [supersexi](https://open.spotify.com/album/7Cgt2NuDUMwCWcSuKONwHI) | 3:06 |
 | 4 | [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 |
 | 5 | [Pies Descalzos, Sueños Blancos \- Spotify Anniversary Version](https://open.spotify.com/track/6ehebXUTI8jx1kodxfE11a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:04 |
-| 6 | [El Ultimo Regreso \- Versión Pop](https://open.spotify.com/track/5RvKbwW0EtJEVDF5I0HBjN) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [El Ultimo Regreso \(Versión Pop\)](https://open.spotify.com/album/7aou4bFTilwASsH2NyX3pV) | 3:47 |
+| 6 | [El Ultimo Regreso](https://open.spotify.com/track/5RvKbwW0EtJEVDF5I0HBjN) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [El Ultimo Regreso \(Versión Pop\)](https://open.spotify.com/album/7aou4bFTilwASsH2NyX3pV) | 3:47 |
 | 7 | [Perspectiva](https://open.spotify.com/track/0nlqSRcepWQ1KpQQzGV6Ju) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que Puede Pasar](https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC) | 2:31 |
 | 8 | [Laguaira](https://open.spotify.com/track/5KvNhkT5A9NgqqOFlVGr41) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Laguaira](https://open.spotify.com/album/0h4vfGz23WR5qRROSe629E) | 2:48 |
 | 9 | [Melancólico](https://open.spotify.com/track/2h20jZvxaF4qcJUiOatO2W) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Melancólico](https://open.spotify.com/album/4NBQW40rKJhYHAVjMuVanS) | 2:58 |

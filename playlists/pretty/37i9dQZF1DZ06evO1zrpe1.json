@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAGsXBCACaYAjlncdNJMmhX",
+  "snapshot_id": "aRErAAAAAAD7+54d0QJb56gDl8918ked",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ya Sabemos",
-        "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
       },
       "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 216132,
-      "name": "Si Ya Sabemos",
-      "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
+      "duration_ms": 193223,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
+        "name": "Si Ya Sabemos",
+        "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
       },
       "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 193223,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
+      "duration_ms": 216132,
+      "name": "Si Ya Sabemos",
+      "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 212803,
       "name": "Al\u00e9rgica",
       "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contundente",
         "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+      "duration_ms": 172751,
+      "name": "Cuidado con El Perro",
+      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
     },
     {
       "added_at": null,
@@ -587,38 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 201286,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 172751,
-      "name": "Cuidado con El Perro",
-      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mejor Versi\u00f3n de Mi",
         "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
       },
@@ -635,6 +603,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 201286,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 214954,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Tijuana",
+        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Le\u00f1a De Pirul",
+      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
     },
     {
       "added_at": null,
@@ -683,42 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Tijuana",
-        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Le\u00f1a De Pirul",
-      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Carlitos",
         "url": "https://open.spotify.com/album/42shtjuBd6DhoXfjABcJRw"
       },
@@ -731,22 +715,6 @@
       "duration_ms": 139145,
       "name": "El Carlitos",
       "url": "https://open.spotify.com/track/6u8BKNLNsVUIG4LQQVwiv6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Donde Pongo el Ojo - En Vivo",
-      "url": "https://open.spotify.com/track/3BGMZc1MSVQ43rob1JooW7"
     },
     {
       "added_at": null,
@@ -767,6 +735,38 @@
       "duration_ms": 230230,
       "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
       "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "Donde Pongo el Ojo - En Vivo",
+      "url": "https://open.spotify.com/track/3BGMZc1MSVQ43rob1JooW7"
     },
     {
       "added_at": null,

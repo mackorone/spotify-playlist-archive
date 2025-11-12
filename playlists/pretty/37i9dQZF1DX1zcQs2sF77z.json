@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 276970,
+  "num_followers": 277025,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
-    },
-    {
-      "added_at": "2025-04-04 14:59:32",
-      "album": {
         "name": "Planet Pop",
         "url": "https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 214533,
       "name": "Around the World (La La La La La)",
       "url": "https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB"
+    },
+    {
+      "added_at": "2025-04-04 14:59:32",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2025-04-04 14:59:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
-        "name": "Blah Blah Blah",
-        "url": "https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 183518,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH"
-    },
-    {
-      "added_at": "2025-04-04 14:59:32",
-      "album": {
         "name": "Born Slippy (Nuxx) [Radio Edit]",
         "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 264187,
       "name": "Born Slippy (Nuxx) - Radio Edit",
       "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
+    },
+    {
+      "added_at": "2025-04-04 14:59:32",
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 183518,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH"
     }
   ],
   "unique_name": "Dancefloor Classics",

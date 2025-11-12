@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,847 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,875 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 28 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
 | 29 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 30 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
-| 31 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
-| 32 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
+| 31 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
+| 32 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 | 33 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 34 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 |
 | 35 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 37 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
 | 38 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
 | 39 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |
-| 40 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
-| 41 | [SORRY](https://open.spotify.com/track/1F0UDgoZZBn9XEbGDALLH7) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [SORRY](https://open.spotify.com/album/7sKTQGxs2yMyR0LqFhYd1E) | 2:53 |
+| 40 | [SORRY](https://open.spotify.com/track/1F0UDgoZZBn9XEbGDALLH7) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [SORRY](https://open.spotify.com/album/7sKTQGxs2yMyR0LqFhYd1E) | 2:53 |
+| 41 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
 | 42 | [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 |
 | 43 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 | 44 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |

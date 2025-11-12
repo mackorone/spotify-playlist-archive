@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Weekly update for Indie releases. Cover: TJE",
+  "description": "Weekly update for Indie releases. Cover: Khruangbin",
   "name": "Indie Update",
   "tracks": [
     {
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "All That We Are",
+        "url": "https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i"
+      },
+      "artists": [
+        {
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "All That We Are",
+      "url": "https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW"
+    },
+    {
+      "album": {
         "name": "All That\u2019s Good Comes With Some Risk",
         "url": "https://open.spotify.com/album/45AgkUoy9dPh1ZoC9DQ4bN"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 179063,
       "name": "Antarctica",
       "url": "https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh"
@@ -3132,6 +3150,24 @@
       "duration_ms": 163280,
       "name": "Ennui",
       "url": "https://open.spotify.com/track/4rs0cJpY12vAzXgic7xxDE"
+    },
+    {
+      "album": {
+        "name": "Etna",
+        "url": "https://open.spotify.com/album/0fsbmkdSQ5d8qA0zwTlMmx"
+      },
+      "artists": [
+        {
+          "name": "Daisy Bellis",
+          "url": "https://open.spotify.com/artist/02ZU1dPQZa5aez0d62va4t"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "Etna",
+      "url": "https://open.spotify.com/track/5uiHSIXQr88vlfPPditJMJ"
     },
     {
       "album": {
@@ -7841,6 +7877,24 @@
     },
     {
       "album": {
+        "name": "Pirate",
+        "url": "https://open.spotify.com/album/4feiyNsOCS3WVHvItwa5Tj"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Pirate",
+      "url": "https://open.spotify.com/track/4qST6YYkR3mLKRU21qldMm"
+    },
+    {
+      "album": {
         "name": "pitpony",
         "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
       },
@@ -7888,7 +7942,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 189000,
       "name": "Playthings",
       "url": "https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30"
@@ -8122,7 +8176,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 337561,
       "name": "Racecar",
       "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
@@ -10731,6 +10785,24 @@
     },
     {
       "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/5BYAvczNYCC4G6JZYSNsNC"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240551,
+      "name": "To Know",
+      "url": "https://open.spotify.com/track/6wdIa4QUkR1jws1hHcfNlV"
+    },
+    {
+      "album": {
         "name": "To The Sandals",
         "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
       },
@@ -11120,7 +11192,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 271717,
       "name": "Vlijmscherp",
       "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
@@ -11217,6 +11289,24 @@
     },
     {
       "album": {
+        "name": "WARM UP..",
+        "url": "https://open.spotify.com/album/6g0g9o4HTWUCU5xPcxaMI7"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162346,
+      "name": "WARM UP..",
+      "url": "https://open.spotify.com/track/3AE95sqHqCGtb89F9zEuj6"
+    },
+    {
+      "album": {
         "name": "the truth of living in reality",
         "url": "https://open.spotify.com/album/1BDn9PF9UTstr1CNDLk1WL"
       },
@@ -11228,7 +11318,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 195197,
       "name": "waste a life",
       "url": "https://open.spotify.com/track/2SOgQx7AcVmBDyQxx9zN6B"
@@ -11423,6 +11513,24 @@
     },
     {
       "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
+    },
+    {
+      "album": {
         "name": "hickey",
         "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
       },
@@ -11434,7 +11542,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 173426,
       "name": "who\u2019s your boyfriend",
       "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"

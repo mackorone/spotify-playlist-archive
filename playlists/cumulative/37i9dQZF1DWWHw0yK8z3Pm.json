@@ -3407,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Horse Soldier! Horse Soldier! (Dark Horse Edition)",
+        "url": "https://open.spotify.com/album/6wr4NvzNS05jqbx2WEgkl2"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174967,
+      "name": "Especially a Paint - Dark Horse Acoustic",
+      "url": "https://open.spotify.com/track/6ZuKLsikgjxC0YHon3tnA1"
+    },
+    {
+      "album": {
         "name": "Evangelina",
         "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
       },
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 211813,
       "name": "Five and Ten",
       "url": "https://open.spotify.com/track/4R9F8FgETaeTfazujTfnQA"

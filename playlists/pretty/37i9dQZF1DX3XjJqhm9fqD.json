@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 98242,
+  "num_followers": 98252,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -823,30 +823,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
-      },
-      "artists": [
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        },
-        {
-          "name": "Alan Cave",
-          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 280383,
-      "name": "Se Pa Pou Dat",
-      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Loyita (feat. Thattoo Love)",
         "url": "https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 228480,
       "name": "Loyita (feat. Thattoo Love)",
       "url": "https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
+      },
+      "artists": [
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        },
+        {
+          "name": "Alan Cave",
+          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 280383,
+      "name": "Se Pa Pou Dat",
+      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Podyab Yo",
-        "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
-      },
-      "artists": [
-        {
-          "name": "Blondedy Ferdinand",
-          "url": "https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr"
-        },
-        {
-          "name": "D-Perfect",
-          "url": "https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr"
-        }
-      ],
-      "duration_ms": 319974,
-      "name": "Podyab Yo",
-      "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Teke Fren",
         "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Podyab Yo",
+        "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
+      },
+      "artists": [
+        {
+          "name": "Blondedy Ferdinand",
+          "url": "https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr"
+        },
+        {
+          "name": "D-Perfect",
+          "url": "https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr"
+        }
+      ],
+      "duration_ms": 319974,
+      "name": "Podyab Yo",
+      "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Lakou",
+        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
+      },
+      "artists": [
+        {
+          "name": "Tafa Mi-Soleil",
+          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Lakou",
+      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Manyen'l",
         "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 209777,
       "name": "Manyen'l",
       "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Lakou",
-        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
-      },
-      "artists": [
-        {
-          "name": "Tafa Mi-Soleil",
-          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Lakou",
-      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1511,6 +1511,38 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Tou Limen",
+      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Solfa (Tila)",
         "url": "https://open.spotify.com/album/3jtT0D7rTtOfmdKRFw5OVp"
       },
@@ -1535,38 +1567,6 @@
       "duration_ms": 194380,
       "name": "Solfa (Tila)",
       "url": "https://open.spotify.com/track/27OyimhoqIZaPG0Z0m3x4V"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Tou Limen",
-      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2025-07-25 04:00:50",

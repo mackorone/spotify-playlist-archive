@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 372793,
+  "num_followers": 372845,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAADn3P1NDxuAAZoNdFZS/2ws",
+  "snapshot_id": "aRErAAAAAADswXctitENOmJSyugSe7h/",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clapton",
+        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -359,26 +375,6 @@
       "duration_ms": 280453,
       "name": "Ten Long Years",
       "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
     },
     {
       "added_at": null,
@@ -403,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clapton",
-        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
       },
       "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 340786,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
+      "duration_ms": 153480,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
     },
     {
       "added_at": null,

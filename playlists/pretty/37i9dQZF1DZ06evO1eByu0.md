@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,413 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,415 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 21 | [Esperança](https://open.spotify.com/track/4WnffuTZQOHrY2576rYrOM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:32 |
 | 22 | [Deus do Impossível \- Ao Vivo](https://open.spotify.com/track/54AgI9qiaqc2VNgFUPEMZX) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:29 |
 | 23 | [Poder Pra Salvar \(Mighty to Save\)](https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 5:59 |
-| 24 | [Bem\-Aventurado \(Blessed\)](https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:08 |
-| 25 | [Não há Deus maior \- Ao Vivo](https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 4:41 |
+| 24 | [Não há Deus maior \- Ao Vivo](https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 4:41 |
+| 25 | [Bem\-Aventurado \(Blessed\)](https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:08 |
 | 26 | [Lugar Seguro](https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:10 |
 | 27 | [Pula Pula](https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Nicolas Barros](https://open.spotify.com/artist/1tRRhPZ76eosj8BXhLc9Dx) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 3:22 |
 | 28 | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW) | 7:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 49 | [O Barco Balançou](https://open.spotify.com/track/1XoHbczW2WUPOJAUTmXLz5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:05 |
 | 50 | [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 |
 
-Snapshot ID: `aQ/ZgAAAAAAVqqzfZD5lowfxIXzWDMrQ`
+Snapshot ID: `aRErAAAAAACa3usM8oh7fSs7pecR3iTs`

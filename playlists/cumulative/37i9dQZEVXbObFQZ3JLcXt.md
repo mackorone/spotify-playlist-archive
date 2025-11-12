@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-685 songs - 1 day 18 hr 42 min
+686 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Bunga Abadi](https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Bunga Abadi](https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4) | 4:03 | 2024-07-27 | 2024-08-08 |
 | [Bunga Abadi](https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Bunga Abadi](https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx) | 4:03 | 2024-08-07 | 2025-06-04 |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2023-12-31 | 2024-06-21 |
-| [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 | 2024-12-17 | 2025-10-27 |
+| [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 | 2024-12-17 |  |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-10-02 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Butter \(Instrumental\)](https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:42 | 2021-05-23 | 2021-05-24 |
@@ -299,6 +299,7 @@
 | [Kelana](https://open.spotify.com/track/3yc3Lyo0iG4eFdq5LAWI0C) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:12 | 2022-03-06 | 2022-03-18 |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2023-06-23 |  |
 | [Kenangan Manis](https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:27 | 2021-03-27\* | 2021-06-24 |
+| [Kenangan Manis](https://open.spotify.com/track/5jLzpxUOnCsX5tfq7TGY9v) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk the Talk](https://open.spotify.com/album/6CYiVTU1drHMvGHgMHmLQZ) | 3:27 | 2025-11-11 |  |
 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 | 2025-02-26 | 2025-02-28 |
 | [Kepada Noor](https://open.spotify.com/track/1rvMhV6FQggO28NYyxfV0G) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Tanpa Aku](https://open.spotify.com/album/1KpqsIwGr9EutOjnJl4HaH) | 4:09 | 2023-06-24 | 2023-06-26 |
 | [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 | 2024-08-04 | 2025-02-14 |
@@ -524,7 +525,7 @@
 | [Semata Karenamu](https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs) | 4:38 | 2023-05-07 | 2023-05-09 |
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2022-11-19 | 2023-05-08 |
 | [Semenjak Ada Dirimu](https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Semenjak Ada Dirimu](https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8) | 3:46 | 2024-11-05 | 2024-11-24 |
-| [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2022-06-21 |  |
+| [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2022-06-21 | 2025-11-12 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-08-22 | 2023-10-15 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/4rcuS31IcZynp91dqvmhmA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 5:10 | 2023-10-14 | 2025-08-09 |
 | [semua lagu cinta terdengar sama](https://open.spotify.com/track/63VnhcHMnTPCcd24oVajL6) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:58 | 2025-03-22 | 2025-10-09 |
@@ -603,7 +604,7 @@
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-04-16 | 2024-10-03 |
 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 | 2024-09-22 | 2024-09-24 |
 | [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-17 | 2023-06-12 |
-| [Tampar](https://open.spotify.com/track/1csKczcJqOSdK8JriLMpDW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:22 | 2024-06-29 |  |
+| [Tampar](https://open.spotify.com/track/1csKczcJqOSdK8JriLMpDW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:22 | 2024-06-29 | 2025-11-12 |
 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 | 2022-11-19 | 2024-06-30 |
 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 | 2024-10-10 | 2024-10-19 |
 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 | 2024-10-17 | 2025-09-29 |

@@ -4,7 +4,7 @@
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-42 songs - 2 hr 3 min
+43 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Come mare](https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Come mare](https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5) | 2:53 | 2025-02-11 | 2025-11-11 |
 | [Diamanti nel fango](https://open.spotify.com/track/3pa0WX5y6IoW3tIxyV005W) | [OrioN](https://open.spotify.com/artist/7IF4qyFcCGkrYb5dbMecQG) | [Diamanti nel fango](https://open.spotify.com/album/2T2dLo2wiHBLqst8gBHAhN) | 3:10 | 2025-02-11 | 2025-11-11 |
 | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL) | 2:57 | 2025-02-11 | 2025-11-11 |
+| [FENOMENALE](https://open.spotify.com/track/7Lyp3UJHMJ6w7FP6bRa9Rj) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [FENOMENALE](https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4) | 2:48 | 2025-11-11 |  |
 | [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 | 2025-02-11 | 2025-11-11 |
 | [FLASHBACK](https://open.spotify.com/track/1r3To4NjUA5ChvN3SpI3Vw) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY) | [FLASHBACK](https://open.spotify.com/album/08inxH81vpwObZ4BBD1uCm) | 2:51 | 2025-02-11 | 2025-11-11 |
 | [Forse Per Sempre](https://open.spotify.com/track/1eoJIBLBrWDrkFxcN9YGXn) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Forse Per Sempre](https://open.spotify.com/album/0SdxqbeUd7cOTRkP3kJdRH) | 3:02 | 2025-02-11 | 2025-11-11 |

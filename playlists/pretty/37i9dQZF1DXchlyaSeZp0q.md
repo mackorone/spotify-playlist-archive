@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > Soul for the blues\. Cover: Otis Redding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,891 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,174 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 26 | [Don't Give Up On Me](https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Don't Give Up On Me](https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK) | 3:45 |
 | 27 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 |
 | 28 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
-| 29 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
-| 30 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 |
+| 29 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 |
+| 30 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 31 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 |
 | 32 | [I've Got Dreams to Remember](https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 3:15 |
 | 33 | [Hurry Up This Way Again](https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Hurry Up This Way Again](https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK) | 5:53 |
-| 34 | [Wish You Were Here](https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Faithful Man](https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk) | 4:12 |
-| 35 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
+| 34 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
+| 35 | [Wish You Were Here](https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Faithful Man](https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk) | 4:12 |
 | 36 | [The Whole Town's Laughing at Me](https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:27 |
 | 37 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 38 | [Do What You Gotta Do](https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:09 |

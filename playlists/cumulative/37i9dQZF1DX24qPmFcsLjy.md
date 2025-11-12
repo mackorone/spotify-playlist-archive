@@ -4,7 +4,7 @@
 
 > Allerbeste songs van de 80's! Cover: U2
 
-100 songs - 6 hr 59 min
+100 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 | 2024-07-09 |  |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2024-07-09 |  |
 | [Here I Go Again \- 1987 Version; 2017 Remaster](https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Edition\)](https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r) | 4:35 | 2024-07-09 |  |
-| [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 | 2024-07-09 |  |
+| [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 | 2024-07-09 |  |
 | [Holiday Rap \- Version 1986](https://open.spotify.com/track/2wCgOxYof67qXam24a3pHz) | [MC Miker & DJ Sven](https://open.spotify.com/artist/4LxtkdZFFbBjqvRkehIbAq) | [Holiday Rap: Best of Collector Mc Miker & DJ Sven \(Original Version\)](https://open.spotify.com/album/3V5IbtfYHbFSr2dHQ0944q) | 4:26 | 2024-07-09 |  |
 | [How Many Times](https://open.spotify.com/track/5VkAKKliyRHqeEL3N2vlJq) | [Lori Spee](https://open.spotify.com/artist/1E6ogGNGAoSqr3sm20PVaU) | [Behind Those Eyes](https://open.spotify.com/album/3SOELAr03f95mbmVE5ys6w) | 4:01 | 2024-07-09 |  |
 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/58lTbZKr7XkkR4zEpoLhYH) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha \(Expanded Edition\)](https://open.spotify.com/album/0U59W3AMVxEVDzHrEe8UFW) | 4:01 | 2024-07-09 |  |

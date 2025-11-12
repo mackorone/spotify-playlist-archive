@@ -27718,7 +27718,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
@@ -27736,7 +27736,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -40332,7 +40332,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 208366,
       "name": "Store gutter gr\u00e5ter ikke",
       "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
@@ -44353,6 +44353,24 @@
     },
     {
       "album": {
+        "name": "Travelin' Soldier",
+        "url": "https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Travelin' Soldier",
+      "url": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz"
+    },
+    {
+      "album": {
         "name": "Tre sekunder",
         "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
       },
@@ -46912,7 +46930,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
@@ -48348,7 +48366,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

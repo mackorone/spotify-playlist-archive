@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 111394,
+  "num_followers": 111407,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "BIANCA (feat. Kid Yugi)",
-        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
-      },
-      "artists": [
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 160282,
-      "name": "BIANCA (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Quarto di Bue",
         "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 152800,
       "name": "Massafghanistan",
       "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "BIANCA (feat. Kid Yugi)",
+        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 160282,
+      "name": "BIANCA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "BAMBOLA (feat. Niky Savage)",
-        "url": "https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX"
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 194693,
-      "name": "BAMBOLA (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg"
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -823,6 +803,26 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "BAMBOLA (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "BAMBOLA (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
         "name": "TRAPHOUSE",
         "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 177576,
       "name": "Freaky (feat. Shiva & Niky Savage)",
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1399,30 +1399,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "C'EST LA VIE",
-        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
-      },
-      "artists": [
-        {
-          "name": "TY1",
-          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
-        },
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 188490,
-      "name": "C'EST LA VIE",
-      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1447,6 +1423,30 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "C'EST LA VIE",
+        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 188490,
+      "name": "C'EST LA VIE",
+      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
     },
     {
       "added_at": "2025-11-06 23:01:07",

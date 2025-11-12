@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3943327,
+  "num_followers": 3943109,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 234773,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
         "name": "Des/Amor",
         "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 217986,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 190605,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Para Tu Amor",
-      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 211906,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Para Tu Amor",
+      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
     },
     {
       "added_at": "2025-11-07 05:00:54",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2025-11-07 05:00:54",
       "album": {
-        "name": "c\u00f3mo fue? (with Greeicy)",
-        "url": "https://open.spotify.com/album/4HH1vAy9muN9ay1SZiogE2"
-      },
-      "artists": [
-        {
-          "name": "Zhamira ",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "c\u00f3mo fue?",
-      "url": "https://open.spotify.com/track/15Aul3u9ToI1iFuUZU9IMa"
-    },
-    {
-      "added_at": "2025-11-07 05:00:54",
-      "album": {
         "name": "Mil Ciudades",
         "url": "https://open.spotify.com/album/1SXUz690tncddHzbcj4wPT"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
+    },
+    {
+      "added_at": "2025-11-07 05:00:54",
+      "album": {
+        "name": "c\u00f3mo fue? (with Greeicy)",
+        "url": "https://open.spotify.com/album/4HH1vAy9muN9ay1SZiogE2"
+      },
+      "artists": [
+        {
+          "name": "Zhamira ",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "c\u00f3mo fue?",
+      "url": "https://open.spotify.com/track/15Aul3u9ToI1iFuUZU9IMa"
     },
     {
       "added_at": "2025-11-07 05:00:54",

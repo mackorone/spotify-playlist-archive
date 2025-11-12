@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,349 likes - 157 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,331 likes - 157 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 114 | [Dancin' In The Moonlight](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
 | 115 | [Beachin'](https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:11 |
 | 116 | [Jack and Diet Coke](https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Jack and Diet Coke](https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5) | 3:13 |
-| 117 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 |
+| 117 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
 | 118 | [Buzzin](https://open.spotify.com/track/1ypZC70MBzg7KGbfrLoUxy) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Buzzin](https://open.spotify.com/album/6lX5ErdQxTzLzC8sgwJjcl) | 2:36 |
 | 119 | [Beat of the Music](https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Bring You Back](https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT) | 2:59 |
 | 120 | [Sway](https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:32 |

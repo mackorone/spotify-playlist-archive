@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48678,
+  "num_followers": 48685,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACLahoWaru5tiT9Gr90YTj3",
+  "snapshot_id": "aRErAAAAAABjM0rlR8D5W/JheibJjjJQ",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Movielike",
-      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static Prevails (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 219906,
       "name": "Claire",
       "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Movielike",
+      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static Prevails (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 154666,
       "name": "What Would I Say To You Now",
       "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,

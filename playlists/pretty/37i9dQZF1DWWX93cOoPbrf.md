@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Hermanos Espinoza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,797 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,922 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 20 | [Amistades](https://open.spotify.com/track/5ZoWz5CRPRsxteUQpMnfAw) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Amistades](https://open.spotify.com/album/3LqHLNiN2H7kzdrhjBGjqh) | 3:16 |
 | 21 | [Tony Montana](https://open.spotify.com/track/0EOeasajM60dpiCx6h2xH2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Tony Montana](https://open.spotify.com/album/1aDCXyqjfceBHeMb8j2z3y) | 3:01 |
 | 22 | [LUCES ROJAS](https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:54 |
-| 23 | [Lo Logre \(En Vivo\)](https://open.spotify.com/track/2KUhobv1VMr3f665kWH7mh) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Logre \(En Vivo\)](https://open.spotify.com/album/3YYUwMlpFbCF2E0xLccjLb) | 3:36 |
+| 23 | [Lo Logré \(En Vivo\)](https://open.spotify.com/track/2KUhobv1VMr3f665kWH7mh) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Logré \(En Vivo\)](https://open.spotify.com/album/3YYUwMlpFbCF2E0xLccjLb) | 3:36 |
 | 24 | [C.A.S.M](https://open.spotify.com/track/72xI2d8sT2DbLByMtCz0di) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl), [Nivel Tr3s](https://open.spotify.com/artist/0Vl3qeVf3rmIMPnG6iGi5u) | [C.A.S.M](https://open.spotify.com/album/4RUJhrtwf1BGhuFTmSYpQf) | 2:31 |
 | 25 | [MURAKAMI](https://open.spotify.com/track/4co3k28oLJgk33nAtjdGSh) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MURAKAMI](https://open.spotify.com/album/4k9RKIFAt3bootZgQHTSnf) | 3:14 |
 | 26 | [Mato](https://open.spotify.com/track/6lppqhHvoszj4S2yUVGFVE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Mato](https://open.spotify.com/album/75Swo9PpPDjLJ4BLZ6Ox02) | 3:17 |

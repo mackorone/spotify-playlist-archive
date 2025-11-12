@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 230693,
       "name": "A For\u00e7a Do Vento",
       "url": "https://open.spotify.com/track/4hj9NAZNMur73dMhhjckRg"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 180040,
       "name": "A Via-L\u00e1ctea",
       "url": "https://open.spotify.com/track/0nxFXFRy6WkbU7T2851moH"
@@ -9735,6 +9735,32 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
+    },
+    {
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -13332,7 +13358,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 130933,
       "name": "Can\u00e7\u00e3o Postal",
       "url": "https://open.spotify.com/track/2HlGE1XhkuarxcNtwLrpv1"
@@ -15300,7 +15326,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 165653,
       "name": "Chuva Da Montanha",
       "url": "https://open.spotify.com/track/3ABQnERMh5FrAlh35ZPIYM"
@@ -20172,7 +20198,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 150442,
       "name": "Desocupa",
       "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
@@ -20502,7 +20528,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 138000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
@@ -24260,7 +24286,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 192320,
       "name": "Equatorial",
       "url": "https://open.spotify.com/track/51YSkuHHs8E5BWxeZslarN"
@@ -26242,7 +26268,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 148561,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5"
@@ -27832,7 +27858,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 149333,
       "name": "Faz assim",
       "url": "https://open.spotify.com/track/0hB6UKgc3iKTphmGuWpNOg"
@@ -29602,7 +29628,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 82971,
       "name": "Foguinho",
       "url": "https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT"
@@ -33696,7 +33722,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 121771,
       "name": "HOMAGE FUNK",
       "url": "https://open.spotify.com/track/4oFXV9F1OhUZy9cEGqrGHe"
@@ -35186,17 +35212,17 @@
       },
       "artists": [
         {
-          "name": "Seven Plus / Coral Canto Jovem / Gustavo Fernandes / Annelise Santana",
-          "url": "https://open.spotify.com/artist/65P7l01tvEtmAIrdipOm7W"
+          "name": "Seven Plus",
+          "url": "https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9"
         },
         {
           "name": "Rayssa Andreoli",
-          "url": "https://open.spotify.com/artist/1eUmWqCebOZmxDkpejHL0W"
+          "url": "https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9"
         }
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 314736,
       "name": "IMPERFEITO",
       "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
@@ -36419,6 +36445,24 @@
     },
     {
       "album": {
+        "name": "Heaven Groove, Vol. 1",
+        "url": "https://open.spotify.com/album/3RY77V7KCVDQ0Kxpv0l5Zk"
+      },
+      "artists": [
+        {
+          "name": "Heaven Groove & Soul",
+          "url": "https://open.spotify.com/artist/50leWS5dVkkyUCClW19JzY"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259959,
+      "name": "Jesus T\u00e1 L\u00e1 - Inspira\u00e7\u00e3o Kirk Franklin",
+      "url": "https://open.spotify.com/track/2dXgRNrAClIq93XIVblVx9"
+    },
+    {
+      "album": {
         "name": "Jiggle Jiggle",
         "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
       },
@@ -36542,6 +36586,36 @@
       "duration_ms": 156571,
       "name": "Joga Nele",
       "url": "https://open.spotify.com/track/47JvW4EAZcmwdLvFYQUL65"
+    },
+    {
+      "album": {
+        "name": "Joga Nele (Remix)",
+        "url": "https://open.spotify.com/album/4jw9gdNkQzcEOdpfhqbY6o"
+      },
+      "artists": [
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "name": "DJ Ruan da VK",
+          "url": "https://open.spotify.com/artist/0fRzXMoiuuR3kQDr8aavt2"
+        },
+        {
+          "name": "D'BEATS",
+          "url": "https://open.spotify.com/artist/70JVilt92BAThI767veckx"
+        },
+        {
+          "name": "DJ NZR",
+          "url": "https://open.spotify.com/artist/3H5shZe6q9nbTcliPDyBwg"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109461,
+      "name": "Joga Nele - Remix",
+      "url": "https://open.spotify.com/track/7qax5a35g3cSIDoCPkzZI8"
     },
     {
       "album": {
@@ -39148,6 +39222,24 @@
       "duration_ms": 196072,
       "name": "Lindo Lago do Amor",
       "url": "https://open.spotify.com/track/1BWCrsTwRj9muXYagTnS2I"
+    },
+    {
+      "album": {
+        "name": "Heaven Groove, Vol. 1",
+        "url": "https://open.spotify.com/album/3RY77V7KCVDQ0Kxpv0l5Zk"
+      },
+      "artists": [
+        {
+          "name": "Heaven Groove & Soul",
+          "url": "https://open.spotify.com/artist/50leWS5dVkkyUCClW19JzY"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304919,
+      "name": "Lindo Momento",
+      "url": "https://open.spotify.com/track/2cxVyLTxxJkUOAmWQsh0ie"
     },
     {
       "album": {
@@ -42376,7 +42468,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 100209,
       "name": "Marra de Criminoso",
       "url": "https://open.spotify.com/track/5SKjNOWr4l1Z0FeRQpVi4n"
@@ -42494,6 +42586,24 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
+    },
+    {
+      "album": {
+        "name": "Mas Voc\u00ea Que Eu Amo",
+        "url": "https://open.spotify.com/album/0ZgGQALxbjHkRDo3fdC48z"
+      },
+      "artists": [
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Mas Voc\u00ea Que Eu Amo",
+      "url": "https://open.spotify.com/track/4bTJOQXiYeU8Kvk9yV2SBG"
     },
     {
       "album": {
@@ -43140,7 +43250,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 177230,
       "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
       "url": "https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI"
@@ -52596,7 +52706,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 215200,
       "name": "Nuvem Cigana",
       "url": "https://open.spotify.com/track/2BeJuY4qBFOKfCW8ORJTtS"
@@ -54284,7 +54394,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 241640,
       "name": "O Trem Azul",
       "url": "https://open.spotify.com/track/6iRIQiJsyahTkYSbwsmRGJ"
@@ -54302,7 +54412,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "O Trem Azul",
       "url": "https://open.spotify.com/track/7Fd9g5y4q8ApG79VQeLfop"
@@ -55275,6 +55385,24 @@
     },
     {
       "album": {
+        "name": "Onde Anda Meu Amor",
+        "url": "https://open.spotify.com/album/5GFQlC5rI00GRwBv3XaQiR"
+      },
+      "artists": [
+        {
+          "name": "La\u00e9rcia Dantas",
+          "url": "https://open.spotify.com/artist/0GbUYCCbAlnM9mVcVuoOcN"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114404,
+      "name": "Onde Anda Meu Amor",
+      "url": "https://open.spotify.com/track/3JrZOn3ul1VVQvfpnh7Tdo"
+    },
+    {
+      "album": {
         "name": "Gar\u00e7om! Tem Pitu? Traz!",
         "url": "https://open.spotify.com/album/1DTCTAsiwyw0rVXIFCyyo1"
       },
@@ -55286,10 +55414,28 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 134436,
       "name": "Onde Anda Meu Amor",
       "url": "https://open.spotify.com/track/2lQEZeUoaNxVpjjSPsKmru"
+    },
+    {
+      "album": {
+        "name": "Gar\u00e7om! Tem Pitu? Traz!",
+        "url": "https://open.spotify.com/album/1DTCTAsiwyw0rVXIFCyyo1"
+      },
+      "artists": [
+        {
+          "name": "La\u00e9rcia Dantas",
+          "url": "https://open.spotify.com/artist/0GbUYCCbAlnM9mVcVuoOcN"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135888,
+      "name": "Onde Est\u00e1 o Meu Amor",
+      "url": "https://open.spotify.com/track/3FbTS0dLA4DuVNLVuoyU5j"
     },
     {
       "album": {
@@ -56724,7 +56870,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 174666,
       "name": "Paisagem Da Janela",
       "url": "https://open.spotify.com/track/6QPeVUGq09E8cEqqs2InP5"
@@ -56742,7 +56888,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 176626,
       "name": "Paisagem Da Janela - Ao Vivo",
       "url": "https://open.spotify.com/track/0XyYJa97zwWO6Kuk86xdlz"
@@ -60931,6 +61077,36 @@
     },
     {
       "album": {
+        "name": "Pra que falar mal da macumba",
+        "url": "https://open.spotify.com/album/3tb5opzf78XAGeuhATVWfp"
+      },
+      "artists": [
+        {
+          "name": "Dj Dudu Coupper",
+          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
+        },
+        {
+          "name": "THEUZZIN",
+          "url": "https://open.spotify.com/artist/4xQrZxDunp16t3UzWHCwwo"
+        },
+        {
+          "name": "DJ Denilson o cl\u00ednico",
+          "url": "https://open.spotify.com/artist/3AxhmSZxKQruKNmeLqsfQs"
+        },
+        {
+          "name": "Mc Flavinho",
+          "url": "https://open.spotify.com/artist/3gJ0iXECjtAZmxCGlcCX1y"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Pra que falar mal da macumba",
+      "url": "https://open.spotify.com/track/5esbXuPOy2IRyvH5Vl9fwt"
+    },
+    {
+      "album": {
         "name": "Pra Roncar Tem Que Desbicar",
         "url": "https://open.spotify.com/album/776ANqNMTpnlefAetaib6Y"
       },
@@ -61802,6 +61978,24 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
     },
     {
       "album": {
@@ -62860,7 +63054,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 235853,
       "name": "Quem Sabe Isso Quer Dizer Amor",
       "url": "https://open.spotify.com/track/7fvScpo70jl7ubzeI8fAZj"
@@ -62920,6 +63114,24 @@
       "duration_ms": 165333,
       "name": "Quem Ta Passando Eo Trem Bala",
       "url": "https://open.spotify.com/track/55OmSK4p87mqOSGDaYZmdK"
+    },
+    {
+      "album": {
+        "name": "Heaven Groove, Vol. 1",
+        "url": "https://open.spotify.com/album/3RY77V7KCVDQ0Kxpv0l5Zk"
+      },
+      "artists": [
+        {
+          "name": "Heaven Groove & Soul",
+          "url": "https://open.spotify.com/artist/50leWS5dVkkyUCClW19JzY"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274159,
+      "name": "Quem \u00c9 Esse ? Vers\u00e3o Masculina",
+      "url": "https://open.spotify.com/track/4flDnycS5XioBuCWGioY6c"
     },
     {
       "album": {
@@ -67083,6 +67295,24 @@
     },
     {
       "album": {
+        "name": "Segundo Amor da Sua Vida",
+        "url": "https://open.spotify.com/album/3fsyfva4yyjZR9S5UfIC5Y"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159018,
+      "name": "Segundo Amor da Sua Vida",
+      "url": "https://open.spotify.com/track/4HgSxgv95es0rsPRS98nKZ"
+    },
+    {
+      "album": {
         "name": "Segura no Pared\u00e3o Eletro Funk",
         "url": "https://open.spotify.com/album/4qE9PXdixhE1k5Un9LyeAA"
       },
@@ -70754,6 +70984,28 @@
       "duration_ms": 256706,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt"
+    },
+    {
+      "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172313,
+      "name": "SPAGHETTI",
+      "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
       "album": {
@@ -75806,7 +76058,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 170639,
       "name": "Tira a Boca do Pod",
       "url": "https://open.spotify.com/track/3PLJ4iZItinfbumqKevmw7"
@@ -77092,7 +77344,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Trem De Doido",
       "url": "https://open.spotify.com/track/7hfIiNdcy5c0MWxnoMvCYN"
@@ -77110,7 +77362,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 238760,
       "name": "Trem De Doido",
       "url": "https://open.spotify.com/track/042tL7eDws7d1NlbYeoquF"
@@ -78189,6 +78441,24 @@
     },
     {
       "album": {
+        "name": "TUDO \u00c9 TUA GRA\u00c7A (BLUES) - By SOM DA PALAVRA",
+        "url": "https://open.spotify.com/album/0ndrc89XUm130qlJgsXhv2"
+      },
+      "artists": [
+        {
+          "name": "SOM DA PALAVRA",
+          "url": "https://open.spotify.com/artist/587aGI2ceuQBKPtWUfRLqD"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264919,
+      "name": "TUDO \u00c9 TUA GRA\u00c7A (BLUES) - By SOM DA PALAVRA",
+      "url": "https://open.spotify.com/track/4At0XTejQnt667oa8aGm0L"
+    },
+    {
+      "album": {
         "name": "Tuf Tuf Pof Pof",
         "url": "https://open.spotify.com/album/4h7QfGIwKtRwi3KZ27LVdj"
       },
@@ -78750,7 +79020,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 250333,
       "name": "Um Girassol Da Cor Do Seu Cabelo",
       "url": "https://open.spotify.com/track/1P5LNF98A4MgUvqTEXemEu"
@@ -78768,7 +79038,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 252826,
       "name": "Um Girassol Da Cor Do Seu Cabelo",
       "url": "https://open.spotify.com/track/2eDUcjS6SSDJd6Rcx4TFkd"
@@ -82624,7 +82894,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 103308,
       "name": "V\u00e1 Com Deus",
       "url": "https://open.spotify.com/track/1bMmnhAxEQGDMp3NwuicH5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,751 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,773 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 23 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 |
 | 24 | [Hacha Y Machete](https://open.spotify.com/track/4s0NyUWYpDcVh9pLjAStiG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante De Los Cantantes](https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8) | 5:31 |
 | 25 | [Emborrachame De Amor](https://open.spotify.com/track/0XDMdFi1onaxibiQKz7slG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:00 |
-| 26 | [Taxi](https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 3:43 |
-| 27 | [Qué Lío](https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 4:37 |
+| 26 | [Qué Lío](https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 4:37 |
+| 27 | [Taxi](https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 3:43 |
 | 28 | [Juana Peña](https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 5:38 |
 | 29 | [Soñando Despierto](https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:06 |
 | 30 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 46 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
 | 47 | [Él Son](https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 6:06 |
 | 48 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
-| 49 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 |
-| 50 | [Mentira](https://open.spotify.com/track/2Qq1i7TeLJZzkrz2DuAZjG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Complete Studio Albums, Vol\. 1](https://open.spotify.com/album/2834vfmvqq8UutYQ9f1XyD) | 6:42 |
+| 49 | [Mentira](https://open.spotify.com/track/2Qq1i7TeLJZzkrz2DuAZjG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Complete Studio Albums, Vol\. 1](https://open.spotify.com/album/2834vfmvqq8UutYQ9f1XyD) | 6:42 |
+| 50 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 |
 
-Snapshot ID: `aQ/ZgAAAAACBFrO6CKhcMmA1yznN//kw`
+Snapshot ID: `aRErAAAAAAC2oa4j50TXB0unGjg3d0lk`

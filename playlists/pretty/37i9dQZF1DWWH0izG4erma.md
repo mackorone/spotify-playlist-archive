@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,652 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,824 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 58 | [Redneck Rockstar](https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Redneck Rockstar](https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO) | 3:18 |
 | 59 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 |
 | 60 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
-| 61 | [Time Bomb](https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Time Bomb](https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH) | 3:35 |
+| 61 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 |
 | 62 | [Black Motorcycle](https://open.spotify.com/track/0kUhkfPFkj5WNkGOKjoQxb) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Black Motorcycle](https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo) | 3:16 |
-| 63 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 |
+| 63 | [Time Bomb](https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Time Bomb](https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH) | 3:35 |
 | 64 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 |
 | 65 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 |
 | 66 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 |

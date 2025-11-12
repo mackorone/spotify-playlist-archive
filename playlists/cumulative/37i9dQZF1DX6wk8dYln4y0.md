@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: BENEE
 
-621 songs - 1 day 9 hr 29 min
+622 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Hello Goodbye](https://open.spotify.com/track/1Ak6ZxSOayrcy7g93HkdZV) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Hello Goodbye](https://open.spotify.com/album/7Jh4Van2lYiYFesvaWjw2w) | 2:39 | 2024-02-08 | 2024-02-23 |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-29 |  |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 |  |
+| [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 | 2025-11-06 |  |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-06-07 | 2024-04-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-16 | 2023-06-02 |
 | [Heritage Listed](https://open.spotify.com/track/0kIYD0pAnifMPAXyEb6geu) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Heritage Listed](https://open.spotify.com/album/4qrS0yQIAKMIKr6XajgXnD) | 3:18 | 2025-03-13 | 2025-04-04 |
@@ -351,7 +352,7 @@
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-11 | 2025-07-25 |
 | [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 | 2025-03-27 | 2025-05-03 |
 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 | 2024-01-04 | 2025-02-28 |
-| [Marigolds](https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Marigolds](https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr) | 2:50 | 2025-09-11 |  |
+| [Marigolds](https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Marigolds](https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr) | 2:50 | 2025-09-11 | 2025-11-12 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2023-03-16 | 2023-06-20 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2023-03-16 | 2023-10-23 |
 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2025-03-13 |  |

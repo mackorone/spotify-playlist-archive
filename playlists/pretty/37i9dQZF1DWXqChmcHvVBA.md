@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 elaggume
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,163 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,233 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 126261,
+  "num_followers": 126291,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABcLpAjCS+LxSREKMm6MQRw",
+  "snapshot_id": "aRErAAAAAABWJsaGr2mmtWelFeWiuk6L",
   "tracks": [
     {
       "added_at": null,
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 209847,
+      "name": "Si la muerte pregunta",
+      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Esquina",
         "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 267897,
       "name": "Broche De Oro",
       "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 209847,
-      "name": "Si la muerte pregunta",
-      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     },
     {
       "added_at": null,

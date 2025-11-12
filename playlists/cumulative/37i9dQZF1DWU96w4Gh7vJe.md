@@ -4,11 +4,11 @@
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-152 songs - 9 hr 52 min
+153 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 | 2025-04-30 |  |
+| [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 | 2025-04-30 | 2025-11-12 |
 | [Abot Langit \- Ricovered](https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0), [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Abot Langit \(Ricovered\)](https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak) | 2:57 | 2024-02-27 | 2025-02-19 |
 | [Aking Pahinga](https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [I\-Ghie](https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf) | [Aking Pahinga](https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb) | 4:34 | 2023-10-20 | 2025-07-20 |
 | [ako naman muna](https://open.spotify.com/track/5A8SptsfoUXm7VG9SKYq2c) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [ako naman muna](https://open.spotify.com/album/3IEwCyyO2u3pcyTgX4FKeQ) | 3:04 | 2025-11-10 |  |
@@ -111,6 +111,7 @@
 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 | 2025-11-07 |  |
 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 | 2025-02-12 |  |
 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 | 2024-02-07 | 2025-11-11 |
+| [Paru\-Paro](https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:21 | 2025-11-10 |  |
 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 | 2023-10-25 | 2024-04-19 |
 | [Past Life](https://open.spotify.com/track/0wYLEZ4UAF7JuIDkbJfmH6) | [Kremesoda](https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf) | [For Years](https://open.spotify.com/album/25hgON0XcqY2ir4ZHbSfcp) | 4:26 | 2025-02-12 | 2025-05-01 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-10-20 |  |

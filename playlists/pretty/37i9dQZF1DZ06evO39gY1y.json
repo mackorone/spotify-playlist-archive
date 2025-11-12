@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 249542,
+  "num_followers": 249586,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAejBwRIhGupQFawqX7NBfd",
+  "snapshot_id": "aRErAAAAAADP2K6eoDWwXVYw+vTc5KXa",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo No Me Quiero Morir",
-        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Yo No Me Quiero Morir",
-      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo No Me Quiero Morir",
+        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Yo No Me Quiero Morir",
+      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
     },
     {
       "added_at": null,
@@ -403,30 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guapa!",
-        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Slim",
-          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Guapa!",
-      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 246100,
       "name": "Penitencia",
       "url": "https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guapa!",
+        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Guapa!",
+      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
     },
     {
       "added_at": null,

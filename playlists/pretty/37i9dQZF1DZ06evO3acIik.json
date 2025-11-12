@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65419,
+  "num_followers": 65428,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAqLSKmM1Lu7twG6H9rrD/X",
+  "snapshot_id": "aRErAAAAAAAfKVFZfaw/Ml1sOPsadMNV",
   "tracks": [
     {
       "added_at": null,
@@ -671,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+      "duration_ms": 100000,
+      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
+      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
     },
     {
       "added_at": null,
@@ -703,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay (With Me).",
         "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 303355,
       "name": "Stay (With Me).",
       "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
-      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
     },
     {
       "added_at": null,

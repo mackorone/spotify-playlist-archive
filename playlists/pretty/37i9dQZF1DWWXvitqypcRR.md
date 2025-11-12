@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,556 likes - 55 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,571 likes - 55 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 54 | [Nano](https://open.spotify.com/track/51cEWalf6feaBfpuSS0WTw) | [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf), [Nico Stojan](https://open.spotify.com/artist/1SuKmGtjsRRJcGhTspfUnd) | [Nano](https://open.spotify.com/album/5mQJzsxdgSewNebJs0FvCy) | 3:20 |
 | 55 | [Trooper](https://open.spotify.com/track/223LF2oHrEa6zRYFToLqqQ) | [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [Trooper EP](https://open.spotify.com/album/2a4hcSnJnIVlrRyshzHpFL) | 5:44 |
 
-Snapshot ID: `AAAAAG2l4KcdDqpgy9H6xYGlm9iFoIIn`
+Snapshot ID: `AAAAAFPDx43iiDKsCKXyzmNZEZ0YYO08`

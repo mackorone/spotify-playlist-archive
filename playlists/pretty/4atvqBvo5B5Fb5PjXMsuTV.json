@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Nov 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Nov 19:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWC9h0Kb6WPf8Va+ss5yfSqPbPLtMY",
+  "snapshot_id": "AAAWDWXj1XeRwNFZ1FFoqkGHQos+0Z6C",
   "tracks": [
     {
       "added_at": "2025-11-10 14:04:55",
@@ -103,6 +103,22 @@
       "duration_ms": 159568,
       "name": "For No Reason",
       "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
+    },
+    {
+      "added_at": "2025-11-11 19:04:45",
+      "album": {
+        "name": "HIT ME HARDER",
+        "url": "https://open.spotify.com/album/3XcVR5Xsv0KBgBCY4DSjH6"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        }
+      ],
+      "duration_ms": 154268,
+      "name": "HIT ME HARDER",
+      "url": "https://open.spotify.com/track/5yuX0dzjDeXEXIeGatHlKD"
     },
     {
       "added_at": "2025-11-07 09:05:28",
@@ -807,22 +823,6 @@
       "duration_ms": 179041,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/6Fl1GQkBJ3zxBvePZInxgR"
-    },
-    {
-      "added_at": "2025-10-31 19:05:14",
-      "album": {
-        "name": "Salting the Earth",
-        "url": "https://open.spotify.com/album/44ker1gJWbfAYUvlE0yCvO"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Salting the Earth",
-      "url": "https://open.spotify.com/track/0EnlIsOJ9Or1wiERcyr5AX"
     }
   ],
   "unique_name": "New Singles Now",

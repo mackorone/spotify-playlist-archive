@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,035 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,033 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 18 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
 | 19 | [Elle a les yeux revolver](https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:39 |
 | 20 | [Ne me quitte pas](https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [La Valse A Mille Temps \(Vol.4\)](https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV) | 3:49 |
-| 21 | [Aimer à mort](https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Joie de vivre](https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2) | 2:56 |
-| 22 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
+| 21 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
+| 22 | [Aimer à mort](https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Joie de vivre](https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2) | 2:56 |
 | 23 | [Rétine](https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:30 |
 | 24 | [10 ans de nous](https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:27 |
 | 25 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 36 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
 | 37 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 38 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
-| 39 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 |
-| 40 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
+| 39 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
+| 40 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 |
 | 41 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
 | 42 | [Viens on s’aime](https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Solune](https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1) | 3:21 |
 | 43 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |

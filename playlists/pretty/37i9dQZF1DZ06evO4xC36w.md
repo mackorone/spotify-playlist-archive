@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,060 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,276 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 27 | [Y Las Mariposas](https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:01 |
 | 28 | [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 |
 | 29 | [Como Tú Decidas](https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 3:07 |
-| 30 | [Invítame Un Cigarro](https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:42 |
-| 31 | [Envidia](https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 2:31 |
+| 30 | [Envidia](https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 2:31 |
+| 31 | [Invítame Un Cigarro](https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:42 |
 | 32 | [El Primer Tonto \- En Vivo](https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo](https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI) | 3:46 |
 | 33 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 |
 | 34 | [El Viejo Joven](https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 49 | [Hoy Empieza Mi Tristeza](https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 2:46 |
 | 50 | [Afortunado](https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:15 |
 
-Snapshot ID: `aQ/ZgAAAAAAsiZDI6HRhdsCwvn95Krcb`
+Snapshot ID: `aRErAAAAAACufzVw91dkVKDov/EYf0QF`

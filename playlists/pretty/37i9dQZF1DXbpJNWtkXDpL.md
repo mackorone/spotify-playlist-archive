@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,268 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,271 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 46 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 |
 | 47 | [Tu Consentido](https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Tu Consentido](https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J) | 3:10 |
 | 48 | [Verano Cruel](https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Verano Cruel](https://open.spotify.com/album/3IrYOrtOpokQ3q3xSg37WW) | 2:51 |
-| 49 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
-| 50 | [caratrapo](https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [tragaperras](https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6) | 3:28 |
+| 49 | [caratrapo](https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [tragaperras](https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6) | 3:28 |
+| 50 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
 | 51 | [Cabello Rojo](https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks) | [Nova Club](https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA) | [Cabello Rojo](https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38) | 3:14 |
 | 52 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
 | 53 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 57 | [Entresueños](https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Entresueños](https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz) | 2:56 |
 | 58 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |
 | 59 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
-| 60 | [todo salió mal](https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [todo salió mal](https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR) | 2:47 |
-| 61 | [rompopito](https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k) | [gatitaartistica](https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH) | [rompopito](https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc) | 1:59 |
+| 60 | [rompopito](https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k) | [gatitaartistica](https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH) | [rompopito](https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc) | 1:59 |
+| 61 | [todo salió mal](https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [todo salió mal](https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR) | 2:47 |
 | 62 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
 | 63 | [AYER \- Remix](https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Rmarck](https://open.spotify.com/artist/5dKuB4lPxtsPQz2351kd6r), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [AYER \(Remix\)](https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1) | 4:28 |
 | 64 | [luego](https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC) | [luego luego](https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R) | [inconformidable](https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5) | 2:01 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 69 | [Sticky](https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MONVCO](https://open.spotify.com/artist/1rGlHeD5HzcjBJiW7kq7ZJ), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [Sticky](https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098) | 2:38 |
 | 70 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
 | 71 | [Cuándo Tú Me Tocas](https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl), [Just Roger](https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0) | [Cuándo Tú Me Tocas](https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M) | 2:28 |
-| 72 | [Ya no queda nada nada](https://open.spotify.com/track/40I8URgHCw8FLR7Ruw6dy0) | [Maria Nastenka](https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t) | [Ya no queda nada nada](https://open.spotify.com/album/1TdeqMkRrs3bVX4FHaOZK6) | 3:55 |
-| 73 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
+| 72 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
+| 73 | [Ya no queda nada nada](https://open.spotify.com/track/40I8URgHCw8FLR7Ruw6dy0) | [Maria Nastenka](https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t) | [Ya no queda nada nada](https://open.spotify.com/album/1TdeqMkRrs3bVX4FHaOZK6) | 3:55 |
 | 74 | [ATIZALE](https://open.spotify.com/track/3OLDaypybBlk46CtasInNL) | [Refugee](https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx) | [ATIZALE](https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv) | 2:24 |
 | 75 | [UN DÍA INOLVIDABLE](https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [UN DÍA INOLVIDABLE](https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK) | 3:11 |
 

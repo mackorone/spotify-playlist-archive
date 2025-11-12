@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 67179,
+  "num_followers": 67194,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAbzVkTXvV6KRQSVAAZcIJF",
+  "snapshot_id": "aRErAAAAAACQcZmdvyAdCZyFI3HM6BV5",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi chica ideal (Lo B\u00e1sico)",
-        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Si la miro ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 2) [USA]",
         "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 185146,
       "name": "No soy monedita de oro",
       "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Si la miro ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 156533,
-      "name": "Esclavo y amo",
-      "url": "https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 155400,
       "name": "Y la quiere Paco",
       "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 156533,
+      "name": "Esclavo y amo",
+      "url": "https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 160560,
-      "name": "Besando borrachos",
-      "url": "https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 153306,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/6iYmSqPRZbd51RD5pPfTa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Besando borrachos",
+      "url": "https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Mu\u00e9vete morena",
-      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi chica ideal (Lo B\u00e1sico)",
         "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 172666,
       "name": "Usted",
       "url": "https://open.spotify.com/track/0QTosUG7yMB9UBNzhU4ZmF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "Mu\u00e9vete morena",
+      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
       "duration_ms": 242333,
       "name": "Volver a empezar",
       "url": "https://open.spotify.com/track/72TESm64s0W784aHoK4k0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Estrellas de la Musica Mexicana (USA)",
+        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Mi guitarra y yo",
+      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 174866,
       "name": "Gracias mujer",
       "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Estrellas de la Musica Mexicana (USA)",
-        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Mi guitarra y yo",
-      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
     },
     {
       "added_at": null,

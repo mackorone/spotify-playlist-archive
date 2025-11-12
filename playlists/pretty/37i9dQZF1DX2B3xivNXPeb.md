@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Music for enjoying your space
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,981 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,986 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 78 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 79 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
 | 80 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
-| 81 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
-| 82 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
+| 81 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
+| 82 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
 | 83 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
 | 84 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
 | 85 | [Bruised One](https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Bruised One](https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ) | 3:00 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 93 | [Personally](https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt) | [Kamran Khan](https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA), [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Personally](https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7) | 3:58 |
 | 94 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
 | 95 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/10FtxzZh2p5sYwI3Lik5XM) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/5Vy5Zym9vIpikh6uGhtp9P) | 2:31 |
-| 96 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 |
-| 97 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
+| 96 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
+| 97 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 |
 | 98 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 |
 | 99 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 100 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |

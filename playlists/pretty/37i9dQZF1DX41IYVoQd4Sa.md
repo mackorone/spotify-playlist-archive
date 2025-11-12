@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : IDIOT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,864 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,868 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 13 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
 | 14 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 |
 | 15 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
-| 16 | [הכאב הזה](https://open.spotify.com/track/4gZFq4o3BAsgfvewoIqo1D) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Shakked](https://open.spotify.com/artist/6iJ9jIygtVP5zI6SUo3YhX) | [הכאב הזה](https://open.spotify.com/album/2Xwyq8mjZC6v848vDLYDlz) | 3:05 |
+| 16 | [הכאב הזה](https://open.spotify.com/track/4gZFq4o3BAsgfvewoIqo1D) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0) | [הכאב הזה](https://open.spotify.com/album/2Xwyq8mjZC6v848vDLYDlz) | 3:05 |
 | 17 | [i feel you here](https://open.spotify.com/track/1EHDh1kxfdI2tCs2ddRAnU) | [Niv Ast](https://open.spotify.com/artist/29QojCXl3PxYDky0cH60fK) | [i feel you here](https://open.spotify.com/album/0RWGeV9Cz8XYk6ZoEkk1nZ) | 3:23 |
 | 18 | [Hoodoo..!! \- Red Axes Remix \- Radio Edit](https://open.spotify.com/track/7vubgUervibo2mghhCVs3i) | [Adi Scotheque](https://open.spotify.com/artist/1CLTiwj3yiNG3HwufYt5md), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [..Went...Dancing!!](https://open.spotify.com/album/3d18n3damdPAbB0f60bJUD) | 3:35 |
 | 19 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |

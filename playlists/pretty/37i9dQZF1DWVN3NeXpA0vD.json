@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26453,
+  "num_followers": 26451,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -208,7 +208,7 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 279204,
+      "duration_ms": 279203,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Mixer",
+        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 192823,
+      "name": "Mixer",
+      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 174444,
       "name": "Post Malone (feat. RANI)",
       "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Mixer",
-        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 192823,
-      "name": "Mixer",
-      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Swing (Mahmut Orhan Remix)",
-        "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 269431,
-      "name": "Swing - Mahmut Orhan Remix",
-      "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8"
       },
@@ -1067,18 +1047,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+        "name": "Swing (Mahmut Orhan Remix)",
+        "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 231192,
-      "name": "go with u",
-      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
+      "duration_ms": 269431,
+      "name": "Swing - Mahmut Orhan Remix",
+      "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1103,6 +1087,22 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Late Night Feelings (feat. Lykke Li)",
-        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 251028,
-      "name": "Late Night Feelings (feat. Lykke Li)",
-      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Like It Is",
         "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Late Night Feelings (feat. Lykke Li)",
+        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 251028,
+      "name": "Late Night Feelings (feat. Lykke Li)",
+      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 172023,
+      "name": "Hello Hello Hello",
+      "url": "https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "Hello Hello Hello",
-      "url": "https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 211784,
-      "name": "Still Learning",
-      "url": "https://open.spotify.com/track/2Mfv5HaqnI18Q9JRv9hqnn"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Sixteen",
         "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 201072,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 211784,
+      "name": "Still Learning",
+      "url": "https://open.spotify.com/track/2Mfv5HaqnI18Q9JRv9hqnn"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "If You\u2019re Too Shy (Let Me Know)",
+        "url": "https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 239876,
+      "name": "If You\u2019re Too Shy (Let Me Know) - Edit",
+      "url": "https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "If You\u2019re Too Shy (Let Me Know)",
-        "url": "https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 239876,
-      "name": "If You\u2019re Too Shy (Let Me Know) - Edit",
-      "url": "https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 191808,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
+      "duration_ms": 168982,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo"
     }
   ],
   "unique_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",

@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: FIFTY FIFTY
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ITZY
 
-1,606 songs - 3 day 13 hr 11 min
+1,607 songs - 3 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,6 +1283,7 @@
 | [Super Duper Ride](https://open.spotify.com/track/2OvgKDomaqyhPpgRAGQaki) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Super Duper Ride](https://open.spotify.com/album/1rVGw87A7c18DVW3IU15YK) | 3:09 | 2024-10-04 | 2024-10-11 |
 | [Super Lady](https://open.spotify.com/track/105qee9D4ARiRZPZDvGDoH) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0AxwDje2klNIOVKvMTtwdZ) | 2:32 | 2024-04-18 | 2024-08-30 |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
+| [Super Luna](https://open.spotify.com/track/7KzvRJThUDhHZmhvHbbngi) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Super Luna](https://open.spotify.com/album/4WeJZrYQVlypCWog50MUSl) | 3:12 | 2025-11-11 |  |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2024-02-07 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-24 |  |
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-13 | 2024-10-30 |
@@ -1566,7 +1567,7 @@
 | [ゆらゆら \-運命の花\-](https://open.spotify.com/track/6wpI5gQoIYWBJs9juUEvJI) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/1LbeJNguuG0T6BaQ9f2OGq) | 3:04 | 2024-03-07 | 2024-07-31 |
 | [アンタイトル](https://open.spotify.com/track/6pnP83aFWJbzFfFYN7LyYJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [tripleS ∞! <アンタイトル>](https://open.spotify.com/album/0ZLnGYGxMnAVRGAdOBtHf2) | 2:41 | 2024-11-18 | 2025-02-22 |
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 | 2022-07-16 |
-| [コエ](https://open.spotify.com/track/7qf3u0gGC2tWVdHzY38g07) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [コエ](https://open.spotify.com/album/0unDKK70GJLloyM4jJEueD) | 5:01 | 2025-07-15 |  |
+| [コエ](https://open.spotify.com/track/7qf3u0gGC2tWVdHzY38g07) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [コエ](https://open.spotify.com/album/0unDKK70GJLloyM4jJEueD) | 5:01 | 2025-07-15 | 2025-11-12 |
 | [コノヨノシルシ \- The Greatest Ver.](https://open.spotify.com/track/4f6DAWSMBmGaGQgkELrfpn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [コノヨノシルシ \(The Greatest Ver.\)](https://open.spotify.com/album/5ekQOic7CVj3uO6BcpN6aP) | 3:59 | 2022-04-19 | 2022-06-22 |
 | [シャッター閉めろ](https://open.spotify.com/track/5Uyi5O6Hb2PKZdleSJrK6m) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [シャッター閉めろ](https://open.spotify.com/album/3Iy8i2OJDYYOzYFJS4NnrC) | 2:28 | 2023-07-04 | 2023-07-19 |
 | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 | 2023-07-25 | 2023-09-13 |

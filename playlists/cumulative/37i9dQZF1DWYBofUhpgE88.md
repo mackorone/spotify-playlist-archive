@@ -4,10 +4,11 @@
 
 > per spingere come veri gym bro e gym sis
 
-394 songs - 20 hr 36 min
+394 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-06 |  |
 | [$€ Freestyle](https://open.spotify.com/track/3CS7Wr2Hzqoh2f2iHXxiIa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/27EhxNeyTwvnuo0TcWMDZf) | 2:44 | 2022-05-03 | 2022-07-29 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2024-08-12 | 2025-07-22 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2025-07-21 |  |
@@ -162,7 +163,6 @@
 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 | 2025-07-21 |  |
 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 | 2024-08-01 | 2024-10-10 |
 | [I LOVE IT \(feat\. Artie 5ive\)](https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:11 | 2024-08-01 | 2025-10-20 |
-| [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 | 2025-11-06 |  |
 | [If I Can't](https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:16 | 2024-03-21 | 2024-08-02 |
 | [If I Can't](https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:16 | 2023-03-23 | 2023-08-10 |
 | [Il Mio Mondo, Le Mie Regole](https://open.spotify.com/track/2bBW9JGz4N76FBc5ThkBqu) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Dogocrazia](https://open.spotify.com/album/0kmbUFwChrvedAO7BGH7UB) | 3:35 | 2024-01-02 | 2024-01-04 |

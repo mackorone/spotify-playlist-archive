@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: SM JAZZ TRIO\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,580 likes - 53 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,582 likes - 53 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 52 | [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/album/7A3oBn1hSfPeRSDju4Xi6M) | 3:20 |
 | 53 | [Supernova \- Jazz Version](https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Supernova \(Jazz Version\)](https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7) | 3:18 |
 
-Snapshot ID: `AAAAAC94b5HlMyEWukFC+04AeUlcAdra`
+Snapshot ID: `AAAAAFv1oboqSIWU3WheTZZu3Rsb3xBQ`

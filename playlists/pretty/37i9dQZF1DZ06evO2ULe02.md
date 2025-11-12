@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 26 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 | 27 | [are you curious?](https://open.spotify.com/track/5LK1DcgHrVHOU00bQwTQG6) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:14 |
 
-Snapshot ID: `aQ/ZgAAAAABXJ/qhSaqoMkzxD1H4SkZH`
+Snapshot ID: `aRErAAAAAACACR8tmxSl6pfVD5juIyB6`

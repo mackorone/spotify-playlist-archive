@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Ximena Sari\u00f1ana en portada ",
-  "num_followers": 808353,
+  "num_followers": 808404,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 167955,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"
+    },
+    {
+      "added_at": "2025-11-07 06:00:33",
+      "album": {
         "name": "Chula Vente",
         "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
-    },
-    {
-      "added_at": "2025-11-07 06:00:33",
-      "album": {
-        "name": "TATTOO",
-        "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 167955,
-      "name": "TATTOO",
-      "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
-    },
-    {
-      "added_at": "2025-11-07 06:00:33",
-      "album": {
         "name": "FEMME FATALE",
         "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 230723,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
+    },
+    {
+      "added_at": "2025-11-07 06:00:33",
+      "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
-    },
-    {
-      "added_at": "2025-11-07 06:00:33",
-      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -899,18 +879,22 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
-        "name": "Pens\u00e9 En Ti",
-        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
         }
       ],
-      "duration_ms": 152599,
-      "name": "Pens\u00e9 En Ti",
-      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -931,6 +915,22 @@
       "duration_ms": 203556,
       "name": "Apaga la luz",
       "url": "https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp"
+    },
+    {
+      "added_at": "2025-11-07 06:00:33",
+      "album": {
+        "name": "Pens\u00e9 En Ti",
+        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152599,
+      "name": "Pens\u00e9 En Ti",
+      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
+    },
+    {
+      "added_at": "2025-11-07 06:00:33",
+      "album": {
         "name": "+ Perra + Bitch",
         "url": "https://open.spotify.com/album/39RFBiFmGH0p3npriZ7PJc"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 156470,
       "name": "PERDIDO",
       "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
-    },
-    {
-      "added_at": "2025-11-07 06:00:33",
-      "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
-        "name": "PERRA MADRE",
-        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 199459,
-      "name": "PERRA MADRE",
-      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
-    },
-    {
-      "added_at": "2025-11-07 06:00:33",
-      "album": {
         "name": "Aplauso",
         "url": "https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 232153,
       "name": "Aplauso",
       "url": "https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR"
+    },
+    {
+      "added_at": "2025-11-07 06:00:33",
+      "album": {
+        "name": "PERRA MADRE",
+        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 199459,
+      "name": "PERRA MADRE",
+      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
-        "name": "DPM",
-        "url": "https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "DPM",
-      "url": "https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG"
-    },
-    {
-      "added_at": "2025-11-07 06:00:33",
-      "album": {
         "name": "Rexsexex",
         "url": "https://open.spotify.com/album/0N75pJ0usO4zBt08Z5wSWj"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+        "name": "DPM",
+        "url": "https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 210541,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+      "duration_ms": 213428,
+      "name": "DPM",
+      "url": "https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-11-07 06:00:33",
       "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 210541,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+    },
+    {
+      "added_at": "2025-11-07 06:00:33",
+      "album": {
         "name": "VIBRA PERFECTA",
         "url": "https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 148273,
       "name": "VIBRA PERFECTA",
       "url": "https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK"
-    },
-    {
-      "added_at": "2025-11-07 06:00:33",
-      "album": {
-        "name": "OMNI",
-        "url": "https://open.spotify.com/album/7DM14YL838M0SuNf2GKR99"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "La Blindada",
-      "url": "https://open.spotify.com/track/20R5Q4VGBfDpsX51M6U0Jk"
     },
     {
       "added_at": "2025-11-07 06:00:33",
@@ -1299,6 +1283,22 @@
       "duration_ms": 199846,
       "name": "la vuelta",
       "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
+    },
+    {
+      "added_at": "2025-11-07 06:00:33",
+      "album": {
+        "name": "OMNI",
+        "url": "https://open.spotify.com/album/7DM14YL838M0SuNf2GKR99"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "La Blindada",
+      "url": "https://open.spotify.com/track/20R5Q4VGBfDpsX51M6U0Jk"
     },
     {
       "added_at": "2025-11-07 06:00:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,098 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,145 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 23 | [Evergreen](https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Methodrone](https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka) | 3:24 |
 | 24 | [flip](https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [return](https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss) | 2:02 |
 | 25 | [Calendar](https://open.spotify.com/track/0f5zmYlqbw8szBtaVZhnGE) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 5:48 |
-| 26 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
-| 27 | [Dark Stone](https://open.spotify.com/track/4WVb36fxYnEHVKDKiMRZHw) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:22 |
+| 26 | [Dark Stone](https://open.spotify.com/track/4WVb36fxYnEHVKDKiMRZHw) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:22 |
+| 27 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
 | 28 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
 | 29 | [The Same Place](https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs) | [Centaur](https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ) | [In Streams](https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL) | 7:35 |
 | 30 | [Rocket \- 2011 Remaster](https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:06 |
-| 31 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
-| 32 | [Seagull \- 2001 Remaster](https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Nowhere \(Expanded\)](https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ) | 6:08 |
+| 31 | [Seagull \- 2001 Remaster](https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Nowhere \(Expanded\)](https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ) | 6:08 |
+| 32 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
 | 33 | [Pearl \- 12'' Version](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
 | 34 | [Fall](https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:59 |
 | 35 | [Walkabout \(W/ Noah Lennox\)](https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T), [Noah Lennox](https://open.spotify.com/artist/6XrrzKnazbofp8WajiHZyH) | [Logos](https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh) | 3:58 |
-| 36 | [in another way](https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [m b v](https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a) | 5:30 |
-| 37 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
+| 36 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
+| 37 | [in another way](https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [m b v](https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a) | 5:30 |
 | 38 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
 | 39 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 |
 | 40 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |

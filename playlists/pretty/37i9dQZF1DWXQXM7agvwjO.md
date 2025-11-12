@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Robot Swing \(Taiwan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,532 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,519 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 17 | [Test My Fate](https://open.spotify.com/track/7Ak27zXdedAW9ETDDSzsxA) | [just Min](https://open.spotify.com/artist/30WOLSr0UBs8AKHEIbQB1B) | [Test My Fate](https://open.spotify.com/album/42FV2hDtxotlOJzprNuRU8) | 2:40 |
 | 18 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
 | 19 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 |
-| 20 | [ONE & ONLY](https://open.spotify.com/track/67thbTVrA35kYtwbeLslNl) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [ONE&ONLY](https://open.spotify.com/album/3DAvhbOcqdY7pyNL1N0H1Q) | 4:28 |
+| 20 | [ONE & ONLY](https://open.spotify.com/track/67thbTVrA35kYtwbeLslNl) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [ONE & ONLY](https://open.spotify.com/album/3DAvhbOcqdY7pyNL1N0H1Q) | 4:28 |
 | 21 | [Megamind](https://open.spotify.com/track/0nbFfGsI841xVr2woT8YTB) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Amateur Hunting Squad](https://open.spotify.com/album/1Se3NMCm7LMts4q5BrVAbL) | 4:52 |
 | 22 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 |
 | 23 | [Back To School](https://open.spotify.com/track/78ED5dMZrI3dHGA0HYAOLW) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 3:24 |

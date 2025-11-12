@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,290,065 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290,071 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 26 | [Pop The Balloon](https://open.spotify.com/track/18xSK8GSgnarxkkoGxDAob) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 4:31 |
 | 27 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
 | 28 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
-| 29 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
-| 30 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
+| 29 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
+| 30 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 31 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
 | 32 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 33 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 48 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
 | 49 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
 | 50 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
-| 51 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
-| 52 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
+| 51 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
+| 52 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
 | 53 | [Aye](https://open.spotify.com/track/5n7yP1qQiXs9uCE3m1eyGB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Aye](https://open.spotify.com/album/1MNI54DBCm3plChv9rY7C3) | 3:06 |
 | 54 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |
 | 55 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/02q0ISnitj4Q7flAbRppvo) | 2:57 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 71 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 |
 | 72 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 73 | [Sink Ya Teeth](https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Sink Ya Teeth](https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i) | 3:27 |
-| 74 | [Call A Doctor](https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Call A Doctor](https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6) | 5:09 |
-| 75 | [Final Gørl](https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Final Gørl](https://open.spotify.com/album/6LrLLNRDXgVZ00ClQLuDi9) | 2:08 |
+| 74 | [Final Gørl](https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Final Gørl](https://open.spotify.com/album/6LrLLNRDXgVZ00ClQLuDi9) | 2:08 |
+| 75 | [Call A Doctor](https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Call A Doctor](https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6) | 5:09 |
 
 Snapshot ID: `AAAAAFAUyhagJ1ZSWdj+3LBNHe8ZpcVg`

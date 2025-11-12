@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,766 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,789 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Con Manos Vacías \- En Vivo](https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Con Manos Vacías](https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO) | 7:06 |
 | 50 | [Mundo Interior](https://open.spotify.com/track/5LJMEK8ZaRVptww0R1RlqI) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:18 |
 
-Snapshot ID: `aQ/ZgAAAAADl+JLigPyBDjpeL6XCqTfn`
+Snapshot ID: `aRErAAAAAADoswgfX6GRpoPvP+lo5jOb`

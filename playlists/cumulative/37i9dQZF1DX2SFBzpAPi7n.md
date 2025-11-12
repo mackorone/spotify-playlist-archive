@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 자우림 \(JAURIM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,075 songs - 2 day 17 hr 33 min
+1,076 songs - 2 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [daisy.](https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou) | 3:38 | 2022-04-22 | 2022-07-28 |
 | [daisy.](https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS) | 3:38 | 2023-02-10 | 2023-11-05 |
 | [daisy.](https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN) | 3:38 | 2023-11-10 | 2024-03-22 |
+| [Dancing Bird](https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Dancing Bird](https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA) | 3:17 | 2025-11-11 |  |
 | [Dark Cloud](https://open.spotify.com/track/1m6hChgffW1gqFKbpkGQrk) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 4:00 | 2022-04-21 | 2022-07-19 |
 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-04 |  |
 | [Daydream](https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6) | [EUNICE](https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU) | [Daydream](https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI) | 4:03 | 2024-10-27 | 2024-12-14 |
@@ -849,7 +850,7 @@
 | [STARLIGHT](https://open.spotify.com/track/5Sze0gwqDqO2BEEIQpxkDa) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [STARLIGHT](https://open.spotify.com/album/4N390LmaD2YwNebjT1Zmoa) | 3:24 | 2022-04-22 | 2022-07-27 |
 | [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [Starry Night](https://open.spotify.com/track/4vSQmGcgOhsoK5lqmNOEz2) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 4:38 | 2022-04-12 | 2022-07-18 |
-| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 |  |
+| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 | 2025-11-12 |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-10 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 | 2022-11-13 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |

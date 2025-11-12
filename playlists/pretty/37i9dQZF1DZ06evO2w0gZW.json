@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 512468,
+  "num_followers": 512532,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAADdSPF/JnnCQ645EroQ6Rg4",
+  "snapshot_id": "aRErAAAAAADj7mJ2ZrQW91aZrkK2ol3v",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 224788,
-      "name": "Play This Song (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+      "duration_ms": 259665,
+      "name": "Endless Love (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj"
     },
     {
       "added_at": null,
@@ -231,22 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 259665,
-      "name": "Endless Love (with Mariah Carey)",
-      "url": "https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj"
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 202403,
-      "name": "In Your Feelings",
-      "url": "https://open.spotify.com/track/0QZdgoHHwhFMkDazElGqLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E=MC2 (Deluxe Version)",
         "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 212000,
       "name": "I Stay In Love",
       "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 202403,
+      "name": "In Your Feelings",
+      "url": "https://open.spotify.com/track/0QZdgoHHwhFMkDazElGqLJ"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
+        "name": "I Still Believe EP",
+        "url": "https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt"
       },
       "artists": [
         {
@@ -392,9 +392,25 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 232840,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/6rJQTvhKl5GSEA8SWW7t1X"
+      "duration_ms": 236472,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
     },
     {
       "added_at": null,
@@ -415,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Believe EP",
-        "url": "https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt"
+        "name": "Memoirs of an imperfect Angel (International Version)",
+        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
       },
       "artists": [
         {
@@ -424,25 +440,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 236466,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
+      "duration_ms": 207133,
+      "name": "I Want To Know What Love Is",
+      "url": "https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO"
     },
     {
       "added_at": null,
@@ -467,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memoirs of an imperfect Angel (International Version)",
-        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
       "artists": [
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 207133,
-      "name": "I Want To Know What Love Is",
-      "url": "https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO"
+      "duration_ms": 285706,
+      "name": "Heartbreaker (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
     },
     {
       "added_at": null,
@@ -503,26 +507,6 @@
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/75ganPv831RMYXCwQlWzsN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 285706,
-      "name": "Heartbreaker (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Charmbracelet",
+        "url": "https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Through The Rain",
+      "url": "https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here For It All",
         "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmbracelet",
-        "url": "https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw"
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 288640,
-      "name": "Through The Rain",
-      "url": "https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA"
+      "duration_ms": 232840,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
     },
     {
       "added_at": null,
@@ -634,15 +634,11 @@
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
         }
       ],
-      "duration_ms": 205617,
-      "name": "Jesus I Do (feat. The Clark Sisters)",
-      "url": "https://open.spotify.com/track/0fLwKttkpqaQDqDy8JH8Ul"
+      "duration_ms": 155509,
+      "name": "Confetti & Champagne",
+      "url": "https://open.spotify.com/track/14ux2WTD9uht020TVWtQGs"
     },
     {
       "added_at": null,

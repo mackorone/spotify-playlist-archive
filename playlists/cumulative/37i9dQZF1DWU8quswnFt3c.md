@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Oklou \(France\)
 
-2,673 songs - 6 day 4 hr 12 min
+2,674 songs - 6 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2277,6 +2277,7 @@
 | [Tudu Tudu Tu](https://open.spotify.com/track/72UIs3n4aCN6GInoLSNQBV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Tudu Tudu Tu](https://open.spotify.com/album/1kem3mNe6TQLSUPMQnMxdt) | 2:40 | 2022-10-11 | 2022-11-03 |
 | [Tumse Pyaar Karke](https://open.spotify.com/track/4Iyx3XvZwM0hYsLmeyjva3) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Tumse Pyaar Karke](https://open.spotify.com/album/1cUI7KGXYLNjTBvzjdDr59) | 3:54 | 2022-02-02 | 2022-03-09 |
 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 | 2024-10-02 | 2024-11-07 |
+| [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 |  |
 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-11-08 | 2023-11-30 |
 | [Two blocks away](https://open.spotify.com/track/1dhSYPyzMc8tR5jL3eOZ9v) | [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [Two blocks away](https://open.spotify.com/album/5oSPclGSfUgfFgmw0BIZKD) | 3:00 | 2023-01-04 | 2023-02-02 |
 | [Two Can Live on Love Alone](https://open.spotify.com/track/51u7nUw2FqpgI7qN5sfPO8) | [Anita Kerr](https://open.spotify.com/artist/5IFEFlCe7mLC0N8gByS6Yw) | [Bert Kaempfert Turns Us On](https://open.spotify.com/album/63mS8ENqYol9NQECnazlWJ) | 2:49 | 2025-01-22 | 2025-02-06 |
@@ -2657,7 +2658,7 @@
 | [科幻小說 \(prod\. by Sōryo\)](https://open.spotify.com/track/53XaSgJqHmYqhkJe4IpQEJ) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:＊\- 合作的秘密](https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb) | 3:13 | 2025-04-02 | 2025-06-05 |
 | [空白格](https://open.spotify.com/track/6t2Pr9rcdVzvuAFuGJt8Fb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [Goodbye & Hello](https://open.spotify.com/album/7jyiXKzJYgJ24IqlGMKcjN) | 4:12 | 2025-09-03 | 2025-09-18 |
 | [空白題](https://open.spotify.com/track/4jylN5RdQ1e3azFwtisPrO) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [青春疾走](https://open.spotify.com/album/1E86c02P0E5EuRs3YNgOjZ) | 3:04 | 2024-12-04 | 2025-01-09 |
-| [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 | 2025-09-03 |  |
+| [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 | 2025-09-03 | 2025-11-12 |
 | [精神分裂 \- 2ession](https://open.spotify.com/track/2M8yaD6d5qre8PYaFUJwn3) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [精神分裂 \(2ession\)](https://open.spotify.com/album/1jRk97nNPA0DBFiiVEJ3Mz) | 3:13 | 2022-05-04 | 2022-06-01 |
 | [給自己的情書 \- "笑忘書"廣東版](https://open.spotify.com/track/3uun1e8SPD4GjWsIwwu8ai) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [寓言](https://open.spotify.com/album/1xMPIm60MpN9miG7vbqRsC) | 4:27 | 2025-09-03 | 2025-09-18 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2023-01-04 | 2023-02-02 |

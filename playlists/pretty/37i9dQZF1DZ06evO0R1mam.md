@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,256 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,255 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 31 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
 | 32 | [Every Time I Turn Around \- Live In Houston](https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:10 |
 | 33 | [Anyhow \- Radio Edit](https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 3:58 |
-| 34 | [Goodness Of God \- Live](https://open.spotify.com/track/2vpzga018mYLVXkE77wEds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:41 |
-| 35 | [We Are Victorious \(feat\. Tye Tribbett\)](https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Duets](https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4) | 5:07 |
+| 34 | [We Are Victorious \(feat\. Tye Tribbett\)](https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Duets](https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4) | 5:07 |
+| 35 | [Goodness Of God \- Live](https://open.spotify.com/track/2vpzga018mYLVXkE77wEds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:41 |
 | 36 | [All Hail \- Live In Dallas](https://open.spotify.com/track/6s9vCBhhXtz6G9BRQ4YnVa) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:51 |
 | 37 | [Chasing After You \(The Morning Song\)](https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 6:46 |
-| 38 | [There Is Nothing Like \- Live](https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 0:50 |
-| 39 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
+| 38 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
+| 39 | [There Is Nothing Like \- Live](https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 0:50 |
 | 40 | [Look Up Prayer \- Live In LA](https://open.spotify.com/track/0mllTFhbyHRQaB5iRELvEw) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 0:59 |
 | 41 | [Hold On](https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:06 |
 | 42 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
 | 50 | [I Need You](https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:36 |
 
-Snapshot ID: `aQ/ZgAAAAABuwmCEqvH96q3qbSq9LEER`
+Snapshot ID: `aRErAAAAAABPvNCtpUohvH4dQc4h/cKw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,325 likes - 155 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327 likes - 155 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 24 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
 | 25 | [Vertigo](https://open.spotify.com/track/06GcodDliPWAYFX2LSFLIu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 4:30 |
 | 26 | [GIRL](https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:10 |
-| 27 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
-| 28 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 |
+| 27 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 |
+| 28 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
 | 29 | [Tell Me You Love Me](https://open.spotify.com/track/5kgqTe1BM720OjU78TGYDw) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:10 |
 | 30 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:52 |
 | 31 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 83 | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/track/30Z12rJpW0M0u8HMFpigTB) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/album/3xte1n53BcjUBxr8BBHdHq) | 3:20 |
 | 84 | [courage](https://open.spotify.com/track/72sQjWR565TtF4yIKnoZZe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 3:29 |
 | 85 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 5:34 |
-| 86 | [I Want You](https://open.spotify.com/track/5mpibPxO6AWUhl2RiHpOGe) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:16 |
-| 87 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
+| 86 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
+| 87 | [I Want You](https://open.spotify.com/track/5mpibPxO6AWUhl2RiHpOGe) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:16 |
 | 88 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
 | 89 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
 | 90 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 154 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 155 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AcBPvAAAAAAsJAGu7DOSWjQe4smIek21`
+Snapshot ID: `AcBVXAAAAAAmSUIWJrNmiXtZvnaOvnLQ`

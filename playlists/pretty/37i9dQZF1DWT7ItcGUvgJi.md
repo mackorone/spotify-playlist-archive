@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 > Where two indie music powerhouses meet!<br/>Enjoy the \[Tune Up Meets Fresh Finds\] LIVE SET including the voices of them on stage! 🎶✨ \(인디음악을 지원하는 두 프로그램의 만남! \[Tune Up Meets Fresh Finds\] 공연의 라이브셋을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 662 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 | 2 | [Sick of you](https://open.spotify.com/track/6fcOwpo7xvQzEbHdVMnxfm) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Blue Vinyl](https://open.spotify.com/album/30a34lLcxx909dNlwCAYMf) | 3:34 |
 | 3 | [Stage Comment from can't be blue 1](https://open.spotify.com/track/6Almd5UKehInNnYll80QuR) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Tune Up Meets Fresh Finds Audio Liners](https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis) | 1:30 |
 | 4 | [Matryoshka](https://open.spotify.com/track/09yxk5cVVFVdc8WTZ1dWsk) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Blue Vinyl](https://open.spotify.com/album/30a34lLcxx909dNlwCAYMf) | 3:07 |
-| 5 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 |
+| 5 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue \(캔트비블루\)](https://open.spotify.com/artist/7aOYQbC08adgXPAyMAVqJP) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 |
 | 6 | [사랑이라 했던 말 속에서](https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [사랑이라 했던 말 속에서](https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK) | 3:19 |
 | 7 | [Stage Comment from can't be blue 2](https://open.spotify.com/track/0B5qTRT8Dx77GaJRSXc7cs) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Tune Up Meets Fresh Finds Audio Liners](https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis) | 1:00 |
 | 8 | [죽어버릴것같아](https://open.spotify.com/track/4Sf5BzR8BYE8IIhiLTTJKR) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [죽어버릴것같아](https://open.spotify.com/album/56lw5jFogVgKW9wZGuqPjG) | 3:24 |

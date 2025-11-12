@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-819 songs - 2 day 4 hr 58 min
+820 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,7 +796,7 @@
 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-04-18 |  |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-03 | 2022-10-19 |
 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2022-06-03 | 2022-06-13 |
-| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-10-19 |  |
+| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-10-19 | 2025-11-12 |
 | [透明](https://open.spotify.com/track/6HM9odeh1TcxBlkghy69iO) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [透明](https://open.spotify.com/album/7atpOizmkOdg4GtPTjhjrZ) | 3:50 | 2022-06-03 | 2022-07-24 |
 | [透明な世界](https://open.spotify.com/track/6MjG6j8Iuea6XL9cp1aUec) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [透明な世界](https://open.spotify.com/album/5UIoqGhZcqn5XFa1CwWx7I) | 4:03 | 2022-06-03 | 2022-07-27 |
 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 | 2024-07-09 | 2025-04-19 |
@@ -816,6 +816,7 @@
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2024-01-19 |  |
 | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 | 2025-07-14 |  |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2023-02-02 | 2025-05-04 |
+| [青春永遠](https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [青春永遠](https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF) | 4:25 | 2025-11-11 |  |
 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-07-01 | 2024-07-16 |
 | [頑張っている君だから](https://open.spotify.com/track/1mRNjvJAijIBaKOhUUqSy8) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD), [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK), [内村史子](https://open.spotify.com/artist/0AvJfmoAGItgNqzqyJbrrE) | [頑張っている君だから](https://open.spotify.com/album/5JASlLK3A1mNfLbHH10Nh8) | 4:37 | 2022-06-24 | 2022-06-28 |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-07-14 | 2022-07-25 |

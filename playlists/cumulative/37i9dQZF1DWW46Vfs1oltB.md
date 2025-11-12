@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>CAMO\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Royal 44\)
 
-1,681 songs - 3 day 17 hr 54 min
+1,682 songs - 3 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1652,6 +1652,7 @@
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:53 | 2022-12-02 | 2022-12-19 |
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/3F3PuqGinS2T1ePmjUTw9t) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:53 | 2022-12-14 | 2023-06-14 |
 | [YW](https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [YW](https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms) | 2:28 | 2024-05-08 | 2024-09-01 |
+| [YÖLÖ \(Feat\. Kobane\)](https://open.spotify.com/track/78Qkm2TAe2TxJZJUnoLmss) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Kobane](https://open.spotify.com/artist/5jj8T5krsoMpd2uHYzKfQV) | [Rich or Die ll](https://open.spotify.com/album/1VaiOIuMr3cpVXBKwyq2Gl) | 3:20 | 2025-11-11 |  |
 | [Zero to Hundred](https://open.spotify.com/track/0BcmxTgaTk2Zr60AxmSHbG) | [Yang Kyle](https://open.spotify.com/artist/4x5ZXHL71AGw8hI2pC4Y4l), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC), [BBULKUP](https://open.spotify.com/artist/3denoLaniS4scvPPqK5hMd), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [RAP:PUBLIC Block 3 MIXTAPE '〈3'](https://open.spotify.com/album/1sTETOtm3X4PrTzeJiegyt) | 3:17 | 2025-03-12 | 2025-06-17 |
 | [Zigle Zigle \(Feat\. ZICO\)](https://open.spotify.com/track/44n7Wbnl9vcDbkAkVPW0Lu) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RAP:PUBLIC Episode.1](https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi) | 4:05 | 2024-11-27 | 2025-04-09 |
 | [ZNTZL](https://open.spotify.com/track/3uKpX4ZtaQ0ZslTPpc4kRL) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [94\-24 +1](https://open.spotify.com/album/3UjYTwZtOSekvKHgjM7ByQ) | 1:29 | 2025-01-23 | 2025-05-08 |

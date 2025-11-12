@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,099 likes - 173 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,100 likes - 173 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 96 | [Stepped On](https://open.spotify.com/track/4KRbbNR117zPRlwZa7oKyN) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:01 |
 | 97 | [World Of Wonders](https://open.spotify.com/track/2RRI47A8yNZ94o56IRfRCQ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:22 |
 | 98 | [Please Babe](https://open.spotify.com/track/2rAbrVnPBp6TcqdY8vRQbF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:46 |
-| 99 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 |
-| 100 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
+| 99 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
+| 100 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 |
 | 101 | [Seemingly](https://open.spotify.com/track/1BqjVBfqdUclV4rUYmdpE4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:17 |
 | 102 | [Wasted Words \(feat\. Thundercat\)](https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:27 |
 | 103 | [The Code \(feat\. Mike Dimes\)](https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:25 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 172 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
 | 173 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AcBPlAAAAAA0u6Wsih9JBvYEmGQeWjFC`
+Snapshot ID: `AcBVcAAAAADo8BS9tLJFdsZlJ2GyM5gA`

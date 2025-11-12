@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: Castle Rat
 
-343 songs - 20 hr 2 min
+344 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Cliffhanger](https://open.spotify.com/track/3Ulrp2jJIlDkShwJxgOU4G) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/5KQsHKT1HWEWKND1eEmDj1) | 2:36 | 2023-06-20 | 2024-04-19 |
 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 | 2023-01-06 | 2024-07-16 |
 | [Coalescence](https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 3:13 | 2022-08-19 | 2023-03-25 |
-| [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 | 2025-08-22 |  |
+| [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 | 2025-08-22 | 2025-11-12 |
 | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-04-28 | 2025-09-27 |
 | [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 | 2025-09-12 |  |
 | [CORRUPTED](https://open.spotify.com/track/7ApsHjRKVjJPdbFgZ5TEo1) | [Continents](https://open.spotify.com/artist/2uM9hyKJ0jEXV7LqYNe6QR), [Cherry of Defences](https://open.spotify.com/artist/3hiPYrYAFbnINBkyt5U7Mf) | [CORRUPTED](https://open.spotify.com/album/0Y9VfxBJWg2wWtYwxLVeQu) | 3:38 | 2025-06-06 | 2025-09-20 |
@@ -75,6 +75,7 @@
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 | 2023-05-18 | 2024-07-16 |
 | [Craven](https://open.spotify.com/track/7hLXMjXwihu7BSzEaQsmGF) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Craven](https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd) | 3:43 | 2025-09-26 |  |
 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 | 2024-07-15 | 2025-08-23 |
+| [Dark Flames](https://open.spotify.com/track/3QOpROhrfN6aYkqdoVy5lm) | [Decessus](https://open.spotify.com/artist/3lvwSNBpAskwYZ0NZ6CLh7) | [Dark Flames](https://open.spotify.com/album/0HJN5KPEKfh2smn5v8nF7C) | 5:50 | 2025-11-11 |  |
 | [Daughter of Eve](https://open.spotify.com/track/7yn85MEYkjsuRwBiU9hfVA) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Daughter of Eve](https://open.spotify.com/album/1W6gAVieZrMV1zPuLNAhli) | 2:41 | 2025-10-24 |  |
 | [Day One](https://open.spotify.com/track/0hG8zv8V3CAIx8Hud0c46z) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Day One](https://open.spotify.com/album/0R0odwfRh10a2dWPwVGUHI) | 4:32 | 2022-07-29 | 2023-01-14 |
 | [Daylight Again](https://open.spotify.com/track/6BWerLeElcFdl1ZUWwcsTm) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Daylight Again](https://open.spotify.com/album/34QJ9ATHk5owUfB4Z2NHLP) | 3:47 | 2024-07-15 | 2025-06-07 |

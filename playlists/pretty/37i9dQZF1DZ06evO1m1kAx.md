@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,757 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,756 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 19 | [Higher \(Spiritual Healing\) \[feat\. Huma Lara\]](https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:55 |
 | 20 | [Ole](https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Freestyle](https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:51 |
 | 21 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
-| 22 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
-| 23 | [No Shakin](https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:31 |
+| 22 | [No Shakin](https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:31 |
+| 23 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
 | 24 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 |
 | 25 | [Target You \(feat\. Syemca\)](https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Syemca](https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:04 |
 | 26 | [Ashewo](https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Mad Over Hills](https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Mad Over Hills](https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH) | 2:34 |
 | 50 | [Officially Blind](https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Officially Blind](https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9) | 3:07 |
 
-Snapshot ID: `aQ/ZgAAAAAAvSi+0xubRXxa3T5bfsZDp`
+Snapshot ID: `aRErAAAAAAD+rNtPyTd6njt/kc0GB2zc`

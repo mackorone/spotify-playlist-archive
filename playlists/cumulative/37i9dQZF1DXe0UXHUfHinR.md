@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-829 songs - 2 day 18 hr 16 min
+830 songs - 2 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [The Seventh Son](https://open.spotify.com/track/7xNzzXvTBzRG68G19N7iA5) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Mose Allison Sings](https://open.spotify.com/album/5a5XbcCrFeD24y2ZdUOhFL) | 2:37 | 2022-10-27 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ), [Slide Hampton](https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys) | [A Day in Copenhagen](https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC) | 4:57 | 2022-10-27 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/5Bl1TC8Y1qh3ui6fGSWL5a) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [The Shadow of Your Smile](https://open.spotify.com/album/3KWWvcVOoAM66JFb1LhlCR) | 6:28 | 2022-10-27 | 2024-11-28 |
+| [The Sidewinder](https://open.spotify.com/track/0jGh2myWgeSSuj0bXeYZn0) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Blue Break Beats](https://open.spotify.com/album/6bj1DXsO7tUiqYDYcIDQxJ) | 10:26 | 2024-07-17 |  |
 | [The Silence of Your Heart](https://open.spotify.com/track/4oU07qd2sv9NxW61Op66Jh) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E) | [Tempo Di Chet](https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL) | 4:21 | 2022-10-27 |  |
 | [The Single Petal Of A Rose \- The Queen's Suite](https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 4:04 | 2022-10-27 |  |
 | [The Summer Wind](https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH) | 3:54 | 2024-03-20 |  |
@@ -773,7 +774,7 @@
 | [Walkin' Shoes](https://open.spotify.com/track/6BavxfUuSOBIhMaEJ6rjNs) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 3:13 | 2022-10-27 | 2024-09-11 |
 | [Waltz For Debby](https://open.spotify.com/track/7bMrdOiYdHjz5dplqSxj8r) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [New Jazz Conceptions](https://open.spotify.com/album/7y2ddYBwV1It5KNemqqQFv) | 1:18 | 2022-12-22 | 2024-11-01 |
 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 | 2022-10-27 |  |
-| [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-10-27 |  |
+| [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-10-27 | 2025-11-12 |
 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 | 2022-10-27 |  |
 | [Watermelon Man \- Remastered 2007](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 | 2022-10-27 |  |
 | [We Three](https://open.spotify.com/track/5jkJkA8Dpu9a60s0LYfW2I) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 11:01 | 2022-10-27 |  |

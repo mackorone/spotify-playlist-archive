@@ -4,7 +4,7 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 23 min
+75 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2023-05-02 |  |
 | [Legacy \- Radio Edit](https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy \(Radio Edit\)](https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y) | 3:15 | 2023-05-02 | 2023-11-11 |
 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 | 2023-11-10 |  |
-| [Lights & Thunder \- Darren Styles Remix](https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Drive: Refueled](https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5) | 4:16 | 2023-05-02 |  |
+| [Lights & Thunder \- Darren Styles Remix](https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Drive: Refueled](https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5) | 4:16 | 2023-05-02 | 2025-11-12 |
+| [Lights & Thunder \- Darren Styles Remix](https://open.spotify.com/track/1PbRuN7FiaPLqyWS3kgenk) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Drive](https://open.spotify.com/album/3PYnxj0fUKzJrhtZXiOf78) | 4:18 | 2025-11-12 |  |
 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 | 2023-06-02 |  |
 | [Live for the Night](https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:26 | 2023-05-02 |  |
 | [Love Outta Me](https://open.spotify.com/track/79Qq2wM8xhDm8CLjcVTMVk) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:28 | 2024-11-03 | 2025-11-10 |

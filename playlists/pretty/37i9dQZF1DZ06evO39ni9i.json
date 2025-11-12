@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 29753,
+  "num_followers": 29757,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACFlTNASxfgmqgLMJ2ijE6U",
+  "snapshot_id": "aRErAAAAAAAzKvqO93n22jc79ElEzOHc",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+        "name": "A Whole New Thing",
+        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 184160,
-      "name": "Everybody Is a Star - Mono Single Master",
-      "url": "https://open.spotify.com/track/4NXNW4eqf9JXLhWFRjwFh9"
+      "duration_ms": 237800,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/2VHALpy5ewC9SAZS6n1hqm"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Thing",
-        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/2VHALpy5ewC9SAZS6n1hqm"
+      "duration_ms": 184160,
+      "name": "Everybody Is a Star - Mono Single Master",
+      "url": "https://open.spotify.com/track/4NXNW4eqf9JXLhWFRjwFh9"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "It Takes All Kinds",
-      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 133000,
       "name": "Into My Own Thing",
       "url": "https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "It Takes All Kinds",
+      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
-        "url": "https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 168016,
-      "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
-      "url": "https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 163266,
       "name": "Love City",
       "url": "https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
+        "url": "https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 168016,
+      "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
+      "url": "https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA"
     },
     {
       "added_at": null,
@@ -740,25 +740,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 167666,
-      "name": "Higher - Single Version",
-      "url": "https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "If It's Not Addin' Up",
-      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
+      "duration_ms": 169266,
+      "name": "Are You Ready",
+      "url": "https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 298080,
       "name": "Show Me - Live At Winchester Cathedral 1967",
       "url": "https://open.spotify.com/track/4A2rQDVPQGswdDxN9U2PjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "If It's Not Addin' Up",
+      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Are You Ready",
-      "url": "https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa"
+      "duration_ms": 167666,
+      "name": "Higher - Single Version",
+      "url": "https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q"
     }
   ],
   "unique_name": "This Is Sly & The Family Stone",

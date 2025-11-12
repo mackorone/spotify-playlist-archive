@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 134789,
+  "num_followers": 134857,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
         "name": "The Night Before Christmas",
         "url": "https://open.spotify.com/album/17h2pP4o8KoCOoFpS4IDy7"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
       },
       "artists": [
         {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+          "name": "Whitby Snell",
+          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
         }
       ],
-      "duration_ms": 151333,
-      "name": "All I Want For Christmas (Is My Two Front Teeth)",
-      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
+      "duration_ms": 257900,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -575,22 +591,6 @@
       "duration_ms": 320071,
       "name": "You're All I Want For Christmas",
       "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
-      },
-      "artists": [
-        {
-          "name": "Whitby Snell",
-          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
-        }
-      ],
-      "duration_ms": 257900,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "Embraced by White",
-        "url": "https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp"
-      },
-      "artists": [
-        {
-          "name": "Smooth Heisters",
-          "url": "https://open.spotify.com/artist/0wng90OL4CECFslp36CVSf"
-        }
-      ],
-      "duration_ms": 145048,
-      "name": "Embraced by White",
-      "url": "https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
+        "name": "Embraced by White",
+        "url": "https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp"
+      },
+      "artists": [
+        {
+          "name": "Smooth Heisters",
+          "url": "https://open.spotify.com/artist/0wng90OL4CECFslp36CVSf"
+        }
+      ],
+      "duration_ms": 145048,
+      "name": "Embraced by White",
+      "url": "https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "I Wish It Would Snow",
-        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 165596,
-      "name": "I Wish It Would Snow",
-      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
+        "name": "I Wish It Would Snow",
+        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 165596,
+      "name": "I Wish It Would Snow",
+      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Stills Quartet",
-          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
-        }
-      ],
-      "duration_ms": 88172,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
         "name": "The Man With The Bag",
         "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
       },
@@ -1331,6 +1315,38 @@
       "duration_ms": 167178,
       "name": "The Christmas Song - Cheery & Bright",
       "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Stills Quartet",
+          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
+        }
+      ],
+      "duration_ms": 88172,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
+        "name": "a cozy christmas",
+        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 200222,
+      "name": "mistletoe and holly",
+      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -1367,22 +1383,6 @@
       "duration_ms": 167506,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
-        "name": "a cozy christmas",
-        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 200222,
-      "name": "mistletoe and holly",
-      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "We Wish You A Merry Christmas",
-        "url": "https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen Trio",
-          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
-        }
-      ],
-      "duration_ms": 161129,
-      "name": "We Wish You A Merry Christmas",
-      "url": "https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
         "name": "Busy Santa",
         "url": "https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 200872,
       "name": "Busy Santa",
       "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
+        "name": "We Wish You A Merry Christmas",
+        "url": "https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        }
+      ],
+      "duration_ms": 161129,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
-      },
-      "artists": [
-        {
-          "name": "Reese Quartet",
-          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
-        }
-      ],
-      "duration_ms": 101102,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "When My Heart Finds Christmas",
-        "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Reese Quartet",
+          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
         }
       ],
-      "duration_ms": 220760,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
+      "duration_ms": 101102,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -1655,6 +1639,22 @@
       "duration_ms": 193500,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
+        "name": "When My Heart Finds Christmas",
+        "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
     },
     {
       "added_at": "2025-11-07 08:18:40",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-11-07 08:18:40",
       "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stevens Quartet",
-          "url": "https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Toyland",
-      "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
-    },
-    {
-      "added_at": "2025-11-07 08:18:40",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/10Yrm96ndp0CpVEd1m4wuI"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 167143,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/23h0hc48PBgpbfkDVuxzzx"
+    },
+    {
+      "added_at": "2025-11-07 08:18:40",
+      "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stevens Quartet",
+          "url": "https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Toyland",
+      "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
     },
     {
       "added_at": "2025-11-07 08:18:40",

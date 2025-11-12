@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,705,630 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,706,573 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 46 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/4y93vvzu2h8MITw7YyUTcI) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
 | 47 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 |
 | 48 | [Entregador de Flor \- Ao Vivo em Brasília](https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 |
-| 49 | [Veneno \- Ao Vivo](https://open.spotify.com/track/2QUl20UtEsH85livMYnbQr) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Acústico, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/4PCWrE06AezR84OPLuHyPI) | 2:58 |
-| 50 | [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
-| 51 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |
+| 49 | [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
+| 50 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |
 
-Snapshot ID: `AAAAAHjY3af/l+QCK774tsQ6x/WCDiLd`
+Snapshot ID: `AAAAAOxXWQhZM3728flDQtvtDZNEB1PJ`

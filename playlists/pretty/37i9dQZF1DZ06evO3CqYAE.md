@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,784 likes - 48 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,792 likes - 48 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 47 | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2) | 5:56 |
 | 48 | [You No Let Them](https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:09 |
 
-Snapshot ID: `aQ/ZgAAAAABsEvqkBT7r+jPQiwWZQxcN`
+Snapshot ID: `aRErAAAAAAA+nDJzoSwv3n0WF7/sW8ea`

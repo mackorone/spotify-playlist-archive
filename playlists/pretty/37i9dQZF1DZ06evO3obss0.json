@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 148626,
+  "num_followers": 148805,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACpGVbve5UmyN9dJZ5yQirw",
+  "snapshot_id": "aRErAAAAAADktFjoaQKsgmzi+A4mdrxZ",
   "tracks": [
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tipsy (feat. RAYE)",
-        "url": "https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Tipsy (feat. RAYE)",
-      "url": "https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
         "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tipsy (feat. RAYE)",
+        "url": "https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Tipsy (feat. RAYE)",
+      "url": "https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR"
     },
     {
       "added_at": null,

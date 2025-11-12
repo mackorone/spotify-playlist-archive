@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -78,7 +96,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
@@ -100,7 +118,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA"
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -4598,7 +4616,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4954,7 +4972,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -8962,7 +8980,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -12812,7 +12830,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 139908,
       "name": "Chabos wissen wer der Babo ist",
       "url": "https://open.spotify.com/track/3SXal1NK2pGOsWFTHihsCG"
@@ -12830,7 +12848,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 139908,
       "name": "Chabos wissen wer der Babo ist",
       "url": "https://open.spotify.com/track/55M8uEwBvW9VuPjPZJsGnA"
@@ -16194,7 +16212,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 104400,
       "name": "De Madrug\u00e1",
       "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
@@ -16924,7 +16942,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -17062,7 +17080,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 130506,
       "name": "Dios Es Un Stalker",
       "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
@@ -18086,7 +18104,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -23678,7 +23696,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -30772,7 +30790,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -32134,7 +32152,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -34040,7 +34058,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 258613,
       "name": "La Yugular",
       "url": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
@@ -34332,7 +34350,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -42656,7 +42674,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 140373,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2"
@@ -50588,7 +50606,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -56766,7 +56784,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -58888,7 +58906,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -58906,7 +58924,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -61084,7 +61102,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -61102,7 +61120,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"

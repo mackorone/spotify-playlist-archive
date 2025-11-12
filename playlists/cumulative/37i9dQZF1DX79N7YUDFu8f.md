@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-287 songs - 16 hr 59 min
+289 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Don’t It Feel Good](https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Other People's Songs](https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD) | 4:48 | 2023-12-14 |  |
 | [Down The Line \(Acoustic\)](https://open.spotify.com/track/0sAypLPBNeIMSuiJtq8SKz) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Down The Line \(Acoustic\)](https://open.spotify.com/album/4Qg9EgLw5BhglDaZ2CtpkP) | 3:03 | 2023-09-21 |  |
 | [Down The Line \(Acoustic\)](https://open.spotify.com/track/1eHOfFemzsunjLponZYqdf) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Popular Problems](https://open.spotify.com/album/1mhmQBmR0fjaTEuDGRiXaK) | 3:03 | 2023-10-26 | 2024-04-19 |
-| [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 | 2021-11-24 |  |
+| [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 | 2021-11-24 | 2025-11-12 |
 | [Even on Bad Days](https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Even on Bad Days](https://open.spotify.com/album/02fIwZWAMLUPo5OI7LVnr9) | 4:38 | 2023-10-06 |  |
 | [Everything Grows](https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B) | 4:17 | 2023-02-23 |  |
 | [Everything Grows](https://open.spotify.com/track/7dTGW4xLjjkpEMGWdvGf4V) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/2aUUlYum6c8SSwLEdj0f1M) | 4:17 | 2023-04-27 | 2024-04-19 |
@@ -159,7 +159,9 @@
 | [Lovely Morning](https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/2prkEzgitQ8uM26lIjWLT3) | 3:53 | 2021-11-24 | 2025-02-04 |
 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-07-28 |  |
 | [Make It on Your Own](https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Make It on Your Own](https://open.spotify.com/album/6ZrAnpp2UrLMB3EHoTGEgt) | 2:55 | 2021-11-24 | 2025-02-21 |
+| [Manifestation](https://open.spotify.com/track/72kUwbFY7c0ZbLGgs8IYQw) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Manifestation](https://open.spotify.com/album/36mCsWyAK2arL5ikNX6ib0) | 3:13 | 2025-11-11 |  |
 | [matter \- acoustic](https://open.spotify.com/track/1A2W8FDYmlxVnw2rb8XjyT) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [matter \(acoustic\)](https://open.spotify.com/album/5vwWSs8ggvKAy3UoP6XNbT) | 3:01 | 2025-02-03 |  |
+| [Mi Corazón](https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Mi Corazón](https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb) | 3:15 | 2025-11-11 |  |
 | [Mind Games \- Single Version](https://open.spotify.com/track/5RTWrfRc2uAppjSBoFhwDV) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/5P3WYWP8vfv9nxpyrcchEo) | 3:02 | 2022-06-03 | 2022-08-07 |
 | [Mind Games \- Single Version](https://open.spotify.com/track/5p2QPQGojxx1vvr9RO90Zc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Mind Games](https://open.spotify.com/album/46hD6fRkBdOTynFXoxgT8y) | 3:02 | 2021-11-24 | 2025-03-22 |
 | [Mind Games \- Single Version](https://open.spotify.com/track/7tn4PbBRi6zJZrjj6FYGXg) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:02 | 2022-06-03 | 2024-04-19 |
@@ -247,7 +249,7 @@
 | [Surround Me](https://open.spotify.com/track/4aai1PoVGPcspMhmzOzpZN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:52 | 2022-06-03 | 2024-04-19 |
 | [Surround Me](https://open.spotify.com/track/6i09oKaV93wnEE5ighvD1E) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me](https://open.spotify.com/album/4k8SXyS6wqomsrdRT8gIWn) | 3:52 | 2021-11-24 | 2025-02-18 |
 | [Swords](https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Swords](https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW) | 3:23 | 2025-02-20 |  |
-| [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 | 2021-11-24 |  |
+| [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 | 2021-11-24 | 2025-11-12 |
 | [Take Me Home](https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv) | 3:01 | 2022-06-03 | 2024-04-19 |
 | [Teach Me How To Dance With You](https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built For Me](https://open.spotify.com/album/20lXEjOaY6Il72FTbsgOhM) | 3:24 | 2021-11-24 | 2025-02-04 |
 | [Teach Me How to Dance With You](https://open.spotify.com/track/7aYwpbYXKVvQtEXqZrqHIh) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/73EyE4D0ijagZHApIY7B2a) | 3:24 | 2024-03-14 | 2024-04-19 |

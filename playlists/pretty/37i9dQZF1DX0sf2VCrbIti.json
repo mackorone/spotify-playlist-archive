@@ -1,6 +1,6 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos.",
-  "num_followers": 2523,
+  "num_followers": 2525,
   "original_name": "\u00a1Felices Fiestas!",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 376372,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
     },
     {
       "added_at": "2025-10-24 15:29:30",

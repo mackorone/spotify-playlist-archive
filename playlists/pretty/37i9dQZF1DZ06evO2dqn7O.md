@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,184 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,182 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 35 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
 | 36 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
 | 37 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 |
-| 38 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 |
-| 39 | [Love Songs Drug Songs](https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:39 |
-| 40 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
+| 38 | [Love Songs Drug Songs](https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:39 |
+| 39 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
+| 40 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 |
 | 41 | [Follow the Sound of My Voice](https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 5:50 |
 | 42 | [Low Life](https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 4:40 |
 | 43 | [Unconsolable](https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 49 | [Alcohol \(with BRELAND\)](https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Alcohol \(with BRELAND\)](https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch) | 3:38 |
 | 50 | [Fallout](https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:18 |
 
-Snapshot ID: `aQ/ZgAAAAABKooVHK368jLcbg5/hGgWG`
+Snapshot ID: `aRErAAAAAACzSYP9d/9vQ2/gjZBcalA9`

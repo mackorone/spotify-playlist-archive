@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
-### [HOUSE MUSIC 2025 \| TOP 100 DANCE HITS 2025](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
+### [HOUSE MUSIC 2025 🪩 100 BEST DANCE HITS 2025](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025!
+> House Music 2025 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2025 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,325,421 likes - 105 songs - 5 hr 4 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,325,338 likes - 105 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 104 | [Hey DJ](https://open.spotify.com/track/2AthrfD1o1v3wIYIdJSJwi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:37 |
 | 105 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 |
 
-Snapshot ID: `AAAROklvG1fZmmodETm/TEiLlE0Jdc+8`
+Snapshot ID: `AAARO0tNDjuWFG1jEKFMr0ioyjN+rN6k`

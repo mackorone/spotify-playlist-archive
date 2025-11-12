@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10772,
+  "num_followers": 10795,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAoSlJU3BNEB2WMjSzpK5sG",
+  "snapshot_id": "aRErAAAAAABYlE3TrE8tqIs/jWxnX+cb",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
       },
       "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 190722,
-      "name": "Homens Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
+      "duration_ms": 179000,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
     },
     {
       "added_at": null,
@@ -127,26 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU"
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "added_at": null,
@@ -447,30 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALA VERMELHA #03 - Ajuliacosta",
-        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "duration_ms": 111157,
-      "name": "SALA VERMELHA #03 - Ajuliacosta",
-      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SALA VERMELHA #03 - Ajuliacosta",
+        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "SALA VERMELHA #03 - Ajuliacosta",
+      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
     },
     {
       "added_at": null,

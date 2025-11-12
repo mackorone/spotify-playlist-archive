@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,994 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,034 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 28 | [Amor De Unas Horas](https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 3:01 |
 | 29 | [Fuego Contra Fuego](https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 3:06 |
 | 30 | [Con Dinero Puedes \- Album Version \(Edited\)](https://open.spotify.com/track/1wVzAVsZt9UJGejCz4ZdAA) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:23 |
-| 31 | [La Baraja](https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 3:19 |
-| 32 | [Vestido Blanco](https://open.spotify.com/track/23atvyoGWt7BYOFrVrmKu6) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 3:00 |
+| 31 | [Vestido Blanco](https://open.spotify.com/track/23atvyoGWt7BYOFrVrmKu6) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 3:00 |
+| 32 | [La Baraja](https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 3:19 |
 | 33 | [Misa De Cuerpo Presente](https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [20 Corridos Bien Perrones](https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk) | 3:13 |
 | 34 | [Que Lástima](https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:52 |
 | 35 | [Y Que Ganaste](https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [Quiero Ver tus Ojos](https://open.spotify.com/track/3yWoJKSMdCWNd9oQCpjeEE) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 2:32 |
 | 50 | [Espero Que Él](https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 3:24 |
 
-Snapshot ID: `aQ/ZgAAAAADl7nU8u+KRNV9xUvrNiYrW`
+Snapshot ID: `aRErAAAAAACxL39FIWm5smPgnAQK6o2z`

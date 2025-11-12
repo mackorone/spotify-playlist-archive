@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 136218,
+  "num_followers": 136237,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAhONWG68yZprAm+sH527HK",
+  "snapshot_id": "aRErAAAAAAD4/hpiUsGagemMsGRu0n8P",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Glow of Love (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 373240,
-      "name": "The Glow of Love",
-      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 385506,
       "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
       "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Glow of Love (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 373240,
+      "name": "The Glow of Love",
+      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Bring Your Heart To Mine",
-      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Any Love",
         "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 337520,
       "name": "For You to Love",
       "url": "https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Bring Your Heart To Mine",
+      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+        "name": "The Night I Fell In Love",
+        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 382920,
-      "name": "Forever, for Always, for Love",
-      "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
+      "duration_ms": 245560,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night I Fell In Love",
-        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 245560,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
+      "duration_ms": 382920,
+      "name": "Forever, for Always, for Love",
+      "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
     },
     {
       "added_at": null,

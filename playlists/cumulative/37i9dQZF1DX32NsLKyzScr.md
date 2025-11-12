@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,327 songs - 3 day 0 hr 2 min
+1,328 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Day N' Night](https://open.spotify.com/track/66LNyfDQyuCVgczVJEdbRl) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Day N' Night](https://open.spotify.com/album/5z2Gcbr6lv7UPmGmB2mcl3) | 2:41 | 2020-09-21\* | 2021-02-06 |
 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 | 2023-01-13 | 2023-03-07 |
 | [Deals with the Devil](https://open.spotify.com/track/0jFc39se7POaOfpb1601om) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Deals with the Devil](https://open.spotify.com/album/0pTo4DQyQe0pLZM7htnd9M) | 2:53 | 2022-01-28 | 2022-04-02 |
+| [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 | 2025-11-03 |  |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-07-01 | 2024-04-19 |
 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 | 2024-01-26 | 2024-03-05 |
 | [Deep Sea \(with R3HAB\)](https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Deep Sea \(with R3HAB\)](https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc) | 2:35 | 2022-07-29 | 2023-04-11 |
@@ -947,7 +948,7 @@
 | [Running](https://open.spotify.com/track/4hsRzEQg0t9qgtB4iXEGB5) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Running](https://open.spotify.com/album/0vo1z2pTCnhlzrXgEmNlXw) | 3:05 | 2022-01-21 | 2022-09-27 |
 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 | 2022-01-04 | 2022-07-29 |
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-04-04 |  |
-| [Running Up That Hill](https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Running Up That Hill](https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF) | 3:29 | 2025-11-03 |  |
+| [Running Up That Hill](https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Running Up That Hill](https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF) | 3:29 | 2025-11-03 | 2025-11-12 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-14 | 2024-08-03 |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-10-06 | 2024-04-19 |
 | [Sacrifice](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj) | 2:40 | 2021-03-11 | 2021-09-18 |

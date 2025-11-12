@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,636 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 16 | [El Chango Lloron](https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:23 |
 | 17 | [Hey Hey Tu](https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:20 |
 | 18 | [Mas Caliente](https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:06 |
-| 19 | [OK MAMBO](https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [OK MAMBO](https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ) | 3:16 |
+| 19 | [LA PLEBADA](https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [LA PLEBADA](https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T) | 3:09 |
 | 20 | [Que Esto Que Lo Otro](https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:32 |
 | 21 | [La Gloria](https://open.spotify.com/track/1kYPGM806I2hx95bQw11GF) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:27 |
-| 22 | [LA PLEBADA](https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [LA PLEBADA](https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T) | 3:09 |
+| 22 | [OK MAMBO](https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [OK MAMBO](https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ) | 3:16 |
 | 23 | [El Pasadisco](https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:30 |
 | 24 | [Mil cartas.](https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:20 |
 | 25 | [SE BAILA ASÍ](https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [SE BAILA ASÍ](https://open.spotify.com/album/1p14Am9g2XTlsaAJzCUP5z) | 3:20 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 34 | [Creiste](https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 2:43 |
 | 35 | [Por Ella](https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 4:07 |
 | 36 | [Popurrí](https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl), [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [Popurrí](https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC) | 10:45 |
-| 37 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
+| 37 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [No Se Ha Dado Cuenta](https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r) | 2:22 |
 | 38 | [Mambo Caliente](https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:29 |
 | 39 | [Claridad](https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:38 |
-| 40 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [No Se Ha Dado Cuenta](https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r) | 2:22 |
+| 40 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
 | 41 | [Cosa Caliente](https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Cosa Caliente](https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT) | 2:57 |
 | 42 | [Que Bonita Te Ves](https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:20 |
 | 43 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 49 | [Hombre Muerto](https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:42 |
 | 50 | [Popurrí: Charanga / Pachanga](https://open.spotify.com/track/1ZJYFOo6v9v4Y9r2I3W3eS) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 7:18 |
 
-Snapshot ID: `aQ/ZgAAAAABdJFVwTynuTkEO9coYVNL+`
+Snapshot ID: `aRErAAAAAADdtf91a8BQtZtOqliISWVi`

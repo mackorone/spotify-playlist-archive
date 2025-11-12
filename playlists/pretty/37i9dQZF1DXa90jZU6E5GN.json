@@ -1,6 +1,6 @@
 {
   "description": "ain't no country boy quitter \ud83d\udc8b",
-  "num_followers": 271162,
+  "num_followers": 271152,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-09-12 04:00:18",
       "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night",
+      "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "added_at": "2025-09-12 04:00:18",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 208306,
       "name": "Heads Carolina, Tails California",
       "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
-    },
-    {
-      "added_at": "2025-09-12 04:00:18",
-      "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night",
-      "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
     },
     {
       "added_at": "2025-09-12 04:00:18",

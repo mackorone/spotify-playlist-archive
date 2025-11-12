@@ -4,7 +4,7 @@
 
 > Brand new music from ROSALÍA, Gorillaz, Digga D and more!
 
-19,234 songs - 43 day 8 hr 17 min
+19,234 songs - 43 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9655,7 +9655,7 @@
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-08 | 2024-08-16 |
 | [Lifetones](https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [All The Quiet \(Part I\)](https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7) | 8:07 | 2025-03-28 | 2025-04-04 |
 | [Lift Me Up](https://open.spotify.com/track/4rKW43kduFZw8OsBmkNG9m) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up](https://open.spotify.com/album/4z4oGhZVugYZfPrgeuomfo) | 2:55 | 2025-11-07 | 2025-11-08 |
-| [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 5:11 | 2025-11-07 |  |
+| [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 2:55 | 2025-11-07 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2022-11-04 |
 | [lift off!](https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [lift off!](https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08) | 3:34 | 2024-07-11 | 2024-07-19 |
 | [Lift You Up](https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lift You Up](https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya) | 3:47 | 2024-07-04 | 2024-07-12 |

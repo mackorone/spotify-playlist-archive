@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Danny Vera
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,052 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,037 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plastic Jesus](https://open.spotify.com/track/0KVwciQag47CcNY3VfzqId) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [The Way Home](https://open.spotify.com/album/2bjURBzkemslFuEbyntUFy) | 3:02 |
 | 2 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
-| 3 | [Caught a Light \(Mantra\)](https://open.spotify.com/track/7E5Lv8xhVVvk1dTMgR7KB3) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Neco Novellas](https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe) | [Caught a Light \(Mantra\)](https://open.spotify.com/album/78WSxWezMa8GuWtPCMKyGT) | 4:22 |
-| 4 | [Melodies \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Melodies \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c) | 2:37 |
-| 5 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
-| 6 | [Il mio giorno preferito](https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:26 |
-| 7 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
-| 8 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
+| 3 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
+| 4 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
+| 5 | [Caught a Light \(Mantra\)](https://open.spotify.com/track/7E5Lv8xhVVvk1dTMgR7KB3) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Neco Novellas](https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe) | [Caught a Light \(Mantra\)](https://open.spotify.com/album/78WSxWezMa8GuWtPCMKyGT) | 4:22 |
+| 6 | [Melodies \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Melodies \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c) | 2:37 |
+| 7 | [Il mio giorno preferito](https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:26 |
+| 8 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
 | 9 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 10 | [Bones](https://open.spotify.com/track/55KnFJZVQEsS9aEKni2XQ0) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv) | 2:51 |
 | 11 | [For Always](https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 79 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
 | 80 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 
-Snapshot ID: `AAAAAO/2WU6+LO0jdRY2PD6euLKnz9rD`
+Snapshot ID: `AAAAAM2QCsxO/xvLrKd4vMN/lesuF9wJ`

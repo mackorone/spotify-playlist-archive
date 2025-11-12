@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 41241,
+  "num_followers": 41253,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAACkYpLuJ7/c11k3l0M8HCv",
+  "snapshot_id": "aRErAAAAAAAVBLZoyD1GNJ6NANfgHucO",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero No Tenia (En Vivo)",
-        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 208107,
-      "name": "Dinero No Tenia - En Vivo",
-      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El R2",
         "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 152351,
       "name": "EL R2",
       "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dinero No Tenia (En Vivo)",
+        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 208107,
+      "name": "Dinero No Tenia - En Vivo",
+      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Ahora Resulta",
-        "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
+        "name": "D.M.8.",
+        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
       },
       "artists": [
         {
@@ -300,13 +300,13 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
         }
       ],
-      "duration_ms": 213907,
-      "name": "Y Ahora Resulta",
-      "url": "https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62"
+      "duration_ms": 271541,
+      "name": "D.M.8.",
+      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.M.8.",
-        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
+        "name": "Y Ahora Resulta",
+        "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
       },
       "artists": [
         {
@@ -340,13 +340,13 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Miguel Comando",
-          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
         }
       ],
-      "duration_ms": 271541,
-      "name": "D.M.8.",
-      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
+      "duration_ms": 213907,
+      "name": "Y Ahora Resulta",
+      "url": "https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,293 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,364 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 32 | [Smoke & Mirrors](https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 4:26 |
 | 33 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 |
 | 34 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
-| 35 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
-| 36 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
+| 35 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
+| 36 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
 | 37 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 38 | [Nova](https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Permutation](https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp) | 4:42 |
 | 39 | [That Girl](https://open.spotify.com/track/3YMaXtFpBiLRuZIiokJ9DR) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 4:40 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 48 | [The Garden](https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5) | [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [The Audience's Listening \(U.S\. Version\)](https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi) | 6:15 |
 | 49 | [Purrfect](https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 4:50 |
 | 50 | [The Hardest](https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl) | [Gasoline](https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp) | [Journey Into Abstract Hip Hop](https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1) | 4:02 |
-| 51 | [Emkay](https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:25 |
-| 52 | [Never the Same](https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 4:03 |
+| 51 | [Never the Same](https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 4:03 |
+| 52 | [Emkay](https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:25 |
 | 53 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
 | 54 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 |
 | 55 | [Trigger Hippie](https://open.spotify.com/track/6xHg7kRpRWH5slVZM39bSD) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 5:31 |
-| 56 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
-| 57 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
+| 56 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
+| 57 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 58 | [Near the Black Forest](https://open.spotify.com/track/5DqgAiif05gAXy4qC5ag17) | [Vanessa Daou](https://open.spotify.com/artist/0r13pf5aRSEWKl7m7qMXXT) | [Zipless \(Songs from the Works of Erica Jong\)](https://open.spotify.com/album/3IWegipqP4WNAIMGon5KyK) | 4:46 |
 | 59 | [Under the Gun](https://open.spotify.com/track/55G3VZAmkOyyfKI189ayv1) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 3:30 |
 | 60 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |

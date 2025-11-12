@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 99914,
+  "num_followers": 99921,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAACtJvTiLgQXoH4B8lr2IYm",
+  "snapshot_id": "aRErAAAAAAAaGMOKH7q+HePKLoDVaMhe",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 144243,
-      "name": "if we never met (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 201343,
       "name": "the other girl (with Halsey)",
       "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 144243,
+      "name": "if we never met (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 182453,
-      "name": "WAIT!",
-      "url": "https://open.spotify.com/track/6l9ponCrul5GMirw4xqwVc"
+      "duration_ms": 172146,
+      "name": "I Would, Would You",
+      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 172371,
-      "name": "Better Luck Next Time",
-      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+      "duration_ms": 221306,
+      "name": "This Time Last Year",
+      "url": "https://open.spotify.com/track/4spDTrYXQbHgjwi3Wcxbzk"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 172146,
-      "name": "I Would, Would You",
-      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
+      "duration_ms": 182453,
+      "name": "WAIT!",
+      "url": "https://open.spotify.com/track/6l9ponCrul5GMirw4xqwVc"
     },
     {
       "added_at": null,
@@ -635,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "This Time Last Year",
-      "url": "https://open.spotify.com/track/4spDTrYXQbHgjwi3Wcxbzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
@@ -683,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
@@ -692,9 +660,25 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 244466,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS (Stripped Session)",
-        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Patterns (Stripped Version)",
-      "url": "https://open.spotify.com/track/66bSYZvPiscwMLvQQdGxqN"
+      "duration_ms": 244466,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
     },
     {
       "added_at": null,
@@ -747,6 +731,38 @@
       "duration_ms": 186906,
       "name": "Beg For Your Love",
       "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS (Stripped Session)",
+        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Patterns (Stripped Version)",
+      "url": "https://open.spotify.com/track/66bSYZvPiscwMLvQQdGxqN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/2EHJKVCpaZVujHYTOUt5bp"
     },
     {
       "added_at": null,
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+        "name": "PATTERNS (DELUXE)",
+        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
       "artists": [
         {
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/2EHJKVCpaZVujHYTOUt5bp"
+      "duration_ms": 223213,
+      "name": "First Rodeo",
+      "url": "https://open.spotify.com/track/6HHQ2d7MMqoc1x6nXki8m3"
     },
     {
       "added_at": null,
@@ -803,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS (DELUXE)",
-        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 223213,
-      "name": "First Rodeo",
-      "url": "https://open.spotify.com/track/6HHQ2d7MMqoc1x6nXki8m3"
+      "duration_ms": 198053,
+      "name": "Just Married",
+      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Just Married",
-      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

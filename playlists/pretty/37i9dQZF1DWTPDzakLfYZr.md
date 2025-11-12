@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Juan Duque
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,691 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,665 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 | 42 | [Amor en Coma](https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Amor en Coma](https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2) | 3:19 |
 | 43 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
 | 44 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 |
-| 45 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:08 |
+| 45 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:07 |
 | 46 | [Sussy](https://open.spotify.com/track/7BwTusOtnCb1TDnwfwqALe) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Sussy](https://open.spotify.com/album/45DC2xHGmXJcQxqd5gyoMM) | 3:14 |
 | 47 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 |
 | 48 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 49 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 |
-| 50 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:59 |
+| 50 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:57 |
 | 51 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 52 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
 | 53 | [Lejos De Mis Ojos](https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lejos De Mis Ojos](https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un) | 2:56 |

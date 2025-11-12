@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: Stella Hennen\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,536 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,538 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

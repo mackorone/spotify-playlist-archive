@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 220201,
+  "num_followers": 220203,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
+        "name": "Find A Home Out There",
+        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Find A Home Out There",
+      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
         "name": "Tennessee",
         "url": "https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s"
       },
@@ -551,38 +571,18 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Find A Home Out There",
-        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6"
       },
       "artists": [
         {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
         }
       ],
-      "duration_ms": 206440,
-      "name": "Find A Home Out There",
-      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
-        "name": "A Chosen Family",
-        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "I Let the Good Ones Go",
-      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+      "duration_ms": 198333,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -603,18 +603,18 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6"
+        "name": "A Chosen Family",
+        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
       "artists": [
         {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
+      "duration_ms": 235392,
+      "name": "I Let the Good Ones Go",
+      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
       "added_at": "2025-10-23 22:00:54",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-10-23 22:00:54",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7"
-      },
-      "artists": [
-        {
-          "name": "Maren Lein",
-          "url": "https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq"
-        }
-      ],
-      "duration_ms": 181187,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg"
-    },
-    {
-      "added_at": "2025-10-23 22:00:54",
-      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2025-10-23 22:00:54",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7"
+      },
+      "artists": [
+        {
+          "name": "Maren Lein",
+          "url": "https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq"
+        }
+      ],
+      "duration_ms": 181187,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg"
     },
     {
       "added_at": "2025-10-23 22:00:54",

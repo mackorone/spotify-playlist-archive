@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,561 likes - 222 songs - 9 hr 35 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,586 likes - 222 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 47 | [Ocean Drive](https://open.spotify.com/track/7N0Atz2eQesZyTY12zcrcD) | [Alena Kita](https://open.spotify.com/artist/7LTWM8PV0mAaqfP6a7krq9) | [Ocean Drive](https://open.spotify.com/album/4HbnYh9b5QLGB4WBcXPlKt) | 3:04 |
 | 48 | [Under The Sun](https://open.spotify.com/track/5RtKqmLXgmg3wGs59MtyEv) | [F3DE](https://open.spotify.com/artist/1Nl4T9IMmYtAiblMLKRbpH), [Giorgio Ragusa](https://open.spotify.com/artist/1QCEEDQqnVWASzqN3gbwu3), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Under The Sun](https://open.spotify.com/album/1tsTDGKub4w9zZWnmokoXB) | 3:12 |
 | 49 | [Easier](https://open.spotify.com/track/7E8UkZrPENsi35NDiGpR8F) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw), [Ma Nu](https://open.spotify.com/artist/5sEdpecv6jz6ZpTpBzYlhR) | [Easier](https://open.spotify.com/album/0TH7ZDydq8Uzylk8yC1SCF) | 2:13 |
-| 50 | [Cigarette Daydreams](https://open.spotify.com/track/4xjj8Z3Rgu1ZEdKlBsk117) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E), [Tim Goldn](https://open.spotify.com/artist/1sd8Wm3zt7VgoUMOO5Zfj3) | [Cigarette Daydreams](https://open.spotify.com/album/7xanVq3fHOsfqQcplYz9zu) | 2:31 |
+| 50 | [Cigarette Daydreams](https://open.spotify.com/track/4xjj8Z3Rgu1ZEdKlBsk117) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Angie Robba](https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4), [Tim Goldn](https://open.spotify.com/artist/1sd8Wm3zt7VgoUMOO5Zfj3) | [Cigarette Daydreams](https://open.spotify.com/album/7xanVq3fHOsfqQcplYz9zu) | 2:31 |
 | 51 | [Moment](https://open.spotify.com/track/11fQ56KIXCrTjuln0h7juk) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Moment](https://open.spotify.com/album/2CNAQaxB5Iipkr7igjWN5v) | 2:00 |
 | 52 | [Just A Lie](https://open.spotify.com/track/7cyGzM05jzGUV8LmC8busl) | [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Just A Lie](https://open.spotify.com/album/02DSb561uuCiuyJg1NCQHK) | 2:16 |
 | 53 | [Show Me The Way](https://open.spotify.com/track/4LRAxZ4t3Z4HnCl7Ff6g9Q) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Show Me The Way](https://open.spotify.com/album/1ponlqSJmxlYHiqw0QQSpN) | 2:28 |

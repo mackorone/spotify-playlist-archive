@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Logan Staats
 
-633 songs - 1 day 14 hr 23 min
+634 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-06-06 |  |
 | [Empty Hands](https://open.spotify.com/track/18vqU2qFGKhbtjXLUivJdV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Empty Hands](https://open.spotify.com/album/6z88uxD3m9LV5nEpsJATG3) | 4:21 | 2022-11-11 | 2023-04-22 |
 | [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 | 2023-08-25 | 2024-02-07 |
+| [Especially a Paint \- Dark Horse Acoustic](https://open.spotify.com/track/6ZuKLsikgjxC0YHon3tnA1) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Horse Soldier! Horse Soldier! \(Dark Horse Edition\)](https://open.spotify.com/album/6wr4NvzNS05jqbx2WEgkl2) | 2:54 | 2025-11-07 |  |
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-04-28 | 2025-10-18 |
 | [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 | 2025-10-06 |  |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 | 2022-07-23 |
@@ -212,7 +213,7 @@
 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 | 2023-04-21 | 2024-02-18 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-24 | 2025-10-18 |
 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 | 2023-04-14 | 2025-08-20 |
-| [Five and Ten](https://open.spotify.com/track/4R9F8FgETaeTfazujTfnQA) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba) | [Five and Ten](https://open.spotify.com/album/2j13SC2Ho59cn3kIBJSOxc) | 3:31 | 2025-10-24 |  |
+| [Five and Ten](https://open.spotify.com/track/4R9F8FgETaeTfazujTfnQA) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba) | [Five and Ten](https://open.spotify.com/album/2j13SC2Ho59cn3kIBJSOxc) | 3:31 | 2025-10-24 | 2025-11-12 |
 | [Fix on the Tailwind](https://open.spotify.com/track/3bRwWeg1iB4hrStJqlDBKg) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Fix on the Tailwind](https://open.spotify.com/album/0uFKlO7rBufrhgW5pomf1V) | 2:27 | 2024-06-21 | 2024-07-06 |
 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 | 2023-03-17 | 2023-04-22 |
 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 | 2023-03-24 | 2023-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,476 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,654 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Désolé \(feat\. Fatoumata Diawara\) \- Extended Version](https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 5:33 |
 | 50 | [We Got the Power \(feat\. Jehnny Beth\) \- Claptone Remix](https://open.spotify.com/track/68JZIPnGZxbExNeSb6KslW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [We Got the Power \(feat\. Jehnny Beth\) \[Claptone Remix\]](https://open.spotify.com/album/06RqqeArD7wnwaNBZrY71a) | 6:04 |
 
-Snapshot ID: `aQ/ZgAAAAAACyhoozq14alP5CwcqYsnq`
+Snapshot ID: `aRErAAAAAADZMacBkc+sjPa7k3JaSBoE`

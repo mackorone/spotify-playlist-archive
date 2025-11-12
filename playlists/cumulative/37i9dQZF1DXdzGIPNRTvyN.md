@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-367 songs - 17 hr 22 min
+368 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Seraphina Woods](https://open.spotify.com/track/1Lr6cJOM3mN15AsGox2k5I) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Seraphina Woods](https://open.spotify.com/album/37Cby65UbMz5qWGaay3ABk) | 2:22 | 2025-03-14 |  |
 | [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 | 2024-11-28 |  |
 | [Shallow Water](https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Shallow Water](https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo) | 2:44 | 2023-10-26 |  |
-| [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 | 2023-03-13 |  |
+| [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 | 2023-03-13 | 2025-11-12 |
 | [Signs Of Life](https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Signs Of Life](https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S) | 2:55 | 2024-03-05 |  |
 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2024-12-20 |  |
 | [Silence Bleu](https://open.spotify.com/track/0vUB9CWJHm446MU9wzFETo) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Silence Bleu](https://open.spotify.com/album/5OTey3b2Heh6LE2JOOeCPp) | 2:53 | 2025-10-01 |  |
@@ -367,6 +367,7 @@
 | [Upstream](https://open.spotify.com/track/2AczRHkxLS55yTDtyy5Hrr) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Upstream](https://open.spotify.com/album/2PLOlM8ygtam36gb7MOYMI) | 2:38 | 2023-08-21 | 2024-08-23 |
 | [Volans In Silva](https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Volans In Silva](https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG) | 3:06 | 2023-03-13 | 2024-06-04 |
 | [Waking Peacefully \(by a Forest Stream\)](https://open.spotify.com/track/17rfyrqT5cHsqJ51qlO1gM) | [Forlorn Light](https://open.spotify.com/artist/1lh84CpK8jFmCG7TFFUSao) | [Gentle Caress & Waking Peacefully](https://open.spotify.com/album/6iPI6hMJ0ntaN15enndpNv) | 3:44 | 2024-08-22 |  |
+| [Warm Mist](https://open.spotify.com/track/36CvZfRCWOtV0CnDfbvIbE) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Warm Mist](https://open.spotify.com/album/26HZv5Pb4v5ISn6IET9T6w) | 2:49 | 2025-10-24 |  |
 | [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 | 2023-01-24 | 2023-09-06 |
 | [Wayanad](https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Wayanad](https://open.spotify.com/album/1QeAo6C6W5TPwj7cPqFbQn) | 3:01 | 2023-09-28 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-01-24 | 2023-05-20 |

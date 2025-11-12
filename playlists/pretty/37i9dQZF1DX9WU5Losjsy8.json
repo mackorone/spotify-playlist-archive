@@ -1,6 +1,6 @@
 {
   "description": "Bald gehts wieder auf zur H\u00fctten Gaudi!",
-  "num_followers": 478074,
+  "num_followers": 478113,
   "original_name": "Apr\u00e8s Ski Party 2025",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-11-07 13:25:18",
       "album": {
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+    },
+    {
+      "added_at": "2025-11-07 13:25:18",
+      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
-    },
-    {
-      "added_at": "2025-11-07 13:25:18",
-      "album": {
-        "name": "3er",
-        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
-      },
-      "artists": [
-        {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "3er",
-      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-07 13:25:18",
       "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
-    },
-    {
-      "added_at": "2025-11-07 13:25:18",
-      "album": {
         "name": "Lampen an",
         "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 145341,
       "name": "Lampen an",
       "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
+    },
+    {
+      "added_at": "2025-11-07 13:25:18",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -923,8 +923,8 @@
     {
       "added_at": "2025-11-07 13:25:18",
       "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2025-11-07 13:25:18",
       "album": {
-        "name": "Finchi's Love Tape",
-        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 170773,
-      "name": "FiNCHiBOY",
-      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -1043,6 +1043,22 @@
       "duration_ms": 181553,
       "name": "Nachbarn",
       "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+    },
+    {
+      "added_at": "2025-11-07 13:25:18",
+      "album": {
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -1079,22 +1095,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2025-11-07 13:25:18",
-      "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-11-07 13:25:18",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
-      },
-      "artists": [
-        {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
-    },
-    {
-      "added_at": "2025-11-07 13:25:18",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1331,22 +1311,22 @@
     {
       "added_at": "2025-11-07 13:25:18",
       "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
         },
         {
-          "name": "Marc Pircher",
-          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 239466,
-      "name": "7 S\u00fcnden - Party Mix",
-      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -1383,6 +1363,26 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
+    },
+    {
+      "added_at": "2025-11-07 13:25:18",
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     },
     {
       "added_at": "2025-11-07 13:25:18",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-11-07 13:25:18",
       "album": {
+        "name": "Mut zur Katastrophe (Gold Edition)",
+        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ott",
+          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "Regenbogenfarben",
+      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
+    },
+    {
+      "added_at": "2025-11-07 13:25:18",
+      "album": {
         "name": "Hallo kleine Maus",
         "url": "https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 170180,
       "name": "Hallo kleine Maus",
       "url": "https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd"
-    },
-    {
-      "added_at": "2025-11-07 13:25:18",
-      "album": {
-        "name": "Mut zur Katastrophe (Gold Edition)",
-        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ott",
-          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Regenbogenfarben",
-      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
     },
     {
       "added_at": "2025-11-07 13:25:18",

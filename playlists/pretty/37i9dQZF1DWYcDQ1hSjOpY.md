@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,080,031 likes - 376 songs - 17 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,080,251 likes - 376 songs - 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

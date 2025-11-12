@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,007 songs - 2 day 2 hr 31 min
+1,008 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Bella](https://open.spotify.com/track/3g2uFPgKsfvZT663X2NUpJ) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Bella](https://open.spotify.com/album/36pzQxkgpK42HtKQQs7CPf) | 2:35 | 2022-04-07 | 2022-04-22 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-26 | 2024-08-25 |
 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 | 2025-03-06 | 2025-10-01 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-11-11 |  |
 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2023-01-12 | 2023-09-22 |
 | [BETONGEN \(feat\. 23\)](https://open.spotify.com/track/1kQxuSynVq0OtpmnVjuf0g) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [ASKER](https://open.spotify.com/album/2FBCD1CwSiLcZANLypghei) | 2:18 | 2024-01-12 | 2024-01-30 |
 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 | 2022-07-21 | 2022-07-29 |
@@ -755,7 +756,7 @@
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-03 | 2022-05-07 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-27 | 2022-11-18 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-12-16 | 2022-05-14 |
-| [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-11 |  |
+| [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-11 | 2025-11-12 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-19 | 2022-09-23 |
 | [Shut Up](https://open.spotify.com/track/0oIeGuhmaT9nvA2bCG66Ft) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF) | 2:12 | 2022-11-17 | 2022-11-30 |
 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 | 2022-11-28 | 2023-02-01 |

@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-215 songs - 12 hr 46 min
+216 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Come Back](https://open.spotify.com/track/4wcFfoHSRyHqpaDiN6zw4q) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Come Back](https://open.spotify.com/album/0HhNGWt104FJtcGV1DG7xA) | 3:15 | 2021-12-28 | 2022-03-17 |
 | [Confam](https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:43 | 2022-11-12 | 2024-02-13 |
 | [CONFETTI](https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 1:40 | 2024-05-26 | 2025-05-29 |
-| [Confirm \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/5faNR7l2oKzCAh9Hpnjnxg) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Disturbation](https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6) | 3:43 | 2025-08-31 |  |
+| [Confirm \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/5faNR7l2oKzCAh9Hpnjnxg) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Disturbation](https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6) | 3:43 | 2025-08-31 | 2025-11-12 |
 | [Cougar \(feat\. Lojay\)](https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:29 | 2022-11-13 | 2024-03-26 |
 | [Country Side](https://open.spotify.com/track/567DMZPOOlODWvhW9ElmWI) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jamz](https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp) | 3:40 | 2025-09-16 |  |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2022-11-12 | 2025-09-16 |
@@ -156,6 +156,7 @@
 | [Odo Dede](https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [L.I.T.A \(Deluxe Edition\)](https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1) | 3:56 | 2023-06-25 | 2023-12-14 |
 | [OLOLUFE](https://open.spotify.com/track/1C4ndHztUaefeUlbCue2wt) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:20 | 2024-09-22 |  |
 | [Oluwa Ni](https://open.spotify.com/track/1qvdbnfzyr7OdfoU1AN5Wk) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [SPOTLIGHT](https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9) | 3:30 | 2022-09-19 | 2022-09-21 |
+| [Oluwa Ni \(Wemi You\)](https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz) | 3:17 | 2025-11-12 |  |
 | [One Chance \(feat\. Timaya\)](https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:04 | 2021-12-28 | 2022-10-13 |
 | [One Million Cedis \(feat\. Ink Boy\)](https://open.spotify.com/track/4eMTkiQRtQKzFgvE5tD4gN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 2:45 | 2022-11-12 | 2023-10-02 |
 | [One Shot \(feat\. Shatta Wale & Sarkodie\)](https://open.spotify.com/track/2uhNP5JVU6OVoL5lOvH1tR) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [One Shot \(feat\. Shatta Wale & Sarkodie\)](https://open.spotify.com/album/67FjgBHWQh0hxSiGJOeaZm) | 3:40 | 2021-12-28 | 2024-02-03 |

@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 68798,
+  "num_followers": 68832,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
     },
     {
       "added_at": "2024-07-05 02:05:16",

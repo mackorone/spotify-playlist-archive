@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,106,315 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,106,765 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 13 | [Addicted](https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Addicted](https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R) | 3:12 |
 | 14 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
 | 15 | [kill for me?](https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [kill for me?](https://open.spotify.com/album/6R73G7Td2TIms6bEKqA2zk) | 2:40 |
-| 16 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
-| 17 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
+| 16 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
+| 17 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 18 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 |
 | 19 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 20 | [Believe It](https://open.spotify.com/track/0a3lhwW1nJ3Ud9Un2kFunh) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [Believe It](https://open.spotify.com/album/1KFOY5fOpzO6tWjsQYQ1lh) | 2:51 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 54 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 55 | [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 |
 | 56 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
-| 57 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
-| 58 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 |
+| 57 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 |
+| 58 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 59 | [Closer](https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 6:13 |
 | 60 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 61 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 80 | [Favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 81 | [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \- Remix](https://open.spotify.com/track/5wNDRMkoysXZGiW4ja5Tik) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \[Remix\]](https://open.spotify.com/album/1hLsMn21FEUQoPoc05hXw8) | 2:45 |
 | 82 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
-| 83 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 |
+| 83 | [Spit](https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Corpus I](https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm) | 4:00 |
 | 84 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
-| 85 | [Spit](https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Corpus I](https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm) | 4:00 |
+| 85 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 |
 | 86 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
 | 87 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
 | 88 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |

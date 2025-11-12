@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BUS
 
-798 songs - 1 day 23 hr 2 min
+799 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Heart Poppin'](https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [Heart Poppin'](https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09) | 3:29 | 2025-02-27 | 2025-03-13 |
 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-07 | 2022-10-27 |
 | [HEARTCASE](https://open.spotify.com/track/6BAiUeSqRDDDIz8X3V5haW) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [HEARTCASE](https://open.spotify.com/album/0hY7fcr5136UIaQGzuoULv) | 3:55 | 2024-06-13 | 2024-06-21 |
-| [Heartquake](https://open.spotify.com/track/3AHKsP3e8iMqm92VP2NzHw) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Heartquake](https://open.spotify.com/album/2hFZ2m73QwTpdVrirkt1Vx) | 3:00 | 2025-10-23 |  |
+| [Heartquake](https://open.spotify.com/track/3AHKsP3e8iMqm92VP2NzHw) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Heartquake](https://open.spotify.com/album/2hFZ2m73QwTpdVrirkt1Vx) | 3:00 | 2025-10-23 | 2025-11-12 |
 | [heartstopper](https://open.spotify.com/track/5cnNLM3xWUXqVLXtvH8ZQa) | [MABELZ PiXXiE](https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5) | [heartstopper](https://open.spotify.com/album/2ry2AJIjzcmrH0o2qMynKL) | 3:14 | 2024-11-07 | 2025-02-28 |
 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 | 2023-04-27 | 2023-05-12 |
 | [Hip Chain](https://open.spotify.com/track/4vwJnfsN2mwrdGyqefuYbK) | [SYR3N](https://open.spotify.com/artist/0he3XooTiXbx2EkVCbLZ6V), [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Hip Chain](https://open.spotify.com/album/0joHpveH6ZB71XZeRBHrm6) | 3:38 | 2025-10-09 | 2025-10-17 |
@@ -446,6 +446,7 @@
 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0ZhLq2xUkUlc3YPuoWa6SE) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 | 2022-08-18 | 2023-07-22 |
 | [ปสด \(WTH\)](https://open.spotify.com/track/485mVs5B5ADp7WlqFB3ggt) | [ily](https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre) | [ปสด \(WTH\)](https://open.spotify.com/album/1nrw6CHbemgtLx2gfy8sNm) | 4:12 | 2025-10-16 | 2025-10-30 |
 | [ปังปัง \(Unit Grande\)](https://open.spotify.com/track/4FSpUOfa8dLaT6hULA1W23) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ปังปัง \(Unit Grande\)](https://open.spotify.com/album/0ddQPOtTCIt3kMku9b0muZ) | 3:02 | 2023-06-01 | 2023-06-09 |
+| [ปากหนัก \(Too Late\)](https://open.spotify.com/track/1UwG1bhUPFpnICDg1hC6Vk) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [ปากหนัก \(Too Late\)](https://open.spotify.com/album/284lPIQeWQxn7huMDTYMvr) | 4:17 | 2025-11-11 |  |
 | [ปิดทองหลังใจ](https://open.spotify.com/track/2Zt8K9ax9jiyUd0cDFCefJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ปิดทองหลังใจ](https://open.spotify.com/album/4COwnk7FKBbscPxGfLRbXy) | 3:11 | 2023-08-07 | 2023-09-29 |
 | [ปิ๊งไปป่ะ \(So Bright Baby\)](https://open.spotify.com/track/382vyfu2u0M8D8ixdoHsd2) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ปิ๊งไปป่ะ \(So Bright Baby\)](https://open.spotify.com/album/1szv6EkOzZsRg5YlRRGDjp) | 2:39 | 2024-02-15 | 2024-02-29 |
 | [ปีนไม่ไหว \- From Future วิศวะสุดหล่อกับคุณหมอของผม](https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm) | [Bever Patsapon](https://open.spotify.com/artist/4OV6Ord5kzWXZC2agBXlXK) | [ปีนไม่ไหว \(From Future วิศวะสุดหล่อกับคุณหมอของผม\)](https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0) | 3:36 | 2023-02-23 | 2023-03-03 |

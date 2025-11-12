@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,380 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,376 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

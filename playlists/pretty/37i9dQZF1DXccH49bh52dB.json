@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 711913,
+  "num_followers": 712082,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Waves (Robin Schulz Radio Edit)",
-        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Waves - Robin Schulz Radio Edit",
-      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Edge of Desire",
         "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Waves (Robin Schulz Radio Edit)",
+        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Waves - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Could You Be Loved (with LP Giobbi)",
         "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 286879,
       "name": "Could You Be Loved (with LP Giobbi)",
       "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Fade Out Lines - The Avener Rework",
+      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "The Wanderings Of The Avener",
-        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
-      },
-      "artists": [
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        },
-        {
-          "name": "Phoebe Killdeer",
-          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Fade Out Lines - The Avener Rework",
-      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 228125,
       "name": "To Love Again",
       "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2025-10-17 04:00:45",

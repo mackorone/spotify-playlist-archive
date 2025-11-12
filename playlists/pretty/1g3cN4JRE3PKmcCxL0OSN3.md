@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,595 songs - 3 day 21 hr 43 min
+[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,607 songs - 3 day 22 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1603,5 +1603,17 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1593 | [The Heart Part 5](https://open.spotify.com/track/5qbhVL3vB7HwWvb0042B7y) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:32 |
 | 1594 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 |
 | 1595 | [want to wanna come back](https://open.spotify.com/track/7vj6EKIA3mbDGWBvRLRidz) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough \(Deluxe\)](https://open.spotify.com/album/1TaVbSLBnUQwfcld3tDAUI) | 2:46 |
+| 1596 | [Copycats](https://open.spotify.com/track/2NJDGk8pc3f7f3FisD7YKu) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 2:51 |
+| 1597 | [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 5:07 |
+| 1598 | [Gmail](https://open.spotify.com/track/1oU2vrVzQxqoZJZSw80Ven) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:36 |
+| 1599 | [Ego Death At A Bachelorette Party](https://open.spotify.com/track/1BgDib1sU5Rkp0QJEsxbng) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:19 |
+| 1600 | [I Know](https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:55 |
+| 1601 | [Love Me Different](https://open.spotify.com/track/11aT4oah0rvMZuu2cNzlEg) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:32 |
+| 1602 | [Aerodynamic](https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:32 |
+| 1603 | [viscus](https://open.spotify.com/track/6T3sDq6ZvxJFZy09GDJv3K) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus](https://open.spotify.com/album/4FdVScI1rbjtt8GDD5H59t) | 3:40 |
+| 1604 | [harvest sky](https://open.spotify.com/track/3M8bJdRfYj1S5iKZIgwAnH) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 3:53 |
+| 1605 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 |
+| 1606 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
+| 1607 | [Royal Flush \(feat\. Vinny Radio\)](https://open.spotify.com/track/0S5LZJ2SBqoJ4h31Xiwcu6) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vinny Radio](https://open.spotify.com/artist/3MYeNcgeOjPzfwCgXGw5X2) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 3:32 |
 
-Snapshot ID: `AAAFbZOrJ4KgNhud5UW+yy3iYi2IuSIq`
+Snapshot ID: `AAAFbjn0LA+NkCFX/ZWvR4rv04c6b8pU`

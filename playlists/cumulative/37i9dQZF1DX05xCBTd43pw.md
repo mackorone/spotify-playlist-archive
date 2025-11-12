@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-439 songs - 22 hr 40 min
+440 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Good Love](https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Good Love](https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r) | 2:45 | 2024-09-27 | 2024-11-27 |
 | [Gray Area](https://open.spotify.com/track/4GsVYuOnWXpxx4QsShrSOt) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [GIOVANNA](https://open.spotify.com/artist/4dKNVy72FShsqA2JJrkaHb) | [September](https://open.spotify.com/album/7JZSZvM0rik8GhhP1bD9EP) | 2:11 | 2025-09-19 | 2025-10-24 |
 | [Grow Back Closer](https://open.spotify.com/track/34LXwfyeIEMRzwgia7PVGN) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Grow Back Closer](https://open.spotify.com/album/6EwdQ75QzYRgFzrPtOqvVG) | 3:24 | 2025-03-21 | 2025-06-14 |
+| [Grown Ass Woman](https://open.spotify.com/track/6xPSyPFe1GmclK4KmMjp0m) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Grown Ass Woman](https://open.spotify.com/album/1hsteuqnxNmTrcqD2aOQAP) | 2:30 | 2025-11-06 |  |
 | [Gäbs es nid \- Duett Version](https://open.spotify.com/track/4EwuiDkpPO7p1jNVgcHTbv) | [Peter Reber](https://open.spotify.com/artist/6zyqeEDJC5qQuAPdOxrSaf), [Nina Reber](https://open.spotify.com/artist/7yFjPaO0bVy03YcDScEBmy) | [Gäbs es nid \(Duett Version\)](https://open.spotify.com/album/3mQVBjNUaJ4alePJrZ0HSq) | 3:14 | 2024-10-03 | 2024-11-01 |
 | [Göschene Airolo](https://open.spotify.com/track/5HbGxL9p7bsRQb6cc4ltcA) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Stubete Gäng](https://open.spotify.com/album/0Kt0oARMyCDq8I053zVNlU) | 3:19 | 2025-05-08 | 2025-05-16 |
 | [Ha ke Ahnig](https://open.spotify.com/track/0wLBYqQieV6Xr5oqA99LDb) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/1SI16c719Ua8voBc1u5xWc) | 3:22 | 2025-05-08 | 2025-05-16 |
@@ -364,7 +365,7 @@
 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 | 2024-09-27 | 2025-01-11 |
 | [spark](https://open.spotify.com/track/13lod7e7tqMqSPXmi6jBKY) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [spark](https://open.spotify.com/album/73OXMgGuaifUXUzzh7sn6w) | 3:21 | 2024-12-20 | 2025-02-08 |
 | [Spinning](https://open.spotify.com/track/6duDke7M2I6XeXa6VqcMTD) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 3:47 | 2025-04-24 | 2025-05-02 |
-| [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-16 |  |
+| [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-16 | 2025-11-12 |
 | [Stabhochspringe](https://open.spotify.com/track/3sz6jUYOTT3hhYO2iG3vUJ) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Stabhochspringe](https://open.spotify.com/album/6druqWQ7NJiOMmjS6Ez6Cc) | 3:32 | 2025-05-15 | 2025-05-23 |
 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 | 2025-03-21 |  |
 | [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 | 2024-06-27 | 2025-06-27 |

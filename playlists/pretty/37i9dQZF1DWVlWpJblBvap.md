@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,986 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,556 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 7 | [I Know A Name](https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I Know A Name](https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2) | 7:09 |
 | 8 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 |
 | 9 | [Abandoned \- from the studio](https://open.spotify.com/track/5aWskDGYyxDRd2iV3wo56U) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [How I'd sing it on a sunday \(from the studio\)](https://open.spotify.com/album/6XASIVGRg698fngttJKmUE) | 5:12 |
-| 10 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
+| 10 | [Firm Foundation \(He Won't\)\[Feat\. Chandler Moore\]](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
 | 11 | [Sunday Is Coming](https://open.spotify.com/track/19L6pmy4f6MOtD7kvZe3eS) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming Collection](https://open.spotify.com/album/1xnG8YBH1MLcC3AdpxhCZO) | 4:52 |
 | 12 | [Goodness of God \(Live\)](https://open.spotify.com/track/0HE3SH6fvxdRIUq54HjVq0) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Victory \(Live\)](https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz) | 4:56 |
 | 13 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |

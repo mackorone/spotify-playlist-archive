@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,060 likes - 90 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,078 likes - 90 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 63 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
 | 64 | [Flor Palida](https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 4:28 |
 | 65 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 |
-| 66 | [Vivo](https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO), [Ruben Ehizaguirre](https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z) | [Vivo](https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W) | 3:57 |
-| 67 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
+| 66 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
+| 67 | [Vivo](https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO), [Ruben Ehizaguirre](https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z) | [Vivo](https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W) | 3:57 |
 | 68 | [Cerca del Sol](https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Cerca del Sol](https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5) | 3:37 |
 | 69 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
 | 70 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/662TlFJMCYeaSOBEQ4K5es) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 81 | [Respuesta](https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Respuesta](https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE) | 3:37 |
 | 82 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
 | 83 | [La Forma Perfecta](https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [La Forma Perfecta](https://open.spotify.com/album/5PHybIbCaOijo0dv0htTOF) | 3:13 |
-| 84 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
-| 85 | [No Quisiera Quererte](https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Origen](https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK) | 3:47 |
+| 84 | [No Quisiera Quererte](https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Origen](https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK) | 3:47 |
+| 85 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 86 | [La Desamorada](https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Desamorada](https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3) | 4:01 |
 | 87 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 | 88 | [La Ley Y La Trampa](https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc) | 2:48 |
-| 89 | [Que Tiene de Malo Eso](https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Que Tiene de Malo Eso](https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw) | 2:46 |
-| 90 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
+| 89 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
+| 90 | [Que Tiene de Malo Eso](https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Que Tiene de Malo Eso](https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw) | 2:46 |
 
 Snapshot ID: `AAAAANtt7f+7UZpClHU4Zq9PK89Dp/YE`

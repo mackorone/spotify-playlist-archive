@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 225114,
+  "num_followers": 225140,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAC8xq62btqegWgv6N32ON1u",
+  "snapshot_id": "aRErAAAAAADX38KQ9f7+lV4uFMGei0mz",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Calling My Spirit",
-      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 150979,
       "name": "Unexplainable",
       "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Calling My Spirit",
+      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240274,
-      "name": "Purp",
-      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 158986,
       "name": "Endless Nights (feat. Gunna)",
       "url": "https://open.spotify.com/track/6k8pPJi8jbFSopEQA0rffn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
     },
     {
       "added_at": null,
@@ -646,11 +646,15 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Project Blue",
-      "url": "https://open.spotify.com/track/1i1ulBbyeZF4vxO4vmHoiq"
+      "duration_ms": 152452,
+      "name": "Shootin Craps (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/77IoxXrzRvWNBpedy6HR8a"
     },
     {
       "added_at": null,
@@ -714,15 +718,11 @@
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 152452,
-      "name": "Shootin Craps (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/77IoxXrzRvWNBpedy6HR8a"
+      "duration_ms": 135529,
+      "name": "Project Blue",
+      "url": "https://open.spotify.com/track/1i1ulBbyeZF4vxO4vmHoiq"
     },
     {
       "added_at": null,

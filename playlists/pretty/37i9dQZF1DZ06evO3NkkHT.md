@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,514 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,573 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 15 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 |
 | 16 | [Mr.Trouble](https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mr.Trouble](https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd) | 2:02 |
 | 17 | [Box Me Up \(feat\. Jelly Roll\)](https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:53 |
-| 18 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 |
-| 19 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
+| 18 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
+| 19 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 |
 | 20 | [Take Care](https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:29 |
 | 21 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 22 | [About You \(feat\. Tucker Wetmore\)](https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:56 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 25 | [Primetime](https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 3:33 |
 | 26 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 27 | [Microwave](https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Orange Tape](https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU) | 1:47 |
-| 28 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:05 |
+| 28 | [New Day](https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [New Day](https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih) | 2:44 |
 | 29 | [Badu Flow](https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:24 |
-| 30 | [New Day](https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [New Day](https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih) | 2:44 |
+| 30 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:05 |
 | 31 | [Boy](https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Boy](https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe) | 2:12 |
 | 32 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
 | 33 | [Safehouse](https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Comes & Goes \(feat\. Tommy Newport\)](https://open.spotify.com/track/6HaciYi0PXePK4rY3BbZBr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:01 |
 | 50 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 |
 
-Snapshot ID: `aQ/ZgAAAAABuzjb2WmTEnMw85Tzwd0Fn`
+Snapshot ID: `aRErAAAAAAAFlyvZYSLoexQc7hMZC2Wc`

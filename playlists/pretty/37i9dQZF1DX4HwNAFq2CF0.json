@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Big Wreck",
-  "num_followers": 75377,
+  "num_followers": 75388,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 180640,
       "name": "Highway Tune",
       "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 260986,
       "name": "American Money",
       "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
+        "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "I Sat by the Ocean",
+      "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
-        "name": "...Like Clockwork",
-        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "I Sat by the Ocean",
-      "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 209666,
       "name": "War",
       "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1328,7 +1328,7 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 185133,
+      "duration_ms": 185131,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
     },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Everything Now",
-        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 303013,
-      "name": "Everything Now",
-      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "OK, I'M SICK",
         "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
       },
@@ -1543,18 +1527,34 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Young Chasers (Deluxe)",
-        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+        "name": "Everything Now",
+        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
+      "duration_ms": 303013,
+      "name": "Everything Now",
+      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
       },
       "artists": [
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 215693,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "added_at": "2025-05-01 22:00:00",

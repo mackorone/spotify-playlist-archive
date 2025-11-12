@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy en met karakter\. cover: Zwangere Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,156 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,157 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 36 | [Winterdagen](https://open.spotify.com/track/6id6DQfR5owlY0mkLv7Rsv) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Winterdagen](https://open.spotify.com/album/7qMEHwR0dZBPzDUSGQY8Nb) | 2:33 |
 | 37 | [Kokai \(met Rico en Typhoon\)](https://open.spotify.com/track/1dbIoyA1LPITtV7kdzNKJH) | [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd), [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Zonneschijn](https://open.spotify.com/album/5U7faAZNcxI9949gqDMkiH) | 2:56 |
 | 38 | [Djoen](https://open.spotify.com/track/6LVbOvtKUkihnJpI6J4ANC) | [Ella John](https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9), [Waiiress](https://open.spotify.com/artist/3zWit1kGZ0ilxY5zxAIf3B), [Fabs.075](https://open.spotify.com/artist/0hrzr5SyIrJxg0pxndI1c5), [Bastet Black](https://open.spotify.com/artist/4s2hhiRBWGEXenThdo7DEw), [Marvin Adam](https://open.spotify.com/artist/0hP0AVnbH41ppib3LmeR6M) | [EAZY](https://open.spotify.com/album/2QbUitFw4qqTMoAuJuUYT1) | 2:54 |
-| 39 | [De Game](https://open.spotify.com/track/6YsPVmEVQLHKv8ekF7Kkom) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Narco X Styn, Vol\. 2](https://open.spotify.com/album/6od93VFVENEY1ONPaZxXSt) | 3:56 |
+| 39 | [De Game](https://open.spotify.com/track/6YsPVmEVQLHKv8ekF7Kkom) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [Styn](https://open.spotify.com/artist/28FZrdxRpG10bfnWq7FKRZ), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Narco X Styn, Vol\. 2](https://open.spotify.com/album/6od93VFVENEY1ONPaZxXSt) | 3:56 |
 | 40 | [Zonneschijn](https://open.spotify.com/track/3YNi7SUz1wRA7MK0QLKJFy) | [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Zonneschijn](https://open.spotify.com/album/1p4Kk4pC4kdG2lKFsIpAMP) | 2:58 |
 | 41 | [okaaay!](https://open.spotify.com/track/62QAdptvaXqFx4o1SfjRLJ) | [Viccens](https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7) | [okaaay!](https://open.spotify.com/album/2LM60WZ3dGz86bf0Lo3Q9A) | 3:29 |
 | 42 | [Toch Alleen](https://open.spotify.com/track/71mmoPNCDMlOveDRfaBLzT) | [Qucee](https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Toch Alleen](https://open.spotify.com/album/2WBQnbaFqPK3vl6pEUiIey) | 3:17 |

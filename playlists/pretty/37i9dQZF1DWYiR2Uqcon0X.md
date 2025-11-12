@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,686 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,695 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 47 | [Settling Things](https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:52 |
 | 48 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 49 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
-| 50 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
-| 51 | [sunflower.](https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:33 |
+| 50 | [sunflower.](https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:33 |
+| 51 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
 | 52 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 |
 | 53 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
 | 54 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |

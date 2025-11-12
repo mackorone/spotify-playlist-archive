@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 11 Nov 23:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 11 Nov 19:04 UTC.
 
-5,802 songs - 13 day 10 hr 44 min
+5,803 songs - 13 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2274,6 +2274,7 @@
 | [Hit Em Up](https://open.spotify.com/track/4pIutjvPOlkJPTPtpp0kwX) | [Мэйби Бэйби](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [Hit Em Up](https://open.spotify.com/album/1x6hgZVelrWvq2fQtc5BFA) | 2:39 | 2024-10-25 | 2024-10-30 |
 | [Hit It Once](https://open.spotify.com/track/15rXHZv72o3fWrxWaNCTsQ) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hit It Once](https://open.spotify.com/album/1YB7JUdshPZvJTCUDuxdzG) | 3:31 | 2024-12-06 | 2024-12-13 |
 | [HIT ME BEDI ONE MORE TIME](https://open.spotify.com/track/0Dh0RRMI8XVJSWh6jMoF29) | [Eripe](https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL) | [HIT ME BEDI ONE MORE TIME](https://open.spotify.com/album/5qJNvA7ZYDX3K36hOF5Ctl) | 5:53 | 2025-08-14 | 2025-08-23 |
+| [HIT ME HARDER](https://open.spotify.com/track/5yuX0dzjDeXEXIeGatHlKD) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [HIT ME HARDER](https://open.spotify.com/album/3XcVR5Xsv0KBgBCY4DSjH6) | 2:34 | 2025-11-11 |  |
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-01 | 2025-10-12 |
 | [HiYA](https://open.spotify.com/track/0EszgYPRpVpz4pVaXttpiJ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [HiYA](https://open.spotify.com/album/35dPX13gN6H8CLNXL6viq1) | 2:58 | 2024-11-07 | 2024-11-09 |
 | [Hocus Pocus](https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Hocus Pocus](https://open.spotify.com/album/2NuJzv8IX168RGNUb5xpX9) | 2:45 | 2025-09-20 | 2025-09-29 |
@@ -4227,7 +4228,7 @@
 | [Sagrado Profano](https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Sagrado Profano](https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET) | 3:16 | 2024-05-28 | 2024-06-01 |
 | [Said & Done](https://open.spotify.com/track/6f4VtVnlQm7XT6KrP52r1N) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Said & Done](https://open.spotify.com/album/31RNAbkYLWo8QV2beoQbKJ) | 3:19 | 2024-10-24 | 2024-10-26 |
 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-09-11 | 2025-09-20 |
-| [Salting the Earth](https://open.spotify.com/track/0EnlIsOJ9Or1wiERcyr5AX) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Salting the Earth](https://open.spotify.com/album/44ker1gJWbfAYUvlE0yCvO) | 3:35 | 2025-10-31 |  |
+| [Salting the Earth](https://open.spotify.com/track/0EnlIsOJ9Or1wiERcyr5AX) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Salting the Earth](https://open.spotify.com/album/44ker1gJWbfAYUvlE0yCvO) | 3:35 | 2025-10-31 | 2025-11-12 |
 | [Same](https://open.spotify.com/track/1wjVW1FgRGsaSQyF4X94L0) | [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Same](https://open.spotify.com/album/0mhE2IE9Y2Uwp3vdyEbQFO) | 2:25 | 2024-12-28 | 2025-01-12 |
 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 | 2024-10-02 | 2024-10-05 |
 | [SAME KIND OF LONELY](https://open.spotify.com/track/3FPYj67HgfEugfAy0uUCj4) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [SAME KIND OF LONELY / SHOW AND TELL](https://open.spotify.com/album/0kXDVVT7UVDyJoDaa9OObP) | 5:24 | 2024-12-11 | 2024-12-14 |

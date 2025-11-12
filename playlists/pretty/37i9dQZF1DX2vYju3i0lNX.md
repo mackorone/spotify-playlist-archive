@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,981 likes - 500 songs - 1 day 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,136 likes - 500 songs - 1 day 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 499 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 |
 | 500 | [Sound Of Absence](https://open.spotify.com/track/0uVq57CNdVgoBgNJz7vg8c) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Sound Of Absence](https://open.spotify.com/album/4BdhnKPxfPRveQXAqkiwzw) | 3:06 |
 
-Snapshot ID: `AAAAAIp/mgHshLqxzhevlESul0fzjowc`
+Snapshot ID: `AAAAAItXA+giTWG+NQfZNXl0R2c8WpDB`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,938 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,942 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 |
 | 2 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 3 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
-| 4 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 |
+| 4 | [Promises \(feat\. Joe L Barnes, Naomi Raine\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 |
 | 5 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |
 | 6 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 7 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:39 |

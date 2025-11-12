@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,720 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,799 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 17 | [Descansa Mi Amor](https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:05 |
 | 18 | [Abusamos Del Alcohol](https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:50 |
 | 19 | [Estilo SL](https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:34 |
-| 20 | [Corrido Del Invalido](https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:42 |
+| 20 | [El Katch](https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:13 |
 | 21 | [Ranchero Poderoso](https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:43 |
 | 22 | [Ranchero Y Gallardo](https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 2:14 |
 | 23 | [Fiesta En La Playa](https://open.spotify.com/track/52szO2POvp0hk3VnfWioib) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:56 |
-| 24 | [El Katch](https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:13 |
+| 24 | [Corrido Del Invalido](https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:42 |
 | 25 | [Leyenda M1](https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:50 |
 | 26 | [Yo Me Quiero Mas](https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Yo Me Quiero Mas](https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO) | 3:10 |
 | 27 | [Siempre Que Me Emborracho](https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 49 | [El Regreso Del Chapo \- En Vivo](https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:15 |
 | 50 | [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 |
 
-Snapshot ID: `aQ/ZgAAAAACtuMgaJMvi7jVOJmPH0JNL`
+Snapshot ID: `aRErAAAAAAAaWt8STV85Q5ObAyNoxx6N`

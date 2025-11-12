@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,192 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,202 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 2 | [صحبي يا صحبي](https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي](https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw) | 2:13 |
 | 3 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 |
 | 4 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 |
-| 5 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 |
-| 6 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
+| 5 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
+| 6 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 |
 | 7 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 8 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
 | 9 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 25 | [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 |
 | 26 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
 | 27 | [إحساسي \- من مسلسل نفس](https://open.spotify.com/track/4ESpKLv5VIWpMTOc6a93Lw) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [إحساسي \(من مسلسل نفس\)](https://open.spotify.com/album/0udL0OEeCCNxKWxavW3I0L) | 3:16 |
-| 28 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
+| 28 | [انا فوقت](https://open.spotify.com/track/2yYxh4hwfB6IxB4ymVKNA0) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [انا فوقت](https://open.spotify.com/album/1PcEjK3sDoZ3Swtarh7v4V) | 2:32 |
 | 29 | [Chehal S3ib](https://open.spotify.com/track/2XwZYLH0bvpk3DanCENM00) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Chehal S3ib](https://open.spotify.com/album/5wZvCZrZHa7LiOpwkwoGty) | 3:15 |
-| 30 | [انا فوقت](https://open.spotify.com/track/2yYxh4hwfB6IxB4ymVKNA0) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [انا فوقت](https://open.spotify.com/album/1PcEjK3sDoZ3Swtarh7v4V) | 2:32 |
+| 30 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
 | 31 | [فيك سر \- من مسلسل في لحظة](https://open.spotify.com/track/2Cy2I1IWv7J3tBwc7p30vi) | [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [فيك سر \(من مسلسل في لحظة\)](https://open.spotify.com/album/1R46ohQ0Ljs8cyk9sn8brq) | 2:32 |
 | 32 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |
 | 33 | [Khatyah Ani](https://open.spotify.com/track/4FXdcubswDigCSIdx9IFNA) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Mosalsal Seher Aswad](https://open.spotify.com/album/0EqNrd5iUYdBRPZt9w9IG4) | 3:28 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 43 | [La Tan7any](https://open.spotify.com/track/393392okucnMl3eU4B8vFq) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [La Tan7any](https://open.spotify.com/album/6qa6WEhxG9m1DjGBQFBNuM) | 4:04 |
 | 44 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 |
 | 45 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
-| 46 | [Atmena \- Générique d'émission](https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Atmena \(Générique d'émission\)](https://open.spotify.com/album/5vimfmG5i8pU8mEoAwCvmD) | 2:09 |
-| 47 | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/track/6D2gMlsYlQV7fnO7LXx38I) | [Radia Manel](https://open.spotify.com/artist/1zAmhEK0OZp1fETu3bGQeZ) | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/album/5PP1oLZ8GlXsi0eW0ylbT7) | 2:01 |
+| 46 | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/track/6D2gMlsYlQV7fnO7LXx38I) | [Radia Manel](https://open.spotify.com/artist/1zAmhEK0OZp1fETu3bGQeZ) | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/album/5PP1oLZ8GlXsi0eW0ylbT7) | 2:01 |
+| 47 | [Atmena \- Générique d'émission](https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Atmena \(Générique d'émission\)](https://open.spotify.com/album/5vimfmG5i8pU8mEoAwCvmD) | 2:09 |
 | 48 | [wa7edo elwa7ed](https://open.spotify.com/track/3x0RpuXv5fOdKyPvoDoowe) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [wa7edo elwa7ed](https://open.spotify.com/album/7LzA52HvdLTCum6HkGROyp) | 3:04 |
 | 49 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 |
 | 50 | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/track/5oxvpXB7P9a5Rjnd6VLixu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/album/7BATwGP1wSNSHld20Aj0jQ) | 4:02 |

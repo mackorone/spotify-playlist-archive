@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,648 likes - 118 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,647 likes - 118 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 
 > This is Shakira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,503 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,665 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 31 | [She Wolf](https://open.spotify.com/track/4l9fZ75WzPZlAIkqJIWlo8) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm) | 3:08 |
 | 32 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
 | 33 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
-| 34 | [Me Enamoré](https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:46 |
-| 35 | [Donde Estas Corazon](https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:51 |
+| 34 | [Donde Estas Corazon](https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:51 |
+| 35 | [Me Enamoré](https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:46 |
 | 36 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
 | 37 | [Deja vu](https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:16 |
 | 38 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 49 | [Rabiosa \(feat\. Pitbull\)](https://open.spotify.com/track/2Xh7dyCHCErCv3PmdVEGw4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:50 |
 | 50 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 |
 
-Snapshot ID: `aQ/ZgAAAAAAgtdKOWyfE/pIXGYxd+lIq`
+Snapshot ID: `aRErAAAAAAA6kR+jk0Q7HRWTK5BvZphf`

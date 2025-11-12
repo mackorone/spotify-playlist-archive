@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Kelvin Sings
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,287 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,308 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 12 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 |
 | 13 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 14 | [God's Not Done](https://open.spotify.com/track/5wRISCEtas6GJO1KSfyZKX) | [O.B.Y](https://open.spotify.com/artist/3WY7G1znB6fpNocbEbjr0O) | [God's Not Done](https://open.spotify.com/album/5IJkqU0BaoyVtmOW44rfo7) | 3:02 |
-| 15 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 |
+| 15 | [Promises \(feat\. Joe L Barnes, Naomi Raine\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 |
 | 16 | [Goodness of God](https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 7:35 |
 | 17 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 |
 | 18 | [Refresh](https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Refresh](https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG) | 6:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1601008,
+  "num_followers": 1601006,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "First Two 7s",
+        "url": "https://open.spotify.com/album/3OirN90yBh2bSaIHcWyGsV"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 47226,
+      "name": "Straight Edge",
+      "url": "https://open.spotify.com/track/1xXKacUn8XhZ2ifv05RjL1"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Operation Ivy",
-        "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System",
-      "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Germ Free Adolescents: The Anthology",
         "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Pink Flag",
-        "url": "https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP"
+        "name": "Operation Ivy",
+        "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
       "artists": [
         {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Mannequin - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5"
+      "duration_ms": 134026,
+      "name": "Sound System",
+      "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
     }
   ],
   "unique_name": "Classic Punk",

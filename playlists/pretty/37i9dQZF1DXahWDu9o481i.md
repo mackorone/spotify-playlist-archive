@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KETTAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,670 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,662 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 29 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 30 | [Favorite Place](https://open.spotify.com/track/523GiEoDg0ulav50HZItuF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Favorite Place](https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6) | 3:16 |
 | 31 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
-| 32 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |
+| 32 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
 | 33 | [Estoy Amándote Tan Fuerte](https://open.spotify.com/track/5PlYq2BQAdoCvfPaMnqjXg) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 3:20 |
-| 34 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
+| 34 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |
 | 35 | [Hypersilent](https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Hypersilent](https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb) | 5:54 |
 | 36 | [Wholesale Anthem](https://open.spotify.com/track/76amMtyRHVVa2mpIuclM9l) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Thank You for Almost Everything](https://open.spotify.com/album/5bvnIPBtewSFLftfn7LONj) | 3:27 |
 | 37 | [Aging Young Women](https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Aging Young Women](https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V) | 4:01 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 41 | [Feels Like Love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Feels Like Love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 42 | [Grief, Joy, & Gratitude](https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Grief, Joy, & Gratitude](https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo) | 3:10 |
 | 43 | [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 |
-| 44 | [ALL MY ANGELS](https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ALL MY ANGELS](https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er) | 3:01 |
-| 45 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 |
+| 44 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 |
+| 45 | [ALL MY ANGELS](https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ALL MY ANGELS](https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er) | 3:01 |
 | 46 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 3:49 |
 | 47 | [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 |
 | 48 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 50 | [baeside k](https://open.spotify.com/track/18gl6cO29Y5VodM8TJyKwN) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [LOTTO](https://open.spotify.com/album/5oX9RPR1fBvHzpgtmxVdPI) | 2:50 |
 | 51 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
 | 52 | [b 2 b](https://open.spotify.com/track/4p2rGMlMTHCDn3lTNGcsbc) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [b 2 b](https://open.spotify.com/album/4qtZdKxpKsyot1lueCfTWc) | 2:43 |
-| 53 | [LOSE CONTROL](https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [LOSE CONTROL](https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL) | 4:11 |
-| 54 | [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 |
+| 53 | [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 |
+| 54 | [LOSE CONTROL](https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [LOSE CONTROL](https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL) | 4:11 |
 | 55 | [Rest Here](https://open.spotify.com/track/3kk2Dvffp73fZW3ZbFrInH) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 3:57 |
 
 Snapshot ID: `AAAAAD2Q/PWb+NpaBWnQ331L29JAlgtT`

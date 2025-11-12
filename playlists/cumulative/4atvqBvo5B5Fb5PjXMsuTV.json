@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Nov 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Nov 19:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -43249,6 +43249,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARDER",
+        "url": "https://open.spotify.com/album/3XcVR5Xsv0KBgBCY4DSjH6"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154268,
+      "name": "HIT ME HARDER",
+      "url": "https://open.spotify.com/track/5yuX0dzjDeXEXIeGatHlKD"
+    },
+    {
+      "album": {
         "name": "Hit My Head All Day",
         "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
       },
@@ -80458,7 +80476,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 215999,
       "name": "Salting the Earth",
       "url": "https://open.spotify.com/track/0EnlIsOJ9Or1wiERcyr5AX"

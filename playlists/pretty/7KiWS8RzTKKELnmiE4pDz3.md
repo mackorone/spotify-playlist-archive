@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 357 songs - 20 hr 39 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 360 songs - 20 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,5 +365,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 355 | [Blood Reign](https://open.spotify.com/track/3X1zhzac0CoyhSf9SYNkx9) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Louis Logic](https://open.spotify.com/artist/5iwtnFL2DK4xdWeHfeOOhU), [DiamondBack](https://open.spotify.com/artist/1LdifFWwOZZA5DZLyEidIN), [B.A\. Barakus](https://open.spotify.com/artist/2EGZz4LN62i10dsBLGlsbD) | [Violent By Design](https://open.spotify.com/album/68e1Ou1jnKgDwLkCsOPc4M) | 3:37 |
 | 356 | [Hanging On](https://open.spotify.com/track/5MEAdc9kKuFbsYRY0HJ8LB) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [Life](https://open.spotify.com/album/4SVxz8yqIymDrdiX2YBeQe) | 5:24 |
 | 357 | [You Know What](https://open.spotify.com/track/40YQDJrYZFIP24QVfUi9Ar) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 4:30 |
+| 358 | [Down as a Great \(feat\. Kirko Bangz\)](https://open.spotify.com/track/4eLkXBFYBsIPwTa1pLSa2M) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:28 |
+| 359 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
+| 360 | [Sweet Lady](https://open.spotify.com/track/6VBuV3fk37EGAqFbDVQjHv) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Purple Summer](https://open.spotify.com/album/0mN9qYcfmWYMfsy0t30xUc) | 4:40 |
 
-Snapshot ID: `AAAfLgDge5nBjs4qbvjy/eCvPgRdR8Xe`
+Snapshot ID: `AAAfMUPCBh6ornPEe4OpAyVnInBLGL31`

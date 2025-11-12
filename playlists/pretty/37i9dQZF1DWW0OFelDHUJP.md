@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,861 likes - 74 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,857 likes - 74 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

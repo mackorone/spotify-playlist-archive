@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 123768,
+  "num_followers": 123794,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABFWevCtd0Rx2Wpb0WJE9A0",
+  "snapshot_id": "aRErAAAAAABiSvpJOKAm1UXgK8n4e/fA",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 211173,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Red Sails In The Sunset",
+      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultimate Nat King Cole",
         "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 174773,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Red Sails In The Sunset",
-      "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
     },
     {
       "added_at": null,

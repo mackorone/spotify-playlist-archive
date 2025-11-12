@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,161 likes - 39 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,258 likes - 39 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 38 | [Blessings \(with Asake\) \- Remix](https://open.spotify.com/track/2FX0YSnyAJ8jxvysMiSp9P) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lost In Melody \(Deluxe\)](https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m) | 3:05 |
 | 39 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 
-Snapshot ID: `aQ/ZgAAAAAAUWVm60PNplSs7/DYbtIqu`
+Snapshot ID: `aRErAAAAAAAQ1aucjbspJlgPkO2ZcxAw`

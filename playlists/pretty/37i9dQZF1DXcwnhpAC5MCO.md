@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 
 > Reprenez ces hymnes tous en choeur jusqu'à votre prochaine destination
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,662 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,666 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwnhpAC5MCO.md) - [plain]
 | 24 | [Au bout de mes rêves](https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:54 |
 | 25 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
 | 26 | [Hakuna Matata](https://open.spotify.com/track/4Cip5rpau6JC8OgBIg71jn) | [Dimitri Rougeul](https://open.spotify.com/artist/3PzoTevg3zUvrwgDgDrc2v), [Jean\-Philippe Puymartin](https://open.spotify.com/artist/6WPnEpeD5Z91FkW0sOeyhE), [Michel Elias](https://open.spotify.com/artist/22kowY6hA6JUuGS1tAXWnr), [Emmanuel Curtil](https://open.spotify.com/artist/5LKzT4F7T3O0OlKtUdBRpP) | [Le Roi Lion \(Deluxe Collection \- Lion King\)](https://open.spotify.com/album/0xLiUhw4KfSUUX6MC0VI0J) | 3:32 |
-| 27 | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB) | 2:52 |
+| 27 | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB) | 2:50 |
 | 28 | [Oui ou non](https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 3:16 |
 | 29 | [Roule](https://open.spotify.com/track/4aie3id34NbdlJEaWNlKyZ) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:58 |
 | 30 | [La même](https://open.spotify.com/track/7HK0UeyxUWJjc6ndRZVKFg) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/3Ivl72MtrJqHqzla3ar7fG) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Majo Rivas en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,931 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,929 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 10 | [Horas por día](https://open.spotify.com/track/5nHgATtiNvsS5EYl80GWEJ) | [Soleth](https://open.spotify.com/artist/2F3G9CVJ4OwrhPUwXR5GMO) | [Absurda](https://open.spotify.com/album/4m990jZhJ0bBM8QobmziJq) | 4:05 |
 | 11 | [Quién Pensaría](https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ) | 3:32 |
 | 12 | [Elijo Volar \(Otoño\)](https://open.spotify.com/track/0ATcMjaIw9zDemjRDZYsXW) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Jimi Boy](https://open.spotify.com/artist/2GbAhgjChhvp97LUEvT2G3) | [Elijo Volar \(Otoño\)](https://open.spotify.com/album/41VmvkTpZaZeSN8GhVlXrU) | 3:03 |
-| 13 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:11 |
+| 13 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:12 |
 | 14 | [Quiéreme así](https://open.spotify.com/track/5AFyGas9IkH7dPDHcdDlSE) | [Bosque](https://open.spotify.com/artist/6xIiv2i3zkP4mzGQvGVHTS), [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Quiéreme así](https://open.spotify.com/album/0AZCOaNIsC1dJUyD0ooOJ6) | 2:51 |
 | 15 | [Magia](https://open.spotify.com/track/6X802Oflvx2dhW2s3yZgu3) | [Ola Magenta](https://open.spotify.com/artist/19m31uyfQ0ewdhrMqpuRxo) | [Magia](https://open.spotify.com/album/3t3fjXIrpopQIg45GOoNMS) | 2:10 |
 | 16 | [0%](https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [0%](https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ) | 2:53 |

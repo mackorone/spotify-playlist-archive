@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
@@ -136,7 +154,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA"
@@ -5142,7 +5160,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -5178,7 +5196,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -14160,7 +14178,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 139908,
       "name": "Chabos wissen wer der Babo ist",
       "url": "https://open.spotify.com/track/3SXal1NK2pGOsWFTHihsCG"
@@ -14178,7 +14196,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 139908,
       "name": "Chabos wissen wer der Babo ist",
       "url": "https://open.spotify.com/track/55M8uEwBvW9VuPjPZJsGnA"
@@ -17520,7 +17538,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 109940,
       "name": "Der Herbst ist da",
       "url": "https://open.spotify.com/track/7xJPa1jms8mgBnxuxKmVuw"
@@ -32455,24 +32473,6 @@
     },
     {
       "album": {
-        "name": "I Run",
-        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
-      },
-      "artists": [
-        {
-          "name": "HAVEN.",
-          "url": "https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz"
-        }
-      ],
-      "date_added": "2025-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129565,
-      "name": "I Run",
-      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
-    },
-    {
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -35104,7 +35104,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -36162,7 +36162,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -38878,7 +38878,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 207680,
       "name": "Lass die Affen aus'm Zoo",
       "url": "https://open.spotify.com/track/7ioPN2yphRIkekJ4wkpstl"
@@ -41556,7 +41556,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/4PCNkLfMpaPYEwBMsknI8R"
@@ -45054,7 +45054,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -57634,7 +57634,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -58644,7 +58644,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 170170,
       "name": "R\u00fccken an R\u00fccken",
       "url": "https://open.spotify.com/track/1zgreHbTAlr6nbV5GMQJ5b"
@@ -59252,7 +59252,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -61022,7 +61022,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 115555,
       "name": "Shabab(e)s im VIP",
       "url": "https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM"
@@ -65478,7 +65478,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -65496,7 +65496,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -67096,7 +67096,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -72644,7 +72644,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"

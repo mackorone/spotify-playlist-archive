@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,942 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,945 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 48 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 |
 | 49 | [In The Blue](https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 2:33 |
 | 50 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
-| 51 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
-| 52 | [Let The Mermaids Flirt With Me](https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 4:26 |
+| 51 | [Let The Mermaids Flirt With Me](https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 4:26 |
+| 52 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
 | 53 | [May Your Kindness Remain](https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:54 |
 | 54 | [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 |
 | 55 | [Not Healthy Anymore](https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Not Healthy Anymore](https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5) | 4:01 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 68 | [Family Tapes](https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Family Tapes](https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp) | 4:23 |
 | 69 | [Paradise Bay](https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Look Up & Fly Away](https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF) | 2:29 |
 | 70 | [Cover Me](https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ) | [Kim Taylor](https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP) | [Songs of Instruction](https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf) | 4:43 |
-| 71 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 |
-| 72 | [Enjoy the Silence \- Live from the Front Porch](https://open.spotify.com/track/5sjbWOn7ZhqhF7Z0CCXPwh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Enjoy the Silence \(Live from the Front Porch\)](https://open.spotify.com/album/5neuo4usIz6sjvtV8anBsN) | 3:21 |
+| 71 | [Enjoy the Silence \- Live from the Front Porch](https://open.spotify.com/track/5sjbWOn7ZhqhF7Z0CCXPwh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Enjoy the Silence \(Live from the Front Porch\)](https://open.spotify.com/album/5neuo4usIz6sjvtV8anBsN) | 3:21 |
+| 72 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 |
 | 73 | [Desert Wine](https://open.spotify.com/track/03wN5wNXNlyLdWh02ufGvZ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Desert Wine](https://open.spotify.com/album/2mone0g6ZIiO9OH3WSvUU6) | 3:08 |
 | 74 | [Candle](https://open.spotify.com/track/6FZVM2aVccCZS9Jd3Cd9SJ) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:14 |
 | 75 | [Million Miles](https://open.spotify.com/track/3g9NYzvCKYtBUOCPrn1bHG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Million Miles](https://open.spotify.com/album/3zHgggm4WYyFje6OYrszEB) | 3:49 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 82 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 |
 | 83 | [Shouldn't Tell U](https://open.spotify.com/track/3KjliPJ9rqbXrSmlQo7klA) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:02 |
 | 84 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
-| 85 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 86 | [The Right Track](https://open.spotify.com/track/2M7UF2fo4AC93VpZXBK6nk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Right Track](https://open.spotify.com/album/0Yc69e9d5M0txUciOA6w2J) | 3:26 |
-| 87 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
+| 85 | [The Right Track](https://open.spotify.com/track/2M7UF2fo4AC93VpZXBK6nk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Right Track](https://open.spotify.com/album/0Yc69e9d5M0txUciOA6w2J) | 3:26 |
+| 86 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 |
+| 87 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 88 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
 | 89 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 90 | [Spark](https://open.spotify.com/track/579WcpfX8CuujP9UfNBPUU) | [WYNDHAM](https://open.spotify.com/artist/7m5NuY2IG5NWA9TUrPtcV7) | [Spark](https://open.spotify.com/album/2NTFOA0XTCIjzbRjpUxdK9) | 3:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 96 | [Power Over Me \- Acoustic](https://open.spotify.com/track/47rNYq9IUveetu35c65xTw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me](https://open.spotify.com/album/7ohVCsxjU81BfXDGj6W8Ba) | 3:20 |
 | 97 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 98 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 |
-| 99 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 100 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
+| 99 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
+| 100 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 
 Snapshot ID: `AAAAAA86+WT8vViigU+1OsaPddMobRKL`

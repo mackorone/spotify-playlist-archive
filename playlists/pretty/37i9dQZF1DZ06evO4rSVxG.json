@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15330,
+  "num_followers": 15329,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAeGVDSAHISyfBV5RCE2Q4p",
+  "snapshot_id": "aRErAAAAAACuFmVKuSWwFTh10rzQphvk",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
       "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 236124,
-      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
-      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
+      "duration_ms": 356760,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+        "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+        "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
       "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 356760,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
+      "duration_ms": 236124,
+      "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
+      "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 337000,
-      "name": "For The Love Of You",
-      "url": "https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj"
+      "duration_ms": 342266,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 342266,
-      "name": "Baby Doll",
-      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
+      "duration_ms": 337000,
+      "name": "For The Love Of You",
+      "url": "https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj"
     },
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Down",
-        "url": "https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd"
-      },
-      "artists": [
-        {
-          "name": "Iam Astro",
-          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
-        },
-        {
-          "name": "Jv01",
-          "url": "https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU"
-        },
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 177454,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kick n Game Like Soccer",
         "url": "https://open.spotify.com/album/3g0Efg9A3iqVssZyW8jD5X"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 225613,
       "name": "Addicted to You (feat. Feddy Moe, Bosten Black, Uncl DJ & Tony Toni Tone)",
       "url": "https://open.spotify.com/track/6U2xE3ZuMOJcWRTqiLDFxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd"
+      },
+      "artists": [
+        {
+          "name": "Iam Astro",
+          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
+        },
+        {
+          "name": "Jv01",
+          "url": "https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 177454,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x"
     },
     {
       "added_at": null,

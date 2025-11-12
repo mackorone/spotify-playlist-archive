@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY COLE SWINDELL\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-[Topsify](https://open.spotify.com/user/topsify) - 59,111 likes - 57 songs - 3 hr 12 min
+[Topsify](https://open.spotify.com/user/topsify) - 59,106 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

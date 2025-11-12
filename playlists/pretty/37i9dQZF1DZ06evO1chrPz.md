@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,341 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,354 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 44 | [Beauty](https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 5:18 |
 | 45 | [By the Grace of God](https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:17 |
 | 46 | [Even Though I Walk \- Live](https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 7:17 |
-| 47 | [Son Of Suffering \(Live\)](https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:59 |
-| 48 | [Elohim \- Live From Church](https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Aubree Archibeck](https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t) | [Elohim \(Live\)](https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ) | 7:27 |
-| 49 | [One Thing Remains](https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 5:00 |
-| 50 | [Pieces \(Live\)](https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:39 |
+| 47 | [Elohim \- Live From Church](https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Aubree Archibeck](https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t) | [Elohim \(Live\)](https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ) | 7:27 |
+| 48 | [Son Of Suffering \(Live\)](https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:59 |
+| 49 | [Pieces \(Live\)](https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:39 |
+| 50 | [One Thing Remains](https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 5:00 |
 
-Snapshot ID: `aQ/ZgAAAAACN5wDf2N/OGrhD9LQlX3l9`
+Snapshot ID: `aRErAAAAAAAFvgFv/NA6qBgk4/EEfGuB`

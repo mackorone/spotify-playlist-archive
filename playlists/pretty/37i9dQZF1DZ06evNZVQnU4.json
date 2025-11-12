@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 205049,
+  "num_followers": 206637,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABR4q2VWQjL0hPcj8yhVxOh",
+  "snapshot_id": "aRErAAAAAADycpaTz62EQgxEB/auu1c6",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touching Toes",
-        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Touching Toes",
-      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+      "duration_ms": 163826,
+      "name": "Dangerously Easy",
+      "url": "https://open.spotify.com/track/1o0ChtApxdxNqI6vaOK8JK"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Dangerously Easy",
-      "url": "https://open.spotify.com/track/1o0ChtApxdxNqI6vaOK8JK"
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 170434,
       "name": "Cross My Mind",
       "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
     },
     {
       "added_at": null,

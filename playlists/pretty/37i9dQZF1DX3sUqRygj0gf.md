@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,248 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,266 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

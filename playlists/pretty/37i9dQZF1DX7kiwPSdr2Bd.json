@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Julia Vit\u00f3ria, N\u00edvea Soares",
-  "num_followers": 359917,
+  "num_followers": 359947,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,26 @@
     {
       "added_at": "2025-10-31 16:13:18",
       "album": {
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
+    },
+    {
+      "added_at": "2025-10-31 16:13:18",
+      "album": {
         "name": "Jesus te Amamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 415435,
       "name": "Jesus te Amamos - Ao Vivo",
       "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
-    },
-    {
-      "added_at": "2025-10-31 16:13:18",
-      "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": "2025-10-31 16:13:18",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-31 16:13:18",
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": "2025-10-31 16:13:18",
-      "album": {
         "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 328753,
       "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
       "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": "2025-10-31 16:13:18",
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2025-10-31 16:13:18",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-10-31 16:13:18",
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
-    },
-    {
-      "added_at": "2025-10-31 16:13:18",
-      "album": {
         "name": "Se Eles Soubessem",
         "url": "https://open.spotify.com/album/3NX9Po3tletMqx81eH2eSb"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 540820,
       "name": "Se Eles Soubessem",
       "url": "https://open.spotify.com/track/2pBJnwywVY93Sxswu2Llrz"
+    },
+    {
+      "added_at": "2025-10-31 16:13:18",
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": "2025-10-31 16:13:18",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-10-31 16:13:18",
       "album": {
-        "name": "Era a M\u00e3o de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 347698,
-      "name": "Era a M\u00e3o de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5"
-    },
-    {
-      "added_at": "2025-10-31 16:13:18",
-      "album": {
         "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
         "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 352037,
       "name": "N\u00e3o Temerei Jamais - Ao Vivo",
       "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
+    },
+    {
+      "added_at": "2025-10-31 16:13:18",
+      "album": {
+        "name": "Era a M\u00e3o de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 347698,
+      "name": "Era a M\u00e3o de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5"
     },
     {
       "added_at": "2025-10-31 16:13:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,794 likes - 35 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,813 likes - 35 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 11 | [Brave](https://open.spotify.com/track/288HSFmURcl6yxx4c5tFdr) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:54 |
 | 12 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 13 | [Poison](https://open.spotify.com/track/3yNLAcsyowTQ1GZUJUAXbH) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:31 |
-| 14 | [You & Me Song](https://open.spotify.com/track/2KYxtGXViLqIRY5fkOpPDS) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [You & Me Song](https://open.spotify.com/album/3awmmBHW9HS1V5fp26kfN7) | 2:51 |
+| 14 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 |
 | 15 | [Forever](https://open.spotify.com/track/64WrQvHvGsS9TFjSjcl4qI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:17 |
-| 16 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 |
+| 16 | [You & Me Song](https://open.spotify.com/track/2KYxtGXViLqIRY5fkOpPDS) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [You & Me Song](https://open.spotify.com/album/3awmmBHW9HS1V5fp26kfN7) | 2:51 |
 | 17 | [Hurts](https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:22 |
 | 18 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 |
 | 19 | [First Last Dance](https://open.spotify.com/track/2tE28bQYBZFOspAgqPGsJq) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:20 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 34 | [Wild Jasmine](https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:35 |
 | 35 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 |
 
-Snapshot ID: `aQ/ZgAAAAAC25JYBUrBO+VCtiN/Ry3ck`
+Snapshot ID: `aRErAAAAAACPYvFpC6Q7y6kLFexWoCIt`

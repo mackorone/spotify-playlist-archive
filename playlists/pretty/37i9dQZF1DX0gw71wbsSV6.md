@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,369 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,363 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DEVOTION](https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:54 |
 | 2 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
-| 3 | [Odakyu Line](https://open.spotify.com/track/0Fq7ovIDzp0swrLuSCR9WW) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 4:50 |
+| 3 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 4 | [Love Like This](https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:20 |
 | 5 | [Puff/Pass](https://open.spotify.com/track/69dxGbipWP3zLo5tmCrfNt) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 1:46 |
 | 6 | [Velvet Dusk](https://open.spotify.com/track/48Yn1zBdGTmGjEj0fSdj76) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:20 |
-| 7 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
+| 7 | [Cruel Odds](https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz) | [mmm](https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec) | [Burnt](https://open.spotify.com/album/39cHTNTRQ1ESIkV3fBnDCE) | 3:29 |
 | 8 | [Beat Tub \(Prod\. STUTS\)](https://open.spotify.com/track/3ljgp3F2ag2EdtUkm459tu) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Beat Tub \(Prod\. STUTS\)](https://open.spotify.com/album/5awtrUBRl1i2aMDuISywYR) | 4:10 |
 | 9 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 10 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 |
 | 50 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 
-Snapshot ID: `AAAAAMtlJhHuceozHyKOvIP/+qckZmK3`
+Snapshot ID: `AAAAAL4YBxmng/t99R2FJmp/2UGUBg6k`

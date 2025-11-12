@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,430 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,428 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 23 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 |
 | 24 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
 | 25 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
-| 26 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
+| 26 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 | 27 | [Bandit](https://open.spotify.com/track/7dvVmCMpDkcvCpnpDNBedX) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Bandit](https://open.spotify.com/album/0NCLwmTS1Px7dEPawOp9ds) | 2:22 |
 | 28 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
-| 29 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
+| 29 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
 | 30 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 |
 | 31 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 32 | [Is Ya Ready](https://open.spotify.com/track/2QXWdzWLvRZToFFyY49Exz) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Is Ya Ready](https://open.spotify.com/album/7N2DIKOu4lxVAqcLX8ZOqp) | 2:04 |

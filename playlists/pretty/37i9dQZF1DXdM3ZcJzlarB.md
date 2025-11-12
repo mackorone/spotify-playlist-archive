@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Innellea & Peces Raros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,191 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,194 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

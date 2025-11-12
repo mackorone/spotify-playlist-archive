@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93734,
+  "num_followers": 93733,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Svindlande h\u00f6jder",
-        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 255386,
-      "name": "Svindlande h\u00f6jder",
-      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "Mannen i spegeln",
         "url": "https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+        "name": "Svindlande h\u00f6jder",
+        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+      "duration_ms": 255386,
+      "name": "Svindlande h\u00f6jder",
+      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -343,6 +327,22 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -431,18 +431,18 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "St\u00f6rst av allt",
         "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 195139,
       "name": "St\u00f6rst av allt",
       "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Sweethearts",
-        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Sweethearts",
-      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "L\u00e5ngholmsgatan 2",
         "url": "https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 243137,
       "name": "L\u00e5ngholmsgatan 2",
       "url": "https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "Sweethearts",
+        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Sweethearts",
+      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
+        "name": "Lake Geneva",
+        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Lake Geneva",
+      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 205081,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
-        "name": "Lake Geneva",
-        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Lake Geneva",
-      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "The Spectrum of Love",
-        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
-      },
-      "artists": [
-        {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
-        }
-      ],
-      "duration_ms": 193114,
-      "name": "The Spectrum of Love",
-      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "Just idag \u00e4r jag stark",
         "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 206800,
       "name": "Just idag \u00e4r jag stark",
       "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "The Spectrum of Love",
+        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "duration_ms": 193114,
+      "name": "The Spectrum of Love",
+      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1331,6 +1331,38 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
+        "name": "\u00c4lskade v\u00e4n",
+        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
+      },
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        }
+      ],
+      "duration_ms": 199336,
+      "name": "\u00c4lskade v\u00e4n",
+      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "While you got me",
+        "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "While you got me",
+      "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
         "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
         "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
       },
@@ -1363,34 +1395,18 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "While you got me",
-        "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
       },
       "artists": [
         {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
         }
       ],
-      "duration_ms": 211920,
-      "name": "While you got me",
-      "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
-        "name": "\u00c4lskade v\u00e4n",
-        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        }
-      ],
-      "duration_ms": 199336,
-      "name": "\u00c4lskade v\u00e4n",
-      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+      "duration_ms": 192148,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 192148,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "ICONIC",
         "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 161666,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
         "name": "Blommor",
         "url": "https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L"
       },
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Gnistrande sn\u00f6",
-        "url": "https://open.spotify.com/album/5aXylFhjDZBUiYsy97O9hJ"
+        "name": "Sign on the Window",
+        "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
       },
       "artists": [
         {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        },
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 262493,
-      "name": "Gnistrande sn\u00f6",
-      "url": "https://open.spotify.com/track/2xUX9AeYODZQZ5iubWdC7a"
+      "duration_ms": 183946,
+      "name": "Sign on the Window",
+      "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
     }
   ],
   "unique_name": "Aktuellt",

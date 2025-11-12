@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-494 songs - 1 day 10 hr 53 min
+495 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Cat Chill](https://open.spotify.com/track/1b4N1PPhos8hSp0reypU1B) | [annnk](https://open.spotify.com/artist/25oACpEqiNcUAbK9eZ28lU), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Cat Chill](https://open.spotify.com/album/2e7X3BnSyjABkAaE7JMHYC) | 3:13 | 2023-10-17 | 2023-10-25 |
 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-13 | 2023-02-01 |
 | [Comfort](https://open.spotify.com/track/7CU1CM6k3f50TFJUwzZUgC) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Comfort](https://open.spotify.com/album/0vcBFyLhnRZP2ay5vHa7Yf) | 4:24 | 2023-02-22 | 2023-03-15 |
+| [Cruel Odds](https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz) | [mmm](https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec) | [Burnt](https://open.spotify.com/album/39cHTNTRQ1ESIkV3fBnDCE) | 3:29 | 2025-11-11 |  |
 | [cuz](https://open.spotify.com/track/4s3kcmPWMIxf7LmWF4F80m) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:58 | 2024-01-10 |  |
 | [Dawn in the Adan](https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 4:45 | 2022-10-20 | 2023-11-17 |
 | [Dawn in the Adan](https://open.spotify.com/track/5Wdyg2LLFZPPlYUntexViV) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 4:45 | 2023-11-16 | 2024-04-19 |
@@ -472,7 +473,7 @@
 | [缶ビール](https://open.spotify.com/track/1FVwIVuTtMaptIxyE6zJZj) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ユラレル](https://open.spotify.com/album/7Ba3DMHpngjawGFVGE6Guw) | 2:52 | 2023-06-13 | 2023-06-21 |
 | [美しい森](https://open.spotify.com/track/1kyMnvdnlt3bKF9jUg7v5q) | [音沙汰](https://open.spotify.com/artist/0f7VaIN3RXWoaWqBsSoew2) | [Musicalium](https://open.spotify.com/album/6PwH6MOazT3anivW965oHY) | 4:40 | 2023-09-19 | 2023-10-11 |
 | [美しき様々の夢](https://open.spotify.com/track/5C4iSfWHBfeNwVFkmcCTze) | [ハルカストリングス](https://open.spotify.com/artist/4d5QXhOYSfl2OjyalgL3WY) | [風の中の夢](https://open.spotify.com/album/2u37tLTog5lS9CLTiacdOe) | 6:30 | 2023-10-10 | 2023-10-12 |
-| [美貌の青空（Bibo no Aozora） \- Geimori \- Medley](https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [UTAU](https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0) | 5:05 | 2025-10-11 |  |
+| [美貌の青空（Bibo no Aozora） \- Geimori \- Medley](https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [UTAU](https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0) | 5:05 | 2025-10-11 | 2025-11-12 |
 | [老夫婦](https://open.spotify.com/track/2vbXsUHfLlmH2svOb5oDv6) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 2:01 | 2024-12-17 |  |
 | [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 | 2023-06-06 |
 | [肌色](https://open.spotify.com/track/2YfbnRGevaN759T1DSGvxB) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [gel](https://open.spotify.com/album/4gIseD8M4C2iiX3XuOnQmg) | 7:46 | 2023-02-28 | 2023-08-09 |

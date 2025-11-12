@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,191 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,203 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 49 | [Brindo](https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY) | 3:18 |
 | 50 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
 | 51 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
-| 52 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
-| 53 | [La Flor De La Canela](https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:22 |
+| 52 | [La Flor De La Canela](https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:22 |
+| 53 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
 | 54 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
 | 55 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 |
 | 56 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 66 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
 | 67 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
 | 68 | [Sabor a Mí \- Amuzgo](https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Mariano García](https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:17 |
-| 69 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
-| 70 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 |
+| 69 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 |
+| 70 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
 | 71 | [La Copa Rota](https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:08 |
 | 72 | [Noche Fría](https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Noche Fría](https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx) | 3:09 |
 | 73 | [Adentro](https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Adentro](https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1) | 3:48 |

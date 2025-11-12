@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 30976,
+  "num_followers": 30980,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAADVEdCE5viBLAaYtHISyaj2",
+  "snapshot_id": "aRErAAAAAAB5JbknnegW8/pM1RQUJIyS",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 267626,
-      "name": "Primavera Azul",
-      "url": "https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0"
+      "duration_ms": 296800,
+      "name": "Te Pierdo Y Te Pienso",
+      "url": "https://open.spotify.com/track/0OEmCXtYoiZrlzYcjlTm7Z"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Te Pierdo Y Te Pienso",
-      "url": "https://open.spotify.com/track/0OEmCXtYoiZrlzYcjlTm7Z"
+      "duration_ms": 267626,
+      "name": "Primavera Azul",
+      "url": "https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Te Dar\u00e9 Mi Vida",
-      "url": "https://open.spotify.com/track/1Tuo4INhBf6J0jbMcKbZv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inquietos por el Mundo",
         "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 278053,
       "name": "No Te Olvides de Mi",
       "url": "https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Te Dar\u00e9 Mi Vida",
+      "url": "https://open.spotify.com/track/1Tuo4INhBf6J0jbMcKbZv2"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 227918,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
+      "duration_ms": 271960,
+      "name": "Solo Amame",
+      "url": "https://open.spotify.com/track/6waFDuT3aPGzbmI6SWnlx8"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 297280,
-      "name": "Suave Brisa",
-      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
+      "duration_ms": 287533,
+      "name": "Amor Herido",
+      "url": "https://open.spotify.com/track/3djyVDrbRMrTJJnUUGXJwJ"
     },
     {
       "added_at": null,
@@ -548,15 +548,15 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 271960,
-      "name": "Solo Amame",
-      "url": "https://open.spotify.com/track/6waFDuT3aPGzbmI6SWnlx8"
+      "duration_ms": 227918,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 287533,
-      "name": "Amor Herido",
-      "url": "https://open.spotify.com/track/3djyVDrbRMrTJJnUUGXJwJ"
+      "duration_ms": 297280,
+      "name": "Suave Brisa",
+      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 309426,
-      "name": "Toma Tu Recuerdo",
-      "url": "https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW"
+      "duration_ms": 330266,
+      "name": "Cuanto Te Amo",
+      "url": "https://open.spotify.com/track/3rGW31Pn5BKVDs1VZHzAU8"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 330266,
-      "name": "Cuanto Te Amo",
-      "url": "https://open.spotify.com/track/3rGW31Pn5BKVDs1VZHzAU8"
+      "duration_ms": 309426,
+      "name": "Toma Tu Recuerdo",
+      "url": "https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 306600,
-      "name": "No Queda Nada",
-      "url": "https://open.spotify.com/track/3Fi6LK7SNEZH1kLWJCWLLr"
+      "duration_ms": 294373,
+      "name": "Cuando Llora El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5gz1ypTLyxXujLlGNcAf8T"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 294373,
-      "name": "Cuando Llora El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5gz1ypTLyxXujLlGNcAf8T"
+      "duration_ms": 306600,
+      "name": "No Queda Nada",
+      "url": "https://open.spotify.com/track/3Fi6LK7SNEZH1kLWJCWLLr"
     },
     {
       "added_at": null,

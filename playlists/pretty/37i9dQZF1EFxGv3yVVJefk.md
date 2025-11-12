@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322 likes - 63 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 63 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 42 | [They Said You Need Me](https://open.spotify.com/track/5VIH3L5qG7Kwkz3JOAIer0) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:40 |
 | 43 | [The Second Time Around](https://open.spotify.com/track/6UJ8bJgY1nIpYUTb2PAsUY) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 6:21 |
 | 44 | [Nobody to Love](https://open.spotify.com/track/58SgKp0jBgzzoc0isG6BMk) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 5:45 |
-| 45 | [Nights In Harlem](https://open.spotify.com/track/6lh0AqT1So3DLXmLCOq7lO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Precise](https://open.spotify.com/artist/1DCg5oUIDsOQKJNgvsfq8U) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:57 |
+| 45 | [Nights In Harlem](https://open.spotify.com/track/6lh0AqT1So3DLXmLCOq7lO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Marcella Precise](https://open.spotify.com/artist/0ZR1QT9DoVMVyD9w6RzJS0) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:57 |
 | 46 | [Dream Lover](https://open.spotify.com/track/6ci6IogNBgBxSMLKm78HUf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:32 |
 | 47 | [Love Forgot](https://open.spotify.com/track/1SdTlnlYsIuLqzvKIACKIf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:36 |
 | 48 | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/track/66ytWEGo1GFennEcymEXN3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 5:29 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 62 | [This Strange Feeling](https://open.spotify.com/track/2iukFid6vhDSEXMgo4Ycng) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 4:44 |
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AcBPngAAAAB91QwOVnAy+8Blq3touH/h`
+Snapshot ID: `AcBVegAAAADX3RsfIvQ1sxpijE8/x1Bo`

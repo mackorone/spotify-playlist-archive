@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/02Mkp5UKF2f6GYdS1lHcck"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4KaHfqM1aMQrw63pHrzIM3"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/02Mkp5UKF2f6GYdS1lHcck"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4aJOAOc5CkBxEcwHhxbLRi"
+    },
+    {
+      "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
@@ -117,6 +153,32 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
+    },
+    {
+      "album": {
         "name": "bittersweet",
         "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
@@ -186,7 +248,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -204,7 +266,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 155528,
       "name": "Claw Marks",
       "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
@@ -222,7 +284,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 185152,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
@@ -258,7 +320,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -345,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Dying To Love",
+        "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256965,
+      "name": "Dying To Love",
+      "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
+    },
+    {
+      "album": {
         "name": "EsDeeKid Black Beatles",
         "url": "https://open.spotify.com/album/3Zqb8ZYj9N2REcZxMDAi17"
       },
@@ -356,7 +436,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 155109,
       "name": "EsDeeKid Black Beatles",
       "url": "https://open.spotify.com/track/2WfuwHaw1Hzhks79Lt52qP"
@@ -396,7 +476,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 127058,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3ma6tfffc2T7vqlyrLP2Zl"
@@ -516,6 +596,24 @@
       "duration_ms": 170677,
       "name": "Fourth Strike",
       "url": "https://open.spotify.com/track/4ZYc3kAdPWlhYMnEsjvVr6"
+    },
+    {
+      "album": {
+        "name": "FU & UF",
+        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
     },
     {
       "album": {
@@ -660,6 +758,24 @@
       "duration_ms": 186038,
       "name": "Goo Goo Muck",
       "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203710,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
     },
     {
       "album": {
@@ -933,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/1poVWT8ZlwVbtu2ZvMTfm2"
+      },
+      "artists": [
+        {
+          "name": "TWOFACED",
+          "url": "https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392"
+        },
+        {
+          "name": "Nikita W.",
+          "url": "https://open.spotify.com/artist/1UGrSAPCJMKgZq7mWsq9vm"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174818,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/2EMj2j03BtJeAmbfl7TeEr"
+    },
+    {
+      "album": {
         "name": "At Home with Screamin' Jay Hawkins",
         "url": "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz"
       },
@@ -1114,7 +1252,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 204959,
       "name": "Livin\u2019 on Borrowed Time",
       "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
@@ -1176,6 +1314,24 @@
       "duration_ms": 164546,
       "name": "Made In Japan",
       "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
+    },
+    {
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175413,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE"
     },
     {
       "album": {
@@ -1251,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Mayfair Settings",
+        "url": "https://open.spotify.com/album/1bvnvwImtMG7fjq2heZoos"
+      },
+      "artists": [
+        {
+          "name": "Cass",
+          "url": "https://open.spotify.com/artist/6TTjPbelnBIFcSOTtupewI"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109411,
+      "name": "Mayfair Settings",
+      "url": "https://open.spotify.com/track/6TtVDVYy6y55sCvAFEmWcT"
+    },
+    {
+      "album": {
         "name": "27 Anos Nacional",
         "url": "https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW"
       },
@@ -1288,7 +1462,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -1408,7 +1582,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 298783,
       "name": "My Old Ways",
       "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
@@ -1433,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        },
+        {
+          "name": "Specialist Moss",
+          "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "Nonmonogamummy",
+      "url": "https://open.spotify.com/track/0dBRiasmDpHou4JmNBe8cq"
+    },
+    {
+      "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/2iJkrwXpyChhfeClyX7oov"
       },
@@ -1448,7 +1644,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
@@ -1506,7 +1702,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 140202,
       "name": "Only One",
       "url": "https://open.spotify.com/track/576mVXUFpVKsvySHclibLU"
@@ -1629,6 +1825,46 @@
     },
     {
       "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "album": {
         "name": "Rather Be In Oakland",
         "url": "https://open.spotify.com/album/3RPzNZYlz1XHGkaE4wzhfv"
       },
@@ -1684,10 +1920,50 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+    },
+    {
+      "album": {
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+    },
+    {
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Ruminating",
+      "url": "https://open.spotify.com/track/0kJAopMxyyqtF1GiIIsgzn"
     },
     {
       "album": {
@@ -1724,7 +2000,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 145714,
       "name": "Slow down",
       "url": "https://open.spotify.com/track/3XYM6xFXJYSs0tquRM6RTy"
@@ -1742,7 +2018,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -1800,6 +2076,46 @@
       "duration_ms": 173696,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX"
+    },
+    {
+      "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172313,
+      "name": "SPAGHETTI",
+      "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
+    },
+    {
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "album": {
@@ -1902,7 +2218,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 176363,
       "name": "Supa Smoov",
       "url": "https://open.spotify.com/track/5J5OO9bRbTzfJf8WS58cMA"
@@ -1924,10 +2240,46 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 317040,
       "name": "Talk To You (ft. Elton John)",
       "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
+    {
+      "album": {
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130653,
+      "name": "ten years time",
+      "url": "https://open.spotify.com/track/2OupMbGCv1k6UDN0ay6sdt"
+    },
+    {
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR"
     },
     {
       "album": {
@@ -1982,7 +2334,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -2272,10 +2624,28 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
+    },
+    {
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246293,
+      "name": "West End Girl",
+      "url": "https://open.spotify.com/track/6gafVG02AvcZou1oz7titv"
     },
     {
       "album": {
@@ -2318,7 +2688,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 372813,
-      "name": "Where Love Lives - Classic Club Mix",
+      "name": "Where Love Lives - Classic Club Mix - featured on the John Lewis Christmas Advert 2025",
       "url": "https://open.spotify.com/track/65hHk4bV2XtL2j9NGBpLtg"
     },
     {
@@ -2338,7 +2708,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 189090,
       "name": "Where's The Party At?",
       "url": "https://open.spotify.com/track/0GNhPz8O0ycFDjXA5eDS0e"
@@ -2432,10 +2802,32 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 159673,
       "name": "YAMA",
       "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
+    },
+    {
+      "album": {
+        "name": "you haunt me",
+        "url": "https://open.spotify.com/album/3xModkFLmbsjjJdo4VUcHM"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
+        },
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "you haunt me",
+      "url": "https://open.spotify.com/track/6uu9VaSDuWBXsJx8VTmsOJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbL3DLHfQeDmV"

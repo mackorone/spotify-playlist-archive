@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,200 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,214 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 40 | [Ik Heb Je Gemist](https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Wegwerpliefde](https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn) | 3:01 |
 | 41 | [Tijd Genoeg](https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Tijd Genoeg](https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3) | 2:40 |
 | 42 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |
-| 43 | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 |
-| 44 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
-| 45 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 |
+| 43 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
+| 44 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 |
+| 45 | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 |
 | 46 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
 | 47 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 |
 | 48 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 |

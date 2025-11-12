@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 708630,
+  "num_followers": 708748,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Let It Roll",
-        "url": "https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Baby's Got Her Blue Jeans On",
-      "url": "https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Ocean Front Property",
         "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 188533,
       "name": "Ocean Front Property",
       "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Let It Roll",
+        "url": "https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Baby's Got Her Blue Jeans On",
+      "url": "https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 190800,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Bocephus Box Set",
-        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
         }
       ],
-      "duration_ms": 255000,
-      "name": "A Country Boy Can Survive",
-      "url": "https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB"
+      "duration_ms": 183533,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
+        "name": "The Bocephus Box Set",
+        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Swingin'",
-      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
+      "duration_ms": 255000,
+      "name": "A Country Boy Can Survive",
+      "url": "https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "Redneck Girl",
-      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Wheels",
         "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 258799,
       "name": "I'll Still Be Loving You",
       "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "Redneck Girl",
+      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Sunday In the South",
-      "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 245106,
       "name": "Old Hippie",
       "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Sunday In the South",
+      "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
     },
     {
       "added_at": "2024-10-14 21:15:40",

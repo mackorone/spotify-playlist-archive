@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "4K (feat. Dean Brady)",
+        "url": "https://open.spotify.com/album/3ZX8g5zojqxeK9a97hNXJi"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        },
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "4K (feat. Dean Brady)",
+      "url": "https://open.spotify.com/track/6wFg3WLN1543gMv1fsSvFT"
+    },
+    {
+      "album": {
         "name": "5am in Paris",
         "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
       },
@@ -182,7 +204,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 161805,
       "name": "Ain't I Good For You",
       "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
@@ -320,7 +342,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 245747,
       "name": "Another You",
       "url": "https://open.spotify.com/track/4nAvG5BhF7UagtZ7fbN7aE"
@@ -938,7 +960,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 130000,
       "name": "Comin' Through",
       "url": "https://open.spotify.com/track/51Y0kkClSkknR2V0rvbOni"
@@ -1098,6 +1120,24 @@
       "duration_ms": 195266,
       "name": "Crushed Velvet",
       "url": "https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7"
+    },
+    {
+      "album": {
+        "name": "Cumulus / Memory",
+        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407765,
+      "name": "Cumulus / Memory",
+      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
     },
     {
       "album": {
@@ -1374,6 +1414,24 @@
       "duration_ms": 219949,
       "name": "F o r C e r t a i n",
       "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
+      "album": {
+        "name": "FADED",
+        "url": "https://open.spotify.com/album/31tMFCIfhLwx7tX2NZKv7m"
+      },
+      "artists": [
+        {
+          "name": "ZPLUTO",
+          "url": "https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193544,
+      "name": "FADED",
+      "url": "https://open.spotify.com/track/2nrDLkv49Kr7veWTOHQwhi"
     },
     {
       "album": {
@@ -1659,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3BofKkoVItfI3lJKLAbhws"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263150,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/2xtMzP7zU2gYqssJPfviMl"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -1834,6 +1910,24 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+    },
+    {
+      "album": {
+        "name": "Her Face",
+        "url": "https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203312,
+      "name": "Her Face",
+      "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
     },
     {
       "album": {
@@ -2268,6 +2362,28 @@
       "duration_ms": 187972,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
+    },
+    {
+      "album": {
+        "name": "Keep Me Alive",
+        "url": "https://open.spotify.com/album/3vNlMPoSWc3WepLh2zHiXo"
+      },
+      "artists": [
+        {
+          "name": "Addison Dean",
+          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
+        },
+        {
+          "name": "Jaylin Rahjon",
+          "url": "https://open.spotify.com/artist/7GZv334spln2zHFg0sJi5S"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Keep Me Alive",
+      "url": "https://open.spotify.com/track/7c0jiXS8GsVEONVTwvK8xI"
     },
     {
       "album": {
@@ -2918,7 +3034,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 184888,
       "name": "No More",
       "url": "https://open.spotify.com/track/2BmVS0DMTaaoFxK2IzYr0e"
@@ -3082,7 +3198,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 145893,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/4MDbNtvNn6nlmadLmdLb97"
@@ -3250,7 +3366,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 211373,
       "name": "Paper Calling",
       "url": "https://open.spotify.com/track/5lj3zX4nxchUcV0XQjQZZ9"
@@ -3604,7 +3720,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 190451,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV"
@@ -3778,6 +3894,24 @@
       "duration_ms": 207097,
       "name": "Space",
       "url": "https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/197wH1QuM2vfKHKhKARqww"
+      },
+      "artists": [
+        {
+          "name": "Talia Perese",
+          "url": "https://open.spotify.com/artist/6Gp5ElBOlUi6ibQplIZc5c"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161043,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/2KWeflR31rjAgNReFSOu3f"
     },
     {
       "album": {

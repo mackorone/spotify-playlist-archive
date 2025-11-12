@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,512 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,518 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 18 | [Remedy \(feat\. Stevie Nicks\)](https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:29 |
 | 19 | [After the Glitter Fades \- 2016 Remaster](https://open.spotify.com/track/0JHm1MZjQ1smYmD8XCGx11) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:30 |
 | 20 | [Stephanie](https://open.spotify.com/track/1iAJwQdCZBswDjjcCd06LG) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:13 |
-| 21 | [Nightbird \- 2016 Remaster](https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 5:01 |
-| 22 | [I Can't Wait](https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:35 |
+| 21 | [I Can't Wait](https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:35 |
+| 22 | [Nightbird \- 2016 Remaster](https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 5:01 |
 | 23 | [Kind of Woman \- 2016 Remaster](https://open.spotify.com/track/0ehVk4Py6iyLpfruxVYq4S) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:12 |
 | 24 | [Crystal](https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 3:49 |
 | 25 | [Sorcerer](https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:54 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 36 | [Trouble in Shangri\-La](https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:49 |
 | 37 | [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(Deluxe Edition\)](https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI) | 6:09 |
 | 38 | [Rhiannon \- Live 2005](https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 7:01 |
-| 39 | [Free Fallin'](https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 5:36 |
+| 39 | [Landslide](https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Rock and Roll Hall of Fame Volume 5: 1998\-1999](https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c) | 3:48 |
 | 40 | [Every Day](https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 3:36 |
-| 41 | [Landslide](https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Rock and Roll Hall of Fame Volume 5: 1998\-1999](https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c) | 3:48 |
+| 41 | [Free Fallin'](https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 5:36 |
 | 42 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 |
 | 43 | [Sister Honey](https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:50 |
 | 44 | [Enchanted \- 2016 Remaster](https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 49 | [Sleeping Angel \(From Fast Times at Ridgemont High\) \- 2016 Remaster](https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 4:40 |
 | 50 | [Whole Lotta Trouble](https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:31 |
 
-Snapshot ID: `aQ/ZgAAAAAD2n3G7080tNVfjzqM8TMGR`
+Snapshot ID: `aRErAAAAAADRXDUAbX9PSqHchsdaejSd`

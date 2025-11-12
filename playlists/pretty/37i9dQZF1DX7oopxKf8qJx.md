@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,915 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,996 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 34 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
 | 35 | [Stranger On The Shore](https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:11 |
 | 36 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Robert Maxwell](https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB), [Carl Sigman](https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
-| 37 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
-| 38 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
+| 37 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
+| 38 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 39 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
 | 40 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
 | 41 | [Islands In The Sky](https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:56 |
-| 42 | [The Song from 'moulin Rouge' \(Where Is Your Heart\)](https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Music From Hollywood](https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4) | 5:51 |
-| 43 | [I Wish You Love](https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [I Wish You Love](https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE) | 2:48 |
+| 42 | [I Wish You Love](https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [I Wish You Love](https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE) | 2:48 |
+| 43 | [The Song from 'moulin Rouge' \(Where Is Your Heart\)](https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Music From Hollywood](https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4) | 5:51 |
 | 44 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
 | 45 | [My Funny Valentine](https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:22 |
 | 46 | [Megeve](https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Charade](https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy) | 2:59 |

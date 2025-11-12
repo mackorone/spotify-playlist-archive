@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11325,
+  "num_followers": 11326,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACNOcCSPq96Jl2MjKa1MTWG",
+  "snapshot_id": "aRErAAAAAAAfyRLRY1VdFQ5M0m29PGP9",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want It All (feat. Evalyn)",
-        "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Want It All (feat. Evalyn)",
-      "url": "https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] [Demo]",
         "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
       "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Want It All (feat. Evalyn)",
+        "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Want It All (feat. Evalyn)",
+      "url": "https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c"
     },
     {
       "added_at": null,

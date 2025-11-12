@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2517507,
+  "num_followers": 2517910,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMXcUXAoVcbvrPEqcZgRtMx9kTDz",
+  "snapshot_id": "AAAAAFpIa7R0ppN9E0/X3VyZx9/yuLVU",
   "tracks": [
     {
       "added_at": "2025-11-04 12:39:57",
@@ -363,42 +363,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "What Did I Miss?",
-        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/26hzxv39hvWTG6t5zO8oQJ"
-      },
-      "artists": [
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        },
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        }
-      ],
-      "duration_ms": 212054,
-      "name": "Movie (feat. Abra Cadabra)",
-      "url": "https://open.spotify.com/track/6Lo7ml7DFnDw2XNlv5c84p"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -423,6 +387,42 @@
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/26hzxv39hvWTG6t5zO8oQJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "duration_ms": 212054,
+      "name": "Movie (feat. Abra Cadabra)",
+      "url": "https://open.spotify.com/track/6Lo7ml7DFnDw2XNlv5c84p"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -471,26 +471,6 @@
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -579,6 +559,26 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -875,38 +875,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "SAY MY GRACE (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 185706,
       "name": "PHILLY (with Travis Scott)",
       "url": "https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Thot Shit",
-        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 184634,
-      "name": "Thot Shit",
-      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+        "name": "Thot Shit",
+        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "duration_ms": 184634,
+      "name": "Thot Shit",
+      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
     },
     {
       "added_at": "2025-11-04 12:39:57",

@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 30 | [Going Up](https://open.spotify.com/track/1L3tUdD47eusTrxQRnr7IK) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Pleasure Shop \- The 3rd Mini Album](https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J) | 2:50 |
 | 31 | [Too Good for a Bad Thing](https://open.spotify.com/track/4OvDV0juxyQnrgoiIPffCx) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:11 |
 | 32 | [Us](https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Electric Honey](https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67) | 3:02 |
-| 33 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 |
-| 34 | [My My My](https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [My My My](https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs) | 3:20 |
+| 33 | [My My My](https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [My My My](https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs) | 3:20 |
+| 34 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 |
 | 35 | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/track/2sDXpPNots6fAZWa2sVl2G) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Elevator Jay](https://open.spotify.com/artist/2JmhnB4HLAf3PjqmikkJrC) | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/album/1BqlYDKcWfyj0vMPLRspqh) | 3:16 |
 | 36 | [Special One](https://open.spotify.com/track/3KwNz4zdzLdj6GUMWt0UqV) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Project Purple](https://open.spotify.com/album/4PLUrpYS9dQzPReNc5zkpg) | 3:37 |
 | 37 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 64 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 | 65 | [Loose](https://open.spotify.com/track/5XNK0HZfoTf7hhivBgmeUh) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose \[ALT\]](https://open.spotify.com/album/6iE7hjTGriBjRuzCl2kOYS) | 2:58 |
 
-Snapshot ID: `AcBPxgAAAACnCFhYmB3odrjIRokbXNOR`
+Snapshot ID: `AcBVZgAAAABmk+MnRLRRzTfBtWksAS8b`

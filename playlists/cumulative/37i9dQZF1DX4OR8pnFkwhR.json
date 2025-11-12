@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Lavt",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: 7co & \u738bADEN",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -734,6 +734,24 @@
       "duration_ms": 246666,
       "name": "50%",
       "url": "https://open.spotify.com/track/5RtvjcgyI2NfATzDmExssD"
+    },
+    {
+      "album": {
+        "name": "7 minutes",
+        "url": "https://open.spotify.com/album/3z37n5Twoc3niP80UDXRB0"
+      },
+      "artists": [
+        {
+          "name": "Natsudaidai",
+          "url": "https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215647,
+      "name": "7 minutes",
+      "url": "https://open.spotify.com/track/4xvUNJzple6pL5yJjz9dd7"
     },
     {
       "album": {
@@ -2723,6 +2741,28 @@
     },
     {
       "album": {
+        "name": "BOUNCE (feat. C.O.S.A.)",
+        "url": "https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157139,
+      "name": "BOUNCE (feat. C.O.S.A.)",
+      "url": "https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ"
+    },
+    {
+      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/6U8sNsAGPjgAJnBlupCq7P"
       },
@@ -2738,6 +2778,24 @@
       "duration_ms": 238860,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/2nmKXcHdicY328zAPkcSJB"
+    },
+    {
+      "album": {
+        "name": "bourgeoisie",
+        "url": "https://open.spotify.com/album/2oZ2rThJ9TY5d7r1uNHzfH"
+      },
+      "artists": [
+        {
+          "name": "JIJIM",
+          "url": "https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185398,
+      "name": "bourgeoisie",
+      "url": "https://open.spotify.com/track/2TrzwcLuyE9nViQCNq3Rbp"
     },
     {
       "album": {
@@ -9130,7 +9188,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 204428,
       "name": "How to forget you",
       "url": "https://open.spotify.com/track/4nCWoXE4Xe6c98CgggHPgn"
@@ -9599,6 +9657,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream Moment",
+        "url": "https://open.spotify.com/album/0c18UlghbglqtpHJ2SN3I3"
+      },
+      "artists": [
+        {
+          "name": "Slump Girl",
+          "url": "https://open.spotify.com/artist/7njfMubTH8CmJE5mKebdnl"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236643,
+      "name": "Ice Cream Moment",
+      "url": "https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg"
+    },
+    {
+      "album": {
         "name": "ICE Natsu feat. Daito Yamamoto",
         "url": "https://open.spotify.com/album/3DNn855DdIZX2MQqNnBjTg"
       },
@@ -9614,7 +9690,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 196245,
       "name": "ICE Natsu feat. Daito Yamamoto",
       "url": "https://open.spotify.com/track/6aQSUToZgg1TQkjvqlpf4I"
@@ -11856,7 +11932,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 253307,
       "name": "Lovely Franklin",
       "url": "https://open.spotify.com/track/4hdqRv0u8glbxWvyTv91q8"
@@ -17022,7 +17098,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 222000,
       "name": "SAYONARAKIRAKIRA",
       "url": "https://open.spotify.com/track/2PpDslxv7EgrIt6fyNi8br"
@@ -17556,6 +17632,24 @@
       "duration_ms": 223109,
       "name": "SHOZEN",
       "url": "https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu"
+    },
+    {
+      "album": {
+        "name": "Shukusai",
+        "url": "https://open.spotify.com/album/5vvy3TXEYSlmwsyJIY1Itc"
+      },
+      "artists": [
+        {
+          "name": "TiDE",
+          "url": "https://open.spotify.com/artist/7GYf2bbYNFuyl22IYZJ8lI"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261332,
+      "name": "Shukusai",
+      "url": "https://open.spotify.com/track/0Yp9soHbbeWL5dJhd8X1ON"
     },
     {
       "album": {
@@ -18383,6 +18477,24 @@
     },
     {
       "album": {
+        "name": "Soundproof Handle",
+        "url": "https://open.spotify.com/album/15pXZRlX6QwkRajyRmuHs4"
+      },
+      "artists": [
+        {
+          "name": "171",
+          "url": "https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Soundproof Handle",
+      "url": "https://open.spotify.com/track/0Hlv2qhpcpDC5bI8FXKel5"
+    },
+    {
+      "album": {
         "name": "Soup",
         "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
       },
@@ -19180,7 +19292,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 232193,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T"
@@ -19686,6 +19798,24 @@
       "duration_ms": 191717,
       "name": "The 1",
       "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
+    },
+    {
+      "album": {
+        "name": "montauk",
+        "url": "https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au"
+      },
+      "artists": [
+        {
+          "name": "the bercedes menz",
+          "url": "https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204770,
+      "name": "the anomaly",
+      "url": "https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed"
     },
     {
       "album": {
@@ -21956,7 +22086,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 290293,
       "name": "wolf moon",
       "url": "https://open.spotify.com/track/4Xp9m04sCoqzu41LaGCmk1"
@@ -28928,7 +29058,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 193081,
       "name": "\u30e1\u30a4\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1wuYWFzZBDdzFcYtB2uBkI"

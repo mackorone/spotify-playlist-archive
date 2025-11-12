@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 121006,
+  "num_followers": 121025,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Scotch & Soda",
+      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 381373,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "I Love Being Here With You",
-      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
       },
       "artists": [
         {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+      "duration_ms": 299160,
+      "name": "I Love Being Here With You",
+      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Gemini Changes",
-        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "The Complete Decca Recordings",
         "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182666,
       "name": "One O'Clock Jump",
       "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Gemini Changes",
+        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Divine One",
-        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "You Stepped out of a Dream - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 152960,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "The Divine One",
+        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "You Stepped out of a Dream - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Julie... At Home",
-        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Broadway, Right Now!",
         "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 132773,
       "name": "Make Someone Happy - From \"Do Re Mi\"",
       "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Julie... At Home",
+        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
     },
     {
       "added_at": "2024-06-13 12:36:56",

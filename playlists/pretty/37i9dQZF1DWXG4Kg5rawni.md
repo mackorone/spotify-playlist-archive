@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,923 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,932 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 30 | [Amar Você](https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 5:51 |
 | 31 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
 | 32 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
-| 33 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
-| 34 | [Por Toda Vida](https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Amo Você Vol\. 6](https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE) | 4:15 |
+| 33 | [Por Toda Vida](https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Amo Você Vol\. 6](https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE) | 4:15 |
+| 34 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
 | 35 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
 | 36 | [Presente de Deus](https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS) | [Oficina do Som](https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7) | [Presente de Deus](https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W) | 3:29 |
 | 37 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 46 | [Terapia](https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q) | [Terapia](https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA) | 4:23 |
 | 47 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
 | 48 | [Por Nós](https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Amar e Perdoar](https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ) | 3:50 |
-| 49 | [Amar pra Sempre](https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Amar pra Sempre](https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR) | 4:45 |
-| 50 | [Deus Você e Eu](https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Deus Você e Eu](https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU) | 3:39 |
-| 51 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
-| 52 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
+| 49 | [Deus Você e Eu](https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Deus Você e Eu](https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU) | 3:39 |
+| 50 | [Amar pra Sempre](https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Amar pra Sempre](https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR) | 4:45 |
+| 51 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
+| 52 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
 | 53 | [Te Amaria Outra Vez / Amar Você \- Ao Vivo](https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Te Amaria Outra Vez / Amar Você \(Ao Vivo\)](https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe) | 4:09 |
 | 54 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
 | 55 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 |

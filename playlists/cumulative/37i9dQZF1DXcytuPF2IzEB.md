@@ -4,7 +4,7 @@
 
 > Disco, acid and synths galore \- all your favourite 80s dance hits!
 
-52 songs - 4 hr 7 min
+52 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Going Back to My Roots \- Single Version](https://open.spotify.com/track/2ce4RsJ38JH1iroQhoph3J) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [I Got the Melody \(Expanded Edition\)](https://open.spotify.com/album/2R9rEVibO3wDnB950OThmj) | 3:25 | 2024-03-18 |  |
 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 | 2024-03-18 |  |
 | [Got To Have Your Love \- Radio Edit](https://open.spotify.com/track/4qMkEKu8MVqEafFMrncGRa) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY), [Wondress](https://open.spotify.com/artist/7KIhpjxlijX6ntQgj6rAmH) | [The Best Of Mantronix \(1985 \- 1999\)](https://open.spotify.com/album/20UnpDF1GFqUYHOPiLjWGK) | 4:07 | 2024-03-18 | 2025-11-08 |
-| [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 | 2024-03-18 |  |
+| [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 | 2024-03-18 |  |
 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 | 2024-03-18 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2024-03-18 |  |
 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 | 2024-03-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1094192,
+  "num_followers": 1094330,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAACXnbL20++PZCi4kSR1ao6Q",
+  "snapshot_id": "aRErAAAAAAAbXsJ8pKGBBncf8P38quGZ",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today's Song",
-        "url": "https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 194819,
-      "name": "Today's Song",
-      "url": "https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 219393,
       "name": "Under You",
       "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today's Song",
+        "url": "https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 194819,
+      "name": "Today's Song",
+      "url": "https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
     },
     {
       "added_at": null,
@@ -580,25 +580,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 253840,
+      "duration_ms": 253836,
       "name": "Waiting On A War",
       "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 303813,
-      "name": "Walking After You",
-      "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 207780,
       "name": "Nothing At All",
       "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 303813,
+      "name": "Walking After You",
+      "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 83800,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 229783,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 83800,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 283469,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 208696,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "Shame Shame",
-      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Your Honor",
         "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 229106,
       "name": "Virginia Moon",
       "url": "https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 257433,
+      "name": "Shame Shame",
+      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
     }
   ],
   "unique_name": "This Is Foo Fighters",

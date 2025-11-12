@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3544,
+  "num_followers": 3543,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAA4/QW27zLgL2peb2p6CPtG",
+  "snapshot_id": "aRErAAAAAABeb3OdkVDyYPRKIDcK6huX",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
       "artists": [
         {
@@ -604,17 +604,21 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi"
         },
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 172009,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/6uxBWEwthBgH3IbyT37LHR"
+      "duration_ms": 190758,
+      "name": "Irreal",
+      "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
     },
     {
       "added_at": null,
@@ -643,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irreal",
-        "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
       "artists": [
         {
@@ -652,21 +656,17 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
         },
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 190758,
-      "name": "Irreal",
-      "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
+      "duration_ms": 172009,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/6uxBWEwthBgH3IbyT37LHR"
     },
     {
       "added_at": null,
@@ -971,30 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem que t\u00e1 vindo no porte?",
-        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 150711,
-      "name": "Quem que t\u00e1 vindo no porte?",
-      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fed Tracks #14: Recado",
         "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 161095,
       "name": "Fed Tracks #14: Recado",
       "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem que t\u00e1 vindo no porte?",
+        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 150711,
+      "name": "Quem que t\u00e1 vindo no porte?",
+      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
     },
     {
       "added_at": null,

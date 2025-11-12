@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820,959 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,820,931 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 47 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 48 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 |
 | 49 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 |
-| 50 | [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 |
-| 51 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 |
+| 50 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 |
+| 51 | [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 |
 | 52 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 |
 | 53 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 |
 | 54 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 74 | [Eye Know](https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 4:12 |
 | 75 | [Heaven \(Butterflies\)](https://open.spotify.com/track/2O9bYhoUhCOVvwRoaFSFje) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [The Light For Days](https://open.spotify.com/album/6QFCcGo5qotgcHmizXKTta) | 4:57 |
 | 76 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
-| 77 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
-| 78 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
+| 77 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
+| 78 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 79 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 |
 | 80 | [Fields Of Gold](https://open.spotify.com/track/22gLGCKbFKwmgZhrpVcnFb) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 3:37 |
 | 81 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 93 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 94 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 | 95 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
-| 96 | [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 |
-| 97 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 |
+| 96 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 |
+| 97 | [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 |
 | 98 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
 | 99 | [Soft Spot](https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot](https://open.spotify.com/album/5huqwJ6gDBbuyjNOOVOTrP) | 3:24 |
 | 100 | [Lover](https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM) | 3:41 |

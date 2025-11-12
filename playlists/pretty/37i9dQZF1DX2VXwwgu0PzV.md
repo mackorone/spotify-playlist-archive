@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Protek Illasheva
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,395 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,417 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 72 | [Commando](https://open.spotify.com/track/5qdyB5dAdC1snlFplm5Q9W) | [King Mirasong](https://open.spotify.com/artist/2tGaQV7J6ORyHQbtgcuF1i), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Commando](https://open.spotify.com/album/2nTqkgrVOm8eLpOQwpnQyq) | 2:23 |
 | 73 | [Blessed Assurance](https://open.spotify.com/track/37OLhQWWM8dWaYDs0GItih) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Tianney](https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y) | [Blessed Assurance](https://open.spotify.com/album/0wUF4IL8w0covkEUfJiVMG) | 2:38 |
 | 74 | [Without Jesus](https://open.spotify.com/track/6MYx7TsfvQK1nAjFXmYgF3) | [Alerotune](https://open.spotify.com/artist/5f98mRceXGiQjROqT2vIdh), [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Without Jesus](https://open.spotify.com/album/02v1A4M5kG8GuhWFovPzZF) | 2:09 |
-| 75 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
+| 75 | [Firm Foundation \(He Won't\)\[Feat\. Chandler Moore\]](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
 | 76 | [OMG!](https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz) | [Doris Joseph](https://open.spotify.com/artist/2gIZrTYURG6RxnI3mGFHEt), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [OMG!](https://open.spotify.com/album/2N9gSQcUyIPZ2sIfmwiPK6) | 2:46 |
 | 77 | [Serving A God \- Energize Version](https://open.spotify.com/track/6R7FZf8xbSiI6ubbXsuyxq) | [Energize Music](https://open.spotify.com/artist/5dAPl80cZ4v2sTePGMbP2E), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Serving A God \(Energize Version\)](https://open.spotify.com/album/37MjDtf3Fzn5VEZ2tocwsi) | 4:08 |
 | 78 | [HELPER](https://open.spotify.com/track/3M8SjmF4xF1gmpanhZvF1G) | [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [HELPER](https://open.spotify.com/album/6Izc09YTaMSZeRUAzW9UQp) | 2:40 |

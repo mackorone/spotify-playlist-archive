@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 443715,
+  "num_followers": 443711,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "100% Grupo Revela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 207093,
       "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
       "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "100% Grupo Revela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "SENTAD\u00c3O",
         "url": "https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 143448,
       "name": "SENTAD\u00c3O",
       "url": "https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Malandramente",
         "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 171692,
       "name": "Malandramente",
       "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Arena Pop 2014",
-        "url": "https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS"
-      },
-      "artists": [
-        {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Lepo Lepo",
-      "url": "https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Negro Lindo",
         "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 180000,
       "name": "Tchubirabirom",
       "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Arena Pop 2014",
+        "url": "https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS"
+      },
+      "artists": [
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Lepo Lepo",
+      "url": "https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf"
     },
     {
       "added_at": "2022-02-10 18:18:16",

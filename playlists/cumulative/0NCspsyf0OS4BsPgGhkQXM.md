@@ -4,10 +4,11 @@
 
 > The Official Trap Nation Playlist
 
-1,130 songs - 2 day 10 hr 9 min
+1,130 songs - 2 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-06 |  |
 | ['iiblis](https://open.spotify.com/track/0IUGa7sG1RNgA1DHFwHqMh) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [jacob.](https://open.spotify.com/artist/4TZfht59B1e5LZE8JsE1OE) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 3:20 | 2022-01-14 | 2022-04-08 |
 | [\(Give It To Me Like I\) Want It](https://open.spotify.com/track/5z5sA9z9PqN0pciTUnmkki) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [\(Give It To Me Like I\) Want It](https://open.spotify.com/album/6MHlPJOdgHXcWBmvtqKYo3) | 3:36 | 2022-01-14 | 2022-09-15 |
 | [1\-800](https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Ironmouse](https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C) | [1\-800](https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI) | 3:29 | 2025-09-13 |  |
@@ -467,7 +468,6 @@
 | [I Miss You More Than You Think](https://open.spotify.com/track/4bwRNsGCcUbK8zzJHwqiXD) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Lunamatic](https://open.spotify.com/artist/77DTuUk6FabnQ9gB0e91qT) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 3:42 | 2022-07-01 | 2022-11-24 |
 | [I Miss You, I Don't](https://open.spotify.com/track/3FtxHC0IjW4tIynPu7lvzx) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [I Miss You, I Don't](https://open.spotify.com/album/5tC9tQ6maXtBeOnU6DLBRI) | 2:01 | 2024-03-19 |  |
 | [I Need The Truth \(feat\. Akacia\)](https://open.spotify.com/track/5iYouPpXrtpelj5SzsqBXi) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 3:02 | 2022-09-02 | 2022-10-08 |
-| [I Run](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 2:09 | 2025-11-06 |  |
 | [I Wanna Know](https://open.spotify.com/track/4ToogKQq58R9TvO40qRuxi) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:26 | 2023-04-08 | 2024-02-17 |
 | [i wanna say](https://open.spotify.com/track/3Xv0K6XiBhbEHC3LEoj9id) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [i wanna say](https://open.spotify.com/album/4dhUxrW3VtRdFrrgjj7Mnr) | 3:07 | 2022-04-01 | 2022-05-18 |
 | [I Won't Want You](https://open.spotify.com/track/4z2NbPa5hx6IeW1Fn71PPf) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ) | [I Won't Want You](https://open.spotify.com/album/7t0Bwl0IJENI5ahuBXFELH) | 2:46 | 2022-10-29 | 2022-11-24 |

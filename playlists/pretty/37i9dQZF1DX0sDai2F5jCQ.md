@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: thatboykwame
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,486 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,483 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 20 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
 | 21 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 |
 | 22 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
-| 23 | [PINK PORCHE](https://open.spotify.com/track/5CH3HucKWPtnT9THBXfBm6) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [PINK PORCHE](https://open.spotify.com/album/0iWaEQUQrea3AijA0JUaUk) | 1:32 |
+| 23 | [PINK PORSCHE](https://open.spotify.com/track/5CH3HucKWPtnT9THBXfBm6) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [PINK PORSCHE](https://open.spotify.com/album/0iWaEQUQrea3AijA0JUaUk) | 1:32 |
 | 24 | [Get Up](https://open.spotify.com/track/14jQipq7mtV2HCpdOQlHyE) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Get Up](https://open.spotify.com/album/2y0qzTAPB22qOzsby37Wx3) | 1:58 |
 | 25 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
 | 26 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,904 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,085 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 16 | [Tus Lágrimas \- Versión Mariachi](https://open.spotify.com/track/6DUBnfX0nZByQc2Ne4Qj4E) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:32 |
 | 17 | [Con La Novedad](https://open.spotify.com/track/4BkRkW91EvxeW9VhzVatqi) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:59 |
 | 18 | [Seguramente](https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:16 |
-| 19 | [Eres](https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Eres](https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr) | 3:15 |
-| 20 | [Que Sepas](https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:16 |
+| 19 | [Que Sepas](https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:16 |
+| 20 | [Eres](https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Eres](https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr) | 3:15 |
 | 21 | [Se Vienen Días Tristes](https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [¿Quién + Como Yo?](https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded) | 2:39 |
 | 22 | [El Día De Los Muertos](https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:23 |
 | 23 | [Ya No Es Normal](https://open.spotify.com/track/1atlhbxPVJOZbTfvMw1quB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:00 |
 | 24 | [Volverá](https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Volverá](https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr) | 2:52 |
-| 25 | [De Sobremanera](https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:38 |
-| 26 | [Ni Con Labios Prestados](https://open.spotify.com/track/5MPajQIS9V2AFuSVGXVdoR) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 4:04 |
+| 25 | [Ni Con Labios Prestados](https://open.spotify.com/track/5MPajQIS9V2AFuSVGXVdoR) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 4:04 |
+| 26 | [De Sobremanera](https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:38 |
 | 27 | [Y Porque No](https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:40 |
 | 28 | [Todo O Nada](https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:54 |
 | 29 | [La Danza Del Venado](https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:26 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 32 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
 | 33 | [Medalla De Plata](https://open.spotify.com/track/6HhmRkKT5i2oGSECqQxrog) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:03 |
 | 34 | [Voy Queriéndote](https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:27 |
-| 35 | [Ya Se Fue](https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario \(Vol\. 3\)](https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO) | 3:21 |
-| 36 | [Autorízame](https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 3:04 |
+| 35 | [Autorízame](https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 3:04 |
+| 36 | [Ya Se Fue](https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario \(Vol\. 3\)](https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO) | 3:21 |
 | 37 | [La Mejor De Las Historias](https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:35 |
 | 38 | [Noche De Enciclopedia](https://open.spotify.com/track/0lFfKSBQhjcbcDPFpicotx) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:08 |
 | 39 | [Villana De Cuento](https://open.spotify.com/track/0HK1L6iSv2x6xtDvnJuwLf) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 2:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 48 | ["Vivo"](https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:32 |
 | 49 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 
-Snapshot ID: `aQ/ZgAAAAACEv6xi04L46Xw93WjNuyvc`
+Snapshot ID: `aRErAAAAAAA9BI3ZEDrBHZBg+PfP4uER`

@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 74797,
+  "num_followers": 74798,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABToZ0WLGJOZT6GxJZp0vy8",
+  "snapshot_id": "aRErAAAAAACyRpJYp+HMOPX2AedQV17v",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "duration_ms": 199212,
+      "name": "MIS LOQUERAS (feat. Juanchito)",
+      "url": "https://open.spotify.com/track/71m7dsWqbe2o0sYOlovaqP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PORTATE BIEN",
         "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
@@ -611,22 +631,6 @@
       "duration_ms": 205565,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "no_pasa_nada_demo.wav",
-      "url": "https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA"
     },
     {
       "added_at": null,
@@ -667,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Nuestro Pasado",
-      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
@@ -690,15 +678,11 @@
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
         }
       ],
-      "duration_ms": 199212,
-      "name": "MIS LOQUERAS (feat. Juanchito)",
-      "url": "https://open.spotify.com/track/71m7dsWqbe2o0sYOlovaqP"
+      "duration_ms": 154516,
+      "name": "no_pasa_nada_demo.wav",
+      "url": "https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Nuestro Pasado",
+      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perdido En Ti",
         "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 199960,
       "name": "Infeliz",
       "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 160857,
+      "name": "DIME BB",
+      "url": "https://open.spotify.com/track/3fGP6nB0UHONOm3PPl6Oqc"
     },
     {
       "added_at": null,
@@ -755,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
       "artists": [
         {
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 160857,
-      "name": "DIME BB",
-      "url": "https://open.spotify.com/track/3fGP6nB0UHONOm3PPl6Oqc"
+      "duration_ms": 183559,
+      "name": "ATRAPADO",
+      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 310500,
       "name": "Viaje de Amor",
       "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 183559,
-      "name": "ATRAPADO",
-      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
     },
     {
       "added_at": null,

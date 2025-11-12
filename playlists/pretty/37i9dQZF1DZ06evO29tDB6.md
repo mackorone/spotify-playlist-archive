@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,350 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,356 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 17 | [Virgen morena](https://open.spotify.com/track/7nt6ghHg0orx4dieH5bFHp) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 4:32 |
 | 18 | [Triste Canción de Amor](https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Gerardo Guardia](https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt) | [Rayito Colombiano y los Grandes Compositores](https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm) | 3:26 |
 | 19 | [Mente roquera](https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Sinfónico](https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8) | 5:47 |
-| 20 | [María Sabina](https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:11 |
-| 21 | [Vicioso](https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 2:25 |
+| 20 | [Vicioso](https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 2:25 |
+| 21 | [María Sabina](https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:11 |
 | 22 | [Nocivo para la salud](https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 2:56 |
 | 23 | [Mente rockera](https://open.spotify.com/track/09DBgWM8izjfcoPpjCQZmc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:18 |
 | 24 | [Triste Canción](https://open.spotify.com/track/0D3BtbSUocYBsqK2UiXzYA) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Triste Canción](https://open.spotify.com/album/4r9CNUedkwlMyy5taK7HN1) | 3:35 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 37 | [Hoyos en la bolsa](https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 3:37 |
 | 38 | [Lágrimas en la lluvia](https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:59 |
 | 39 | [El rey](https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 |
-| 40 | [Un día en la vida](https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:09 |
+| 40 | [Encuentros cercanos del tercer sexo](https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:29 |
 | 41 | [Pamela](https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:41 |
 | 42 | [Triste canción de amor \(con El Tri\)](https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:23 |
 | 43 | [Hard to Handle](https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hard to Handle](https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX) | 3:10 |
-| 44 | [Encuentros cercanos del tercer sexo](https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:29 |
+| 44 | [Un día en la vida](https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:09 |
 | 45 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 |
 | 46 | [Libertad bajo fianza](https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:43 |
 | 47 | [Perdedor](https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Chilangolandia](https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 4:19 |
 | 50 | [Sópleme usted primero](https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 4:33 |
 
-Snapshot ID: `aQ/ZgAAAAABMfueQNHyQ3GlOoDfeqrRL`
+Snapshot ID: `aRErAAAAAAB/znYpVEkqPeg4JQAkrr1g`

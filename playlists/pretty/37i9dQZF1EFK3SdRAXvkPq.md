@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 133 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 133 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 31 | [No Te Quieren Conmigo \- Remix](https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [No Te Quieren Conmigo \(Remix\) \(Gaby Music, Anuel AA, Luar LA L\)](https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z) | 5:28 |
 | 32 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 |
 | 33 | [Todavía](https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:23 |
-| 34 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |
-| 35 | [Tropicoqueta](https://open.spotify.com/track/3l8zyeHnG8u2q7H4FQyVtS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:35 |
+| 34 | [Tropicoqueta](https://open.spotify.com/track/3l8zyeHnG8u2q7H4FQyVtS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:35 |
+| 35 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |
 | 36 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 |
 | 37 | [LA CYBER](https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 3:30 |
 | 38 | [Mamasota](https://open.spotify.com/track/3flzoYuNDBxbrnmv6qV0x4) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [201](https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9) | 3:36 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 132 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 133 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcBPvAAAAADzL6rtqULXfW69RBxCZCwS`
+Snapshot ID: `AcBVXAAAAADRZ51Dxpc7J+to4MVboZtK`

@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55451,
+  "num_followers": 55445,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAD5gIquJe5SVaby4oXVbVg8",
+  "snapshot_id": "aRErAAAAAADs/g0DIRFQy1yvKmFkOhHl",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/2rKP4A3wm8b5zLFyqSXCMY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 182726,
       "name": "Chalk Tablet Towers (feat. St Vincent)",
       "url": "https://open.spotify.com/track/5zGElc4Fk95ONl7YihpLFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/2rKP4A3wm8b5zLFyqSXCMY"
     },
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 222986,
-      "name": "Dinner for Two",
-      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
     },
     {
       "added_at": null,
@@ -696,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 200426,
-      "name": "My Baby Wants A Baby",
-      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
+      "duration_ms": 115373,
+      "name": "Candy Darling",
+      "url": "https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
       "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+      "duration_ms": 222986,
+      "name": "Dinner for Two",
+      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
     },
     {
       "added_at": null,

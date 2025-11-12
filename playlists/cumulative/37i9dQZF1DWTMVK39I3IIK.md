@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Rosa På Månen
 
-349 songs - 17 hr 46 min
+350 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 | 2024-09-19 |
 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 |  |
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
-| [Falling Behind](https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Falling Behind](https://open.spotify.com/album/0FIHlq0Hn44YivHaUJCBPH) | 3:14 | 2025-10-30 |  |
+| [Falling Behind](https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Falling Behind](https://open.spotify.com/album/0FIHlq0Hn44YivHaUJCBPH) | 3:14 | 2025-10-30 | 2025-11-12 |
 | [Fanget I En Drøm](https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Fanget I En Drøm](https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4) | 2:52 | 2025-09-04 | 2025-11-05 |
 | [Feed The Good](https://open.spotify.com/track/1k1o50LNgNIBCHVEZn977a) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [Feed The Good](https://open.spotify.com/album/4uLDoFdGDdFT8UPivo6VYP) | 2:50 | 2025-07-31 | 2025-08-08 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-06-20 |
@@ -245,6 +245,7 @@
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
 | [PUPILLER](https://open.spotify.com/track/1xoSUw7Ph8zlE1VR526FBB) | [Cano](https://open.spotify.com/artist/2Qd4bMMZa3Wc5Qaawf9Oho), [Salomon Stampe](https://open.spotify.com/artist/75TXnvyqAZUdfmD54jAaKd) | [PUPILLER](https://open.spotify.com/album/7jQF1UbqL3UI2ez2rYhfcZ) | 2:44 | 2025-10-30 | 2025-11-07 |
+| [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-06 |  |
 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 | 2025-01-09 | 2025-01-24 |
 | [PÅ TIL DET SAMME](https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [PÅ TIL DET SAMME](https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO) | 1:56 | 2025-10-02 |  |
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 | 2025-09-12 |

@@ -2,9 +2,9 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con Gabito Ballesteros y Fuerza Regida.
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Grupo Firme, Luis Alfonso Partida El Yaki.
 
-830 songs - 1 day 19 hr 39 min
+831 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 | 2025-01-24 | 2025-03-07 |
 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 | 2024-05-10 | 2024-10-11 |
 | [Que Se Enteren De Una Vez](https://open.spotify.com/track/1sWoGvu9L1XMYyYRcpheIs) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Que Se Enteren De Una Vez](https://open.spotify.com/album/6UtU9WJ2LPXF8fVsUE8Yi0) | 2:48 | 2025-10-17 | 2025-11-08 |
+| [Que Te Quieran Bonito](https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Que Te Quieran Bonito](https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx) | 2:42 | 2025-11-11 |  |
 | [Que Te Vaya Bien](https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Que Te Vaya Bien](https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW) | 2:31 | 2022-08-19 | 2023-02-04 |
 | [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 | 2022-09-23 | 2022-10-29 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-09 | 2023-07-01 |
@@ -822,7 +823,7 @@
 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/0QBinvGHLoIFTICmySWvXG) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/31bK55fwF0HGd1z0CTbj46) | 3:42 | 2021-12-17 | 2022-02-23 |
 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 | 2021-12-17 | 2022-10-15 |
 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 | 2024-05-16 | 2024-08-16 |
-| [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 | 2025-09-26 |  |
+| [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 | 2025-09-26 | 2025-11-12 |
 | [Ya Te Superé](https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya Te Superé](https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq) | 3:46 | 2024-05-17 | 2024-06-28 |
 | [YCQVM](https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [YCQVM](https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz) | 3:03 | 2024-06-14 | 2024-10-05 |
 | [YO NO TE OLVIDO](https://open.spotify.com/track/641M1deHD4Y0X74pt8csik) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [YO NO TE OLVIDO](https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP) | 3:20 | 2025-08-22 |  |

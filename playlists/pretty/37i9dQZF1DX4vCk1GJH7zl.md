@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,300 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,317 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 57 | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m) | [Chella](https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a) | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd) | 3:25 |
 | 58 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
 | 59 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
-| 60 | [Moletom](https://open.spotify.com/track/6sYEvTZfUFDo9IY02b1DD1) | [Ondastral](https://open.spotify.com/artist/1PLVBYQrlY7TUtoyRspbuV) | [Moletom](https://open.spotify.com/album/5yVc8jYrfoQy007gd3teKt) | 2:53 |
-| 61 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
+| 60 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
+| 61 | [Moletom](https://open.spotify.com/track/6sYEvTZfUFDo9IY02b1DD1) | [Ondastral](https://open.spotify.com/artist/1PLVBYQrlY7TUtoyRspbuV) | [Moletom](https://open.spotify.com/album/5yVc8jYrfoQy007gd3teKt) | 2:53 |
 | 62 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 |
 | 63 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 |
 | 64 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 |

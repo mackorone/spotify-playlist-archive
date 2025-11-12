@@ -6757,6 +6757,24 @@
     },
     {
       "album": {
+        "name": "Firki",
+        "url": "https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chandak",
+          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176823,
+      "name": "Firki",
+      "url": "https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM"
+    },
+    {
+      "album": {
         "name": "Fizayen",
         "url": "https://open.spotify.com/album/6a5usnCX7OSRSReqsVti6W"
       },
@@ -19598,7 +19616,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 207413,
       "name": "Safar",
       "url": "https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x"

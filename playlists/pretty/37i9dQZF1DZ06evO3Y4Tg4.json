@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 253431,
+  "num_followers": 253507,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABDh61TFaE/b3RLFQvvGCjF",
+  "snapshot_id": "aRErAAAAAABDQpyfrMDI8sZtgthZ4Ulr",
   "tracks": [
     {
       "added_at": null,
@@ -170,15 +170,11 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
-      "duration_ms": 198256,
-      "name": "No Weapons (feat. Jim Legxacy)",
-      "url": "https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt"
+      "duration_ms": 181050,
+      "name": "Marvellous",
+      "url": "https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM"
     },
     {
       "added_at": null,
@@ -242,11 +238,15 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
-      "duration_ms": 181050,
-      "name": "Marvellous",
-      "url": "https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM"
+      "duration_ms": 198256,
+      "name": "No Weapons (feat. Jim Legxacy)",
+      "url": "https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt"
     },
     {
       "added_at": null,
@@ -363,42 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Streatham",
-      "url": "https://open.spotify.com/track/59PUOc7B0WCNNx8Nr4qaA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
-        }
-      ],
-      "duration_ms": 380816,
-      "name": "Chapter 16 (feat. Kano)",
-      "url": "https://open.spotify.com/track/1Vn4C8zBO7b2pZPQ8L0oZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -419,6 +383,38 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 277765,
+      "name": "The Boy Who Played the Harp",
+      "url": "https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Streatham",
+      "url": "https://open.spotify.com/track/59PUOc7B0WCNNx8Nr4qaA4"
     },
     {
       "added_at": null,
@@ -611,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 445349,
+      "name": "How I Met My Ex",
+      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
@@ -627,22 +639,6 @@
       "duration_ms": 243883,
       "name": "Incredible Sauce (feat. Dave)",
       "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 445349,
-      "name": "How I Met My Ex",
-      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
     },
     {
       "added_at": null,
@@ -687,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crop Circle",
-        "url": "https://open.spotify.com/album/4375umzAIqqlWI49eue7Na"
-      },
-      "artists": [
-        {
-          "name": "Nines",
-          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 141146,
-      "name": "Venting",
-      "url": "https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
       },
@@ -723,6 +699,26 @@
       "duration_ms": 210904,
       "name": "No Words",
       "url": "https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crop Circle",
+        "url": "https://open.spotify.com/album/4375umzAIqqlWI49eue7Na"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 141146,
+      "name": "Venting",
+      "url": "https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs"
     },
     {
       "added_at": null,

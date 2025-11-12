@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-780 songs - 1 day 12 hr 55 min
+781 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-10 | 2024-04-19 |
 | [Holy Ghost](https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm) | 3:06 | 2024-04-19 | 2024-06-28 |
 | [Holy Jah](https://open.spotify.com/track/0rivusQhfl9wyHHP1iFdKn) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Holy Jah](https://open.spotify.com/album/5YpC7H8IgoN64m1hhljX0w) | 2:42 | 2025-08-29 | 2025-10-22 |
-| [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 | 2025-05-16 |  |
+| [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 | 2025-05-16 | 2025-11-12 |
 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 | 2024-06-28 | 2024-07-13 |
 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 | 2024-11-29 |  |
 | [Hot Hot](https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Hot Hot](https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8) | 2:23 | 2025-10-10 |  |
@@ -466,6 +466,7 @@
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 | 2024-11-22 |
 | [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 | 2022-08-08 | 2023-03-13 |
 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 | 2025-02-21 | 2025-10-05 |
+| [Magba](https://open.spotify.com/track/7nO3P6A5TEYfUYXjDk5z5x) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [I D R I S](https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w) | 2:57 | 2025-11-07 |  |
 | [MAJO](https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good II](https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y) | 2:47 | 2024-06-28 | 2025-02-22 |
 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-25 | 2023-03-18 |
 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 | 2025-03-28 | 2025-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 609 songs - 1 day 15 hr 47 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 609 songs - 1 day 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -616,6 +616,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 606 | [ttgwh](https://open.spotify.com/track/1YDEfY4n05BucPJIW1BalS) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 1:14 |
 | 607 | [Bach, JS: Violin Concerto No\. 2 in E Major, BWV 1042: I\. Allegro](https://open.spotify.com/track/5d4AX3OJIKLgh5sgsb4ikA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Violin Concertos & Double Concerto](https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR) | 9:02 |
 | 608 | [Laraaji](https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:23 |
-| 609 | [Home Town](https://open.spotify.com/track/1T0MNevUUpzbzFCDuokthn) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 3:10 |
+| 609 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 |
 
-Snapshot ID: `AAAIApasEqhmacOH9JDzLM9VTdSWTBxX`
+Snapshot ID: `AAAIBMLw2uO3oxfNIBRdiNeoSFk978jD`

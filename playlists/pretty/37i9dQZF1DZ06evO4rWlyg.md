@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,410 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,440 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 49 | [Arpeggio \- Live](https://open.spotify.com/track/27zZattt70hJZJjf5Rzc9s) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 1:48 |
 | 50 | [Black Lake](https://open.spotify.com/track/5qfJSItAIEndephCzfQ6Nu) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 10:08 |
 
-Snapshot ID: `aQ/ZgAAAAAAkSTGdCg8KLnWuGTpq34SI`
+Snapshot ID: `aRErAAAAAAAiQQ27KHyQZFJVt0Rx5opS`

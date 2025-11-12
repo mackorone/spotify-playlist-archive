@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-367 songs - 18 hr 52 min
+368 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Akh Lag Gayi](https://open.spotify.com/track/0ji3bZHEal6kDITQeksnIa) | [Param Mundi](https://open.spotify.com/artist/6kB1qKGjh6mQ26UkZKioIR) | [Akh Lag Gayi](https://open.spotify.com/album/0aGSHNB9GfNcFqsyq4fIft) | 2:17 | 2025-07-04 |  |
 | [Akhiyan Chaar](https://open.spotify.com/track/10pbzkxHhIiT033xFUYBCd) | [Chandra Brar](https://open.spotify.com/artist/08e3aIb8OweASAdyShNc9I), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Akhiyan Chaar](https://open.spotify.com/album/5ejbNR7uA9bzWtkjglZW0x) | 3:00 | 2025-01-30 |  |
 | [All Good \(From "Enna Nu Rehna Sehna Ni Aaunda"\)](https://open.spotify.com/track/4LNGXQON9S14AZMcSuU9ki) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Jeffrick](https://open.spotify.com/artist/5HD6kCaoqjrDx8W5ES0YC3), [Gora](https://open.spotify.com/artist/5X3YjtNZlY8t9jmW8yC7Rg) | [All Good \(From "Enna Nu Rehna Sehna Ni Aaunda"\)](https://open.spotify.com/album/0fro312Dg6cHphsRDfkfNk) | 2:58 | 2025-08-13 | 2025-08-30 |
-| [Alone Jatt](https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 3:11 | 2025-01-08 |  |
+| [Alone Jatt](https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 3:11 | 2025-01-08 | 2025-11-12 |
 | [Amrood](https://open.spotify.com/track/4nFSf18DPrwGfkZB57gdTC) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Joga Jeezy](https://open.spotify.com/artist/45p8yyWjnJz8ds6uwTOKnD) | [Amrood](https://open.spotify.com/album/7hrHxEWeJDJOaesybrheHU) | 2:50 | 2025-06-06 | 2025-06-11 |
 | [Apne Vyah De Vich](https://open.spotify.com/track/7bJDvpRGCMBOJyHc0IGlkz) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Apne Vyah De Vich](https://open.spotify.com/album/33nY8dfVBBoKeuyjO8LrlD) | 3:34 | 2025-01-08 |  |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 | 2023-07-27 |
@@ -105,6 +105,7 @@
 | [Don't Care](https://open.spotify.com/track/1hSWz5AZ36WjQMgFOir0By) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Don't Care](https://open.spotify.com/album/2BdHXu9RoP1JfwDypU5fk9) | 3:38 | 2022-01-10 | 2024-09-29 |
 | [Don't Know](https://open.spotify.com/track/09Zu1UjZQ4U78pUIWuZedj) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8), [Sandhu Kuldeep](https://open.spotify.com/artist/3rklXfOQrt6MHQUJ7wHtbE) | [Don't Know](https://open.spotify.com/album/0lDg8LqnJfEfVEzZX7jTmX) | 3:20 | 2025-08-29 | 2025-10-15 |
 | [Don't Look](https://open.spotify.com/track/5f3PgI4zW2oErM3j3MWTWW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Don't Look](https://open.spotify.com/album/0deuGuFI4MG9hTa5QI4Sar) | 3:06 | 2025-01-28 |  |
+| [Drivery](https://open.spotify.com/track/6DVVw7tUxuwHVaVDlLm6it) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Aman Hayer](https://open.spotify.com/artist/2BbbmzjRFPhzLWrLQxvlus) | [From The Vault](https://open.spotify.com/album/5vQqYDEX8meQm9UJoFAC2b) | 2:44 | 2025-11-11 |  |
 | [Duniya](https://open.spotify.com/track/0bX401SlVTPxMzEYiluoWV) | [Sikandar](https://open.spotify.com/artist/5AdlGyzoCVQTEl48YZnkHp), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Duniya](https://open.spotify.com/album/285MvBlmV2ELiusPMpwepb) | 3:17 | 2025-11-04 |  |
 | [Exclusive](https://open.spotify.com/track/01tY8ZMQXs2sO6dPQQMAIt) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [The Lassoi Code](https://open.spotify.com/album/4pY5u16GsIyIpmr1JTPxmL) | 2:22 | 2025-05-08 | 2025-06-29 |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2021-12-18 | 2024-09-17 |

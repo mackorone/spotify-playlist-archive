@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,016 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,128 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 4 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
 | 5 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 |
 | 6 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 |
-| 7 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 |
+| 7 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
 | 8 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 |
-| 9 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
+| 9 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 |
 | 10 | [hakuna matata](https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:07 |
 | 11 | [Lemonade \(feat\. NAV\)](https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a) | 3:15 |
 | 12 | [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 47 | [Helluva Price](https://open.spotify.com/track/5bFym95c4l7Q7cVIYArOzC) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:25 |
 | 48 | [NASTY GIRL / ON CAMERA](https://open.spotify.com/track/2f8y4CuG57UJEmkG3ujd0D) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:50 |
 
-Snapshot ID: `aQ/ZgAAAAACDv2Xyskgd2OPvMb6sgyNl`
+Snapshot ID: `aRErAAAAAAAhEaUUuEAit9fFjQT8Vyir`

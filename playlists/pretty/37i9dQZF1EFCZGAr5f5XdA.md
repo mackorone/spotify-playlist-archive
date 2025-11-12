@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,458 likes - 215 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,463 likes - 215 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 53 | [iRobot](https://open.spotify.com/track/453QwgDIG95NmmLqSxnPsR) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:28 |
 | 54 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
 | 55 | [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:26 |
-| 56 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/4OSq3SdsA8gdWifORPf3YE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 3:06 |
-| 57 | [God Went Crazy](https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:03 |
+| 56 | [God Went Crazy](https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:03 |
+| 57 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/4OSq3SdsA8gdWifORPf3YE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 3:06 |
 | 58 | [The Good In Me](https://open.spotify.com/track/0XA9B3KXLmdgaQ2KcIJa3h) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:43 |
 | 59 | [Carry Your Throne](https://open.spotify.com/track/6luhvKibJJNM4P64RLNwgg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 3:23 |
 | 60 | [Name \(feat\. Tori Kelly\)](https://open.spotify.com/track/6EKDPhgCDL2cwRvloAEwSP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 2:39 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 79 | [Fashion](https://open.spotify.com/track/2UiPa2Dc6w4EyWtDxP07UQ) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:55 |
 | 80 | [YOU CAN'T HOLD MY HEART](https://open.spotify.com/track/6nxOW44RKSH3OBw6ZP8yuZ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 3:01 |
 | 81 | [JT](https://open.spotify.com/track/1eftOUoeMO1JkSQQmS6jXF) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 4:28 |
-| 82 | [Jungle](https://open.spotify.com/track/6pAQxv1etMEoTLiE1zZS1z) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 3:51 |
-| 83 | [Montana Sky](https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:49 |
+| 82 | [Montana Sky](https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:49 |
+| 83 | [Jungle](https://open.spotify.com/track/6pAQxv1etMEoTLiE1zZS1z) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 3:51 |
 | 84 | [Dead Man Walking](https://open.spotify.com/track/4j6lDQ7Nl4ClcTtur36CMN) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:16 |
 | 85 | [Crop Circles](https://open.spotify.com/track/2SCUNHTUORvAnmWjSsp5Ib) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Crop Circles](https://open.spotify.com/album/4oNTQtyqMltQXSnrmgMYWh) | 2:27 |
 | 86 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 214 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 215 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `AcBPxgAAAADHI0djTvRWeh3vNDdcbKSq`
+Snapshot ID: `AcBVZgAAAAB2mfTEHRH8ECL631wfyqd3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,047 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,048 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 28 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
 | 29 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
 | 30 | [Koepie Gevrietie](https://open.spotify.com/track/7Dy4POL2thHmuMk7Fy6cD9) | [Maintjie](https://open.spotify.com/artist/3XAYWDIMwPLQUXr0j5jTpb), [TYREAKE](https://open.spotify.com/artist/5uHVVOJq0zlg0BSy7TKyBe) | [Koepie Gevrietie](https://open.spotify.com/album/3t6muPDJ2IoGG1WMajYf4T) | 3:19 |
-| 31 | [Hosh Pakamisa](https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Dedrick West Bonolo](https://open.spotify.com/artist/1mSbq1MxKee5gZdom8BH7U), [SiyaCeeBeats](https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt) | [Hosh Pakamisa](https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3) | 2:56 |
-| 32 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 31 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 32 | [Hosh Pakamisa](https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Dedrick West Bonolo](https://open.spotify.com/artist/1mSbq1MxKee5gZdom8BH7U), [SiyaCeeBeats](https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt) | [Hosh Pakamisa](https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3) | 2:56 |
 | 33 | [Niks Te Laat](https://open.spotify.com/track/441g3bc9gbGl60UFyZdePp) | [R.M.R Music](https://open.spotify.com/artist/3QzXOzRO97jRlp2CS8giA2) | [Niks Te Laat](https://open.spotify.com/album/5WUyk7e2lVJ2bXdnQsJOag) | 2:22 |
 | 34 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
 | 35 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |

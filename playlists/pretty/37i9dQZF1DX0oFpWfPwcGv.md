@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,357 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,366 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 17 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 |
 | 18 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
 | 19 | [It's My House](https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:34 |
-| 20 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 |
-| 21 | [Burn This Disco Out](https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:41 |
+| 20 | [Burn This Disco Out](https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:41 |
+| 21 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 |
 | 22 | [My Forbidden Lover](https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 4:34 |
 | 23 | [Georgy Porgy \(feat\. Cheryl Lynn\) \- Disco Version](https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best Of Cheryl Lynn: Got To Be Real](https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy) | 5:05 |
 | 24 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 32 | [Turn the Beat Around \- 7" Single Edit](https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [Never Gonna Let You Go \(Expanded Edition\)](https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC) | 3:24 |
 | 33 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 |
 | 34 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
-| 35 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
-| 36 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
+| 35 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
+| 36 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
 | 37 | [Stand on the Word \- Studio Version](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
 | 38 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 |
 | 39 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |

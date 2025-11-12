@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18MncVxCjLT.md) - [plain]
 
 > A glorious mix curated by the one and only Perfume Genius\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,957 likes - 29 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,964 likes - 29 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

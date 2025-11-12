@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,647 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,738 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 15 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 |
 | 16 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 17 | [Stoned](https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:03 |
-| 18 | [Hand Me Downs](https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:58 |
+| 18 | [Circles](https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 2:50 |
 | 19 | [Wings](https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:10 |
-| 20 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 |
-| 21 | [Carpe Diem](https://open.spotify.com/track/0qZqbfudgogv0mFQOJ9TrB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 3:45 |
-| 22 | [Circles](https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 2:50 |
+| 20 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
+| 21 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 |
+| 22 | [Hand Me Downs](https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:58 |
 | 23 | [What's the Use?](https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:48 |
-| 24 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
-| 25 | [Thoughts from a Balcony](https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 3:05 |
+| 24 | [Carpe Diem](https://open.spotify.com/track/0qZqbfudgogv0mFQOJ9TrB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 3:45 |
+| 25 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
 | 26 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 |
-| 27 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
-| 28 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
+| 27 | [Thoughts from a Balcony](https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 3:05 |
+| 28 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
 | 29 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
 | 30 | [Knock Knock](https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:17 |
 | 31 | [Objects in the Mirror](https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 49 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 |
 | 50 | [100 Grandkids](https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:38 |
 
-Snapshot ID: `aQ/ZgAAAAABIDUmDCJ7+xLqcGvwo1CKF`
+Snapshot ID: `aRErAAAAAADcbtRnV50HXZ8o5iyzASSg`

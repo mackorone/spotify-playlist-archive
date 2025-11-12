@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -7336,7 +7354,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
@@ -9004,7 +9022,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 331560,
       "name": "Enter Sandman (Remastered)",
       "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
@@ -9022,7 +9040,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 331560,
       "name": "Enter Sandman - Remastered 2021",
       "url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q"
@@ -10484,7 +10502,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -14204,24 +14222,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "album": {
-        "name": "I Run",
-        "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
-      },
-      "artists": [
-        {
-          "name": "HAVEN.",
-          "url": "https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz"
-        }
-      ],
-      "date_added": "2025-11-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129565,
-      "name": "I Run",
-      "url": "https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7"
     },
     {
       "album": {
@@ -23628,7 +23628,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 201733,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3R1Xa7LkesYpNI3v6fslKi"
@@ -23646,7 +23646,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -26324,7 +26324,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -28398,7 +28398,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"

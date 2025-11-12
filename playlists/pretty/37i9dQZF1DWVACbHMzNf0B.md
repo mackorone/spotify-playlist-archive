@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚  Rivs y Juanes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,244 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,241 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beso de Novela](https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Beso de Novela](https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD) | 2:46 |
 | 2 | [Mi Tiempo](https://open.spotify.com/track/2A1eiNAgxHeUAzOqAK3JBt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Mi Tiempo](https://open.spotify.com/album/4ddYhPxSE6ucq6YMcpBTrA) | 1:54 |
 | 3 | [Amor Real](https://open.spotify.com/track/7njQnlfyLfeRpRZ0mwYtvQ) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Amor Real](https://open.spotify.com/album/4HcmsvkkiKbHHTqAMl3p0m) | 3:03 |
-| 4 | [Lo Logre \(En Vivo\)](https://open.spotify.com/track/2KUhobv1VMr3f665kWH7mh) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Logre \(En Vivo\)](https://open.spotify.com/album/3YYUwMlpFbCF2E0xLccjLb) | 3:36 |
+| 4 | [Lo Logré \(En Vivo\)](https://open.spotify.com/track/2KUhobv1VMr3f665kWH7mh) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Logré \(En Vivo\)](https://open.spotify.com/album/3YYUwMlpFbCF2E0xLccjLb) | 3:36 |
 | 5 | [preguntalealaluna](https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [preguntalealaluna](https://open.spotify.com/album/1C8ND2Lh3xBQ1jwQEZcvOo) | 3:48 |
 | 6 | [Guason](https://open.spotify.com/track/4Wuwir9pHgQnCdSDIDgrhv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:11 |
 | 7 | [Tiro Al Loco](https://open.spotify.com/track/3cH3uuNAQHNmv2BHEozUlQ) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Tiro Al Loco](https://open.spotify.com/album/7F7I10yxs2we0dPtXOZweK) | 3:18 |

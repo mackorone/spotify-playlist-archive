@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 296497,
+  "num_followers": 296554,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Saga All Stars: Be Bop a Lula / 1956",
-        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Be Bop a Lula",
-      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Bo Diddley",
         "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 149013,
       "name": "Bo Diddley",
       "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Saga All Stars: Be Bop a Lula / 1956",
+        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Be Bop a Lula",
+      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
     },
     {
       "added_at": "2022-06-07 05:25:13",

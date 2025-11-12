@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,177 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,209 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 33 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 |
 | 34 | [Con Calma \- Remix](https://open.spotify.com/track/4au7FRcgZzChASRYu279xH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma \(Remix\)](https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB) | 3:01 |
 | 35 | [NIRVANA](https://open.spotify.com/track/2c6yhYLBR3BZhJoIaBZ1hC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 2:51 |
-| 36 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
-| 37 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
+| 36 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
+| 37 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
 | 38 | [This Is How We Do](https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:24 |
 | 39 | [ALL THE LOVE](https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:15 |
 | 40 | [Waking Up In Vegas](https://open.spotify.com/track/6fvxos1qSHrIgOkKw4dhWS) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 49 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 | 50 | [NO TEARS FOR NEW YEAR'S](https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 3:22 |
 
-Snapshot ID: `aQ/ZgAAAAAAN6cYq0StWfQGGAljmwKE+`
+Snapshot ID: `aRErAAAAAAAux7NJVO8OSvLy4QIuW3Ny`

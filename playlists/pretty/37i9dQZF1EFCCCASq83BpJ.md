@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,916 likes - 122 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,919 likes - 122 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 37 | [ghostin](https://open.spotify.com/track/4lD7gHKF1e8Y9stQuVezZB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 4:31 |
 | 38 | [in my head](https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:42 |
 | 39 | [goodnight n go](https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:09 |
-| 40 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 3:02 |
-| 41 | [sweetener](https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:28 |
+| 40 | [sweetener](https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:28 |
+| 41 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 3:02 |
 | 42 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 |
 | 43 | [Quit \(feat\. Ariana Grande\)](https://open.spotify.com/track/4rwqrKdwlFWJ6LvPYaOtgn) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 4:18 |
 | 44 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 49 | [safety net \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:28 |
 | 50 | [I Don't Do Drugs \(feat\. Ariana Grande\)](https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:08 |
 | 51 | [Daydreamin'](https://open.spotify.com/track/2CcQDI2IDhHbmBIFup58JE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:31 |
-| 52 | [nasty](https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:20 |
-| 53 | [twilight zone](https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 3:18 |
+| 52 | [twilight zone](https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 3:18 |
+| 53 | [nasty](https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:20 |
 | 54 | [R.E.M](https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 4:05 |
 | 55 | [My Everything](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 2:48 |
 | 56 | [MONOPOLY \(with Victoria Monét\)](https://open.spotify.com/track/6tsOcBnaKgzK22yEiqRh8P) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MONOPOLY](https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb) | 2:38 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 121 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 122 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `AcBPngAAAADxzZgQBEw5e36QLY/dyLt5`
+Snapshot ID: `AcBVegAAAACAUsR67o+6WqphIaUWlLrD`

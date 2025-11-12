@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,893 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,896 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [メーベル](https://open.spotify.com/track/2O7HF4q4GbBOwZ5qKdN1yB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メーベル](https://open.spotify.com/album/0Ac4zecj11ls9CDRr66FIL) | 3:09 |
 | 50 | [雨景色](https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [日陰](https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK) | 3:00 |
 
-Snapshot ID: `AAAAAAgR3D2lfxP5HY5eiGhITSSHlWM7`
+Snapshot ID: `AAAAAK0eF7VUcsiCA1/c5S3v6ghJEKtB`

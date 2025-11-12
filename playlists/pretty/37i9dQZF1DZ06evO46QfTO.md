@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,102 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,104 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 15 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 |
 | 16 | [80s Mercedes](https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 |
 | 17 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 |
-| 18 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:40 |
-| 19 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
+| 18 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
+| 19 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:40 |
 | 20 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
 | 21 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 |
 | 22 | [GIRL](https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 49 | [The Feels](https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:07 |
 | 50 | [dreamsicle](https://open.spotify.com/track/6CMO1hdKWGZx7AolQQK8cG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:48 |
 
-Snapshot ID: `aQ/ZgAAAAABS7ql75jBAGBs0Ti017bCp`
+Snapshot ID: `aRErAAAAAAA8Fq263GklMRmJ9jeWzpTV`

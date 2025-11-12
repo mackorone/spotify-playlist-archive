@@ -1,6 +1,6 @@
 {
   "description": "Bringing the energy to hype you up",
-  "num_followers": 135612,
+  "num_followers": 135618,
   "original_name": "Sweat It Out",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-08-06 12:08:29",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2025-08-06 12:08:29",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2025-08-06 12:08:29",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2025-08-06 12:08:29",
@@ -931,18 +931,22 @@
     {
       "added_at": "2025-08-06 12:08:29",
       "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "added_at": "2025-08-06 12:08:29",
@@ -967,22 +971,18 @@
     {
       "added_at": "2025-08-06 12:08:29",
       "album": {
-        "name": "adore u",
-        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 220653,
-      "name": "adore u",
-      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     }
   ],
   "unique_name": "Sweat It Out",

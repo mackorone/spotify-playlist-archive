@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 70026,
+  "num_followers": 70045,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,26 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Vale la Pena",
         "url": "https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 170906,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 260250,
-      "name": "Im gonna come back to Brixton",
-      "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
         "name": "La Bondad De Dios",
         "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 236471,
       "name": "La Bondad De Dios",
       "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 260250,
+      "name": "Im gonna come back to Brixton",
+      "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 435040,
-      "name": "The Chicken",
-      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 250493,
       "name": "Culpable O No",
       "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
       },
       "artists": [
         {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
         }
       ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+      "duration_ms": 435040,
+      "name": "The Chicken",
+      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1291,6 +1291,42 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
+      },
+      "artists": [
+        {
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 258349,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -1315,42 +1351,6 @@
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
-      },
-      "artists": [
-        {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 258349,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1531,22 +1531,18 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "S\u00fabete",
-        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
+        "name": "Momento Tiempo",
+        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
       },
       "artists": [
         {
-          "name": "12 Tribus",
-          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
-        },
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "Delfines de Etiopia",
+          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
         }
       ],
-      "duration_ms": 245000,
-      "name": "El Cuento",
-      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+      "duration_ms": 259373,
+      "name": "De Tanto Caminar",
+      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1571,8 +1567,8 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "La Vida te Habla",
-        "url": "https://open.spotify.com/album/23aWViVCijrwN9887u0UC0"
+        "name": "Se va la luna",
+        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
       },
       "artists": [
         {
@@ -1580,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 223874,
-      "name": "La Vida te Habla",
-      "url": "https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc"
+      "duration_ms": 181889,
+      "name": "Se va la luna",
+      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
     }
   ],
   "unique_name": "Reggae al Sur",

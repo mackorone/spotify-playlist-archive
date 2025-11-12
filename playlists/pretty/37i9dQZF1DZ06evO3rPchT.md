@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,577 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,584 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 38 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:09 |
 | 39 | [Luckiest Man Alive](https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:59 |
 | 40 | [4X4](https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:42 |
-| 41 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
-| 42 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
+| 41 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
+| 42 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
 | 43 | [Gun To My Head](https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:48 |
 | 44 | [Buck On The Wall](https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG) | 3:04 |
-| 45 | [Girl With A Gun](https://open.spotify.com/track/7x1Mz92xw8TaRI7pjinIlL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 |
-| 46 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 2:41 |
+| 45 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 2:41 |
+| 46 | [Girl With A Gun](https://open.spotify.com/track/7x1Mz92xw8TaRI7pjinIlL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 |
 | 47 | [THROWBACK](https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:23 |
 | 48 | [The Better Me](https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:15 |
 | 49 | [Bro Country \(feat\. ERNEST\)](https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Bro Country](https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f) | 4:45 |
 | 50 | [Ready For Love](https://open.spotify.com/track/3BTaJdl0s9anWsJs7AUTcY) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Ready For Love](https://open.spotify.com/album/6oIDwMTYpYNoycGvpN4glq) | 4:44 |
 
-Snapshot ID: `aQ/ZgAAAAACnzxRbpgq3ISX/DzVx8BgF`
+Snapshot ID: `aRErAAAAAACFqN7jFgWcUf73LAdlk0Yv`

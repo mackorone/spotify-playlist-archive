@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,065 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,121 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 41 | [Perfeição / Deixa Em Off \- Ao Vivo](https://open.spotify.com/track/2juTXnK3JbIJo5wE58C1Io) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Pôr do Suel Em Recife \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/5jPz9g0dyrJVPaFdOKRsng) | 3:39 |
 | 42 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 |
 | 43 | [Não Foi a Toa / Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/4mhQo8A8WtBLGQSLVg3aM8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Não Foi a Toa / Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/563rSGNhXO75ApFm3D9b3M) | 3:22 |
-| 44 | [Não Fui Homem pra te merecer / Fica com Deus \- Ao Vivo](https://open.spotify.com/track/0FBTECK85YFQ1CW8sXmcJH) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Pagodyando nas Alturas Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/0c9LmbBceBgx8thG1QUZ1u) | 4:31 |
+| 44 | [Não Fui Homem Pra Te Merecer / Fica com Deus \- Ao Vivo](https://open.spotify.com/track/0FBTECK85YFQ1CW8sXmcJH) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Pagodyando nas Alturas Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/0c9LmbBceBgx8thG1QUZ1u) | 4:31 |
 | 45 | [Para De Falar Tanta Besteira / Leite Condensado \- Ao Vivo](https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Para De Falar Tanta Besteira / Leite Condensado \(Ao Vivo\)](https://open.spotify.com/album/4xB6dLq7PQ6pptAljw0kAJ) | 3:41 |
 | 46 | [Amanhã / Loucura do Seu Coração \- Ao Vivo](https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Sorriso Eu Gosto No Pagode \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg) | 6:13 |
 | 47 | [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 |

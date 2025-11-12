@@ -239,6 +239,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/02Mkp5UKF2f6GYdS1lHcck"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4KaHfqM1aMQrw63pHrzIM3"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/02Mkp5UKF2f6GYdS1lHcck"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4aJOAOc5CkBxEcwHhxbLRi"
+    },
+    {
+      "album": {
         "name": "DONDA 2",
         "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
       },
@@ -1598,7 +1634,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -10229,6 +10265,32 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
+    },
+    {
+      "album": {
         "name": "Bersamamu",
         "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
       },
@@ -11208,7 +11270,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
@@ -12080,7 +12142,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 186000,
       "name": "Blue Valentine",
       "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
@@ -16578,7 +16640,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 155528,
       "name": "Claw Marks",
       "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
@@ -18396,7 +18458,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 216470,
       "name": "CUPIDOxX",
       "url": "https://open.spotify.com/track/65pAD5JQJAgqpcnSzHGbrP"
@@ -23042,6 +23104,24 @@
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP"
+    },
+    {
+      "album": {
+        "name": "Dying To Love",
+        "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256965,
+      "name": "Dying To Love",
+      "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
     },
     {
       "album": {
@@ -30863,6 +30943,24 @@
     },
     {
       "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203710,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
+    },
+    {
+      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -34166,6 +34264,24 @@
       "duration_ms": 183902,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi"
+    },
+    {
+      "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 4&5",
+        "url": "https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190166,
+      "name": "Hope - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/6s58j8SuMg3gXrYsjYOwcX"
     },
     {
       "album": {
@@ -44574,7 +44690,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 204959,
       "name": "Livin\u2019 on Borrowed Time",
       "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
@@ -46738,7 +46854,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 225355,
       "name": "Mah\u015fer",
       "url": "https://open.spotify.com/track/57JAKbr7SgTUFeb4Y41ZWd"
@@ -47486,7 +47602,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 169800,
       "name": "Mann im Spiegel",
       "url": "https://open.spotify.com/track/1BE3EIYISnygOwhIvoCRs4"
@@ -49278,7 +49394,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 223000,
       "name": "Mera Hua (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/6AruzerQiOr65Muh9T7rGI"
@@ -50993,6 +51109,24 @@
     },
     {
       "album": {
+        "name": "MON B\u00c9B\u00c9",
+        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "MON B\u00c9B\u00c9",
+      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+    },
+    {
+      "album": {
         "name": "MON LOVE OHO",
         "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
       },
@@ -51460,7 +51594,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 169850,
       "name": "MONTAGEM CAMERA LENTA",
       "url": "https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh"
@@ -51618,7 +51752,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 92384,
       "name": "MONTAGEM RUGADA",
       "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
@@ -52956,7 +53090,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 298783,
       "name": "My Old Ways",
       "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
@@ -55898,7 +56032,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
@@ -61154,7 +61288,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -63733,6 +63867,24 @@
     },
     {
       "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
+    },
+    {
+      "album": {
         "name": "PUT IT DOWN",
         "url": "https://open.spotify.com/album/3JRrnfWD4LmLXUDbeNLsyu"
       },
@@ -64166,6 +64318,28 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "album": {
+        "name": "Que Sensaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154090,
+      "name": "Que Sensaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
     },
     {
       "album": {
@@ -64652,6 +64826,28 @@
       "duration_ms": 157650,
       "name": "Railin Oligal - From \"Blue Star\"",
       "url": "https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "album": {
@@ -66634,6 +66830,28 @@
       "duration_ms": 190880,
       "name": "Rozmazana kreska",
       "url": "https://open.spotify.com/track/5Dwpfuw962xZq6mNg8OgzN"
+    },
+    {
+      "album": {
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR"
     },
     {
       "album": {
@@ -72481,6 +72699,28 @@
     },
     {
       "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172313,
+      "name": "SPAGHETTI",
+      "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
+    },
+    {
+      "album": {
         "name": "VIBIN",
         "url": "https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB"
       },
@@ -77638,7 +77878,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -78382,7 +78622,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 389280,
       "name": "The Wreck of the Edmund Fitzgerald",
       "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
@@ -84434,7 +84674,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-12",
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
@@ -86030,6 +86270,24 @@
       "duration_ms": 151984,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4Tf49OI6J2TK1LkdfqgUJt"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
       "album": {
@@ -89073,6 +89331,24 @@
     },
     {
       "album": {
+        "name": "\u00c7\u0131kmaz Bir Sokakta",
+        "url": "https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162745,
+      "name": "\u00c7\u0131kmaz Bir Sokakta",
+      "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"
+    },
+    {
+      "album": {
         "name": "Esta\u011ffurullah Ne Haddimize",
         "url": "https://open.spotify.com/album/0wSPOa94IVCqcjJ4oTD5e8"
       },
@@ -89348,6 +89624,28 @@
       "duration_ms": 165213,
       "name": "\u0141yk i buch",
       "url": "https://open.spotify.com/track/4gUKSmeJ7TNcVzHcsGxRKK"
+    },
+    {
+      "album": {
+        "name": "\u015eark\u0131lar Sokaklara Ait",
+        "url": "https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175143,
+      "name": "\u015eark\u0131lar Sokaklara Ait",
+      "url": "https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo"
     },
     {
       "album": {

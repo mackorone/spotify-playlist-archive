@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAABOhBFxj3iZmeiDtbbMPDP/",
+  "snapshot_id": "aRErAAAAAAArNpi1qcA9XILVkC78r4DU",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224593,
+      "name": "Better (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 230511,
       "name": "New Harrison",
       "url": "https://open.spotify.com/track/7EV6sb1gDY337fBJNy3obX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224593,
-      "name": "Better (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 148177,
+      "name": "Pocket Dial",
+      "url": "https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 155843,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 148177,
-      "name": "Pocket Dial",
-      "url": "https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 224327,
+      "name": "Wavestation",
+      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
       "artists": [
         {
@@ -440,29 +456,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 224327,
-      "name": "Wavestation",
-      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "How Can It Be (feat. Maddee)",
-      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -483,22 +479,6 @@
       "duration_ms": 165544,
       "name": "Outta This World",
       "url": "https://open.spotify.com/track/6nC4bYoL9hTcwRV4kqVjzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 188516,
       "name": "Next Blue",
       "url": "https://open.spotify.com/track/6DmJLgV5oEEPwvWPq7R5XS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "How Can It Be (feat. Maddee)",
+      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
     },
     {
       "added_at": null,

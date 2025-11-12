@@ -143,6 +143,22 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
+        "name": "Hello (Fresh Dance Mix) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/08VCLksNf5GCGANnvOHnEF"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 374451,
+      "name": "Hello (Fresh Dance Mix) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/0WBFY6QEgq21t9dWHDwt5x"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
         "name": "Stars (Recollections 2025)",
         "url": "https://open.spotify.com/album/2MRq2xQGgdBDRckkYGQmqe"
       },
@@ -172,25 +188,9 @@
           "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
         }
       ],
-      "duration_ms": 64150,
-      "name": "Depths Souls",
-      "url": "https://open.spotify.com/track/6RRLDrTzBAj7kJ0nMaIuUc"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Hello (Fresh Dance Mix) [2025 Remaster]",
-        "url": "https://open.spotify.com/album/08VCLksNf5GCGANnvOHnEF"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 374451,
-      "name": "Hello (Fresh Dance Mix) - 2025 Remaster",
-      "url": "https://open.spotify.com/track/0WBFY6QEgq21t9dWHDwt5x"
+      "duration_ms": 64650,
+      "name": "A Fallen Symmetry",
+      "url": "https://open.spotify.com/track/5d2U7114CoxBxjp61LkiiB"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
+        "name": "Dos sobreviviendo",
+        "url": "https://open.spotify.com/album/4c9IyXoMHtUtiO54VYYDMi"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Dos sobreviviendo",
+      "url": "https://open.spotify.com/track/4v8rTk1U7k9sRAyuaXXKXV"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
         "name": "Cobra Squad",
         "url": "https://open.spotify.com/album/0zWeRNGrGtvNvWtJPunKJO"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 179422,
       "name": "Japan Air",
       "url": "https://open.spotify.com/track/55CaehxmLgRVxxhjWUUlQe"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Dos sobreviviendo",
-        "url": "https://open.spotify.com/album/4c9IyXoMHtUtiO54VYYDMi"
-      },
-      "artists": [
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Dos sobreviviendo",
-      "url": "https://open.spotify.com/track/4v8rTk1U7k9sRAyuaXXKXV"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
-        "name": "Seek & Destroy",
-        "url": "https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 414560,
-      "name": "Seek & Destroy",
-      "url": "https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
         "name": "My Only Angel (Desert Road Version)",
         "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 235772,
       "name": "My Only Angel - Desert Road Version",
       "url": "https://open.spotify.com/track/5GM9fl9rf7s4MIoxHOy2cn"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
+        "name": "Seek & Destroy",
+        "url": "https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 414560,
+      "name": "Seek & Destroy",
+      "url": "https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
-        "name": "Fire Grows Low",
-        "url": "https://open.spotify.com/album/2V1jtkgZaH6kPqYNvGFmcK"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 242017,
-      "name": "Fire Grows Low",
-      "url": "https://open.spotify.com/track/71J0Cwr9F2LP6UVlpRYR6v"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
         "name": "Seagull",
         "url": "https://open.spotify.com/album/1EiFdEhdWVC3QdLrT1tig4"
       },
@@ -595,50 +579,18 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
-        "name": "THE DEAD HAVE COME (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/50fQ5Zv3p318TGTGgU2yWV"
+        "name": "Fire Grows Low",
+        "url": "https://open.spotify.com/album/2V1jtkgZaH6kPqYNvGFmcK"
       },
       "artists": [
         {
-          "name": "Sopor Aeternus & The Ensemble Of Shadows",
-          "url": "https://open.spotify.com/artist/4DJ9mOfSKt9vg0Zhlwf6te"
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Refuge in the Morgue",
-      "url": "https://open.spotify.com/track/39EvwXn6Cw1to71UnmGWqE"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "From Under The Cork Tree (20th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Sophomore Slump Or Comeback Of The Year - Alternate Version",
-      "url": "https://open.spotify.com/track/6nOBIcM2728LnIYPJz4Qf5"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 199617,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
+      "duration_ms": 242017,
+      "name": "Fire Grows Low",
+      "url": "https://open.spotify.com/track/71J0Cwr9F2LP6UVlpRYR6v"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -663,18 +615,50 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
-        "name": "Cuz",
-        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 175741,
-      "name": "Cuz",
-      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
+      "duration_ms": 199617,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
+        "name": "From Under The Cork Tree (20th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Sophomore Slump Or Comeback Of The Year - Alternate Version",
+      "url": "https://open.spotify.com/track/6nOBIcM2728LnIYPJz4Qf5"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
+        "name": "THE DEAD HAVE COME (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/50fQ5Zv3p318TGTGgU2yWV"
+      },
+      "artists": [
+        {
+          "name": "Sopor Aeternus & The Ensemble Of Shadows",
+          "url": "https://open.spotify.com/artist/4DJ9mOfSKt9vg0Zhlwf6te"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Refuge in the Morgue",
+      "url": "https://open.spotify.com/track/39EvwXn6Cw1to71UnmGWqE"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -695,6 +679,22 @@
       "duration_ms": 135918,
       "name": "Rock And Roll All Nite - MOONLGHT Remix",
       "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
+        "name": "Cuz",
+        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 175741,
+      "name": "Cuz",
+      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -759,54 +759,6 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
-        "name": "Power To The People (New York City - Studio Jam)",
-        "url": "https://open.spotify.com/album/0WTriptmGhmnxEBMTAmSG1"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        },
-        {
-          "name": "The Plastic Ono Band",
-          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
-        },
-        {
-          "name": "Elephants Memory",
-          "url": "https://open.spotify.com/artist/7vlen6lzkmCst6naOmK3Et"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Ain't That A Shame - Jam",
-      "url": "https://open.spotify.com/track/09mWBj3SbdczABhekNM8wn"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 180081,
-      "name": "Sugar (feat JoJo)",
-      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
         "name": "Through The Open Window: The Bootleg Series Vol. 18 (Highlights)",
         "url": "https://open.spotify.com/album/7KcszWpAtYB3YDEK88QFWf"
       },
@@ -859,6 +811,34 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
+        "name": "Power To The People (New York City - Studio Jam)",
+        "url": "https://open.spotify.com/album/0WTriptmGhmnxEBMTAmSG1"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        },
+        {
+          "name": "The Plastic Ono Band",
+          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
+        },
+        {
+          "name": "Elephants Memory",
+          "url": "https://open.spotify.com/artist/7vlen6lzkmCst6naOmK3Et"
+        }
+      ],
+      "duration_ms": 270160,
+      "name": "Don't Be Cruel / Hound Dog - Jam",
+      "url": "https://open.spotify.com/track/7vEZHei0JEVypdR5LB48rL"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
         "name": "Viviendo en un mal sue\u00f1o",
         "url": "https://open.spotify.com/album/5o2C73fRTn4d3xwM7tCC2L"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 205509,
       "name": "I Wrote You A Song (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/7uBP4SqctNyKhUdFAFDNO6"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 180081,
+      "name": "Sugar (feat JoJo)",
+      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
+        "name": "Beso de Novela",
+        "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Beso de Novela",
+      "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
         "name": "Balderrama",
         "url": "https://open.spotify.com/album/4sUau5dHo9OSLLX8toTrUm"
       },
@@ -1043,22 +1063,30 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
-        "name": "Beso de Novela",
-        "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
+        "name": "Upside Down (MORTEN Remix)",
+        "url": "https://open.spotify.com/album/7xoNCDLBa1dcsFCL1JOJR2"
       },
       "artists": [
         {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         }
       ],
-      "duration_ms": 166480,
-      "name": "Beso de Novela",
-      "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
+      "duration_ms": 227579,
+      "name": "Upside Down - MORTEN Remix",
+      "url": "https://open.spotify.com/track/4JJHk97jJiD5g9FNhgZaOi"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -1111,34 +1139,6 @@
     {
       "added_at": "2025-11-07 03:00:00",
       "album": {
-        "name": "Upside Down (MORTEN Remix)",
-        "url": "https://open.spotify.com/album/7xoNCDLBa1dcsFCL1JOJR2"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 227579,
-      "name": "Upside Down - MORTEN Remix",
-      "url": "https://open.spotify.com/track/4JJHk97jJiD5g9FNhgZaOi"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
         "name": "El Baile Contigo",
         "url": "https://open.spotify.com/album/5L6qs4rLAeheL23zV4xrky"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 185782,
       "name": "El Baile Contigo",
       "url": "https://open.spotify.com/track/29MWdv9fAdEqJE8fWnUAE2"
+    },
+    {
+      "added_at": "2025-11-07 03:00:00",
+      "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/5jGtzBUwJVXXzsqYW3Hv1n"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/1AfepVPTRh4KxoSOX44hAP"
     },
     {
       "added_at": "2025-11-07 03:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 233000,
       "name": "Oyeloh",
       "url": "https://open.spotify.com/track/6kqxIuiUZ0UTAFg1PWqypl"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/5jGtzBUwJVXXzsqYW3Hv1n"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1AfepVPTRh4KxoSOX44hAP"
     },
     {
       "added_at": "2025-11-07 03:00:00",

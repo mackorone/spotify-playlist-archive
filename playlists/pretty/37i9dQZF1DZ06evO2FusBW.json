@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11039,
+  "num_followers": 11040,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAVrMrV/mYgG7+w9k/uqMrW",
+  "snapshot_id": "aRErAAAAAAATUfDr2CE5n3o5ZEJPFwlj",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 274458,
-      "name": "SAMADHI",
-      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano 17",
         "url": "https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 193133,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM"
+      "duration_ms": 274458,
+      "name": "SAMADHI",
+      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
     },
     {
       "added_at": null,
@@ -671,6 +655,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 153137,
+      "name": "Evolving Memories",
+      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 153137,
-      "name": "Evolving Memories",
-      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
+      "duration_ms": 277208,
+      "name": "POWER OF THE SEA",
+      "url": "https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB"
     }
   ],
   "unique_name": "This Is RIOPY",

@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 335298,
+  "num_followers": 335385,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,26 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2025-07-25 22:30:04",

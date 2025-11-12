@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,713 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,728 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 44 | [Can't Cure This](https://open.spotify.com/track/30yKtsU0Mdxa1RT9Oetlnz) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:41 |
 | 45 | [What Would You Want Me To Be](https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 0:53 |
 | 46 | [I Pray For You \(feat\. Labrinth & MALICE\)](https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 4:21 |
-| 47 | [Oblivion \(feat\. Labrinth\)](https://open.spotify.com/track/5DWZX4piXraq1IOr2a4sBL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:14 |
-| 48 | [Where The Wild Things](https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 3:18 |
+| 47 | [Where The Wild Things](https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 3:18 |
+| 48 | [Oblivion \(feat\. Labrinth\)](https://open.spotify.com/track/5DWZX4piXraq1IOr2a4sBL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:14 |
 | 49 | [Accepted By The Crew](https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:42 |
 | 50 | [The Pick Me Up](https://open.spotify.com/track/6rpOepkc2lqv21csqXQ7GN) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:47 |
 
-Snapshot ID: `aQ/ZgAAAAAB/alMWqxDLi+PxadrCOhae`
+Snapshot ID: `aRErAAAAAACYGm4ND7PwYO1oL2MYY6cC`

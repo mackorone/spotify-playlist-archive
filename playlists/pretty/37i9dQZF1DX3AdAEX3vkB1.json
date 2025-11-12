@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 317313,
+  "num_followers": 317403,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 244026,
       "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "The Tears Of A Clown",
-      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Chubby Checker 1959-1963",
         "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 153760,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Love Me, Please Love Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
       },
       "artists": [
         {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
         }
       ],
-      "duration_ms": 153093,
-      "name": "Speedy Gonzales",
-      "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
+      "duration_ms": 191266,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 157026,
       "name": "Happy Birthday, Sweet Sixteen",
       "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "Speedy Gonzales",
+      "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Things & Other Things",
-        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 136266,
       "name": "Breaking Up Is Hard to Do",
       "url": "https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Things & Other Things",
+        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 143400,
       "name": "Do Wah Diddy Diddy",
       "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-527 songs - 1 day 7 hr 18 min
+528 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [PLS \- sunrise version](https://open.spotify.com/track/3ldCCZdvhLEVr1zBwFpPd2) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [PLS](https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS) | 3:03 | 2021-08-16 | 2022-02-12 |
 | [Plus tard](https://open.spotify.com/track/0JmudqX8823E6sxCTbCWGn) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Plus tard](https://open.spotify.com/album/6TxrGYY2rZAVTYmdsRahM1) | 3:59 | 2021-01-16 | 2021-10-23 |
 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 | 2023-10-06 | 2023-11-11 |
-| [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 | 2022-04-15 |  |
+| [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 | 2022-04-15 | 2025-11-12 |
 | [Post Mortem](https://open.spotify.com/track/27CT56qR6K6NB5K9O2lrCO) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Post Mortem](https://open.spotify.com/album/3HPXiBBZnymZIN0aUkXieY) | 3:43 | 2022-03-25 | 2022-04-16 |
 | [Pour elle](https://open.spotify.com/track/1EXBuLna0G1M3Eum4mHJfa) | [Alex Richard](https://open.spotify.com/artist/1Q9g6aHFRvJXqNOdpglIbT) | [Pour elle](https://open.spotify.com/album/2ZNVeWHcqRngMISjIkUrbV) | 3:06 | 2021-02-25 | 2021-05-08 |
 | [Pousse Pousse](https://open.spotify.com/track/4R2RjRNPvXNLonRYuybrzq) | [Jonathan Painchaud](https://open.spotify.com/artist/1eTRTFyUNxGHlG9heF6YUF) | [Pousse Pousse \- Single](https://open.spotify.com/album/0wmyFTusdzmf1HQheJojP7) | 5:23 | 2021-01-03\* | 2021-10-09 |
@@ -424,6 +424,7 @@
 | [Reste](https://open.spotify.com/track/4WeVwfij7xULEKzgSIgVai) | [Marie\-Eve Roy](https://open.spotify.com/artist/6C5VPdM8WtyVyFLABlosbH) | [Multicolore](https://open.spotify.com/album/5ATljXNpfLwVJEEbFjLYh9) | 3:46 | 2021-01-16 | 2022-07-10 |
 | [Rien de plus grand](https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Rien de plus grand](https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a) | 4:36 | 2021-09-25 | 2022-12-02 |
 | [River Run \(with Lila Dupont\)](https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [River Run \(with Lila Dupont\)](https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz) | 3:25 | 2025-08-14 |  |
+| [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 |  |
 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 | 2021-01-15 |  |
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |

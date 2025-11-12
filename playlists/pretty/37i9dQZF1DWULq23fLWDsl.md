@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > The Indie highlights of 2010\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,817 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,881 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 24 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
 | 25 | [Congratulations](https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 3:55 |
 | 26 | [Solitude Is Bliss](https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:55 |
-| 27 | [Dancing on My Own](https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk, Pt.1](https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs) | 4:48 |
-| 28 | [Only The Young](https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:18 |
+| 27 | [Only The Young](https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:18 |
+| 28 | [Dancing on My Own](https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk, Pt.1](https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs) | 4:48 |
 | 29 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
 | 30 | [Home](https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 7:53 |
 | 31 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 |
@@ -85,18 +85,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 75 | [Draw Your Swords](https://open.spotify.com/track/0fqgrmA1DofWdJG2daQf9w) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 6:35 |
 | 76 | [Get Some](https://open.spotify.com/track/6Jcw41spJ0OfmV9hEIf9Fu) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/2HlEeBj6JSl0Eji4VRHWbX) | 3:22 |
 | 77 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
-| 78 | [Crave You](https://open.spotify.com/track/2cEVcPslk7RwcqDpLA6Mhu) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/4DqcEZbWf8L1AOYxvDj4He) | 3:54 |
-| 79 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
+| 78 | [Rivers and Roads](https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:44 |
+| 79 | [Crave You](https://open.spotify.com/track/2cEVcPslk7RwcqDpLA6Mhu) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/4DqcEZbWf8L1AOYxvDj4He) | 3:54 |
 | 80 | [For You](https://open.spotify.com/track/18XBLoClPIgN2Yf21zDTpI) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 5:19 |
 | 81 | [Rill Rill](https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2) | 3:49 |
 | 82 | [Journal of Ardency](https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw) | 3:45 |
-| 83 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 |
-| 84 | [Rivers and Roads](https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:44 |
+| 83 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
+| 84 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 |
 | 85 | [Love Is All](https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 4:14 |
 | 86 | [Far Away](https://open.spotify.com/track/2PsotMzKAdxPzpsEJYQd4Z) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields](https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll) | 2:44 |
 | 87 | [Weekend](https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4) | 3:22 |
-| 88 | [Round And Round](https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56) | 5:08 |
-| 89 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
+| 88 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
+| 89 | [Round And Round](https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56) | 5:08 |
 | 90 | [King Of Spain](https://open.spotify.com/track/52EIhoKvVv4VsMqjvqq0do) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 3:26 |
 | 91 | [Sweetest Kill](https://open.spotify.com/track/0j3dr7U259HXTzvEKJklpd) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/0xzX9DQPOH62M4i7WdQNfF) | 5:09 |
 | 92 | [Don't Let It Pass](https://open.spotify.com/track/0D5Dq5VGkZ2IBuHiStOxMr) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields](https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll) | 3:57 |

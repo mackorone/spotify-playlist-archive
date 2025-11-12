@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 911885,
+  "num_followers": 911905,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Me 4 U",
-        "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 180565,
-      "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -315,26 +315,6 @@
       "duration_ms": 248133,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Boogie Wonderland (with The Emotions)",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -367,6 +347,26 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Boogie Wonderland (with The Emotions)",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 236600,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "New Eyes",
         "url": "https://open.spotify.com/album/0VDMjDj2AwPQXWQ7XhN9gG"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/0TVV2gFROJaB3kIZyCUvIY"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
       "added_at": "2024-07-12 09:33:21",

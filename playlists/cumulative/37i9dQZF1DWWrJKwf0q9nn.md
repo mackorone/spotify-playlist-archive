@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Sunnery James & Ryan Marciano
 
-476 songs - 1 day 0 hr 9 min
+476 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Let Me Show You](https://open.spotify.com/track/54gbT3Z51KXbmeGwp2DZBC) | [Camisra](https://open.spotify.com/artist/1aHPNBPSjYv4vHc2pU37Xf), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Let Me Show You](https://open.spotify.com/album/3gJ9wr05mkqkZlR2hVF5xU) | 2:07 | 2025-07-17 | 2025-09-05 |
 | [Life](https://open.spotify.com/track/1Pf8x4VO66NuliT2EFwhep) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [Stella von Lingen](https://open.spotify.com/artist/7wxxPtj7USDWmsI8ORuuPT) | [Life](https://open.spotify.com/album/0rVfUBomZINxAxffvoSOCi) | 3:41 | 2025-07-17 | 2025-08-05 |
 | [Lift Me Up](https://open.spotify.com/track/4rKW43kduFZw8OsBmkNG9m) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up](https://open.spotify.com/album/4z4oGhZVugYZfPrgeuomfo) | 2:55 | 2025-11-07 | 2025-11-11 |
-| [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 5:11 | 2025-11-10 |  |
+| [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 2:55 | 2025-11-10 |  |
 | [Light Me Up](https://open.spotify.com/track/1VbLQ4OGIkoxPqmaxgOIIv) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Light Me Up](https://open.spotify.com/album/6z5uf0oR3EiKMj7PAnbNva) | 2:41 | 2025-09-11 | 2025-09-27 |
 | [Light That Leads Me \(with Bebe Rexha\)](https://open.spotify.com/track/1tNSYryHAUXKSMqYh1WS5M) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Light That Leads Me \(with Bebe Rexha\)](https://open.spotify.com/album/4rDHRIyHr7ixE7IBtUaHtm) | 3:13 | 2025-08-28 | 2025-10-03 |
 | [Like Fire](https://open.spotify.com/track/4eAYqDMoGWbSSw8ba7XmnF) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Like Fire](https://open.spotify.com/album/6mMKdHzHFhhHfhqo1ZRhtb) | 2:35 | 2025-10-31 |  |

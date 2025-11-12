@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,444 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,423 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 23 | [I Wanna](https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [I Wanna](https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx) | 2:09 |
 | 24 | [Se På Meg](https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Se På Meg](https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656) | 2:39 |
 | 25 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 |
-| 26 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
-| 27 | [Paris](https://open.spotify.com/track/5ShsKjYEFCpAg1MawQ71zC) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Paris](https://open.spotify.com/album/4OW1p0csvZytFhhAgNoABb) | 2:10 |
+| 26 | [Paris](https://open.spotify.com/track/5ShsKjYEFCpAg1MawQ71zC) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Paris](https://open.spotify.com/album/4OW1p0csvZytFhhAgNoABb) | 2:10 |
+| 27 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 | 28 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 |
 | 29 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
 | 30 | [Sucker For Pain](https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 3:08 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 35 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
 | 36 | [Sunshine Baby](https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Sunshine Baby](https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E) | 2:59 |
 | 37 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
-| 38 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 |
-| 39 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
+| 38 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
+| 39 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 |
 | 40 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 |
-| 41 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
+| 41 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 42 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
-| 43 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
-| 44 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
+| 43 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
+| 44 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
 | 45 | [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 |
-| 46 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 |
-| 47 | [fairytale](https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [fairytale](https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv) | 2:29 |
-| 48 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
-| 49 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 |
+| 46 | [fairytale](https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [fairytale](https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv) | 2:29 |
+| 47 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
+| 48 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 |
+| 49 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 |
 | 50 | [Samma det](https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Samma det](https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp) | 2:34 |
 
 Snapshot ID: `AAAAAMwpcoTaot9FvPrPigVeQzGMoThG`

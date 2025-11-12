@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,714 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,759 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 54 | [Solace In Silence](https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Solace In Silence](https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9) | 2:56 |
 | 55 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
 | 56 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
-| 57 | [KARATE](https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Metal Resistance](https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho) | 4:23 |
-| 58 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
-| 59 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
+| 57 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 58 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
+| 59 | [KARATE](https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Metal Resistance](https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho) | 4:23 |
 | 60 | [Mortal](https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Mortal](https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF) | 2:56 |
 | 61 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
 | 62 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 69 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 70 | [Scatterbrain](https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Scatterbrain](https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV) | 2:48 |
 | 71 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
-| 72 | [WORTHY](https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [WORTHY](https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp) | 3:42 |
-| 73 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
+| 72 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
+| 73 | [WORTHY](https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [WORTHY](https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp) | 3:42 |
 | 74 | [Blood Dynasty](https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ) | 3:51 |
 | 75 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
 | 76 | [Year of the Rat](https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Rubicon](https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8) | 4:35 |

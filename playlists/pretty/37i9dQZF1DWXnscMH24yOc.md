@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,654 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,705 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 31 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 |
 | 32 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 33 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
-| 34 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
-| 35 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 |
+| 34 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 |
+| 35 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
 | 36 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 |
 | 37 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 |
 | 38 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 68 | [Love](https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald) | [Kris Orlowski](https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w) | [Love](https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh) | 4:01 |
 | 69 | [Say You'll Be There](https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Say You'll Be There](https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw) | 3:53 |
 | 70 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
-| 71 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
-| 72 | [Only You \(1twofeel Reprise\)](https://open.spotify.com/track/4JKq0hEhwUtxKSfK0rU1UH) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Only You \(1twofeel Reprise\)](https://open.spotify.com/album/6Sm1ySYQ4fa7F7nujVvjSO) | 3:38 |
-| 73 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
+| 71 | [Only You \(1twofeel Reprise\)](https://open.spotify.com/track/4JKq0hEhwUtxKSfK0rU1UH) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Only You \(1twofeel Reprise\)](https://open.spotify.com/album/6Sm1ySYQ4fa7F7nujVvjSO) | 3:38 |
+| 72 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
+| 73 | [Wicked Game](https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Wicked Game](https://open.spotify.com/album/4Up5UVa1Fk36EcO67AuyLh) | 4:55 |
 | 74 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
-| 75 | [Wicked Game](https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Wicked Game](https://open.spotify.com/album/4Up5UVa1Fk36EcO67AuyLh) | 4:55 |
+| 75 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
 | 76 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 77 | [Earned It](https://open.spotify.com/track/2MxrQDEu6efhLEOWM2ckSU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Earned It](https://open.spotify.com/album/5F3EDc5Y9ca36xAwDEfAp8) | 4:07 |
 | 78 | [No Surprises \(feat\. Janelle Monáe\)](https://open.spotify.com/track/4cRPXadQRylHEWmQJ02fIc) | [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [OK Lady](https://open.spotify.com/album/5cxdHvTNzejoUNA48rbkRm) | 4:04 |

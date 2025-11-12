@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,080 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,068 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 29 | [Quem Tem Um Amigo \(Tem Tudo\) \(feat\. Zeca Pagodinho & Tokyo Ska Paradise Orchestra\)](https://open.spotify.com/track/3t7dahQw060tKGj9PsXvH6) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:09 |
 | 30 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
 | 31 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
-| 32 | [Terrorista del Amor](https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tu](https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT) | 3:12 |
-| 33 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
+| 32 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
+| 33 | [Terrorista del Amor](https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tu](https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT) | 3:12 |
 | 34 | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6) | 3:36 |
 | 35 | [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 |
 | 36 | [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,763 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,775 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

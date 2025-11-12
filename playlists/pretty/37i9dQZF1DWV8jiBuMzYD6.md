@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,018 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,038 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

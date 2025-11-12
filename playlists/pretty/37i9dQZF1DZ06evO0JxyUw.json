@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275707,
+  "num_followers": 275717,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ/ZgAAAAAAD23g0cEqV+2T2/305E41D",
+  "snapshot_id": "aRErAAAAAAB8ZuhNXPJ4xHgQ482ME69n",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted Heart",
-        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 217996,
       "name": "Reflection (2020)",
       "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bionic (Deluxe Version)",
         "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
       },
@@ -715,34 +715,6 @@
       "duration_ms": 186493,
       "name": "Not Myself Tonight",
       "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
-        "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
-      "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
     },
     {
       "added_at": null,
@@ -779,6 +751,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+        "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+      "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bionic (Deluxe Version)",
         "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
       },
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 245293,
       "name": "Pipe (feat. XNDA)",
       "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
     },
     {
       "added_at": null,

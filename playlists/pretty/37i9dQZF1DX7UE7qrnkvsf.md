@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,436 likes - 200 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,755 likes - 200 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 199 | [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 |
 | 200 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 |
 
-Snapshot ID: `AAAAAP4OrktLdPNqtiGz/KSfHX4FQXdK`
+Snapshot ID: `AAAAAPXIVctffdaPMpi66vhBSXpIyDgT`
