@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,267 songs - 3 day 2 hr 28 min
+1,268 songs - 3 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Autumn serenade](https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Autumn serenade](https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2) | 3:15 | 2024-11-12 | 2025-09-18 |
 | [Autumn Whispers](https://open.spotify.com/track/0xHjKlaXNiA4BJGgPz15KX) | [Ivory Soul Trio](https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7) | [Autumn Whispers](https://open.spotify.com/album/1rGBSySIEwduFE3SanVwCQ) | 3:48 | 2024-04-10 | 2025-08-02 |
 | [Back Again](https://open.spotify.com/track/2tc90056I9biUsg2AJJgxu) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Back Again](https://open.spotify.com/album/7t2aig2y41TMu92g00TRNj) | 5:11 | 2024-02-23 | 2025-03-04 |
-| [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 | 2023-05-25 |  |
+| [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 | 2023-05-25 |  |
 | [Back Seat Driver](https://open.spotify.com/track/15QMDN87HTKuwTPv7UcXPI) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Back Seat Driver](https://open.spotify.com/album/3FAQ7kvLvOTR4N8iThevUK) | 3:00 | 2024-05-30 | 2024-08-20 |
 | [Back When](https://open.spotify.com/track/1XomKmpYkL7qlTVDkCdpzw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Back When](https://open.spotify.com/album/5lcGVCFjiFNizsufqs1D0h) | 4:03 | 2024-02-23 | 2025-03-04 |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-02-15 | 2024-05-11 |
@@ -150,7 +150,7 @@
 | [Beatrice](https://open.spotify.com/track/3fZQ7I7lDN2DZQJHuJ70Ly) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Beatrice](https://open.spotify.com/album/4g1qHBpSJiWwjhLyX27ypB) | 3:35 | 2022-12-08 | 2023-12-08 |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 | 2024-07-16 |
 | [Beautiful You](https://open.spotify.com/track/70vLPHSEkQTOT7qUF6Qfgj) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Beautiful You](https://open.spotify.com/album/3HphJAVX5k4o619Hc1jGas) | 3:27 | 2023-02-23 |  |
-| [Beauty Within](https://open.spotify.com/track/0EnPGNHGICDJ33oZhpYTio) | [West Village Quartet](https://open.spotify.com/artist/0xh8Hbs6yzgtXrvcOYxckI) | [Beauty Within](https://open.spotify.com/album/4RJb2QnBbHWKnbx2jb8UlQ) | 4:23 | 2025-08-27 |  |
+| [Beauty Within](https://open.spotify.com/track/0EnPGNHGICDJ33oZhpYTio) | [West Village Quartet](https://open.spotify.com/artist/0xh8Hbs6yzgtXrvcOYxckI) | [Beauty Within](https://open.spotify.com/album/4RJb2QnBbHWKnbx2jb8UlQ) | 4:23 | 2025-08-27 | 2025-11-13 |
 | [Beloved Dance](https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Beloved Dance](https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1) | 3:03 | 2024-01-12 |  |
 | [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 | 2023-08-17 |  |
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 |  |
@@ -921,7 +921,7 @@
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 |  |
 | [Shimmer Through](https://open.spotify.com/track/6040WhuchadJWK5fuNE3OT) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Shimmer Through](https://open.spotify.com/album/3IcPECf5cE4czhZqmDhiki) | 4:08 | 2024-10-01 | 2025-06-06 |
 | [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 | 2024-02-02 |  |
-| [Silent Conversations](https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Silent Conversations](https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix) | 3:30 | 2025-07-23 |  |
+| [Silent Conversations](https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Silent Conversations](https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix) | 3:30 | 2025-07-23 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-07 | 2024-07-02 |
 | [Silent Streets](https://open.spotify.com/track/0FrtYU16g7KDBnG9F5tCHe) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Silent Streets](https://open.spotify.com/album/1vQAltisCxDsgosm4JeRjf) | 3:15 | 2023-05-11 |  |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 |  |
@@ -1181,6 +1181,7 @@
 | [Walking You Home](https://open.spotify.com/track/0FGssXb5s6d7QPLFQLE4OO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Walking You Home](https://open.spotify.com/album/3SJawp8ghUJ2HrbZ8kcpKi) | 2:59 | 2024-05-23 | 2025-07-24 |
 | [Wallflower](https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Wallflower](https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK) | 3:40 | 2023-09-29 | 2025-07-24 |
 | [Waltz For Ola](https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:14 | 2022-11-10 | 2025-01-15 |
+| [Wardour Street](https://open.spotify.com/track/0fnedCugQXYbkoby0dUHHt) | [Levi Hollis](https://open.spotify.com/artist/1qX2ZmbjKsrW9gAqmJXvJg) | [Wardour Street](https://open.spotify.com/album/2fI8OSSlrizKuwxm3K9GBn) | 4:43 | 2025-11-12 |  |
 | [Was It Me?](https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Was It Me?](https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv) | 4:21 | 2023-12-08 |  |
 | [Watching the World Walk by](https://open.spotify.com/track/0qR5RaRlfepIZMySNeQSVV) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Watching the World Walk by](https://open.spotify.com/album/1DAu9Rm258bwrD5YR48aJ4) | 5:24 | 2025-01-07 | 2025-01-21 |
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 | 2025-03-11 |

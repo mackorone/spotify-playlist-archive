@@ -4,7 +4,7 @@
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-880 songs - 2 day 11 hr 3 min
+881 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-11-08 | 2025-11-08 |
 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 | 2022-03-29 | 2022-11-24 |
 | [A Child's Question, August](https://open.spotify.com/track/0aq5fsNpJPIpfTmMO0mgx4) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc) | 2:46 | 2023-11-10 | 2024-11-09 |
-| [A Ella](https://open.spotify.com/track/1I88XGUqtzp4GhlxkeSMQr) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Rodeos](https://open.spotify.com/album/7nJKLhhZcVY9bFcBY4JNE4) | 2:55 | 2025-11-07 |  |
+| [A Ella](https://open.spotify.com/track/1I88XGUqtzp4GhlxkeSMQr) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Rodeos](https://open.spotify.com/album/7nJKLhhZcVY9bFcBY4JNE4) | 2:55 | 2025-11-07 | 2025-11-13 |
 | [A Hero's Death](https://open.spotify.com/track/3x9Fdxt2AvcFQDzt3hLu8h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3) | 4:18 | 2021-03-10 | 2022-03-30 |
 | [A Little Soon To Say](https://open.spotify.com/track/3lJucYLm3t0XVhbQj3kxFX) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Downhill From Everywhere](https://open.spotify.com/album/2QYXmpLyttMQahrUOxLwss) | 6:25 | 2022-03-29 | 2022-11-24 |
 | [A Sliver](https://open.spotify.com/track/3ZXbVhwo6ibRCy8CqKP3BG) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 4:37 | 2021-03-10 | 2022-03-30 |
@@ -80,6 +80,7 @@
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-11-10 | 2024-11-09 |
 | [Baby Jack](https://open.spotify.com/track/0wKDGy8ZYxKC39BYjDPAl4) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Orchestra](https://open.spotify.com/artist/2anikrWpubwqzddpGqGsuK) | [Four Questions](https://open.spotify.com/album/6uGW7PgMWhfbuvCtR8Biv9) | 7:22 | 2021-03-10 | 2022-03-30 |
 | [Back Inside the Glass](https://open.spotify.com/track/2AJ8wDgmCDFEshGgf3zKSM) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 2:34 | 2021-03-10 | 2022-03-30 |
+| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-11-12 |  |
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-11-10 | 2024-11-09 |
 | [Bad As I Used To Be](https://open.spotify.com/track/11AfHdYnWqd8ez0u3VHw6E) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 5:00 | 2025-11-07 |  |
 | [Bad Dreams](https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:04 | 2025-11-07 |  |

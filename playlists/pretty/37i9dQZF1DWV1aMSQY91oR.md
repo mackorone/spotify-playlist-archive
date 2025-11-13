@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Smiley & Roy Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,028 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,039 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 44 | [DIPSET](https://open.spotify.com/track/1cyYupGdxcwM85SMN24rnm) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [DIPSET](https://open.spotify.com/album/37ZEqEFhPFB4lY7Qjdghjs) | 2:41 |
 | 45 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 |
 | 46 | [Catchin' A Hat](https://open.spotify.com/track/1RwhELTjSgiB70hEElaXYw) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Catchin' A Hat](https://open.spotify.com/album/3ILx5Q11EVB4fvwWLFzLTe) | 1:42 |
-| 47 | [Love From Afar](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
+| 47 | [Love From Afar \(feat\. Fousheé\)](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
 | 48 | [Say I love You](https://open.spotify.com/track/6K2ePZZyA7HeNPHsDzrWIK) | [Jake Etc.](https://open.spotify.com/artist/7uQf4gBHC2aFS0qAK4rtvU), [Don Von Jovi](https://open.spotify.com/artist/2FsrBbT6qdiyz2eyUpDX8C), [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO), [Farah Léa](https://open.spotify.com/artist/5EpvcxhcoizehPzIpU3aEj), [Vee Ivey](https://open.spotify.com/artist/3wVJddrnSaws4YYSWI6Mf2) | [GTR Presents: Loop Pack](https://open.spotify.com/album/7LM4WkmzYPMSrXyADRuFEd) | 2:32 |
 | 49 | [calloutmyname](https://open.spotify.com/track/5qc0nRdreP1vKJqmbQyoLd) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6) | [calloutmyname](https://open.spotify.com/album/5yQVBZYZJ7lHACvox0sfG0) | 2:19 |
 | 50 | [BLAOW](https://open.spotify.com/track/0hhuswpS4boXjy8XDOgX4U) | [Troy Dunnit](https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z) | [BLAOW](https://open.spotify.com/album/2c9WtyNWtWpRvNpnN2FRjY) | 1:57 |

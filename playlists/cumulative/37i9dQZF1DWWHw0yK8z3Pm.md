@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Logan Staats
 
-634 songs - 1 day 14 hr 26 min
+635 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [No One Else Like Me](https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 4:17 | 2024-08-23 | 2025-11-07 |
 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 | 2022-05-13 | 2022-12-17 |
 | [Nomads](https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Nomads](https://open.spotify.com/album/217CxMC2a2u6pJNohNq2zk) | 4:03 | 2022-08-20 | 2023-09-16 |
+| [Nomads \- Timelines Acoustic](https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Nomads \(Timelines\)](https://open.spotify.com/album/41a62fpVlKPzWMx0zD3IB3) | 3:44 | 2025-11-07 |  |
 | [North of the Border](https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [North of the Border](https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi) | 4:24 | 2022-07-22 | 2022-10-15 |
 | [Northern Blood](https://open.spotify.com/track/5HoukISZBPykqAbKPT12kK) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Northern Blood](https://open.spotify.com/album/1rQfXmREZiL4nDa6cXJ1Eo) | 3:07 | 2025-04-18 | 2025-05-14 |
 | [Not Unlike A Rock](https://open.spotify.com/track/2yoFY6f2XAA9IWYbbtJxsL) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/09EwURVtWWshH7WEMFeUUa) | 4:53 | 2022-10-28 | 2023-04-22 |
@@ -456,7 +457,7 @@
 | [Pretending](https://open.spotify.com/track/7CE2zBO7SCA3416Id6Pzf6) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 5:39 | 2023-10-13 | 2024-01-25 |
 | [Pretending](https://open.spotify.com/track/7DWiZj8PrmJF5pA16htFEF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 5:39 | 2024-02-02 | 2024-03-16 |
 | [Pretty Little Liar](https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Pretty Little Liar](https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um) | 4:02 | 2025-10-09 |  |
-| [Pretty Pieces](https://open.spotify.com/track/2oAGZv9h9Bn3hl616jKsrm) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Pretty Pieces](https://open.spotify.com/album/3jd4iJFR4uguKW9dN9NrdT) | 4:13 | 2025-10-06 |  |
+| [Pretty Pieces](https://open.spotify.com/track/2oAGZv9h9Bn3hl616jKsrm) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Pretty Pieces](https://open.spotify.com/album/3jd4iJFR4uguKW9dN9NrdT) | 4:13 | 2025-10-06 | 2025-11-13 |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-07 | 2024-07-06 |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
 | [Rattlesnake](https://open.spotify.com/track/4l1WYSb7vmJALdMoDHShtj) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Rattlesnake](https://open.spotify.com/album/6ty4luxA6qQTlGmI2B9Gif) | 3:33 | 2024-03-15 | 2024-06-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: モノンクル MONONKVL
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,973 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,974 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 10 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 |
 | 11 | [THUNDA](https://open.spotify.com/track/1BEyOBT9L7Sl9oXJiJgryS) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [THUNDA](https://open.spotify.com/album/7Lw4duprv7ZTxEBm1Hj87H) | 2:41 |
 | 12 | [POTA](https://open.spotify.com/track/0kExHtb8N88udUGiqNjgpF) | [ONI NO MIGIUDE](https://open.spotify.com/artist/7FTDuRyVobBKc7kmxnjFK4) | [POTA](https://open.spotify.com/album/0jasL9Ne1EzxNVJht0kxNf) | 5:04 |
-| 13 | [Track 1](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [万祝](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [万祝](https://open.spotify.com/album/0heim8z9M7TUdwDP9o1ZxY) | 3:41 |
 | 14 | [暗夜光路](https://open.spotify.com/track/3O4UaVBXQfcnvwAhmOdDa7) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [暗夜光路](https://open.spotify.com/album/1gJUSdM94mEuWw0XKbysOF) | 3:37 |
 | 15 | [ほうき星](https://open.spotify.com/track/0wROI0QCfZ21IslEMtJMwA) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [condominium](https://open.spotify.com/album/3tUZ7aiutrOUt1eikhxYov) | 3:49 |
 | 16 | [Turquoise](https://open.spotify.com/track/1oAe9le4gkjeqIoVl1FQZW) | [Sisters In The Velvet](https://open.spotify.com/artist/1XoEFInxxL0pnpFJBkzPNZ) | [Mother's Octave](https://open.spotify.com/album/0xiUNA6NFXK2LABnafRkeG) | 5:14 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 52 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
 | 53 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
 | 54 | [iPX](https://open.spotify.com/track/1zXxvSZvkPdHuWCVzKuVPX) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Podium](https://open.spotify.com/album/6o77fZj73QcB51LBaIli1v) | 2:39 |
-| 55 | [Moving Still Life](https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Moving Still Life](https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO) | 2:50 |
-| 56 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
-| 57 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 |
+| 55 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 |
+| 56 | [Moving Still Life](https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Moving Still Life](https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO) | 2:50 |
+| 57 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
 | 58 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 |
 | 59 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 |
 | 60 | [梅雨 \- feat.京 英一](https://open.spotify.com/track/0itAw5Q6o1y6TE1GnVPLXW) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [京 英一](https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa) | [梅雨 \(feat.京 英一\)](https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw) | 3:51 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 66 | [ぼちぼちいきましょう](https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [ぼちぼちいきましょう](https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK) | 4:08 |
 | 67 | [Tiny Mirror](https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [まにまに](https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE) | 3:18 |
 | 68 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
-| 69 | [love it](https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:51 |
-| 70 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
-| 71 | [いっつも](https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いっつも](https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF) | 4:29 |
-| 72 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
-| 73 | [DON'T MIND](https://open.spotify.com/track/1FXGYvzEiLNXnZkf6dyLio) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [DON'T MIND](https://open.spotify.com/album/58bcwv5RRy4giKo4im4yCa) | 3:35 |
-| 74 | [レンタル神様](https://open.spotify.com/track/3XpS5myFyf5fWVhacy5vV1) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [レンタル神様](https://open.spotify.com/album/0dVFInlao33dyNldqM2bPK) | 2:27 |
-| 75 | [amu](https://open.spotify.com/track/7Hhn1itFOsaUV7tN8zzVQY) | [rourourourous](https://open.spotify.com/artist/6CJxr6py0qruSaAYWYvc1y) | [amu](https://open.spotify.com/album/7kzPNXvxzMyPEtWPY0mC4f) | 3:47 |
+| 69 | [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 |
+| 70 | [love it](https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:51 |
+| 71 | [Stand up](https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Stand up](https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh) | 3:55 |
+| 72 | [DON'T MIND](https://open.spotify.com/track/1FXGYvzEiLNXnZkf6dyLio) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [DON'T MIND](https://open.spotify.com/album/58bcwv5RRy4giKo4im4yCa) | 3:35 |
+| 73 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
+| 74 | [amu](https://open.spotify.com/track/7Hhn1itFOsaUV7tN8zzVQY) | [rourourourous](https://open.spotify.com/artist/6CJxr6py0qruSaAYWYvc1y) | [amu](https://open.spotify.com/album/7kzPNXvxzMyPEtWPY0mC4f) | 3:47 |
+| 75 | [レンタル神様](https://open.spotify.com/track/3XpS5myFyf5fWVhacy5vV1) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [レンタル神様](https://open.spotify.com/album/0dVFInlao33dyNldqM2bPK) | 2:27 |
 
 Snapshot ID: `AAAAAPevAUv4WjOM8MRYFt9DMuLXDDng`

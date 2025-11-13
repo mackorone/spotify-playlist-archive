@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 512218,
+  "num_followers": 512293,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAC3bGU2sj4gGxChlB2Gv/gx",
+  "snapshot_id": "aRJ8gAAAAAAu9L3wXsEomEulTozJmD5H",
   "tracks": [
     {
       "added_at": null,
@@ -551,38 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 214552,
-      "name": "Yo Tuve un Amor",
-      "url": "https://open.spotify.com/track/0aURWMQhHqx8LdnLYvhn9G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "No Son Horas - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/4rr6n7cchA3zFkI7Ec1UgN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -603,6 +571,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "No Son Horas - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/4rr6n7cchA3zFkI7Ec1UgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214552,
+      "name": "Yo Tuve un Amor",
+      "url": "https://open.spotify.com/track/0aURWMQhHqx8LdnLYvhn9G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Es Color De Rosa",
         "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
       },
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 163419,
-      "name": "Ev\u00edtame la Pena",
-      "url": "https://open.spotify.com/track/5iit5JfhTCIXmTcxDYk3kG"
+      "duration_ms": 203639,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 203639,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
+      "duration_ms": 163419,
+      "name": "Ev\u00edtame la Pena",
+      "url": "https://open.spotify.com/track/5iit5JfhTCIXmTcxDYk3kG"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
-        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 189620,
-      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
-      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
+      "duration_ms": 161880,
+      "name": "Con Toda Libertad",
+      "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
     }
   ],
   "unique_name": "This Is Yuridia",

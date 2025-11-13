@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAACAEptfvunPIX6ZVb5t/R/",
+  "snapshot_id": "aRJ8gAAAAAB6+L40XJ4+XXzpO1Hyg7B/",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Caricia",
         "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 208240,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+      "duration_ms": 228367,
+      "name": "NADA",
+      "url": "https://open.spotify.com/track/0zK5RRApYNkOtNqkVohwEu"
     },
     {
       "added_at": null,
@@ -663,38 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 239082,
-      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
-      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 230921,
-      "name": "beso",
-      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RESISTOL +",
         "url": "https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 190285,
       "name": "RESISTOL +",
       "url": "https://open.spotify.com/track/4V0dz6IJM3l4iBgZfR15av"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 230921,
+      "name": "beso",
+      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 239082,
+      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
+      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 203633,
+      "name": "Hasta la Fantas\u00eda",
+      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Out Cold (Deluxe Version)",
         "url": "https://open.spotify.com/album/0qQ5zadXGyGteQKihv2hl7"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 240266,
       "name": "Out Cold - Deluxe Version",
       "url": "https://open.spotify.com/track/1sWBKj4C5KwSawtCNxLKFg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Hasta la Fantas\u00eda",
-      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

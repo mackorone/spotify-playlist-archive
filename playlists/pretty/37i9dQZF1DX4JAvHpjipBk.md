@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Kehlani, Joji, ROSALÍA, Katy Perry, Lil Baby, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,467,617 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,467,245 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 78 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
 | 79 | [Over And Over](https://open.spotify.com/track/4GRVdfPyJw1XPVJoTxEs2u) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Over And Over](https://open.spotify.com/album/1Le0seH2BDarhRsu6FQMVp) | 3:01 |
 | 80 | [DON'T EVER LEAVE ME](https://open.spotify.com/track/3DFMhkPf89BV5z0HhUYa6r) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [FILM NOIR](https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ) | 3:53 |
-| 81 | [Love From Afar](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
+| 81 | [Love From Afar \(feat\. Fousheé\)](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
 | 82 | [Hold On To The Light](https://open.spotify.com/track/0T4lcpAprQ7CXjNdYCZ3vp) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hold On To The Light](https://open.spotify.com/album/0znG5vLsfp5W8CSbPdoY4i) | 3:48 |
 | 83 | [Build a House](https://open.spotify.com/track/3fYFSYL49mkevGDQkjkoFw) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Underbelly](https://open.spotify.com/album/3NyVPWtGDoTM70RDKqjIjF) | 4:45 |
 | 84 | [California Games \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/0nZjAcQr2I4KIKkBEXE4Hx) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [California Games \(feat\. Earl Sweatshirt\)](https://open.spotify.com/album/2xFiOEI88LQHRso6Z0H8UI) | 3:13 |

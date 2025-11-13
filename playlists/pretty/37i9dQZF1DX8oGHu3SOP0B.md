@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: Hers
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,777 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,779 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [WHY? \(ทำไม\)](https://open.spotify.com/track/0KC1v5T3aWjqmE088bLa7K) | [พู่กัน กันฏ์ระพี](https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl) | [WHY? \(ทำไม\)](https://open.spotify.com/album/7H5K2KF9HYTNJxiozJ5sgh) | 4:07 |
 | 50 | [ยินดี...ที่จากไป](https://open.spotify.com/track/0E1vYJ7hy5eh00PMrVAZi3) | [JessieVard](https://open.spotify.com/artist/05AN28BOgfdGlWauMZbiwu) | [ยินดี...ที่จากไป](https://open.spotify.com/album/50VAn4anXbMjkcefFyF6jJ) | 4:23 |
 
-Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`
+Snapshot ID: `AAAAAP+L/hBXkGp5YauwzsbcYn0tGeb7`

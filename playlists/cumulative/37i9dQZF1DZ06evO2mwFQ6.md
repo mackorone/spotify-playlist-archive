@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-140 songs - 8 hr 9 min
+141 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Never Live Without You](https://open.spotify.com/track/2quoZq5GjF0JUVvVIBITTB) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:57 | 2025-10-24 | 2025-10-25 |
 | [New England Highway](https://open.spotify.com/track/79Ug0xTExdzoqRLIFfizav) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc) | 3:42 | 2025-04-01 | 2025-04-04 |
 | [Nothin' but a Good Time](https://open.spotify.com/track/0ODdLjkgDxYreabKGk3A0V) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:25 | 2025-07-14 | 2025-09-04 |
+| [Now We're Talking](https://open.spotify.com/track/0mh2dUkBkferlWRAegLjqX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Now We're Talking](https://open.spotify.com/album/2ndeM4J88d7JlETqwwwH8n) | 3:00 | 2025-11-13 |  |
 | [Now We're Talking](https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Now We're Talking](https://open.spotify.com/album/1bhWVaM0AdYQxAd6eO38Id) | 3:00 | 2023-06-24 | 2024-12-08 |
 | [Number 34](https://open.spotify.com/track/06KtoiOxJgda07fHxV5IjZ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 2:54 | 2025-10-22 |  |
 | [Number 34](https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 2:54 | 2023-06-17 | 2025-10-22 |
@@ -117,7 +118,7 @@
 | [Sleepless Nights](https://open.spotify.com/track/0LRDeyEdxwwXmO25KboUE4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Sleepless Nights](https://open.spotify.com/album/5X3A67WW1vgO5r6o5UBIun) | 3:35 | 2024-02-10 | 2024-11-17 |
 | [Some Dreams](https://open.spotify.com/track/5RxqW3arT9yBX81YCZ7hiu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:01 | 2025-10-26 | 2025-10-28 |
 | [Someday](https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo) | 2:28 | 2023-06-17 | 2025-10-24 |
-| [Someday](https://open.spotify.com/track/3SEuFv4bwCh3ImgLJL6ERG) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/1pHOIYV04PXSNHjwmcZD22) | 2:28 | 2025-11-12 |  |
+| [Someday](https://open.spotify.com/track/3SEuFv4bwCh3ImgLJL6ERG) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/1pHOIYV04PXSNHjwmcZD22) | 2:28 | 2025-11-12 | 2025-11-13 |
 | [Speed of Life](https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:02 | 2024-12-09 |  |
 | [Speed Of Life](https://open.spotify.com/track/6qgjCMasssUe7BEeBx95Oy) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:02 | 2023-06-17 | 2024-12-02 |
 | [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/6zZUz5d1IbmEz3ckpDZiC0) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Steve Ford](https://open.spotify.com/artist/3w3POrLv9wRAYjuPWOwj8C), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 3:35 | 2025-11-05 |  |

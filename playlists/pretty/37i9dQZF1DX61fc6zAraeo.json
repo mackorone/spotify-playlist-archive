@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105468,
+  "num_followers": 105477,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/5fCgeqHfCgT60KyhKQzvkK"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 161871,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3c27H2nNYfoipwl2f1ULnK"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Flashlight",
         "url": "https://open.spotify.com/album/2k5PQdkNT1HHTuHsPwWwug"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 191279,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/5zF0TbsMKjIUQDrOhBfrvp"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/5fCgeqHfCgT60KyhKQzvkK"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 161871,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/3c27H2nNYfoipwl2f1ULnK"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "World Gone Wild (feat. Sam Martin) [Matt Sassari Remix]",
         "url": "https://open.spotify.com/album/4aG4CbD5cqxXZ8rmB0ESp0"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 140625,
       "name": "World Gone Wild (feat. Sam Martin) - Matt Sassari Remix",
       "url": "https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "What You Need",
-        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Never Fall Down",
-        "url": "https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ"
-      },
-      "artists": [
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "LAUWEND",
-          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
-        }
-      ],
-      "duration_ms": 144570,
-      "name": "Never Fall Down",
-      "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Don't Fall For Me",
         "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 174888,
       "name": "Don't Fall For Me",
       "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Never Fall Down",
+        "url": "https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "LAUWEND",
+          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
+        }
+      ],
+      "duration_ms": 144570,
+      "name": "Never Fall Down",
+      "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
     },
     {
       "added_at": "2025-10-30 23:00:21",

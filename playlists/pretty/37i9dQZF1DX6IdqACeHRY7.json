@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157594,
+  "num_followers": 157595,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
         "name": "Horsens (feat. Sofie1998)",
         "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 191262,
       "name": "Horsens (feat. Sofie1998)",
       "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Love You Anymore",
+      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 137400,
       "name": "T\u00c6T P\u00c5 (feat. Delara)",
       "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Love You Anymore",
-      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Lonely (feat. Artigeardit)",
-        "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
-      },
-      "artists": [
-        {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 196090,
-      "name": "Lonely (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Lonely (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 196090,
+      "name": "Lonely (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "P\u00e6n",
-        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 190300,
-      "name": "P\u00e6n",
-      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Better Luck Next Time",
         "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 172371,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "P\u00e6n",
+        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 190300,
+      "name": "P\u00e6n",
+      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 173682,
       "name": "Be Kind (with Halsey) [Stripped]",
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Mads Langer",
-        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Fact - Fiction",
-      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Black Beatles (Acoustic)",
         "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 211781,
       "name": "Black Beatles - Acoustic",
       "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Mads Langer",
+        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Fact - Fiction",
+      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
     },
     {
       "added_at": "2025-10-07 14:04:26",

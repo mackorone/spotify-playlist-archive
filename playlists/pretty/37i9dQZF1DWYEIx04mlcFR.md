@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Majo Rivas en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,929 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,932 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [¿Cuándo me toca a mí?](https://open.spotify.com/track/47QLfnp2Jk4J9DbKEoFXxV) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY) | [REAL](https://open.spotify.com/album/1713DFQAHe6x9na5v3wE6D) | 3:22 |
-| 2 | [ACELERADAS](https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [ACELERADAS](https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO) | 3:30 |
+| 2 | [ACELERADAS!](https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [ACELERADAS!](https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO) | 3:30 |
 | 3 | [Volver](https://open.spotify.com/track/7m4izEuPNwCBOSncdFT5XR) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Volver](https://open.spotify.com/album/2gQFgvMiKltHwrKrdY8HuS) | 3:34 |
 | 4 | [Callate Besame](https://open.spotify.com/track/1fPEuMVP2AM0GqV4oV8FDJ) | [SARAH SARAH](https://open.spotify.com/artist/4BgCNFckJCDptto1yuby0R) | [Callate Besame](https://open.spotify.com/album/0UZ4lydn7A83LOZ1YLCnzo) | 2:22 |
 | 5 | [normal](https://open.spotify.com/track/5Sl9DQqkVANHgljFrNGqbG) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [normal](https://open.spotify.com/album/6fz0R3nSpt8BfVbWC32Tlk) | 4:10 |

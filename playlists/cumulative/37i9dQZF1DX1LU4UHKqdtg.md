@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ITZY
 
-1,607 songs - 3 day 13 hr 14 min
+1,608 songs - 3 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-07 | 2024-06-20 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/6FdfJYF7VY2BWe7NnRUKB2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/0HLaSJyrIVa0jXO3z0atmw) | 2:42 | 2024-05-21 | 2024-06-14 |
-| [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 | 2025-09-22 |  |
+| [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 | 2025-09-22 | 2025-11-13 |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-12 | 2023-11-29 |
 | [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 | 2023-12-01 | 2024-04-19 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-12-05 |
@@ -517,6 +517,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-23 | 2022-02-05 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2022-10-26 |
 | [Girls \- BRLLNT Remix](https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.18 : Girls Remixes](https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS) | 2:55 | 2022-10-20 | 2023-01-25 |
+| [Girls Like Me](https://open.spotify.com/track/3HVNBAEJxpDlzXxJTk2cvv) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [P.M.S.](https://open.spotify.com/album/1W16GV237nNRmbdTdjaEwb) | 3:00 | 2025-11-12 |  |
 | [Girls Never Die](https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w) | 3:07 | 2024-05-10 | 2024-09-04 |
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2025-03-06 | 2025-04-15 |
 | [Girls Never Die \-Japanese Version\-](https://open.spotify.com/track/4cVNX1p1e4HxWesDafvBbB) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Girls Never Die \-Japanese Version\-](https://open.spotify.com/album/3jyP94l9uBU0zYby4B6NND) | 3:28 | 2025-04-14 | 2025-05-12 |

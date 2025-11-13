@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hannah Jane Lewis, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,839 likes - 190 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,879 likes - 190 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 189 | [Broken By You](https://open.spotify.com/track/0BnlSpk3gPirulttJdWu14) | [Alyssa Flaherty](https://open.spotify.com/artist/5gIWNVFbj3Q4cLsaSByxVR) | [Broken By You](https://open.spotify.com/album/0swQyoqrJOFTHaWg0kKGFg) | 3:06 |
 | 190 | [Something About Cowgirls](https://open.spotify.com/track/1OVk0oZVBiwX3JHCxVkpeG) | [Dustin de la Garza](https://open.spotify.com/artist/21PaTPjYzSS64cS5yVBfAx) | [Something About Cowgirls](https://open.spotify.com/album/3SVUezvVibXdX6DAl5m1Tj) | 3:25 |
 
-Snapshot ID: `AAAAAIAExue/3NS5ps54xZTzytyqX/5L`
+Snapshot ID: `AAAAABHVDSxTdfepeI39k1ESlwfZ1dZy`

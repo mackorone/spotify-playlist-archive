@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > Listen to your favorite Disney Channel Hits, including the new Electric Bloom soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,673 likes - 184 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,661 likes - 184 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

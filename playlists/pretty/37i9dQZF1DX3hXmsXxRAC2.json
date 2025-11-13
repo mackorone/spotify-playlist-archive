@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 357108,
+  "num_followers": 357147,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Amanecida Con Todo Y Con Todos",
-        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 154739,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 284421,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/0isfyPlYuItuJ0C43tIBM4"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 154739,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 284665,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Canciones Que Recuerdo",
         "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 175359,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/3pwiyLyqOb9Web9j60Dl6j"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 284665,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 423919,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Canciones Que Recuerdo",
         "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 179013,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/4s3C6infDnkoWxwocJYbhD"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 423919,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 311216,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/3FXllawd18D81GScM3Ei5t"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 229469,
       "name": "Perd\u00f3name, Olv\u00eddalo",
       "url": "https://open.spotify.com/track/77lUx4Z36ydmIOFK67qfR3"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/7hHbnMHSZUXTntAiFsej3d"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 311216,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/3FXllawd18D81GScM3Ei5t"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Primera Fila - Vol. 1",
+        "url": "https://open.spotify.com/album/0sKGLI3vnagX4jo4uHJrBC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "La Diferencia - (En Vivo)",
+      "url": "https://open.spotify.com/track/4ao69zrQh9WcxvJ2t2fj9q"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
         "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 294760,
       "name": "Siempre en Mi Mente - MTV Unplugged [En Vivo]",
       "url": "https://open.spotify.com/track/15eHUj2OnfDrbKiIboohEx"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Primera Fila - Vol. 1",
-        "url": "https://open.spotify.com/album/0sKGLI3vnagX4jo4uHJrBC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "La Diferencia - (En Vivo)",
-      "url": "https://open.spotify.com/track/4ao69zrQh9WcxvJ2t2fj9q"
     },
     {
       "added_at": "2024-07-02 23:46:15",

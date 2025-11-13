@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-961 songs - 2 day 15 hr 31 min
+962 songs - 2 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Tiny Little Bows](https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:21 | 2023-10-18 |  |
 | [TNT](https://open.spotify.com/track/7noqdg2Oc77zl0lZsOsioI) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 7:33 | 2024-01-31 |  |
 | [To All The Girls](https://open.spotify.com/track/7JSHs5GH7pq5moVo8wu1I6) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 1:29 | 2024-01-03 |  |
+| [Tom's Lament](https://open.spotify.com/track/150J3R13jQbb9HQN9RQK12) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [DJ Set](https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u) | 4:11 | 2025-11-12 |  |
 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 | 2025-09-21 | 2025-09-24 |
 | [TOP SECRET MAN](https://open.spotify.com/track/0xlMZyzjV8B6d0xchDCnmw) | [Plastics](https://open.spotify.com/artist/12I1yoGmoHUfrm0OIrYQhz) | [WELCOME PLASTICS](https://open.spotify.com/album/52zbFml9o5ADP62lvoaq3Z) | 2:26 | 2024-06-17 |  |
 | [Total euphoria](https://open.spotify.com/track/5GHYjIrLwK4e7WTTZZcJt5) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:30 | 2025-08-12 |  |

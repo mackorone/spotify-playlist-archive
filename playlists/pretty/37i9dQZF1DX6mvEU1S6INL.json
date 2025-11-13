@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142579,
+  "num_followers": 1142571,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 270483,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. D4vd)",
       "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 270483,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 214632,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting On You)",
       "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
-      },
-      "artists": [
-        {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Every Kingdom (Deluxe Version)",
         "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Guru",
-        "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
       },
       "artists": [
         {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 204466,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
+      "duration_ms": 174565,
+      "name": "Want You Like That",
+      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
     }
   ],
   "unique_name": "You & Me",

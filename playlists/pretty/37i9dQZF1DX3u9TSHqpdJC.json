@@ -1,13 +1,177 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Stella Hennen. Artwork by Paola Saliby",
-  "num_followers": 230538,
+  "description": "The best new pop music from new, independent artists.  Cover: Gyubin. Artwork by Paola Saliby",
+  "num_followers": 230545,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADpteNPyEInQ72c7EXI/6svp6sMz",
+  "snapshot_id": "AAAAAHc06zaAoBWTv+FHCHF8O/hmBGRK",
   "tracks": [
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "CAPPUCCINO",
+        "url": "https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "CAPPUCCINO",
+      "url": "https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "Sunny Skies",
+        "url": "https://open.spotify.com/album/5EKlKX9tSpUopgkkP3z52k"
+      },
+      "artists": [
+        {
+          "name": "Debbie Sings",
+          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
+        }
+      ],
+      "duration_ms": 220045,
+      "name": "Sunny Skies",
+      "url": "https://open.spotify.com/track/4OO8sPtbrgkYmlUxzSXlo2"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "everywhere<3",
+        "url": "https://open.spotify.com/album/01TqDuPEdX1W40TYDMAZkA"
+      },
+      "artists": [
+        {
+          "name": "TEO.x3",
+          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
+        },
+        {
+          "name": "Christian Cherry",
+          "url": "https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK"
+        }
+      ],
+      "duration_ms": 166233,
+      "name": "everywhere<3",
+      "url": "https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "YOU'RE INTO THIS",
+        "url": "https://open.spotify.com/album/5PKpu5LHdrAVlb6RMMOJcN"
+      },
+      "artists": [
+        {
+          "name": "COWZ",
+          "url": "https://open.spotify.com/artist/3GnzvlSs400de0XoNxdh0h"
+        }
+      ],
+      "duration_ms": 146583,
+      "name": "VIDEO",
+      "url": "https://open.spotify.com/track/5oOxxWHC0GeDB7qsdQVTH5"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/6OFXvfuHAmPtR1ks2HEwq2"
+      },
+      "artists": [
+        {
+          "name": "MICHAELA",
+          "url": "https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V"
+        }
+      ],
+      "duration_ms": 157484,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5gpquqyKGAUoHoAYTT8QV9"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "evil genius",
+        "url": "https://open.spotify.com/album/5QPzDddwm79hmTzVlyqbav"
+      },
+      "artists": [
+        {
+          "name": "fliss",
+          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "evil genius",
+      "url": "https://open.spotify.com/track/0Hat7wg4QgR3Ib4FuQovlC"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/0oxxb3CLGo9cLHvnuvSEOF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rawson",
+          "url": "https://open.spotify.com/artist/4l5BhyCy5VoMHqheBrYf2U"
+        }
+      ],
+      "duration_ms": 166981,
+      "name": "Thank Me Later",
+      "url": "https://open.spotify.com/track/5OFMcyrZZ6AWT5cjouH5lk"
+    },
+    {
+      "added_at": "2025-11-12 23:37:28",
+      "album": {
+        "name": "DONT BREAK MY HEART BABY",
+        "url": "https://open.spotify.com/album/62JUulczpsla02z1Y2oBhQ"
+      },
+      "artists": [
+        {
+          "name": "Parris Goebel",
+          "url": "https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "DONT BREAK MY HEART BABY",
+      "url": "https://open.spotify.com/track/2mVYNcohWM6vwz8NapTvyJ"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "I Don't Feel A Thing At All",
+        "url": "https://open.spotify.com/album/2r7QTYYWbpx1PpIc4qVRDM"
+      },
+      "artists": [
+        {
+          "name": "Zoe Tan",
+          "url": "https://open.spotify.com/artist/2Wql6Tl6Ex1HglbEEjELvu"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "I Don't Feel A Thing At All",
+      "url": "https://open.spotify.com/track/4meZbbjPyoeiXFRfH7efc5"
+    },
+    {
+      "added_at": "2025-11-12 05:00:13",
+      "album": {
+        "name": "MOONMAN",
+        "url": "https://open.spotify.com/album/6VhMldN9LLxQa2FbgVQYqO"
+      },
+      "artists": [
+        {
+          "name": "Pink Contrails",
+          "url": "https://open.spotify.com/artist/0gON5V9AoUJDBnED9zzOzi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "CHIAROSCURO",
+      "url": "https://open.spotify.com/track/3jmT9dFHPQHKeUTAucuSjr"
+    },
     {
       "added_at": "2025-11-05 14:47:19",
       "album": {
@@ -167,22 +331,6 @@
       "duration_ms": 178248,
       "name": "holy water",
       "url": "https://open.spotify.com/track/2a24jamhuwKpLZY7gH3w5v"
-    },
-    {
-      "added_at": "2025-11-05 14:47:19",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/7fZHBbY8ukuyFNeJGua6wF"
-      },
-      "artists": [
-        {
-          "name": "Chilli Chilton",
-          "url": "https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq"
-        }
-      ],
-      "duration_ms": 196483,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/2YMiOkAIV24i7fKsrV7zRs"
     },
     {
       "added_at": "2025-11-05 14:47:19",
@@ -601,22 +749,6 @@
       "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
     },
     {
-      "added_at": "2025-10-01 12:14:18",
-      "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/76EhQqKoadyMKQSo8Nls89"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 187994,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/5TNyJaau0GUrcdsbq4UqfJ"
-    },
-    {
       "added_at": "2025-10-08 04:00:14",
       "album": {
         "name": "How Long Can You Stay?",
@@ -795,22 +927,6 @@
     {
       "added_at": "2025-09-24 04:00:18",
       "album": {
-        "name": "Even If It's a Lie",
-        "url": "https://open.spotify.com/album/7jg2h2Z7dcg5oWXIcADYGB"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Even If It's a Lie",
-      "url": "https://open.spotify.com/track/3lKRNL0H2hSEWby9EaV5s3"
-    },
-    {
-      "added_at": "2025-09-24 04:00:18",
-      "album": {
         "name": "Cowboy",
         "url": "https://open.spotify.com/album/6Bl2fFG7BGp9kwscOJ98BA"
       },
@@ -839,26 +955,6 @@
       "duration_ms": 142000,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1pAPnfETKcrMg7DOdHwLs2"
-    },
-    {
-      "added_at": "2025-09-24 04:00:18",
-      "album": {
-        "name": "No One H8s Me Quite Like You Do",
-        "url": "https://open.spotify.com/album/6nGV7PjxaPL37jrddkl4mK"
-      },
-      "artists": [
-        {
-          "name": "Holliday Howe",
-          "url": "https://open.spotify.com/artist/0iV4UAD683ZDnqSHhshF9x"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 165568,
-      "name": "No One H8s Me Quite Like You Do",
-      "url": "https://open.spotify.com/track/1jHcXMf2QL9FUekjkfGYnW"
     },
     {
       "added_at": "2025-09-24 04:00:18",
@@ -1219,22 +1315,6 @@
     {
       "added_at": "2025-09-10 04:00:31",
       "album": {
-        "name": "Powerful",
-        "url": "https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx"
-      },
-      "artists": [
-        {
-          "name": "Citizen Papes",
-          "url": "https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Powerful",
-      "url": "https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7"
-    },
-    {
-      "added_at": "2025-09-10 04:00:31",
-      "album": {
         "name": "Trophy Wife In Training",
         "url": "https://open.spotify.com/album/0jf4mIHvDy1oHSIsLDvsSB"
       },
@@ -1279,22 +1359,6 @@
       "duration_ms": 240000,
       "name": "Pretend We're Fine",
       "url": "https://open.spotify.com/track/38vOPZSOEisbsuQXMMxxsD"
-    },
-    {
-      "added_at": "2025-09-03 04:00:25",
-      "album": {
-        "name": "brand new me!",
-        "url": "https://open.spotify.com/album/25lmBwKaUhxe5lt3LYrBTg"
-      },
-      "artists": [
-        {
-          "name": "homepage",
-          "url": "https://open.spotify.com/artist/0isAwSX2wSBTCoK3aS1iD0"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "brand new me!",
-      "url": "https://open.spotify.com/track/00oIgUaZ98Kv1IzJlMLR8i"
     },
     {
       "added_at": "2025-09-03 04:00:25",
@@ -1635,22 +1699,6 @@
     {
       "added_at": "2025-08-20 04:00:26",
       "album": {
-        "name": "I Don't Go Out",
-        "url": "https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 158962,
-      "name": "I Don't Go Out",
-      "url": "https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh"
-    },
-    {
-      "added_at": "2025-08-20 04:00:26",
-      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/2MVmqLta2bgx5KPITqhQYX"
       },
@@ -1695,22 +1743,6 @@
       "duration_ms": 212250,
       "name": "pool house",
       "url": "https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt"
-    },
-    {
-      "added_at": "2025-08-20 04:00:26",
-      "album": {
-        "name": "I Want You to Stay",
-        "url": "https://open.spotify.com/album/2BHAdVwHYTnnTwixuPxURF"
-      },
-      "artists": [
-        {
-          "name": "Lillimure",
-          "url": "https://open.spotify.com/artist/4nn9ivW8DtP3uYYic9Tsjs"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "I Want You to Stay",
-      "url": "https://open.spotify.com/track/3sxKYeiKLOJF7LZDuXkINr"
     },
     {
       "added_at": "2025-08-20 04:00:26",
@@ -1973,22 +2005,6 @@
       "url": "https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx"
     },
     {
-      "added_at": "2025-07-25 04:01:02",
-      "album": {
-        "name": "coming around",
-        "url": "https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq"
-      },
-      "artists": [
-        {
-          "name": "fliss",
-          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "coming around",
-      "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
-    },
-    {
       "added_at": "2025-08-06 04:00:07",
       "album": {
         "name": "reminisce",
@@ -2003,22 +2019,6 @@
       "duration_ms": 205050,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/1B7jjYYjRFUj0UbCNH0SNO"
-    },
-    {
-      "added_at": "2025-07-30 04:00:26",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
     }
   ],
   "unique_name": "Fresh Finds Pop",

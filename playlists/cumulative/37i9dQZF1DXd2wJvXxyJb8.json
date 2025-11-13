@@ -933,6 +933,32 @@
     },
     {
       "album": {
+        "name": "At\u00e9 Quebrar a Cama 2.0",
+        "url": "https://open.spotify.com/album/0M3Eqgtjept5qmPYWNdzWR"
+      },
+      "artists": [
+        {
+          "name": "cjnobeat",
+          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132170,
+      "name": "At\u00e9 Quebrar a Cama 2.0",
+      "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
+    },
+    {
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -1106,7 +1132,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 129229,
       "name": "Baile do Panta",
       "url": "https://open.spotify.com/track/5AoOD6SAzOOE6jwxvRIBPq"
@@ -12324,7 +12350,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 158720,
       "name": "Vem Novinha pro Cafofo",
       "url": "https://open.spotify.com/track/2XB2Mq2J3695WoYrIOljUZ"
@@ -12722,7 +12748,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 104000,
       "name": "Vou Raspar Seu Bigodin",
       "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"

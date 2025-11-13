@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-137 songs - 8 hr 7 min
+138 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Secluded Forest](https://open.spotify.com/track/4VZuBxVjeoLFjmPq6ZCrwt) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Secluded Forest](https://open.spotify.com/album/2n58A84yz5qTPa3cFDEpR2) | 14:56 | 2025-07-21 |  |
 | [Sierra Nevada Dawn after Rain](https://open.spotify.com/track/53rnuqvDjs2SfnL94Barm1) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Sierra Nevada Dawn after Rain](https://open.spotify.com/album/7tpj7GkDDjYietM3PHPM4c) | 2:03 | 2024-12-03 |  |
 | [Sleepy Rainforest](https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 | 2023-02-20 |  |
+| [Slumber Forest Rains](https://open.spotify.com/track/74DMBHu6P73kImixxvlMFN) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Slumber Forest Rains](https://open.spotify.com/album/6YTC7nMo6cjcGazCdYJij5) | 3:00 | 2025-11-11 |  |
 | [Soft Evening Chorus for Relaxation](https://open.spotify.com/track/3REB3iIG1OGeMQyauiKe5m) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [Mystic Forest Flow](https://open.spotify.com/album/7egQQWJKYpZD9xGbhV4re5) | 2:26 | 2025-07-21 |  |
 | [Soft Rain in the Amazonas](https://open.spotify.com/track/2eUw9Ihwluy1kKKwFNI8JU) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 4:00 | 2023-06-20 | 2024-02-10 |
 | [Soothing Sounds Of The Forest](https://open.spotify.com/track/66i2MpxMRrYegF4Ca68egW) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 | 2023-02-20 |  |
@@ -138,7 +139,7 @@
 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 | 2022-02-25 |  |
 | [Waterfall Constant Roar of a Mountain Waterfall to Reduce Stress\. Nature Sounds Relaxing](https://open.spotify.com/track/0A71OLE9BN4ImZ3XTCOHP7) | [Nature Caldwell](https://open.spotify.com/artist/1FyZPdqmGE8uZrH7I5deeS) | [Green Escape \- Water Sound Natural and Relaxing Sounds of Nature](https://open.spotify.com/album/1te6990GFMS4RRg7gJzPUF) | 13:16 | 2021-12-22 |  |
 | [Wet jungle birds, crickets, and wind](https://open.spotify.com/track/39PIA9wGZKSuPBADuLwhBk) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Wet jungle birds, crickets, and wind](https://open.spotify.com/album/2w5AsB1dec413V8rHgwY6Q) | 3:41 | 2024-12-03 |  |
-| [Wet Leaves](https://open.spotify.com/track/167TgOFpMob0vFh5yvTCqM) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 | 2023-02-20 |  |
+| [Wet Leaves](https://open.spotify.com/track/167TgOFpMob0vFh5yvTCqM) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 | 2023-02-20 | 2025-11-13 |
 | [Wetland At Night](https://open.spotify.com/track/06wGShX4zK2yQMJJgjrWiB) | [Wetland Adventures](https://open.spotify.com/artist/01myJOKWFORKHtMxNWPib5) | [Wetland At Night](https://open.spotify.com/album/0DEj6QWMqXNm5b0FnncJTA) | 3:14 | 2024-03-27 |  |
 | [What Does The Bird Say?](https://open.spotify.com/track/1reaGaSxvi0wjAjKyzvDfX) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:32 | 2023-02-20 |  |
 | [Whispering Trees in the Wildwood](https://open.spotify.com/track/3Qio0FVxSYjRNz001zqjrU) | [Tranquil Forest Effect](https://open.spotify.com/artist/73VwEvf8r3LsiROULuIHBA) | [Harmonious Forest Retreat](https://open.spotify.com/album/6O4uEonDYeffIVBji0dkPq) | 3:08 | 2023-06-20 | 2024-08-14 |

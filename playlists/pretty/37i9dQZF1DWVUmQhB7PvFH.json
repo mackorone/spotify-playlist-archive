@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (JOLIN)",
-  "num_followers": 247546,
+  "num_followers": 247599,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-11-10 02:39:21",
       "album": {
-        "name": "\u98db\u5152\u6a02\u5718",
-        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
-      },
-      "artists": [
-        {
-          "name": "F.I.R.",
-          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/4D4KVgVNxed4Hd3rGWlCo2"
-    },
-    {
-      "added_at": "2025-11-10 02:39:21",
-      "album": {
         "name": "\u8a8d\u4e86\u5427",
         "url": "https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 283640,
       "name": "\u6dd8\u6c70",
       "url": "https://open.spotify.com/track/5sYtvIl1mx9QuIgwC6FDU1"
+    },
+    {
+      "added_at": "2025-11-10 02:39:21",
+      "album": {
+        "name": "\u98db\u5152\u6a02\u5718",
+        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
+      },
+      "artists": [
+        {
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/4D4KVgVNxed4Hd3rGWlCo2"
     },
     {
       "added_at": "2025-11-10 02:39:21",
@@ -563,8 +563,8 @@
     {
       "added_at": "2025-11-10 02:39:21",
       "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+        "name": "11\u6708\u7684\u856d\u90a6",
+        "url": "https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 297200,
-      "name": "\u4e03\u91cc\u9999",
-      "url": "https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT"
+      "duration_ms": 277026,
+      "name": "\u6953",
+      "url": "https://open.spotify.com/track/2lIb7a074DL4RLCPAaGdnu"
     },
     {
       "added_at": "2025-11-10 02:39:21",
@@ -675,8 +675,8 @@
     {
       "added_at": "2025-11-10 02:39:21",
       "album": {
-        "name": "11\u6708\u7684\u856d\u90a6",
-        "url": "https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek"
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
       },
       "artists": [
         {
@@ -684,9 +684,57 @@
           "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 277026,
-      "name": "\u6953",
-      "url": "https://open.spotify.com/track/2lIb7a074DL4RLCPAaGdnu"
+      "duration_ms": 297200,
+      "name": "\u4e03\u91cc\u9999",
+      "url": "https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT"
+    },
+    {
+      "added_at": "2025-11-10 02:39:21",
+      "album": {
+        "name": "\u8a8d\u4e86\u5427",
+        "url": "https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "\u597d\u4e45\u4e0d\u898b",
+      "url": "https://open.spotify.com/track/7qtM492xyqdbh2vt5vBKaD"
+    },
+    {
+      "added_at": "2025-11-10 02:39:21",
+      "album": {
+        "name": "\u5409\u4ed6\u624b",
+        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "\u592a\u8070\u660e",
+      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
+    },
+    {
+      "added_at": "2025-11-10 02:39:21",
+      "album": {
+        "name": "\u5d07\u62dc",
+        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "\u6703\u547c\u5438\u7684\u75db",
+      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
     },
     {
       "added_at": "2025-11-10 02:39:21",
@@ -719,54 +767,6 @@
       "duration_ms": 289693,
       "name": "\u64e6\u80a9\u800c\u904e",
       "url": "https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD"
-    },
-    {
-      "added_at": "2025-11-10 02:39:21",
-      "album": {
-        "name": "\u5d07\u62dc",
-        "url": "https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "\u6703\u547c\u5438\u7684\u75db",
-      "url": "https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd"
-    },
-    {
-      "added_at": "2025-11-10 02:39:21",
-      "album": {
-        "name": "\u5409\u4ed6\u624b",
-        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "\u592a\u8070\u660e",
-      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
-    },
-    {
-      "added_at": "2025-11-10 02:39:21",
-      "album": {
-        "name": "\u8a8d\u4e86\u5427",
-        "url": "https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "\u597d\u4e45\u4e0d\u898b",
-      "url": "https://open.spotify.com/track/7qtM492xyqdbh2vt5vBKaD"
     },
     {
       "added_at": "2025-11-10 02:39:21",

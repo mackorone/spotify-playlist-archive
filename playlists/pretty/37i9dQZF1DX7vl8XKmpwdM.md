@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Jana Nayagan
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,344 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,434 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

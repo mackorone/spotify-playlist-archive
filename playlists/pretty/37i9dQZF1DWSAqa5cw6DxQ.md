@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,044 likes - 124 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,108 likes - 124 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 123 | [The Quiet Unwind](https://open.spotify.com/track/2OfDhkhRRQw80wvXVHZj7R) | [Elysar](https://open.spotify.com/artist/0DbIdCkQlSF99HXAv8bckc) | [The Quiet Unwind](https://open.spotify.com/album/7qe0EWbgoSaUf5ZzFjqY5u) | 2:21 |
 | 124 | [Actually Breathe](https://open.spotify.com/track/2F2VBBCnyXGVeSIms0II8M) | [Kiran Skaar](https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju) | [Actually Breathe](https://open.spotify.com/album/4uxKXvwBSdWufiqbZjpNPL) | 2:56 |
 
-Snapshot ID: `AAAAALkZTlgTLRgKz29ao6EboxpB3rMO`
+Snapshot ID: `AAAAAK0p+V/ULZcnaBt1ep5vddwX3xAQ`

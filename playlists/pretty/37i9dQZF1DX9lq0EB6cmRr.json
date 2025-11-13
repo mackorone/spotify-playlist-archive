@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc784\uc724\ucc2c(Yunchan Lim)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5002,
+  "num_followers": 5006,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2025-10-21 06:28:29",
       "album": {
+        "name": "Modern Cello",
+        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        },
+        {
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Us, then",
+      "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
+    },
+    {
+      "added_at": "2025-10-21 06:28:29",
+      "album": {
         "name": "Rachmaninoff: Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto (Opening) [Live from the 2022 Cliburn Competition]",
         "url": "https://open.spotify.com/album/29W8zV1rUNtJZOu4r9wKuE"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 177413,
       "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto (Opening) - Live from the 2022 Cliburn Competition",
       "url": "https://open.spotify.com/track/7r6Hv4JRo3nOUTynbkNFPm"
-    },
-    {
-      "added_at": "2025-10-21 06:28:29",
-      "album": {
-        "name": "Modern Cello",
-        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        },
-        {
-          "name": "sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Us, then",
-      "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
     },
     {
       "added_at": "2025-10-21 06:28:29",
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
-      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
+      "duration_ms": 433986,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
+      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
     },
     {
       "added_at": "2025-10-21 06:28:29",
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 433986,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
-      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
     },
     {
       "added_at": "2025-10-21 06:28:29",
@@ -1983,34 +1983,22 @@
     {
       "added_at": "2025-10-21 06:28:29",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
+        "name": "Bartok Violin Concerto",
+        "url": "https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
-    },
-    {
-      "added_at": "2025-10-21 06:28:29",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
-      },
-      "artists": [
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
         {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+          "name": "Lee Jong Eun",
+          "url": "https://open.spotify.com/artist/3Z99KEDvrRSX1hRfYpcy4u"
         }
       ],
-      "duration_ms": 157946,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
+      "duration_ms": 1015440,
+      "name": "Violin Concerto No. 2, BB 117: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf"
     },
     {
       "added_at": "2025-10-21 06:28:29",
@@ -2027,6 +2015,22 @@
       "duration_ms": 246546,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
+    },
+    {
+      "added_at": "2025-10-21 06:28:29",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
     }
   ],
   "unique_name": "Classics Korea",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p?si=BmfCfPx\_TrOzK6dqk5jtwA">giuliette price</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p?si=BmfCfPx\_TrOzK6dqk5jtwA">Ossi Grace</a>\. Artwork: Isu Kim.
 
 1,387 songs - 2 day 21 hr 22 min
 

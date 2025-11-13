@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Mumford & Sons, Hozier",
-  "num_followers": 93809,
+  "num_followers": 93808,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Forever Is A Feeling",
         "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "The Rope",
-        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 190574,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 218335,
       "name": "Misery",
       "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "To The Sandals",
-        "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 248932,
-      "name": "To The Sandals",
-      "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "You're All I Got / So Long",
         "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "To The Sandals",
+        "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 248932,
+      "name": "To The Sandals",
+      "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 156386,
       "name": "80 Days",
       "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        },
-        {
-          "name": "Moth\u00e9",
-          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
-        }
-      ],
-      "duration_ms": 151454,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -795,18 +775,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
       },
       "artists": [
         {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        },
+        {
+          "name": "Moth\u00e9",
+          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
         }
       ],
-      "duration_ms": 188271,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+      "duration_ms": 151454,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -827,22 +811,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Michelangelo Dying",
-        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 274443,
-      "name": "Mothers of Riches",
-      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 196746,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Michelangelo Dying",
+        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 274443,
+      "name": "Mothers of Riches",
+      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
-      },
-      "artists": [
-        {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
-        }
-      ],
-      "duration_ms": 220509,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 169610,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
+      },
+      "artists": [
+        {
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+        }
+      ],
+      "duration_ms": 220509,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Antidepressants",
         "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 222031,
       "name": "The Sound And The Summer",
       "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Everybody Laughs",
-        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "Ghost Train Orchestra",
-          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Everybody Laughs",
-      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "drains",
         "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
       },
@@ -1203,18 +1183,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "We Are Love",
-        "url": "https://open.spotify.com/album/34RkN67xQ6o5Hz3OZHc050"
+        "name": "Everybody Laughs",
+        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
       },
       "artists": [
         {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
         }
       ],
-      "duration_ms": 229567,
-      "name": "We Are Love",
-      "url": "https://open.spotify.com/track/0H2OWzwSFI9wFuHZxZihim"
+      "duration_ms": 228253,
+      "name": "Everybody Laughs",
+      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+        "name": "We Are Love",
+        "url": "https://open.spotify.com/album/34RkN67xQ6o5Hz3OZHc050"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
         }
       ],
-      "duration_ms": 197703,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+      "duration_ms": 229567,
+      "name": "We Are Love",
+      "url": "https://open.spotify.com/track/0H2OWzwSFI9wFuHZxZihim"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Oranges",
         "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 172778,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Tomorrow is Perfect",
-        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Tomorrow is Perfect",
-      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Medium Machine",
         "url": "https://open.spotify.com/album/4yVAM4UcoUOYoxd2DcRGW0"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 148071,
       "name": "Medium Machine",
       "url": "https://open.spotify.com/track/3xMwy9ljKoGzh9jncmY8iu"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "The Forest Is The Path (Extended Edition)",
-        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 179122,
-      "name": "This Is The Silence",
-      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Is It Now?",
-        "url": "https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq"
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
       "artists": [
         {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 268940,
-      "name": "Don't Wanna Dance",
-      "url": "https://open.spotify.com/track/6tQx6PTEzKxVBlfCSslZwq"
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Is It Now?",
+        "url": "https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        }
+      ],
+      "duration_ms": 268940,
+      "name": "Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/6tQx6PTEzKxVBlfCSslZwq"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Love Is Cruel",
         "url": "https://open.spotify.com/album/2BYbTmMxBbBxP2d7uPTxIo"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 193984,
       "name": "Love Is Cruel",
       "url": "https://open.spotify.com/track/0u7sy3s6Wu2VrYwqub4Rp2"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "But I'll Keep Trying",
-        "url": "https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 191342,
-      "name": "But I'll Keep Trying",
-      "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "But I'll Keep Trying",
+        "url": "https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 191342,
+      "name": "But I'll Keep Trying",
+      "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Still Above",
         "url": "https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Fuck Me Eyes",
-        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
+        "name": "Shells",
+        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 364800,
-      "name": "Fuck Me Eyes",
-      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
+      "duration_ms": 231333,
+      "name": "Shells",
+      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Shells",
-        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Shells",
-      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1599,34 +1599,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Bitter Everyday",
-        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
+        "name": "If You Asked For A Picture",
+        "url": "https://open.spotify.com/album/0b4ieMOkv7WGdJ4qYXbtzZ"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 201960,
-      "name": "Bitter Everyday",
-      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Nettles",
-        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 483692,
-      "name": "Nettles",
-      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
+      "duration_ms": 209773,
+      "name": "He Wants Me",
+      "url": "https://open.spotify.com/track/4sh97EIcM6xkHeyGB44Prq"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1647,18 +1631,34 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "If You Asked For A Picture",
-        "url": "https://open.spotify.com/album/0b4ieMOkv7WGdJ4qYXbtzZ"
+        "name": "Got to Have Love",
+        "url": "https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 209773,
-      "name": "He Wants Me",
-      "url": "https://open.spotify.com/track/4sh97EIcM6xkHeyGB44Prq"
+      "duration_ms": 292228,
+      "name": "Got to Have Love",
+      "url": "https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Bitter Everyday",
+        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Bitter Everyday",
+      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
     }
   ],
   "unique_name": "The Listening Post",

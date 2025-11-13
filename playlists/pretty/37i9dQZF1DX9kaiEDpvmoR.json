@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93733,
+  "num_followers": 93734,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
@@ -443,26 +459,6 @@
       "duration_ms": 242946,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
-        "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
-        "url": "https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        },
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 270875,
-      "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
-      "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -487,18 +483,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+        "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
+        "url": "https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
         }
       ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+      "duration_ms": 270875,
+      "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
+      "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
         "name": "EXISTENS",
         "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Mother's Love Conquers All",
-        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Mother's Love Conquers All",
-      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "Greczula",
         "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 166451,
       "name": "All The Things That I Am",
       "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "Mother's Love Conquers All",
+        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Mother's Love Conquers All",
+      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -599,6 +615,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
         "name": "Stardust / The Whole Woman",
         "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
       },
@@ -615,38 +647,6 @@
       "duration_ms": 258146,
       "name": "The Whole Woman",
       "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 236794,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Hver Gang Vi M\u00f8tes 2025",
-        "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
+        "name": "Lake Geneva",
+        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 180677,
-      "name": "Mamma sa",
-      "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
+      "duration_ms": 221560,
+      "name": "Lake Geneva",
+      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Lake Geneva",
-        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
+        "name": "Hver Gang Vi M\u00f8tes 2025",
+        "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
       },
       "artists": [
         {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 221560,
-      "name": "Lake Geneva",
-      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
+      "duration_ms": 180677,
+      "name": "Mamma sa",
+      "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Henrys gitarr",
-        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Henrys gitarr",
-      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "L\u00e5nat",
         "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 257000,
       "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
       "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "Henrys gitarr",
+        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Henrys gitarr",
+      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "The Spectrum of Love",
-        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
-      },
-      "artists": [
-        {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
-        }
-      ],
-      "duration_ms": 193114,
-      "name": "The Spectrum of Love",
-      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Benjamin (From the TV series 'Etter Benjamin')",
-        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
+        "name": "The Spectrum of Love",
+        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Benjamin - From the TV series 'Etter Benjamin'",
-      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
+      "duration_ms": 193114,
+      "name": "The Spectrum of Love",
+      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
+        "name": "Benjamin (From the TV series 'Etter Benjamin')",
+        "url": "https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Benjamin - From the TV series 'Etter Benjamin'",
+      "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
         "name": "\u00c4lskade v\u00e4n",
         "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 199336,
       "name": "\u00c4lskade v\u00e4n",
       "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 192148,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1391,22 +1407,6 @@
       "duration_ms": 316125,
       "name": "Love Is Everywhere",
       "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 192148,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
     },
     {
       "added_at": "2025-11-06 23:00:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-11-06 23:00:29",
       "album": {
-        "name": "Blommor",
-        "url": "https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Blommor",
-      "url": "https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A"
-    },
-    {
-      "added_at": "2025-11-06 23:00:29",
-      "album": {
         "name": "Sign on the Window",
         "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 183946,
       "name": "Sign on the Window",
       "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
+    },
+    {
+      "added_at": "2025-11-06 23:00:29",
+      "album": {
+        "name": "Blommor",
+        "url": "https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Blommor",
+      "url": "https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A"
     }
   ],
   "unique_name": "Aktuellt",

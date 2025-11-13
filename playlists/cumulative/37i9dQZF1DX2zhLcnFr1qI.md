@@ -2,7 +2,7 @@
 
 ### [Christmas EDM](https://open.spotify.com/playlist/37i9dQZF1DX2zhLcnFr1qI)
 
-> Baby, it's cold outside 🌲🎁 here's some EDM to keep warm!
+> Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
 150 songs - 7 hr 54 min
 

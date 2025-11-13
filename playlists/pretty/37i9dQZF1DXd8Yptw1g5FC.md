@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Dilan Balkay ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,541 likes - 122 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,515 likes - 122 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

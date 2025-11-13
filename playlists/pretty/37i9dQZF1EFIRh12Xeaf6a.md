@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,190 likes - 276 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,189 likes - 276 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 45 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 |
 | 46 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
 | 47 | [Music](https://open.spotify.com/track/63dTQ8K3mJKJWUZi5sMNRV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:49 |
-| 48 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 |
-| 49 | [CHAINS](https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:34 |
+| 48 | [CHAINS](https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:34 |
+| 49 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 |
 | 50 | [Taking a Page](https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ma](https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY) | 3:36 |
 | 51 | [I Can't Make It Alone \- Remastered](https://open.spotify.com/track/2KzlY5heyGkSYSbd6MK7yr) | [P.J\. Proby](https://open.spotify.com/artist/3g4Os4LNZvOQUaokeSLCwG) | [Best Of The EMI Years \(1961\-1972\)](https://open.spotify.com/album/3AsA1h6kQvqdnfaC1lu8Tx) | 4:20 |
 | 52 | [Cindy's Birthday](https://open.spotify.com/track/3Id8znxIUtTYNhZsak8Unb) | [Johnny Crawford](https://open.spotify.com/artist/48QdHdRanCXdBt6lygsDES) | [A Young Man's Fancy](https://open.spotify.com/album/3VNpShZrCWsR61aBORHSgh) | 2:08 |
@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 179 | [Still Here Thinking Of You](https://open.spotify.com/track/5jZuTd4qmaJVcTfSuCqBMT) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:11 |
 | 180 | [We Are All In This Together](https://open.spotify.com/track/2Ju7lUr2tZ5HK6oxiQXwlU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:02 |
 | 181 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 |
-| 182 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 |
-| 183 | [Poor Little Rich Girl \- 1990 Remix / Remaster](https://open.spotify.com/track/2apoUc9GqR0fymKxc8d5QD) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Tristan Powell](https://open.spotify.com/artist/2UOqj3OfNn5lE6npQ6eQql) | [Basie Swings, Bennett Sings](https://open.spotify.com/album/7JmMDmIkkiGpf2YFpYG1Jm) | 3:33 |
+| 182 | [Poor Little Rich Girl \- 1990 Remix / Remaster](https://open.spotify.com/track/2apoUc9GqR0fymKxc8d5QD) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Tristan Powell](https://open.spotify.com/artist/2UOqj3OfNn5lE6npQ6eQql) | [Basie Swings, Bennett Sings](https://open.spotify.com/album/7JmMDmIkkiGpf2YFpYG1Jm) | 3:33 |
+| 183 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 |
 | 184 | [Welfare Symphony](https://open.spotify.com/track/0bGYVfwg5VmqXE2UIsXzpL) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:47 |
 | 185 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
 | 186 | [Don't Have The Right To Cry](https://open.spotify.com/track/3snVJyPEbFrnKdAYXzU0k6) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 3:19 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcBVegAAAADq56RHhjHA7HIoGl4OBylr`
+Snapshot ID: `AcBa/AAAAAB325r+fkooi1xesNNXBT9V`

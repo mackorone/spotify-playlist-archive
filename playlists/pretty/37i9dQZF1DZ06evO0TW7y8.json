@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 322325,
+  "num_followers": 322360,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACYtHiwjqRsTVCXdaoJrHK0",
+  "snapshot_id": "aRJ8gAAAAAC2czJk4MMrqKi22PKgCmqf",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project 11",
         "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 282329,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Down",
         "url": "https://open.spotify.com/album/41rLKAOZZIcG5SFBaDBBxP"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 188000,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/7qYwkz7t9JeEl2qFXfI47S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
     },
     {
       "added_at": null,

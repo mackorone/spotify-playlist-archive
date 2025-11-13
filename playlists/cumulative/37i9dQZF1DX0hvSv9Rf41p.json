@@ -9126,6 +9126,10 @@
         {
           "name": "AVELLO",
           "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "HXRT",
+          "url": "https://open.spotify.com/artist/1DCtwrGZTUVyULqkkAQA9E"
         }
       ],
       "date_added": "2025-08-29",
@@ -11981,7 +11985,7 @@
     },
     {
       "album": {
-        "name": "Fuze",
+        "name": "fuze",
         "url": "https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2"
       },
       "artists": [
@@ -11998,7 +12002,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188571,
-      "name": "Fuze",
+      "name": "fuze",
       "url": "https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH"
     },
     {

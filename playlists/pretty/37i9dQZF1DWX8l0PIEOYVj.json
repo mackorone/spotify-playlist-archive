@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with William Black",
-  "num_followers": 472196,
+  "num_followers": 472181,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
+        "name": "Just A Mirage",
+        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "ILLUSIO",
+          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Just A Mirage",
+      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
         "name": "Escape (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/7v7d7AEWvKt5RMXg94MknR"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 208125,
       "name": "Escape (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/1oDlQ0JGgXfXTWWrtmdOku"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
-        "name": "Just A Mirage",
-        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "ILLUSIO",
-          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Just A Mirage",
-      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
-        "name": "Emberwake",
-        "url": "https://open.spotify.com/album/6M9DZ4m2wTf97OwWyItkqh"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Shattered",
-      "url": "https://open.spotify.com/track/14DUQe56fk4tW3E9l0lRno"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 170602,
       "name": "Heart for Rent",
       "url": "https://open.spotify.com/track/5Pqo2Jub3Rk5aVROGwHwsy"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
+        "name": "Emberwake",
+        "url": "https://open.spotify.com/album/6M9DZ4m2wTf97OwWyItkqh"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/14DUQe56fk4tW3E9l0lRno"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
         "name": "Someone To Forget",
         "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -2523,22 +2523,26 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
-        "name": "Slippin",
-        "url": "https://open.spotify.com/album/0RcF683pMDRxkeZcYLMa0a"
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia"
       },
       "artists": [
         {
-          "name": "Maddy O'Neal",
-          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
         },
         {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "CHPTR.",
+          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk"
+      "duration_ms": 226000,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -2563,26 +2567,22 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia"
+        "name": "Slippin",
+        "url": "https://open.spotify.com/album/0RcF683pMDRxkeZcYLMa0a"
       },
       "artists": [
         {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
         },
         {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "CHPTR.",
-          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
         }
       ],
-      "duration_ms": 226000,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV"
+      "duration_ms": 208500,
+      "name": "Slippin",
+      "url": "https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -2647,6 +2647,22 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
+        "name": "I Don't Want Anyone",
+        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "I Don't Want Anyone",
+      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
         "name": "Levity",
         "url": "https://open.spotify.com/album/6WrK7cLohU7vs79TQkS5BX"
       },
@@ -2663,22 +2679,6 @@
       "duration_ms": 367297,
       "name": "Levity",
       "url": "https://open.spotify.com/track/3tghcsSswAYbDNb6zGmyVw"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
-        "name": "I Don't Want Anyone",
-        "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "I Don't Want Anyone",
-      "url": "https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -2763,6 +2763,26 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
+        "name": "can\u2019t come down",
+        "url": "https://open.spotify.com/album/0aRP0BVUcGu72hsL33woPA"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "can't come down",
+      "url": "https://open.spotify.com/track/3rs24EFgAoF6zX7FlTHHmK"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
         "name": "Ghost Of You",
         "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
       },
@@ -2803,6 +2823,22 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
+        "name": "Your Poison",
+        "url": "https://open.spotify.com/album/4nQMj0UeQHqv2YMokqC8Jd"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Your Poison",
+      "url": "https://open.spotify.com/track/1GTguj1XPyUbSvyaQ1EmTA"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
         "name": "I Feel Alive",
         "url": "https://open.spotify.com/album/3cKs83Pz9RlNILp4JZen07"
       },
@@ -2823,22 +2859,6 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
-        "name": "Your Poison",
-        "url": "https://open.spotify.com/album/4nQMj0UeQHqv2YMokqC8Jd"
-      },
-      "artists": [
-        {
-          "name": "ROY KNOX",
-          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Your Poison",
-      "url": "https://open.spotify.com/track/1GTguj1XPyUbSvyaQ1EmTA"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
         "name": "On Purpose",
         "url": "https://open.spotify.com/album/2BkAoe9YZd9unSoWw1IN4G"
       },
@@ -2855,26 +2875,6 @@
       "duration_ms": 256971,
       "name": "On Purpose",
       "url": "https://open.spotify.com/track/0g01JYDahgFwR3CJuKxnfG"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
-        "name": "can\u2019t come down",
-        "url": "https://open.spotify.com/album/0aRP0BVUcGu72hsL33woPA"
-      },
-      "artists": [
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        },
-        {
-          "name": "Luxtides",
-          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "can't come down",
-      "url": "https://open.spotify.com/track/3rs24EFgAoF6zX7FlTHHmK"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -2939,6 +2939,22 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
         "name": "If The World Was Ending",
         "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
       },
@@ -2955,22 +2971,6 @@
       "duration_ms": 248798,
       "name": "If The World Was Ending",
       "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
     },
     {
       "added_at": "2025-11-07 22:12:01",
@@ -2999,26 +2999,6 @@
     {
       "added_at": "2025-11-07 22:12:01",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
-    },
-    {
-      "added_at": "2025-11-07 22:12:01",
-      "album": {
         "name": "Borderline (feat. EMELINE)",
         "url": "https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz"
       },
@@ -3039,6 +3019,26 @@
       "duration_ms": 197258,
       "name": "Borderline (feat. EMELINE)",
       "url": "https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e"
+    },
+    {
+      "added_at": "2025-11-07 22:12:01",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
     },
     {
       "added_at": "2025-11-07 22:12:01",

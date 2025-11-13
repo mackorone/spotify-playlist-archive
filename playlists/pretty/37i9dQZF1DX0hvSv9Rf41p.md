@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Sub Focus & Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,678 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,716 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 6 | [Runaway](https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Runaway](https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL) | 3:05 |
 | 7 | [Cry](https://open.spotify.com/track/2RX2EpUCh9OodJ63ZYLstG) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [Cry](https://open.spotify.com/album/7yyKVaRz7VtR6hPpbXgECP) | 2:51 |
 | 8 | [Step 2 It](https://open.spotify.com/track/6uRe0wVj0a53HoWs3KGnb7) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Noise To Dance To](https://open.spotify.com/album/4luONx78qbcCgfud2Y3Ojz) | 3:30 |
-| 9 | [Fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
+| 9 | [fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
 | 10 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
 | 11 | [Save Me](https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC) | [Save Me](https://open.spotify.com/album/0CynI5NfrzuzNT7JHnXddI) | 3:16 |
 | 12 | [By My Side](https://open.spotify.com/track/6oGFDrlsSXovBIAY7gNYIq) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Snack Pack Vol\. 1](https://open.spotify.com/album/4UQkMJyhzQNbldVNaOY4IC) | 3:42 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 51 | [Believe What You Want \- Tokyo Machine Remix](https://open.spotify.com/track/4iNaLHkRhZctQhJhChB1CA) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Stealing Fire \(Remixes\)](https://open.spotify.com/album/04OcnH4C6pWDqvT5fdtkKQ) | 3:40 |
 | 52 | [Dingus](https://open.spotify.com/track/4xWXrhg0Vwc29lbeyHZsYt) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Dingus](https://open.spotify.com/album/0XHk4T6oko97C3cjIipb26) | 3:38 |
 | 53 | [Salamander](https://open.spotify.com/track/51qvSn161ge7T0E4U3LsND) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Snack Pack Vol\. 1](https://open.spotify.com/album/4UQkMJyhzQNbldVNaOY4IC) | 3:38 |
-| 54 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 |
+| 54 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [HXRT](https://open.spotify.com/artist/1DCtwrGZTUVyULqkkAQA9E) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 |
 | 55 | [Blow My Whistle](https://open.spotify.com/track/0ZOZjnnMWMb1tlz1dOqEPF) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Hardest D Style EP](https://open.spotify.com/album/5YFiSrfcDYSvf8TRkTNabS) | 3:21 |
 | 56 | [need2know](https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [need2know](https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu) | 3:48 |
 | 57 | [machine\_age](https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 2:44 |

@@ -4,7 +4,7 @@
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 34 min
+44 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Do You Wanna Be Alive? \(feat\. BIG SISTER\)](https://open.spotify.com/track/0VL6ayQDJbVFYrv3nA6FjU) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BIG SISTER](https://open.spotify.com/artist/47V5PmiM2OZbksll1O7se1) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:10 | 2025-10-28 | 2025-11-07 |
 | [Drop Down](https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CCCLX](https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS) | 2:49 | 2025-10-28 |  |
 | [Eeehhh](https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Nothing More to Say](https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi) | 4:41 | 2025-10-28 |  |
-| [Elegance \(feat\. Popstar\)](https://open.spotify.com/track/0Dw0LJVfSHtu1npU4sjvKh) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:51 | 2025-11-07 |  |
+| [Elegance \(feat\. Popstar\)](https://open.spotify.com/track/0Dw0LJVfSHtu1npU4sjvKh) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:51 | 2025-11-07 | 2025-11-13 |
+| [Elegance \(feat\. Popstar\)](https://open.spotify.com/track/0MXKTGLRW2d1lOrGRHhS3m) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:51 | 2025-11-13 |  |
 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 | 2025-10-28 |  |
 | [Forever \- SOPHIE Remix](https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Forever \(SOPHIE Remix\)](https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q) | 3:39 | 2025-10-28 |  |
 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 | 2025-10-28 |  |

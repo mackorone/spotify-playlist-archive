@@ -1,13 +1,29 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 175052,
+  "num_followers": 175057,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIESIXslNMKB0blth97iQPO6Cvhe",
+  "snapshot_id": "AAAAAB/cEqj/q6pDhcKBAjmqxgH9iHcN",
   "tracks": [
+    {
+      "added_at": "2025-11-12 18:30:16",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+    },
     {
       "added_at": "2025-11-10 09:55:45",
       "album": {
@@ -75,26 +91,6 @@
     {
       "added_at": "2025-11-10 09:55:45",
       "album": {
-        "name": "Beck n Call",
-        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        },
-        {
-          "name": "ttoh",
-          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Beck n Call",
-      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
-    },
-    {
-      "added_at": "2025-11-10 09:55:45",
-      "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S"
       },
@@ -107,38 +103,6 @@
       "duration_ms": 151888,
       "name": "Det f\u00e5r v\u00e4rlden aldrig veta",
       "url": "https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV"
-    },
-    {
-      "added_at": "2025-11-10 09:55:45",
-      "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Pussy Palace",
-      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
-    },
-    {
-      "added_at": "2025-11-10 09:55:45",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1hrKM25ZbJnGWOnMWpUT7a"
-      },
-      "artists": [
-        {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
-        }
-      ],
-      "duration_ms": 175270,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/0tRPNdNeJnL55hd1faw1W2"
     },
     {
       "added_at": "2025-11-10 09:55:45",
@@ -189,6 +153,42 @@
       "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
     },
     {
+      "added_at": "2025-11-12 18:30:16",
+      "album": {
+        "name": "Men du",
+        "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
+      },
+      "artists": [
+        {
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Men du",
+      "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
+    },
+    {
+      "added_at": "2025-11-10 09:55:45",
+      "album": {
+        "name": "Beck n Call",
+        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Beck n Call",
+      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
+    },
+    {
       "added_at": "2025-11-10 09:55:45",
       "album": {
         "name": "Berghain",
@@ -231,18 +231,18 @@
     {
       "added_at": "2025-11-10 09:55:45",
       "album": {
-        "name": "She Goes",
-        "url": "https://open.spotify.com/album/0UPsFm6WSOwkWQH8Q0sMKF"
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
       },
       "artists": [
         {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 183173,
-      "name": "She Goes",
-      "url": "https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD"
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
     },
     {
       "added_at": "2025-11-10 09:55:45",
@@ -495,6 +495,22 @@
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
+    },
+    {
+      "added_at": "2025-11-10 09:55:45",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1hrKM25ZbJnGWOnMWpUT7a"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "duration_ms": 175270,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/0tRPNdNeJnL55hd1faw1W2"
     },
     {
       "added_at": "2025-11-10 09:55:45",

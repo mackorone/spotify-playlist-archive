@@ -1,6 +1,6 @@
 {
   "description": "em guerra de ego sobra quem?",
-  "num_followers": 1419336,
+  "num_followers": 1419300,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-11-07 03:01:19",
       "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
+      },
+      "artists": [
+        {
+          "name": "DJ VINI DA ZO",
+          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Procedimento",
+      "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
+    },
+    {
+      "added_at": "2025-11-07 03:01:19",
+      "album": {
         "name": "Marmita de Blogueira",
         "url": "https://open.spotify.com/album/4U6TbTVXKGwF7OAmZPNczl"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 131520,
       "name": "Marmita de Blogueira",
       "url": "https://open.spotify.com/track/6TFne3kuZiI7kfSVCx1OFg"
-    },
-    {
-      "added_at": "2025-11-07 03:01:19",
-      "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
-      },
-      "artists": [
-        {
-          "name": "DJ VINI DA ZO",
-          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Procedimento",
-      "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
     },
     {
       "added_at": "2025-11-07 03:01:19",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-11-07 03:01:19",
       "album": {
-        "name": "RISCA DA LISTA",
-        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Kohuru",
-          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
-        }
-      ],
-      "duration_ms": 146634,
-      "name": "RISCA DA LISTA",
-      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
-    },
-    {
-      "added_at": "2025-11-07 03:01:19",
-      "album": {
         "name": "Nas Ruas De Sampa",
         "url": "https://open.spotify.com/album/5lIhqXie4AaLrgYjWDxlGc"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 151475,
       "name": "Nas Ruas De Sampa",
       "url": "https://open.spotify.com/track/4P04Wq22LWF1f5FxoR4XKw"
+    },
+    {
+      "added_at": "2025-11-07 03:01:19",
+      "album": {
+        "name": "RISCA DA LISTA",
+        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Kohuru",
+          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
+        }
+      ],
+      "duration_ms": 146634,
+      "name": "RISCA DA LISTA",
+      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
     },
     {
       "added_at": "2025-11-07 03:01:19",

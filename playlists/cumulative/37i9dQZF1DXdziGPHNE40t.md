@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some calm and slow Jazz
 
-737 songs - 1 day 19 hr 39 min
+739 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [False Hopes](https://open.spotify.com/track/39d8lPrYec7TOYQJ7HQDsn) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [False Hopes](https://open.spotify.com/album/5cHf3AKOc5JBIDxGNHVOlP) | 2:52 | 2025-05-05 |  |
 | [Familiarity](https://open.spotify.com/track/2rkMiWiaO1iPWjb5Lko8Lu) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Familiarity](https://open.spotify.com/album/1u7G8TW6rs86xYf5nVTeac) | 3:00 | 2022-05-17 | 2025-02-04 |
 | [Fascination](https://open.spotify.com/track/2iu9GQDNp55dFtU2pKPxPt) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Fascination](https://open.spotify.com/album/4dKHTNMNgrQmHOtYLvFn8M) | 4:23 | 2024-07-15 | 2025-02-18 |
+| [Feel like grooving](https://open.spotify.com/track/2Srua18ww8YtO5lRgKFDJW) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Feel like grooving](https://open.spotify.com/album/2pNR5608pndzL9cDGE7Jfj) | 3:43 | 2025-11-12 |  |
 | [Fictional Characters](https://open.spotify.com/track/2CnQ47NMVVLaweU6L88Xqj) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Fictional Characters](https://open.spotify.com/album/24icDB7xHNdjBuPnEcf5Ai) | 3:20 | 2024-07-22 | 2025-07-16 |
 | [Fields](https://open.spotify.com/track/09ceAlSJi9mU20AFDcagHp) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [Fields](https://open.spotify.com/album/63OcZAGzlBeboeB5D3pAnM) | 2:49 | 2025-04-04 | 2025-07-02 |
 | [Fields Of Glory](https://open.spotify.com/track/08AqDGp7TqJcBFZgrSNLNg) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [Fields Of Glory](https://open.spotify.com/album/1oKUS3lcnZutFzXP5qaJrJ) | 3:31 | 2025-08-01 |  |
@@ -458,6 +459,7 @@
 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 | 2023-09-22 | 2025-07-16 |
 | [On The Other Side](https://open.spotify.com/track/0YIjDOTRdutTRgfYSBPxKr) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [On The Other Side](https://open.spotify.com/album/5yr6IxBDVYeogFyHXJBPvu) | 3:29 | 2025-07-01 | 2025-09-24 |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-13 | 2023-09-22 |
+| [Once Again, Somehow](https://open.spotify.com/track/0H2jEhHe67IsqUIkzd9c2j) | [Honeysetts](https://open.spotify.com/artist/4lqVmQcjP5RmM49wXt2uP4) | [Once Again, Somehow](https://open.spotify.com/album/7zbPLP1HwzSJAx4gmd4TMj) | 2:00 | 2025-11-12 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 | 2023-06-02 |
 | [Once Knowing](https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 3:14 | 2023-02-23 | 2024-06-12 |
 | [Once or Twice](https://open.spotify.com/track/3gLgRL9RNCfgYqSg9ipjcH) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Once or Twice](https://open.spotify.com/album/1gTsqipGHIgsom3Dfmgn5M) | 3:34 | 2023-05-25 | 2024-08-07 |
@@ -518,7 +520,7 @@
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 | 2024-07-13 |
 | [Shepherd's Waltz](https://open.spotify.com/track/129rHAg0Oyio84aX7IngRu) | [Erik Vårdstedt](https://open.spotify.com/artist/4PTKCoxmZgZigpelRdhQgY) | [Shepherd's Waltz](https://open.spotify.com/album/66V7L7DyJg4Y5BsrAtY0QG) | 2:50 | 2023-05-25 | 2025-07-02 |
 | [Sidewalk](https://open.spotify.com/track/6Zzs5cbn5V6M3NkIfdLh8x) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Sidewalk](https://open.spotify.com/album/3QUPNKcifdHWwhsUPWVbFJ) | 4:32 | 2024-05-23 | 2024-08-20 |
-| [Silent Conversations](https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Silent Conversations](https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix) | 3:30 | 2025-07-23 |  |
+| [Silent Conversations](https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Silent Conversations](https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix) | 3:30 | 2025-07-23 |  |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-06-22 | 2023-01-27 |
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-01-12 |  |
 | [Silver Starlings](https://open.spotify.com/track/2QOpxExUTmVrAXYB4rpzrS) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Silver Starlings](https://open.spotify.com/album/2sr8HDkPjAISDDnKhktJ39) | 2:48 | 2025-04-15 |  |
@@ -728,7 +730,7 @@
 | [You Go To My Head](https://open.spotify.com/track/0TR8L8n8nXPvp1JpqdyPcp) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [You Go To My Head](https://open.spotify.com/album/7FEy0OXhxkb2FnGRLj7XbS) | 4:29 | 2022-05-17 | 2022-09-07 |
 | [You Go To My Head](https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [You Go To My Head](https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a) | 4:59 | 2024-01-12 | 2024-12-10 |
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-13 | 2024-08-13 |
-| [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 | 2023-01-12 |  |
+| [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 | 2023-01-12 | 2025-11-13 |
 | [You Left With My Heart Still Yours](https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [You Left With My Heart Still Yours](https://open.spotify.com/album/6FQD3HAuYzw4DnuQpChF6j) | 2:24 | 2022-05-17 | 2023-03-10 |
 | [You Make Me Blush](https://open.spotify.com/track/6fp6wL32hOQzyvVmjURsUg) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [You Make Me Blush](https://open.spotify.com/album/0UIIk4OzCLqOg22bsRTvnL) | 2:12 | 2024-05-23 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 | 2025-04-05 |
@@ -736,7 +738,7 @@
 | [You were saying...](https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [You were saying...](https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT) | 4:08 | 2023-12-08 | 2025-06-06 |
 | [You Were Waiting for Me](https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [You Were Waiting for Me](https://open.spotify.com/album/2QrbclS2xGo3WDryR5ZD7t) | 4:08 | 2025-01-07 |  |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-02 | 2024-06-18 |
-| [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 |  |
+| [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 | 2025-11-13 |
 | [You're Too Good to Me](https://open.spotify.com/track/3SFMrcUGMXlXXaoF30EYBR) | [Berliner Luft Quartet](https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl) | [You're Too Good to Me](https://open.spotify.com/album/1LiIwQzxUYPsQlK6V7uiCl) | 5:35 | 2024-04-10 | 2024-08-07 |
 | [Young And Foolish](https://open.spotify.com/track/4n2ZSKL2Kv0yxihsYo4pkg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Young And Foolish](https://open.spotify.com/album/7x3GBRQYeoQcbhSfM6npCV) | 3:35 | 2023-03-30 | 2024-11-19 |
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 | 2024-07-16 |

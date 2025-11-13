@@ -1752,6 +1752,24 @@
     {
       "album": {
         "name": "Now We're Talking",
+        "url": "https://open.spotify.com/album/2ndeM4J88d7JlETqwwwH8n"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180827,
+      "name": "Now We're Talking",
+      "url": "https://open.spotify.com/track/0mh2dUkBkferlWRAegLjqX"
+    },
+    {
+      "album": {
+        "name": "Now We're Talking",
         "url": "https://open.spotify.com/album/1bhWVaM0AdYQxAd6eO38Id"
       },
       "artists": [
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 148200,
       "name": "Someday",
       "url": "https://open.spotify.com/track/3SEuFv4bwCh3ImgLJL6ERG"

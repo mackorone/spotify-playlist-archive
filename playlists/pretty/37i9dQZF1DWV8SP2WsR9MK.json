@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 118839,
+  "num_followers": 118908,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+      },
+      "artists": [
+        {
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "duration_ms": 469360,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 224613,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "East To Wes",
-        "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
-      },
-      "artists": [
-        {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
-        }
-      ],
-      "duration_ms": 490573,
-      "name": "Softly, As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Green Street (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 432213,
-      "name": "Alone Together - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "The Sound Of Johnny Smith",
         "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
       },
@@ -875,8 +859,8 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+        "name": "East To Wes",
+        "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
       },
       "artists": [
         {
@@ -884,9 +868,25 @@
           "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
         }
       ],
-      "duration_ms": 469360,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
+      "duration_ms": 490573,
+      "name": "Softly, As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Green Street (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 432213,
+      "name": "Alone Together - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Bruno",
-          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
-        }
-      ],
-      "duration_ms": 492400,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Rambler",
         "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 492266,
       "name": "Rambler",
       "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Bruno",
+          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
+        }
+      ],
+      "duration_ms": 492400,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
-      },
-      "artists": [
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Time On My Hands",
         "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 267800,
       "name": "Let's Say We Did",
       "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+        "name": "Jazz Winds From A New Direction",
+        "url": "https://open.spotify.com/album/4Vm5jnLkuiWyxkFAgfYknB"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Hank Garland",
+          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
         }
       ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
+      "duration_ms": 266466,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/5R4pT3lFeGTBJZCZ2NCZKx"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Jazz Winds From A New Direction",
-        "url": "https://open.spotify.com/album/4Vm5jnLkuiWyxkFAgfYknB"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
       },
       "artists": [
         {
-          "name": "Hank Garland",
-          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 266466,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/5R4pT3lFeGTBJZCZ2NCZKx"
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1772,9 +1772,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 264893,
-      "name": "Airegin",
-      "url": "https://open.spotify.com/track/2UCUSLYC6EX0AGnI7DAC35"
+      "duration_ms": 320906,
+      "name": "D-Natural Blues",
+      "url": "https://open.spotify.com/track/5fxPh44pYzAR5M5KW5SdMk"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1788,9 +1788,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 320906,
-      "name": "D-Natural Blues",
-      "url": "https://open.spotify.com/track/5fxPh44pYzAR5M5KW5SdMk"
+      "duration_ms": 264893,
+      "name": "Airegin",
+      "url": "https://open.spotify.com/track/2UCUSLYC6EX0AGnI7DAC35"
     },
     {
       "added_at": "2025-09-10 12:20:14",

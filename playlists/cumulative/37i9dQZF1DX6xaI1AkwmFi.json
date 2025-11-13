@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 228971,
       "name": "breakfast",
       "url": "https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ"
@@ -2400,6 +2400,24 @@
       "duration_ms": 258306,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh"
+    },
+    {
+      "album": {
+        "name": "Love you like that",
+        "url": "https://open.spotify.com/album/4iC9bRB1VTbDAykvGq50jN"
+      },
+      "artists": [
+        {
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212027,
+      "name": "Love you like that",
+      "url": "https://open.spotify.com/track/7LOMvbcUYF84aCAZ7JGXzb"
     },
     {
       "album": {

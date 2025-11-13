@@ -1,12 +1,12 @@
 {
   "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
-  "num_followers": 3821,
+  "num_followers": 3820,
   "original_name": "This Is Suzanne Ciani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADirR2i8HpzcpVdOi+RqaIt",
+  "snapshot_id": "aRJ8gAAAAAAPa6XBPZuGRhkAWDVWoE22",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 347626,
-      "name": "The Fifth Wave - Water Lullaby",
-      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
+      "duration_ms": 317733,
+      "name": "The Third Wave - Love In The Waves",
+      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
     },
     {
       "added_at": null,
@@ -204,25 +204,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 317733,
-      "name": "The Third Wave - Love In The Waves",
-      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo",
-        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2Sz004J4cE9JezxQ511een"
+      "duration_ms": 347626,
+      "name": "The Fifth Wave - Water Lullaby",
+      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
       "added_at": null,
@@ -239,6 +223,22 @@
       "duration_ms": 174000,
       "name": "Hotel Luna",
       "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2Sz004J4cE9JezxQ511een"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 424973,
-      "name": "The Sixth Wave - Deep In The Sea",
-      "url": "https://open.spotify.com/track/2ctoTMoMSToFFu9PRRAVrK"
+      "duration_ms": 174162,
+      "name": "A Sonic Womb Pt. 5",
+      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
-        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 174162,
-      "name": "A Sonic Womb Pt. 5",
-      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
+      "duration_ms": 424973,
+      "name": "The Sixth Wave - Deep In The Sea",
+      "url": "https://open.spotify.com/track/2ctoTMoMSToFFu9PRRAVrK"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Private Music Of Suzanne Ciani",
-        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Italia (From Hotel Luna)",
-      "url": "https://open.spotify.com/track/0u3W3lf8rbN2NuB7ky4SMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditations for Dreams, Relaxation, and Sleep",
         "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 249120,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/5aGZITWQm7wTBeoffHTaA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "Italia (From Hotel Luna)",
+      "url": "https://open.spotify.com/track/0u3W3lf8rbN2NuB7ky4SMy"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 285986,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap"
+      "duration_ms": 258000,
+      "name": "La Mer",
+      "url": "https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP"
     }
   ],
   "unique_name": "This Is Suzanne Ciani",

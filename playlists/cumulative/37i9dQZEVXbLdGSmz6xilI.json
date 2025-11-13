@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/2pm7K14nHj2fLrpU8j9bit"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 200035,
       "name": "ANH L\u00c0 TH\u1eb0NG T\u1ed2I",
       "url": "https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw"
@@ -5566,7 +5566,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -9250,7 +9250,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 234166,
       "name": "Gi\u1edd Th\u00ec",
       "url": "https://open.spotify.com/track/7mblTCdc14ylJ1JW71MODb"
@@ -13342,7 +13342,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 266758,
       "name": "Love is",
       "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
@@ -13744,7 +13744,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 116142,
       "name": "L\u00fd Do N\u00e0o \u0110\u1ec3 Quay L\u1ea1i V\u1edbi Nhau",
       "url": "https://open.spotify.com/track/11OxuU5y7ebAJyKaY8dOl0"
@@ -16490,7 +16490,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
@@ -21820,6 +21820,48 @@
       "duration_ms": 260351,
       "name": "S\u1ed1ng Cho H\u1ebft \u0110\u1eddi Thanh Xu\u00e2n 4 (feat. Dick)",
       "url": "https://open.spotify.com/track/6SdPpLl72QarBuaxv7FNGw"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\" 2025, T\u1eacP 8",
+        "url": "https://open.spotify.com/album/5tXy3NvFCU2yRK3g96jS9b"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
+        },
+        {
+          "name": "Nh\u00e2m Ph\u01b0\u01a1ng Nam",
+          "url": "https://open.spotify.com/artist/4usb4zmoHVcrvPPHHkKYaV"
+        },
+        {
+          "name": "Mason Nguyen",
+          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
+        },
+        {
+          "name": "Jaysonlei",
+          "url": "https://open.spotify.com/artist/5BQgZQPuGImYR5xgbytUKg"
+        },
+        {
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+        },
+        {
+          "name": "LAMOON",
+          "url": "https://open.spotify.com/artist/5kT9ftAJylK1roRMcdcsw2"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320500,
+      "name": "S\u1edaM MU\u1ed8N TH\u00cc",
+      "url": "https://open.spotify.com/track/4yy21UkGZ7gZEGbSERllpE"
     },
     {
       "album": {

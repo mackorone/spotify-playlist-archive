@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Haile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,124 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,056 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 36 | [One Gift](https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [One Gift](https://open.spotify.com/album/6L8qJyXZrmzunTMq03oHOo) | 3:00 |
 | 37 | [Take Her Love](https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 3:35 |
 | 38 | [Summertime](https://open.spotify.com/track/0qVi78o4X4gi3jHpDaLhED) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Summertime](https://open.spotify.com/album/5H8lZKP8gKPxdLVYDCXZmO) | 3:08 |
-| 39 | [Wisemen](https://open.spotify.com/track/2u3aTF3PxyJt7XQ5w0z04t) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Wisemen](https://open.spotify.com/album/4IgOYbYLa7t750vdIx2QRZ) | 3:48 |
-| 40 | [Love That Don't Change](https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [Love That Don't Change](https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe) | 3:16 |
+| 39 | [Love That Don't Change](https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [Love That Don't Change](https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe) | 3:16 |
+| 40 | [Wisemen](https://open.spotify.com/track/2u3aTF3PxyJt7XQ5w0z04t) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Wisemen](https://open.spotify.com/album/4IgOYbYLa7t750vdIx2QRZ) | 3:48 |
 | 41 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
 | 42 | [What Do You Say \(Move It Baby\) \- Damian “Jr\. Gong" Marley Remix](https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [What Do You Say \(Move It Baby\) \[Damian “Jr Gong" Marley Remix\]](https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI) | 4:15 |
 | 43 | [Diamonds and Gold](https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Diamonds and Gold](https://open.spotify.com/album/15muGQPID5opsEsRptvSDz) | 3:47 |

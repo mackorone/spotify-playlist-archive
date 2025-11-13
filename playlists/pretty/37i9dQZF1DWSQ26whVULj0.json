@@ -1,6 +1,6 @@
 {
   "description": "Explore the familiar tunes of Mendelssohn.",
-  "num_followers": 52985,
+  "num_followers": 53002,
   "original_name": "This Is Mendelssohn",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
+        "name": "Mendelssohn: Violin Concerto Op.64; Piano Trio Op.49; Violin Sonata in F major (1838)",
+        "url": "https://open.spotify.com/album/3kAGpSGorgg6sci7F7UUFA"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 433866,
+      "name": "Violin Sonata in F Major, MWV Q26: II. Adagio",
+      "url": "https://open.spotify.com/track/21iQi6AEaODOGayvAVpRaN"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
         "name": "Mendelssohn Violin Concerto",
         "url": "https://open.spotify.com/album/3EyX6RDEMlt34INKyI7Mur"
       },
@@ -1047,30 +1071,6 @@
       "duration_ms": 171106,
       "name": "Lieder Ohne Worte No. 5 in A Minor, Op. 53: Allegro con Fuoco \"Volkslied\"",
       "url": "https://open.spotify.com/track/6RnGPDRaIjAXKEEIqcxLX7"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
-        "name": "Mendelssohn: Violin Concerto Op.64; Piano Trio Op.49; Violin Sonata in F major (1838)",
-        "url": "https://open.spotify.com/album/3kAGpSGorgg6sci7F7UUFA"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Anne-Sophie Mutter",
-          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 433866,
-      "name": "Violin Sonata in F Major, MWV Q26: II. Adagio",
-      "url": "https://open.spotify.com/track/21iQi6AEaODOGayvAVpRaN"
     },
     {
       "added_at": "2025-09-15 14:00:15",

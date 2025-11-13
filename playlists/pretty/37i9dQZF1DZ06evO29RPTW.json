@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 132940,
+  "num_followers": 132954,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAVstyxnkGL4pCTX6o4eTHQ",
+  "snapshot_id": "aRJ8gAAAAACyhrXMyYXuzcxl4oc3LWSc",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punks And Demons",
-        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "Punks And Demons",
-      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 286773,
       "name": "Pussy Liquor",
       "url": "https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punks And Demons",
+        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "Punks And Demons",
+      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Foxy, Foxy",
-      "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venomous Rat Regeneration Vendor",
         "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 209826,
       "name": "We\u2019re An American Band",
       "url": "https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Foxy, Foxy",
+      "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Rock And Roll (In A Black Hole)",
+      "url": "https://open.spotify.com/track/68lAwyltMYzUg3D5SF7M40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 228693,
       "name": "Brick House 2003",
       "url": "https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Rock And Roll (In A Black Hole)",
-      "url": "https://open.spotify.com/track/68lAwyltMYzUg3D5SF7M40"
     },
     {
       "added_at": null,
@@ -595,6 +595,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Ging Gang Gong De Do Gong De Laga Raga",
+      "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hellbilly Deluxe 2 (Special Edition)",
         "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
       },
@@ -620,41 +668,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 198986,
-      "name": "Ging Gang Gong De Do Gong De Laga Raga",
-      "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Blitzkrieg Bop",
-      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
+      "duration_ms": 273720,
+      "name": "Teenage Nosferatu Pussy",
+      "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 249226,
       "name": "Let It All Bleed Out",
       "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Teenage Nosferatu Pussy",
-      "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Lords Of Salem",
-      "url": "https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 166573,
       "name": "The Hideous Exhibitions Of A Dedicated Gore Whore",
       "url": "https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Lords Of Salem",
+      "url": "https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "The Scorpion Sleeps",
-      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 178066,
       "name": "Satanic Cyanide ! The Killer Rocks On !",
       "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "The Scorpion Sleeps",
+      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
     },
     {
       "added_at": null,

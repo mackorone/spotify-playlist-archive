@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: BLVCKHEART
 
-571 songs - 1 day 10 hr 45 min
+572 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Smash or Pass \- Original Soundtrack From Out of the nest](https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Smash or Pass \(Original Soundtrack From Out of the nest\)](https://open.spotify.com/album/0Fkt3VKyuPCTXNOLDMjLGE) | 2:46 | 2024-08-02 | 2024-08-10 |
 | [Smoke](https://open.spotify.com/track/6kEU60ykxhb0shZMTiPWZL) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [J \- The 1st Album](https://open.spotify.com/album/1I0XP2ChShL3fZQ6mEMVtz) | 2:49 | 2024-09-06 | 2024-09-14 |
 | [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 | 2025-06-20 | 2025-06-28 |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-11-12 |  |
 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 | 2025-06-28 | 2025-07-19 |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2024-10-11 | 2024-10-26 |
 | [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 | 2024-06-27 | 2025-01-25 |
@@ -398,7 +399,7 @@
 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-06-27 | 2024-10-26 |
 | [ยอมถอย](https://open.spotify.com/track/4KXxx6pacCsqROXEbJcBcw) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ยอมถอย](https://open.spotify.com/album/2h420jptxny3RWTyrdTxrI) | 3:50 | 2025-05-20 |  |
 | [ยอมอยู่แล้ว \(feat\. ปั๊บ Potato\)](https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Hotel Room 302](https://open.spotify.com/album/1BOeIQN7MNNVhtgRlUvHKZ) | 4:20 | 2025-04-10 |  |
-| [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/track/5GFhuaQZgF240TDr6VMfKZ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/album/5V9mD5CxFt0eWroOlYdWjM) | 4:17 | 2025-10-24 |  |
+| [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/track/5GFhuaQZgF240TDr6VMfKZ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ยังมีหน้ากลับมา? \(How Dare You?\)](https://open.spotify.com/album/5V9mD5CxFt0eWroOlYdWjM) | 4:17 | 2025-10-24 | 2025-11-13 |
 | [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/track/19yPX0xMXRbRVgtGc2MO1l) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/album/02xnOJjfn4ElEWuC5wmuNr) | 4:25 | 2025-11-06 |  |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-06-27 | 2024-08-31 |
 | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye) | 3:25 | 2025-05-01 | 2025-05-23 |

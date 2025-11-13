@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 70045,
+  "num_followers": 70068,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Te Prefiero",
         "url": "https://open.spotify.com/album/31U37FecJ7YymWxaPXP18P"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
       "artists": [
         {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+      "duration_ms": 188933,
+      "name": "Oyelo",
+      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -603,22 +619,6 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Oyelo",
-      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1327,6 +1327,38 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 325124,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -1351,38 +1383,6 @@
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 325124,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "Momento Tiempo",
+        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
+      },
+      "artists": [
+        {
+          "name": "Delfines de Etiopia",
+          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
+        }
+      ],
+      "duration_ms": 259373,
+      "name": "De Tanto Caminar",
+      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Hombres De Hierro",
         "url": "https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 279625,
       "name": "Hombres De Hierro",
       "url": "https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Momento Tiempo",
-        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
-      },
-      "artists": [
-        {
-          "name": "Delfines de Etiopia",
-          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
-        }
-      ],
-      "duration_ms": 259373,
-      "name": "De Tanto Caminar",
-      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
     },
     {
       "added_at": "2025-10-17 03:00:27",

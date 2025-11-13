@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,918 likes - 109 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,114 likes - 109 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 7 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 8 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
 | 9 | [Feliz Navidad](https://open.spotify.com/track/4eygnv4e7nGdYPrS0br3pO) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6QTbzeEBJNZZObMZPhLS4e) | 2:52 |
-| 10 | [Nothin' For Christmas \(With William Beckmann\)](https://open.spotify.com/track/22YXydOtMbEUcluspU4Bop) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [A Cherry Valley Holiday](https://open.spotify.com/album/1lIm3hPlnIpqA0Lii3n9Tu) | 2:46 |
+| 10 | [Nothin' For Christmas](https://open.spotify.com/track/22YXydOtMbEUcluspU4Bop) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [A Cherry Valley Holiday](https://open.spotify.com/album/1lIm3hPlnIpqA0Lii3n9Tu) | 2:46 |
 | 11 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:39 |
 | 12 | [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 |
 | 13 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 |

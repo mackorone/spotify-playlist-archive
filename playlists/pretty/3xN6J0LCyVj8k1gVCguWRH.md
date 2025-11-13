@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,771 likes - 179 songs - 10 hr 37 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,766 likes - 179 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,16 +63,16 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 53 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
 | 54 | [Pomeranian](https://open.spotify.com/track/2nucZ6ksQ7v6mKB3urwLya) | [FORAGER](https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb) | [Pomeranian](https://open.spotify.com/album/1dNE2jT2JFIi7j9eAaAlPw) | 4:18 |
 | 55 | [Wake Up](https://open.spotify.com/track/5fXw9pR5MtbdJ5gBU3vxva) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 1:32 |
-| 56 | [The Postcard](https://open.spotify.com/track/17xCCjsAJxRy6k3AXOHiys) | [The Ediacaran](https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [Díbora Matos](https://open.spotify.com/artist/2D1QRIiceUZ6lQrtA9LLUL) | [Contemplations](https://open.spotify.com/album/4uw2r9WBBpTwqLEB3riKSq) | 3:48 |
-| 57 | [Daydreaming](https://open.spotify.com/track/5XvRHyikl6nNtTsvhdfkYf) | [MAAME](https://open.spotify.com/artist/6A7193ANWwr38cgNn7Q3i4) | [Daydreaming](https://open.spotify.com/album/0YrOijuJenQzSJpXi3GEM1) | 2:59 |
-| 58 | [A Better Place](https://open.spotify.com/track/4bMN5DIPF2qGKOnCfBduD8) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Better Place](https://open.spotify.com/album/7zJh3qYcjLVCDDg1jDowJg) | 4:44 |
-| 59 | [The SOVEREIGN ALGORITHM](https://open.spotify.com/track/3CTrus2ioIU7WcmeLQWDJE) | [W3KT0R](https://open.spotify.com/artist/6EsCfGv36Iu9W382JsOo0x) | [The SOVEREIGN ALGORITHM](https://open.spotify.com/album/3bPlJ5W7c9dNy3Slqoce8E) | 2:56 |
-| 60 | [Conversations](https://open.spotify.com/track/1EY3GiXBh9f9aIS5qmwcFU) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Conversations](https://open.spotify.com/album/3UAh8XuDenaZAktdztwGra) | 2:48 |
-| 61 | [Cry](https://open.spotify.com/track/3mj7czJSYOwGEXfZESzypo) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [Cry](https://open.spotify.com/album/0Dt677IInv8fOMxKUn5Idu) | 4:02 |
-| 62 | [PA VERTE](https://open.spotify.com/track/720o9rSGqQPatf41UhuKHX) | [peruchi](https://open.spotify.com/artist/44n2huK61oGJxZOgUps7q9), [MERECEMOS](https://open.spotify.com/artist/2svaR22hbVq1kpZF4dkJMG), [NIÑO PEDRO](https://open.spotify.com/artist/6kkrbYrHWxAlWoA7visU0i) | [PA VERTE](https://open.spotify.com/album/6kFWQxLxR00NYBsKlIcNs6) | 2:56 |
-| 63 | [Too Good For You](https://open.spotify.com/track/58g28b3bgLnIplgvU4U2zG) | [Adelide](https://open.spotify.com/artist/0zXhxzXds0Ea3AUz5063hL) | [Too Good For You](https://open.spotify.com/album/107DJoXiATvXqkYtVaC4DX) | 3:18 |
-| 64 | [FEELING GOOD](https://open.spotify.com/track/3tGFpdKqBL7cqd73LM8nTI) | [JAMIE LEE](https://open.spotify.com/artist/0DHobBOQYcaxrXctJrHDXw) | [$.W.A.K.](https://open.spotify.com/album/1Xcoqc7IrkxJOrF3fYxlSG) | 2:06 |
-| 65 | [te quiero no te quiero](https://open.spotify.com/track/3wyGulC7jRzN574dPgcrje) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [te quiero no te quiero](https://open.spotify.com/album/4En6EUGkNrwRyXh5L4FA96) | 2:00 |
+| 56 | [Hypnotize](https://open.spotify.com/track/18mZ0jyw3dAWDgYUeTEQYD) | [Lala Chloe](https://open.spotify.com/artist/777UkFnLnvKiAJqlecalxh) | [Hypnotize](https://open.spotify.com/album/0fTacOnCz5mHZNdvbhzz97) | 4:15 |
+| 57 | [The Postcard](https://open.spotify.com/track/17xCCjsAJxRy6k3AXOHiys) | [The Ediacaran](https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [Díbora Matos](https://open.spotify.com/artist/2D1QRIiceUZ6lQrtA9LLUL) | [Contemplations](https://open.spotify.com/album/4uw2r9WBBpTwqLEB3riKSq) | 3:48 |
+| 58 | [Daydreaming](https://open.spotify.com/track/5XvRHyikl6nNtTsvhdfkYf) | [MAAME](https://open.spotify.com/artist/6A7193ANWwr38cgNn7Q3i4) | [Daydreaming](https://open.spotify.com/album/0YrOijuJenQzSJpXi3GEM1) | 2:59 |
+| 59 | [A Better Place](https://open.spotify.com/track/4bMN5DIPF2qGKOnCfBduD8) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Better Place](https://open.spotify.com/album/7zJh3qYcjLVCDDg1jDowJg) | 4:44 |
+| 60 | [The SOVEREIGN ALGORITHM](https://open.spotify.com/track/3CTrus2ioIU7WcmeLQWDJE) | [W3KT0R](https://open.spotify.com/artist/6EsCfGv36Iu9W382JsOo0x) | [The SOVEREIGN ALGORITHM](https://open.spotify.com/album/3bPlJ5W7c9dNy3Slqoce8E) | 2:56 |
+| 61 | [Conversations](https://open.spotify.com/track/1EY3GiXBh9f9aIS5qmwcFU) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Conversations](https://open.spotify.com/album/3UAh8XuDenaZAktdztwGra) | 2:48 |
+| 62 | [Cry](https://open.spotify.com/track/3mj7czJSYOwGEXfZESzypo) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [Cry](https://open.spotify.com/album/0Dt677IInv8fOMxKUn5Idu) | 4:02 |
+| 63 | [PA VERTE](https://open.spotify.com/track/720o9rSGqQPatf41UhuKHX) | [peruchi](https://open.spotify.com/artist/44n2huK61oGJxZOgUps7q9), [MERECEMOS](https://open.spotify.com/artist/2svaR22hbVq1kpZF4dkJMG), [NIÑO PEDRO](https://open.spotify.com/artist/6kkrbYrHWxAlWoA7visU0i) | [PA VERTE](https://open.spotify.com/album/6kFWQxLxR00NYBsKlIcNs6) | 2:56 |
+| 64 | [Too Good For You](https://open.spotify.com/track/58g28b3bgLnIplgvU4U2zG) | [Adelide](https://open.spotify.com/artist/0zXhxzXds0Ea3AUz5063hL) | [Too Good For You](https://open.spotify.com/album/107DJoXiATvXqkYtVaC4DX) | 3:18 |
+| 65 | [FEELING GOOD](https://open.spotify.com/track/3tGFpdKqBL7cqd73LM8nTI) | [JAMIE LEE](https://open.spotify.com/artist/0DHobBOQYcaxrXctJrHDXw) | [$.W.A.K.](https://open.spotify.com/album/1Xcoqc7IrkxJOrF3fYxlSG) | 2:06 |
 | 66 | [Free](https://open.spotify.com/track/7m9yuaJTaPof0035V7FxI7) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [Free](https://open.spotify.com/album/2T2N9FXZxmwlLv0FFrWJkm) | 3:14 |
 | 67 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
 | 68 | [BMF](https://open.spotify.com/track/6uhsCywVYs0A9wWf0IE81N) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 3:00 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 178 | [Piccadilly Mind](https://open.spotify.com/track/7D3nZ9ViSN86XMrsVE4JDI) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Piccadilly Mind](https://open.spotify.com/album/2lTFdCzE7228gqlsuWQT0s) | 4:05 |
 | 179 | [More of It](https://open.spotify.com/track/296oUqh26SG7m9wVwilGN3) | [Youngwood](https://open.spotify.com/artist/3QXks5nI1OCgtoCiSpD9iu) | [Rude Tribes//More of It](https://open.spotify.com/album/4u3cG5EOfCQuPw6wn9QnpV) | 4:12 |
 
-Snapshot ID: `AAA1f5rBdzgHEHLujhL/ktJXOVdA2VX5`
+Snapshot ID: `AAA1gX7167D+3k7FmDDO3mf4xJdjUVGP`

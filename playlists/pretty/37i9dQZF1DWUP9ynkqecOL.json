@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 25353,
+  "num_followers": 25355,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "DUALQ",
-        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Otnicka",
-          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
-        }
-      ],
-      "duration_ms": 235142,
-      "name": "DUALQ",
-      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "Los Andes",
         "url": "https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 155062,
       "name": "Los Andes",
       "url": "https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "DUALQ",
+        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Otnicka",
+          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
+        }
+      ],
+      "duration_ms": 235142,
+      "name": "DUALQ",
+      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
+      },
+      "artists": [
+        {
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+        }
+      ],
+      "duration_ms": 379200,
+      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
+      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
         "name": "Yemanja (Chancha Via Circuito Remix)",
         "url": "https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 258643,
       "name": "Yemanja - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
-      },
-      "artists": [
-        {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
-        }
-      ],
-      "duration_ms": 379200,
-      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
-      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
-      },
-      "artists": [
-        {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
-        }
-      ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "Espuma de Mar ~ remixes",
         "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 224064,
       "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+      },
+      "artists": [
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        }
+      ],
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "Adi\u00f3s pueblito de Iruya (Guaz\u00fa Remix)",
         "url": "https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2025-08-21 19:45:20",

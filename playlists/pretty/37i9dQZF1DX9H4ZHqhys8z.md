@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ακούστε αυτές τις θαυμάσιες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η Klavdia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,873 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,889 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Piriniki Katastrofi](https://open.spotify.com/track/4y2VSk7lBeAp5YwRbTifS1) | [Ilianna Zerva](https://open.spotify.com/artist/6rDS4AGgg14z1cIlXClfik) | [Piriniki Katastrofi](https://open.spotify.com/album/6pG5D664xFokI1glD5zak5) | 2:55 |
 | 50 | [Sevda kentao sto mantili](https://open.spotify.com/track/3PZMCWPCF6LFiak8zje4DF) | [Sofia Kourtidou](https://open.spotify.com/artist/1B9W1Rx6pmnoHdWfshpAA6) | [Sevda kentao sto mantili](https://open.spotify.com/album/3otH1UzGUzmfT3OaXubeYy) | 4:21 |
 
-Snapshot ID: `AAAAAKBqFWy3R5rmH46iRdMxmP5P2FyS`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

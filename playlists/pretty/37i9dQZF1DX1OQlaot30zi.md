@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sayf Artie e Guè, Papa e Nerissima, Geolier, Astro, RRARI DAL TACCO, Aira e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,776 likes - 121 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,791 likes - 121 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

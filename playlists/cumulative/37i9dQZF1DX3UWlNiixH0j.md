@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: モノンクル MONONKVL
 
-2,830 songs - 7 day 8 hr 37 min
+2,830 songs - 7 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1658,7 +1658,6 @@
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 |  |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Track 1](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-11 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |
@@ -1866,7 +1865,7 @@
 | [いけない](https://open.spotify.com/track/4r90XRT74vCHams9LxZBaW) | [Kaede](https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr) | [いけない](https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW) | 4:03 | 2024-09-17 | 2024-10-10 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 | 2023-08-09 |
 | [いちごミルク \- mybear Remix](https://open.spotify.com/track/7nNaFyN5PPT3QzTaT7OZNT) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [mybear](https://open.spotify.com/artist/0ITxoL63pB9x5WkB8dxgqw) | [いちごミルク Remixes \(vol.2\)](https://open.spotify.com/album/2QhzLfuTQjhvz2ffw8VQne) | 2:35 | 2023-10-12 | 2023-10-18 |
-| [いっつも](https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いっつも](https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF) | 4:29 | 2025-09-16 |  |
+| [いっつも](https://open.spotify.com/track/21IEh4Cql4aMPU04I3bHK6) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いっつも](https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF) | 4:29 | 2025-09-16 | 2025-11-13 |
 | [いつかのように](https://open.spotify.com/track/1CB33eDpheg02oMgLSTu7j) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [Goodbye](https://open.spotify.com/album/1ULlmg6Rrn4NksaPXdjskn) | 4:51 | 2024-01-16 | 2024-01-24 |
 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-27 | 2023-11-01 |
 | [いま](https://open.spotify.com/track/5As9feJEysnMns86g5qd63) | [EMERALD FOUR](https://open.spotify.com/artist/3fIFYfce155DkvjTKth6Fv) | [魔境にて](https://open.spotify.com/album/1MCHi0lerMlCXTaKH5rxny) | 3:07 | 2024-06-04 | 2024-06-12 |
@@ -2157,7 +2156,7 @@
 | [デッドエンド](https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [E.](https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR) | 2:53 | 2024-01-23 | 2024-05-01 |
 | [トキ！トキ！トキ！](https://open.spotify.com/track/5eVPSSlXsCvbZyMFERJH92) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [婦人日和](https://open.spotify.com/album/386qmW7s9NXprvAd2rqFH9) | 5:43 | 2025-11-04 |  |
 | [トランス＝ロマンティック](https://open.spotify.com/track/16skoJcX8iihEFnrioKufY) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [からまるおも](https://open.spotify.com/album/7BdYUBkrPy6RrJSQ4mnbEy) | 3:41 | 2024-07-09 | 2024-07-17 |
-| [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 | 2025-11-04 | 2025-11-12 |
+| [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 | 2025-11-04 |  |
 | [トーキョーリバー](https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki) | [ALBATROSS](https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47) | [トーキョーリバー](https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd) | 3:44 | 2024-10-01 | 2025-01-08 |
 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 | 2023-05-18 | 2023-06-28 |
 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 | 2024-03-19 | 2024-04-24 |
@@ -2288,6 +2287,7 @@
 | [ワタツミ](https://open.spotify.com/track/7j1Y5UXHWD1ub88GftA8le) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:39 | 2024-01-11 | 2024-02-28 |
 | [ワンダワンダナイト](https://open.spotify.com/track/7z8HA9CFTA59asI9VDOR32) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [ワンダワンダナイト](https://open.spotify.com/album/63pr0cg2LzCxWlAaLq5CzV) | 2:36 | 2023-07-11 | 2023-07-19 |
 | [一生このまま](https://open.spotify.com/track/1q4zRDIKKchOp9fijZf7Px) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [一生このまま](https://open.spotify.com/album/59dpWHuyHaj4thgbTdD14U) | 4:43 | 2023-05-30 | 2023-06-01 |
+| [万祝](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [万祝](https://open.spotify.com/album/0heim8z9M7TUdwDP9o1ZxY) | 3:41 | 2025-11-11 |  |
 | [三月の歌](https://open.spotify.com/track/4EQQLK6xsQN6eiByBRuko8) | [SaToA](https://open.spotify.com/artist/3G6WF3GvhYoSEowQlsllIr) | [タイムリープ](https://open.spotify.com/album/5F7V2dm5l6wkHwozYRJJWY) | 3:01 | 2025-10-21 | 2025-10-29 |
 | [不安時間](https://open.spotify.com/track/3eGhGu79I5YLEaOo3EFRTc) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 3:22 | 2023-12-05 | 2023-12-24 |
 | [不安時間](https://open.spotify.com/track/6IFu5wpsp8fqtsEsogzB4w) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [不安時間](https://open.spotify.com/album/4F4gdyk85vpE3eoyUpycjr) | 3:22 | 2023-10-31 | 2023-11-17 |

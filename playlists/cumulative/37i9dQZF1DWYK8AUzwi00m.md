@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-324 songs - 12 hr 30 min
+327 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Dream Present](https://open.spotify.com/track/6BvyFxhCplQNQ5YH7oFRZ6) | [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [A Dream Present](https://open.spotify.com/album/10AjmZLhpwN9J3i7Vxb3Ot) | 2:12 | 2021-12-20 |  |
 | [A Holy Jolly Christmas](https://open.spotify.com/track/66TPQ0Cw4SvXbCPJGdfwM6) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [A Holy Jolly Christmas](https://open.spotify.com/album/4zgAtGu8evTT3OU541WbcK) | 3:01 | 2022-11-11 | 2025-09-05 |
 | [A Merry Little XMAS](https://open.spotify.com/track/3KYhdw2FCJPe4OYFhZki2P) | [Approachable Animals](https://open.spotify.com/artist/6nceKCpE6e0TmuXMxg37IR) | [A Merry Little XMAS](https://open.spotify.com/album/0Ucerz2HM5MYkdr2W1ZvvN) | 2:10 | 2024-11-14 | 2025-10-04 |
+| [A Winter Dream](https://open.spotify.com/track/2D3DEsReLtkRjhkBZGnFXu) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [A Winter Dream](https://open.spotify.com/album/02qxE1vlx06foF6dbmhqgB) | 2:06 | 2025-11-12 |  |
 | [Aesthetic Christmas](https://open.spotify.com/track/2IwjwcZbQbkAPgwtGu8G0s) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Merry Christmas \(Lofi beats\)](https://open.spotify.com/album/3nFx4sv8We0GyLBq1tk7pa) | 2:57 | 2021-12-20 |  |
 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/2h8EHpeJcIVOvWS4r4LwCo) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/1E7eg4EWi1s52uiVxp0UfH) | 2:26 | 2022-11-11 | 2023-10-20 |
 | [all i want for christmas is lofi](https://open.spotify.com/track/7rNTCi9j9WIc1kxQSor5Ak) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [all i want for christmas is lofi](https://open.spotify.com/album/1wG31235BfrJ6nbjRmArhT) | 3:02 | 2022-12-25 | 2023-10-20 |
@@ -119,6 +120,7 @@
 | [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/1OFyHG4Igqh8bho0NZGXdR) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/5zpL1adaFeRNPjgf6SkEei) | 4:16 | 2022-09-30 | 2022-11-12 |
 | [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/4iJhAs1Zi1TeUTkqvDF1mf) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/1D8rDE8V5nBdQClAWZRv4X) | 4:16 | 2021-12-20 | 2022-07-29 |
 | [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/7su98ziiskUZJIOzXRNMV3) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:16 | 2021-12-20 | 2022-10-15 |
+| [Hey Hey Santa](https://open.spotify.com/track/7a9vbwIxNkzrPHakG64ubo) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Hey Hey Santa](https://open.spotify.com/album/7rQ7n3vwoWF0KUZvKtVeJq) | 2:30 | 2025-11-12 |  |
 | [ho ho lofi](https://open.spotify.com/track/4OePyhZfv4HQc25rXbhxHl) | [Cam & Job](https://open.spotify.com/artist/3TWRKibRVvm9omhaXBxlzn) | [A Very Cam & Job Christmas](https://open.spotify.com/album/6u7YkGV5kvfwIq8zBanTkX) | 1:28 | 2021-12-20 |  |
 | [Holiday Mood Lofi](https://open.spotify.com/track/2IMrqdfQVS2aDiz6L7vFVb) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [A Merry Lofi Christmas](https://open.spotify.com/album/1qp0o8LrCSzr07zaLXqb7B) | 2:30 | 2021-12-20 | 2024-04-19 |
 | [Holiday Mood Lofi \- Instrumental](https://open.spotify.com/track/0p9ihhlziFCYfNrRPZCJkF) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [Holiday Mood Lofi \(Instrumental\)](https://open.spotify.com/album/3LEaUqcC5i6DisMEEEtdTH) | 2:30 | 2021-12-20 | 2025-10-04 |
@@ -250,6 +252,7 @@
 | [Santa's jam](https://open.spotify.com/track/0IOdHQ8ewOQlStX9UJEqGK) | [Statistix](https://open.spotify.com/artist/3FDY67kyoGgLMWGVywQ6OZ) | [Santa's jam](https://open.spotify.com/album/3aeJZMAh18XVC75Gtx3hcE) | 2:25 | 2022-11-11 | 2025-09-05 |
 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 | 2022-12-09 |  |
 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 | 2021-12-20 |  |
+| [secret santa](https://open.spotify.com/track/4CSVwYdOUK8NxAbQMam9Oz) | [ao](https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3) | [secret santa](https://open.spotify.com/album/3ZUyGn7c4xP1A9C5EKNEiV) | 2:23 | 2025-11-12 |  |
 | [Shopping Spree](https://open.spotify.com/track/3QH5nm30Qb6NtAGtufIuNv) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 2:16 | 2021-12-20 | 2022-11-12 |
 | [should go christmas shopping](https://open.spotify.com/track/0MblCypMHWJCr5zR23JmbZ) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter](https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI) | 1:30 | 2022-11-11 | 2024-04-19 |
 | [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 | 2021-12-20 |  |

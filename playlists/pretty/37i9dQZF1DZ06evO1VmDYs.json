@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 197597,
+  "num_followers": 197600,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAbAHhReaMmVBSayh7HYYjh",
+  "snapshot_id": "aRJ8gAAAAAAy9F8IWONszxpThEUP4o1B",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 223560,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Crab",
-      "url": "https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB"
+      "duration_ms": 229733,
+      "name": "O Girlfriend",
+      "url": "https://open.spotify.com/track/1EYwaLwf6fdS3NIlTbUZ3X"
     },
     {
       "added_at": null,

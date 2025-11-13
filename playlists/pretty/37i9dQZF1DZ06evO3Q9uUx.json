@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15799,
+  "num_followers": 15798,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAJROum9dOO0g9dQ8vD/0FX",
+  "snapshot_id": "aRJ8gAAAAAD3JNcAO9l8XwvxATR19655",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIRTHDAY BEHAVIOR",
-        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
+        "name": "GEEKALEEK (feat. BIA)",
+        "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 144000,
-      "name": "BIRTHDAY BEHAVIOR",
-      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
+      "duration_ms": 128000,
+      "name": "GEEKALEEK (feat. BIA)",
+      "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
     },
     {
       "added_at": null,
@@ -211,22 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEEKALEEK (feat. BIA)",
-        "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
+        "name": "BIRTHDAY BEHAVIOR",
+        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
       },
       "artists": [
         {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 128000,
-      "name": "GEEKALEEK (feat. BIA)",
-      "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
+      "duration_ms": 144000,
+      "name": "BIRTHDAY BEHAVIOR",
+      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 108007,
-      "name": "GUAVA",
-      "url": "https://open.spotify.com/track/45IRDfRHvD08QTUhgUFsHz"
+      "duration_ms": 111975,
+      "name": "READY SET",
+      "url": "https://open.spotify.com/track/3wgZyFfN0IOrXKk33YjM4X"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 106695,
-      "name": "OCTOBER",
-      "url": "https://open.spotify.com/track/1YtBVmY6A71XYO7Hd9ZEWp"
+      "duration_ms": 108007,
+      "name": "GUAVA",
+      "url": "https://open.spotify.com/track/45IRDfRHvD08QTUhgUFsHz"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 111975,
-      "name": "READY SET",
-      "url": "https://open.spotify.com/track/3wgZyFfN0IOrXKk33YjM4X"
+      "duration_ms": 106695,
+      "name": "OCTOBER",
+      "url": "https://open.spotify.com/track/1YtBVmY6A71XYO7Hd9ZEWp"
     },
     {
       "added_at": null,

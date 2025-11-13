@@ -720,7 +720,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 173280,
       "name": "Check Yes Or No - Live",
       "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
@@ -3346,6 +3346,28 @@
       "duration_ms": 212285,
       "name": "Tell Me Why - Live",
       "url": "https://open.spotify.com/track/1plzgdb3hbyAYa5t2DcBrV"
+    },
+    {
+      "album": {
+        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
+        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Grand Ole Opry",
+          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287938,
+      "name": "Tennessee Whiskey (Live on the Grand Ole Opry, October 29th, 2016)",
+      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
     },
     {
       "album": {

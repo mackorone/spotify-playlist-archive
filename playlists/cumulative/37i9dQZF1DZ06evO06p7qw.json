@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139733,
+      "name": "Cuando Te Beso",
+      "url": "https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj"
+    },
+    {
+      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 221211,
       "name": "Te Lastim\u00e9",
       "url": "https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU"

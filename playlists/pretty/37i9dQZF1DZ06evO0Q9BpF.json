@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 49326,
+  "num_followers": 49336,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABxGV9R/F18bM2Vm7q3Njmg",
+  "snapshot_id": "aRJ8gAAAAAB6hzYzpKNCAyEW2zTYRCjY",
   "tracks": [
     {
       "added_at": null,
@@ -247,30 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sana Nuestra Naci\u00f3n",
-        "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Edgar Aguilar",
-          "url": "https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 588837,
-      "name": "No Hay Nada Imposible",
-      "url": "https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
       },
@@ -287,6 +263,26 @@
       "duration_ms": 180320,
       "name": "Blanco y Negro",
       "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como En El Cielo",
+        "url": "https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "duration_ms": 439786,
+      "name": "Como En El Cielo",
+      "url": "https://open.spotify.com/track/64kR3pwhqotPAFIP1IVMFz"
     },
     {
       "added_at": null,
@@ -315,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como En El Cielo",
-        "url": "https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL"
+        "name": "Sana Nuestra Naci\u00f3n",
+        "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
       },
       "artists": [
         {
@@ -324,13 +320,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+          "name": "Edgar Aguilar",
+          "url": "https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 439786,
-      "name": "Como En El Cielo",
-      "url": "https://open.spotify.com/track/64kR3pwhqotPAFIP1IVMFz"
+      "duration_ms": 588837,
+      "name": "No Hay Nada Imposible",
+      "url": "https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios Conmigo Est\u00e1s",
-        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Dios Conmigo Est\u00e1s",
-      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 280893,
       "name": "Eres Todo Para Mi",
       "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dios Conmigo Est\u00e1s",
+        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Dios Conmigo Est\u00e1s",
+      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
     },
     {
       "added_at": null,
@@ -735,34 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        }
-      ],
-      "duration_ms": 487160,
-      "name": "Jes\u00fas, Eres el Centro",
-      "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
@@ -803,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 411453,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -832,17 +788,33 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Stefy Espinosa",
-          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         },
         {
           "name": "Pedro Pablo Quintero",
           "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Si T\u00fa Est\u00e1s Conmigo",
-      "url": "https://open.spotify.com/track/2yuOHTcU0O3XJqXWm7KLsz"
+      "duration_ms": 487160,
+      "name": "Jes\u00fas, Eres el Centro",
+      "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411453,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
     },
     {
       "added_at": null,
@@ -879,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despierta Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 464320,
-      "name": "Despierta Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -908,17 +864,33 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+          "name": "Stefy Espinosa",
+          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
         },
         {
           "name": "Pedro Pablo Quintero",
           "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 450186,
-      "name": "Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
+      "duration_ms": 245760,
+      "name": "Si T\u00fa Est\u00e1s Conmigo",
+      "url": "https://open.spotify.com/track/2yuOHTcU0O3XJqXWm7KLsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 464320,
+      "name": "Despierta Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY"
     },
     {
       "added_at": null,
@@ -959,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "Permanecer\u00e9 En T\u00ed",
-      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -988,21 +944,33 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Daniela Quintero",
-          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
-        },
-        {
           "name": "Johan Manjarr\u00e9s",
           "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 276493,
-      "name": "Cantar de Tu Amor",
-      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
+      "duration_ms": 450186,
+      "name": "Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "Permanecer\u00e9 En T\u00ed",
+      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
     },
     {
       "added_at": null,
@@ -1039,18 +1007,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Daniela Quintero",
+          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 256106,
-      "name": "Bienvenido",
-      "url": "https://open.spotify.com/track/3nM1YF8bnbkS8HzZL9BfWd"
+      "duration_ms": 276493,
+      "name": "Cantar de Tu Amor",
+      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Anthony Catacoli",
+          "url": "https://open.spotify.com/artist/56t1x0Jm7IiTEqpKvtY6Q7"
+        },
+        {
+          "name": "Antonio & Allison",
+          "url": "https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "Sonido de Amor",
+      "url": "https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR"
     }
   ],
   "unique_name": "This Is Generaci\u00f3n 12",

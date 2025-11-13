@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 45022,
+  "num_followers": 45028,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAD/5bgkUj3ynl9FIsLD6DoG",
+  "snapshot_id": "aRJ8gAAAAABnJdGbZZvN7qJ+8Zvk4S9K",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
-      },
-      "artists": [
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 207000,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas All\u00e1 Del Mar",
+        "url": "https://open.spotify.com/album/25jA4nuKRdKGJj8XbxmImR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 164950,
+      "name": "Mas All\u00e1 Del Mar",
+      "url": "https://open.spotify.com/track/7pg7I0oFBq0O8MvYTtUOk7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti Me Olvid\u00e9",
         "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 221538,
       "name": "De Ti Me Olvid\u00e9",
       "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas All\u00e1 Del Mar",
-        "url": "https://open.spotify.com/album/25jA4nuKRdKGJj8XbxmImR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 164950,
-      "name": "Mas All\u00e1 Del Mar",
-      "url": "https://open.spotify.com/track/7pg7I0oFBq0O8MvYTtUOk7"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 225140,
+  "num_followers": 225168,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADX38KQ9f7+lV4uFMGei0mz",
+  "snapshot_id": "aRJ8gAAAAAADUnMq0cXTcLYNy6m7Mb+/",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Love & War",
+      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What It Is (Block Boy) (with Kodak Black)",
         "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 223343,
       "name": "What It Is (Block Boy) (with Kodak Black)",
       "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Love & War",
-      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 183562,
-      "name": "Shake Back",
-      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 276835,
       "name": "Sufro",
       "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 183562,
+      "name": "Shake Back",
+      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 152452,
       "name": "Shootin Craps (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/77IoxXrzRvWNBpedy6HR8a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 135529,
       "name": "Project Blue",
       "url": "https://open.spotify.com/track/1i1ulBbyeZF4vxO4vmHoiq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
       "duration_ms": 170413,
       "name": "hibachi (feat. Kodak Black & 21 Savage)",
       "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 264531,
-      "name": "Codeine Dreaming (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 264531,
+      "name": "Codeine Dreaming (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imma Shoot",
-        "url": "https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 206985,
-      "name": "Imma Shoot",
-      "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Imma Shoot",
+        "url": "https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 206985,
+      "name": "Imma Shoot",
+      "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lil Big Pac",
         "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
@@ -891,30 +891,6 @@
       "duration_ms": 213028,
       "name": "Gave It All I Got",
       "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
-        "url": "https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
-      "url": "https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm"
     },
     {
       "added_at": null,
@@ -959,6 +935,30 @@
       "duration_ms": 165889,
       "name": "No Flaggin",
       "url": "https://open.spotify.com/track/4Hr06uHan2We7V9158olu3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
+        "url": "https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
+      "url": "https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm"
     }
   ],
   "unique_name": "This Is Kodak Black",

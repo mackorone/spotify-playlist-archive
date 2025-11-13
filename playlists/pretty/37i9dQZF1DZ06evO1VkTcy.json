@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22263,
+  "num_followers": 22272,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAA4LKCVHX+mNO6mKBj18ZLI",
+  "snapshot_id": "aRJ8gAAAAAAF5w5Vv/xiES5+WaM2Snjd",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Louco Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seja Forte",
         "url": "https://open.spotify.com/album/3mdrAMknncQfphwa2wukcx"
       },
@@ -775,34 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
-        }
-      ],
-      "duration_ms": 173291,
-      "name": "Louco Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -819,6 +819,34 @@
       "duration_ms": 289122,
       "name": "Na Areia",
       "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+        }
+      ],
+      "duration_ms": 261397,
+      "name": "Dizeres",
+      "url": "https://open.spotify.com/track/6xlD60qg2yRZhlLvy6PZ3v"
     },
     {
       "added_at": null,
@@ -867,34 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
-        }
-      ],
-      "duration_ms": 261397,
-      "name": "Dizeres",
-      "url": "https://open.spotify.com/track/6xlD60qg2yRZhlLvy6PZ3v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Sa\u00edda Est\u00e1 Dentro",
         "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
       },
@@ -911,50 +911,6 @@
       "duration_ms": 231407,
       "name": "P\u00e1ssaros",
       "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Tira minha paz",
-      "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
     },
     {
       "added_at": null,
@@ -991,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
       },
       "artists": [
         {
@@ -1000,13 +956,13 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
         }
       ],
-      "duration_ms": 241171,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
     },
     {
       "added_at": null,
@@ -1083,6 +1039,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 241171,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Seu Grande Amor",
         "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
       },
@@ -1123,6 +1099,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+        }
+      ],
+      "duration_ms": 213279,
+      "name": "Tira Minha Paz",
+      "url": "https://open.spotify.com/track/5iR5mlZA32HtisM8B95pnK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
       },
@@ -1155,26 +1179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
       "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         }
       ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,
@@ -1203,30 +1227,6 @@
       "duration_ms": 328148,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/4aPl5Yx9cbmoqd7ahKGI3e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,
@@ -1275,26 +1275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+        "name": "Frio e Vento",
+        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
       },
       "artists": [
         {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 242506,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3mNc163fQQZxcYHRGnaptN"
+      "duration_ms": 213999,
+      "name": "Melhor N\u00e3o",
+      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
     },
     {
       "added_at": null,
@@ -1347,26 +1343,6 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frio e Vento",
-        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Melhor N\u00e3o",
-      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
     },
     {
       "added_at": null,
@@ -1427,6 +1403,50 @@
       "duration_ms": 156000,
       "name": "Fake",
       "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poetisas No Topo 2",
+        "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "duration_ms": 556662,
+      "name": "Poetisas No Topo 2",
+      "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
     }
   ],
   "unique_name": "This Is Lourena",

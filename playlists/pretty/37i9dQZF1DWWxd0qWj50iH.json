@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 529164,
+  "num_followers": 529142,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anyone But You",
-        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Anyone But You",
-      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 155007,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anyone But You",
+        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Anyone But You",
+      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Feels Like a Man",
         "url": "https://open.spotify.com/album/40vbSlfKQuirQV4eSsXwCa"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 177240,
       "name": "Feels Like a Man",
       "url": "https://open.spotify.com/track/5ERafLj5JlAOIIKhPJaLEI"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+        "name": "Meet Me At The Record Store",
+        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+      "duration_ms": 233111,
+      "name": "Meet Me At The Record Store",
+      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
     }
   ],
   "unique_name": "Gentle",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Makropoulos
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,984 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,988 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 44 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 |
 | 45 | [Pou Ti Vrike?](https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c) | [Angela Dimitriou](https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256), [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pou Ti Vrike?](https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI) | 3:08 |
 | 46 | [Etsi Koitazes Emena](https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Etsi Koitazes Emena](https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM) | 3:48 |
-| 47 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |
-| 48 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 |
-| 49 | [Dos' Mou Ligo Oxygono](https://open.spotify.com/track/4HY0zeEgOg19YTG8f02NjJ) | [Konstantinos Pantelidis](https://open.spotify.com/artist/3PNijcYHdpSwu3up3IWR4U), [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Dos' Mou Ligo Oxygono](https://open.spotify.com/album/6BHT3AJg58nznGsFDKZbv9) | 3:37 |
-| 50 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
+| 47 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 |
+| 48 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |
+| 49 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
+| 50 | [Dos' Mou Ligo Oxygono](https://open.spotify.com/track/4HY0zeEgOg19YTG8f02NjJ) | [Konstantinos Pantelidis](https://open.spotify.com/artist/3PNijcYHdpSwu3up3IWR4U), [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Dos' Mou Ligo Oxygono](https://open.spotify.com/album/6BHT3AJg58nznGsFDKZbv9) | 3:37 |
 
 Snapshot ID: `AAAAANS/8Q/WTji3nkXf1H1MCD+igavM`

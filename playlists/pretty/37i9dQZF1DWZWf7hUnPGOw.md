@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,790 likes - 101 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,804 likes - 101 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 62 | [Hot Cups of Coffee](https://open.spotify.com/track/51ioUSPGFOkvF5lICsKhA1) | [Dylan Smucker](https://open.spotify.com/artist/0NTHLQTkRzfcXKhXynzGKP) | [Old Letters](https://open.spotify.com/album/6WX0OeIXuQ5e9nn7f7dozk) | 2:32 |
 | 63 | [How to Save a Life](https://open.spotify.com/track/15JyIDol4mWoMnUFuSXPJ2) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [How to Save a Life](https://open.spotify.com/album/1GEMGqxRG4xI2jBVbODn04) | 4:15 |
 | 64 | [Back It Up Edge](https://open.spotify.com/track/4ifObf4aAp7omPkPCoO30z) | [Ric Sandler](https://open.spotify.com/artist/24Q6Xj6vGG4up8s6OCLZrt) | [Summer Nights](https://open.spotify.com/album/0VlrH64xfNVwvmZzCFaFKS) | 3:10 |
-| 65 | [We'll Make It Through](https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 6:01 |
+| 65 | [We'll Make It Through](https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 6:03 |
 | 66 | [It Must Be Luck](https://open.spotify.com/track/5hySKQQSkjRuhkLDBZ5hFd) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [It Must Be Luck](https://open.spotify.com/album/7FhG789vclJm8GKGYG4rPo) | 3:43 |
 | 67 | [Leave on, Leave the Band](https://open.spotify.com/track/3U7H0Iqye3T3bnuG6qNMsp) | [Joe Marson](https://open.spotify.com/artist/4nFQ7IhLVK3MsKRjhq9LKi) | [Someday Soon](https://open.spotify.com/album/0CCA7zvQfoKpEqww7OhUfA) | 5:44 |
 | 68 | [Wrong Side Of Right Edge](https://open.spotify.com/track/2Y3P3hEX2qNnEzuPRhHOmN) | [Bobby Blazier](https://open.spotify.com/artist/4KydL8OZRHYooJMlfB0jy5), [Chrissy Blazier](https://open.spotify.com/artist/2U8sHplZGEONMlWyQZB5l7) | [Summer Nights](https://open.spotify.com/album/0VlrH64xfNVwvmZzCFaFKS) | 3:09 |

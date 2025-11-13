@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,653 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,652 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 14 | [Bolo Bolo](https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 3:57 |
 | 15 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
 | 16 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
-| 17 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
-| 18 | [Ruang Hidup](https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kepada, Yang Terhormat](https://open.spotify.com/album/0GY8wV9c0h68Izx8eEzjXF) | 3:23 |
+| 17 | [Ruang Hidup](https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kepada, Yang Terhormat](https://open.spotify.com/album/0GY8wV9c0h68Izx8eEzjXF) | 3:23 |
+| 18 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 19 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 |
 | 20 | [Firdygałki](https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Firdygałki](https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr) | 3:53 |
 | 21 | [Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Echoes](https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts) | 3:14 |
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 24 | [Nie mam się już czego bać](https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Nie mam się już czego bać](https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo) | 3:18 |
 | 25 | [MOMENTO](https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Prayers](https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu) | [MOMENTO](https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA) | 2:50 |
 | 26 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 |
-| 27 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |
-| 28 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 |
+| 27 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 |
+| 28 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |
 | 29 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
 | 30 | [慢慢](https://open.spotify.com/track/0pKhbPvQeyOGRSiyg38gLs) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [慢慢](https://open.spotify.com/album/6vrcjiC4jPf4AaqsvkBgX6) | 3:18 |
 | 31 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 |
 | 32 | [Yalla Siir](https://open.spotify.com/track/1WxsQ1hr3iji5V8WYslkjf) | [Ahlam Bakkali](https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht) | [Yalla Siir](https://open.spotify.com/album/6wR81KGNCqN2eBXgwoAemu) | 3:18 |
-| 33 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
-| 34 | [Cardio](https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:37 |
+| 33 | [Cardio](https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:37 |
+| 34 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
 | 35 | [Amigo de un Amigo](https://open.spotify.com/track/4I47jsUZpToiwevqcVgWGK) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Amigo de un Amigo](https://open.spotify.com/album/7gSMKECyx73ZGFjMwunHCf) | 3:16 |
 | 36 | [Dendam](https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Dendam](https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn) | 3:39 |
 | 37 | [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 |

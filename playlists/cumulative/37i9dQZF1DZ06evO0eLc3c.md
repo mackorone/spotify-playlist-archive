@@ -4,7 +4,7 @@
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 20 min
+79 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Birdland](https://open.spotify.com/track/4UcCvuacrweynfWohap8NR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 9:13 | 2025-09-21 | 2025-10-19 |
 | [Birdland](https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses](https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C) | 9:15 | 2025-11-02 |  |
 | [Break It Up](https://open.spotify.com/track/5UoBmpb4VHNBbKjxmL8WGe) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 4:01 | 2025-03-08 | 2025-11-02 |
+| [Break It Up](https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses](https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C) | 4:02 | 2025-11-13 |  |
 | [Changing of the Guards](https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:45 | 2025-05-11 |  |
 | [Changing of the Guards](https://open.spotify.com/track/6w6uf3E3yPgyFq6DmzI4nG) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/2r4tFFrAv3tgLjmCl0rLeR) | 5:47 | 2025-03-08 | 2025-05-11 |
 | [Children Of Chernobyl](https://open.spotify.com/track/4cOv1iSkg0OTwndjY3ee8B) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Children Of Chernobyl](https://open.spotify.com/album/0EknzyMtSPdEvHbgOt0Nmj) | 15:00 | 2025-03-13 | 2025-04-24 |
@@ -47,7 +48,7 @@
 | [Helpless](https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:02 | 2025-03-08 |  |
 | [Hymn](https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 1:12 | 2025-03-08 |  |
 | [Kimberly](https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 4:25 | 2025-03-08 |  |
-| [Land: Horses / Land of a Thousand Dances / La Mer\(de\)](https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 9:25 | 2025-03-08 |  |
+| [Land: Horses / Land of a Thousand Dances / La Mer\(de\)](https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 9:25 | 2025-03-08 | 2025-11-13 |
 | [Looking for You \(I Was\)](https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 4:06 | 2025-08-13 |  |
 | [Looking for You \(I Was\)](https://open.spotify.com/track/7F99ZydjXEoAwCQ2XmAeT6) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 4:07 | 2025-03-26 | 2025-07-26 |
 | [Mother Rose](https://open.spotify.com/track/5MCHIUiEjVJKuKxoMgLVZe) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Trampin'](https://open.spotify.com/album/3od0OdWDIIO8fF9Plb8Qiu) | 4:56 | 2025-04-01 | 2025-07-07 |

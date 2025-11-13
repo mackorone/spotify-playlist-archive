@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 687180,
+  "num_followers": 687208,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACIG1/y9IeTdAig1OvM+eN/",
+  "snapshot_id": "aRJ8gAAAAADIGk2NrTFj70KG5+Vpom1b",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,26 @@
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "PUT EM IN THE FRIDGE",
+      "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
     }
   ],
   "unique_name": "This Is Cardi B",

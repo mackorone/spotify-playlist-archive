@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: KiiKii\)
+> Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
 
-1,498 songs - 3 day 8 hr 34 min
+1,501 songs - 3 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2021-10-16 | 2021-11-24 |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-02 | 2022-04-18 |
 | [Calm & Passion](https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:29 | 2021-10-21 | 2021-12-14 |
-| [Can You Entertain?](https://open.spotify.com/track/3VnY6q0HwCbRqXBCyzCJ9O) | [Kim Lip](https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i) | [<Can You Entertain?>](https://open.spotify.com/album/0at85Wc38V1VWs8z4GTJJr) | 2:49 | 2025-10-17 |  |
+| [Can You Entertain?](https://open.spotify.com/track/3VnY6q0HwCbRqXBCyzCJ9O) | [Kim Lip](https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i) | [<Can You Entertain?>](https://open.spotify.com/album/0at85Wc38V1VWs8z4GTJJr) | 2:49 | 2025-10-17 | 2025-11-13 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-17 | 2022-03-22 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-03-22 | 2022-06-18 |
 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 | 2021-12-07 | 2022-01-04 |
@@ -405,6 +405,7 @@
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-06-18 |
 | [ECHO! \(Prod\. WOOZI\)](https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:33 | 2025-06-12 | 2025-08-01 |
 | [Eeny Meeny](https://open.spotify.com/track/6g1bC84sN16hsWICgeXXb9) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Eeny Meeny](https://open.spotify.com/album/5wnySScBf5FmEoBWIirXaH) | 2:39 | 2021-01-27 | 2021-04-22 |
+| [Eight Eleven](https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/6N0KvZuXQQVp1K8LJmuoMA) | 2:21 | 2025-11-12 |  |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-10-05 | 2024-07-06 |
 | [Electric Shock](https://open.spotify.com/track/1ARMCwjWcFqDRKnCsLhxzd) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [ACT](https://open.spotify.com/album/6RWRS5nL83GBM3VQkYuYHO) | 2:50 | 2024-09-23 | 2024-11-26 |
 | [Elevator](https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Elevator](https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI) | 2:43 | 2023-08-31 | 2023-09-28 |
@@ -956,7 +957,7 @@
 | [One \(Monster & Infinity\)](https://open.spotify.com/track/5b841RC6QkaHVh4tS3lQ3n) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [One \(Monster & Infinity\)](https://open.spotify.com/album/5wU4xXNezMOiVhBZDx5cSM) | 3:41 | 2020-10-13\* | 2021-01-18 |
 | [ONE AND A HALF](https://open.spotify.com/track/0yfhVon5XPlCRYNihFIUwu) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [ONE AND A HALF](https://open.spotify.com/album/1JcWNzQIdI3hbCfWbH4Sib) | 3:29 | 2022-09-08 | 2022-11-09 |
 | [One Day](https://open.spotify.com/track/5TvzBJWwU6L1MaWYcpVdx3) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [One Day](https://open.spotify.com/album/2rfrtvdyqwMHPLrwUnqMQA) | 4:55 | 2024-02-07 | 2024-03-29 |
-| [One Day](https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Ms\. Incognito, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/60T71YohZmrn0ibsHHFc8W) | 3:29 | 2025-10-20 |  |
+| [One Day](https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Ms\. Incognito, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/60T71YohZmrn0ibsHHFc8W) | 3:29 | 2025-10-20 | 2025-11-13 |
 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 | 2022-09-08 | 2023-03-07 |
 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 | 2023-02-14 | 2023-04-14 |
 | [ONE MORE TIME](https://open.spotify.com/track/2HGAKzcfEtMfbM2ssgiKez) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [ONE MORE TIME](https://open.spotify.com/album/5o3vgo7t4tTTCVh9zSptML) | 3:07 | 2023-08-03 | 2023-09-12 |
@@ -1310,6 +1311,7 @@
 | [THUNDERSTORM](https://open.spotify.com/track/0O0NPdO8h33Ozg0Nek9qCx) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [THUNDERSTORM](https://open.spotify.com/album/2f4hAw0CgoiPWhlSd26dZF) | 3:06 | 2025-07-21 | 2025-08-21 |
 | [TIC TAC](https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [8TURNRISE](https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ) | 3:22 | 2023-02-06 | 2023-07-28 |
 | [Tie a Cherry](https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:10 | 2021-10-30 | 2022-01-13 |
+| [Tiger](https://open.spotify.com/track/0gNPZeBRc7Yal1BlDKc8we) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Unit Digital Single \[Tiger\]](https://open.spotify.com/album/3ld4YGGgl5gLB0rfkm20ma) | 2:52 | 2025-11-12 |  |
 | [Tiger Inside](https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [Tiger Inside](https://open.spotify.com/album/38FEnRZ38L0fyCZjaV0wxm) | 3:29 | 2020-10-13\* | 2021-03-10 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-11-19 | 2022-01-13 |
 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 | 2025-05-26 | 2025-07-16 |
@@ -1424,7 +1426,7 @@
 | [What You Waiting For](https://open.spotify.com/track/1Gw2MVjOeA29OIwt4k7PZ4) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/1JN6jZ6tFqVojR27UZc9QB) | 2:55 | 2020-10-13\* | 2020-11-05 |
 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2025-08-18 | 2025-10-21 |
 | [WHAT'S GOIN' ON](https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Single Album \[WHAT'S GOIN' ON\]](https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z) | 3:11 | 2021-09-10 | 2021-10-28 |
-| [What's wrong?](https://open.spotify.com/track/1NbVPLRPIqXL11QR61HBe9) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [NEW CHAPTER : DESEAR](https://open.spotify.com/album/7ExEpivtdJXCf5laAeA0Go) | 3:46 | 2025-10-14 |  |
+| [What's wrong?](https://open.spotify.com/track/1NbVPLRPIqXL11QR61HBe9) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [NEW CHAPTER : DESEAR](https://open.spotify.com/album/7ExEpivtdJXCf5laAeA0Go) | 3:46 | 2025-10-14 | 2025-11-13 |
 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 | 2025-03-12 | 2025-04-22 |
 | [When Dawn Comes Again](https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again](https://open.spotify.com/album/0qUXhzokHrK2wzei5UYBuM) | 4:00 | 2021-08-05 | 2021-10-06 |
 | [When Night Is Falling](https://open.spotify.com/track/3skyeuj2qNbbIuAP3Gv2dz) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [When Night Is Falling](https://open.spotify.com/album/3nOIsILeko2meMblKEGYZw) | 3:23 | 2021-07-14 | 2021-09-07 |
@@ -1465,6 +1467,7 @@
 | [WooAh HIP](https://open.spotify.com/track/4DKDfm5OLW1dIOEAH76Zmg) | [MAMADOL](https://open.spotify.com/artist/4RYQvLQe6W9FuaLp3x8hob) | [MAMA THE IDOL](https://open.spotify.com/album/5vcF3WhSZFnDO6oL1A4VNR) | 3:10 | 2022-01-31 | 2022-04-09 |
 | [WOULD YOU RUN](https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [VENI VIDI VICI](https://open.spotify.com/album/3mQBrnm5x439zf6Fa5Zhic) | 3:24 | 2021-10-13 | 2021-12-02 |
 | [X](https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [X](https://open.spotify.com/album/4j6uSkOxQV2KKuSiGOQCHD) | 4:15 | 2021-01-21 | 2021-05-05 |
+| [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 | 2025-11-12 |  |
 | [XL \(Extra Love\)](https://open.spotify.com/track/1Y8oXmmSDbwkR66oUoI5ow) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [WILD CHERRY](https://open.spotify.com/album/2OIILMeURtf3clsCHQqGqj) | 2:38 | 2025-07-31 | 2025-09-11 |
 | [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 | 2025-08-26 | 2025-10-14 |
 | [Xtra](https://open.spotify.com/track/4btftV9aaDSaw0sPBr5VsZ) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [ReviveR](https://open.spotify.com/album/2M9w0Fjim2sLzuFj0EZ4l8) | 3:00 | 2021-07-02 | 2021-08-11 |

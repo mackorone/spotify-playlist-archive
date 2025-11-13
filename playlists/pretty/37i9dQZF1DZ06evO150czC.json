@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22619,
+  "num_followers": 22621,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACZ/Bt1aOH3VK+3gLvoFaE6",
+  "snapshot_id": "aRJ8gAAAAADUkaolqoSjXmtWzJf65HOU",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Desisto",
-        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
       "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 299788,
-      "name": "N\u00e3o Desisto",
-      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
+      "duration_ms": 265032,
+      "name": "T\u00fa \u00c9s Adorado",
+      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
     },
     {
       "added_at": null,
@@ -819,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+        "name": "N\u00e3o Desisto",
+        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
       },
       "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 265032,
-      "name": "T\u00fa \u00c9s Adorado",
-      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
+      "duration_ms": 299788,
+      "name": "N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
     },
     {
       "added_at": null,

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: James Reid
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,365 likes - 158 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,422 likes - 158 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Monster](https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:00 |
-| 2 | [Paruparo](https://open.spotify.com/track/0waZh26XErLP0Za4Dgc3T0) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Paruparo](https://open.spotify.com/album/7saibhKLxGgujJBDXjUCzg) | 3:31 |
-| 3 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 |
-| 4 | [tagu\-taguan](https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N) | [koreen](https://open.spotify.com/artist/7MNdmQhP0mLlgttXasvEH6), [geo](https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd) | [tagu\-taguan](https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x) | 3:40 |
-| 5 | [You Deserve It!](https://open.spotify.com/track/4G4BPh9ESJ6qFQLcrzghic) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [You Deserve It!](https://open.spotify.com/album/0koTalvdyimyaKXLcvkgE6) | 3:06 |
-| 6 | [Hirap Aminin](https://open.spotify.com/track/0kgUhEf0mifj4qTMKiUxqD) | [Cuatro](https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0) | [Hirap Aminin](https://open.spotify.com/album/3OKMDzqfbeUCCBtvAwWgTz) | 4:27 |
+| 1 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 |
+| 2 | [Diwa](https://open.spotify.com/track/1gbrKuaixnhfgy9ZiAxlyd) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Diwa](https://open.spotify.com/album/3vz2skJN2kk5DUrjpVVZLN) | 3:11 |
+| 3 | [tagu\-taguan](https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N) | [koreen](https://open.spotify.com/artist/7MNdmQhP0mLlgttXasvEH6), [geo](https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd) | [tagu\-taguan](https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x) | 3:40 |
+| 4 | [You Deserve It!](https://open.spotify.com/track/4G4BPh9ESJ6qFQLcrzghic) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [You Deserve It!](https://open.spotify.com/album/0koTalvdyimyaKXLcvkgE6) | 3:06 |
+| 5 | [Hirap Aminin](https://open.spotify.com/track/0kgUhEf0mifj4qTMKiUxqD) | [Cuatro](https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0) | [Hirap Aminin](https://open.spotify.com/album/3OKMDzqfbeUCCBtvAwWgTz) | 4:27 |
+| 6 | [Monster](https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:00 |
 | 7 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |
 | 8 | [sayo lang](https://open.spotify.com/track/589sRoAc07OF2Xdx1ANFl1) | [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [sayo lang](https://open.spotify.com/album/6Fz2E4MzBZYyZ8Vn64FStn) | 3:21 |
-| 9 | [Usad](https://open.spotify.com/track/2bOxIrFLLniNEsog54cXU9) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Usad](https://open.spotify.com/album/1SLopDZ1pJhcByy6WH1irA) | 4:08 |
-| 10 | [Ikaw Lagi](https://open.spotify.com/track/3USJfZzJ3TwIQyXqbkFOmd) | [ALYSON](https://open.spotify.com/artist/0TkeMndS0mrWcPcQzbfIp5) | [Ikaw Lagi](https://open.spotify.com/album/4gLUT2vvF4Hx64G7xtbskK) | 3:54 |
-| 11 | [La Loba](https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [La Loba](https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp) | 3:32 |
-| 12 | [ako naman muna](https://open.spotify.com/track/5A8SptsfoUXm7VG9SKYq2c) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [ako naman muna](https://open.spotify.com/album/3IEwCyyO2u3pcyTgX4FKeQ) | 3:04 |
-| 13 | [Talulot](https://open.spotify.com/track/1ZsLM9dWw9EsBRTpkTa9Op) | [Julia Daniel](https://open.spotify.com/artist/2hfnHpR7irs4c3gJxdRT0F) | [Talulot](https://open.spotify.com/album/3BpYVwzpUcc0AbF01GVSVv) | 3:33 |
-| 14 | [Paru\-Paro](https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:21 |
-| 15 | [Diwa](https://open.spotify.com/track/1gbrKuaixnhfgy9ZiAxlyd) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Diwa](https://open.spotify.com/album/3vz2skJN2kk5DUrjpVVZLN) | 3:11 |
+| 9 | [Paruparo](https://open.spotify.com/track/0waZh26XErLP0Za4Dgc3T0) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Paruparo](https://open.spotify.com/album/7saibhKLxGgujJBDXjUCzg) | 3:31 |
+| 10 | [La Loba](https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [La Loba](https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp) | 3:32 |
+| 11 | [Talulot](https://open.spotify.com/track/1ZsLM9dWw9EsBRTpkTa9Op) | [Julia Daniel](https://open.spotify.com/artist/2hfnHpR7irs4c3gJxdRT0F) | [Talulot](https://open.spotify.com/album/3BpYVwzpUcc0AbF01GVSVv) | 3:33 |
+| 12 | [Paru\-Paro](https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:21 |
+| 13 | [ako naman muna](https://open.spotify.com/track/5A8SptsfoUXm7VG9SKYq2c) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [ako naman muna](https://open.spotify.com/album/3IEwCyyO2u3pcyTgX4FKeQ) | 3:04 |
+| 14 | [Usad](https://open.spotify.com/track/2bOxIrFLLniNEsog54cXU9) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Usad](https://open.spotify.com/album/1SLopDZ1pJhcByy6WH1irA) | 4:08 |
+| 15 | [Ikaw Lagi](https://open.spotify.com/track/3USJfZzJ3TwIQyXqbkFOmd) | [ALYSON](https://open.spotify.com/artist/0TkeMndS0mrWcPcQzbfIp5) | [Ikaw Lagi](https://open.spotify.com/album/4gLUT2vvF4Hx64G7xtbskK) | 3:54 |
 | 16 | [Clue](https://open.spotify.com/track/0R0xWFl985bNVIaiClLdL1) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Clue](https://open.spotify.com/album/4lMySm4UlZmdnawXJCC2AO) | 2:27 |
 | 17 | [Bye 3x](https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx) | [Bye 3x](https://open.spotify.com/album/17UjsMHzFxuETWRC7mkpon) | 2:56 |
 | 18 | [Umpisa \(feat\. Adie\)](https://open.spotify.com/track/54zafUdXhsrckhrBF4PmmP) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Umpisa \(feat\. Adie\)](https://open.spotify.com/album/5qbTwrsFiPT80sfCGd2tgW) | 3:15 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 157 | [Tina](https://open.spotify.com/track/3h44D1XQCCtte7wtJJ9jyT) | [Ren Bugash](https://open.spotify.com/artist/5KuDdMpdzVoH8hRnxKOKlj) | [Tina](https://open.spotify.com/album/2JA1bALgbEnecph30pm1bc) | 3:33 |
 | 158 | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/track/0EhqzN5m29ghtmCiAojESv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Kapwa Ko Ay Alay](https://open.spotify.com/album/30TTzRYxVEhPpi1Rokp5T3) | 4:31 |
 
-Snapshot ID: `AAAAAOg5dp88K72TPAX8FyMTxnyuiCYc`
+Snapshot ID: `AAAAAPw2wFB/IAbDgLY06Zj9hh+VRr8L`

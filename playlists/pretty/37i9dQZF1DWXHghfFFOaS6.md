@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,964 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,019 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 58 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
 | 59 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 60 | [Walk That Walk, Talk That Talk](https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Cosmic Vortex \(Justice Divine\)](https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52) | 7:50 |
-| 61 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
-| 62 | [Life In Paradise](https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 7:00 |
+| 61 | [Life In Paradise](https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 7:00 |
+| 62 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
 | 63 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
 | 64 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 65 | [Looking up to You](https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P) | [Made in Sweden](https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y) | 3:54 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 82 | [Web of Deception](https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 4:32 |
 | 83 | [Mr\. Jeckle](https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW) | [Max Beesley's High Vibes](https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd) | [The Acid Jazz Collection: Jazz](https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc) | 4:04 |
 | 84 | [Take Four](https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM) | [The Quiet Boys](https://open.spotify.com/artist/6iYeCjvRYeWPSp5LjaiIMt) | [Bosh!](https://open.spotify.com/album/2HbZzv8puv4OrDL90MluOh) | 3:33 |
-| 85 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 |
-| 86 | [The Sun \)](https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw), [Elson Nascimento \(of Sun Ra Arkestra\)](https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn) | [The Sun \)](https://open.spotify.com/album/0c7qsiBET91icyneq7KccE) | 2:56 |
+| 85 | [The Sun \)](https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw), [Elson Nascimento \(of Sun Ra Arkestra\)](https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn) | [The Sun \)](https://open.spotify.com/album/0c7qsiBET91icyneq7KccE) | 2:56 |
+| 86 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 |
 | 87 | [Silver Rings](https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA) | [New Street Adventure](https://open.spotify.com/artist/6JEgSTui49GrTS57INox42), [Nick Corbin](https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg) | [Silver Rings](https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl) | 2:58 |
 | 88 | [Crazy That You Love](https://open.spotify.com/track/3aNpDqzNSONgd2wJA8iBLx) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Crazy That You Love](https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf) | 3:29 |
 | 89 | [Broken Biscuits](https://open.spotify.com/track/0CVX6UKcZkfS2vGrqbQKXI) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Nadya Albertsson](https://open.spotify.com/artist/5Tth72I5bVVp0ndOMDnu3A) | [Broken Biscuits](https://open.spotify.com/album/4RWrAbKH3H9J3oAQLwFL8B) | 6:17 |

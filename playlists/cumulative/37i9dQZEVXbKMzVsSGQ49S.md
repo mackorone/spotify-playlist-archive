@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-3,015 songs - 6 day 15 hr 46 min
+3,016 songs - 6 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 | 2023-05-26 | 2023-05-28 |
 | [Count Me Out](https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:43 | 2022-05-14 | 2022-05-16 |
 | [Coupe](https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:03 | 2021-07-18 | 2021-07-22 |
-| [Cowboy Killer](https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cowboy Killer](https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT) | 3:35 | 2025-11-01 |  |
+| [Cowboy Killer](https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cowboy Killer](https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT) | 3:35 | 2025-11-01 | 2025-11-13 |
 | [COZY](https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:30 | 2022-07-30 | 2022-08-01 |
 | [Cozy Rain & Thunder, Pt\. 05](https://open.spotify.com/track/1OtZ14K3gp1SUqZOawm7Nq) | [Sleep Candy Music](https://open.spotify.com/artist/1kHsvrOyX2P8n8BETScmqc) | [Cozy Window Rain & Thunder](https://open.spotify.com/album/5JpbdAIFt4PuCcGAIule1P) | 0:31 | 2022-10-17 | 2022-10-19 |
 | [Crackle of Fear](https://open.spotify.com/track/5FJ4SDGMFCvHoQWMoMpkDo) | [France3c0](https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3) | [Młody Francesco](https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv) | 0:32 | 2025-08-16 | 2025-08-23 |
@@ -636,7 +636,7 @@
 | [Draumurinn](https://open.spotify.com/track/54zQcBTXpfox7Zf2jRA1MU) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [1000 orð](https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT) | 3:39 | 2024-06-01 | 2024-06-06 |
 | [Dream](https://open.spotify.com/track/2DBEeJtfesP6YiWFIBLLNr) | [ASPEN](https://open.spotify.com/artist/4nsimrcTQCVaH3IMBjLgfH), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Dream](https://open.spotify.com/album/55QOkGHSlGHC83G7JxBSI5) | 2:15 | 2025-10-08 | 2025-10-10 |
 | [Dreamer](https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:30 | 2023-09-12 | 2024-02-08 |
-| [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2023-10-22 | 2025-11-07 |
+| [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2023-10-22 |  |
 | [drekinn](https://open.spotify.com/track/0jICTbBGqZs9zWI9HvTsb7) | [Lil Binni](https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3) | [þjóðþekktur einstaklingur í valdastöðu](https://open.spotify.com/album/1gv02EfUkvWstrxyDpUM6P) | 1:53 | 2022-04-21 | 2022-04-25 |
 | [Drepa þunglyndið](https://open.spotify.com/track/1J4k6PG7K4c4JILhuUb0wk) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Ljós og skuggar](https://open.spotify.com/album/6NyxqE7BTQI1QXLWTcDB3Q) | 4:00 | 2023-10-14 | 2023-10-19 |
 | [Drew A Picasso](https://open.spotify.com/track/03rwnftfgpYVO6QDWOZcG6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:22 | 2023-10-07 | 2023-10-09 |
@@ -755,7 +755,7 @@
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-06-04 |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-12-30 | 2023-02-05 |
 | [Esjan](https://open.spotify.com/track/1LEUwmlojezBSXQBgMzYcI) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Esjan](https://open.spotify.com/album/6AsfBRKtzvgtdi8RLPqk2q) | 4:12 | 2021-07-16 | 2022-05-25 |
-| [Esjan](https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Esjan](https://open.spotify.com/album/1aQhp34AVKnJr5KR7ehLGU) | 4:12 | 2022-06-06 |  |
+| [Esjan](https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Esjan](https://open.spotify.com/album/1aQhp34AVKnJr5KR7ehLGU) | 4:12 | 2022-06-06 | 2025-11-13 |
 | [Esjan](https://open.spotify.com/track/7DRDJ5ZzU7mj7CfRxGYzOY) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Esjan](https://open.spotify.com/album/1Disuvfz373W1w061taAPW) | 4:14 | 2021-03-27\* | 2021-07-16 |
 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-09-28 | 2025-02-23 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-18 | 2024-09-29 |
@@ -2303,6 +2303,7 @@
 | [Stack It Up](https://open.spotify.com/track/2kRx2UcFYN1H7We2ezKnCz) | [JAMS The Flava Child](https://open.spotify.com/artist/5fksTbgLoeE6E0oGWYoYYX) | [Stack It Up](https://open.spotify.com/album/3iDWqDTl6CfAa3M2ZOCPq9) | 2:44 | 2023-08-08 | 2023-08-12 |
 | [Stalker](https://open.spotify.com/track/1mZSrlBNXIPkokOSdS748o) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [1000 orð](https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT) | 3:37 | 2024-06-01 | 2024-06-10 |
 | [Stand On It](https://open.spotify.com/track/26Hgx0810XUis01XWvoftB) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:46 | 2022-10-15 | 2022-10-17 |
+| [Standing My Ground](https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd) | [Matthew Mettias](https://open.spotify.com/artist/4ucQ2IJMrnXJ17ntrWXiqh) | [Standing My Ground](https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5) | 3:23 | 2025-11-12 |  |
 | [STANDING ON BUSINESS](https://open.spotify.com/track/5YiIOND9ZK72GaknWgiGqh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Druski](https://open.spotify.com/artist/4QXUDhKn7oIyfnaNEBkrkY) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 0:50 | 2025-07-12 | 2025-07-14 |
 | [Stara](https://open.spotify.com/track/0tYaRDuezyg9NutATewnZx) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [International Superstars](https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX) | 3:19 | 2025-07-24 | 2025-08-04 |
 | [Stara](https://open.spotify.com/track/1wsHXAu7flPD93VcynB0U4) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [Stara](https://open.spotify.com/album/33lQUgEpLZ3eFp6pYCgbog) | 3:19 | 2025-02-21 | 2025-07-25 |

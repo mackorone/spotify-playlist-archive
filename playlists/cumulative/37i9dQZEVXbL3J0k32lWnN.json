@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 161287,
       "name": "100 Dage",
       "url": "https://open.spotify.com/track/54WSNfT05On5JHcr43kbYn"
@@ -14604,7 +14604,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/7sUvmhKZF9VVZLKXqTIp0x"
@@ -18373,6 +18373,24 @@
     },
     {
       "album": {
+        "name": "hun m\u00e6rker aldrig smerten.",
+        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
+      },
+      "artists": [
+        {
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160105,
+      "name": "hun m\u00e6rker aldrig smerten.",
+      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -20260,7 +20278,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 164585,
       "name": "igen & igen",
       "url": "https://open.spotify.com/track/2Ikfha5EGyRU9TML7oi8zz"
@@ -23180,7 +23198,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 170986,
       "name": "Kongespil - Tinka og Kongespillet",
       "url": "https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH"
@@ -27154,7 +27172,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"

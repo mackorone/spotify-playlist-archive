@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAWs7wOubYkG/BZTHNVggz/",
+  "snapshot_id": "aRJ8gAAAAAAz1l5SMkBRvdV7WDqkn7BC",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senti",
-        "url": "https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "DESI TRILL",
-          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
-        }
-      ],
-      "duration_ms": 173222,
-      "name": "Senti",
-      "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yellow Lights (Alex Grey Remix)",
         "url": "https://open.spotify.com/album/2ZPDOybfMgH1ylU1UHbtnk"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 170255,
       "name": "Yellow Lights - Alex Grey Remix",
       "url": "https://open.spotify.com/track/24j5At5CXjL9J0zKDDieIu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senti",
+        "url": "https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "DESI TRILL",
+          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
+        }
+      ],
+      "duration_ms": 173222,
+      "name": "Senti",
+      "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muscle Memory",
         "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 191538,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/1eLwmw8qLHaZQaJ0Rp3ySy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Four More Shots Please! Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 134800,
       "name": "Killin It",
       "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Know It All",
+        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 263575,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 145804,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Know It All",
-        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "Know It All",
-      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
     },
     {
       "added_at": null,

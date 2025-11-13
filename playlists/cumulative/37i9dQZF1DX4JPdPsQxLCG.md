@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-512 songs - 1 day 8 hr 25 min
+513 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 | 2024-04-19 | 2025-08-22 |
 | [5 Days in May \- 2012 Remaster](https://open.spotify.com/track/5AIcpQ7JFM3DZju7bPqb8t) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 7:14 | 2022-05-02 | 2023-10-14 |
 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 | 2025-10-17 |  |
-| [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2024-05-31 |  |
+| [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2024-05-31 | 2025-11-13 |
 | [99 Nights](https://open.spotify.com/track/1Bypyv9ERflkpxne0dZMBW) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/4bpKVnI4OEz0Akg57pTPIk) | 2:56 | 2023-06-23 | 2023-08-28 |
 | [99 Nights](https://open.spotify.com/track/2CpSEwJjikij3tzfZm41Wz) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/0XHQPzrts66Pi4kfZLKkdV) | 2:56 | 2024-04-19 | 2025-07-25 |
 | [99 Nights](https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:56 | 2023-08-25 | 2024-04-19 |
@@ -84,6 +84,7 @@
 | [Capital C](https://open.spotify.com/track/63uu2Px8EBJ3P4wBidbqZy) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Capital C](https://open.spotify.com/album/7jPTQfu31KK6ENmcixwt3c) | 4:19 | 2025-01-03 | 2025-08-01 |
 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 | 2024-04-19 |  |
 | [Carefree Highway](https://open.spotify.com/track/59EupkPF0AA5nu0qDo5FlK) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:42 | 2023-10-06 | 2023-10-14 |
+| [Chinatown In The Rain](https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM) | [Rohin](https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs) | [As The Light Fades](https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb) | 3:56 | 2025-09-19 |  |
 | [Closer To The Heart](https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [A Farewell To Kings](https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2) | 2:51 | 2022-05-02 | 2023-05-19 |
 | [Closer To The Heart](https://open.spotify.com/track/3TrY8OdO07yXMolVPKoL85) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [A Farewell To Kings](https://open.spotify.com/album/6pMUUpDYKdHkEs0RpHl1Sl) | 2:54 | 2022-05-02 | 2022-07-29 |
 | [Closer Together](https://open.spotify.com/track/3xsZZhP8Q1JZ4btwadfurT) | [The Box](https://open.spotify.com/artist/7LLohXFeep6w0G0MkIgf0s) | [Closer Together](https://open.spotify.com/album/1a5n54LZOKoGnm4yC9zhUN) | 3:51 | 2022-05-02 | 2022-07-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: allie x
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,122 likes - 77 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,138 likes - 77 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

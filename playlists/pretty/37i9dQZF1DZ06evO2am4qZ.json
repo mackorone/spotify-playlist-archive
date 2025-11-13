@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACMcv2ZpX3vHaipj0jPJ8Mm",
+  "snapshot_id": "aRJ8gAAAAAANKGyi1y1KDDqu9U6oow6h",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 142175,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "added_at": null,
@@ -831,30 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS Deluxe",
-        "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        },
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        }
-      ],
-      "duration_ms": 262832,
-      "name": "Mean Girl (feat. Queen Key & Asian Doll)",
-      "url": "https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 209577,
       "name": "Dirty Girl (with Baby Tate)",
       "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRLS Deluxe",
+        "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "duration_ms": 262832,
+      "name": "Mean Girl (feat. Queen Key & Asian Doll)",
+      "url": "https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 192057,
+      "name": "Don\u2019t Even Think About It (with Baby Tate)",
+      "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nasty (Remix)",
         "url": "https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 247680,
       "name": "Nasty - Remix",
       "url": "https://open.spotify.com/track/2vyg7GnDSTYQQr0KbvLPvI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192057,
-      "name": "Don\u2019t Even Think About It (with Baby Tate)",
-      "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
     },
     {
       "added_at": null,

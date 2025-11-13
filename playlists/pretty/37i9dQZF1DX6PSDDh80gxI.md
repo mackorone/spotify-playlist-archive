@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Venerus
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,878 likes - 72 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,870 likes - 72 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

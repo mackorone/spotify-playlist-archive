@@ -4,7 +4,7 @@
 
 > für deinen soft morning \- oder eine kleine Auszeit zwischendurch.
 
-268 songs - 13 hr 37 min
+270 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7) | 3:13 | 2024-09-13 | 2025-04-03 |
 | [AIRTAG](https://open.spotify.com/track/5ddhivmvWu0Ft4rOv3CVKM) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [AIRTAG](https://open.spotify.com/album/00kvXB7htLlMijYjFQth8w) | 2:24 | 2024-08-19 | 2024-10-12 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2025-04-02 | 2025-10-10 |
-| [All I Need](https://open.spotify.com/track/47mdw0YsbAEyPpe5dulVBu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Callon](https://open.spotify.com/artist/73afBsrDXvflTAOhuYujsQ) | [All I Need](https://open.spotify.com/album/5UNyRx2qwHdzDy6LTt3B0n) | 2:22 | 2025-06-04 |  |
+| [All I Need](https://open.spotify.com/track/47mdw0YsbAEyPpe5dulVBu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Callon](https://open.spotify.com/artist/73afBsrDXvflTAOhuYujsQ) | [All I Need](https://open.spotify.com/album/5UNyRx2qwHdzDy6LTt3B0n) | 2:22 | 2025-06-04 | 2025-11-13 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-11-27 | 2025-03-26 |
 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-08-29 | 2025-10-10 |
 | [All The Love That I Ever Needed](https://open.spotify.com/track/3iRzKwxzeAiyCnSjrjVCGx) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Who We Used To Be \(Deluxe\)](https://open.spotify.com/album/2aURKhuptoXbOAzoDth1BK) | 3:17 | 2024-06-20 | 2024-08-08 |
@@ -57,6 +57,7 @@
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2025-04-14 | 2025-04-26 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-06-04 |  |
 | [Closer](https://open.spotify.com/track/35AWeeZGaT8nCKkVf7rQmd) | [Roe Byrne](https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg) | [Closer](https://open.spotify.com/album/03XAOkwEI7rnKTeZH2YVbJ) | 2:52 | 2025-05-22 |  |
+| [Closer To Me](https://open.spotify.com/track/6A5Y0hB4SGK9MCCkJJXAWm) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Closer To Me](https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK) | 2:46 | 2025-11-12 |  |
 | [Cold](https://open.spotify.com/track/18WbzHfUTnPK1lcDNgMnO0) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Cold](https://open.spotify.com/album/5SNJQ7BeKc43k8Cdb3KlSM) | 2:24 | 2025-10-16 |  |
 | [Coming Home \(California\)](https://open.spotify.com/track/5wh6M6rmdoIeVGlOLqGnFG) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Coming Home \(California\)](https://open.spotify.com/album/2WBb1JxNC599eu8ruG6mgk) | 2:31 | 2024-06-20 | 2024-07-23 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-07-10 | 2025-07-11 |
@@ -86,7 +87,7 @@
 | [FICKA](https://open.spotify.com/track/1LbccDWO37QQUaRvoI2LjV) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [FICKA](https://open.spotify.com/album/6BBSxME0Np4bvCc3MtAEvE) | 2:24 | 2025-04-25 |  |
 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 | 2024-06-20 | 2024-11-14 |
 | [Flatline](https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Flatline](https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw) | 2:45 | 2025-09-25 | 2025-11-08 |
-| [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 | 2024-09-06 |  |
+| [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 | 2024-09-06 | 2025-11-13 |
 | [Fly](https://open.spotify.com/track/36BeMqxR7q254G08CemQ8L) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Fly](https://open.spotify.com/album/2rTDXdAyl0MkYaF0XpUHz4) | 2:44 | 2025-02-19 | 2025-08-02 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-30 | 2024-12-19 |
 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 | 2024-06-20 | 2024-10-04 |
@@ -129,6 +130,7 @@
 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 | 2024-06-20 | 2024-08-03 |
 | [I'd Rather Pretend](https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [VANITY](https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g) | 3:04 | 2024-08-07 | 2024-11-28 |
 | [I'm Still Here](https://open.spotify.com/track/42QSbLEWLo0RhXG7hwwpdF) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [I'm Still Here](https://open.spotify.com/album/0z4QvnPCIs6WlseyZoaW8Y) | 2:59 | 2025-02-27 | 2025-08-30 |
+| [ich vermisse dich.](https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [ich vermisse dich.](https://open.spotify.com/album/713VKMSzMLRzFwxU01dUJ9) | 2:39 | 2025-11-12 |  |
 | [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 | 2025-09-12 |  |
 | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/track/7cAH8MvS4629IUVVdcMAbB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/album/4X3Qq0xjXGarrm8gdKOc49) | 2:59 | 2025-05-22 |  |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-06-20 | 2024-09-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Alex Ferreira en portada.",
-  "num_followers": 147,
+  "num_followers": 154,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Las De Infante",
-        "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
-      },
-      "artists": [
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 157473,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/5o0NpJ8lJqcdiIIpeZPP6u"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "todas las veces",
         "url": "https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 170794,
       "name": "todas las veces",
       "url": "https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Las De Infante",
+        "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
+      },
+      "artists": [
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 157473,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/5o0NpJ8lJqcdiIIpeZPP6u"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Good Luck, Good Night",
-        "url": "https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 261139,
-      "name": "Good Luck, Good Night",
-      "url": "https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "la mala racha",
         "url": "https://open.spotify.com/album/0vVykKWkLEiGjJ1RpvUNBK"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 188279,
       "name": "la mala racha",
       "url": "https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Good Luck, Good Night",
+        "url": "https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 261139,
+      "name": "Good Luck, Good Night",
+      "url": "https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "No Te Vayas Sin Saber",
-        "url": "https://open.spotify.com/album/7EP6fqNBUnJcjNirm8UwOJ"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 224829,
-      "name": "No Te Vayas Sin Saber",
-      "url": "https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Pastillas Pa Dormir",
         "url": "https://open.spotify.com/album/5eSkjglgh218yOdKOyKU9r"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 185242,
       "name": "Pastillas Pa Dormir",
       "url": "https://open.spotify.com/track/4q0nJgk3gCtBZInE3UNWuE"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "No Te Vayas Sin Saber",
+        "url": "https://open.spotify.com/album/7EP6fqNBUnJcjNirm8UwOJ"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 224829,
+      "name": "No Te Vayas Sin Saber",
+      "url": "https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Lila Alel\u00ed",
-        "url": "https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 205767,
-      "name": "Lila Alel\u00ed",
-      "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "No me Importa",
         "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 177000,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Lila Alel\u00ed",
+        "url": "https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "Lila Alel\u00ed",
+      "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
-        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
-      },
-      "artists": [
-        {
-          "name": "Pambo",
-          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
-        }
-      ],
-      "duration_ms": 212326,
-      "name": "Fondo",
-      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
+        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
+      },
+      "artists": [
+        {
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+        }
+      ],
+      "duration_ms": 212326,
+      "name": "Fondo",
+      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Escrib\u00ed Esto para Ti",
+        "url": "https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K"
+      },
+      "artists": [
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "Ya Vali\u00f3",
+      "url": "https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
         "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Escrib\u00ed Esto para Ti",
-        "url": "https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K"
-      },
-      "artists": [
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
-        }
-      ],
-      "duration_ms": 180998,
-      "name": "Ya Vali\u00f3",
-      "url": "https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1123,6 +1123,22 @@
       "duration_ms": 213959,
       "name": "Sed de Acci\u00f3n - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "tu foto x ah\u00ed",
+        "url": "https://open.spotify.com/album/0KoyYy8BP8bTg1UmMQRw2b"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 156244,
+      "name": "tu foto x ah\u00ed",
+      "url": "https://open.spotify.com/track/0iVaOOMUWOOLXJMlExbFxZ"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1167,34 +1183,18 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "tu foto x ah\u00ed",
-        "url": "https://open.spotify.com/album/0KoyYy8BP8bTg1UmMQRw2b"
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
         }
       ],
-      "duration_ms": 156244,
-      "name": "tu foto x ah\u00ed",
-      "url": "https://open.spotify.com/track/0iVaOOMUWOOLXJMlExbFxZ"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Canci\u00f3n de Cuna Para mi Amor",
-        "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Canci\u00f3n de Cuna Para mi Amor",
-      "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
+      "duration_ms": 168000,
+      "name": "Buenos Aires",
+      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Buenos Aires",
-        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
+        "name": "Canci\u00f3n de Cuna Para mi Amor",
+        "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
       },
       "artists": [
         {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Buenos Aires",
-      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
+      "duration_ms": 138000,
+      "name": "Canci\u00f3n de Cuna Para mi Amor",
+      "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
     },
     {
       "added_at": "2025-10-24 06:00:21",

@@ -4,10 +4,11 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-340 songs - 20 hr 6 min
+342 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10,000km \(feat\. Solji\)](https://open.spotify.com/track/1Xq0CyUtWqrp0yUjBXAQ5O) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [10,000km \(feat\. Solji\)](https://open.spotify.com/album/27yy7zw3D4htunqLVFr1Ku) | 3:03 | 2025-11-12 |  |
 | [2022 Monthly Yoon June \- You're Different \(with MINSEO\)](https://open.spotify.com/track/7HPGPdO2c24RWkn1gVDKmA) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [2022 Monthly Yoon June \- You're Different](https://open.spotify.com/album/4ogb9e2IGS9Bvw4j5e3bc6) | 4:32 | 2022-07-04 | 2022-07-29 |
 | [28k LOVE!!](https://open.spotify.com/track/1udqJr6D9UDqW7gsLAUhq5) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:33 | 2024-07-09 | 2024-12-02 |
 | [A moment with you](https://open.spotify.com/track/0gVYpQ8WwiOwTzeI5wn7F0) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [The Queen Who Crowns OST Part.4](https://open.spotify.com/album/676bv8XJFYQU1OKqgp0QrP) | 3:24 | 2025-07-22 | 2025-08-13 |
@@ -29,6 +30,7 @@
 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 | 2023-02-24 | 2025-02-09 |
 | [Baby I told you](https://open.spotify.com/track/27PvuEGJGW91wrP5q3khDD) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [Baby I told you](https://open.spotify.com/album/4RfQ0urMKBfgd7XF8iQNxc) | 2:44 | 2022-05-11 | 2022-07-22 |
 | [Baby You And I](https://open.spotify.com/track/1yCuTECzS92bV5eMNgiY3t) | [강동훈](https://open.spotify.com/artist/0MpKG6kiILpu3fku0uKeHz) | [Daydream](https://open.spotify.com/album/2iHFF5PYkEPPv64M9fSBvr) | 4:10 | 2022-06-20 | 2022-07-12 |
+| [BBUU!](https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ) | 2:52 | 2025-11-12 |  |
 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 | 2022-05-11 |  |
 | [Be there](https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa) | [Ikki](https://open.spotify.com/artist/1PbvNmIOnL1ZJgNvxUpomb) | [Be there](https://open.spotify.com/album/7AWQVSj3AYCK7kBdrf5ICJ) | 3:19 | 2022-07-04 | 2022-07-26 |
 | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/track/4mXANk6U0t0NbrMQCoRNEs) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/album/0ly98tyVLAitL5zpHF8SAF) | 3:36 | 2022-05-11 | 2022-07-21 |
@@ -188,7 +190,7 @@
 | [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-04-30 | 2025-07-01 |
 | [my lover \(feat\. 은민\)](https://open.spotify.com/track/201PUPfhf0z90GtofD31Xj) | [K\. Flower](https://open.spotify.com/artist/4fl5iU2GyOJDqtIOVgch5l), [은민](https://open.spotify.com/artist/3GsFLow1FEq1uQffS9BTsL) | [my lover](https://open.spotify.com/album/2BjLpq4YMjocXjx0jvWZpL) | 3:09 | 2025-07-29 | 2025-09-18 |
 | [MY OCEAN](https://open.spotify.com/track/7hRHXvvVKgPHIml5Semtor) | [Jeong Young Eun](https://open.spotify.com/artist/2XX6AOq6HuYXNj4l9FQTJ1) | [MY OCEAN](https://open.spotify.com/album/5YhzIq7UftXN1fwluhNgXV) | 3:49 | 2022-05-11 | 2022-06-26 |
-| [My Type](https://open.spotify.com/track/0LneWe04rG9uxBdG2wCwW7) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Spirit Fingers OST Part.2](https://open.spotify.com/album/5suZDUgKpWNhT2EIrTiRRw) | 3:04 | 2025-11-04 |  |
+| [My Type](https://open.spotify.com/track/0LneWe04rG9uxBdG2wCwW7) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Spirit Fingers OST Part.2](https://open.spotify.com/album/5suZDUgKpWNhT2EIrTiRRw) | 3:04 | 2025-11-04 | 2025-11-13 |
 | [No Make Up](https://open.spotify.com/track/3PWyoYwI4iHLnLWltMt4gd) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No Make Up](https://open.spotify.com/album/6I102GJy7jhQjDVH3I51gq) | 3:09 | 2022-05-11 | 2022-07-28 |
 | [No Make Up](https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No Make Up](https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd) | 3:09 | 2022-07-08 | 2024-04-19 |
 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-18 | 2022-07-29 |
@@ -258,7 +260,7 @@
 | [Sweet Song](https://open.spotify.com/track/7rZVym9mGVu92qWEOxmIOo) | [BEANSPROUT](https://open.spotify.com/artist/7st05gbuYzlcwzPxdXJgDm) | [NONOL VOL 61\. BEANSPROUT ' Sweet Song '](https://open.spotify.com/album/3YQTMVq4fvciyLmNi0VYEm) | 3:29 | 2025-05-27 | 2025-06-05 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-25 | 2024-06-29 |
 | [Sweether](https://open.spotify.com/track/3cDPmgGMkuwPhegO63xFmk) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Repetition 반복](https://open.spotify.com/album/7f9Vp95wnMxVxNFVMCYHD4) | 3:50 | 2022-05-11 | 2022-07-29 |
-| [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 | 2024-07-15 |  |
+| [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 | 2024-07-15 | 2025-11-13 |
 | [take it slow](https://open.spotify.com/track/0zUOz6vZkVr9J0ygqGoNym) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [Luckypink4ever](https://open.spotify.com/artist/1fyOzgarGTgvI0KWIeou7Z) | [take it slow](https://open.spotify.com/album/2du2AQcU3VPBuFmX0htj1I) | 3:00 | 2024-03-08 | 2024-08-31 |
 | [Take it To the Grave](https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Take it To the Grave](https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A) | 3:26 | 2022-08-01 | 2022-09-19 |
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-11 |  |

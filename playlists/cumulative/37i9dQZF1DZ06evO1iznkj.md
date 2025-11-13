@@ -117,7 +117,7 @@
 | [whatsapp \(wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [whatsapp \(wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-05 | 2024-05-19 |
 | [whatsapp \(wassam\)](https://open.spotify.com/track/6LAicOLiCrHw0bmaLBDbC8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:28 | 2024-05-20 | 2024-07-22 |
 | [Who You Foolin](https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 2:31 | 2023-11-10 |  |
-| [won't stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [won't stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-15 |  |
+| [won't stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [won't stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-15 | 2025-11-13 |
 | [WUNNA](https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:38 | 2023-11-10 | 2025-08-13 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

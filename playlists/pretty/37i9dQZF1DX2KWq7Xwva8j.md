@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: céro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,003 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,005 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 9 | [L'amor de la meva vida](https://open.spotify.com/track/0tWGoYoA7PrlVEmeeg1x9D) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [23](https://open.spotify.com/album/6Daob9kYjEsRSnRO1NO04Z) | 2:36 |
 | 10 | [Pobre Niña](https://open.spotify.com/track/4NfF3seaFD7lnt6DzkNNl6) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Pobre Niña](https://open.spotify.com/album/5VR94RHabT9bOR87JEkzON) | 2:42 |
 | 11 | [escribiendo TKM](https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [escribiendo TKM](https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO) | 2:25 |
-| 12 | [Monster Truck](https://open.spotify.com/track/7nFx5bPzPKrZAves575jcP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Monster Truck](https://open.spotify.com/album/4j3HF2JuYjn2YclTjm6662) | 3:01 |
+| 12 | [Infancia Mal Calibrada](https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Infancia Mal Calibrada](https://open.spotify.com/album/58guaRgiN85BmxlHXzAYmT) | 3:28 |
 | 13 | [BRILLO EN LOS DIENTES](https://open.spotify.com/track/6pwVgTHKcg1K6RHcVqk5Dt) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [BRILLO EN LOS DIENTES](https://open.spotify.com/album/2X2D3xdb5dpFn87CS8onNQ) | 2:18 |
 | 14 | [LOKURA](https://open.spotify.com/track/2ceTylNropN8MsY6BqE5R7) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [LOKURA](https://open.spotify.com/album/5vQmgNAlnp04oqkimTY9mX) | 2:26 |
 | 15 | [Paloma Blanca](https://open.spotify.com/track/1oi48eToAddcIsSL5m8CVh) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Paloma Blanca](https://open.spotify.com/album/7IHiXQms4DlksORY5sMnYu) | 3:21 |
 | 16 | [UNA MINA](https://open.spotify.com/track/6kvT7hk6YQ2okbUvl208iN) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [DE LA MAÑANA A LA NOCHE](https://open.spotify.com/album/3DbWFNtuLrPUhVszto2fCz) | 2:29 |
-| 17 | [Infancia Mal Calibrada](https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Infancia Mal Calibrada](https://open.spotify.com/album/58guaRgiN85BmxlHXzAYmT) | 3:28 |
+| 17 | [Monster Truck](https://open.spotify.com/track/7nFx5bPzPKrZAves575jcP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Monster Truck](https://open.spotify.com/album/4j3HF2JuYjn2YclTjm6662) | 3:01 |
 | 18 | [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 |
 | 19 | [M'oblido d'oblidar\-te](https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [M'oblido d'oblidar\-te](https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2) | 2:50 |
 | 20 | [ENSÉÑAME EL AMOR](https://open.spotify.com/track/3PQ897UeSWPuKeSzVn148Z) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:33 |

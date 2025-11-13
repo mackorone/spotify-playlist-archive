@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 102104,
+  "num_followers": 102132,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAB23fh6ah57RltSDWpG8jwN",
+  "snapshot_id": "aRJ8gAAAAAAkhwN6pT+h/Pzub9sbbuoF",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 192459,
-      "name": "Nosedive (Feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nice To Meet You (feat. Lainey Wilson)",
         "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 192459,
+      "name": "Nosedive (Feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (Legendary Edition)",
-        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 205509,
-      "name": "I Wrote You A Song (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
         "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 226753,
       "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
       "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 205509,
+      "name": "I Wrote You A Song (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
     },
     {
       "added_at": null,

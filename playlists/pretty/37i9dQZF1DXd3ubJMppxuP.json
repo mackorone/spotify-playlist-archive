@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84642,
+  "num_followers": 84656,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "De Hut Verbouwen (Dr. Rude Remix)",
+        "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
+      },
+      "artists": [
+        {
+          "name": "Vieze Jack",
+          "url": "https://open.spotify.com/artist/14VHCbKz3ITlGgh8Ozni2L"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 180676,
+      "name": "De Hut Verbouwen - Dr. Rude Remix",
+      "url": "https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Van God Los (Official 2025 Kamping Kitsch Club Anthem)",
         "url": "https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL"
       },
@@ -979,22 +999,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "De Hut Verbouwen (Dr. Rude Remix)",
-        "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
+        "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
+        "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
       },
       "artists": [
         {
-          "name": "Vieze Jack",
-          "url": "https://open.spotify.com/artist/14VHCbKz3ITlGgh8Ozni2L"
+          "name": "CV De W\u00e8ggooiers",
+          "url": "https://open.spotify.com/artist/2pXq4tP6lC5FmBYeUyjgwS"
         },
         {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+          "name": "Matt Ardeo",
+          "url": "https://open.spotify.com/artist/1dDxFgX25Bxk6JchWaqTSa"
+        },
+        {
+          "name": "Partytigers",
+          "url": "https://open.spotify.com/artist/6ql49n8DVN6ghKusnXqsbM"
         }
       ],
-      "duration_ms": 180676,
-      "name": "De Hut Verbouwen - Dr. Rude Remix",
-      "url": "https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645"
+      "duration_ms": 171200,
+      "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
+      "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -1075,30 +1099,6 @@
       "duration_ms": 162000,
       "name": "Het Allerlaatste Rondje",
       "url": "https://open.spotify.com/track/1tNFA1UmvXzGDfmXrbdOQH"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
-        "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
-      },
-      "artists": [
-        {
-          "name": "CV De W\u00e8ggooiers",
-          "url": "https://open.spotify.com/artist/2pXq4tP6lC5FmBYeUyjgwS"
-        },
-        {
-          "name": "Matt Ardeo",
-          "url": "https://open.spotify.com/artist/1dDxFgX25Bxk6JchWaqTSa"
-        },
-        {
-          "name": "Partytigers",
-          "url": "https://open.spotify.com/artist/6ql49n8DVN6ghKusnXqsbM"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
-      "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
     }
   ],
   "unique_name": "Nederlandse Hardstyle",

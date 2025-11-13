@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2364,
+  "num_followers": 2365,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAdl45jZ7fKgZswGti4Jxfu",
+  "snapshot_id": "aRJ8gAAAAAAqPyVBtLDcGVr0A+c/rirl",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fue Suerte",
-        "url": "https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Galvancillo",
-          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "No Fue Suerte",
-      "url": "https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Casa Siempre Gana",
         "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 140820,
       "name": "GPI - Remix",
       "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "No Fue Suerte",
+      "url": "https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Frente",
+        "url": "https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 118335,
+      "name": "Humildemente",
+      "url": "https://open.spotify.com/track/4sfU8na5xesLs1ugBKPcqd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Romeo y Julieta",
         "url": "https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS"
       },
@@ -491,42 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Frente",
-        "url": "https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 118335,
-      "name": "Humildemente",
-      "url": "https://open.spotify.com/track/4sfU8na5xesLs1ugBKPcqd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Levemente Live Sessions",
         "url": "https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 177194,
       "name": "El Pariente - En Vivo",
       "url": "https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusto El Estilo",
-        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Perfil SS",
-          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Nos Gusto El Estilo",
-      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA Live Session",
         "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 205237,
       "name": "Que Hice Mal",
       "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nos Gusto El Estilo",
+        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Perfil SS",
+          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Nos Gusto El Estilo",
+      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
     },
     {
       "added_at": null,

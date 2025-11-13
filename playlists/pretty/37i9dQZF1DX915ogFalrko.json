@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 182588,
+  "num_followers": 182596,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "The Express",
         "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 202480,
       "name": "Anything You Want - Not That",
       "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -731,6 +731,30 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
+        "name": "Incredibly Blind (feat. X-Cetra)",
+        "url": "https://open.spotify.com/album/39ofopEoieuFM7zHvsdpKy"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "X-Cetra",
+          "url": "https://open.spotify.com/artist/0Z7bG1GbifD6EC0QrsmARs"
+        }
+      ],
+      "duration_ms": 144829,
+      "name": "Incredibly Blind (feat. X-Cetra)",
+      "url": "https://open.spotify.com/track/4Ui0BmcYIgCF3rWQPBGtl3"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -767,30 +791,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Incredibly Blind (feat. X-Cetra)",
-        "url": "https://open.spotify.com/album/39ofopEoieuFM7zHvsdpKy"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "X-Cetra",
-          "url": "https://open.spotify.com/artist/0Z7bG1GbifD6EC0QrsmARs"
-        }
-      ],
-      "duration_ms": 144829,
-      "name": "Incredibly Blind (feat. X-Cetra)",
-      "url": "https://open.spotify.com/track/4Ui0BmcYIgCF3rWQPBGtl3"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 300666,
       "name": "Come and Get Your Love",
       "url": "https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
-      },
-      "artists": [
-        {
-          "name": "Lou Doillon",
-          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -839,22 +823,18 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "El Bueno Y El Malo",
-        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Lou Doillon",
+          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+      "duration_ms": 166080,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -879,6 +859,26 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Two of Diamonds",
-        "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
-      },
-      "artists": [
-        {
-          "name": "Mick Harvey",
-          "url": "https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Out of Time Man",
-      "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "What Will We Be (Standard)",
         "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 185786,
       "name": "Baby",
       "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Two of Diamonds",
+        "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
+      },
+      "artists": [
+        {
+          "name": "Mick Harvey",
+          "url": "https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Out of Time Man",
+      "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Sacatela",
         "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Lake Tear of the Clouds",
         "url": "https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 222490,
       "name": "Man On My Mind",
       "url": "https://open.spotify.com/track/2NRapgmqFRRnflBV7p9ZzT"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "P.S I Love You",
-        "url": "https://open.spotify.com/album/0rOSkVbGUhgFTrpRJL6vqn"
+        "name": "Swear",
+        "url": "https://open.spotify.com/album/0sACc500qALRTNO2l0yvUS"
       },
       "artists": [
         {
-          "name": "bob junior",
-          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
-        },
-        {
-          "name": "Evan Klar",
-          "url": "https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2"
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
         }
       ],
-      "duration_ms": 176562,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/1RSn4iuoSFtw1K8VvWmzcn"
+      "duration_ms": 148880,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/0AXK5URrriXUx3gf8PtQB9"
     }
   ],
   "unique_name": "D\u00eener entre amis",

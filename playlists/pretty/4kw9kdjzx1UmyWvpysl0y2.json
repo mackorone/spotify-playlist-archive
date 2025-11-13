@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124795,
+  "num_followers": 124796,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUyyBQ5EfDR5UtL+bXHEsLp5k30QV4",
+  "snapshot_id": "AAAUzY4nm9WBFDmTHNBxU15SaSjF+iMi",
   "tracks": [
+    {
+      "added_at": "2025-11-12 15:37:03",
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE"
+    },
+    {
+      "added_at": "2025-11-12 15:37:14",
+      "album": {
+        "name": "Snowglobe",
+        "url": "https://open.spotify.com/album/3olphOfuxOVH6cV9IEIUfA"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Snowglobe",
+      "url": "https://open.spotify.com/track/6UJJQojiWeKnlKJqvMZVPr"
+    },
     {
       "added_at": "2025-11-10 16:43:26",
       "album": {

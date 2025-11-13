@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Jaakko Kulta.",
-  "num_followers": 26479,
+  "num_followers": 26482,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-11-06 22:01:08",
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "added_at": "2025-11-06 22:01:08",
+      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
@@ -1311,26 +1327,6 @@
       "duration_ms": 211960,
       "name": "SPEED DEMON",
       "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
-    },
-    {
-      "added_at": "2025-11-06 22:01:08",
-      "album": {
-        "name": "Messy (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 179055,
-      "name": "Messy (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
     },
     {
       "added_at": "2025-11-06 22:01:08",
@@ -1355,6 +1351,26 @@
     {
       "added_at": "2025-11-06 22:01:08",
       "album": {
+        "name": "Messy (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 179055,
+      "name": "Messy (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
+    },
+    {
+      "added_at": "2025-11-06 22:01:08",
+      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 266021,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
-    },
-    {
-      "added_at": "2025-11-06 22:01:08",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2025-11-06 22:01:08",

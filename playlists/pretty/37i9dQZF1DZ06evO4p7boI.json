@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95932,
+  "num_followers": 95929,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABJJB7eIOTNR7q2zE4Ei458",
+  "snapshot_id": "aRJ8gAAAAADT0iID6aCp/UNkgQeSBlAP",
   "tracks": [
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "NAV",
+      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Misery Loves Company",
         "url": "https://open.spotify.com/album/4So2cgWi3q7Ieb9ItvC8TY"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 166644,
       "name": "Power Of A Dollar Interlude",
       "url": "https://open.spotify.com/track/6karkMKGimOzHXzR5ib5td"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "NAV",
-      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
     },
     {
       "added_at": null,

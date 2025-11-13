@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "Slumber Forest Rains",
+        "url": "https://open.spotify.com/album/6YTC7nMo6cjcGazCdYJij5"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180841,
+      "name": "Slumber Forest Rains",
+      "url": "https://open.spotify.com/track/74DMBHu6P73kImixxvlMFN"
+    },
+    {
+      "album": {
         "name": "Mystic Forest Flow",
         "url": "https://open.spotify.com/album/7egQQWJKYpZD9xGbhV4re5"
       },
@@ -2376,7 +2394,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 212000,
       "name": "Wet Leaves",
       "url": "https://open.spotify.com/track/167TgOFpMob0vFh5yvTCqM"

@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -13396,7 +13396,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -18858,7 +18858,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "\u51e1\u661f",
       "url": "https://open.spotify.com/track/07Y64md8ePTQuheCFhdlDZ"
@@ -24824,6 +24824,24 @@
       "duration_ms": 248228,
       "name": "\u904a\u6a02\u5834",
       "url": "https://open.spotify.com/track/1N2OEC9c5RzlNeI8x6l8M3"
+    },
+    {
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245664,
+      "name": "\u9060\u5728\u773c\u524d",
+      "url": "https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc"
     },
     {
       "album": {

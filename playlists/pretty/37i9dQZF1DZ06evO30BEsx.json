@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1754,
+  "num_followers": 1756,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABTJEqPXmPleBaxb/R7KqZo",
+  "snapshot_id": "aRJ8gAAAAAAw/ec9+XYXYPg/k9EcPYLY",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belli: T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
+        "url": "https://open.spotify.com/album/0f2oCCwQkp4SLKghExzPF2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
+      "url": "https://open.spotify.com/track/7dv6WvK413GDS9322npcfM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destination Paris",
         "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 256786,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7ke8Pw7yEqbGtgmoGiw4PD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belli: T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
-        "url": "https://open.spotify.com/album/0f2oCCwQkp4SLKghExzPF2"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
-      "url": "https://open.spotify.com/track/7dv6WvK413GDS9322npcfM"
     },
     {
       "added_at": null,
@@ -1163,26 +1163,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to School - Classics for Studying",
-        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Quenton Blache",
+          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/5LmlfG9wHLv7YT3cx4SKXr"
+      "duration_ms": 230880,
+      "name": "Of Wind and Rain",
+      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
     },
     {
       "added_at": null,
@@ -1207,6 +1207,30 @@
       "duration_ms": 162600,
       "name": "La chanson d\u2019H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back to School - Classics for Studying",
+        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 82306,
+      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/5LmlfG9wHLv7YT3cx4SKXr"
     },
     {
       "added_at": null,
@@ -1239,58 +1263,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensations - La vie en rose",
-        "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
-      },
-      "artists": [
-        {
-          "name": "Louiguy",
-          "url": "https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
-        }
-      ],
-      "duration_ms": 264013,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ga\u00efa",
         "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
       "artists": [
         {
-          "name": "Quenton Blache",
-          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
+          "name": "Nico Muhly",
+          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 230880,
-      "name": "Of Wind and Rain",
-      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
+      "duration_ms": 205280,
+      "name": "Side Piece",
+      "url": "https://open.spotify.com/track/0Kh8QH6UKrLCXwTL7zQ4yA"
     },
     {
       "added_at": null,
@@ -1327,26 +1319,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Prelude\" - Smooth Music to Relax",
-        "url": "https://open.spotify.com/album/730Up82NNpqAUkVC5gN6OX"
+        "name": "Sensations - La vie en rose",
+        "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Louiguy",
+          "url": "https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 91093,
-      "name": "Bach, JS: The Well-Tempered Clavier, Book I, Prelude and Fugue No. 5 in D Major, BWV 850: Prelude (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/3y4QmqlRsihdxeneueiq1i"
+      "duration_ms": 264013,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

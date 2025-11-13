@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Litty & C.O.S.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,091 likes - 93 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,130 likes - 93 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 14 | [FR WIFI](https://open.spotify.com/track/53KgUEleZumOJqpyLYYZmF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FR WIFI](https://open.spotify.com/album/68Xc6nf9ZXXuGllxaANgIa) | 2:02 |
 | 15 | [Summertime Freestyle ’25 \(feat\. Campanella\) \- Remix](https://open.spotify.com/track/3f6V7L0cQ285G8r7hivwqu) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [Summertime Freestyle ’25 \(feat\. Campanella\) \[Remix\]](https://open.spotify.com/album/4kqCj74Thj25tE7E3MnvSi) | 3:40 |
 | 16 | [upright](https://open.spotify.com/track/6HCrjm56Lx0etHLvIFJXIA) | [NEI](https://open.spotify.com/artist/1TxxPD6FTYXeDfzdGDG5my), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [upright](https://open.spotify.com/album/6WMbHFEbFH9fAEOmY6d5ge) | 3:45 |
-| 17 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/7fTXmRaHT8PVQs2GSHJEr5) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
+| 17 | [この街](https://open.spotify.com/track/78QP0s0aIDU7oxdxXHlEvE) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [この街](https://open.spotify.com/album/4so3JXt9CEWwvDC3RO6ZrU) | 3:08 |
 | 18 | [En](https://open.spotify.com/track/5SSdq2MbNNRj2y9ARtJy39) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [En](https://open.spotify.com/album/1FCSx8jrCJd4OHvywqVg40) | 2:34 |
 | 19 | [Dear Friends \(feat\. Shuto, Miyauchi & dengaryu\)](https://open.spotify.com/track/3mKjSJfHlLzuKUQTLYWa4V) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Shuto](https://open.spotify.com/artist/25LbZVdqAdvceFjT5kSjIH), [Miyauchi](https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Dear Friends \(feat\. Shuto, Miyauchi & dengaryu\)](https://open.spotify.com/album/52qL8YELixUNGobelet4df) | 3:29 |
 | 20 | [Blood In My Hood](https://open.spotify.com/track/0liqMNwIAWrP0R8FNmiimd) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Blood In My Hood](https://open.spotify.com/album/58eNZah36Wsn5QLD95HQxH) | 3:17 |

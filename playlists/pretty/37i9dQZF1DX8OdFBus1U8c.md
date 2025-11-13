@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  ThirumaLi and ThudWiser
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,184 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,198 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 3 | [LOOP](https://open.spotify.com/track/5HBGCNfzYXxHFqu8gytiQz) | [Sabir Madar](https://open.spotify.com/artist/3UgFcGF26HKS5VS3UOcrE0), [KAVO](https://open.spotify.com/artist/3L1XNhFQg1AoukeJy6uKIW) | [LOOP](https://open.spotify.com/album/15WDfZzEuwoEGzd1RdKfst) | 2:54 |
 | 4 | [Aruma Santhathi](https://open.spotify.com/track/6Jbdw0K4nyqRBa6pb2aUWY) | [DEEKSHIT](https://open.spotify.com/artist/7miIHhEBUMrBukzdFwIe64) | [Aruma Santhathi](https://open.spotify.com/album/5M0nhMjMgKWIixPYafT4IS) | 2:47 |
 | 5 | [Aranjanam](https://open.spotify.com/track/09tXVU5id0Uylj4Mf0tzUH) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ) | [Unlocked](https://open.spotify.com/album/3nCoiyURCn1QyROxH6hrIw) | 3:31 |
-| 6 | [KALYANI](https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/69ASYa7jGPmRASsTR2YCoA), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [KALYANI](https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF) | 3:54 |
+| 6 | [KALYANI](https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [KALYANI](https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF) | 3:54 |
 | 7 | [Poothindeynu \- From "Saina Music Indie"](https://open.spotify.com/track/4oTx9D5mbM5YkVBPJfVO8l) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Poothindeynu \(From "Saina Music Indie"\)](https://open.spotify.com/album/0rr3DQ3pKCOPekDS4w5faS) | 2:58 |
 | 8 | [Moham](https://open.spotify.com/track/4sT5Nq1aJDKagw6mUNLhv8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Moham](https://open.spotify.com/album/2Cjd2k8SVeJnh6A0uNuLKA) | 3:56 |
 | 9 | [Kumbasaram](https://open.spotify.com/track/1rtcehXn9onhPTVp8XKzYw) | [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp) | [Kumbasaram](https://open.spotify.com/album/7dO2REa29voaurU6CVAbnt) | 3:11 |

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165830,
+  "num_followers": 165843,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Innocence 2025",
         "url": "https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 201299,
       "name": "Bringing the pain",
       "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 212671,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Stop & Search",
         "url": "https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202858,
       "name": "Stop & Search",
       "url": "https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Arctic",
-        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        }
-      ],
-      "duration_ms": 146371,
-      "name": "Arctic",
-      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/4RCXmMIMNSRZZauSVHjSkw"
       },
@@ -987,22 +967,22 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
       },
       "artists": [
         {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         },
         {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
+      "duration_ms": 146371,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1023,6 +1003,26 @@
       "duration_ms": 210642,
       "name": "Dutty",
       "url": "https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 205517,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1gewxLCOFAUMimCaClzZEc"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "Yapa Yapa (Shut It Pls)",
         "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 205517,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1gewxLCOFAUMimCaClzZEc"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/3KVezVSkQD5E4l4sMVZEKm"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 208457,
       "name": "Voices",
       "url": "https://open.spotify.com/track/542RuKAa7204eeEjbAm9Vh"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Champion Ting / Mouse Trap",
+        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Champion Ting",
+      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1515,22 +1531,6 @@
       "duration_ms": 266057,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
-        "name": "Champion Ting / Mouse Trap",
-        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Champion Ting",
-      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
     },
     {
       "added_at": "2025-10-23 23:00:20",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-10-23 23:00:20",
       "album": {
-        "name": "Pelican",
-        "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
-      },
-      "artists": [
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Pelican",
-      "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
-    },
-    {
-      "added_at": "2025-10-23 23:00:20",
-      "album": {
         "name": "99 Octane",
         "url": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 180147,
       "name": "99 Octane",
       "url": "https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ"
+    },
+    {
+      "added_at": "2025-10-23 23:00:20",
+      "album": {
+        "name": "Pelican",
+        "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
     },
     {
       "added_at": "2025-10-23 23:00:20",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 162724,
+  "num_followers": 162732,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACDjszJWQwrw7snBYbLyZnY",
+  "snapshot_id": "aRJ8gAAAAADNOrNAhhcc1EDWcGH3NXl8",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Bajka",
-          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
         }
       ],
-      "duration_ms": 309546,
-      "name": "Nightlite",
-      "url": "https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP"
+      "duration_ms": 223720,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
     },
     {
       "added_at": null,
@@ -163,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
         }
       ],
-      "duration_ms": 223720,
-      "name": "Second Sun",
-      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
+      "duration_ms": 309546,
+      "name": "Nightlite",
+      "url": "https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP"
     },
     {
       "added_at": null,
@@ -199,38 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
@@ -251,6 +219,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 318600,
-      "name": "The Plug",
-      "url": "https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz"
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+      "duration_ms": 318600,
+      "name": "The Plug",
+      "url": "https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz"
     },
     {
       "added_at": null,
@@ -343,38 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 259839,
-      "name": "We Could Forever",
-      "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
@@ -395,6 +363,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 259839,
+      "name": "We Could Forever",
+      "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
@@ -411,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
       "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 408960,
-      "name": "Black Sands",
-      "url": "https://open.spotify.com/track/6uoM7KHsyJsHZqBQHKjQbc"
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     },
     {
       "added_at": null,
@@ -447,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
       "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+      "duration_ms": 408960,
+      "name": "Black Sands",
+      "url": "https://open.spotify.com/track/6uoM7KHsyJsHZqBQHKjQbc"
     },
     {
       "added_at": null,

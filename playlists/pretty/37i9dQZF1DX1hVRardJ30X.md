@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko, ROSALÍA, Blessd and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,013 likes - 56 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,065 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

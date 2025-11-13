@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40729,
+  "num_followers": 40737,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAANEB0+8lQGq+7FqT0BrsYl",
+  "snapshot_id": "aRJ8gAAAAAAmtCdMYUjl0R/V4yypHbhC",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00c3O VAMOS DESISTIR",
+        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "N\u00c3O VAMOS DESISTIR",
+      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00c3O VAMOS DESISTIR",
-        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 245920,
-      "name": "N\u00c3O VAMOS DESISTIR",
-      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
     },
     {
       "added_at": null,

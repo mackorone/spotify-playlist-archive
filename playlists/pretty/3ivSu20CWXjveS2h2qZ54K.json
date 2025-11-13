@@ -6,8 +6,24 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADJMyAL+QacE5ySkgslVfMrHaURQD+E",
+  "snapshot_id": "AADJNFdCIF4lCftRfjzOoA9kbkrdFTol",
   "tracks": [
+    {
+      "added_at": "2025-11-12 18:50:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+    },
     {
       "added_at": "2025-11-06 23:19:33",
       "album": {

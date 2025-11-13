@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Miloolaathetlukken
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,805 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,786 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 44 | [Sorry](https://open.spotify.com/track/7wV8sONt6OG6T2bMSCDVND) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Sorry](https://open.spotify.com/album/0Y9LjUTsriu5AwD64aJEE9) | 2:25 |
 | 45 | [Drugsdealers & Scammers](https://open.spotify.com/track/6MUfZV19IJgXbDEEujlKo4) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Drugsdealers & Scammers](https://open.spotify.com/album/0gf1TRAXRYbKNFWug1ssuz) | 2:34 |
 | 46 | [Introvert](https://open.spotify.com/track/1e6FeZgKeUOhZ7jXQ0J7yn) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Vrijspel](https://open.spotify.com/album/2VGSxA5QMA7Kz7T7ugTYzi) | 3:29 |
-| 47 | [Laatste Bericht](https://open.spotify.com/track/4q45RErPte0Hxe03YSh4fM) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Laatste Bericht](https://open.spotify.com/album/0b4a1WKptVwvqtMgt56WHu) | 3:03 |
+| 47 | [LAATSTE BERICHT](https://open.spotify.com/track/4q45RErPte0Hxe03YSh4fM) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [LAATSTE BERICHT](https://open.spotify.com/album/0b4a1WKptVwvqtMgt56WHu) | 3:03 |
 | 48 | [Ballie](https://open.spotify.com/track/66rXMEm5GJsAXEbhuLks50) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Ballie](https://open.spotify.com/album/55umMdwSFkqtjvJfktDi8K) | 2:53 |
 | 49 | [Samen](https://open.spotify.com/track/5JDJJg4o6uk33oxpI7pPby) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Samen](https://open.spotify.com/album/3i9c8XGcU8cEVwyF8MMiny) | 2:51 |
 | 50 | [Jus d’Orange](https://open.spotify.com/track/0sNlD2ghk6jQX0vhhMSnIc) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Jus d’Orange](https://open.spotify.com/album/2eg03f8XRz79sEFoSrv44v) | 4:24 |

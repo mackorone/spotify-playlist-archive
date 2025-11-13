@@ -4,7 +4,7 @@
 
 > 💯 Suomi\.  Kannessa Senya.
 
-1,041 songs - 2 day 1 hr 29 min
+1,042 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Annan sul vähän](https://open.spotify.com/track/4l7tL4uh91FBb10tVzZOuX) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Annan sul vähän](https://open.spotify.com/album/4mbVbPGSUpkNJjNmY5BSBj) | 2:37 | 2024-05-23 | 2024-09-13 |
 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 | 2024-11-28 | 2025-02-21 |
 | [Anteeks \(feat\. Fabe\)](https://open.spotify.com/track/3Ac9v4pFJyTlMc5ZCDWuZ6) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Anteeks \(feat\. Fabe\)](https://open.spotify.com/album/7xuvRuxXjOzepUrtfnoQCr) | 2:40 | 2024-02-08 | 2024-04-19 |
-| [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 | 2025-10-30 |  |
+| [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 | 2025-10-30 | 2025-11-13 |
 | [Armi ja Danny](https://open.spotify.com/track/1HMe4X4mVkfrLR6WTAxP4C) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [München](https://open.spotify.com/album/7e3B2rQiznomLKgLpkgNTg) | 2:51 | 2024-05-16 | 2024-07-02 |
 | [Armoo](https://open.spotify.com/track/3FyvJmR0jH2Xqy1KGBjzyP) | [Ainty](https://open.spotify.com/artist/5aUZAXbicTE1Q29666xC8U), [Kapu](https://open.spotify.com/artist/1o4XlgF854Y2FBMCfSc0FI) | [Armoo](https://open.spotify.com/album/78obkta6yQ7DmxsoJ7nUvD) | 3:02 | 2023-12-14 | 2024-01-05 |
 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 | 2024-11-28 | 2025-02-28 |
@@ -579,6 +579,7 @@
 | [Motion](https://open.spotify.com/track/3teVYJtKx0RynxcYr5Uwq5) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Motion](https://open.spotify.com/album/1TFdVr0nYuJCvP1bdyZzBT) | 2:53 | 2025-05-29 | 2025-06-27 |
 | [Mowgli](https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Mowgli](https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO) | 2:16 | 2024-07-25 | 2024-08-30 |
 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 | 2025-08-21 | 2025-10-31 |
+| [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 | 2025-11-12 |  |
 | [Ms\. Bad](https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ms\. Bad](https://open.spotify.com/album/0zA9UqxUrEQ2NpI9LkzsdZ) | 3:00 | 2025-07-10 | 2025-09-19 |
 | [Muija on ku kone](https://open.spotify.com/track/4H3tZOuDW6SQsexjO45nYe) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Muija on ku kone](https://open.spotify.com/album/18aAtK2ZIO8KXjf1COHs2S) | 2:35 | 2023-11-02 | 2023-12-01 |
 | [Muija on näläs](https://open.spotify.com/track/7Maax6CVfXC29rUyed8qS5) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Muija on näläs](https://open.spotify.com/album/0p3Aaw80uddWeuHo66Q0cs) | 3:22 | 2025-10-23 |  |

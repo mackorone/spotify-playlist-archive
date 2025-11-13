@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1604554,
+  "num_followers": 1604593,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -471,22 +475,18 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
-        "name": "Tell Me Why (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
       },
       "artists": [
         {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Tell Me Why - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Barmuda",
-          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
-        }
-      ],
-      "duration_ms": 267812,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
       },
@@ -1375,6 +1355,26 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "duration_ms": 267812,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
+    },
+    {
+      "added_at": "2025-11-07 05:00:48",
+      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2025-11-07 05:00:48",
+      "album": {
+        "name": "before you go",
+        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "before you go",
+      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -1423,22 +1439,6 @@
       "duration_ms": 314462,
       "name": "Blink",
       "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
-        "name": "before you go",
-        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
-      },
-      "artists": [
-        {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "before you go",
-      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
         "name": "Blue Symphony",
         "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 203225,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+    },
+    {
+      "added_at": "2025-11-07 05:00:48",
+      "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 184615,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
+    },
+    {
+      "added_at": "2025-11-07 05:00:48",
+      "album": {
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -1823,30 +1823,6 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
-        "name": "Burning (Carry You Home)",
-        "url": "https://open.spotify.com/album/2KUDNUsOEO18XUwqDjV5QG"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
-        },
-        {
-          "name": "Hallasen",
-          "url": "https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Burning (Carry You Home)",
-      "url": "https://open.spotify.com/track/2kI63t8OaH7dB2R9n6dkGs"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
@@ -1911,6 +1887,30 @@
     {
       "added_at": "2025-11-07 05:00:48",
       "album": {
+        "name": "Burning (Carry You Home)",
+        "url": "https://open.spotify.com/album/2KUDNUsOEO18XUwqDjV5QG"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "Hallasen",
+          "url": "https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Burning (Carry You Home)",
+      "url": "https://open.spotify.com/track/2kI63t8OaH7dB2R9n6dkGs"
+    },
+    {
+      "added_at": "2025-11-07 05:00:48",
+      "album": {
         "name": "Start A Fire",
         "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
       },
@@ -1927,26 +1927,6 @@
       "duration_ms": 217523,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
-    },
-    {
-      "added_at": "2025-11-07 05:00:48",
-      "album": {
-        "name": "Love Shop",
-        "url": "https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26"
-      },
-      "artists": [
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        }
-      ],
-      "duration_ms": 211273,
-      "name": "Love Shop",
-      "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
     },
     {
       "added_at": "2025-11-07 05:00:48",
@@ -1971,6 +1951,26 @@
       "duration_ms": 185629,
       "name": "Surrender Your Love - Progressive Edit",
       "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
+    },
+    {
+      "added_at": "2025-11-07 05:00:48",
+      "album": {
+        "name": "Love Shop",
+        "url": "https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        }
+      ],
+      "duration_ms": 211273,
+      "name": "Love Shop",
+      "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
     },
     {
       "added_at": "2025-11-07 05:00:48",

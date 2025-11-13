@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.",
-  "num_followers": 5381,
+  "num_followers": 5380,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 217715,
+      "name": "Ni T\u00fa Ni Yo - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3SGYaD6fFdjAKdju5LM2p1"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "Barbie - Spotify Singles (feat. FARIANA)",
         "url": "https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 169424,
       "name": "Barbie - Spotify Singles (feat. FARIANA)",
       "url": "https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 217715,
-      "name": "Ni T\u00fa Ni Yo - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3SGYaD6fFdjAKdju5LM2p1"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "La HP - Spotify Singles",
-        "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
-      },
-      "artists": [
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 186780,
-      "name": "La HP - Spotify Singles",
-      "url": "https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 170163,
       "name": "Prende el Arbolito - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "La HP - Spotify Singles",
+        "url": "https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 186780,
+      "name": "La HP - Spotify Singles",
+      "url": "https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv"
     },
     {
       "added_at": "2024-11-07 00:01:00",

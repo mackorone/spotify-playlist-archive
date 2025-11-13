@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,211 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,550 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 14 | [Baby, It's Cold Outside \(feat\. Meghan Trainor\)](https://open.spotify.com/track/3iLuRYqDqqTalagFbUfv6j) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 2:53 |
 | 15 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5bxpZZWMs6MJ7JzBFGvS1T) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 4:13 |
 | 16 | [This Christmas](https://open.spotify.com/track/6u0tR14iJ6OS3NyeRhcG2M) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:32 |
-| 17 | [Nothin' For Christmas \(With William Beckmann\)](https://open.spotify.com/track/22YXydOtMbEUcluspU4Bop) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [A Cherry Valley Holiday](https://open.spotify.com/album/1lIm3hPlnIpqA0Lii3n9Tu) | 2:46 |
+| 17 | [Nothin' For Christmas](https://open.spotify.com/track/22YXydOtMbEUcluspU4Bop) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [A Cherry Valley Holiday](https://open.spotify.com/album/1lIm3hPlnIpqA0Lii3n9Tu) | 2:46 |
 | 18 | [Please Come Home For Christmas](https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 5:03 |
 | 19 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 |
 | 20 | [It Must Be Christmas](https://open.spotify.com/track/5RS5bZyibXXrYZQX5IO4cu) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [It Must Be Christmas](https://open.spotify.com/album/5qOU1WzKaITOYxjtwZAgaZ) | 3:31 |

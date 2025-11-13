@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,754 likes - 33 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,753 likes - 33 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 32 | [Follow Me Here \- Demo](https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:44 |
 | 33 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 |
 
-Snapshot ID: `aRErAAAAAACC+fTq8Lyr/WYmaBMYee/S`
+Snapshot ID: `aRJ8gAAAAACqdTSJDmwoSTYTXYtpsgtG`

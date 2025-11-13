@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek! Omslag: Eloff
 
-353 songs - 19 hr 33 min
+354 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Ek Sal Nie Bang Wees Nie](https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Ek Sal Nie Bang Wees Nie](https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ) | 4:44 | 2025-09-18 |  |
 | [Ek Sweer](https://open.spotify.com/track/6jA89tKOtMVp6cN6shxyS5) | [Twee](https://open.spotify.com/artist/2NMYjNoIZYEfAGICUHwaGG) | [Piekniek Vir Twee](https://open.spotify.com/album/4cBLgMiHPVdnF9UkRpkBBH) | 3:38 | 2025-11-10 |  |
 | [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 | 2023-06-30 |
-| [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 | 2024-10-10 | 2025-11-11 |
+| [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 | 2024-10-10 |  |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 | 2023-06-04 |
 | [Ek Wonder](https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Ek Wonder](https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4) | 3:32 | 2023-10-19 | 2024-06-01 |
 | [Elke Liewe Ding](https://open.spotify.com/track/23z91Leg9k5yVesT8pQB4z) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Elke Liewe Ding](https://open.spotify.com/album/7qU2Oc3eVrLclwU0rAgye4) | 3:43 | 2024-05-09 | 2024-08-02 |
@@ -144,7 +144,8 @@
 | [Hy's 'n Lekker Ou](https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf](https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd) | 3:16 | 2023-05-04 | 2023-06-16 |
 | [Iemand Soos Jy](https://open.spotify.com/track/298k3iGimVSsClUG9KolBF) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Klein Dingetjies](https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI) | 2:57 | 2025-04-24 |  |
 | [Ik Ben Een Afrikaander](https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Ik Ben Een Afrikaander](https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0) | 3:21 | 2024-10-10 | 2025-02-28 |
-| [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
+| [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 | 2025-11-13 |
+| [Impulsief](https://open.spotify.com/track/6UcK09ASICAeWXObVF2Q9H) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:03 | 2025-11-10 |  |
 | [In Die Bos](https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [In Die Bos](https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba) | 2:58 | 2025-05-08 | 2025-11-11 |
 | [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 | 2023-08-17 |  |
 | [Insecure Meisies](https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Insecure Meisies](https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34) | 3:11 | 2025-07-31 |  |
@@ -325,7 +326,7 @@
 | [Toe Vind Ek Jou](https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Karen Zoid](https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn) | [Francois Van Coke](https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs) | 4:06 | 2025-11-10 |  |
 | [Toe, Nou en Altyd](https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Toe, Nou en Altyd](https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy) | 3:41 | 2023-07-27 | 2023-12-22 |
 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 | 2022-10-28 |  |
-| [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 | 2024-11-07 |  |
+| [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 | 2024-11-07 | 2025-11-13 |
 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 | 2021-04-19 |  |
 | [Vat 'n Bietjie](https://open.spotify.com/track/1u69vEZpvkC9eV9bv6kxm5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/03ZN1Le5d94yg39ijW9cBO) | 3:12 | 2024-02-15 | 2025-06-01 |
 | [Vat 'n Bietjie](https://open.spotify.com/track/4PhA0GhiJi3KTCURQBCYEW) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:12 | 2021-04-19 | 2022-11-13 |

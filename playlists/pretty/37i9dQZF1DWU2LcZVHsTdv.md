@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,786 likes - 168 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,808 likes - 168 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 94 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 |
 | 95 | [Good News](https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Good News](https://open.spotify.com/album/6GSRhKsu8GzEe0OvecCwMa) | 2:59 |
 | 96 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
-| 97 | [When I Meet My Maker](https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:32 |
+| 97 | [When I Meet My Maker](https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:34 |
 | 98 | [I'll Fly Away](https://open.spotify.com/track/2Rk8fztS3B4ozeNjKtirHb) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:52 |
 | 99 | [Back To Jesus](https://open.spotify.com/track/3W9LnzNx3RPgIJqUrbFHVM) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Back To Jesus](https://open.spotify.com/album/65QXI5NEq8bjTjzbdET0gK) | 3:14 |
 | 100 | [Just A Little Talk With Jesus](https://open.spotify.com/track/0MkNMxOegU2NmXqRfnlRvi) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Just A Little Talk With Jesus](https://open.spotify.com/album/0TQSFgv6jCpA3PKVdOdnuE) | 2:55 |

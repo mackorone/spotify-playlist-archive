@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19278,
+  "num_followers": 19276,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
+      },
+      "artists": [
+        {
+          "name": "Pianohooligan",
+          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
+        },
+        {
+          "name": "Piotr Orzechowski",
+          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
+        }
+      ],
+      "duration_ms": 865922,
+      "name": "Critique of Swing in Two Parts, Pt. 1",
+      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "A statek p\u0142ynie",
         "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
-      },
-      "artists": [
-        {
-          "name": "Pianohooligan",
-          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
-        },
-        {
-          "name": "Piotr Orzechowski",
-          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
-        }
-      ],
-      "duration_ms": 865922,
-      "name": "Critique of Swing in Two Parts, Pt. 1",
-      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
     },
     {
       "added_at": "2025-04-06 08:27:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6500,
+  "num_followers": 6501,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAB2MSTPijGnzVwgifjqfibv",
+  "snapshot_id": "aRJ8gAAAAAAVIs0vyA3TXa08BPyibn9O",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 262040,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
+      "duration_ms": 234800,
+      "name": "Givin' Up Givin' In",
+      "url": "https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Givin' Up Givin' In",
-      "url": "https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG"
+      "duration_ms": 262040,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "60's Girl Groups",
-        "url": "https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 165200,
-      "name": "No, No Not Again",
-      "url": "https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r"
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "60's Girl Groups",
+        "url": "https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+      "duration_ms": 165200,
+      "name": "No, No Not Again",
+      "url": "https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r"
     },
     {
       "added_at": null,
@@ -676,25 +676,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244253,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Will I See You Again (Re-Recorded / Remastered)",
-        "url": "https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 203119,
-      "name": "T.S.O.P. (The Sound Of Philadelphia) (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC"
+      "duration_ms": 234146,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Will I See You Again (Re-Recorded / Remastered)",
+        "url": "https://open.spotify.com/album/1cUBWEBaBZMw1KgHzgyKBg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 203119,
+      "name": "T.S.O.P. (The Sound Of Philadelphia) (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/1n9Gm25I5wdx6AxnvgWSgC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -744,25 +744,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Dimensions",
-        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Magic In The Air",
-      "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
+      "duration_ms": 187066,
+      "name": "Loving Cup",
+      "url": "https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 196546,
       "name": "I Do Take You",
       "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Dimensions",
+        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Magic In The Air",
+      "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
     },
     {
       "added_at": null,
@@ -808,25 +808,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Loving Cup",
-      "url": "https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Caught Between Two Fires",
-      "url": "https://open.spotify.com/track/2BmlYNJN4MTjm0VJQFkGpH"
+      "duration_ms": 244253,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
     },
     {
       "added_at": null,
@@ -840,9 +824,25 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 187880,
-      "name": "Through Misty Eyes (Mono Version)",
-      "url": "https://open.spotify.com/track/060nY8Cccr0RQzDfHuHF5I"
+      "duration_ms": 196106,
+      "name": "I Turn to You (Mono)",
+      "url": "https://open.spotify.com/track/3Sjpa8CyvgIgrR40rajeGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb"
     }
   ],
   "unique_name": "This Is The Three Degrees",

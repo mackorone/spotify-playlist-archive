@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > eaJ \[LOVE IN SEOUL\] 2025.11.13 @ 블루스퀘어 SOL트래블홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,282 likes - 20 songs - 52 min 1 sec
+[Spotify](https://open.spotify.com/user/spotify) - 38,258 likes - 20 songs - 52 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

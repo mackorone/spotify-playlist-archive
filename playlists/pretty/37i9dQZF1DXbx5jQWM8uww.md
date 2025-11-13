@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbx5jQWM8uww.md) - [plain]
 
 > Step into the ring with the Official Playlist for The Smashing Machine\. Listen to the music from the film, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,769 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,780 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

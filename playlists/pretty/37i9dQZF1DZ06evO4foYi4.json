@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55445,
+  "num_followers": 55446,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADs/g0DIRFQy1yvKmFkOhHl",
+  "snapshot_id": "aRJ8gAAAAADdRI/ASi76AJkimeW52Igw",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Violentos (feat. Mon Laferte)",
         "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 237029,
       "name": "Tiempos Violentos (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Talk",
-        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 248463,
-      "name": "Teenage Talk",
-      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actor",
         "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 181733,
       "name": "Laughing with a Mouth of Blood",
       "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Talk",
+        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 248463,
+      "name": "Teenage Talk",
+      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
     },
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
       "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+      "duration_ms": 222986,
+      "name": "Dinner for Two",
+      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
     },
     {
       "added_at": null,
@@ -715,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 222986,
-      "name": "Dinner for Two",
-      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
       "duration_ms": 199320,
       "name": "These Days",
       "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 185320,
+      "name": "I Am an Ape",
+      "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
     },
     {
       "added_at": null,
@@ -783,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 185320,
-      "name": "I Am an Ape",
-      "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actor",
         "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Weekend in the Dust",
+      "url": "https://open.spotify.com/track/0yE4eaKscJyphP7OoaugGC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 201760,
       "name": "Regret",
       "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hyperspace (2020)",
-        "url": "https://open.spotify.com/album/6Aqtcnv4SwSnXaZj987OQ0"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 179127,
-      "name": "Uneventful Days - St. Vincent Remix",
-      "url": "https://open.spotify.com/track/1zyBMwIWlKozL0hom8GT5x"
     }
   ],
   "unique_name": "This Is St. Vincent",

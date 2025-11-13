@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-686 songs - 1 day 5 hr 55 min
+687 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Celestial Blues](https://open.spotify.com/track/7pi0BqWnwFm6gP0YJMLmav) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Celestial Blues](https://open.spotify.com/album/45AzoseW2cZjCcbwBQlUDY) | 1:59 | 2025-06-27 | 2025-09-27 |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-08-22 | 2025-01-19 |
 | [Chiang Mai](https://open.spotify.com/track/3H5YOvm8wjCHLwcusAgGxo) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Voyagers](https://open.spotify.com/album/5z1HWgNfc2nMbSt1S0aKKS) | 2:55 | 2025-02-21 | 2025-08-23 |
+| [Chill Mode](https://open.spotify.com/track/4nx9Fc4N1o43QkVaiseTuB) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Chill Mode](https://open.spotify.com/album/059laoqPdb4JJlPV4pEfWr) | 2:14 | 2025-11-07 |  |
 | [Chime](https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Chime](https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW) | 1:49 | 2023-08-22 | 2025-04-12 |
 | [CHROME](https://open.spotify.com/track/2cR7IykiFG4LBWFzpKW8GK) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [CHROME](https://open.spotify.com/album/1moJUIovbsCWN0KRMvY0rz) | 4:42 | 2024-08-23 | 2024-09-20 |
 | [Cinnamon Tree](https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Cinnamon Tree](https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx) | 1:56 | 2024-09-06 | 2025-09-13 |
@@ -456,7 +457,7 @@
 | [Pipe Dream](https://open.spotify.com/track/2j55REbJcq6dgZ5FxWDaxE) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [David Lavoie](https://open.spotify.com/artist/6GEHfwj42nnWXXmfKZMPsa), [Javier Martinez Vallejos](https://open.spotify.com/artist/7A0Hqf5PHDLbxCDmYaz1xI) | [Trans Pacific](https://open.spotify.com/album/3gqv8ICfij6deG7ZpBWQXU) | 3:06 | 2023-08-22 | 2025-03-26 |
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2023-08-22 | 2025-04-12 |
 | [Playground](https://open.spotify.com/track/7H0SDCXhNavoDM9EIcrozN) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Steve Chops](https://open.spotify.com/artist/0anIwg0PUTpK8s89GX2rH5) | [Playground](https://open.spotify.com/album/7q234e9D1WgRln97XPBE3N) | 2:00 | 2025-08-29 |  |
-| [Plaza](https://open.spotify.com/track/281Dm5nv7QXe2PXlSmTSbP) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Plaza](https://open.spotify.com/album/7GJIk88uCELXYnpnvj394l) | 1:46 | 2025-09-26 |  |
+| [Plaza](https://open.spotify.com/track/281Dm5nv7QXe2PXlSmTSbP) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Plaza](https://open.spotify.com/album/7GJIk88uCELXYnpnvj394l) | 1:46 | 2025-09-26 | 2025-11-13 |
 | [Please](https://open.spotify.com/track/1hM5EdvlMXmBI6VbWZSC4T) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo) | [Please](https://open.spotify.com/album/60quyzuZ0KjFbbYj7e6h33) | 2:42 | 2024-11-08 |  |
 | [Pogo Fantasy](https://open.spotify.com/track/7x1BENpHPhOJBzOh9PAeHo) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Ghetto Blastah](https://open.spotify.com/album/45P29pXRImfdck98ar0hgR) | 2:27 | 2024-11-08 |  |
 | [polaroid](https://open.spotify.com/track/03di7csbRG2jUJEraAST3J) | [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx), [IN.ri](https://open.spotify.com/artist/6yaTO19o1wvnu91uZoYUCZ) | [polaroid](https://open.spotify.com/album/7L4ACKP98B3SxcaWNRo3e9) | 1:52 | 2025-02-14 |  |

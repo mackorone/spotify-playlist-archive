@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,516 likes - 200 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,709 likes - 200 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,7 +186,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 176 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 |
 | 177 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 |
 | 178 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 |
-| 179 | [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 |
+| 179 | [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 |
 | 180 | [chemin de la lune](https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [chemin de la lune](https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1) | 3:39 |
 | 181 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 |
 | 182 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Sunnery James & Ryan Marciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,579 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,581 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

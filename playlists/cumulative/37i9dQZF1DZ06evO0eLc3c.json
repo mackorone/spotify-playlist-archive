@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Break It Up",
+      "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
+    },
+    {
+      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 565453,
       "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
       "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"

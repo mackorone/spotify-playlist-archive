@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1610361,
+  "num_followers": 1610905,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
       "added_at": "2023-11-10 14:51:19",
       "album": {
         "name": "...Nothing Like The Sun",
@@ -503,6 +487,22 @@
       "duration_ms": 267266,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 336666,
       "name": "Father Figure - Remastered",
       "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 266333,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
+      "duration_ms": 222333,
+      "name": "The Girl Is Mine (with Paul McCartney)",
+      "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -995,6 +999,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "True - The Digital E.P.",
         "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "The Girl Is Mine (with Paul McCartney)",
-      "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 427333,
       "name": "We Are The World",
       "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "If That's What It Takes",
         "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 222280,
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Secret Of Association",
-        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 324346,
-      "name": "Every Time You Go Away",
-      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Heart Break",
         "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Secret Of Association",
+        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 324346,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "New Edition",
         "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 239160,
       "name": "Mr. Telephone Man",
       "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Hold An Old Friend's Hand",
+        "url": "https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 261906,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Hold An Old Friend's Hand",
-        "url": "https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x"
-      },
-      "artists": [
-        {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
-        }
-      ],
-      "duration_ms": 261906,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Temple Of Low Men",
         "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 266226,
       "name": "Orinoco Flow",
       "url": "https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Introducing The Hardline According To Sananda Maitreya",
-        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
-      },
-      "artists": [
-        {
-          "name": "Sananda Maitreya",
-          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
-        }
-      ],
-      "duration_ms": 276533,
-      "name": "Sign Your Name",
-      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -2067,18 +2051,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Best Of Chris Isaak",
-        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
+        "name": "Introducing The Hardline According To Sananda Maitreya",
+        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
       },
       "artists": [
         {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
         }
       ],
-      "duration_ms": 286880,
-      "name": "Wicked Game - Remastered",
-      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
+      "duration_ms": 276533,
+      "name": "Sign Your Name",
+      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2095,6 +2079,22 @@
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Best Of Chris Isaak",
+        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "Wicked Game - Remastered",
+      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
+      "duration_ms": 270693,
+      "name": "Endless Summer Nights",
+      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Endless Summer Nights",
-      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+      "duration_ms": 258266,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Essential Cyndi Lauper",
-        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Emergency (Reissue)",
         "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 290600,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Essential Cyndi Lauper",
+        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Tug Of War",
-        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Ebony And Ivory - Remixed 2015",
-      "url": "https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Broadcast",
         "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 308133,
       "name": "I've Been In Love Before",
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Tug Of War",
+        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Ebony And Ivory - Remixed 2015",
+      "url": "https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU"
     },
     {
       "added_at": "2023-01-24 23:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 801515,
+  "num_followers": 801533,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
         "name": "Melodies (From the Netflix Series \"Nobody Wants This\" Season 2)",
         "url": "https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Street Bangerz Volume 6: Playhouse",
-        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
-      },
-      "artists": [
-        {
-          "name": "Poldoore",
-          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "But I Do",
-      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Welcome to the Mood",
         "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
+        "name": "Street Bangerz Volume 6: Playhouse",
+        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
+      },
+      "artists": [
+        {
+          "name": "Poldoore",
+          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "But I Do",
+      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 291190,
-      "name": "White Gloves ii",
-      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Anyone Who Loves Me",
-      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Her Face",
         "url": "https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 203312,
       "name": "Her Face",
       "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Anyone Who Loves Me",
+      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "my love my love my love",
-        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "my love my love my love",
-      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 157068,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 119140,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -855,6 +875,22 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
+        "name": "Monde Nouveau",
+        "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 157116,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
         "name": "Cure for Emptiness (with Bello)",
         "url": "https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT"
       },
@@ -887,22 +923,6 @@
       "duration_ms": 225570,
       "name": "i don\u2019t want your garden",
       "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
-        "name": "Monde Nouveau",
-        "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 157116,
-      "name": "Monde Nouveau",
-      "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -951,26 +971,6 @@
       "duration_ms": 148495,
       "name": "flower",
       "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 119140,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Woon",
-          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Sharpness",
-      "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "forever and always",
         "url": "https://open.spotify.com/album/1OknBAZwOC2TQJsDQjsRqC"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 148666,
       "name": "chemicals",
       "url": "https://open.spotify.com/track/6mijtFNG6bFmNvoKU1T4EC"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Woon",
+          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Sharpness",
+      "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "rose ave.",
-        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
-      },
-      "artists": [
-        {
-          "name": "You+Me",
-          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Another Year Will Pass",
         "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+        "name": "rose ave.",
+        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "You+Me",
+          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
         }
       ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
+      "duration_ms": 192600,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1335,6 +1319,22 @@
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1371,6 +1371,46 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
+        "name": "I Found (with Freya Ridings)",
+        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 274725,
+      "name": "I Found (with Freya Ridings)",
+      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb"
+      },
+      "artists": [
+        {
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
         "name": "Feel Myself / Wait For You",
         "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
       },
@@ -1403,46 +1443,6 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb"
-      },
-      "artists": [
-        {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
-        "name": "I Found (with Freya Ridings)",
-        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        },
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 274725,
-      "name": "I Found (with Freya Ridings)",
-      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Beautiful Thingz",
         "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 228066,
       "name": "Tableau",
       "url": "https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2025-11-06 23:00:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-11-06 23:00:31",
       "album": {
-        "name": "Les bruits de la ville",
-        "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
-      },
-      "artists": [
-        {
-          "name": "Voyou",
-          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Il neige",
-      "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
-    },
-    {
-      "added_at": "2025-11-06 23:00:31",
-      "album": {
         "name": "Shake Off the Rain",
         "url": "https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 282831,
       "name": "Shake Off the Rain",
       "url": "https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM"
+    },
+    {
+      "added_at": "2025-11-06 23:00:31",
+      "album": {
+        "name": "Les bruits de la ville",
+        "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Il neige",
+      "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
     },
     {
       "added_at": "2025-11-06 23:00:31",

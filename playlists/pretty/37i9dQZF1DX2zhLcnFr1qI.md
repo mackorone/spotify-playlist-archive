@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 ### [Christmas EDM](https://open.spotify.com/playlist/37i9dQZF1DX2zhLcnFr1qI)
 
-> Baby, it's cold outside 🌲🎁 here's some EDM to keep warm!
+> Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,570 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,660 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 99 | [Tropical Holiday](https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [Hoodboi](https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ) | [A Very Decent Christmas 5](https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz) | 4:01 |
 | 100 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
 
-Snapshot ID: `AAAAAEJPGvRoCmbr1sFq6SXsBlVa0jxT`
+Snapshot ID: `AAAAAOguhN7FQVdTKNsu9XPxkY4sLH5X`

@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-284 songs - 13 hr 59 min
+285 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bare](https://open.spotify.com/track/2PWkjTnM1UiuLMBiBdwimc) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Bare](https://open.spotify.com/album/2AIXNyefzl7rb661tgI5YE) | 2:48 | 2025-01-14 |  |
 | [Bare dreams](https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bare dreams](https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS) | 2:39 | 2024-08-28 | 2024-11-13 |
 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 | 2022-07-05 | 2024-12-12 |
+| [Between Galaxies](https://open.spotify.com/track/6DXhWt90wnGcyL6W7GIwwk) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Between Galaxies](https://open.spotify.com/album/4LWYVa3ShlnbxP9ohY0lri) | 2:43 | 2025-09-30 |  |
 | [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 | 2022-07-05 |  |
 | [Blissful](https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN) | 2:44 | 2022-07-19 | 2024-04-19 |
 | [Blissful](https://open.spotify.com/track/5m7SY0GjW0n0LWz10XA8VP) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/5Kwr9SHPE3HVyqxEdUsKIp) | 2:44 | 2022-07-05 | 2022-07-29 |
@@ -220,7 +221,7 @@
 | [Seclusion](https://open.spotify.com/track/2Y9VAYUD3sxilHgfGG3kwR) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Seclusion](https://open.spotify.com/album/0yFxdEoWf0rw9OuSrswun6) | 3:06 | 2025-09-30 |  |
 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 | 2022-07-19 | 2024-04-19 |
 | [Semblance](https://open.spotify.com/track/4p0HBAmru8viDonTn7meJM) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/4JIstsrl6fPr8CcgiItzwQ) | 3:03 | 2022-07-05 | 2022-07-29 |
-| [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2022-07-05 |  |
+| [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2022-07-05 | 2025-11-13 |
 | [Sense](https://open.spotify.com/track/6NRZxHpQhH1GRlD3GG8b60) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Sense](https://open.spotify.com/album/1Wq0MG7JIVZOzRRu9yaPFI) | 3:25 | 2025-02-18 |  |
 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 | 2024-06-10 | 2024-08-29 |
 | [Serenity](https://open.spotify.com/track/1V5NdSG3po303c2e1mwBfX) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Serenity](https://open.spotify.com/album/466IfOAoKcGtopPMuuLjq4) | 2:36 | 2022-07-05 | 2022-07-29 |

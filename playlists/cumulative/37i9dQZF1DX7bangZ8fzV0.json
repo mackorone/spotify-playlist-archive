@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 164746,
       "name": "Ek Verstaan",
       "url": "https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA"
@@ -2556,10 +2556,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 183317,
       "name": "Impulsief",
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+    },
+    {
+      "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2025-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/6UcK09ASICAeWXObVF2Q9H"
     },
     {
       "album": {
@@ -5962,7 +5980,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 149440,
+  "num_followers": 149479,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAiQQ27KHyQZFJVt0Rx5opS",
+  "snapshot_id": "aRJ8gAAAAABdrpZiVNcmElUlDQLYx4In",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 218154,
+      "name": "Ovule",
+      "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ex:el",
         "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 282013,
       "name": "Ooops",
       "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 218154,
-      "name": "Ovule",
-      "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 305703,
-      "name": "Blissing Me",
-      "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fossora",
         "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 305703,
+      "name": "Blissing Me",
+      "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,636 songs - 3 day 15 hr 2 min
+1,637 songs - 3 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [Higher](https://open.spotify.com/track/7tdmyozV2za6S269VIMdHt) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [Higher](https://open.spotify.com/album/34CebpdXgcpEhSzu5zvyPn) | 4:22 | 2024-05-09 | 2024-10-19 |
 | [Higher](https://open.spotify.com/track/4CEzuwFBhVZrsyN9dlXpbO) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Higher](https://open.spotify.com/album/0u2dWtIg02pLAuXDNUY2R6) | 3:31 | 2023-12-07 | 2024-06-14 |
 | [Hijóping](https://open.spotify.com/track/4FltryA18s8UU5ypUxJuPW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Hijóping](https://open.spotify.com/album/0DahCEkHa16TIQrbra18oF) | 3:27 | 2023-05-12 | 2023-12-14 |
+| [Hold It Down \(DARE\)](https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Hold It Down \(DARE\)](https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm) | 3:46 | 2025-11-12 |  |
 | [Hold Me Close \- Vintage Culture Remix](https://open.spotify.com/track/1r8Y3er5sLDfD9rVFRhhyz) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Hold Me Close \(Vintage Culture Remix\)](https://open.spotify.com/album/4yhwVlnIOdgGmhmbaaCROg) | 3:47 | 2022-06-23 | 2023-06-06 |
 | [Hold Me Close \- Vintage Culture Remix](https://open.spotify.com/track/2SUtI7BZmrIKZpRC4rVjc7) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Human Learning \(Remixes, Pt\. 1\)](https://open.spotify.com/album/1EwsOmuBJQLv2CcJkEdnD2) | 3:47 | 2022-06-09 | 2022-06-24 |
 | [Hold Me Tight](https://open.spotify.com/track/2NLHXGesNu3CCXJuZfKj62) | [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Hold Me Tight](https://open.spotify.com/album/2TyJNNdYqCme7Q1O3qjmgc) | 3:16 | 2022-08-11 | 2022-11-04 |

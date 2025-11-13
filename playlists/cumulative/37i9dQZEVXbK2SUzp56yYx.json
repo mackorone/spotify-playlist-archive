@@ -30457,6 +30457,24 @@
     },
     {
       "album": {
+        "name": "\u041b\u044e\u0431\u0438\u0442\u044c \u0442\u0435\u0431\u044f",
+        "url": "https://open.spotify.com/album/3w1NWNF14MLhnL8yxlsPdR"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0438\u043d\u043e\u0447\u043a\u0430 \u041b\u0438",
+          "url": "https://open.spotify.com/artist/3ey50QRc5xkTHaLiIe9VGV"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "\u041b\u044e\u0431\u0438\u0442\u044c \u0442\u0435\u0431\u044f",
+      "url": "https://open.spotify.com/track/23HOtkKkSvtXZRx5pEG7Ma"
+    },
+    {
+      "album": {
         "name": "\u041b\u044e\u0431\u043b\u044e",
         "url": "https://open.spotify.com/album/2WbTUQkAzzYSVGYBiI41ED"
       },
@@ -30660,7 +30678,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 174919,
       "name": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0439 \u0434\u0435\u0432\u043e\u0447\u043a\u043e\u0439",
       "url": "https://open.spotify.com/track/5ag8K3GDvjo7BDnnsVkxHE"
@@ -31492,7 +31510,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 262002,
       "name": "\u041d\u0430 \u0414\u0432\u043e\u0438\u0445",
       "url": "https://open.spotify.com/track/2oSfXPeEl0gV6SZpveD8X3"
@@ -33923,6 +33941,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043a\u0438\u0439 \u0422\u0435\u0439\u043f",
+        "url": "https://open.spotify.com/album/0jPf5OgNLjN199meJk1qGx"
+      },
+      "artists": [
+        {
+          "name": "Kuznetsky Squad",
+          "url": "https://open.spotify.com/artist/2X67K1kx7CIbzgdlO5fkNy"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145554,
+      "name": "\u041f\u0435\u0440\u0432\u044b\u0439",
+      "url": "https://open.spotify.com/track/6wK5CX75RiB9ojEyX06t5h"
+    },
+    {
+      "album": {
         "name": "\u0412 \u043f\u0430\u043c\u044f\u0442\u0438 \u043d\u0430\u0432\u0435\u0447\u043d\u043e",
         "url": "https://open.spotify.com/album/5XjCi5lDmcj1W37GSRCkEM"
       },
@@ -35678,7 +35714,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 137671,
       "name": "\u0421\u0430\u0439\u0442 - Sped Up",
       "url": "https://open.spotify.com/track/21EMLglBkVmTnEALVY2lVa"
@@ -36160,7 +36196,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 125334,
       "name": "\u0421\u0438\u0434\u0440",
       "url": "https://open.spotify.com/track/3XXsFfSWeKX9Gy1YeXgmaa"
@@ -37004,7 +37040,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 232568,
       "name": "\u0421\u0442\u044b\u0446\u0430\u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/3E29Ogl0ccy3osBx6VwjxU"
@@ -38964,7 +39000,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 181152,
       "name": "\u0426\u0435\u043b\u043e\u0432\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u043e\u0433\u043e",
       "url": "https://open.spotify.com/track/2JcOQqXx9TBTP2Pzd9AH4G"

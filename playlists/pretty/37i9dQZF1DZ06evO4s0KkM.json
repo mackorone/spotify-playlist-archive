@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 124634,
+  "num_followers": 124656,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADnZFrRLV69E4qk/pWzVuN1",
+  "snapshot_id": "aRJ8gAAAAAAkkIpvWw5HnPBRfvp0UL26",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 175179,
+      "name": "Dropped on My Head - Bonus Track",
+      "url": "https://open.spotify.com/track/0RrgoZaUjIpqhbJ7k2TNfD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 202000,
       "name": "Sunshine Highway",
       "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
     },
     {
       "added_at": null,
@@ -515,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
       "artists": [
         {
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 334226,
-      "name": "Kiss Me I'm #!@'faced",
-      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
+      "duration_ms": 238049,
+      "name": "Take Your Bow - Bonus Track",
+      "url": "https://open.spotify.com/track/3OK15jbvnyyplSroZL1JpG"
     },
     {
       "added_at": null,
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 175179,
-      "name": "Dropped on My Head - Bonus Track",
-      "url": "https://open.spotify.com/track/0RrgoZaUjIpqhbJ7k2TNfD"
+      "duration_ms": 334226,
+      "name": "Kiss Me I'm #!@'faced",
+      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
     },
     {
       "added_at": null,
@@ -623,6 +639,22 @@
       "duration_ms": 219280,
       "name": "(F)lannigan's Ball",
       "url": "https://open.spotify.com/track/7Ge0qyQI86dq4GYUXJdw7M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 178324,
+      "name": "Straight Edge (I Liked You Better) - Bonus Track",
+      "url": "https://open.spotify.com/track/3WwusnJi34pyNmJTkHGBEF"
     },
     {
       "added_at": null,
@@ -691,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "Dead Anthems",
+        "url": "https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY"
       },
       "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        },
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 238049,
-      "name": "Take Your Bow - Bonus Track",
-      "url": "https://open.spotify.com/track/3OK15jbvnyyplSroZL1JpG"
+      "duration_ms": 156618,
+      "name": "Cold Like This",
+      "url": "https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq"
     },
     {
       "added_at": null,
@@ -739,28 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Anthems",
-        "url": "https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY"
-      },
-      "artists": [
-        {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
-        },
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 156618,
-      "name": "Cold Like This",
-      "url": "https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 178324,
-      "name": "Straight Edge (I Liked You Better) - Bonus Track",
-      "url": "https://open.spotify.com/track/3WwusnJi34pyNmJTkHGBEF"
+      "duration_ms": 158880,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
     },
     {
       "added_at": null,
@@ -791,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
       "artists": [
         {
@@ -800,25 +816,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 162853,
-      "name": "The Lonesome Boatman",
-      "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singles Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 158880,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
+      "duration_ms": 223642,
+      "name": "Sirens - Bonus Track",
+      "url": "https://open.spotify.com/track/3A1L6EAziYdIUaP0FGyR8T"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

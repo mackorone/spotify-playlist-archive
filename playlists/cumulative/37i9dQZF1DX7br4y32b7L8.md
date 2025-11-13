@@ -4,11 +4,11 @@
 
 > songs voor je playlist! \#fyp
 
-808 songs - 1 day 16 hr 31 min
+809 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-11 |  |
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-11 | 2025-11-13 |
 | [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 | 2025-09-18 |  |
 | [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-06-03 |  |
 | [10/10](https://open.spotify.com/track/1Na008bZjzO3CR3JiHIZ3C) | [Romy Indy](https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ) | [10/10](https://open.spotify.com/album/5VWPkqPUYktdoEVXIPhoRc) | 1:37 | 2025-04-09 | 2025-06-21 |
@@ -322,6 +322,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-21 | 2024-06-04 |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-31 | 2023-10-03 |
 | [I Predict A Riot](https://open.spotify.com/track/3EnyKqEJFylT6vU1KF0YyE) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Souvenir : The Singles 2004 \- 2012](https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK) | 3:52 | 2024-02-26 | 2024-03-06 |
+| [I Run](https://open.spotify.com/track/4nffa2OJOlgjCr4WPUZAuY) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/4bqyKumRF0H8BZXtUIazLn) | 2:09 | 2025-11-12 |  |
 | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo) | 3:10 | 2024-04-18 | 2024-06-04 |
 | [I Surrender \- Remix](https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3) | [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [I Surrender \(Remix\)](https://open.spotify.com/album/7yaehZezasawQfcqWOkbcT) | 3:33 | 2025-02-10 | 2025-10-28 |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-02-23 | 2023-03-10 |
@@ -769,7 +770,7 @@
 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 | 2025-07-08 | 2025-10-22 |
 | [Wasmachine](https://open.spotify.com/track/07ljnBvIzzbVuiKciLLEm1) | [Romy Indy](https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ) | [Wasmachine](https://open.spotify.com/album/5sGEhRZFrnLB3K9brHUqVF) | 1:37 | 2025-06-04 | 2025-09-16 |
 | [Wat Een Droom Kan Doen](https://open.spotify.com/track/79AxAgyA3ahLtiZIAm9lV9) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wat Een Droom Kan Doen](https://open.spotify.com/album/1LvAqwKxsCvF7FQ0IsiI4h) | 1:34 | 2024-07-11 | 2024-07-18 |
-| [Wat Ik Doe](https://open.spotify.com/track/4RCGoyfqGJLGYu8fsFTydp) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Wat Ik Doe](https://open.spotify.com/album/5KIOgfssSbSfV9aqcNhnhR) | 2:26 | 2025-08-09 |  |
+| [WAT IK DOE](https://open.spotify.com/track/4RCGoyfqGJLGYu8fsFTydp) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [WAT IK DOE](https://open.spotify.com/album/5KIOgfssSbSfV9aqcNhnhR) | 2:26 | 2025-08-09 |  |
 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 | 2025-02-10 | 2025-06-21 |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-07 | 2023-05-10 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 | 2023-03-10 |

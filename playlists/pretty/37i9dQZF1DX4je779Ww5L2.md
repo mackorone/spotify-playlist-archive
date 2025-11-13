@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,836 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,824 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 10 | [The Truth Can Wait](https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [The Truth Can Wait](https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh) | 3:32 |
 | 11 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 12 | [4am](https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [4am](https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox) | 3:30 |
-| 13 | [a woman to you](https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [a woman to you](https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki) | 3:16 |
-| 14 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
+| 13 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
+| 14 | [a woman to you](https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [a woman to you](https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki) | 3:16 |
 | 15 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 |
 | 16 | [Leap Year](https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Leap Year](https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO) | 5:45 |
 | 17 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
 | 18 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 |
 | 19 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 |
 | 20 | [The Sun Will Rise](https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Sun Will Rise](https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ) | 3:03 |
-| 21 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 |
-| 22 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 |
-| 23 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
+| 21 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
+| 22 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 |
+| 23 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 |
 | 24 | [Biotope](https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Biotope](https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd) | 2:48 |
 | 25 | [Stonewall Riots Forever](https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Stonewall Riots Forever](https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P) | 3:58 |
 | 26 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 32 | [walk the line](https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [walk the line](https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8) | 3:35 |
 | 33 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 |
 | 34 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
-| 35 | [Waving](https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Waving](https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs) | 4:13 |
-| 36 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 |
+| 35 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 |
+| 36 | [Waving](https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Waving](https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs) | 4:13 |
 | 37 | [Richardson \- feat\. Cassandra Jenkins](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 |
 | 38 | [Shape Of The Dunes](https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9) | [Liza Weald](https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C) | [Shape Of The Dunes](https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe) | 3:13 |
 | 39 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |

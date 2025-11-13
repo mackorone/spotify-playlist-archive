@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15630,
+  "num_followers": 15627,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABQlpvPll4xdfnoxNlu+zc7",
+  "snapshot_id": "aRJ8gAAAAABo6fGFzP6Df/9FwLobC7ob",
   "tracks": [
     {
       "added_at": null,
@@ -759,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eva (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Eva (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Como Yo (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 160038,
       "name": "Nadie Como Yo (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eva (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Eva (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
     },
     {
       "added_at": null,

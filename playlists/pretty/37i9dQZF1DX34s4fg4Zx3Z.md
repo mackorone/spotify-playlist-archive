@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Hannie
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,414 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,412 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 74 | [Thế Giới Chia Đôi](https://open.spotify.com/track/5rhrFhbyWqLnQD37trFu8b) | [Châu Dương](https://open.spotify.com/artist/0wQBc88XT0U6yRa23QFwV8) | [Thế Giới Chia Đôi](https://open.spotify.com/album/6y2m7NWKO2JppLvA82MNbY) | 4:54 |
 | 75 | [Lò Vi Sóng](https://open.spotify.com/track/0NLLlpRsGHNodtz5mJzUmW) | [Thiên Long](https://open.spotify.com/artist/3YZRuHCC8vM7StX0DNlstL) | [Lò Vi Sóng](https://open.spotify.com/album/2TgEF5huPaB0u4LoxZszUV) | 3:15 |
 
-Snapshot ID: `AAAAAAGhFMrFxtL0g/muWSUeLe7Y9Ofs`
+Snapshot ID: `AAAAAMPY3aKhLhsm+IbvdCVJggcQwAvW`

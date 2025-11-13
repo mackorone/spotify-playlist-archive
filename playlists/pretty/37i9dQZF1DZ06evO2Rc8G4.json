@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169785,
+  "num_followers": 169786,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAB2QC6JsffCkfqK0w9Dw9Mz",
+  "snapshot_id": "aRJ8gAAAAADJhGuLHjM3dZvH0JP34mZo",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "Come into My World - Radio Edit [Radio Edit]",
+      "url": "https://open.spotify.com/track/39DW02MW41A8bBIxH7nT1V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
       },
@@ -299,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
       },
       "artists": [
         {
@@ -308,25 +324,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 154706,
-      "name": "Someone For Me",
-      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "Come into My World - Radio Edit [Radio Edit]",
-      "url": "https://open.spotify.com/track/39DW02MW41A8bBIxH7nT1V"
+      "duration_ms": 207866,
+      "name": "Spinning Around",
+      "url": "https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Years",
-        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Spinning Around",
-      "url": "https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi"
+      "duration_ms": 154706,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Believe in You",
         "url": "https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 200973,
       "name": "I Believe in You",
       "url": "https://open.spotify.com/track/1AKJnUOmNwlyXzOYptQhwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 233362,
       "name": "Better the Devil You Know",
       "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "On a Night Like This",
+      "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light Years",
-        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "On a Night Like This",
-      "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 220453,
-      "name": "Taboo / On A Night Like This - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/4G0q4mbG5ELNLaNfyOl1M6"
+      "duration_ms": 194893,
+      "name": "Spinning Around - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/7EaiJEkUiLk9CGtSB11d1F"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 194893,
-      "name": "Spinning Around - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/7EaiJEkUiLk9CGtSB11d1F"
+      "duration_ms": 220453,
+      "name": "Taboo / On A Night Like This - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/4G0q4mbG5ELNLaNfyOl1M6"
     },
     {
       "added_at": null,

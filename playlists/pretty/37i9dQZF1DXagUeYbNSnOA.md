@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Sam Eli\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,092 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,113 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [Bésame](https://open.spotify.com/track/736ZtCqpAdNL52om1ipG78) | [R!CH YASHEL](https://open.spotify.com/artist/2k1bvzun0cZvhPRvc4a5WN) | [Bésame](https://open.spotify.com/album/2YVPHc5mvFmDlMO4W9Avl7) | 3:01 |
 | 28 | [ESENCIAL](https://open.spotify.com/track/5zslyxniE7dwFkJwCLOXrt) | [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [ESENCIAL](https://open.spotify.com/album/5aWvxVSq2zLniu1R3rl8WO) | 3:03 |
 | 29 | [keep it to yourself](https://open.spotify.com/track/1R0gw7yECaDRuNrEFuLcrh) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [when you were asleep \(vol\. i\)](https://open.spotify.com/album/4BJsMCtaqCm33G4lrrm6XU) | 2:22 |
-| 30 | [PARA TI](https://open.spotify.com/track/5pAIgs4CTHqxJIpjhqCcSW) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Para Ti](https://open.spotify.com/album/4jh1EGuCCCkslp0XmAgJKt) | 3:49 |
+| 30 | [Para Ti](https://open.spotify.com/track/5pAIgs4CTHqxJIpjhqCcSW) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Para Ti](https://open.spotify.com/album/4jh1EGuCCCkslp0XmAgJKt) | 3:49 |
 | 31 | [me río de la NASA](https://open.spotify.com/track/5JOVUEftbqwhphq2nW0KgC) | [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [ANKAAN](https://open.spotify.com/album/5Q1Zln67vDhOXn7mqX0mqq) | 4:02 |
 | 32 | [Cositas](https://open.spotify.com/track/0y3pK1Ahm45E2SOpDN44zP) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO) | [Cositas](https://open.spotify.com/album/3fsierf4MCkAAYthnxnXNO) | 3:02 |
 | 33 | [tapetes](https://open.spotify.com/track/3wg6u8yXvI6NR13DkoSVSf) | [JULIEE](https://open.spotify.com/artist/6qrdMTYi0s6I8xLtpdw7GX) | [tapetes](https://open.spotify.com/album/0M4Vm5tHbd6hT5hHhGV8os) | 2:45 |

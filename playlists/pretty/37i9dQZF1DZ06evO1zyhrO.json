@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103708,
+  "num_followers": 103714,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACHijJrOQnMRc8zJcWD0QRq",
+  "snapshot_id": "aRJ8gAAAAABBxkWuQZGuHrs4i0kUY4Yi",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 178019,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
+      "duration_ms": 214884,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
       "artists": [
         {
@@ -500,25 +500,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 214884,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 210319,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
+      "duration_ms": 178019,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 185200,
       "name": "When the Bassline Drops",
       "url": "https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 210319,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Kirsten Joy",
-          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
-      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 235733,
       "name": "Officially Yours",
       "url": "https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Kirsten Joy",
+          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
+      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 197690,
-      "name": "In Your Hands",
-      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story Goes...",
         "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 219106,
       "name": "Obvious - feat. Muni Long",
       "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 197690,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
-      },
-      "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 167796,
-      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 204800,
       "name": "My Heart's Been Waiting for You - feat. Duvall",
       "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
     },
     {
       "added_at": null,

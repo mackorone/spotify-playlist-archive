@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,314 likes - 97 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,316 likes - 97 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 49 | [Idaho, Pt\. 2](https://open.spotify.com/track/17l7Etg18fz7ESsTe92kWF) | [Acid Ghost](https://open.spotify.com/artist/3DxAikzv8719U68yCVRELD) | [Vacation II](https://open.spotify.com/album/4zpGwJAUaZLX4psJ5XEFM7) | 1:34 |
 | 50 | [Copeland Heights](https://open.spotify.com/track/3mcFfeXrk3MjYK1vv2ggeq) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Sun Blanket](https://open.spotify.com/album/4ZTrujnFuaY7IMct5EX4Dd) | 5:17 |
 | 51 | [Save/Safe](https://open.spotify.com/track/0vW3GR7mukmlqWTW91jweb) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [Save/Safe](https://open.spotify.com/album/1prxKMZWwGT7IOF6bpJCZt) | 3:52 |
-| 52 | [Object Of My Affliction](https://open.spotify.com/track/3piTx8Xoc27FudUWj20Iqo) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr) | [Object Of My Affliction](https://open.spotify.com/album/3h28iRvaKJqWAH2bdkRGm5) | 3:10 |
+| 52 | [Object Of My Affliction](https://open.spotify.com/track/3piTx8Xoc27FudUWj20Iqo) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr) | [Object Of My Affliction](https://open.spotify.com/album/3h28iRvaKJqWAH2bdkRGm5) | 3:11 |
 | 53 | [Glacial](https://open.spotify.com/track/4tidPc7OulW5mIUc17zQ5q) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Behind Closed Doors](https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X) | 4:29 |
 | 54 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
 | 55 | [Backstair Breathing](https://open.spotify.com/track/4BD281lPwCFWCG1mbAl8E1) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Backstair Breathing](https://open.spotify.com/album/7GwfeQ6VRLWX1L6gz90y28) | 2:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,651 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,658 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 16 | [Shake It Baby \- 2025 Remaster](https://open.spotify.com/track/1Oh8werpHaazuzJ52QMieU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 4:21 |
 | 17 | [It Serves Me Right](https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [In Person](https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz) | 3:32 |
 | 18 | [Don't Look Back \- feat\. Van Morrison](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 |
-| 19 | [Cry Before I Go](https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:38 |
-| 20 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
-| 21 | [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 |
+| 19 | [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 |
+| 20 | [Cry Before I Go](https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:38 |
+| 21 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
 | 22 | [This Is Hip \- feat\. Ry Cooder](https://open.spotify.com/track/4bkX2wt2MwGwskVM3kkU0Q) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Mr\. Lucky](https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ) | 3:27 |
 | 23 | [The Motor City Is Burning](https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Blues Legend](https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w) | 2:51 |
 | 24 | [Bottle Up & Go \- 2025 Remaster](https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 2:28 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 31 | [Stella Mae](https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 |
 | 32 | [The Healing Game](https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 5:09 |
 | 33 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 |
-| 34 | [Hobo Blues](https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Half A Stranger Vol 1](https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe) | 3:03 |
+| 34 | [Baby Lee \- feat\. Robert Cray](https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 3:45 |
 | 35 | [I Put My Trust In You](https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 |
-| 36 | [Baby Lee \- feat\. Robert Cray](https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 3:45 |
+| 36 | [Hobo Blues](https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Half A Stranger Vol 1](https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe) | 3:03 |
 | 37 | [No More Doggin'](https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:44 |
 | 38 | [Kiddio \- 2007 \- Remaster](https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 3:11 |
 | 39 | [You Know, I Know](https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Messin' With The Hook](https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 3:23 |
 | 50 | [Crawlin' King Snake](https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:02 |
 
-Snapshot ID: `aRErAAAAAADdvDamfnaaDTifTur3zmuF`
+Snapshot ID: `aRJ8gAAAAADQ5BKxE387G6JvlRo2zkFQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522500,
+  "num_followers": 522503,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAnqrun/xCx72K1R05Nayn/",
+  "snapshot_id": "aRJ8gAAAAABcVqXjiLIJaUIg5imW0U2z",
   "tracks": [
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
       "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+      "duration_ms": 241680,
+      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
     },
     {
       "added_at": null,
@@ -343,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
       },
       "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
       "added_at": null,
@@ -939,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+        "name": "La Cometierra",
+        "url": "https://open.spotify.com/album/3dU4u5kI17xxZljHrz6hDv"
       },
       "artists": [
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 264533,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
+      "duration_ms": 175146,
+      "name": "La Cometierra",
+      "url": "https://open.spotify.com/track/00uZGqztLivbtlWdZEVS2A"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

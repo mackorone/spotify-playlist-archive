@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 390226,
+  "num_followers": 390273,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "Humbled Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/1aoY7Mo3qjETHzoMcrEvkl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "Humbled Heart - Acoustic",
-      "url": "https://open.spotify.com/track/6jhF7v0Un40091J17aLKeL"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
         "name": "one step",
         "url": "https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 216800,
       "name": "one step",
       "url": "https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
+        "name": "Humbled Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/1aoY7Mo3qjETHzoMcrEvkl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Humbled Heart - Acoustic",
+      "url": "https://open.spotify.com/track/6jhF7v0Un40091J17aLKeL"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 194251,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
         "name": "That's who I praise (from the studio)",
         "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
       },
@@ -755,30 +771,6 @@
       "duration_ms": 193926,
       "name": "That's who I praise - from the studio",
       "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Morgan Williams",
-          "url": "https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie"
-        }
-      ],
-      "duration_ms": 143947,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -803,18 +795,26 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
       "artists": [
         {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Morgan Williams",
+          "url": "https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie"
         }
       ],
-      "duration_ms": 194251,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
+      "duration_ms": 143947,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
+        "name": "I See the Birds",
+        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 243808,
+      "name": "I See the Birds",
+      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
         "name": "Childlike",
         "url": "https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 137851,
       "name": "RIPE",
       "url": "https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
-        "name": "I See the Birds",
-        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 243808,
-      "name": "I See the Birds",
-      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
+        "name": "Light of Heaven",
+        "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 230965,
+      "name": "Light of Heaven",
+      "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
         "name": "This Holy Moment",
         "url": "https://open.spotify.com/album/3topP3w3C25at3bUbkvglb"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 212192,
       "name": "This Holy Moment",
       "url": "https://open.spotify.com/track/09V8Qp51fzuGHX5SSHfAQi"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
-        "name": "Light of Heaven",
-        "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 230965,
-      "name": "Light of Heaven",
-      "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
     },
     {
       "added_at": "2025-10-19 01:12:39",

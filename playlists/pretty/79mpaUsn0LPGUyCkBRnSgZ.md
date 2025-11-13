@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 609 songs - 1 day 15 hr 49 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 610 songs - 1 day 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -617,5 +617,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 607 | [Bach, JS: Violin Concerto No\. 2 in E Major, BWV 1042: I\. Allegro](https://open.spotify.com/track/5d4AX3OJIKLgh5sgsb4ikA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Violin Concertos & Double Concerto](https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR) | 9:02 |
 | 608 | [Laraaji](https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:23 |
 | 609 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 |
+| 610 | [Tom's Lament](https://open.spotify.com/track/150J3R13jQbb9HQN9RQK12) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [DJ Set](https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u) | 4:11 |
 
-Snapshot ID: `AAAIBMLw2uO3oxfNIBRdiNeoSFk978jD`
+Snapshot ID: `AAAIBZ3cnyvv4YXW9rYgsf1rC5pRFfA9`

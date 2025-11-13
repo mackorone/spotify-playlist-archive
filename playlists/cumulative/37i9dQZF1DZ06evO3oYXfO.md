@@ -4,7 +4,7 @@
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-58 songs - 5 hr 8 min
+59 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Junior's Eyes \- 2009 Remaster](https://open.spotify.com/track/0hDOC0xEIdIlNCpqEFntqq) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 6:41 | 2025-07-23 | 2025-09-30 |
 | [Killing Yourself to Live \(2009 Remaster\)](https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:38 | 2025-07-23 |  |
 | [Lady Evil](https://open.spotify.com/track/2VZ9U830gFLrgR7aRW3OfR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:22 | 2025-07-23 |  |
-| [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 | 2025-07-23 |  |
+| [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 | 2025-07-23 | 2025-11-13 |
 | [Loner](https://open.spotify.com/track/1PZ3DwxBYzuRYXt2fpomfY) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 4:59 | 2025-07-23 |  |
 | [Looking for Today \(2009 Remaster\)](https://open.spotify.com/track/5AZQ7ekBzg4WqAcjOF9srW) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 4:58 | 2025-07-23 |  |
 | [Lord of this World \(2009 Remaster\)](https://open.spotify.com/track/4KuWbO1sfQeSiOd9wcZCbZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 5:24 | 2025-07-23 |  |
@@ -61,6 +61,7 @@
 | [The Sign of the Southern Cross](https://open.spotify.com/track/778byl7ugZPdNhASJv9o6b) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 7:47 | 2025-07-23 |  |
 | [The Wizard \- 2009 Remaster](https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 4:22 | 2025-07-23 |  |
 | [Tomorrow's Dream \- 2009 Remaster](https://open.spotify.com/track/7gygnGtI9S3TE9Z5Yrqhig) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:10 | 2025-07-23 |  |
+| [Under the Sun \- 2009 Remaster](https://open.spotify.com/track/3Ot5N9GGKyybaylaNUmESl) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 5:53 | 2025-11-13 |  |
 | [War Pigs \- 2009 Remaster](https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 7:55 | 2025-07-23 |  |
 | [Wasp / Behind the Wall of Sleep / Bassically / N.I.B\. \- 2014 Remaster](https://open.spotify.com/track/4hx9RvP93j79EJLAiyJQoI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 9:43 | 2025-07-23 |  |
 | [Wheels of Confusion \- 2009 Remaster](https://open.spotify.com/track/61zDwmHFXYYNjKTTpT5GOR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 7:59 | 2025-07-23 |  |

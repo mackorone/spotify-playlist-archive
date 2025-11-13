@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,124 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,013 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 50 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
 | 51 | [it all ends with us](https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [it all ends with us](https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J) | 3:46 |
 | 52 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 |
-| 53 | [downward spiral](https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [downward spiral](https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ) | 2:25 |
-| 54 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
-| 55 | [Behave !](https://open.spotify.com/track/0V5JH4ELW3bvWnpmbwZ0Zs) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Behave !](https://open.spotify.com/album/5Dv5eZIrl68gk1fzozZDds) | 2:43 |
-| 56 | [mileys riddim](https://open.spotify.com/track/22tPhE4Osvl0LGnKrjNCIR) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 1:59 |
+| 53 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
+| 54 | [downward spiral](https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [downward spiral](https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ) | 2:25 |
+| 55 | [mileys riddim](https://open.spotify.com/track/22tPhE4Osvl0LGnKrjNCIR) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 1:59 |
+| 56 | [Behave !](https://open.spotify.com/track/0V5JH4ELW3bvWnpmbwZ0Zs) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Behave !](https://open.spotify.com/album/5Dv5eZIrl68gk1fzozZDds) | 2:43 |
 | 57 | [These Days](https://open.spotify.com/track/48R6SMKqCQvrhe0KwDu68u) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [These Days](https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt) | 3:14 |
 | 58 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 |
 | 59 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 |

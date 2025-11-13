@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAeGqS8WjzukX9W9zcKowk7",
+  "snapshot_id": "aRJ8gAAAAAA8JMIf+WYz6KEygWgqMXol",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
-        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
-      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 278946,
       "name": "Ain't That Loving You (For More Reasons Than One)",
       "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
-      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 223493,
       "name": "Be Anything (But Be Mine)",
       "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
+      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Your Good Thing (Is About To End)",
-      "url": "https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 232346,
       "name": "I Go Crazy",
       "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Your Good Thing (Is About To End)",
+      "url": "https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "We Understand Each Other",
-      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 291173,
       "name": "You Are",
       "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "We Understand Each Other",
+      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
     }
   ],
   "unique_name": "This Is Lou Rawls",

@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72166,
+  "num_followers": 72177,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "April In Paris",
-        "url": "https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR"
-      },
-      "artists": [
-        {
-          "name": "Anna Niva",
-          "url": "https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx"
-        }
-      ],
-      "duration_ms": 182677,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
         "name": "Dark Night of the Soul",
         "url": "https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 399666,
       "name": "The Approaching Night",
       "url": "https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "April In Paris",
+        "url": "https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR"
+      },
+      "artists": [
+        {
+          "name": "Anna Niva",
+          "url": "https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx"
+        }
+      ],
+      "duration_ms": 182677,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "I'll Never Be The Same",
-        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
-      },
-      "artists": [
-        {
-          "name": "Algot Aelster",
-          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
-        }
-      ],
-      "duration_ms": 147436,
-      "name": "I'll Never Be The Same",
-      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "I'll Never Be The Same",
+        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "duration_ms": 147436,
+      "name": "I'll Never Be The Same",
+      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Piano Hits Chill",
-        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
-      },
-      "artists": [
-        {
-          "name": "Ronald Emery",
-          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Say You Wont Let Go",
-      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Knowing Myself",
-        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+        "name": "Piano Hits Chill",
+        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
       "artists": [
         {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+          "name": "Ronald Emery",
+          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
         }
       ],
-      "duration_ms": 142516,
-      "name": "Knowing Myself",
-      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
+      "duration_ms": 230000,
+      "name": "Say You Wont Let Go",
+      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -455,6 +439,22 @@
       "duration_ms": 212000,
       "name": "First Sunrise",
       "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Anya",
-        "url": "https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f"
-      },
-      "artists": [
-        {
-          "name": "Ray Love",
-          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Anya",
-      "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 211000,
       "name": "Out of place",
       "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Anya",
+        "url": "https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f"
+      },
+      "artists": [
+        {
+          "name": "Ray Love",
+          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
+        "name": "Reggimi",
+        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
+      },
+      "artists": [
+        {
+          "name": "Natalino Serafin",
+          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Reggimi",
+      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Reggimi",
-        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
-      },
-      "artists": [
-        {
-          "name": "Natalino Serafin",
-          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Reggimi",
-      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
         "name": "Kiss the Rain",
         "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 170783,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Can't We Be Friends",
-        "url": "https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3"
-      },
-      "artists": [
-        {
-          "name": "Algot Aelster",
-          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
-        }
-      ],
-      "duration_ms": 130873,
-      "name": "Can't We Be Friends",
-      "url": "https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -671,34 +655,18 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+        "name": "Can't We Be Friends",
+        "url": "https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3"
       },
       "artists": [
         {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
         }
       ],
-      "duration_ms": 165750,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
-      },
-      "artists": [
-        {
-          "name": "Elsa Gifford",
-          "url": "https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
+      "duration_ms": 130873,
+      "name": "Can't We Be Friends",
+      "url": "https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -735,6 +703,38 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
+      },
+      "artists": [
+        {
+          "name": "Elsa Gifford",
+          "url": "https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
         "name": "I got it secondhand",
         "url": "https://open.spotify.com/album/5qjZGP5e9vKkbPYSGPQLXx"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 182111,
       "name": "I got it secondhand",
       "url": "https://open.spotify.com/track/3EKA6gbbXL07UX9Txi9ad0"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
-      },
-      "artists": [
-        {
-          "name": "Jules Pierre Gardot",
-          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -783,6 +767,22 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
+      },
+      "artists": [
+        {
+          "name": "Jules Pierre Gardot",
+          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
         "name": "Am I the Only One?",
         "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 161822,
       "name": "Am I the Only One",
       "url": "https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Never Blame The Young Ones",
-        "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
-      },
-      "artists": [
-        {
-          "name": "Alan Leon",
-          "url": "https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU"
-        }
-      ],
-      "duration_ms": 138823,
-      "name": "Never Blame The Young Ones",
-      "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Before last month",
-        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
+        "name": "Never Blame The Young Ones",
+        "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
       },
       "artists": [
         {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+          "name": "Alan Leon",
+          "url": "https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU"
         }
       ],
-      "duration_ms": 124238,
-      "name": "Before last month",
-      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
+      "duration_ms": 138823,
+      "name": "Never Blame The Young Ones",
+      "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -879,66 +863,18 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "5th Avenue",
-        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
+        "name": "Before last month",
+        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
       },
       "artists": [
         {
-          "name": "Kyrie Barnes",
-          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
         }
       ],
-      "duration_ms": 146006,
-      "name": "5th Avenue",
-      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 147029,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Am I the Only One?",
-        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
-      },
-      "artists": [
-        {
-          "name": "Urskogen Jazz",
-          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
-        }
-      ],
-      "duration_ms": 177071,
-      "name": "Break My Heart, Love",
-      "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk"
-      },
-      "artists": [
-        {
-          "name": "Amanda Heartwood",
-          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
-        }
-      ],
-      "duration_ms": 178868,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6"
+      "duration_ms": 124238,
+      "name": "Before last month",
+      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -959,22 +895,6 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Chemin de la lune",
-        "url": "https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP"
-      },
-      "artists": [
-        {
-          "name": "Neil Chapman Green",
-          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
-        }
-      ],
-      "duration_ms": 129205,
-      "name": "Chemin de la lune",
-      "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
         "name": "Nefelibata",
         "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
       },
@@ -991,6 +911,22 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
+        "name": "5th Avenue",
+        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
+      },
+      "artists": [
+        {
+          "name": "Kyrie Barnes",
+          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
+        }
+      ],
+      "duration_ms": 146006,
+      "name": "5th Avenue",
+      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -1003,6 +939,22 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 147029,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1039,34 +991,34 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Bluesette",
-        "url": "https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw"
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk"
       },
       "artists": [
         {
-          "name": "Jeannie Purdue",
-          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
         }
       ],
-      "duration_ms": 167140,
-      "name": "Bluesette",
-      "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
+      "duration_ms": 178868,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6"
     },
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "The last chance saloon",
-        "url": "https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ"
+        "name": "Am I the Only One?",
+        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
       "artists": [
         {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
         }
       ],
-      "duration_ms": 125450,
-      "name": "The last chance saloon",
-      "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
+      "duration_ms": 177071,
+      "name": "Break My Heart, Love",
+      "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1095,34 +1047,18 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+        "name": "Chemin de la lune",
+        "url": "https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP"
       },
       "artists": [
         {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+          "name": "Neil Chapman Green",
+          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
         }
       ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+      "duration_ms": 129205,
+      "name": "Chemin de la lune",
+      "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1143,6 +1079,38 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
         "name": "S\u00fcda",
         "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
       },
@@ -1155,6 +1123,22 @@
       "duration_ms": 202750,
       "name": "S\u00fcda",
       "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "A Time For Love",
+        "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sanders",
+          "url": "https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe"
+        }
+      ],
+      "duration_ms": 364000,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1175,18 +1159,34 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "A Time For Love",
-        "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
+        "name": "Bluesette",
+        "url": "https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw"
       },
       "artists": [
         {
-          "name": "Bruno Sanders",
-          "url": "https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe"
+          "name": "Jeannie Purdue",
+          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
         }
       ],
-      "duration_ms": 364000,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p"
+      "duration_ms": 167140,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "The last chance saloon",
+        "url": "https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+        }
+      ],
+      "duration_ms": 125450,
+      "name": "The last chance saloon",
+      "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma",
-          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
-        }
-      ],
-      "duration_ms": 143869,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
         "name": "Variante Alta",
         "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
       },
@@ -1267,54 +1251,6 @@
       "duration_ms": 232934,
       "name": "Variante Alta",
       "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 159445,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Leave The Bottle",
-        "url": "https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl"
-      },
-      "artists": [
-        {
-          "name": "Zachary Ronin",
-          "url": "https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx"
-        }
-      ],
-      "duration_ms": 218455,
-      "name": "Leave The Bottle",
-      "url": "https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
-      },
-      "artists": [
-        {
-          "name": "Kristian Hart",
-          "url": "https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD"
-        }
-      ],
-      "duration_ms": 175005,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1335,18 +1271,66 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
-        "name": "Rest Well, My Good Friend",
-        "url": "https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi"
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
       },
       "artists": [
         {
-          "name": "Angus Grove",
-          "url": "https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL"
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Rest Well, My Good Friend",
-      "url": "https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3"
+      "duration_ms": 143869,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 159445,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart",
+          "url": "https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD"
+        }
+      ],
+      "duration_ms": 175005,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Leave The Bottle",
+        "url": "https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl"
+      },
+      "artists": [
+        {
+          "name": "Zachary Ronin",
+          "url": "https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx"
+        }
+      ],
+      "duration_ms": 218455,
+      "name": "Leave The Bottle",
+      "url": "https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1363,6 +1347,22 @@
       "duration_ms": 179000,
       "name": "\u00c8 ora di dormire",
       "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
+        "name": "Rest Well, My Good Friend",
+        "url": "https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi"
+      },
+      "artists": [
+        {
+          "name": "Angus Grove",
+          "url": "https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Rest Well, My Good Friend",
+      "url": "https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3"
     },
     {
       "added_at": "2025-11-10 02:52:15",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-11-10 02:52:15",
       "album": {
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2025-11-10 02:52:15",
+      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 202357,
       "name": "The Inner World",
       "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
-    },
-    {
-      "added_at": "2025-11-10 02:52:15",
-      "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2025-11-10 02:52:15",

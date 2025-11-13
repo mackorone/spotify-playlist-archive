@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,760 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,956 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 12 | [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 |
 | 13 | [人生讃歌 \- Song of Life](https://open.spotify.com/track/1WyBfkPe75azkDCPTpwA1x) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [人生讃歌 \- Song of Life](https://open.spotify.com/album/7vCAvMERJpAWBElCvO9iaS) | 3:51 |
 | 14 | [Present](https://open.spotify.com/track/6Sj1YUpoWn3IsE0VlHCmMU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Present](https://open.spotify.com/album/5tq7fJiO0PAXr5AZ9Wm73w) | 3:15 |
-| 15 | [Lip Noise](https://open.spotify.com/track/3kmlp8uPqbrqTmvsyHSM1K) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [](https://open.spotify.com/album/null) | 4:58 |
+| 15 | [Lip Noise](https://open.spotify.com/track/3kmlp8uPqbrqTmvsyHSM1K) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [DEAR MYSTERIES](https://open.spotify.com/album/4hxdw3cTnoBALcncTVldxq) | 4:58 |
 | 16 | [ハナ](https://open.spotify.com/track/0ungaJTqM35ymnCdarWEMU) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハナ](https://open.spotify.com/album/2tg8lY9T7Y3qB93t4qHnxV) | 2:52 |
 | 17 | [Handz In My Pocket](https://open.spotify.com/track/35m8Dt5Pnnth0k17UIgEZ3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Handz In My Pocket](https://open.spotify.com/album/4HHaxkowWdzWA7sX4CaXPs) | 2:49 |
 | 18 | [SAY CHEESE!](https://open.spotify.com/track/5K7Mt6iXdKKJV08fn1aFdb) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [SAY CHEESE!](https://open.spotify.com/album/5r8SFpLS1F2UtCgI9pVAGQ) | 2:52 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 23 | [バースデイ](https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [バースデイ](https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy) | 5:24 |
 | 24 | [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 |
 | 25 | [マジカルシンドローム](https://open.spotify.com/track/1tzce9prdmxYbPwDSfYV1g) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [マジカルシンドローム](https://open.spotify.com/album/0JfZQAF3ONStszQOiywvpl) | 2:45 |
-| 26 | [月のカーニバル](https://open.spotify.com/track/2bOvnmvvgY1TEuqEznldQs) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [](https://open.spotify.com/album/null) | 2:35 |
+| 26 | [月のカーニバル](https://open.spotify.com/track/2bOvnmvvgY1TEuqEznldQs) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [文明開化 \(East West\)](https://open.spotify.com/album/7lAe4jZ69BXoVe6vBaKVMX) | 2:35 |
 | 27 | [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 |
 | 28 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
 | 29 | [Kiseki Wo Mattetatte](https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kiseki Wo Mattetatte](https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ) | 5:19 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 31 | [あなたといたい](https://open.spotify.com/track/3lhSoYrMfyX9Mg24Fdp0eo) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [あなたといたい](https://open.spotify.com/album/7sXFcyqLpDJiLs4awycwQk) | 3:33 |
 | 32 | [PIECES \- STARGLOW Ver.](https://open.spotify.com/track/1hY0tMMKzSkeW6czNDdPph) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [PIECES \(STARGLOW Ver.\)](https://open.spotify.com/album/2OX4YJRS8z8ad58YjMeacS) | 5:18 |
 | 33 | [i love you](https://open.spotify.com/track/583H4PwxDEj4bOcIN2ZQOG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [i love you](https://open.spotify.com/album/3hdlZbQm127kMJuMYdLJE2) | 3:29 |
-| 34 | [831](https://open.spotify.com/track/4gOO6g4HEi2GsJdpduiEO8) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [](https://open.spotify.com/album/null) | 3:55 |
-| 35 | [Atashi no Koibito](https://open.spotify.com/track/4XSwEre2dU71LqISpVQyS0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [](https://open.spotify.com/album/null) | 5:00 |
+| 34 | [831](https://open.spotify.com/track/4gOO6g4HEi2GsJdpduiEO8) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai'sCREAM](https://open.spotify.com/album/0KkbijCllIheCHz6vx3244) | 3:55 |
+| 35 | [Atashi no Koibito](https://open.spotify.com/track/4XSwEre2dU71LqISpVQyS0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Atashi no Koibito](https://open.spotify.com/album/18co3GDmsoL1A2frzjnihF) | 5:00 |
 | 36 | [Little Bouquet](https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Little Bouquet](https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm) | 4:11 |
 | 37 | [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 |
 | 38 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |

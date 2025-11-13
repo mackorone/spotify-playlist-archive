@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 989276,
+  "num_followers": 989460,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACufzVw91dkVKDov/EYf0QF",
+  "snapshot_id": "aRJ8gAAAAACJVEVJ8hzXMcGZjFpRn9QE",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6Cq0WES5JTdcBCw8hubCt0"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 176431,
+      "duration_ms": 176320,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
+      "url": "https://open.spotify.com/track/7ieBYsqVGvTx6rOvvYdoDY"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Nuevas Baladas",
-        "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186003,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 204933,
       "name": "Juliantla",
       "url": "https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Nuevas Baladas",
+        "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186003,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
     },
     {
       "added_at": null,

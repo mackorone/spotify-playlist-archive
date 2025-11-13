@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Zaleś
 
-647 songs - 1 day 7 hr 40 min
+648 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [do pogrzebu się zagoi](https://open.spotify.com/track/74NMdk0cJG92YXH2SZ1Crh) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt), [VBS](https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ) | [do pogrzebu się zagoi](https://open.spotify.com/album/6zaC41Pl5cljlJs717Y5Dj) | 3:01 | 2025-11-04 |  |
 | [Do widzenia](https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO) | [Kingska](https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N) | [Do widzenia](https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft) | 2:32 | 2025-01-09 | 2025-01-24 |
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 | 2025-01-24 |
+| [dookoła mnie](https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [dookoła mnie](https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og) | 2:04 | 2025-11-11 |  |
 | [Dotknięta przez słońce](https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639) | [Kachus](https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Dotknięta przez słońce](https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE) | 4:41 | 2025-08-26 |  |
 | [dotknąć chcę twego serca](https://open.spotify.com/track/5OASk17FMgi4vwemS7okKO) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [dotknąć chcę twego serca](https://open.spotify.com/album/4giN6tLosIqLENroXTuNT3) | 2:33 | 2025-07-03 | 2025-07-11 |
 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 | 2024-08-30 | 2024-09-20 |
@@ -540,7 +541,7 @@
 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-03-13 | 2025-04-04 |
 | [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 | 2024-09-13 | 2024-10-05 |
 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 | 2024-11-07 | 2025-01-24 |
-| [Tańczę](https://open.spotify.com/track/1nGEJZRxEb2PdS0YBUsPwi) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [ptakova](https://open.spotify.com/artist/6qHcB06FV47cRkAt5QbVwk) | [Tańczę](https://open.spotify.com/album/07CtRwsD5y3zNLKP2BHpi4) | 3:42 | 2025-11-11 |  |
+| [Tańczę](https://open.spotify.com/track/1nGEJZRxEb2PdS0YBUsPwi) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [ptakova](https://open.spotify.com/artist/6qHcB06FV47cRkAt5QbVwk) | [Tańczę](https://open.spotify.com/album/07CtRwsD5y3zNLKP2BHpi4) | 3:42 | 2025-11-11 | 2025-11-13 |
 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 | 2024-09-06 | 2024-09-20 |
 | [Tchórz](https://open.spotify.com/track/3IWmtaAgIywmurEdfBcMVh) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tchórz](https://open.spotify.com/album/3rHS5Om5ZqZGpvwpQneCU2) | 2:51 | 2024-06-28 | 2024-07-19 |
 | [tchórz](https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [tchórz](https://open.spotify.com/album/4ivdL6LJbfphxkRMO78bYv) | 3:29 | 2025-05-22 | 2025-07-06 |

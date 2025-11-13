@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH?si=rp\_WtEGDQ1WW7vZ6JzOEAg">polyana</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-237 songs - 12 hr 52 min
+238 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [The Water](https://open.spotify.com/track/5IJdAkK1KJfr8oAa1S2cUl) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Staring Down The Barrel](https://open.spotify.com/album/3VKTPNZCARzAXTxFpQlJ66) | 1:31 | 2025-08-07 |  |
 | [thembo](https://open.spotify.com/track/52IJSH9go3OFr6PvoL6dOi) | [Werewing](https://open.spotify.com/artist/6msaXg2oHJLtyWD4PoZpkE) | [THEMBO](https://open.spotify.com/album/1y2HmkTI4JaQKI3pz5HULV) | 1:58 | 2025-06-10 |  |
 | [thembo](https://open.spotify.com/track/5mbwsXdg5Bdd2tyqqceOvZ) | [Werewing](https://open.spotify.com/artist/6msaXg2oHJLtyWD4PoZpkE) | [thembo](https://open.spotify.com/album/4GKLqydauHPJFHm6pnDYEz) | 1:58 | 2024-10-18 | 2025-06-11 |
+| [throwback](https://open.spotify.com/track/5YdoumXHEAi1WASjyQttfs) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH) | [Pollyanna](https://open.spotify.com/album/2LXR2618aXK3sfnx200Blv) | 3:41 | 2025-11-13 |  |
 | [throwback](https://open.spotify.com/track/7e9388nNJNPvpgcr7sqeid) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH) | [throwback](https://open.spotify.com/album/6mPGMWDewCE93cUfGJe63q) | 3:41 | 2025-04-18 |  |
 | [Timekiller](https://open.spotify.com/track/3B6Pmp1a7P912E8fAYcBen) | [Catasham](https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri) | [Clarity](https://open.spotify.com/album/3v2TvCKleFj0IqpbEayg1N) | 2:38 | 2025-02-28 | 2025-03-14 |
 | [TOO MANY PEOPLE](https://open.spotify.com/track/1Oscj77jtKlkUf9CXB7VYZ) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:27 | 2024-09-06 |  |

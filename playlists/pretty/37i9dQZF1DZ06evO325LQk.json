@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37816,
+  "num_followers": 37817,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADsxhhM40EMbk8nLQZV0cbQ",
+  "snapshot_id": "aRJ8gAAAAAD2lO6HQZVV0X4nx2JwfnAN",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
       },
       "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
+      "duration_ms": 325307,
+      "name": "Nothing More to Say - Dub",
+      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
     },
     {
       "added_at": null,
@@ -239,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
       },
       "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 325307,
-      "name": "Nothing More to Say - Dub",
-      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
     },
     {
       "added_at": null,
@@ -540,7 +540,7 @@
       "added_at": null,
       "album": {
         "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
@@ -554,7 +554,7 @@
       ],
       "duration_ms": 291130,
       "name": "Elegance (feat. Popstar)",
-      "url": "https://open.spotify.com/track/0Dw0LJVfSHtu1npU4sjvKh"
+      "url": "https://open.spotify.com/track/0MXKTGLRW2d1lOrGRHhS3m"
     },
     {
       "added_at": null,

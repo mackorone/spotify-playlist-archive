@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,908 likes - 72 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,920 likes - 72 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 |
-| 2 | [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 |
-| 3 | [Kaolo Beat](https://open.spotify.com/track/2dr8yrTUpZw0EzS05mOlGU) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Kaolo Beat](https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX) | 1:46 |
-| 4 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 |
-| 5 | [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 |
+| 1 | [Kaolo Beat](https://open.spotify.com/track/2dr8yrTUpZw0EzS05mOlGU) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Kaolo Beat](https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX) | 1:46 |
+| 2 | [I Run](https://open.spotify.com/track/4nffa2OJOlgjCr4WPUZAuY) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz) | [I Run](https://open.spotify.com/album/4bqyKumRF0H8BZXtUIazLn) | 2:09 |
+| 3 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 |
+| 4 | [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 |
+| 5 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 |
 | 6 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
 | 7 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 |
 | 8 | [Go Down Deh \(feat\. Sean Paul & Shaggy\)](https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Go Down Deh \(feat\. Sean Paul & Shaggy\)](https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD) | 2:34 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 33 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 | 34 | [Do You Mind \- Crazy Cousinz Remix](https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN) | [Paleface](https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8), [Crazy Cousins](https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr) | [Do You Mind \(Crazy Cousins Remix\)](https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx) | 7:15 |
 | 35 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
-| 36 | [Wat Ik Doe](https://open.spotify.com/track/4RCGoyfqGJLGYu8fsFTydp) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Wat Ik Doe](https://open.spotify.com/album/5KIOgfssSbSfV9aqcNhnhR) | 2:26 |
+| 36 | [WAT IK DOE](https://open.spotify.com/track/4RCGoyfqGJLGYu8fsFTydp) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [WAT IK DOE](https://open.spotify.com/album/5KIOgfssSbSfV9aqcNhnhR) | 2:26 |
 | 37 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |
 | 38 | [Vader & zoon](https://open.spotify.com/track/1pyBvrqSmFtD3yUnXNTlJh) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC) | [Vader & zoon](https://open.spotify.com/album/1oXomN9t2CCXIAHbGbMlvQ) | 2:11 |
 | 39 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 71 | [Pretty Girls \- Remix](https://open.spotify.com/track/0BQhQL9MIIOvkufAPkqq1q) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Pretty Girls Remix Pack](https://open.spotify.com/album/4Wmt3X6XnB7UF2JxYXcJSk) | 2:58 |
 | 72 | [Macarena](https://open.spotify.com/track/0JCxROyTcCmn2NlmKozQBp) | [Stavros Martina](https://open.spotify.com/artist/17ynEC4GysdLM4R66FmghW) | [Macarena](https://open.spotify.com/album/15x23pLQyRifNSNESswpN0) | 2:22 |
 
-Snapshot ID: `AAAAAAWCAZgCVSC8kUBqPULPCYLZHSlz`
+Snapshot ID: `AAAAAJZxaUtkCPnHuNxC7beyD6xa23XI`

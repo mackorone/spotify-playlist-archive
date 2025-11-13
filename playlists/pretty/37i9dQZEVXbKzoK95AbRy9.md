@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,670 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,714 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Saudade Proibida \- Ao Vivo](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Proibida \(Ao Vivo\)](https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa) | 2:40 |
 | 50 | [Última Noite \- Solo](https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:34 |
 
-Snapshot ID: `MKao+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MKf6eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 38004,
+  "num_followers": 38011,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAuzNpLapDK8VFQ8w9iqa9d",
+  "snapshot_id": "aRJ8gAAAAAAimsCokvwWgSTVo4RXe8lV",
   "tracks": [
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 309640,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
+      "duration_ms": 245373,
+      "name": "I Said I Love You",
+      "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 245373,
-      "name": "I Said I Love You",
-      "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
+      "duration_ms": 309640,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out (Extended)",
-        "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 195579,
-      "name": "Sometimes (with Jenevieve)",
-      "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruth & Boaz (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/5GH6c7rgkFzXyKgvSq6sIJ"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 79465,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/0cCWlrxzlOHyx58NrWiIKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Night Out (Extended)",
+        "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Sometimes (with Jenevieve)",
+      "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 301626,
-      "name": "Give U My Heart (feat. Toni Braxton)",
-      "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painted (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 217433,
       "name": "Shoulda (feat. Babyface)",
       "url": "https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 301626,
+      "name": "Give U My Heart (feat. Toni Braxton)",
+      "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+        "name": "A Closer Look",
+        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 243400,
-      "name": "Grown & Sexy",
-      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
+      "duration_ms": 352866,
+      "name": "Two Occasions (Live) - Live Version",
+      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
         {
@@ -924,29 +924,29 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Partners (Deluxe)",
-        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+        "name": "Back With A Heart",
+        "url": "https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Evergreen (with Babyface)",
-      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
+      "duration_ms": 246533,
+      "name": "I Honestly Love You",
+      "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
     }
   ],
   "unique_name": "This Is Babyface",

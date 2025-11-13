@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Panter B\u00e9lico en portada.",
-  "num_followers": 223963,
+  "num_followers": 224075,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "AGL",
         "url": "https://open.spotify.com/album/3x2OQt3w1LLTk7mLs04xe4"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 139253,
       "name": "AGL",
       "url": "https://open.spotify.com/track/5akztYD5E0lFhYQlvPaIov"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 219615,
-      "name": "El N1 El Perfil o El Chavalon",
-      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Over Size",
         "url": "https://open.spotify.com/album/3sXtgN0yz4fCSswwc955wk"
       },
@@ -1255,18 +1235,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "DINERAL",
-        "url": "https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK"
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
       "artists": [
         {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 222743,
-      "name": "EL AGUACATE",
-      "url": "https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s"
+      "duration_ms": 219615,
+      "name": "El N1 El Perfil o El Chavalon",
+      "url": "https://open.spotify.com/track/6DijdXsyS0PtjfAnqFsQS2"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "DINERAL",
+        "url": "https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        }
+      ],
+      "duration_ms": 222743,
+      "name": "EL AGUACATE",
+      "url": "https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 200000,
       "name": "R3",
       "url": "https://open.spotify.com/track/4fLNsB5vYYmh01aWhftI7v"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "El Hombre del Equipo",
-      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1339,6 +1319,26 @@
       "duration_ms": 240292,
       "name": "El Se\u00f1or De La Monta\u00f1a - Live",
       "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "El Hombre del Equipo",
+      "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "La Gente De Durango",
+        "url": "https://open.spotify.com/album/2DHIwHFhWk5OP97yrkTCMn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 144979,
+      "name": "La Gente De Durango",
+      "url": "https://open.spotify.com/track/5SoFa549wQYFrsj7fxyyFh"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Toca Batear",
-        "url": "https://open.spotify.com/album/7hNK4GPqNuEYvcX0s1SLnT"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Toca Batear",
-      "url": "https://open.spotify.com/track/0EL55H47sEoiuwaRoOC68O"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
@@ -1467,6 +1467,38 @@
       "duration_ms": 211866,
       "name": "El G\u00fcero Rey del Pop",
       "url": "https://open.spotify.com/track/5H4qUtRQC0rJxWolOaEaPy"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "El 04",
+        "url": "https://open.spotify.com/album/6sAO8JZsJdWIA0x1g53CAq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El 04",
+      "url": "https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Toca Batear",
+        "url": "https://open.spotify.com/album/7hNK4GPqNuEYvcX0s1SLnT"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Toca Batear",
+      "url": "https://open.spotify.com/track/0EL55H47sEoiuwaRoOC68O"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1487,38 +1519,6 @@
       "duration_ms": 194541,
       "name": "Le Apodan El Fresa",
       "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "La Gente De Durango",
-        "url": "https://open.spotify.com/album/2DHIwHFhWk5OP97yrkTCMn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 144979,
-      "name": "La Gente De Durango",
-      "url": "https://open.spotify.com/track/5SoFa549wQYFrsj7fxyyFh"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "El 04",
-        "url": "https://open.spotify.com/album/6sAO8JZsJdWIA0x1g53CAq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "El 04",
-      "url": "https://open.spotify.com/track/6igq3Wr66N1lbjNs216aHw"
     },
     {
       "added_at": "2025-11-07 18:00:12",

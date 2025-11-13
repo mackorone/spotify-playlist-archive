@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,180 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,208 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 37 | [On The News \(feat\. Cardi B\)](https://open.spotify.com/track/0fAyXonqZAgDQB2v5DjmNS) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 3:40 |
 | 38 | [Backin' It Up \(feat\. Cardi B\)](https://open.spotify.com/track/0PpfPNtQOOvbMNVJijTQj0) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Backin' It Up \(feat\. Cardi B\)](https://open.spotify.com/album/4g9y8J8mzpl6rxnOjhKrwH) | 3:10 |
 | 39 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
+| 40 | [PUT EM IN THE FRIDGE](https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:34 |
 
-Snapshot ID: `aRErAAAAAACIG1/y9IeTdAig1OvM+eN/`
+Snapshot ID: `aRJ8gAAAAADIGk2NrTFj70KG5+Vpom1b`

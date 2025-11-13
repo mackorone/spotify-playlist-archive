@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-500 songs - 2 day 0 hr 17 min
+501 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,9 +465,10 @@
 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 | 2022-09-09 | 2025-02-22 |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê?](https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5) | 3:34 | 2022-09-09 | 2024-10-12 |
 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 | 2024-04-26 |  |
+| [Um Novo Dia \- Ao Vivo](https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Um Novo Dia \(Ao Vivo\)](https://open.spotify.com/album/3GSAZ8tFAL4wQVM6fLflbg) | 6:54 | 2025-10-24 |  |
 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 | 2022-09-09 | 2024-08-17 |
 | [Uma Nova História \- Acústico](https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 4:38 | 2022-09-09 | 2025-02-15 |
-| [Unidos em Fé](https://open.spotify.com/track/38jE2OTK942nevMNlcPZg9) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Upstream Quest](https://open.spotify.com/artist/2f66U8Hf5HyZ251ZbIrRgv), [fhop camps](https://open.spotify.com/artist/4bgLn3V7COx7sLc2h8Mbvv) | [Unidos em Fé](https://open.spotify.com/album/3DVwdMLFGY4DcUHRPUgiMo) | 4:36 | 2025-10-03 |  |
+| [Unidos em Fé](https://open.spotify.com/track/38jE2OTK942nevMNlcPZg9) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Upstream Quest](https://open.spotify.com/artist/2f66U8Hf5HyZ251ZbIrRgv), [fhop camps](https://open.spotify.com/artist/4bgLn3V7COx7sLc2h8Mbvv) | [Unidos em Fé](https://open.spotify.com/album/3DVwdMLFGY4DcUHRPUgiMo) | 4:36 | 2025-10-03 | 2025-11-13 |
 | [Unção Pelo Ar \- Ao Vivo](https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Unção Pelo Ar \(Ao Vivo\)](https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22) | 10:41 | 2024-04-26 |  |
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-09 | 2023-03-12 |
 | [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 | 2022-09-09 | 2024-12-21 |

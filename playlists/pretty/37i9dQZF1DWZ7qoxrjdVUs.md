@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain]
 
 > Spotify editors kiezen het beste van 2024 uit Nederland\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,870 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain]
 | 36 | [You & Me](https://open.spotify.com/track/36qaKbHr8XkihBq9TcoGGN) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 4:42 |
 | 37 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
 | 38 | [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 |
-| 39 | [Hurt Me](https://open.spotify.com/track/0dG78krBNZOM6WBWoJQyWP) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [The Journey](https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj) | 3:05 |
+| 39 | [Hurt Me](https://open.spotify.com/track/0dG78krBNZOM6WBWoJQyWP) | [SERA](https://open.spotify.com/artist/6gWp2XGfUkwpBzjOXjH7UG) | [The Journey](https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj) | 3:05 |
 | 40 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
 | 41 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 |
 | 42 | [Good To You](https://open.spotify.com/track/4GICabnDFpTLqWQg8R5sft) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/40PHB87OjY3asWgjaA3KOo) | 3:44 |

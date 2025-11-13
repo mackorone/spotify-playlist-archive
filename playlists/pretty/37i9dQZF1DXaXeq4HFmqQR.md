@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,828 likes - 59 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,827 likes - 59 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 34 | [Contacto](https://open.spotify.com/track/0ex9N7mvGqTyREE886qMIU) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Contacto](https://open.spotify.com/album/6JglBj0vVEV96xdUjHlAUG) | 4:07 |
 | 35 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
 | 36 | [Si Bien Fue Poco](https://open.spotify.com/track/6tgrKDfQ2SYeGdcJLqarwI) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Cómo Enamorarse con el Corazón Partío](https://open.spotify.com/album/2HoYvQucdu79TEF25BekcW) | 4:06 |
-| 37 | [Jardín Psíquico](https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Parajes Oníricos](https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd) | 3:05 |
-| 38 | [Un año más \- Bolero](https://open.spotify.com/track/6HsYqeuGn0l8BMxxIKdMQw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Kumbita](https://open.spotify.com/album/1ZE3Gm8Xr0FDOVRhWcqz5d) | 4:38 |
+| 37 | [Un año más \- Bolero](https://open.spotify.com/track/6HsYqeuGn0l8BMxxIKdMQw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Kumbita](https://open.spotify.com/album/1ZE3Gm8Xr0FDOVRhWcqz5d) | 4:38 |
+| 38 | [Jardín Psíquico](https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Parajes Oníricos](https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd) | 3:05 |
 | 39 | [Pequeñas esperanzas](https://open.spotify.com/track/4COpnbZlDeDeSo9gEiql6U) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:21 |
 | 40 | [A Cambio](https://open.spotify.com/track/12TROHXanz03JmgRDBkZhD) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [A Cambio](https://open.spotify.com/album/1XbfJW8GOflbRmMkuCYp9S) | 3:25 |
 | 41 | [Qué Signo Eres?](https://open.spotify.com/track/2f6qmxqrHSqcxZctoVNKG1) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan) | [Qué Signo Eres?](https://open.spotify.com/album/1q2bd8CS3zgITNFJqfO2vq) | 3:10 |
 | 42 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
 | 43 | [¿Qué vas a hacer?](https://open.spotify.com/track/4Xyk3CoKnQAshCBUDZAeSZ) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 3:28 |
-| 44 | [Encuentro Fortuna](https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [CASA](https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp) | 2:58 |
-| 45 | [Mentí \- Acústica](https://open.spotify.com/track/65Er3QDAJ1rfoZUShScTPB) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:00 |
+| 44 | [Mentí \- Acústica](https://open.spotify.com/track/65Er3QDAJ1rfoZUShScTPB) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:00 |
+| 45 | [Encuentro Fortuna](https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [CASA](https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp) | 2:58 |
 | 46 | [Me Derretí](https://open.spotify.com/track/5tIj66UBfX28higolWDBWS) | [Amanitas](https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR) | [Todo Es Circular](https://open.spotify.com/album/0tXaJ5PMJLlCVtbasU3WbT) | 3:41 |
 | 47 | [La Historia](https://open.spotify.com/track/74xLAFi1oGs9XA6XwZT1Bl) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La historia](https://open.spotify.com/album/34wh1HcP270JvkRnK2ZVeS) | 3:13 |
 | 48 | [Suave Brisa](https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 5:15 |

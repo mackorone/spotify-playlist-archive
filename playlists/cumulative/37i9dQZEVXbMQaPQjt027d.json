@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4KaHfqM1aMQrw63pHrzIM3"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4aJOAOc5CkBxEcwHhxbLRi"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 229959,
       "name": "Als het je niet bevalt, Ga dan!",
       "url": "https://open.spotify.com/track/2iirx2qR6wxJEdR0CWDc7R"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 183199,
       "name": "Als het je niet bevalt, ga dan! (Anti-AZC) - Hardcore Mix",
       "url": "https://open.spotify.com/track/6JUmSZYDwrmAapdWW2d8WV"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 100746,
       "name": "Bless the Telephone",
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
@@ -1112,6 +1112,24 @@
       "duration_ms": 179016,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
+    },
+    {
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/3IMp2eLKnPqzMkE2P6IIOu"
+      },
+      "artists": [
+        {
+          "name": "Josua Peter",
+          "url": "https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171727,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2iy3Qsydsu8slAoZV2BGOu"
     },
     {
       "album": {
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 229599,
       "name": "Dit is Voor Nederland",
       "url": "https://open.spotify.com/track/4EwbTlzeFYbbzJ2YPsxH3t"
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 238519,
       "name": "Fuck jullie! Linkse Fuckers! - Hardcore Mix",
       "url": "https://open.spotify.com/track/1x1WEExbPR1WSnKVGB6qvK"
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Helaas",
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
@@ -4262,7 +4280,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 218079,
       "name": "Ik vertaal het voor je! (Wij zeggen Nee, Nee, Nee, tegen een AZC! (Hardcore Mix) - Remix",
       "url": "https://open.spotify.com/track/1P6VH2xgZln65Jymj0feEP"
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 204959,
       "name": "Livin\u2019 on Borrowed Time",
       "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
@@ -5666,7 +5684,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 140560,
       "name": "Mimosa 2000",
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
@@ -5761,6 +5779,28 @@
     },
     {
       "album": {
+        "name": "Move As One (Official Thunderdome 2025 Anthem)",
+        "url": "https://open.spotify.com/album/2wcKU4ucHc2iotlPJZOhcr"
+      },
+      "artists": [
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        },
+        {
+          "name": "Tha Playah",
+          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234810,
+      "name": "Move As One (Official Thunderdome 2025 Anthem)",
+      "url": "https://open.spotify.com/track/3uljsRfJgrU0WnAbKXOQdZ"
+    },
+    {
+      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -5776,6 +5816,24 @@
       "duration_ms": 302647,
       "name": "Mr. Crowley",
       "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
+    },
+    {
+      "album": {
+        "name": "MUEVELOU",
+        "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
+      },
+      "artists": [
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135659,
+      "name": "MUEVELOU",
+      "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
     },
     {
       "album": {
@@ -5884,7 +5942,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 288159,
       "name": "Nederland in Verzet",
       "url": "https://open.spotify.com/track/7DAtr9E3x0R5T2eNhnFkht"
@@ -5902,7 +5960,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 234119,
       "name": "Nederland United - Anti AZC",
       "url": "https://open.spotify.com/track/2LpQT38yieY6EIMY0topfC"
@@ -6008,7 +6066,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -6142,7 +6200,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 166919,
       "name": "Noem me maar Rechts-Extreem",
       "url": "https://open.spotify.com/track/5cnq7vqBdfKFRJvGHGal7b"
@@ -6326,6 +6384,32 @@
       "duration_ms": 225787,
       "name": "Octopus (100.000 H\u00e4nde)",
       "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
+    },
+    {
+      "album": {
+        "name": "Oeteldonk Met Jou",
+        "url": "https://open.spotify.com/album/5LxapwD2l9eH3DDKR6WwjM"
+      },
+      "artists": [
+        {
+          "name": "Kermit dun Kwakert",
+          "url": "https://open.spotify.com/artist/0pvixheshW4BS5bimksMv9"
+        },
+        {
+          "name": "Kelsey Ikkersheim",
+          "url": "https://open.spotify.com/artist/0TZaQ6HN0qRD5wS5uDKiLl"
+        },
+        {
+          "name": "Oeteldonk",
+          "url": "https://open.spotify.com/artist/1ZDurHpvKpiAC7j4wgclXI"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Oeteldonk Met Jou",
+      "url": "https://open.spotify.com/track/2Urevob1PzRlHazFLyCmaQ"
     },
     {
       "album": {
@@ -6731,6 +6815,24 @@
     },
     {
       "album": {
+        "name": "deims deims deims",
+        "url": "https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA"
+      },
+      "artists": [
+        {
+          "name": "kans",
+          "url": "https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235443,
+      "name": "princess treatment",
+      "url": "https://open.spotify.com/track/0HZSmDZqMkbllGsyEyPQ08"
+    },
+    {
+      "album": {
         "name": "Pumpin Jumpin",
         "url": "https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF"
       },
@@ -7012,6 +7114,28 @@
     {
       "album": {
         "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR"
+    },
+    {
+      "album": {
+        "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
       "artists": [
@@ -7026,7 +7150,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
@@ -7356,7 +7480,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -7522,6 +7646,28 @@
       "duration_ms": 188727,
       "name": "Soura",
       "url": "https://open.spotify.com/track/3MAh3u05SSjAcIJGMGjRXV"
+    },
+    {
+      "album": {
+        "name": "SPAGHETTI",
+        "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172313,
+      "name": "SPAGHETTI",
+      "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
       "album": {
@@ -8250,7 +8396,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 212519,
       "name": "Timmermans (Valse Profeet van het Klimaat)",
       "url": "https://open.spotify.com/track/58JftWMWkMCqyhrsVxyVk2"
@@ -8480,7 +8626,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 184711,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
@@ -9026,7 +9172,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
@@ -9088,6 +9234,24 @@
       "duration_ms": 190759,
       "name": "Was Machst Du",
       "url": "https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE"
+    },
+    {
+      "album": {
+        "name": "Smartlap Is Niet Dood",
+        "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Wat Is Het Kut Om Agent Te Zijn",
+      "url": "https://open.spotify.com/track/4PeWOAEZjyTFzXYcITYPb9"
     },
     {
       "album": {
@@ -9604,7 +9768,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 191719,
       "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
       "url": "https://open.spotify.com/track/4nW7z4lyhT18qAuz7uZ7lW"
@@ -9622,7 +9786,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 229839,
       "name": "Wij zeggen Nee,Nee, Nee, tegen een AZC",
       "url": "https://open.spotify.com/track/62Ard2bzNbrqt9U6eXuB93"
@@ -9640,7 +9804,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 187159,
       "name": "Wij zijn er klaar mee! - Hardcore Mix",
       "url": "https://open.spotify.com/track/7ihEpM72RpS82qNR7Gm2FS"
@@ -9658,7 +9822,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 72073,
       "name": "Wij Zijn Groep 3 (Golden)",
       "url": "https://open.spotify.com/track/3yaNz4G79700PzKwpaaslP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,172 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,156 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 89 | [Desafinado](https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:58 |
 | 90 | [Lágrimas negras](https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:47 |
 | 91 | [No Rain \- Remastered 2002](https://open.spotify.com/track/4ptSL1o2pRgNvrC4wsN1Pl) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Best Of Blind Melon](https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ) | 3:37 |
-| 92 | [Here Comes the Sun](https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 2:32 |
-| 93 | [Love Is Here To Stay](https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 4:22 |
+| 92 | [Love Is Here To Stay](https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 4:22 |
+| 93 | [Here Comes the Sun](https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 2:32 |
 | 94 | [Don't Wait Too Long](https://open.spotify.com/track/1AmODJ8Py2tZRv28K5SuzX) | [Larry Klein](https://open.spotify.com/artist/0ej3IwUoiaLNMaWt9LFjRU), [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 3:09 |
 | 95 | [Leaveyourlove \(with MARO\)](https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Leaveyourlove \(with MARO\)](https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9) | 3:34 |
 | 96 | [Perfectly Imperfect](https://open.spotify.com/track/1gRxJURUiIEpsNGfhIKCrF) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/72TYaE6b6PDBrm9oFjCbRq) | 3:24 |

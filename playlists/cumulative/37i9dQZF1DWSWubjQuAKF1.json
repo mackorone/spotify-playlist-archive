@@ -2701,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "dooko\u0142a mnie",
+        "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124259,
+      "name": "dooko\u0142a mnie",
+      "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
+    },
+    {
+      "album": {
         "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
       },
@@ -10236,7 +10254,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 222992,
       "name": "Ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/1nGEJZRxEb2PdS0YBUsPwi"

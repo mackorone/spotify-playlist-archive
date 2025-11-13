@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,537 likes - 40 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,534 likes - 40 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 17 | [Hawâna](https://open.spotify.com/track/3vZMUscHIQW7gVDKyOyrd6) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:20 |
 | 18 | [Why](https://open.spotify.com/track/6vGSyzb1zzqIh2ESfB6t9h) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Sound of Istanbul, Vol\. 1](https://open.spotify.com/album/2uePgfeIfc4lRFuoK21RoA) | 5:25 |
 | 19 | [The Persian Nightingale](https://open.spotify.com/track/4Qllk9fsTYK9qJpWrC6uVq) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Persian Nightingale](https://open.spotify.com/album/1FUgOS4nYegLdaFAu3wmZH) | 3:13 |
-| 20 | [Biçare](https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2), [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Ismail Tuncbilek](https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm) | [Taksim Trio](https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P) | 7:40 |
-| 21 | [Houzam](https://open.spotify.com/track/4KNQ4FKu452FMENduv7WzE) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:08 |
+| 20 | [Houzam](https://open.spotify.com/track/4KNQ4FKu452FMENduv7WzE) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:08 |
+| 21 | [Biçare](https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2), [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Ismail Tuncbilek](https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm) | [Taksim Trio](https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P) | 7:40 |
 | 22 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
 | 23 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 |
 | 24 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |

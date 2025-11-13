@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 19783,
+  "num_followers": 19792,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEHzwHp30XYqGnf9VuIFa1Zt4BOn",
+  "snapshot_id": "AAAAAKed2sQIHljp33QbVqI7gLboruVq",
   "tracks": [
     {
       "added_at": "2025-11-05 08:21:46",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
         "name": "Blooming Wings",
         "url": "https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 148000,
       "name": "Anyone But You (Feat. MIRYO of Brown Eyed Girls)",
       "url": "https://open.spotify.com/track/2Sprbw65iHnDNsmgbSoH7C"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
-        "name": "Cold Blooded",
-        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
     },
     {
       "added_at": "2025-11-05 08:21:46",

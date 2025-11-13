@@ -1,6 +1,6 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 309098,
+  "num_followers": 309630,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
@@ -911,8 +911,8 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
       "artists": [
         {
@@ -920,17 +920,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/5yYCc4KdgGsTDnOoSI45vj"
         }
       ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+      "duration_ms": 213943,
+      "name": "Porte Exuberante",
+      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1007,8 +1003,8 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
       "artists": [
         {
@@ -1016,13 +1012,17 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/5yYCc4KdgGsTDnOoSI45vj"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 213943,
-      "name": "Porte Exuberante",
-      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Cuernito Armani",
-      "url": "https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
         "name": "Los Buitres Con Tololoche",
         "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Cuernito Armani",
+      "url": "https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
         "name": "Disfruto Lo Malo",
         "url": "https://open.spotify.com/album/0o1pUhqBO6zq1t0PiWVDSf"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/46DU5gYWY2vjE79mbhX4Wv"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
       "artists": [
         {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/0A0lNzbQOBESKUSog1vHXS"
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1859,34 +1859,18 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "El Favorito",
-        "url": "https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "La Rabia",
-      "url": "https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N"
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/0A0lNzbQOBESKUSog1vHXS"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1903,6 +1887,22 @@
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
+        "name": "El Favorito",
+        "url": "https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "La Rabia",
+      "url": "https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N"
     }
   ],
   "unique_name": "Fiesta y Desmadre",

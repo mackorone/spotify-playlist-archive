@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFOGG1E7V1oRH">Jo Caleb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,512 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,551 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 9 | [Bored To Death](https://open.spotify.com/track/1G06KU4YRuXS2z4vZwX74N) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY) | [Bored To Death](https://open.spotify.com/album/6alyP86dLLOp08GEXlD8ai) | 2:17 |
 | 10 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 |
 | 11 | [Christmas Time \(Me, Myself and I\)](https://open.spotify.com/track/7qX04AndH7DPw5ZEid4NpZ) | [BITTERS](https://open.spotify.com/artist/5aBDMf9T5XYIR7roQb9DUR) | [HBM Presents: Sleigh The Holidays, Volume 2](https://open.spotify.com/album/0rVG8hZ8PVoUXq7ePvIgqF) | 3:06 |
-| 12 | [Returning To Myself](https://open.spotify.com/track/0KpVSAG8azclR4J9DUQMvf) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:17 |
+| 12 | [Returning To Myself](https://open.spotify.com/track/0KpVSAG8azclR4J9DUQMvf) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:17 |
 | 13 | [Bubba](https://open.spotify.com/track/7x4mES5rf9IcOAEYzNweEq) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Bubba](https://open.spotify.com/album/1fn6l269rPNkInz99djX88) | 3:56 |
 | 14 | [Ready For Love](https://open.spotify.com/track/3BTaJdl0s9anWsJs7AUTcY) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Ready For Love](https://open.spotify.com/album/6oIDwMTYpYNoycGvpN4glq) | 4:44 |
 | 15 | [The Daughters](https://open.spotify.com/track/20YyqGsC3sb7Xz3nDQYak9) | [Ashley Ray](https://open.spotify.com/artist/1QAhUwf00n5kEnLN7cADG8) | [The Daughters](https://open.spotify.com/album/3O8ZwOd4xQxyd21nwsMxbZ) | 3:08 |

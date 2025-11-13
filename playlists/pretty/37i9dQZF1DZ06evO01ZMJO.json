@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23251,
+  "num_followers": 23262,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAApl7mQxarV7U1zkdBPPeBq",
+  "snapshot_id": "aRJ8gAAAAACz+2TtgCKIYX+CDAh89Pkh",
   "tracks": [
     {
       "added_at": null,
@@ -507,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puberbrein (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/04njY5hDefPtnKZRpb6Ppk"
-      },
-      "artists": [
-        {
-          "name": "STUK",
-          "url": "https://open.spotify.com/artist/0MnM8NE69iw1cVc7GVIZ41"
-        },
-        {
-          "name": "Kafke",
-          "url": "https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 118091,
-      "name": "Puberbrein - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1J1pj5hRtDhvqEuSleAFrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Helicopter",
         "url": "https://open.spotify.com/album/60Vf6OWSmd6Zm4YzEtLE1g"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 207290,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/4uHa280EJr5Fs9qYfjOCzR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puberbrein (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/04njY5hDefPtnKZRpb6Ppk"
+      },
+      "artists": [
+        {
+          "name": "STUK",
+          "url": "https://open.spotify.com/artist/0MnM8NE69iw1cVc7GVIZ41"
+        },
+        {
+          "name": "Kafke",
+          "url": "https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 118091,
+      "name": "Puberbrein - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1J1pj5hRtDhvqEuSleAFrZ"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zo Mooi (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/5OQFEUikCYxmFs1WFkzMOA"
+        "name": "Ons Leven (X-Qlusive Holland 2022 Anthem)",
+        "url": "https://open.spotify.com/album/4L2xR6YByNlTTzjG8BeXDH"
       },
       "artists": [
         {
@@ -704,13 +704,17 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Nienke Plas",
-          "url": "https://open.spotify.com/artist/5rAvD7H6mxJut208JT5KI4"
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        },
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
         }
       ],
-      "duration_ms": 182787,
-      "name": "Zo Mooi - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1cet6gxEKDVXqUngf0Dp2O"
+      "duration_ms": 253500,
+      "name": "Ons Leven (X-Qlusive Holland 2022 Anthem)",
+      "url": "https://open.spotify.com/track/3CTb9BtKXGsnhVtR65I0PP"
     },
     {
       "added_at": null,
@@ -739,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ons Leven (X-Qlusive Holland 2022 Anthem)",
-        "url": "https://open.spotify.com/album/4L2xR6YByNlTTzjG8BeXDH"
+        "name": "Zo Mooi (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/5OQFEUikCYxmFs1WFkzMOA"
       },
       "artists": [
         {
@@ -748,17 +752,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Zany",
-          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
-        },
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+          "name": "Nienke Plas",
+          "url": "https://open.spotify.com/artist/5rAvD7H6mxJut208JT5KI4"
         }
       ],
-      "duration_ms": 253500,
-      "name": "Ons Leven (X-Qlusive Holland 2022 Anthem)",
-      "url": "https://open.spotify.com/track/3CTb9BtKXGsnhVtR65I0PP"
+      "duration_ms": 182787,
+      "name": "Zo Mooi - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1cet6gxEKDVXqUngf0Dp2O"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebls 4 Life",
-        "url": "https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 211519,
-      "name": "Rebls 4 Life",
-      "url": "https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zimmer Frei",
         "url": "https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 173988,
       "name": "Zimmer Frei",
       "url": "https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebls 4 Life",
+        "url": "https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 211519,
+      "name": "Rebls 4 Life",
+      "url": "https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        }
-      ],
-      "duration_ms": 204387,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocaina",
         "url": "https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 184823,
       "name": "Cocaina",
       "url": "https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
     },
     {
       "added_at": null,

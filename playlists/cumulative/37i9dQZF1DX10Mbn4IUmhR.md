@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-702 songs - 1 day 13 hr 11 min
+703 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 | 2025-06-06 | 2025-06-21 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2025-03-20 | 2025-04-04 |
 | [Heavy Love](https://open.spotify.com/track/6NoODpPZCIa1DbXiZxohDw) | [Ross Learmonth](https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN) | [Heavy Love](https://open.spotify.com/album/4ySLQUc82Kc5EufnBUXFAo) | 3:17 | 2025-07-10 | 2025-07-18 |
+| [Hello My Old Lover](https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Hello My Old Lover](https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp) | 3:09 | 2025-11-07 |  |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-04-30 |
 | [Hey, Soul Sister](https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hey, Soul Sister](https://open.spotify.com/album/5lTCUyQrKcSmcw5ULkt75O) | 3:36 | 2025-04-10 | 2025-04-18 |
 | [High](https://open.spotify.com/track/3bIoJjL2VH2U9nInHQYHgv) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [High / Higher](https://open.spotify.com/album/1UeBb2lT6mMln7aveePUMR) | 2:57 | 2025-03-07 | 2025-03-14 |
@@ -628,7 +629,7 @@
 | [Top Of Mind](https://open.spotify.com/track/5eqUfcX1d5e6Tg1H6ZgUl3) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Top Of Mind](https://open.spotify.com/album/3JnKDT4jFI8yl5hC2CsUw1) | 2:35 | 2025-01-30 | 2025-03-14 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-11-07 | 2025-03-14 |
 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 | 2024-11-28 | 2025-01-31 |
-| [Touch Me Like a Gangster](https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Touch Me Like a Gangster](https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D) | 2:43 | 2025-06-06 |  |
+| [Touch Me Like a Gangster](https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Touch Me Like a Gangster](https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D) | 2:43 | 2025-06-06 | 2025-11-13 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2024-07-12 |
 | [Trinkets](https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Trinkets](https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g) | 1:56 | 2025-08-14 | 2025-08-19 |
 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 | 2025-03-20 | 2025-05-30 |

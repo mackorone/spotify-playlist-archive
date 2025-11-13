@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23352,
+  "num_followers": 23354,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABKaX+0VJkna5sZhTCCfxWs",
+  "snapshot_id": "aRJ8gAAAAAD4tKLay20r5kwLlHs/SVoj",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 170721,
       "name": "WAHALA (feat. Olamide)",
       "url": "https://open.spotify.com/track/0bkq8SCKDRY1RBFKIADCQK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 Days (feat. CKay)",
-        "url": "https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "40 Days (feat. CKay)",
-      "url": "https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 153560,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 Days (feat. CKay)",
+        "url": "https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "40 Days (feat. CKay)",
+      "url": "https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x"
     },
     {
       "added_at": null,

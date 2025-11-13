@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de ARIA VEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,995 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,982 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 49 | [WARMISITAY](https://open.spotify.com/track/4Y203vnL8mFkVmAVOlSsWG) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [POP ANDINO](https://open.spotify.com/album/1cQIL3GmWmjxqgTzER9FQh) | 3:24 |
 | 50 | [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 |
 
-Snapshot ID: `AAAAAIGnVIZTrzdoE+ieK7snWiil+1m4`
+Snapshot ID: `AAAAAJLaQ3K0stz0pHjIomrv+rvLXn7l`

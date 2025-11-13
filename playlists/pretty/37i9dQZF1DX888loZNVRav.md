@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Maybe Happy Ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,741 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,745 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Rainy Day We Met \(from Maybe Happy Ending\) \- Original Broadway Cast Recording](https://open.spotify.com/track/2unUEpRfYNVGj0L3JPaOw1) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Helen J Shen](https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ) | [Maybe Happy Ending \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd) | 3:33 |
+| 1 | [The Rainy Day We Met \(from Maybe Happy Ending\) \- Original Broadway Cast Recording](https://open.spotify.com/track/2unUEpRfYNVGj0L3JPaOw1) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Helen J Shen](https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ), [Will Aronson](https://open.spotify.com/artist/0SuXyfvrmYEbsVI0YFNgUp), [Hue Park](https://open.spotify.com/artist/76RDoZpPra0HgZcnC4vNZE) | [Maybe Happy Ending \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd) | 3:33 |
 | 2 | [She Knocks Me Out](https://open.spotify.com/track/7zaCoHhmiCq0rTOBJH7cjK) | [Ainsley Melham](https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM), [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Original Broadway Cast of Boop! The Musical](https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT) | [She Knocks Me Out](https://open.spotify.com/album/6gcJAl6HZ3fzN7MXCxlBv3) | 3:08 |
 | 3 | [Come What May](https://open.spotify.com/track/0Ab8W397VjR2ZNVkItDjSO) | [Aaron Tveit](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx), [Karen Olivo](https://open.spotify.com/artist/01hcqBKMrPmHtg3RBJsxaP), [Original Broadway Cast of Moulin Rouge! The Musical](https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v) | [Moulin Rouge! The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk) | 3:16 |
 | 4 | [Falling Slowly](https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb) | [Steve Kazee](https://open.spotify.com/artist/2E0WuV49YeVlDWrmLf4jKK), [Cristin Milioti](https://open.spotify.com/artist/0KV9UzwJbLgC8QdOAxKlTU), [Once Ensemble](https://open.spotify.com/artist/28Tjtr1MQlXJwcNVgcwOTG) | [Once: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN) | 4:26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Akhrieze",
+  "description": "The best new music by independent artists and labels in India. Cover - Saad Khan",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 297600,
       "name": "Aan Baan",
       "url": "https://open.spotify.com/track/0vbuZoirhPmK8NyJIGuvwQ"
@@ -9035,6 +9035,28 @@
     },
     {
       "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/4LVYYC0kGPAlPQ91S7hZdf"
+      },
+      "artists": [
+        {
+          "name": "Savneet Singh",
+          "url": "https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY"
+        },
+        {
+          "name": "Sunny Subramanian",
+          "url": "https://open.spotify.com/artist/4Otbfyw3dUGWXAp3C7zbS2"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208285,
+      "name": "Fidaa",
+      "url": "https://open.spotify.com/track/0YdQ6qljvd2PgLi7Rb7r5z"
+    },
+    {
+      "album": {
         "name": "Fight on Acoustic",
         "url": "https://open.spotify.com/album/4vXljp9sMEqnzdvy4aGpMx"
       },
@@ -9408,7 +9430,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 185142,
       "name": "Forever Unsaid",
       "url": "https://open.spotify.com/track/7mxhYqUOpfHzNDHoSEbmJz"
@@ -10870,7 +10892,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 173571,
       "name": "Hearts Like Rolling Stone",
       "url": "https://open.spotify.com/track/6rp21rPJOGxOxa1yRgSy2F"
@@ -13346,6 +13368,28 @@
       "duration_ms": 218763,
       "name": "Jaane Kyun (Reimagined)",
       "url": "https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH"
+    },
+    {
+      "album": {
+        "name": "Jaane Na",
+        "url": "https://open.spotify.com/album/4iMp1tqyzC4eodVGevjzcz"
+      },
+      "artists": [
+        {
+          "name": "Jaden Maskie",
+          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
+        },
+        {
+          "name": "Dridha",
+          "url": "https://open.spotify.com/artist/1Es2pwZLCpNubImbBdJwyr"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168118,
+      "name": "Jaane Na",
+      "url": "https://open.spotify.com/track/3LzM94pqmmbPnqMsCVOjm7"
     },
     {
       "album": {
@@ -15850,6 +15894,28 @@
       "duration_ms": 158294,
       "name": "Kajal Ki Kothari",
       "url": "https://open.spotify.com/track/6uJqHVZywlATUGDL0Sgd5L"
+    },
+    {
+      "album": {
+        "name": "Kajra",
+        "url": "https://open.spotify.com/album/534ktVTffMMbow869ByCxI"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/67SWJbjPx8M3562Ewl4Ygx"
+        },
+        {
+          "name": "AM.AN",
+          "url": "https://open.spotify.com/artist/5hUBrACCvgh5D9HJtoBLff"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124421,
+      "name": "Kajra",
+      "url": "https://open.spotify.com/track/1fLnyfgWbEWASX4fuZsWgS"
     },
     {
       "album": {
@@ -24753,6 +24819,24 @@
     },
     {
       "album": {
+        "name": "Ishqabad",
+        "url": "https://open.spotify.com/album/40MYbSto7fRTyf6TgeK8nn"
+      },
+      "artists": [
+        {
+          "name": "Saad Khan",
+          "url": "https://open.spotify.com/artist/2BgtsA96fFhzvWo1CcleVb"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Piya",
+      "url": "https://open.spotify.com/track/4MGK3bBOUNobiaHXZ9cDJZ"
+    },
+    {
+      "album": {
         "name": "Piya Bin",
         "url": "https://open.spotify.com/album/3zE8ltqvpzow4RixaSewqD"
       },
@@ -26438,6 +26522,24 @@
       "duration_ms": 129024,
       "name": "Roye Mera Mann",
       "url": "https://open.spotify.com/track/7J0ZVT3BxoNz2B2MSoAmCR"
+    },
+    {
+      "album": {
+        "name": "Ruan Ruan",
+        "url": "https://open.spotify.com/album/4Kvd45J5k4iTpelJAIMwzQ"
+      },
+      "artists": [
+        {
+          "name": "Tanay Patre",
+          "url": "https://open.spotify.com/artist/6mdKeyG12w5NnnZht62zOS"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Ruan Ruan",
+      "url": "https://open.spotify.com/track/5gP3lGGlZY3431pQjM34JM"
     },
     {
       "album": {
@@ -30766,7 +30868,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 194086,
       "name": "Tere Liye Hoon",
       "url": "https://open.spotify.com/track/0jYBc6mUEfYj28V8exsscM"
@@ -34128,7 +34230,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 201422,
       "name": "What If I Fly?",
       "url": "https://open.spotify.com/track/7BptjcTzpdGugMWpWz5UeL"

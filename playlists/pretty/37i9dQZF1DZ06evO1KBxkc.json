@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202992,
+  "num_followers": 203003,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACV48eWeGt11cK6LPLR22aF",
+  "snapshot_id": "aRJ8gAAAAADtVFHEELRKUnto5gnNkDBE",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 214857,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
+      "duration_ms": 143493,
+      "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
     },
     {
       "added_at": null,
@@ -487,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
       "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 143493,
-      "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
+      "duration_ms": 214857,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
     },
     {
       "added_at": null,

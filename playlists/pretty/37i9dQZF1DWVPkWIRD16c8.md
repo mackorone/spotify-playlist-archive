@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,140 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,264 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 31 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
 | 32 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
 | 33 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
-| 34 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
-| 35 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 |
+| 34 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 |
+| 35 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
 | 36 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
 | 37 | [I Still Believe](https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [I Still Believe](https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub) | 3:12 |
 | 38 | [Shackles \(Praise You\)](https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Shackles \(Praise You\)](https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m) | 2:38 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 54 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 |
 | 55 | [Oceans \(Where Feet May Fail\) \- Radio Version](https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v) | 4:09 |
 | 56 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
-| 57 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
-| 58 | [BYE](https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God Showing Out](https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW) | 2:13 |
+| 57 | [BYE](https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God Showing Out](https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW) | 2:13 |
+| 58 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 | 59 | [Always Summertime](https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Always Summertime](https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ) | 2:30 |
 | 60 | [Take It All Back](https://open.spotify.com/track/2GkNgHBlPQsh1t1GEVeLYr) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/7uzpfry2q3E9juC3X8uLIt) | 3:13 |
 | 61 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |

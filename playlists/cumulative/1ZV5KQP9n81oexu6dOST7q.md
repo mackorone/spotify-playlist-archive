@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-106 songs - 5 hr 24 min
+107 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-07-04 |  |
 | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc) | 3:00 | 2025-07-04 | 2025-09-13 |
 | [I Got U](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [I Got U](https://open.spotify.com/album/5U06Y2CHfkglWCTyqY98pN) | 4:45 | 2025-07-04 | 2025-09-13 |
+| [In My World](https://open.spotify.com/track/2R4mhwY1OCrsOgC3EYrcj7) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [In My World](https://open.spotify.com/album/157mdFtAohLLC8NWhXdgTU) | 3:35 | 2025-11-12 |  |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2025-07-04 |  |
 | [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 | 2025-07-04 | 2025-09-13 |
 | [Kannot Compare](https://open.spotify.com/track/4h5v5pDvP217NKUTOeYXEA) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Sandro Beatz](https://open.spotify.com/artist/7aD9DloLZqOaJ8saOF4OXi) | [Kannot Compare](https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz) | 2:51 | 2025-07-04 | 2025-09-13 |

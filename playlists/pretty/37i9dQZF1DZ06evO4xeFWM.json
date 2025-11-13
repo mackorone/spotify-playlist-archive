@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 219707,
+  "num_followers": 219716,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACTDXq9IAoT8ZZLveKuz1qw",
+  "snapshot_id": "aRJ8gAAAAADu8QjzrYzpPCut/9WU4R+v",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 214205,
-      "name": "Of The Night",
-      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
+      "duration_ms": 196346,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 196346,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
+      "duration_ms": 214205,
+      "name": "Of The Night",
+      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shut Off The Lights",
+        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 187363,
+      "name": "Shut Off The Lights",
+      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Off The Lights",
-        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 187363,
-      "name": "Shut Off The Lights",
-      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 244135,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Four",
-        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Bored & Overboard (Pandora\u2019s Box)",
-      "url": "https://open.spotify.com/track/4hvW9gYShm67Lb9HEkZqDe"
     },
     {
       "added_at": null,
@@ -647,22 +631,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happier (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ"
+        "name": "\u201c&\u201d (Ampersand), Part Four",
+        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
       },
       "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 240531,
-      "name": "Happier - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU"
+      "duration_ms": 207013,
+      "name": "Bored & Overboard (Pandora\u2019s Box)",
+      "url": "https://open.spotify.com/track/4hvW9gYShm67Lb9HEkZqDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Of ReOrchestrated",
+        "url": "https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Good Grief - Live At Capitol Studios, Los Angeles / 2016",
+      "url": "https://open.spotify.com/track/22byEqX8buZheWfPKki5MW"
     },
     {
       "added_at": null,
@@ -683,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happier (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Happier - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 239946,
       "name": "Mademoiselle & The Nunnery Blaze",
       "url": "https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roots Of ReOrchestrated",
-        "url": "https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Good Grief - Live At Capitol Studios, Los Angeles / 2016",
-      "url": "https://open.spotify.com/track/22byEqX8buZheWfPKki5MW"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
       "duration_ms": 281866,
       "name": "Glory",
       "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Back To The Future",
-      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -811,38 +811,6 @@
       "duration_ms": 204986,
       "name": "Lethargy",
       "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "Seasons & Narcissus",
-      "url": "https://open.spotify.com/track/3WWGthsHxl0fULhF9ABDkE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Four",
-        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 250346,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6ur07ZhOvtGKeSy1U6o47P"
     },
     {
       "added_at": null,
@@ -867,22 +835,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Time Is Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
       },
       "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 214960,
-      "name": "I Know You (feat. Bastille)",
-      "url": "https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2"
+      "duration_ms": 221946,
+      "name": "Drawbridge & The Baroness",
+      "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Four",
+        "url": "https://open.spotify.com/album/6pczyolQkjlACIuLFXRsHG"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 250346,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6ur07ZhOvtGKeSy1U6o47P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT YOU GONNA DO???",
+        "url": "https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        }
+      ],
+      "duration_ms": 131302,
+      "name": "WHAT YOU GONNA DO???",
+      "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
     }
   ],
   "unique_name": "This Is Bastille",

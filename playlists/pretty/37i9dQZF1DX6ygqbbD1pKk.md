@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,565 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,575 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

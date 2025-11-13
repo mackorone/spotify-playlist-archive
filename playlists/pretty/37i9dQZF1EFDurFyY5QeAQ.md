@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,155 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,154 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 25 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/6ntFBx30fCwVO2WEF8sJz1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0QFW85XzFgWQJcZzOhKQf0) | 2:22 |
 | 26 | [Self Control](https://open.spotify.com/track/14FmT2vkYihAs64ixAbk6t) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:54 |
 | 27 | [Crowded Room \(feat\. 6LACK\)](https://open.spotify.com/track/2C0hTkdEoikhKzDCJl32QZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:06 |
-| 28 | [I Can't Stop Drinking About You \- Chainsmokers Remix](https://open.spotify.com/track/56T1QA7202iW7fZes2PTUe) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [I Can't Stop Drinking About You Remix EP](https://open.spotify.com/album/5AI90HAchDmkZ7A1pDOXlX) | 4:23 |
-| 29 | [All Hands on Deck](https://open.spotify.com/track/2s35Ae5mo3i5WwxYdZ6SSB) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/0GET5PKimoSUAHMeCebJx7) | 3:41 |
+| 28 | [All Hands on Deck](https://open.spotify.com/track/2s35Ae5mo3i5WwxYdZ6SSB) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/0GET5PKimoSUAHMeCebJx7) | 3:41 |
+| 29 | [I Can't Stop Drinking About You \- Chainsmokers Remix](https://open.spotify.com/track/56T1QA7202iW7fZes2PTUe) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [I Can't Stop Drinking About You Remix EP](https://open.spotify.com/album/5AI90HAchDmkZ7A1pDOXlX) | 4:23 |
 | 30 | [Break My Heart Myself \(feat\. Travis Barker\)](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Better Mistakes](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 2:31 |
 | 31 | [2 Souls on Fire \(feat\. Quavo\)](https://open.spotify.com/track/2dMUJy0El3BcQUy9gP9gt0) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:50 |
 | 32 | [\(Not\) The One](https://open.spotify.com/track/22BH6K8RlpwNzIINvWS4Jj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 3:01 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 94 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 | 95 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
 
-Snapshot ID: `AcBVXAAAAACxxvBVEj2gtRkOiLWU3N/F`
+Snapshot ID: `AcBa/AAAAADg3QwPpG3Z3I/DhHJnRFbH`

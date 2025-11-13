@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain]
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,874 likes - 87 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,925 likes - 87 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Symphony No\. 5 in C Minor, Op\. 67: I\. Allegro con brio](https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Carlos Kleiber](https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN) | [Beethoven: Symphonies Nos.5 & 7](https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL) | 7:22 |
-| 2 | [Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/track/3zLTPuucd3e6TxZnu2dlVS) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Für Elise, Bagatelle No\. 25 in A Minor, WoO 59](https://open.spotify.com/album/230jpjk9w7MGupNMMvXoaN) | 3:32 |
+| 2 | [Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/track/3zLTPuucd3e6TxZnu2dlVS) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Für Elise, Bagatelle No\. 25 in A Minor, WoO 59](https://open.spotify.com/album/230jpjk9w7MGupNMMvXoaN) | 3:34 |
 | 3 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight Sonata": I\. Adagio sostenuto](https://open.spotify.com/track/4KrBQ8fp7EiIsCcdnnXf2A) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: Mondschein\-Sonate – Meisterwerke](https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF) | 6:37 |
 | 4 | [Beethoven: Symphony No\. 6 in F Major, Op\. 68 "Pastoral": I\. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande\. Allegro ma non troppo](https://open.spotify.com/track/5UbN3fe9OB1p5KwjgUAHD4) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Riccardo Muti](https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1) | [Beethoven: Symphony No\. 6 "Pastoral"](https://open.spotify.com/album/1kGJis704qkvZIWOIsKjA0) | 12:38 |
 | 5 | [Rage Over A Lost Penny, Op\. 129](https://open.spotify.com/track/3QnU25Zw23qOUugdtTWgsY) | [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Beethoven: Rage Over A Lost Penny](https://open.spotify.com/album/6fJtiYktWi6VsiGnRTCwUd) | 6:13 |

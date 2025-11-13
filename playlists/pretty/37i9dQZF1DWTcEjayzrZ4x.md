@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,388 likes - 490 songs - 1 day 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,409 likes - 490 songs - 1 day 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,7 +365,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 355 | [Only Way To Play Is All In](https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Only Way To Play Is All In](https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h) | 3:18 |
 | 356 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 |
 | 357 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 |
-| 358 | [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 |
+| 358 | [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 |
 | 359 | [These Foolish Things](https://open.spotify.com/track/1JgLeExcYdY77a9m5fhls2) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [These Foolish Things](https://open.spotify.com/album/5bHOv2bIx20K3sVVbEYQcb) | 4:24 |
 | 360 | [Últimamente](https://open.spotify.com/track/1BJmiWUEqMx2aqHqfIbeAQ) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Últimamente](https://open.spotify.com/album/0UlBxNwVwKvU30I3RHUlAr) | 3:04 |
 | 361 | [We've Been Through This Before](https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [We've Been Through This Before](https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT) | 2:25 |

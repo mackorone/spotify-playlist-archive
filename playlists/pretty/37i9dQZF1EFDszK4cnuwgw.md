@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 81 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 280 likes - 81 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 80 | [Aura](https://open.spotify.com/track/0n4zaqF9KwDbANaAqAgmpB) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aura](https://open.spotify.com/album/3ojFKpGrbHIXUjNdiGDWiC) | 2:12 |
 | 81 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `AcBVZgAAAABzdjJ1BXLQ89R3xg6BiD0N`
+Snapshot ID: `AcBbBgAAAABxchr+3RCOBulDCK0x6qwy`

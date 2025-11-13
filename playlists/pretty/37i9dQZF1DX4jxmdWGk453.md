@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,073 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,257 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

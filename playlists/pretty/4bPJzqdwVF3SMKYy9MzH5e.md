@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,257 songs - 5 day 1 hr 3 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,259 songs - 5 day 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 48 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
 | 49 | [Bum Bum Tam Tam](https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bum Bum Tam Tam](https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm) | 3:33 |
 | 50 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
-| 51 | [Lowlife](https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bubblebath](https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s) | 3:25 |
+| 51 | [Lowlife](https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7) | [That Poppy](https://open.spotify.com/artist/7f1pLrdyakmA1m0pA1Zvb8) | [Bubblebath](https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s) | 3:25 |
 | 52 | [Trust Me \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0U9FwCnODOJI8uhqbfDEUM) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 3:13 |
 | 53 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
 | 54 | [Axel F](https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc) | [Crazy Frog](https://open.spotify.com/artist/4J3wzDMI97AlGimdiVcaLb) | [Crazy Frog presents Crazy Hits](https://open.spotify.com/album/6dhqlbbOqTKD5xbN3iRqlY) | 2:51 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 101 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 |
 | 102 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 103 | [whoa \(mind in awe\)](https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:37 |
-| 104 | [Money](https://open.spotify.com/track/3ecc8UTM48hMOkqGDnP6I4) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bubblebath](https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s) | 3:10 |
+| 104 | [Money](https://open.spotify.com/track/3ecc8UTM48hMOkqGDnP6I4) | [That Poppy](https://open.spotify.com/artist/7f1pLrdyakmA1m0pA1Zvb8) | [Bubblebath](https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s) | 3:10 |
 | 105 | [Heaven](https://open.spotify.com/track/4XYo3W8U6IY42EbB01rnR4) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Heaven](https://open.spotify.com/album/26tFSM2HfVCB0a4OLVxU4f) | 3:53 |
 | 106 | [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 |
 | 107 | [Money](https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Money](https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P) | 3:03 |
@@ -1888,7 +1888,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1878 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
 | 1879 | [In This Darkness](https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ) | 3:17 |
 | 1880 | [Moving Body](https://open.spotify.com/track/5xlfaqSM2xoOJH3ObTfEnc) | [TNMN](https://open.spotify.com/artist/3lgh0lWovwBcXgL0Ws5j1j) | [RCKLSS014](https://open.spotify.com/album/5AJCAzuRIrvhYG2ah1w13p) | 6:40 |
-| 1881 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
+| 1881 | [Von dutch remix with skream & benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38) | [Von dutch remix with skream & benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
 | 1882 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 |
 | 1883 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 1884 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
@@ -2265,5 +2265,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2255 | [Simple And Clean](https://open.spotify.com/track/2G8tfTExxzpRKssKzKwDYV) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [COLORS](https://open.spotify.com/album/6b65tDkcbAisHn2FR02ZC8) | 5:00 |
 | 2256 | [Canary Wharf drift](https://open.spotify.com/track/64yioT39hYUlNyQMqEyUE6) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 2:25 |
 | 2257 | [Groove Street](https://open.spotify.com/track/504OahIMlkY7CemnS8TWv0) | [JXXXO](https://open.spotify.com/artist/3zKx7GjoCdfCUuR3a63XkI) | [TXXLS2](https://open.spotify.com/album/55PbuKicNsOgP2t5AliIYc) | 5:05 |
+| 2258 | [Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fever](https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo) | 2:24 |
+| 2259 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
 
-Snapshot ID: `AAAExTmCBNaFI8igQbHZz+AlhXSXaOCo`
+Snapshot ID: `AAAEx4PmiQH2eKn2xNel9P+rIyBN6yHQ`

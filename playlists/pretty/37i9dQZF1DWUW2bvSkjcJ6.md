@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von ZAH1DE und benno!, ROSALÍA, Kraftklub,  Lune und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,001 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,930 likes - 94 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

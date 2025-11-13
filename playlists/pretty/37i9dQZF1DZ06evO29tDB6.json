@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143356,
+  "num_followers": 143370,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAB/znYpVEkqPeg4JQAkrr1g",
+  "snapshot_id": "aRJ8gAAAAAC7CCZhCiSfyDN4C8j8Y5Lz",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Todo sea por el rocanrol",
+      "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/7wWbD4WnxyLy7bix3d07r3"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/2G6gnsbzUJYDCGHOtIBoWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Todo sea por el rocanrol",
-      "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 325706,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+      "duration_ms": 325706,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
     },
     {
       "added_at": null,
@@ -619,26 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va el Amor",
-        "url": "https://open.spotify.com/album/39b4OTzmUcmjX0E6UeXWqf"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 224876,
-      "name": "Se Va el Amor",
-      "url": "https://open.spotify.com/track/6gOfmXusYcshTwe1YaxdG0"
+      "duration_ms": 217666,
+      "name": "Hoyos en la bolsa",
+      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
     },
     {
       "added_at": null,
@@ -675,6 +667,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Va el Amor",
+        "url": "https://open.spotify.com/album/39b4OTzmUcmjX0E6UeXWqf"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 224876,
+      "name": "Se Va el Amor",
+      "url": "https://open.spotify.com/track/6gOfmXusYcshTwe1YaxdG0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoyos en la bolsa",
         "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Hoyos en la bolsa",
-      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
+      "duration_ms": 281600,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
     },
     {
       "added_at": null,
@@ -707,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 309893,
+      "name": "Un d\u00eda en la vida",
+      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
@@ -719,38 +751,6 @@
       "duration_ms": 263066,
       "name": "El rey",
       "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Encuentros cercanos del tercer sexo",
-      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
     },
     {
       "added_at": null,
@@ -775,46 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard to Handle",
-        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
-      },
-      "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 190632,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 309893,
-      "name": "Un d\u00eda en la vida",
-      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -835,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
       },
       "artists": [
         {
@@ -844,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Libertad bajo fianza",
-      "url": "https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q"
+      "duration_ms": 329773,
+      "name": "Encuentros cercanos del tercer sexo",
+      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
     },
     {
       "added_at": null,
@@ -863,6 +823,46 @@
       "duration_ms": 283906,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Libertad bajo fianza",
+      "url": "https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard to Handle",
+        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 190632,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
     },
     {
       "added_at": null,

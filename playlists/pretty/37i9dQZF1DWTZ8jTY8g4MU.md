@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > شيلات تشيل الليلة\. الغلاف: بدر العزي
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,348 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,393 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [يا مسافر](https://open.spotify.com/track/7mjzqkQv6P80TsBaHRZ0xj) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [يا مسافر](https://open.spotify.com/album/0BD3CSAzFIfgcjfP2FiKds) | 4:20 |
-| 2 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 |
-| 3 | [ياعجيبه](https://open.spotify.com/track/4DdukpmqtT2TkRF8HLIs9X) | [فهد بن غرمان](https://open.spotify.com/artist/6BvNX7Y1XF8CetrVnPmqkm) | [ياعجيبه](https://open.spotify.com/album/6Ux1n4XiAkjX5Axu2TEo9h) | 3:09 |
-| 4 | [الظروف أكبر](https://open.spotify.com/track/3xMPwNuK59wMx8HzmoRcB2) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الظروف أكبر](https://open.spotify.com/album/5s2Y0spf2Jz2Vvn0FxquXp) | 4:07 |
-| 5 | [جرعة الشوق](https://open.spotify.com/track/71NdJylekmU1EIw7oxrFuy) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [جرعة الشوق](https://open.spotify.com/album/7dxUUSz6A4Iw7N2UaSseA3) | 3:43 |
-| 6 | [تسأليني](https://open.spotify.com/track/65uEoJrz2nHpyG4ANdzCZ0) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [تسأليني](https://open.spotify.com/album/0XslpGqxrvkSdoSh96tBjf) | 3:06 |
-| 7 | [ضربة معلم](https://open.spotify.com/track/3U6up5X9SbyxiujVhVemxX) | [سلطان البريكي](https://open.spotify.com/artist/435rGyZFVARoIJZQBA66oM) | [ضربة معلم](https://open.spotify.com/album/3mC4If1BAtWbIuHEuVu9Uu) | 4:34 |
+| 1 | [وش أعذارك؟](https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وش أعذارك؟](https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1) | 3:17 |
+| 2 | [تسأليني](https://open.spotify.com/track/65uEoJrz2nHpyG4ANdzCZ0) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [تسأليني](https://open.spotify.com/album/0XslpGqxrvkSdoSh96tBjf) | 3:06 |
+| 3 | [الظروف أكبر](https://open.spotify.com/track/3xMPwNuK59wMx8HzmoRcB2) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الظروف أكبر](https://open.spotify.com/album/5s2Y0spf2Jz2Vvn0FxquXp) | 4:07 |
+| 4 | [جرعة الشوق](https://open.spotify.com/track/71NdJylekmU1EIw7oxrFuy) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [جرعة الشوق](https://open.spotify.com/album/7dxUUSz6A4Iw7N2UaSseA3) | 3:43 |
+| 5 | [ياعجيبه](https://open.spotify.com/track/4DdukpmqtT2TkRF8HLIs9X) | [فهد بن غرمان](https://open.spotify.com/artist/6BvNX7Y1XF8CetrVnPmqkm) | [ياعجيبه](https://open.spotify.com/album/6Ux1n4XiAkjX5Axu2TEo9h) | 3:09 |
+| 6 | [ضربة معلم](https://open.spotify.com/track/3U6up5X9SbyxiujVhVemxX) | [سلطان البريكي](https://open.spotify.com/artist/435rGyZFVARoIJZQBA66oM) | [ضربة معلم](https://open.spotify.com/album/3mC4If1BAtWbIuHEuVu9Uu) | 4:34 |
+| 7 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 |
 | 8 | [Alek Akhaf](https://open.spotify.com/track/2BRQStJtGN03JujyZd2faL) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Alek Akhaf](https://open.spotify.com/album/7e0KX9hQhk5VIFo3YoTPSA) | 3:28 |
 | 9 | [يا غريبة](https://open.spotify.com/track/6NZ74scBJ4KHdHDVeissng) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [يا غريبة](https://open.spotify.com/album/6uxbzY1U6jXu4pwgOrDczo) | 7:43 |
 | 10 | [هذي السعودية](https://open.spotify.com/track/2ALbR9ZUg2ZCyvSKLUj8iU) | [فهد بن جازع](https://open.spotify.com/artist/7zomIMNBDA13luA3e2VZZH) | [هذي السعودية](https://open.spotify.com/album/7zoH3dM5vkCTk813x4g49z) | 4:29 |
 | 11 | [سر اهتمامي](https://open.spotify.com/track/4LoV1IoB508ftNB35tjx8g) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سر اهتمامي](https://open.spotify.com/album/6RnLMh24W0dX6H9OLX7Xrw) | 3:09 |
-| 12 | [لذة العمر](https://open.spotify.com/track/7MRZN6Ejav8HrU3BPzo0kU) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [لذة العمر](https://open.spotify.com/album/0ytmdLAzmZo03HziwyXnt0) | 3:12 |
-| 13 | [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/track/5Crm6RSC6yDBtw9Nh6nBAL) | [King of Yemeni art](https://open.spotify.com/artist/4gNcnuUGj2JZ2k1uBunuex) | [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/album/2jTRLzhssOQOVm4pCKvVSR) | 7:20 |
+| 12 | [يا مسافر](https://open.spotify.com/track/7mjzqkQv6P80TsBaHRZ0xj) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [يا مسافر](https://open.spotify.com/album/0BD3CSAzFIfgcjfP2FiKds) | 4:20 |
+| 13 | [لذة العمر](https://open.spotify.com/track/7MRZN6Ejav8HrU3BPzo0kU) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [لذة العمر](https://open.spotify.com/album/0ytmdLAzmZo03HziwyXnt0) | 3:12 |
 | 14 | [بارق الشوق](https://open.spotify.com/track/0ermAb1gqmoHaxfjRtUFDc) | [مبارك الدوسري](https://open.spotify.com/artist/6sS8udoTj5UxuMtzOr1811), [فهيد النتيفات](https://open.spotify.com/artist/0fjRkZ4dNUfcb2XkeB65sY) | [بارق الشوق](https://open.spotify.com/album/4b88AzxLfy4NYOxxIMJpWf) | 6:02 |
-| 15 | [وش أعذارك؟](https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وش أعذارك؟](https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1) | 3:17 |
+| 15 | [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/track/5Crm6RSC6yDBtw9Nh6nBAL) | [King of Yemeni art](https://open.spotify.com/artist/4gNcnuUGj2JZ2k1uBunuex) | [الوفاء ماتغير \- سالم المسعودي جلسة حصرية](https://open.spotify.com/album/2jTRLzhssOQOVm4pCKvVSR) | 7:20 |
 | 16 | [بحر شوقك](https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [بحر شوقك](https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF) | 3:32 |
 | 17 | [ضيقة العاشقين](https://open.spotify.com/track/339CXSisfIMFE0S0B9x7sn) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ضيقة العاشقين](https://open.spotify.com/album/4ZVi977yofIORUb74e3puO) | 4:56 |
 | 18 | [كل شي فداك](https://open.spotify.com/track/1JZTkJ73SogDdR2n4USS7R) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كل شي فداك](https://open.spotify.com/album/3zEdab7bo7unrBVPNl0BcA) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [يامرحبا والفن هلا](https://open.spotify.com/track/1gEUyMIXZW4UgiYSAs1yvB) | [عمر الشراري](https://open.spotify.com/artist/09tFkOSMCVZWp5TELEi0iz) | [يامرحبا والفن هلا](https://open.spotify.com/album/4E4ookkpGCRux266b6g9XM) | 2:44 |
 | 50 | [العزله احسن](https://open.spotify.com/track/5aD10saKZMJqh7NrtK9BUT) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [العزله احسن](https://open.spotify.com/album/7osyeXcZDSclHumvwAEQLj) | 4:15 |
 
-Snapshot ID: `AAAAAH8fb4GSrMiGSr8Ig6HtgiUJfvnc`
+Snapshot ID: `AAAAAMKFqrkxxdtoXE8I9gxtf+h5PNA1`

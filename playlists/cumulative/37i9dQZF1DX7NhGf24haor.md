@@ -4,7 +4,7 @@
 
 > Weekly new Hardstyle releases! Cover: Digital Punk
 
-1,769 songs - 3 day 21 hr 24 min
+1,769 songs - 3 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1100,7 +1100,7 @@
 | [One Last Fight](https://open.spotify.com/track/3cAkvNWROdYyQrXw4P4jix) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [One Last Fight](https://open.spotify.com/album/6sJCbUvU0nsv5udkhd3AiG) | 2:24 | 2023-11-09 | 2023-12-02 |
 | [One Man Army](https://open.spotify.com/track/39N0efBgZnV3wpAfHGTqTW) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [An Ember Dawn](https://open.spotify.com/album/0voPYgpdWQGI0zXqATIuQf) | 3:27 | 2022-12-15 | 2023-03-31 |
 | [One More Time](https://open.spotify.com/track/0hwco83JIvUMsbCiDBFtuX) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [French Sisters](https://open.spotify.com/artist/1I4EE5ur08rtlTb3v0gbtc), [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [One More Time](https://open.spotify.com/album/6tLw3flX1kK1gEXauXP78P) | 2:52 | 2024-11-21 | 2025-02-11 |
-| [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:51 | 2025-11-07 |  |
+| [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:28 | 2025-11-07 |  |
 | [Only One](https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Only One](https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA) | 3:11 | 2025-11-04 |  |
 | [Op Een Dag \(Gaan We Allemaal Naar De Hemel\)](https://open.spotify.com/track/40a6NAAIlG33ZmKdI1JSxO) | [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE), [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Op Een Dag \(Gaan We Allemaal Naar De Hemel\)](https://open.spotify.com/album/2xtUO7oONmvTzPvsOF9s2T) | 2:27 | 2024-04-25 | 2024-05-15 |
 | [Open Sesame \(Abracadabra\) \- D\-Block & S\-te\-Fan Remix](https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Open Sesame \(Abracadabra\) \[D\-Block & S\-te\-Fan Remix\]](https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq) | 3:02 | 2024-05-02 | 2024-09-12 |

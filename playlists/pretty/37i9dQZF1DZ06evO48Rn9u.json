@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 150838,
+  "num_followers": 150846,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAn52qSFRToOuuV+7R4RqyS",
+  "snapshot_id": "aRJ8gAAAAAChwxzWOx7Cgq483Q7x6pG1",
   "tracks": [
     {
       "added_at": null,
@@ -807,42 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Perfection (feat. Tiny Habits)",
-      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rogue Waves",
         "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
       },
@@ -863,6 +827,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Perfection (feat. Tiny Habits)",
+      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/6eFNtM0QMmRxi6VphwDS1E"
+      "duration_ms": 177680,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 177680,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z"
+      "duration_ms": 206306,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/6eFNtM0QMmRxi6VphwDS1E"
     },
     {
       "added_at": null,

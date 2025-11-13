@@ -2929,6 +2929,28 @@
     },
     {
       "album": {
+        "name": "Luft",
+        "url": "https://open.spotify.com/album/0yTa4d2Tv2GzDTGiWGpsGY"
+      },
+      "artists": [
+        {
+          "name": "Gunn Kvaale",
+          "url": "https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO"
+        },
+        {
+          "name": "William Gamborg",
+          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178703,
+      "name": "Luft",
+      "url": "https://open.spotify.com/track/2YJSx1oGUOKnjpBbC5eV8U"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -3244,7 +3266,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 236210,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"

@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้\. ศิลปิน: GEMINI
 
-225 songs - 13 hr 51 min
+226 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 | 2023-02-10 | 2025-10-23 |
 | [เริ่มใหม่](https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT) | [Tony Phee](https://open.spotify.com/artist/3e9fZ7KYeCdQg3iEBFbFJN) | [กลัว](https://open.spotify.com/album/4KpElpE1zjE2AQqxr1H93k) | 4:52 | 2023-02-21 | 2024-10-23 |
 | [เรื่องมหัศจรรย์](https://open.spotify.com/track/2ZvuGneo9p5JqtDQU45Yhv) | [Sofa](https://open.spotify.com/artist/2de8om9GjyJuMclZbGQw9O) | [Sofa](https://open.spotify.com/album/56gyLvDXgWHVcsHZd7qV4S) | 4:05 | 2024-03-16 | 2025-02-14 |
+| [เลือกคนที่เขารักเรา](https://open.spotify.com/track/6IitkM7xiuKhDXzshXUnRa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เลือกคนที่เขารักเรา \- Single](https://open.spotify.com/album/7rZXyGJlUbCdQIlwMaQmnq) | 3:46 | 2025-11-07 |  |
 | [เวลาเธอยิ้ม \(You Had Me At Hello\)](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 | 2023-02-10 |  |
 | [เหตุผลของการมีชีวิตอยู่ คือการได้พบกับเธอ](https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 3:58 | 2023-10-06 |  |
 | [เหนือฟ้า \(ABOVE\) \- Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series](https://open.spotify.com/track/3u6ehLHBIe0SiwR0amlskf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [เหนือฟ้า \(ABOVE\) \[Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series\]](https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU) | 3:50 | 2025-05-02 | 2025-05-31 |
@@ -217,7 +218,7 @@
 | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF) | 3:32 | 2023-06-09 |  |
 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T) | 4:21 | 2023-02-10 |  |
 | [แสงรวี \(Destiny\) \[Original Soundtrack "ดับแสงรวี"\]](https://open.spotify.com/track/5MvHwXj0FJtYzCKZd7dBI1) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [แสงรวี \(Destiny\) \[Original Soundtrack "ดับแสงรวี"\]](https://open.spotify.com/album/028UerSvd6hUg1AdnhTPRS) | 3:21 | 2025-02-13 | 2025-02-27 |
-| [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2025-08-17 |  |
+| [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2025-08-17 | 2025-11-13 |
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:57 | 2023-02-10 | 2024-04-13 |
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2023-02-10 |  |
 | [โรแมนติก \(Romantic\)](https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [โรแมนติก \(Romantic\)](https://open.spotify.com/album/3kTNtUTHdjCWwVll5XTQ84) | 4:00 | 2023-04-03 | 2023-05-16 |

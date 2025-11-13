@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > Our editors' picks for the best bass songs of 2024! Cover: ISOKNOCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,371 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,390 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 40 | [Yummy Gummy](https://open.spotify.com/track/6NlBcr0CvGpWvuxgLUjD9t) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Yummy Gummy](https://open.spotify.com/album/4WIjbGDOI6ShqYSfcV3B0y) | 2:50 |
 | 41 | [Happier By Now](https://open.spotify.com/track/0qq33nVMNHelvjRGhTKPVH) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Happier By Now](https://open.spotify.com/album/61WvoZ2SDiN5PpxPbkOcov) | 3:47 |
 | 42 | [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 |
-| 43 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
+| 43 | [Von dutch remix with skream & benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38) | [Von dutch remix with skream & benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
 | 44 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 |
 | 45 | [Ear Candy](https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Ear Candy](https://open.spotify.com/album/1yhUxyUJ6YV6etU9UfFow1) | 3:40 |
 | 46 | [Open The Pit](https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Open The Pit](https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6) | 3:46 |

@@ -4907,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+    },
+    {
+      "album": {
         "name": "Dreja virka, dreja virka, yeah",
         "url": "https://open.spotify.com/album/0uiV97xloyvu1WiYE9hFD4"
       },
@@ -13124,7 +13142,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Men du",
       "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
@@ -17720,7 +17738,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 183173,
       "name": "She Goes",
       "url": "https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD"

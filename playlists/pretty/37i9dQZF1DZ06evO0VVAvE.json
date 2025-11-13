@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7334,
+  "num_followers": 7343,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACSj7eK7S9bwsOwnuIxFq4h",
+  "snapshot_id": "aRJ8gAAAAABImOMh3Xx78w1WHZAIZbT5",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         }
       ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
+      "duration_ms": 161062,
+      "name": "Motivate",
+      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
     },
     {
       "added_at": null,
@@ -559,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         }
       ],
-      "duration_ms": 161062,
-      "name": "Motivate",
-      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,

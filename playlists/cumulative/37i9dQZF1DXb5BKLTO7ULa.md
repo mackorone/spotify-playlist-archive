@@ -4,7 +4,7 @@
 
 > Nieuw: MICHA \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a> artiest\), ROSALÍA, Frenna, Jonna Fraser en meer...
 
-13,393 songs - 29 day 3 hr 55 min
+13,393 songs - 29 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8612,7 +8612,7 @@
 | [Ongezien](https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Ongezien](https://open.spotify.com/album/6PYy4lyXipNUcHl9cVYlaM) | 2:29 | 2023-07-27 | 2023-08-04 |
 | [Ongeëvenaard](https://open.spotify.com/track/2ssyMIuhpaKdHNMG2pamAd) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [Benjamin](https://open.spotify.com/artist/0fE9i5a2dmEooHaBTk3ffP) | [Leren Leven](https://open.spotify.com/album/0wMC6I2G3sKvhcsjn8N1Kd) | 6:03 | 2024-09-26 | 2024-10-04 |
 | [Onions](https://open.spotify.com/track/3XxZzksa9YpoYJX27YbggN) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts](https://open.spotify.com/album/41L2pfxvjyMRse8MVyRX7j) | 4:10 | 2024-07-26 | 2024-08-02 |
-| [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:51 | 2025-11-06 |  |
+| [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:28 | 2025-11-06 |  |
 | [Only](https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Only](https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE) | 2:49 | 2023-09-07 | 2023-09-15 |
 | [Only Fans](https://open.spotify.com/track/0wmrE5fVXLa2NWixe0XQ7Y) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [ROOSTERJAXX](https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l) | [Only Fans](https://open.spotify.com/album/3CCKkMBpoiiuvGrjAq3kLm) | 2:22 | 2023-08-03 | 2023-08-11 |
 | [Only Fools](https://open.spotify.com/track/6RdLYi3Tw6obbvgFyMH3dA) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [Only Fools](https://open.spotify.com/album/3UGaM72yBEXSrLx3dEQbgE) | 3:00 | 2023-04-13 | 2023-04-21 |

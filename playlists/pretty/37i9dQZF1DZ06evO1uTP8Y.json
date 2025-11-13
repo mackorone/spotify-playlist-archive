@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 8754,
+  "num_followers": 8769,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAD2Pk/jJwvWA7ps+erX7vJd",
+  "snapshot_id": "aRJ8gAAAAAC5MYm1umassYe7WiDURW42",
   "tracks": [
     {
       "added_at": null,
@@ -207,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
+        "name": "City On Fire",
+        "url": "https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH"
       },
       "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
+      "duration_ms": 153935,
+      "name": "City On Fire (feat. Odeal)",
+      "url": "https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc"
     },
     {
       "added_at": null,
@@ -255,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Fire",
-        "url": "https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH"
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
       },
       "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 153935,
-      "name": "City On Fire (feat. Odeal)",
-      "url": "https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc"
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
     },
     {
       "added_at": null,

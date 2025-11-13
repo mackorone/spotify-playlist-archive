@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Digital Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,785 likes - 103 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,829 likes - 103 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 4 | [Fade Away](https://open.spotify.com/track/7vAec0KrkSxT5Qt6Kkoy95) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Fade Away](https://open.spotify.com/album/1KZQSmB7On6dGlOjulEfpm) | 2:57 |
 | 5 | [Beyond Oblivion](https://open.spotify.com/track/5eQp2oQ0v1x3BPPn5W4B68) | [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [Beyond Oblivion](https://open.spotify.com/album/2hHPMlHeI0u7DCMQIRAq3c) | 4:00 |
 | 6 | [Outro](https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Outro](https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA) | 2:24 |
-| 7 | [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:51 |
+| 7 | [Onkruid](https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Onkruid](https://open.spotify.com/album/1CgIYRg97N4iRF2Mcg09ev) | 2:28 |
 | 8 | [Only One](https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Only One](https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA) | 3:11 |
 | 9 | [Monster](https://open.spotify.com/track/7kKiWkG6ywrAG9G0j1eU1g) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Monster](https://open.spotify.com/album/35xQ0NtciFJUkNa71dIGBl) | 3:23 |
 | 10 | [ON A MISSION](https://open.spotify.com/track/5G7DSIeNna8og1AtQvACdN) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [ON A MISSION](https://open.spotify.com/album/5S5cjnfzyAJLVncgqJ2ySB) | 3:01 |

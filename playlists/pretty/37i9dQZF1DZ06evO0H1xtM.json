@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 360272,
+  "num_followers": 360366,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAWOpBt0bEGGtPezAp0kpU3",
+  "snapshot_id": "aRJ8gAAAAADHKgUdTLfkjuIb6BK3Gfgv",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adicto A Ti",
-        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 190553,
       "name": "Di Que S\u00ed",
       "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Guerita",
-        "url": "https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 184165,
-      "name": "La Guerita",
-      "url": "https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 234734,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut"
     },
     {
       "added_at": null,

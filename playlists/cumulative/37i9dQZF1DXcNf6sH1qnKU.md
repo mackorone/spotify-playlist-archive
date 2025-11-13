@@ -2,7 +2,7 @@
 
 ### [Dreampop Classics](https://open.spotify.com/playlist/37i9dQZF1DXcNf6sH1qnKU)
 
-> Glimmering, warm, and bright memories: Beach House on the cover.
+> Glimmering, warm, and bright memories: Broadcast on the cover.
 
 128 songs - 9 hr 26 min
 

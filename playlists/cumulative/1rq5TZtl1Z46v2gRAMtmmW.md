@@ -4,7 +4,7 @@
 
 > 
 
-470 songs - 1 day 7 hr 3 min
+471 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [To the Sea](https://open.spotify.com/track/3WoMBqCRLxtFhghYQAxzYZ) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 3:57 | 2023-12-11 | 2023-12-20 |
 | [Tommy](https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Tommy](https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT) | 4:34 | 2024-08-21 | 2024-10-31 |
 | [Tomás](https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tomás](https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c) | 3:02 | 2025-05-13 | 2025-09-18 |
+| [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 | 2025-11-12 |  |
 | [Totem](https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Infinite Health](https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW) | 3:43 | 2024-08-30 | 2025-02-12 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-13 | 2022-09-30 |
 | [Treetop](https://open.spotify.com/track/1ByVcp77Vftr2riEwpbyXF) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Treetop](https://open.spotify.com/album/5OT7OHLukEWenm3TntjvhS) | 4:32 | 2021-11-23 | 2022-07-13 |

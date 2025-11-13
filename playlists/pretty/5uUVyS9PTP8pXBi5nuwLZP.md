@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 529,220 likes - 72 songs - 4 hr 2 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 529,477 likes - 72 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 39 | [killay](https://open.spotify.com/track/4SE4RGyCYTSul2q3JJKhX0) | [Com Cruz](https://open.spotify.com/artist/6ioY7tuRzTguV8yrpkoWbQ), [pious](https://open.spotify.com/artist/7vk8kow3iLthO1oWxTSONv) | [killay](https://open.spotify.com/album/6qpBNlj3xRDhXvRdjj7ug3) | 3:04 |
 | 40 | [Up All Night](https://open.spotify.com/track/1tdbj7FgirplpkaIQ86DyH) | [Robert Alan Sieben](https://open.spotify.com/artist/3JVNVn9KJtyI9Tde6CvgMu) | [Up All Night](https://open.spotify.com/album/6SlRoyPl7CiaNWRs2MJ4dK) | 2:33 |
 | 41 | [Red Head](https://open.spotify.com/track/0q9rTeDMMYbEqWYSSWP2pC) | [Robert Hawkins](https://open.spotify.com/artist/4LHboFvRdMrh4W2KSrXhWB) | [In Charge Around Here](https://open.spotify.com/album/0mGbWWpxxd8hypTw9NC5VD) | 1:25 |
-| 42 | [TIEMPOS MEJORES](https://open.spotify.com/track/7IDJje2TtylyE0J3UC0M2O) | [El Shoky](https://open.spotify.com/artist/1FCKXMzvP6up0JHtEID2kT), [Zaykiiel](https://open.spotify.com/artist/59eYaHuLnZ8ms5rieVm9Ud) | [TIEMPOS MEJORES](https://open.spotify.com/album/3hnq4TEXgSYwMS7BEdhFCT) | 2:54 |
+| 42 | [Tiempos Mejores](https://open.spotify.com/track/7IDJje2TtylyE0J3UC0M2O) | [El Shoky](https://open.spotify.com/artist/1FCKXMzvP6up0JHtEID2kT), [Zaykiiel](https://open.spotify.com/artist/59eYaHuLnZ8ms5rieVm9Ud) | [Tiempos Mejores](https://open.spotify.com/album/3hnq4TEXgSYwMS7BEdhFCT) | 2:54 |
 | 43 | [Keep Moving](https://open.spotify.com/track/2PN2KrIVjs2qGB76cCDgOj) | [Miss a Jay](https://open.spotify.com/artist/67AUlWtKOo8Kj0NnSu20QP), [Ayesem](https://open.spotify.com/artist/0rW4UXM2SG3Iev76vJ5ekI) | [Keep Moving](https://open.spotify.com/album/4VOLaYiSWDspkXXkddibMR) | 3:54 |
 | 44 | [Störsignal](https://open.spotify.com/track/7FKhEuPqdoMGJLE4IVXBAb) | [Stachel](https://open.spotify.com/artist/78YXkrCAQhpopwCEbP797b) | [StechReiz](https://open.spotify.com/album/7Ko5XTxbYlDh5otAbtjiUw) | 2:26 |
 | 45 | [Rest Of My Life](https://open.spotify.com/track/0JHW4PpBN4E04EWQXrq5FW) | [FIREBREED](https://open.spotify.com/artist/3HRnGQKdzN04spF6L2Pexj) | [Rest Of My Life](https://open.spotify.com/album/4AJyyVBI4qqaWWlqKuzbxb) | 1:47 |

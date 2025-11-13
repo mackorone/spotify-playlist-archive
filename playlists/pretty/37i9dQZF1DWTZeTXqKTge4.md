@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Découvrez le rap québécois, servi tout frais\. Photo: Irdens Exantus
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,862 likes - 98 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,858 likes - 98 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

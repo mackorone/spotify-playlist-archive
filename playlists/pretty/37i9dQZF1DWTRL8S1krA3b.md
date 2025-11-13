@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Lady A
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,933 likes - 34 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,987 likes - 34 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 3 | [When Christmas Comes to Town](https://open.spotify.com/track/5QqOhAYz9oLljbnGLyGxXq) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Carols and Candlelight \(Deluxe\)](https://open.spotify.com/album/4Z36K3lldmMd6lHsPBZphx) | 3:45 |
 | 4 | [Long Live Christmas](https://open.spotify.com/track/43Ko4Q18oegCpKVSJDoscB) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Long Live Christmas](https://open.spotify.com/album/2R2INgA6o5Ua7SpKAj8oN2) | 2:41 |
 | 5 | [That Crazy Elf \(On The Shelf\)](https://open.spotify.com/track/0IWc1Jnzg86OuEpMrwgxqG) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Snow Globe Town](https://open.spotify.com/album/1TcMtNOoUVqs9KiteG5HsX) | 3:33 |
-| 6 | [Nothin' For Christmas \(With William Beckmann\)](https://open.spotify.com/track/22YXydOtMbEUcluspU4Bop) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [A Cherry Valley Holiday](https://open.spotify.com/album/1lIm3hPlnIpqA0Lii3n9Tu) | 2:46 |
+| 6 | [Nothin' For Christmas](https://open.spotify.com/track/22YXydOtMbEUcluspU4Bop) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [A Cherry Valley Holiday](https://open.spotify.com/album/1lIm3hPlnIpqA0Lii3n9Tu) | 2:46 |
 | 7 | [Merry Christmas, Valentine](https://open.spotify.com/track/7sTZA6F0aJDXfQpCSnQ792) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Merry Christmas, Valentine](https://open.spotify.com/album/7KQOlFUWcwgrUvm1JuloPA) | 3:15 |
 | 8 | [Redneck Christmas](https://open.spotify.com/track/2yYpAAuUhNYV8SwmDe4CUz) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Jingle Jangle Rock](https://open.spotify.com/album/0cNz8BdSuIkCXmftdr0en7) | 2:27 |
 | 9 | ['57 Chevy Bel Air](https://open.spotify.com/track/1MWLO6IEynncfjAlmMhiOC) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [A Very Merry Christmas From Alex Hall](https://open.spotify.com/album/0DiaXSP4rfwkyhsqaYmRNj) | 3:36 |

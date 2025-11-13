@@ -1,6 +1,6 @@
 {
   "description": "vi leker ikke hits!",
-  "num_followers": 194827,
+  "num_followers": 194809,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 188802,
+      "name": "bandaids",
+      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 188802,
-      "name": "bandaids",
-      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "after the sun goes down",
-        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "nah",
-      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Out The Window",
         "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 256615,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 189557,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "in plain sight",
-        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 145128,
-      "name": "in plain sight",
-      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
+        "name": "in plain sight",
+        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
+      "duration_ms": 145128,
+      "name": "in plain sight",
+      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1063,6 +1047,22 @@
       "duration_ms": 174857,
       "name": "Juniregnet",
       "url": "https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "DEPRESSED (feat. Lauren Spencer Smith)",
         "url": "https://open.spotify.com/album/4ekqyZgR8jXUgT42PlQUJ6"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
         "name": "Like It Like That",
         "url": "https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6"
       },
@@ -1199,30 +1199,6 @@
       "duration_ms": 167527,
       "name": "Like It Like That",
       "url": "https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
-        "name": "FUNNY little FEARS (DREAMS)",
-        "url": "https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 193502,
-      "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
-      "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1255,6 +1231,30 @@
       "duration_ms": 154617,
       "name": "All At Once",
       "url": "https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "FUNNY little FEARS (DREAMS)",
+        "url": "https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 193502,
+      "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
+      "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Starry Eyed",
-        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 136925,
-      "name": "Starry Eyed",
-      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Forever (with Kid Cudi)",
         "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 251693,
       "name": "Forever (with Kid Cudi)",
       "url": "https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Starry Eyed",
+        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 136925,
+      "name": "Starry Eyed",
+      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Sklir forbi",
-        "url": "https://open.spotify.com/album/2mzmtYNrOKPl14rf1ufBIB"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "duration_ms": 184324,
-      "name": "Sklir forbi",
-      "url": "https://open.spotify.com/track/0oIzMn02dSwybQMobQMp6C"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 208366,
       "name": "Store gutter gr\u00e5ter ikke",
       "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Sklir forbi",
+        "url": "https://open.spotify.com/album/2mzmtYNrOKPl14rf1ufBIB"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "duration_ms": 184324,
+      "name": "Sklir forbi",
+      "url": "https://open.spotify.com/track/0oIzMn02dSwybQMobQMp6C"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "M\u00f6rka himlar",
-        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "M\u00f6rka himlar",
-      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Konfetti",
         "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 194425,
       "name": "Konfetti",
       "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "M\u00f6rka himlar",
+        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "M\u00f6rka himlar",
+      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 162070,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
         "name": "Sunshine Baby",
         "url": "https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 179210,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 162070,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Fort Knox",
-        "url": "https://open.spotify.com/album/7op3Rc35czE3iEzLB03wTl"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 198757,
-      "name": "Fort Knox",
-      "url": "https://open.spotify.com/track/1dbuAitJsBnF1Y5l78Jpn7"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Kaster Penger",
         "url": "https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 114387,
       "name": "Kaster Penger",
       "url": "https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Fort Knox",
+        "url": "https://open.spotify.com/album/7op3Rc35czE3iEzLB03wTl"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 198757,
+      "name": "Fort Knox",
+      "url": "https://open.spotify.com/track/1dbuAitJsBnF1Y5l78Jpn7"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -1967,6 +1967,22 @@
       "duration_ms": 150000,
       "name": "En Vakker Dag",
       "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Ordner seg",
+        "url": "https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu"
+      },
+      "artists": [
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
+        }
+      ],
+      "duration_ms": 175181,
+      "name": "Ordner seg",
+      "url": "https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2039,18 +2055,18 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Ordner seg",
-        "url": "https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu"
+        "name": "Ps. Kanskje det g\u00e5r",
+        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
       },
       "artists": [
         {
-          "name": "3D",
-          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 175181,
-      "name": "Ordner seg",
-      "url": "https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6"
+      "duration_ms": 214520,
+      "name": "Kanskje det g\u00e5r te helvete",
+      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2071,22 +2087,6 @@
       "duration_ms": 161571,
       "name": "Djevelens Salong",
       "url": "https://open.spotify.com/track/5D6svoWxjXsiSDc5iBfeNT"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
-        "name": "Ps. Kanskje det g\u00e5r",
-        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Kanskje det g\u00e5r te helvete",
-      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
+        "name": "Norwegian Girl",
+        "url": "https://open.spotify.com/album/2NpxKPrvpZjHfgcRjiIhpz"
+      },
+      "artists": [
+        {
+          "name": "Donkeyboy",
+          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "Norwegian Girl",
+      "url": "https://open.spotify.com/track/0HS3by7bZmpF1xaRSKoVoX"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
         "name": "Leave It Beautiful",
         "url": "https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK"
       },
@@ -2207,18 +2223,22 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Norwegian Girl",
-        "url": "https://open.spotify.com/album/2NpxKPrvpZjHfgcRjiIhpz"
+        "name": "Gode Tider (feat. Streetboys)",
+        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
       },
       "artists": [
         {
-          "name": "Donkeyboy",
-          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        },
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
         }
       ],
-      "duration_ms": 171084,
-      "name": "Norwegian Girl",
-      "url": "https://open.spotify.com/track/0HS3by7bZmpF1xaRSKoVoX"
+      "duration_ms": 169142,
+      "name": "Gode Tider (feat. Streetboys)",
+      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2243,26 +2263,6 @@
       "duration_ms": 164106,
       "name": "Leppestift & L\u00e6gs (feat. Arif Murakami & Mwuana)",
       "url": "https://open.spotify.com/track/754CvGq3G8zEao08BJJoJ5"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
-        "name": "Gode Tider (feat. Streetboys)",
-        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
-      },
-      "artists": [
-        {
-          "name": "Puls",
-          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
-        },
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Gode Tider (feat. Streetboys)",
-      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 182051,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Nobody Gets Me",
         "url": "https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 163915,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 182051,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "In Every Photograph",
         "url": "https://open.spotify.com/album/3YpKPSbZ80nkVtUCIOw0fo"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 205403,
       "name": "In Every Photograph",
       "url": "https://open.spotify.com/track/70HmqOGAfCDHGYjEF15krZ"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2755,22 +2755,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Inte bra i grupp",
-        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 169785,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/7rlY3zUZPSl9T8CoqL0ABa"
       },
@@ -2783,6 +2767,22 @@
       "duration_ms": 163714,
       "name": "Legends",
       "url": "https://open.spotify.com/track/73tCN2QLa2z7BHibydqWsU"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Inte bra i grupp",
+        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 169785,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
     },
     {
       "added_at": "2025-11-06 23:00:30",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2025-11-06 23:00:30",
       "album": {
-        "name": "Forklaring",
-        "url": "https://open.spotify.com/album/0RUkWQYTKBsDXgPyOK33Hp"
-      },
-      "artists": [
-        {
-          "name": "Capow x 2G",
-          "url": "https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Forklaring",
-      "url": "https://open.spotify.com/track/4RTEPKX7RdRIxpqLP0xCjI"
-    },
-    {
-      "added_at": "2025-11-06 23:00:30",
-      "album": {
         "name": "Verdens verste menneske",
         "url": "https://open.spotify.com/album/6rxA8pKCd3AhFe0NWCPHJG"
       },
@@ -2995,6 +2979,22 @@
       "duration_ms": 161600,
       "name": "Verdens verste menneske",
       "url": "https://open.spotify.com/track/7iqugpBZ2xq1UV6esP18Lr"
+    },
+    {
+      "added_at": "2025-11-06 23:00:30",
+      "album": {
+        "name": "Forklaring",
+        "url": "https://open.spotify.com/album/0RUkWQYTKBsDXgPyOK33Hp"
+      },
+      "artists": [
+        {
+          "name": "Capow x 2G",
+          "url": "https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Forklaring",
+      "url": "https://open.spotify.com/track/4RTEPKX7RdRIxpqLP0xCjI"
     },
     {
       "added_at": "2025-11-06 23:00:30",

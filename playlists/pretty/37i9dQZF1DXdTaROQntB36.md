@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTaROQntB36.md) - [plain]
 
 > Laissez vous emporter par la magie des plus grandes voix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,297 likes - 39 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,310 likes - 39 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

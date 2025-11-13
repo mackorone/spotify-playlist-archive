@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACYGKtRxPTlhtN35kd2BMTh",
+  "snapshot_id": "aRJ8gAAAAAASJWR8pQOy9+BHbx1hJa1L",
   "tracks": [
     {
       "added_at": null,
@@ -776,9 +776,25 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 276395,
-      "name": "Down On Bended Knee",
-      "url": "https://open.spotify.com/track/5AWUpyTOEjNob8wrho0cbu"
+      "duration_ms": 242129,
+      "name": "Heaven Help Us All",
+      "url": "https://open.spotify.com/track/71jPKFB9OWCTZab7vfI9SF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Uncivil War",
+      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 303640,
       "name": "Steamy Windows",
       "url": "https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 285990,
-      "name": "Uncivil War",
-      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
     },
     {
       "added_at": null,

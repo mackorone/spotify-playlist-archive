@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84497,
+  "num_followers": 84490,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,34 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "202 (Speed)",
+        "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Thomie",
+          "url": "https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW"
+        },
+        {
+          "name": "prodbyeros",
+          "url": "https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz"
+        }
+      ],
+      "duration_ms": 142006,
+      "name": "202 - Speed",
+      "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Put0 & Cheiroso (Speed Plug)",
         "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
       },
@@ -191,34 +219,6 @@
       "duration_ms": 159937,
       "name": "Put0 & Cheiroso (Speed Plug)",
       "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "202 (Speed)",
-        "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
-      },
-      "artists": [
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Thomie",
-          "url": "https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW"
-        },
-        {
-          "name": "prodbyeros",
-          "url": "https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz"
-        }
-      ],
-      "duration_ms": 142006,
-      "name": "202 - Speed",
-      "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Jesus Invadiu a Cena (Deluxe)",
+        "url": "https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Aff - Speed Up",
+      "url": "https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Jesus Invadiu a Cena (Deluxe)",
-        "url": "https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Aff - Speed Up",
-      "url": "https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Ele Te Bota Soca Soca (Speed Up)",
         "url": "https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 128759,
       "name": "Ele Te Bota Soca Soca - Speed Up",
       "url": "https://open.spotify.com/track/548LVIsbvfP70STa240ZeI"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2024-07-08 19:10:57",

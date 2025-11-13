@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring G Herbo, Lil Baby, Sexyy Red and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,516 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,576 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Coolin](https://open.spotify.com/track/534OFc7VpU8vB8xVgBO58d) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [Coolin](https://open.spotify.com/album/5vPc9YccV1cfgLJVp0MJwF) | 1:15 |
 | 24 | [Inherited Neglect](https://open.spotify.com/track/7CwaQKB6ZVGxQLtXvI02cI) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Help](https://open.spotify.com/album/4olq9d2EoVpnvR2wPNDnW3) | 2:30 |
 | 25 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 |
-| 26 | [Love From Afar](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
+| 26 | [Love From Afar \(feat\. Fousheé\)](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
 | 27 | [California Games \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/0nZjAcQr2I4KIKkBEXE4Hx) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [California Games \(feat\. Earl Sweatshirt\)](https://open.spotify.com/album/2xFiOEI88LQHRso6Z0H8UI) | 3:13 |
 | 28 | [Ratchet Baby \(feat\. Roy Woods\)](https://open.spotify.com/track/5XPdSG6j3t1M625TwLiM6i) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Never Box Me In](https://open.spotify.com/album/2cCsOJ8BdHhWj5VYu5YOdH) | 3:05 |
 | 29 | [Stay TF Outta CA \(feat\. Guapdad 4000\)](https://open.spotify.com/track/7GbBXMHjzJryrFjQ7EC40x) | [Frisco Chuck](https://open.spotify.com/artist/0EJ1PJOTZJgAacXpyyCXqy), [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Stay TF Outta CA \(feat\. Guapdad 4000\)](https://open.spotify.com/album/5S5zClv77wsPY3R5TjMfoE) | 3:30 |

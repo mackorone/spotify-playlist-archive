@@ -1057,24 +1057,6 @@
     },
     {
       "album": {
-        "name": "Carnivore",
-        "url": "https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "date_added": "2024-04-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191946,
-      "name": "Carnivore",
-      "url": "https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM"
-    },
-    {
-      "album": {
         "name": "Carnivore (Instrumental)",
         "url": "https://open.spotify.com/album/2RFDWSAOmutyKwFTvpQ4hH"
       },
@@ -1090,6 +1072,24 @@
       "duration_ms": 191946,
       "name": "Carnivore",
       "url": "https://open.spotify.com/track/52SJvRrUXfGTyJJkFlwTuY"
+    },
+    {
+      "album": {
+        "name": "Carnivore",
+        "url": "https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191957,
+      "name": "Carnivore",
+      "url": "https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM"
     },
     {
       "album": {

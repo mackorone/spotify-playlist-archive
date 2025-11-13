@@ -4,14 +4,14 @@
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 47 min
+77 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Berlin \(feat\. Tigers Jaw\)](https://open.spotify.com/track/3uT1R0JkBVNmEqU7w1cE1N) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV), [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Cocaine & Lexapro / Berlin](https://open.spotify.com/album/0m9cBqgc5SKrKVsdy2Zp77) | 3:06 | 2025-10-11 |  |
 | [Between Your Band and the Other Band](https://open.spotify.com/track/3l0Q2p2Ynz5Mfm4y3BnZAi) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 4:41 | 2022-09-16 |  |
 | [Body Language](https://open.spotify.com/track/6BpZV5puLFApc0SGYV1rSq) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 3:36 | 2022-09-24 | 2022-10-09 |
-| [Bullet](https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:35 | 2022-09-16 |  |
+| [Bullet](https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:35 | 2022-09-16 | 2025-11-13 |
 | [Can't Wait Forever](https://open.spotify.com/track/70IPNiaQXZPNPJPkXLsZuX) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:36 | 2024-08-15 | 2025-10-15 |
 | [Cannonball](https://open.spotify.com/track/1dWSrF7s0Gx6SZUe8w9Uq9) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 2:43 | 2022-09-16 | 2022-10-13 |
 | [Carry You Over](https://open.spotify.com/track/6k8PzX1lx7tqzyY1l7O8u5) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK) | 3:48 | 2022-09-16 | 2025-10-23 |
@@ -64,7 +64,8 @@
 | [Reckless](https://open.spotify.com/track/4HMwxrEa9kRd4guVQZy9Cp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 3:38 | 2022-10-29 | 2025-05-26 |
 | [Return](https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:42 | 2025-06-28 |  |
 | [Return](https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:42 | 2022-09-16 | 2025-03-08 |
-| [Safe In Your Skin / Where Am I?](https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK) | 4:12 | 2022-09-16 |  |
+| [Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/12173Lz2GcUGc64Ki6f300) | 4:12 | 2025-11-13 |  |
+| [Safe In Your Skin / Where Am I?](https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK) | 4:12 | 2022-09-16 | 2025-11-13 |
 | [Same Stone](https://open.spotify.com/track/5jOOZRXH9CBuaHsYekcTRh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:36 | 2022-10-01 | 2022-10-05 |
 | [Slow Come On](https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 3:15 | 2022-09-16 |  |
 | [Smile](https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:52 | 2022-09-16 | 2024-05-28 |
@@ -83,6 +84,6 @@
 | [We Are Great, There Is Only One \(Tigers Jaw\)](https://open.spotify.com/track/0btYefrUbkE9XDtmprpINs) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 1:59 | 2022-09-16 |  |
 | [What Would You Do](https://open.spotify.com/track/6bREqR9MJcyrEzxxHgef9B) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 5:50 | 2022-09-16 | 2022-10-13 |
 | [Windmills](https://open.spotify.com/track/5Hd7SUlGwVtKVcXlph9DpP) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 2:11 | 2024-01-23 | 2024-02-01 |
-| [Window](https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 4:04 | 2022-09-16 | 2023-02-09 |
+| [Window](https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 4:04 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

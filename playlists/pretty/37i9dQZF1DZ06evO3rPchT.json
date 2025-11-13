@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 83584,
+  "num_followers": 83613,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACFqN7jFgWcUf73LAdlk0Yv",
+  "snapshot_id": "aRJ8gAAAAAAEMIqCGlgpkR2u0Tp+iYWK",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 212685,
+      "name": "Good Ole Boy",
+      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 220479,
       "name": "Hide My Gun (Feat. HARDY)",
       "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY! COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 212685,
-      "name": "Good Ole Boy",
-      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 222793,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 208478,
       "name": "SIGNED, SOBER YOU",
       "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 222793,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Buck On The Wall",
-      "url": "https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 161159,
       "name": "ALL SHE LEFT WAS ME",
       "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Buck On The Wall",
+      "url": "https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bro Country",
-        "url": "https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 285884,
-      "name": "Bro Country (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ready For Love",
         "url": "https://open.spotify.com/album/6oIDwMTYpYNoycGvpN4glq"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 284720,
       "name": "Ready For Love",
       "url": "https://open.spotify.com/track/3BTaJdl0s9anWsJs7AUTcY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bro Country",
+        "url": "https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 285884,
+      "name": "Bro Country (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z"
     }
   ],
   "unique_name": "This Is HARDY",

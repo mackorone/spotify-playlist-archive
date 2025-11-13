@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 
 > Détendez vous avec ces chansons tranquilles pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,769 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,775 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 | 7 | [La bonne étoile \(Duo dub\) \[feat\. Ariane Moffat\]](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Ariane Moffat](https://open.spotify.com/artist/6WCfv3ApgE7lAYwW9NY8GO) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 |
 | 8 | [Les gens](https://open.spotify.com/track/3bCC5fxH6wMAOeCCqMzFLN) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La vie d'artiste](https://open.spotify.com/album/77umZ5RoAPP2dnv0ibyjAQ) | 3:04 |
 | 9 | [Upside Down](https://open.spotify.com/track/4JWZTNlLBlNoa5t7qn1M8i) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down \(UK MaxiSingEnhanced\)](https://open.spotify.com/album/0aCRJrY78QHUIJSqxOhwFW) | 3:29 |
-| 10 | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB) | 2:52 |
+| 10 | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB) | 2:50 |
 | 11 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
 | 12 | [Les filles d'aujourd'hui](https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Une place pour moi](https://open.spotify.com/album/2wghVdeCqQTaOavwTo3yWD) | 4:22 |
 | 13 | [Tombé](https://open.spotify.com/track/399mh97iAmjU34de5MebHp) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb) | 3:53 |

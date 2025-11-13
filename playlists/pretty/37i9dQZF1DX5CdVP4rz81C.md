@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,724 likes - 103 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,642 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

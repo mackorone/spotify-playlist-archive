@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 5868,
+  "num_followers": 5869,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADL38A5STw/F4d1gJwe4F75",
+  "snapshot_id": "aRJ8gAAAAADMWzqquS0JWkiciW52cgfG",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas",
-        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 165458,
-      "name": "Bien Pilas",
-      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Debe Ser",
         "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 130087,
       "name": "Como Debe Ser",
       "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas",
+        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 165458,
+      "name": "Bien Pilas",
+      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
     },
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAJITA LA TENAZA",
-        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 198598,
-      "name": "EL CRESTA",
-      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
+      "duration_ms": 149984,
+      "name": "Jardin Verde",
+      "url": "https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+        "name": "BAJITA LA TENAZA",
+        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
       },
       "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 149984,
-      "name": "Jardin Verde",
-      "url": "https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv"
+      "duration_ms": 198598,
+      "name": "EL CRESTA",
+      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
     },
     {
       "added_at": null,

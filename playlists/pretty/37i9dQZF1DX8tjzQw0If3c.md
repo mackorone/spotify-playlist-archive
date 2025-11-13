@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: Kidd Santhe
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,153 likes - 92 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,152 likes - 92 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

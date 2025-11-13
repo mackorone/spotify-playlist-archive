@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Jazz piano ballads to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,318 likes - 469 songs - 1 day 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,357 likes - 469 songs - 1 day 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,7 +241,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 | 231 | [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 |
 | 232 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 |
 | 233 | [Hello From Above](https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Blues For Elsie](https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk) | 3:40 |
-| 234 | [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 |
+| 234 | [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 |
 | 235 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 |
 | 236 | [In Love In Vain](https://open.spotify.com/track/51T3UIxjT7JFCa65LJF9u8) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [In Love In Vain](https://open.spotify.com/album/2Qhxe4KQqMY6vXjimJjLt2) | 2:58 |
 | 237 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 |

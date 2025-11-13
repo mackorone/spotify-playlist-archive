@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 64200,
+  "num_followers": 64227,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -861,26 +861,6 @@
       "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Spirit of Praise, Vol. 5 (Live)",
@@ -903,6 +883,26 @@
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "added_at": "2023-12-01 00:01:00",

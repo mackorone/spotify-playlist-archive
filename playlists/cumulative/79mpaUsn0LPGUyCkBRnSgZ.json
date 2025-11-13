@@ -16207,6 +16207,24 @@
     },
     {
       "album": {
+        "name": "DJ Set",
+        "url": "https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u"
+      },
+      "artists": [
+        {
+          "name": "Mouseatouille",
+          "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251783,
+      "name": "Tom's Lament",
+      "url": "https://open.spotify.com/track/150J3R13jQbb9HQN9RQK12"
+    },
+    {
+      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },

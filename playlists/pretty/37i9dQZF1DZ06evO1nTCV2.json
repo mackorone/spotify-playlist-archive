@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45061,
+  "num_followers": 45059,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAHbJi8plJNSpP75sWv9I8D",
+  "snapshot_id": "aRJ8gAAAAACSXvyhfowj6GvCzKk1uzsE",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+      "duration_ms": 204026,
+      "name": "Nuclear",
+      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
     },
     {
       "added_at": null,
@@ -447,38 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Nuclear",
-      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
       "added_at": null,
@@ -528,7 +528,7 @@
       "added_at": null,
       "album": {
         "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 321120,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+      "duration_ms": 246440,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 178706,
       "name": "Chin Up, Cheer Up",
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Colors",
-        "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 213946,
-      "name": "Fuck The Rain",
-      "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
     },
     {
       "added_at": null,

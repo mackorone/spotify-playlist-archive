@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-164 songs - 8 hr 24 min
+169 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,9 @@
 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 | 2023-11-10 |  |
 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 | 2023-11-24 | 2025-09-05 |
 | [Christmas is a\-comin'](https://open.spotify.com/track/0AtyXQ2WXI8ei08zdTDJvV) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Christmas is a\-comin'](https://open.spotify.com/album/1FQA9vud3qC2AHLIhoN633) | 2:26 | 2023-10-27 |  |
+| [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 | 2025-11-12 |  |
 | [Christmas Night](https://open.spotify.com/track/4aL4d1dLrK6lM32OWHvvLt) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Christmas Night](https://open.spotify.com/album/3rX7mcu3omFMmmvWdmVSTL) | 2:44 | 2025-11-03 |  |
+| [Christmas Serenade](https://open.spotify.com/track/4Jd9637OEC5AtH3JEXqS16) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Christmas Serenade](https://open.spotify.com/album/5HNnuo7hod2fRuiqpL7M3b) | 3:09 | 2025-11-12 |  |
 | [Christmas Tears of Joy](https://open.spotify.com/track/1dweHzLGsaeytVROAiRNv5) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Christmas Tears of Joy](https://open.spotify.com/album/32Ak4BmOAFlBVNAhGOy1NF) | 2:42 | 2024-10-25 |  |
 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 | 2022-10-07 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Christmas Time Is Here](https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S) | 2:46 | 2023-10-27 |  |
@@ -59,6 +61,7 @@
 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 | 2022-10-20 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 | 2023-10-13 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4RzVqpmyoVlRGSLPuPhm5u) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4lnAUFKMnMf7m1a8DlrA0t) | 2:27 | 2022-10-25 |  |
+| [Hark! the Herald Angels Sing](https://open.spotify.com/track/7qJpUIwvDjA8foBVo8ZE15) | [Nighthawks Revisited](https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1) | [Little Jesus Boy](https://open.spotify.com/album/4Svtjt4Pd9ZqFntCLiJ17z) | 3:00 | 2025-11-12 |  |
 | [Hark! The Herald Angels Sing \(Smooth Jazz Version\)](https://open.spotify.com/track/3CtCdVoPoB3IALr4erTZr8) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [Traditional Christmas: Jazz Versions](https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC) | 3:19 | 2021-12-21 | 2022-10-26 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6boYat9zHcJseJJKBCKRS6) | [Charles Snyder](https://open.spotify.com/artist/29L67ywhlU9XACCtmJQMSr) | [Christmas Songs](https://open.spotify.com/album/5HbLO8vIITOIGpNGc5q8My) | 3:42 | 2021-12-21 | 2023-11-11 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0enMSlACfwj5R3U6cKjNeF) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/6m7JdrIDGe2xc7l3nCOFh5) | 4:11 | 2023-11-10 |  |
@@ -162,9 +165,11 @@
 | [What Are You Doing New Years Eve](https://open.spotify.com/track/1fnKHY9FBFexqlx69unvhd) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Jeff Steinberg Jazz Ensemble](https://open.spotify.com/artist/37SofF6rHmWJudegF3hBUH) | [Christmas By Candlelight](https://open.spotify.com/album/3tSZBHIEPQo1nOrniwqadI) | 4:57 | 2021-12-21 | 2023-10-20 |
 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 | 2023-10-20 |  |
 | [What Child Is This](https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [What Child Is This](https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3) | 2:44 | 2023-11-10 | 2024-11-22 |
+| [When Christmas Comes To Town](https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [When Christmas Comes To Town](https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO) | 3:29 | 2025-11-12 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2021-12-21 | 2024-12-06 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/1L6GnWMSzeNRQWQYmeITQV) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Let It Snow](https://open.spotify.com/album/0gIaPB4dF1Oxfxpm6DbvzS) | 2:25 | 2024-12-12 | 2025-10-04 |
 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 | 2023-09-29 |  |
+| [Where The Snow Still Falls](https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Where The Snow Still Falls](https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn) | 3:45 | 2025-11-12 |  |
 | [White Christmas](https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb) | [Lyla Lee Band](https://open.spotify.com/artist/44QGQt033sUjbeecDPn791) | [Winter Wonderland](https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs) | 2:33 | 2022-10-25 | 2025-09-05 |
 | [White Christmas](https://open.spotify.com/track/2dvU6xGERLJVghYFioPgmf) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [A Slow Jams Jazz Christmas](https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ) | 3:52 | 2021-12-21 | 2022-10-26 |
 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 | 2023-11-17 | 2025-10-04 |

@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "album": {
         "name": "Being So Normal",
         "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
       },
@@ -13247,6 +13265,28 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo"
+      },
+      "artists": [
+        {
+          "name": "Buckshot",
+          "url": "https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144521,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
+    },
+    {
+      "album": {
         "name": "Geidi Primes",
         "url": "https://open.spotify.com/album/7HO6IZ3Ff5J9YoRBI8hm1O"
       },
@@ -22902,8 +22942,8 @@
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "That Poppy",
+          "url": "https://open.spotify.com/artist/7f1pLrdyakmA1m0pA1Zvb8"
         }
       ],
       "date_added": "2021-08-05",
@@ -24668,8 +24708,8 @@
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "That Poppy",
+          "url": "https://open.spotify.com/artist/7f1pLrdyakmA1m0pA1Zvb8"
         }
       ],
       "date_added": "2021-08-05",
@@ -40689,7 +40729,7 @@
     },
     {
       "album": {
-        "name": "Von dutch remix with skream and benga",
+        "name": "Von dutch remix with skream & benga",
         "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
       },
       "artists": [
@@ -40698,19 +40738,15 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Benga",
-          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+          "name": "Skream & Benga",
+          "url": "https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38"
         }
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 281142,
-      "name": "Von dutch remix with skream and benga",
+      "name": "Von dutch remix with skream & benga",
       "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
     },
     {

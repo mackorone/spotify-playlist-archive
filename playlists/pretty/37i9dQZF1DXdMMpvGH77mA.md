@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,887 likes - 103 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,141 likes - 103 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 102 | [Anima Rhythm](https://open.spotify.com/track/5b5DGtxW15LzR3TyK3799Q) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Anima Rhythm](https://open.spotify.com/album/5m2qbK3VUSi04WrzcK31Zl) | 4:03 |
 | 103 | [The Peace of Truth](https://open.spotify.com/track/6pf9grSLdju1CZJBs9yaUo) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [The Peace of Truth](https://open.spotify.com/album/3O85pY3iCoJWEsvpTDFt14) | 2:33 |
 
-Snapshot ID: `AAAAAIgAClj7UVHtbFm8QMANqW/M01KH`
+Snapshot ID: `AAAAAESvLccUM2/kFEHlr2GeeBg07Wia`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACzSYP9d/9vQ2/gjZBcalA9",
+  "snapshot_id": "aRJ8gAAAAADeYVheBEQlQGZTUKCaWqOX",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS 2.0",
-        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Kerosene Dreams",
-      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
         "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 181266,
       "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
       "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Kerosene Dreams",
+      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belong EP",
-        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 218885,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 253733,
       "name": "Smoke On the Highway",
       "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 218885,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Stay",
-        "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+        "name": "Don\u2019t Stay",
+        "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Love Songs Drug Songs",
-      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
+      "duration_ms": 189800,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Love Songs Drug Songs",
+      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 280813,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Unconsolable",
-      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Unconsolable",
+      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
       },
@@ -851,6 +851,26 @@
       "duration_ms": 235426,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 153957,
+      "name": "Razor's Edge (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
     },
     {
       "added_at": null,
@@ -875,26 +895,6 @@
       "duration_ms": 184666,
       "name": "give me hell",
       "url": "https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 153957,
-      "name": "Razor's Edge (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
     },
     {
       "added_at": null,

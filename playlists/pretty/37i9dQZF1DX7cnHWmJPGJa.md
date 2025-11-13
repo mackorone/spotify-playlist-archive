@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,797 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,800 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 44 | [Wait Up](https://open.spotify.com/track/6zniefLYl8sGh6TY0rDbID) | [Becky Sikasa](https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ) | [Wait Up](https://open.spotify.com/album/4owm0U3LAo5y1sCun9lyXV) | 2:55 |
 | 45 | [If I Didn't Laugh](https://open.spotify.com/track/1gOqY11AJTTzkvlNcZijIj) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [If I Didn't Laugh](https://open.spotify.com/album/2AgTr43Z3Bw1QHjibkb3cG) | 2:46 |
 | 46 | [Community Service](https://open.spotify.com/track/2LJru2jR7vQmrwRHLkBW0W) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [Community Service](https://open.spotify.com/album/410cnKn5jGXU19ifHrwnVX) | 2:57 |
-| 47 | [jamcod](https://open.spotify.com/track/4hYkg7rTJ2ifRzAiHUklU1) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Glasgow Eyes](https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL) | 3:59 |
-| 48 | [Burn the Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
+| 47 | [Burn the Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
+| 48 | [jamcod](https://open.spotify.com/track/4hYkg7rTJ2ifRzAiHUklU1) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Glasgow Eyes](https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL) | 3:59 |
 | 49 | [Bad Bones](https://open.spotify.com/track/6hNaDPBmCwcANj9ZYwnSrl) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Bad Bones](https://open.spotify.com/album/2Mp0vOi797F1mAgaXdLcDy) | 3:23 |
 | 50 | [Influencer](https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Dreams, Schemes & Young Teams](https://open.spotify.com/album/179NnZHYVnYsM3R3XMmLsa) | 2:18 |
 

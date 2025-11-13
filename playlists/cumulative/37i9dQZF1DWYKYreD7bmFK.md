@@ -4,13 +4,14 @@
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-43 songs - 2 hr 6 min
+44 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2025-02-11 | 2025-11-11 |
 | [Amico Lontano](https://open.spotify.com/track/4w3ZbY68eOuvuMJbVJgQHF) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [Amico Lontano](https://open.spotify.com/album/1TBdifXGPgO0WX1vuOZ9BC) | 2:56 | 2025-11-10 |  |
 | [Aurora Tropicale](https://open.spotify.com/track/58zElRCN5gQnD2VsHaxJVX) | [Cosmonauti Borghesi](https://open.spotify.com/artist/6yiNkOdDECVs183VjnLDxU) | [Aurora Tropicale](https://open.spotify.com/album/3FU9P0xpHMHchiSUNl0mBg) | 3:03 | 2025-02-11 | 2025-11-11 |
+| [Bacio piccolino](https://open.spotify.com/track/0xuxFQeTtJSzRSC9nfzOcT) | [Renato D'Amico](https://open.spotify.com/artist/2u9esjWV33bedmIU35gTsz) | [Bacio piccolino](https://open.spotify.com/album/60HudCYAwR5L5FzLsHoUdy) | 2:30 | 2025-11-12 |  |
 | [BELLA BALLA](https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1) | [Questo e Quello](https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI), [Francesco Mannella](https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7), [Stefano](https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW) | [BELLA BALLA](https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp) | 2:56 | 2025-02-11 | 2025-11-11 |
 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 | 2025-11-10 |  |
 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 | 2025-02-11 | 2025-11-11 |

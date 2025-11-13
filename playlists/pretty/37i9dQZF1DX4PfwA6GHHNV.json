@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22261,
+  "num_followers": 22270,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,26 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
+        "name": "Wallah Wallah",
+        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 142830,
+      "name": "Wallah Wallah",
+      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
-        "name": "Wallah Wallah",
-        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 142830,
-      "name": "Wallah Wallah",
-      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
-        "name": "Chakra",
-        "url": "https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul"
-      },
-      "artists": [
-        {
-          "name": "Mim\u00ec",
-          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "Chakra",
-      "url": "https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
         "name": "Comme Avant",
         "url": "https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 219226,
       "name": "Comme Avant",
       "url": "https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
+        "name": "Chakra",
+        "url": "https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul"
+      },
+      "artists": [
+        {
+          "name": "Mim\u00ec",
+          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 129806,
-      "name": "Repara",
-      "url": "https://open.spotify.com/track/7v35WhMHnJr31gQUvU6I1a"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
         "name": "1001 Noites",
         "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 156428,
       "name": "1001 Noites",
       "url": "https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 129806,
+      "name": "Repara",
+      "url": "https://open.spotify.com/track/7v35WhMHnJr31gQUvU6I1a"
     },
     {
       "added_at": "2025-10-31 17:20:08",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2025-10-31 17:20:08",
       "album": {
-        "name": "BIG BIG",
-        "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Mya Akoma",
-          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "BIG BIG",
-      "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
-    },
-    {
-      "added_at": "2025-10-31 17:20:08",
-      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 182448,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
+    },
+    {
+      "added_at": "2025-10-31 17:20:08",
+      "album": {
+        "name": "BIG BIG",
+        "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Mya Akoma",
+          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "BIG BIG",
+      "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
     },
     {
       "added_at": "2025-10-31 17:20:08",

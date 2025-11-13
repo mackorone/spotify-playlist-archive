@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 206671,
+  "num_followers": 206793,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -339,34 +339,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "PRESIDENTE",
-        "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 181064,
-      "name": "PRESIDENTE",
-      "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Pika Pika",
         "url": "https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt"
       },
@@ -391,6 +363,34 @@
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "PRESIDENTE",
+        "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 181064,
+      "name": "PRESIDENTE",
+      "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "TU TU TU",
-        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 151570,
-      "name": "TU TU TU",
-      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "\u00c1lbum JGL",
         "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "TU TU TU",
+        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 151570,
+      "name": "TU TU TU",
+      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "\u00bfQu\u00e9 Te Parece?",
-        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "\u00bfQu\u00e9 Te Parece?",
-      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Vision De Tunel",
         "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 160714,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/7eUCC5cLcQVQVuE9JP0phS"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
     },
     {
       "added_at": "2025-05-27 18:54:46",

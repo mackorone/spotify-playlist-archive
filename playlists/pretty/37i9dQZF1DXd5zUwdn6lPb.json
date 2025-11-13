@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 571065,
+  "num_followers": 571275,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
         "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 94586,
       "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
       "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -427,8 +427,8 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
-        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
+        "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
+        "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
       },
       "artists": [
         {
@@ -436,17 +436,13 @@
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+          "name": "Vestard Shimkus",
+          "url": "https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl"
         }
       ],
-      "duration_ms": 119146,
-      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
-      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
+      "duration_ms": 210026,
+      "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
+      "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -539,8 +535,8 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
-        "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
+        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
+        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
       },
       "artists": [
         {
@@ -548,13 +544,17 @@
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Vestard Shimkus",
-          "url": "https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl"
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
         }
       ],
-      "duration_ms": 210026,
-      "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
-      "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+      "duration_ms": 119146,
+      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
+      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Make-believe",
-        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Make-believe",
-      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Piano Poems",
-        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 171397,
-      "name": "Being",
-      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Piano Poems",
+        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
         }
       ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+      "duration_ms": 171397,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1143,30 +1143,6 @@
       "duration_ms": 88573,
       "name": "Invention No. 1 in C Major, BWV 772",
       "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
-      },
-      "artists": [
-        {
-          "name": "Francesco Molino",
-          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
-        },
-        {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
-        },
-        {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1195,6 +1171,30 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
+      },
+      "artists": [
+        {
+          "name": "Francesco Molino",
+          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
+        },
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
+        }
+      ],
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "MAN\u00edA",
         "url": "https://open.spotify.com/album/510ooESeRor4qHmIQzIj8K"
       },
@@ -1211,42 +1211,6 @@
       "duration_ms": 470000,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major, 'Lento sostenuto'",
       "url": "https://open.spotify.com/track/0FKULDvNOHU1r3I4nKtwoJ"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
-      },
-      "artists": [
-        {
-          "name": "Regn\u00f8r",
-          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
-        }
-      ],
-      "duration_ms": 144415,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
-        }
-      ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1275,6 +1239,26 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
+        }
+      ],
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
         "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 117053,
       "name": "Valsinha",
       "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "duration_ms": 144415,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
+        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
       },
       "artists": [
         {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+          "name": "Mariani Klavierquartett",
+          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
         }
       ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+      "duration_ms": 518539,
+      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
+      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
-        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Mariani Klavierquartett",
-          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
         }
       ],
-      "duration_ms": 518539,
-      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
-      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2025-10-10 08:36:30",

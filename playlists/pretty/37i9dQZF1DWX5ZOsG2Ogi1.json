@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: \u00d1engo Flow",
-  "num_followers": 1348243,
+  "num_followers": 1348322,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-11-07 08:04:51",
       "album": {
-        "name": "No Ponga Excusas",
-        "url": "https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "No Ponga Excusas",
-      "url": "https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv"
-    },
-    {
-      "added_at": "2025-11-07 08:04:51",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2025-11-07 08:04:51",
       "album": {
-        "name": "INTER SHIBUYA (FERXXO EDITION)",
-        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
+        "name": "No Ponga Excusas",
+        "url": "https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 145120,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E"
+      "duration_ms": 164956,
+      "name": "No Ponga Excusas",
+      "url": "https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv"
     },
     {
       "added_at": "2025-11-07 08:04:51",
@@ -1427,6 +1407,26 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "added_at": "2025-11-07 08:04:51",
+      "album": {
+        "name": "INTER SHIBUYA (FERXXO EDITION)",
+        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E"
     },
     {
       "added_at": "2025-11-07 08:04:51",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-11-07 08:04:51",
       "album": {
-        "name": "YTSQS",
-        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "CHICA ATRACTIVA",
-      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
-    },
-    {
-      "added_at": "2025-11-07 08:04:51",
-      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 171344,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
+    },
+    {
+      "added_at": "2025-11-07 08:04:51",
+      "album": {
+        "name": "YTSQS",
+        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "CHICA ATRACTIVA",
+      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
     },
     {
       "added_at": "2025-11-07 08:04:51",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-11-07 08:04:51",
       "album": {
-        "name": "SORRY 4 THAT MUCH",
-        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "SORRY 4 THAT MUCH",
-      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
-    },
-    {
-      "added_at": "2025-11-07 08:04:51",
-      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 177882,
       "name": "AMISTA",
       "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
+    },
+    {
+      "added_at": "2025-11-07 08:04:51",
+      "album": {
+        "name": "SORRY 4 THAT MUCH",
+        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "SORRY 4 THAT MUCH",
+      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
       "added_at": "2025-11-07 08:04:51",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2025-11-07 08:04:51",
       "album": {
-        "name": "CLASSY 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "CLASSY 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
-    },
-    {
-      "added_at": "2025-11-07 08:04:51",
-      "album": {
         "name": "Media Hora",
         "url": "https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
+    },
+    {
+      "added_at": "2025-11-07 08:04:51",
+      "album": {
+        "name": "CLASSY 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2025-11-07 08:04:51",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2025-11-07 08:04:51",
       "album": {
-        "name": "Revol\u00fa",
-        "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Revol\u00fa",
-      "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
-    },
-    {
-      "added_at": "2025-11-07 08:04:51",
-      "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
       },
@@ -1991,6 +1975,42 @@
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
+    },
+    {
+      "added_at": "2025-11-07 08:04:51",
+      "album": {
+        "name": "Revol\u00fa",
+        "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Revol\u00fa",
+      "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
+    },
+    {
+      "added_at": "2025-11-07 08:04:51",
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 211879,
+      "name": "REINA",
+      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
     },
     {
       "added_at": "2025-11-07 08:04:51",
@@ -2039,6 +2059,22 @@
     {
       "added_at": "2025-11-07 08:04:51",
       "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "added_at": "2025-11-07 08:04:51",
+      "album": {
         "name": "APAGA EL CEL",
         "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
       },
@@ -2055,42 +2091,6 @@
       "duration_ms": 184806,
       "name": "APAGA EL CEL",
       "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
-    },
-    {
-      "added_at": "2025-11-07 08:04:51",
-      "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "REINA",
-      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
-    },
-    {
-      "added_at": "2025-11-07 08:04:51",
-      "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2025-11-07 08:04:51",

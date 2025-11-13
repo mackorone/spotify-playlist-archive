@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,441 likes - 214 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,564 likes - 214 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 213 | [Sonambula](https://open.spotify.com/track/0EOcXPiGbXQijlCssm3A28) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Sonambula](https://open.spotify.com/album/1u2zP74CEfUSobRte5tiIX) | 3:33 |
 | 214 | [Oortenses](https://open.spotify.com/track/4owhqU5zMrqmvy0XUoV0Q0) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Oortenses](https://open.spotify.com/album/4h4llD5xDpv46W4c4LD3vj) | 2:37 |
 
-Snapshot ID: `AAAAAL7GUIMMqh83KHP1rAZRRfTzEGkX`
+Snapshot ID: `AAAAAHdJADh6E4HYUbCW6UcJ6snUOZrc`

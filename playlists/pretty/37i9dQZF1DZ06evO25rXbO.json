@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1212654,
+  "num_followers": 1212823,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADZMacBkc+sjPa7k3JaSBoE",
+  "snapshot_id": "aRJ8gAAAAAC4C83OycBHwnlg2GEWfiG3",
   "tracks": [
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
       },
       "artists": [
         {
@@ -788,13 +788,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
         }
       ],
-      "duration_ms": 272666,
-      "name": "Strobelite (feat. Peven Everett)",
-      "url": "https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu"
+      "duration_ms": 220840,
+      "name": "Re-Hash",
+      "url": "https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
       "artists": [
         {
@@ -828,13 +828,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Miho Hatori",
-          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
         }
       ],
-      "duration_ms": 220840,
-      "name": "Re-Hash",
-      "url": "https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm"
+      "duration_ms": 272666,
+      "name": "Strobelite (feat. Peven Everett)",
+      "url": "https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 492478,
+  "num_followers": 492502,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABXE1vVm5TwzGK9Fyfb1GcL",
+  "snapshot_id": "aRJ8gAAAAADVPp0aE2nan22GZjkbAoZl",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 49493,
-      "name": "Don't Start (Too Late) (2009 Remaster)",
-      "url": "https://open.spotify.com/track/1Vb3gPjEpJ6eOPL7Mjs4Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Sabbath (2014 Remaster)",
         "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 49493,
+      "name": "Don't Start (Too Late) (2009 Remaster)",
+      "url": "https://open.spotify.com/track/1Vb3gPjEpJ6eOPL7Mjs4Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Laguna Sunrise - 2009 Remaster",
-      "url": "https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ"
+      "duration_ms": 353240,
+      "name": "Under the Sun - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Ot5N9GGKyybaylaNUmESl"
     }
   ],
   "unique_name": "This Is Black Sabbath",

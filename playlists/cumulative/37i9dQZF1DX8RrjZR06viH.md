@@ -4,7 +4,7 @@
 
 > Høsten er her! 🍂
 
-277 songs - 14 hr 25 min
+278 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
 | [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 | 2025-03-13 | 2025-07-01 |
 | [LOVELIFE](https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [LOVELIFE](https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq) | 3:05 | 2025-03-27 |  |
+| [Luft](https://open.spotify.com/track/2YJSx1oGUOKnjpBbC5eV8U) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO), [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Luft](https://open.spotify.com/album/0yTa4d2Tv2GzDTGiWGpsGY) | 2:58 | 2025-11-06 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-10-11 |
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2024-06-27 | 2025-05-03 |
 | [Lykkelig uten meg](https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Lykkelig uten meg](https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6) | 3:05 | 2025-08-28 |  |
@@ -180,7 +181,7 @@
 | [Miste huet](https://open.spotify.com/track/2se3rw5jBytcnk2xDCW2Jb) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU), [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Miste huet](https://open.spotify.com/album/3XKZriJLIHInSAQQEW5Ut1) | 2:57 | 2025-07-17 |  |
 | [Modern Romance](https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT) | 3:34 | 2025-04-17 | 2025-06-13 |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 | 2025-05-03 |
-| [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 |  |
+| [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 | 2025-11-13 |
 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 | 2024-06-27 | 2024-08-30 |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2025-03-26 |
 | [Nanana](https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nanana](https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL) | 2:26 | 2025-02-06 | 2025-04-18 |

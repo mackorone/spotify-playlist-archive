@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 215798,
+  "num_followers": 215835,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "\u00bfQu\u00e9 Tiene?",
-      "url": "https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "\u00bfQu\u00e9 Tiene?",
+      "url": "https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1036,7 +1036,7 @@
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 212957,
+      "duration_ms": 212958,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
     },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Shining in the Dark",
-        "url": "https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6"
-      },
-      "artists": [
-        {
-          "name": "Cienfue",
-          "url": "https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT"
-        }
-      ],
-      "duration_ms": 260702,
-      "name": "Shining in the Dark",
-      "url": "https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Si T\u00fa Est\u00e1s Bien",
         "url": "https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 263425,
       "name": "Si T\u00fa Est\u00e1s Bien",
       "url": "https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Shining in the Dark",
+        "url": "https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6"
+      },
+      "artists": [
+        {
+          "name": "Cienfue",
+          "url": "https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT"
+        }
+      ],
+      "duration_ms": 260702,
+      "name": "Shining in the Dark",
+      "url": "https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc"
     },
     {
       "added_at": "2024-07-12 18:08:37",

@@ -258,6 +258,44 @@
     {
       "album": {
         "name": "To Thine Own Self Be True",
+        "url": "https://open.spotify.com/album/2Y8Px6d8XUQWKkdae7dvCx"
+      },
+      "artists": [
+        {
+          "name": "La Coka Nostra",
+          "url": "https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f"
+        },
+        {
+          "name": "ILL BILL",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        },
+        {
+          "name": "Slaine",
+          "url": "https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Sadie Vada",
+          "url": "https://open.spotify.com/artist/2ZOJshYUYGrxtjxsGfTOzS"
+        },
+        {
+          "name": "Q-Unique",
+          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282509,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0V3qefVBv8sEgd28502ctw"
+    },
+    {
+      "album": {
+        "name": "To Thine Own Self Be True",
         "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
       },
       "artists": [
@@ -288,7 +326,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 282509,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4OeuVrcHZ6LSxJLOgsnonH"
@@ -2374,7 +2412,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 228824,
       "name": "Miejmy To za Sob\u0105",
       "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
@@ -3830,7 +3868,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 231755,
       "name": "Wi\u0119zie\u0144 W\u0142asnych Granic",
       "url": "https://open.spotify.com/track/1L525mhtifli4X9LroMYLx"

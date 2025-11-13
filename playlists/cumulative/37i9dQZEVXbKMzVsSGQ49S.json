@@ -9552,7 +9552,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 215069,
       "name": "Cowboy Killer",
       "url": "https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb"
@@ -12488,7 +12488,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -14862,7 +14862,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -45508,6 +45508,24 @@
       "duration_ms": 166888,
       "name": "Stand On It",
       "url": "https://open.spotify.com/track/26Hgx0810XUis01XWvoftB"
+    },
+    {
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mettias",
+          "url": "https://open.spotify.com/artist/4ucQ2IJMrnXJ17ntrWXiqh"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203881,
+      "name": "Standing My Ground",
+      "url": "https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd"
     },
     {
       "album": {

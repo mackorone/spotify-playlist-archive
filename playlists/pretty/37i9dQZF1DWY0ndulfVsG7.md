@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,453 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,465 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 41 | [Selimut Hati](https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 4:39 |
 | 42 | [Penantian](https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:09 |
 | 43 | [Aku Cinta Padamu](https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Aku Cinta Padamu](https://open.spotify.com/album/2qSbdOw1byknZvx0RJsfHL) | 5:28 |
-| 44 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 |
-| 45 | [Isabella](https://open.spotify.com/track/39t7DAuFCoyGmzNluMLsSM) | [Search](https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2) | [Fenomena](https://open.spotify.com/album/2FjQr9dvsfICcVuQgOsect) | 5:08 |
+| 44 | [Isabella](https://open.spotify.com/track/39t7DAuFCoyGmzNluMLsSM) | [Search](https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2) | [Fenomena](https://open.spotify.com/album/2FjQr9dvsfICcVuQgOsect) | 5:08 |
+| 45 | [Sembilu](https://open.spotify.com/track/4mSrdNN00DC9t0rF41Qy93) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Demi Ella](https://open.spotify.com/album/5BY4VqJ17Hunw0yLaFYOaW) | 5:21 |
 | 46 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
-| 47 | [Sembilu](https://open.spotify.com/track/4mSrdNN00DC9t0rF41Qy93) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Demi Ella](https://open.spotify.com/album/5BY4VqJ17Hunw0yLaFYOaW) | 5:21 |
-| 48 | [Aku Cinta Kau Dan Dia](https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Aku Cinta Kau Dan Dia](https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF) | 4:43 |
+| 47 | [Aku Cinta Kau Dan Dia](https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Aku Cinta Kau Dan Dia](https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF) | 4:43 |
+| 48 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 |
 | 49 | [Hanya Kau Yang Mampu](https://open.spotify.com/track/4HFP0A7i6NIOscKVdilus2) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 4:13 |
 | 50 | [Sudah Ku Tahu](https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sudah Ku Tahu](https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0) | 4:18 |
 

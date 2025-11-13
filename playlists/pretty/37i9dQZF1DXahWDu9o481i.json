@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KETTAMA",
-  "num_followers": 49662,
+  "num_followers": 49664,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Solace & The Vices",
         "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 204308,
       "name": "Star Signs",
       "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Cherry Valley",
-        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "White Lighter",
-        "url": "https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "White Lighter",
-      "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "The Pines",
         "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 231826,
       "name": "Restless Eyes",
       "url": "https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "White Lighter",
+        "url": "https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "White Lighter",
+      "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "b 2 b",
-        "url": "https://open.spotify.com/album/4qtZdKxpKsyot1lueCfTWc"
-      },
-      "artists": [
-        {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 163469,
-      "name": "b 2 b",
-      "url": "https://open.spotify.com/track/4p2rGMlMTHCDn3lTNGcsbc"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Dancin' In The Streets",
         "url": "https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 369424,
       "name": "NOT 2NITE (feat. Cansu Kandemir)",
       "url": "https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "b 2 b",
+        "url": "https://open.spotify.com/album/4qtZdKxpKsyot1lueCfTWc"
+      },
+      "artists": [
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "b 2 b",
+      "url": "https://open.spotify.com/track/4p2rGMlMTHCDn3lTNGcsbc"
     },
     {
       "added_at": "2025-11-04 21:00:27",

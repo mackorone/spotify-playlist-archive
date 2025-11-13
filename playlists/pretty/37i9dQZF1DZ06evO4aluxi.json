@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18839,
+  "num_followers": 18838,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACkehrK15dWkITi1T4grqNk",
+  "snapshot_id": "aRJ8gAAAAABthiGZWbFG9Xd/CDEHRy5x",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Father's Eyes",
-        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Father's Eyes",
-      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Of Ages...Hymns & Faith",
         "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 180973,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Father's Eyes",
+        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Father's Eyes",
+      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
       "duration_ms": 194986,
       "name": "Doubly Good To You - Remastered",
       "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
     },
     {
       "added_at": null,
@@ -663,38 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Jesus, I Love Thee",
-      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Jesus, Take All Of Me (Just As I Am)",
-      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198546,
       "name": "Could I Have This Dance",
       "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
     },
     {
       "added_at": null,

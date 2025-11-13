@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-156 songs - 7 hr 49 min
+157 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Tied Up \(feat\. Mr\. Eazi, RAYE & Jake Gosling\)](https://open.spotify.com/track/6x2rOU6kWCb4hapELxe5N9) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Jake Gosling](https://open.spotify.com/artist/20twLKFb2Nhd8duUH0k2DJ) | [Tied Up \(feat\. Mr Eazi, RAYE and Jake Gosling\)](https://open.spotify.com/album/4tbPtaxjHDV52LOctsiG5r) | 3:07 | 2022-07-20 | 2022-07-22 |
 | [Tony Montana](https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tony Montana](https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL) | 2:33 | 2021-12-28 | 2025-04-29 |
 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 | 2021-12-28 | 2022-12-13 |
-| [Violence](https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Violence](https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB) | 2:36 | 2025-10-23 |  |
+| [Violence](https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Violence](https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB) | 2:36 | 2025-10-23 | 2025-11-13 |
+| [Violence](https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Maison Rouge](https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I) | 2:36 | 2025-11-13 |  |
 | [Wait For Your Love](https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Maison Rouge](https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I) | 3:07 | 2025-11-01 |  |
 | [Walangolo](https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Walangolo](https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76) | 3:44 | 2022-04-10 | 2023-12-25 |
 | [We Dey](https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:39 | 2023-11-10 | 2024-03-25 |

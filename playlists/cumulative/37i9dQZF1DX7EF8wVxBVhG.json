@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 171697,
       "name": "100-1000 hz Green Glow",
       "url": "https://open.spotify.com/track/06Zt7s93JeQnDDTNcCOyQA"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 160902,
       "name": "Adagio Alpha 105Hz - 115Hz",
       "url": "https://open.spotify.com/track/3DOlYPzw4n17YiebOaWIdF"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 207206,
       "name": "Alpha Horizon 128 + 130 Hz",
       "url": "https://open.spotify.com/track/4o4y2ZK2pso1lHYAGwhbLN"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 140571,
       "name": "Alpha Sinus - The Shrine - 146 Hz -153 Hz",
       "url": "https://open.spotify.com/track/0Z5OXX6LKeN85fm3MyMJiS"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 226507,
       "name": "Angel Gamma Choir",
       "url": "https://open.spotify.com/track/3ecLObZD4KDhSTokl9HGOS"
@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Beyond Deep Sleep 30 Hz",
+        "url": "https://open.spotify.com/album/6VJHiASN7g5vPul6UKLYW2"
+      },
+      "artists": [
+        {
+          "name": "Infinitesimal",
+          "url": "https://open.spotify.com/artist/70m8DH3NleJbaiOF5soVYM"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154790,
+      "name": "Beyond Deep Sleep 30 Hz",
+      "url": "https://open.spotify.com/track/6JgWnK07vXJvcr1TH5bbmz"
+    },
+    {
+      "album": {
         "name": "Focus & Meditation",
         "url": "https://open.spotify.com/album/6qSqfcKYBlQ7TWPNZiXODJ"
       },
@@ -1676,7 +1694,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 124087,
       "name": "Binaural Alpha Sinus 100 Hz - 108 Hz",
       "url": "https://open.spotify.com/track/3fSztmiujVaZuQ3f4VRZXv"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 129287,
       "name": "Binaural Alpha Sinus 142 Hz - 152 Hz",
       "url": "https://open.spotify.com/track/3zmRndl0TkZRDhdWcYEf7x"
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 167183,
       "name": "Binaural Beta Sinus 200 Hz - 230 Hz",
       "url": "https://open.spotify.com/track/3w2Vh41pyxunSNvqIKczJG"
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 133003,
       "name": "Binaural Gamma Sinus 90 Hz - 190 Hz",
       "url": "https://open.spotify.com/track/1PPEy5m3ubtow8tdkuTaci"
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 199124,
       "name": "Circumspect Alpha 10Hz",
       "url": "https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi"
@@ -3559,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Deep Sleep Delta Binaural 84 - 85 Hz",
+        "url": "https://open.spotify.com/album/35WpUFcNZ5dBpJM4WLniex"
+      },
+      "artists": [
+        {
+          "name": "Lynx XII",
+          "url": "https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Deep Sleep Delta Binaural 84 - 85 Hz",
+      "url": "https://open.spotify.com/track/5vcdxWYUdtZmZdHZo5r69U"
+    },
+    {
+      "album": {
         "name": "Deep Thought Resonance (Alpha 88.2Hz-97.3Hz)",
         "url": "https://open.spotify.com/album/0cnnCb4tki6ufSdRGdXLu1"
       },
@@ -3786,7 +3822,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 160952,
       "name": "Eventi Alpha SInus 88-94 Hz",
       "url": "https://open.spotify.com/track/3fiD14RIJ0BA6IACMli2rW"
@@ -4416,7 +4452,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 202106,
       "name": "Gamma Sinus 100 Hz - 140 Hz",
       "url": "https://open.spotify.com/track/2MHMw367R8OxXiuU7VtsRP"
@@ -4726,7 +4762,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 181555,
       "name": "Gamma Waves 89 + 86 hz",
       "url": "https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8"
@@ -4766,6 +4802,24 @@
       "duration_ms": 166400,
       "name": "Gathering Strenght (Alpha Waves)",
       "url": "https://open.spotify.com/track/5LClC3g56RONSzKN7QG56c"
+    },
+    {
+      "album": {
+        "name": "Gentle Thoughts Gamma (74-110hz)",
+        "url": "https://open.spotify.com/album/2pfsrxrSduaaTI2XAsnVve"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150535,
+      "name": "Gentle Thoughts Gamma (74-110hz)",
+      "url": "https://open.spotify.com/track/7FyOB9MsEAp41BSPaFjjJx"
     },
     {
       "album": {
@@ -5003,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Low Earth Tones 21 Hz",
+        "url": "https://open.spotify.com/album/3uRbrtM48PmzCf33Cv2Vio"
+      },
+      "artists": [
+        {
+          "name": "Infinitesimal",
+          "url": "https://open.spotify.com/artist/70m8DH3NleJbaiOF5soVYM"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154862,
+      "name": "Low Earth Tones 21 Hz",
+      "url": "https://open.spotify.com/track/64cyHuVbltuPv4YrFq7QMu"
+    },
+    {
+      "album": {
         "name": "Luz Alpha 100hz-108hz",
         "url": "https://open.spotify.com/album/6W7zgWx1oF8Q1ipiDp0eXC"
       },
@@ -5068,7 +5140,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 205671,
       "name": "Mantra - Alpha Waves",
       "url": "https://open.spotify.com/track/0L891QoEP3x5kztTjg0HNk"
@@ -5680,7 +5752,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 155874,
       "name": "Shaant Prayog Alpha 74Hz - 82Hz",
       "url": "https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5"
@@ -5932,7 +6004,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 159473,
       "name": "Sphere of Alpha 10 Hz",
       "url": "https://open.spotify.com/track/2lEDf4AwwqaVYpTftIqcBZ"
@@ -6134,6 +6206,24 @@
       "duration_ms": 166400,
       "name": "The Process (Beta Waves)",
       "url": "https://open.spotify.com/track/1cJ3wyU5cwNv2CjZWK75uM"
+    },
+    {
+      "album": {
+        "name": "Theta Drift",
+        "url": "https://open.spotify.com/album/0TVIVlTbapEDIXuX6sbKys"
+      },
+      "artists": [
+        {
+          "name": "Astral Ocean",
+          "url": "https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150326,
+      "name": "Theta Drift",
+      "url": "https://open.spotify.com/track/06PFSh0QU5m0kqmViSS2zO"
     },
     {
       "album": {

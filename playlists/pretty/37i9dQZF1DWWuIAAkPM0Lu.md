@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Saveus, Saint clara, Bless You og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,270 likes - 105 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,272 likes - 105 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 49 | [Fade](https://open.spotify.com/track/0uizrW3Fu9kQTUvi4srJtP) | [KIKI CLUB](https://open.spotify.com/artist/7Bn7BvTnbHMuLDwBYxGUSn) | [The Only Way Out Is In](https://open.spotify.com/album/1zL9VGnhwkAhFM18k2Nbq1) | 4:15 |
 | 50 | [camden town](https://open.spotify.com/track/09BZ5O5iuG2c50XDW0l8ja) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [camden town](https://open.spotify.com/album/4ITDccjsIsIulV8204JjGT) | 2:38 |
 | 51 | [Smartboy](https://open.spotify.com/track/5zbqHkmHfUNqJrbqKQnCjQ) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Loveflow](https://open.spotify.com/album/57IDaHW7D6NiQobBXxFVF3) | 3:22 |
-| 52 | [Responsible \(ft\. Bas\)](https://open.spotify.com/track/2Myu9DR7IrE5MSqWxRGCV9) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Responsible \(ft\. Bas\) / Vipassana 2025](https://open.spotify.com/album/2IG5m93YfDgpDJxFEdjJwQ) | 3:34 |
+| 52 | [Responsible](https://open.spotify.com/track/2Myu9DR7IrE5MSqWxRGCV9) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Responsible / Vipassana 2025](https://open.spotify.com/album/2IG5m93YfDgpDJxFEdjJwQ) | 3:34 |
 | 53 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
 | 54 | [Closer To Me](https://open.spotify.com/track/6A5Y0hB4SGK9MCCkJJXAWm) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Closer To Me](https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK) | 2:46 |
 | 55 | [Menneske](https://open.spotify.com/track/4u0aoSuMzvTwqNmHqNLx5S) | [Ossi Michel](https://open.spotify.com/artist/0BRj9E7lKnM4zMxLkyRTLU) | [Menneske](https://open.spotify.com/album/66kyBg4iFHaz5KYuQpnOXY) | 3:24 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 104 | [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 |
 | 105 | [Old Me](https://open.spotify.com/track/6cuJsVA2GrUZDHP2cYnD1f) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Old Me](https://open.spotify.com/album/5WfbbIDRiUQOBQ2E6Sqi8g) | 3:37 |
 
-Snapshot ID: `AAAAAM9qAShlB87zkZlJERHkJmvGbs8K`
+Snapshot ID: `AAAAALdIc2hJJlaJjB0gmFJVYX/f/phZ`

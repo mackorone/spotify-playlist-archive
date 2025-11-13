@@ -4,7 +4,7 @@
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-124 songs - 12 hr 11 min
+124 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Tumse Milne Ki Tamanna Hai](https://open.spotify.com/track/7n278iHoD21kun2OymTABC) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Saajan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ) | 5:29 | 2021-11-26 | 2023-02-08 |
 | [Tumse Milne Ko Dil](https://open.spotify.com/track/34y1d4i8uru6aQSWd8ewPT) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Phool Aur Kaante \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Io1WaSa7zSLlLmop0bNKL) | 5:00 | 2021-11-26 | 2023-02-08 |
 | [Urvashi Urvashi](https://open.spotify.com/track/6jhIHvt64qw5O8ViJSYzug) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Noel James](https://open.spotify.com/artist/2rp7t72puDdjCwrA3WjJOk), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Hum Se Hai Muqabala \- Kadalan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9) | 3:16 | 2023-02-07 | 2023-10-11 |
-| [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:48 | 2021-11-26 |  |
+| [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:17 | 2021-11-26 |  |
 | [Yeh Haseen Vadiyan Yeh Khula Aasman](https://open.spotify.com/track/6NmGIj2leVHRKkHEGyechJ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Roja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lORIs7BAIYVH7xxcXsUn7) | 5:20 | 2021-11-26 | 2023-02-08 |
 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/0aedk7g7bYBv2fkbk6hcgN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jQUOU5n0H06OdhvMtDUpL) | 5:53 | 2024-04-15 |  |
 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:53 | 2021-11-26 | 2022-07-29 |

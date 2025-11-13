@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,593 likes - 65 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,613 likes - 65 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 64 | [温柔要留给爱你的人](https://open.spotify.com/track/7C4L5w6QLWfqZZJKw3T1Ku) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [温柔要留给爱你的人](https://open.spotify.com/album/59L07BFa0ALsUKUNgYOxCe) | 3:22 |
 | 65 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
 
-Snapshot ID: `AAAAAHeYKjjuowiicyh7KhHoYWI3LTqE`
+Snapshot ID: `AAAAABbH+7ouN7oSIv6jjHzBkVP63cRu`

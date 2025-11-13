@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,611 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,585 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 10 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 11 | [Misery Loves Company](https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:16 |
 | 12 | [In Ya City](https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [In Ya City](https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr) | 2:10 |
-| 13 | [Fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
+| 13 | [fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
 | 14 | [Deja Vu](https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 2:56 |
 | 15 | [Quick Fix](https://open.spotify.com/track/5ItEXOc56IVFINy8Wtu5xa) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/32TntDKWkKciCjK4fctqCC) | 3:11 |
 | 16 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 |

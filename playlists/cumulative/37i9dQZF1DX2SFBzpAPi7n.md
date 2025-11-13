@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 자우림 \(JAURIM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,076 songs - 2 day 17 hr 36 min
+1,077 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Jayu 자유](https://open.spotify.com/track/5vlUplZyrXnN0bbejrKfqu) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Jayu 자유](https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH) | 3:55 | 2022-05-03 | 2022-07-20 |
 | [Jogging](https://open.spotify.com/track/2U4fODlayH2blucJuyjBrU) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 3:23 | 2022-04-12 | 2022-07-27 |
 | [joke!](https://open.spotify.com/track/4EBrCFj4IJh2Zz9Bvk5erJ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [joke!](https://open.spotify.com/album/3WRyYbjli1QoGAhWwyH6IQ) | 3:23 | 2022-05-11 | 2022-07-29 |
+| [Joker’s Party](https://open.spotify.com/track/1JvdeRZhv8AJHBEsVaHnWx) | [EVE](https://open.spotify.com/artist/6KXO111r60TrJWaU8FTZbj) | [Joker’s Party](https://open.spotify.com/album/5vxpl2hI7PEeGtqoNmWr3t) | 4:14 | 2025-11-12 |  |
 | [joyful joyful](https://open.spotify.com/track/2oTDvoEuxCj33rFL9u5Xum) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:03 | 2022-06-09 | 2022-07-18 |
 | [Just 1 year \(Feat\. 10CM\)](https://open.spotify.com/track/2jh4TUtbiQwP7wJVDbgf3b) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Just 1 year](https://open.spotify.com/album/5rTw5MnMcD2np92ZQgcmRJ) | 3:02 | 2025-11-04 |  |
 | [Just For Meeting You \(Feat\. Jayci Yucca, Gist, JAEHA\)](https://open.spotify.com/track/7iZEiEo7uxbbRiFDIQyiWy) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Just For Meeting You \(Feat\. Jayci Yucca, Gist, JAEHA\) \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/2yzdg6Pgt4WkDblQWqDC4N) | 2:51 | 2025-09-12 | 2025-09-19 |
@@ -877,7 +878,7 @@
 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 | 2025-06-11 | 2025-07-10 |
 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-05-02 | 2024-05-10 |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-01 |  |
-| [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 | 2025-10-01 |  |
+| [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 | 2025-10-01 | 2025-11-13 |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |
 | [Take off](https://open.spotify.com/track/3qCq7hnNm87XtsAIGyRAe9) | [D82](https://open.spotify.com/artist/6L71MuejIjNrtoiqb6sTJE) | [Take off](https://open.spotify.com/album/2dTVAj7BMO63ep3hqVkgOS) | 3:33 | 2024-04-22 | 2024-05-10 |
 | [takeoff](https://open.spotify.com/track/5PRc30D1NLEGUKi7KeIetn) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [magicality](https://open.spotify.com/album/3lve3n6DTwvbU3vA4pimYz) | 3:14 | 2022-08-10 | 2022-08-19 |

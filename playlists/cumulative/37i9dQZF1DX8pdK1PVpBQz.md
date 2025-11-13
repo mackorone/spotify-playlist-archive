@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Baby Smith
 
-4,342 songs - 9 day 23 hr 15 min
+4,343 songs - 9 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -936,6 +936,7 @@
 | [Desert](https://open.spotify.com/track/1fCgTHzrP4KPwbNMXoBv6h) | [Workhorse](https://open.spotify.com/artist/78wCybVPEiIJ23ki9gilhc) | [Desert](https://open.spotify.com/album/5AB8rzBOgUvBEEyzSmPWce) | 4:39 | 2023-07-12 | 2023-08-02 |
 | [Desert Dove](https://open.spotify.com/track/4GSsx5K0TiMQF8dZtBi51L) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [Desert Dove](https://open.spotify.com/album/575gzI3zq2G18PFIeza0yp) | 4:09 | 2023-01-12 | 2023-02-02 |
 | [Deserve It](https://open.spotify.com/track/0RF7g1wMkAeoWPN08ZLz39) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [Brand New](https://open.spotify.com/album/1had6G93RK7fsOQrE9zF1h) | 2:05 | 2023-08-23 | 2024-01-25 |
+| [Deserve It](https://open.spotify.com/track/5aw3pcW46iCK69isxNdP1x) | [smartcasual](https://open.spotify.com/artist/3v6uBjbyNjBJL9PhDgjzhu) | [Deserve It](https://open.spotify.com/album/0kLprrXMKIKZODdi7Fqy44) | 3:46 | 2025-11-11 |  |
 | [DESIGNER](https://open.spotify.com/track/0I9X902n9tq06olYht7jMV) | [VERSACE BOYS](https://open.spotify.com/artist/5V90SvvOgz2XUoHiSqUd4o), [Will Henderson](https://open.spotify.com/artist/4Kg0pD54Tue1TKCezhUlws), [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [DESIGNER](https://open.spotify.com/album/2vqX7APFnjALsRpmuVyV5L) | 2:51 | 2024-08-06 | 2024-09-04 |
 | [Desire](https://open.spotify.com/track/1PStxB6YvO7PEjHGHYBL04) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Desire](https://open.spotify.com/album/1wmbavgAcfi5JHQbMmkC3n) | 2:23 | 2022-10-04 | 2022-11-24 |
 | [Desire \- Radio Edit](https://open.spotify.com/track/1cLeoxrhR0Tvf5GuwHp9q3) | [Alex Hayes](https://open.spotify.com/artist/3DB5Bv4H9nQ0PXGV7EHr6m) | [Desire](https://open.spotify.com/album/3yA3GKPKwtYb6rhiGpeO5T) | 3:33 | 2022-01-25 | 2022-02-17 |

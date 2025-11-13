@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter w/ Audrey Hobert is live 🪿</a> Cover: underscores
 
-3,615 songs - 8 day 5 hr 47 min
+3,616 songs - 8 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,6 +880,7 @@
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-01-21 | 2021-03-06 |
 | [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 | 2025-07-25 |  |
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 | 2024-02-23 |
+| [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-12 |  |
 | [dopamine \- Version Française](https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-24 | 2024-03-15 |
 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-04-05 | 2024-07-27 |
 | [Doppler](https://open.spotify.com/track/2x23h454OSMdlbw4TxmXrQ) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Doppler](https://open.spotify.com/album/2buXav8ZMjRE2INuK0cbd1) | 3:17 | 2025-10-07 |  |

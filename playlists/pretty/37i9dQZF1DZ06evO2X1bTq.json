@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1256533,
+  "num_followers": 1256594,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADLo9KXMdVrtckjrdcNT+ov",
+  "snapshot_id": "aRJ8gAAAAADLIairLiePqXrVIcP/VaW6",
   "tracks": [
     {
       "added_at": null,
@@ -187,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
       "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 252162,
-      "name": "Every Breaking Wave",
-      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
+      "duration_ms": 260466,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
     },
     {
       "added_at": null,
@@ -219,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Breakthrough",
-        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
       },
       "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 260466,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
+      "duration_ms": 252162,
+      "name": "Every Breaking Wave",
+      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
     },
     {
       "added_at": null,

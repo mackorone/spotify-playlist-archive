@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Illenium and Ryan Tedder
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,501 likes - 115 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,598 likes - 115 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

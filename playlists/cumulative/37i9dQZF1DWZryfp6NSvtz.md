@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Portugal\. The Man
 
-9,515 songs - 22 day 13 hr 56 min
+9,516 songs - 22 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5347,6 +5347,7 @@
 | [Modesto](https://open.spotify.com/track/5Rr8DCSUci9F6Yx6nL6PQU) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Modesto](https://open.spotify.com/album/0zXMUZQ1fHCtOBh6myYkqI) | 3:53 | 2024-04-05 | 2024-04-13 |
 | [Modo](https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ) | [FREDDY L](https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm) | [Modo](https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ) | 3:37 | 2025-05-23 | 2025-06-14 |
 | [MOLDY MEMORIES \(peer pressure turned me into a diamond\)](https://open.spotify.com/track/3Yt28EcfVWwACe63eZNM5a) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [MOLDY MEMORIES \(peer pressure turned me into a diamond\)](https://open.spotify.com/album/3OXerCYn6PmV9YABuhzcHh) | 2:30 | 2025-04-11 | 2025-04-19 |
+| [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 | 2025-11-07 |  |
 | [Molly Sells Molly By The Seashore](https://open.spotify.com/track/7CcxWi6M4H22ga7IJfOAth) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Molly Sells Molly By The Seashore](https://open.spotify.com/album/4CLBaAh7QXO9GVPVBokZ7w) | 2:22 | 2022-02-10 | 2022-02-25 |
 | [Moment](https://open.spotify.com/track/4OwL6wx20XzC7OCpbwLJva) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Moment](https://open.spotify.com/album/1QWh1gzONi6q4u44t3GlnV) | 1:53 | 2022-08-05 | 2022-08-13 |
 | [Moment of Silence](https://open.spotify.com/track/08j95suIo48x93sAQESdFQ) | [Stonehouse](https://open.spotify.com/artist/4bW8D2FI1KOntbMwtlY4f4) | [Moment of Silence](https://open.spotify.com/album/5ESFlzqDVZ9MLCpdy7EcAE) | 3:39 | 2022-04-22 | 2022-04-29 |

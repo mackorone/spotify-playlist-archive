@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 657607,
+  "num_followers": 657723,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABrYl7bP4py8jLnazBXqNoC",
+  "snapshot_id": "aRJ8gAAAAABRfNa/siNNpoWQJmgwupU0",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
-        "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        },
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 268838,
-      "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
-      "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
+      "duration_ms": 242453,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
     },
     {
       "added_at": null,
@@ -343,18 +335,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
+        "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
       },
       "artists": [
         {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 242453,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
+      "duration_ms": 268838,
+      "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
+      "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild, the Innocent & The E Street Shuffle",
+        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 420840,
+      "name": "Rosalita (Come Out Tonight)",
+      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The List",
         "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild, the Innocent & The E Street Shuffle",
-        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 420840,
-      "name": "Rosalita (Come Out Tonight)",
-      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 272426,
       "name": "Darkness On the Edge of Town",
       "url": "https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 119026,
-      "name": "The Big Payback - Single B-side - 1982",
-      "url": "https://open.spotify.com/track/7C5BvEgKzQfcVzGgSqRkkz"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 213066,
       "name": "Pink Cadillac - Single B-Side - 1984",
       "url": "https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "The Big Payback - Single B-side - 1982",
+      "url": "https://open.spotify.com/track/7C5BvEgKzQfcVzGgSqRkkz"
     },
     {
       "added_at": null,

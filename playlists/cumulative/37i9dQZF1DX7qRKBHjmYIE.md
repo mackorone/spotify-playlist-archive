@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Rawayana.
 
-948 songs - 2 day 3 hr 6 min
+949 songs - 2 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 | 2025-03-14 | 2025-07-09 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 |  |
 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 | 2023-08-25 | 2023-09-16 |
-| [Amantes](https://open.spotify.com/track/2c4gYuETFB1Uf6gEwblpl5) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Amantes](https://open.spotify.com/album/5gHluRiuI1E8gmV2fTGCat) | 3:41 | 2025-09-05 |  |
+| [Amantes](https://open.spotify.com/track/2c4gYuETFB1Uf6gEwblpl5) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Amantes](https://open.spotify.com/album/5gHluRiuI1E8gmV2fTGCat) | 3:41 | 2025-09-05 | 2025-11-13 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-12-02 | 2022-01-25 |
 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 | 2023-08-25 | 2023-09-09 |
 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 | 2021-12-02 | 2023-02-17 |
@@ -276,6 +276,7 @@
 | [El Diablo](https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [El Diablo](https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS) | 3:23 | 2024-02-23 | 2024-04-19 |
 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 | 2025-03-07 |  |
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2023-02-17 | 2023-08-26 |
+| [EL OTRO TÚ](https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT) | [Sam Eli](https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG) | [EL OTRO TÚ](https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl) | 2:52 | 2025-11-07 |  |
 | [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 | 2024-07-12 | 2025-08-09 |
 | [El Plan](https://open.spotify.com/track/3zHPbX68iu31N50fthWcJE) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [El Plan](https://open.spotify.com/album/45OSlUPwtVQYaqOtquiFUM) | 4:36 | 2024-07-19 | 2024-09-07 |
 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 | 2023-08-25 | 2023-09-30 |

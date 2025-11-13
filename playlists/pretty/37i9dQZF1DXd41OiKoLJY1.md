@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Rangel Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,306 likes - 249 songs - 13 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,317 likes - 249 songs - 13 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 64 | [Do You Still Think of Me](https://open.spotify.com/track/2Vy6ot96SB0axDZEYC0PPZ) | [Luis the Intern](https://open.spotify.com/artist/7l0lYgzuxbl8T4D5luZLrV) | [Songs for a Bird](https://open.spotify.com/album/2kWkfaFfj7v7i3BXX4R3Ah) | 3:17 |
 | 65 | [Panaginip](https://open.spotify.com/track/3btlGlv02DRHKwRsbC36vU) | [Japè Tucciné](https://open.spotify.com/artist/1gtBC2uSoEoJpR3XploNCg) | [Panaginip](https://open.spotify.com/album/17B3aI7OeyixJLFkojQdxb) | 3:50 |
 | 66 | [Lagi Kong Hanap](https://open.spotify.com/track/2Alo5zW6KZ6U7PzyoOGlWY) | [Lee Noynoy](https://open.spotify.com/artist/3Lunw8x5Yc1NeuvDv9AF6E) | [Lagi Kong Hanap](https://open.spotify.com/album/2D1RKC0XGXMVSnvEf8pphA) | 3:38 |
-| 67 | [Object Of My Affliction](https://open.spotify.com/track/3piTx8Xoc27FudUWj20Iqo) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr) | [Object Of My Affliction](https://open.spotify.com/album/3h28iRvaKJqWAH2bdkRGm5) | 3:10 |
+| 67 | [Object Of My Affliction](https://open.spotify.com/track/3piTx8Xoc27FudUWj20Iqo) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr) | [Object Of My Affliction](https://open.spotify.com/album/3h28iRvaKJqWAH2bdkRGm5) | 3:11 |
 | 68 | [notes to carla](https://open.spotify.com/track/6x54PI3GoRkd8vwBgBNMXH) | [Ruther](https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9) | [notes to carla](https://open.spotify.com/album/0UlMimW5qorcg8om6KPbzp) | 2:34 |
 | 69 | [Macopa Tree / Marilao](https://open.spotify.com/track/2sfwJGGi0v8CjkfIJOC8RK) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Macopa Tree / Marilao](https://open.spotify.com/album/27Obz6FmmGYmDVzIdpanGV) | 3:06 |
 | 70 | [SANA](https://open.spotify.com/track/0BFQi9I0cQPHcVqRk8AsEg) | [sko](https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw), [2fine](https://open.spotify.com/artist/6fZeyVveYpnkwXb0Dl866H) | [SANA](https://open.spotify.com/album/2qJ3HTfSTkUg5jqjuXqotN) | 3:28 |

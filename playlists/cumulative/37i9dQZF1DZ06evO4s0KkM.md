@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-140 songs - 7 hr 36 min
+141 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 | 2023-02-04 | 2025-11-05 |
 | [Run Hitler Run](https://open.spotify.com/track/1qFIInOULGuxhOwnhYJWhu) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:42 | 2023-05-16 | 2023-11-11 |
 | [Sirens](https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sirens](https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz) | 3:45 | 2024-09-21 | 2025-07-20 |
+| [Sirens \- Bonus Track](https://open.spotify.com/track/3A1L6EAziYdIUaP0FGyR8T) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:43 | 2025-11-13 |  |
 | [Skinhead on the MBTA](https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 3:49 | 2022-09-16 | 2023-01-17 |
 | [Smash Shit Up](https://open.spotify.com/track/0l0K88tyy3NCYugh9nNQgV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:47 | 2022-09-16 | 2023-02-03 |
 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2023-02-02 |  |
@@ -119,7 +120,7 @@
 | [The Last One \(feat\. Evan Felker of Turnpike Troubadours\)](https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Evan Felker](https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb), [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:33 | 2023-02-10 | 2025-07-06 |
 | [The Last One \(feat\. Evan Felker of Turnpike Troubadours\)](https://open.spotify.com/track/4bHFIWlluSvc9MP8NQmqF1) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Evan Felker](https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb), [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:33 | 2022-10-01 | 2023-02-11 |
 | [The Lonesome Boatman](https://open.spotify.com/track/1eX5SoCjIWCIS3TGoZ6upR) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 2:42 | 2023-02-10 | 2025-11-09 |
-| [The Lonesome Boatman](https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 2:42 | 2022-09-16 |  |
+| [The Lonesome Boatman](https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 2:42 | 2022-09-16 | 2025-11-13 |
 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 | 2022-09-16 |  |
 | [The Spicy McHaggis Jig](https://open.spotify.com/track/3Xw3UzQjdIWMuHvkOjOL8Q) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:27 | 2022-09-16 | 2024-04-11 |
 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 | 2022-12-17 | 2025-09-13 |

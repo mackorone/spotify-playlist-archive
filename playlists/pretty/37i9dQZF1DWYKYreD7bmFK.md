@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,970 likes - 17 songs - 48 min 48 sec
+[Spotify](https://open.spotify.com/user/spotify) - 11,003 likes - 18 songs - 51 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 | 15 | [Amico Lontano](https://open.spotify.com/track/4w3ZbY68eOuvuMJbVJgQHF) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [Amico Lontano](https://open.spotify.com/album/1TBdifXGPgO0WX1vuOZ9BC) | 2:56 |
 | 16 | [PIZZA AMERICANA](https://open.spotify.com/track/5HKQuMckT8eoF6fQGNMhrd) | [AMSI](https://open.spotify.com/artist/2lYoyllLwqdW5mjvgOnLGw) | [PIZZA AMERICANA](https://open.spotify.com/album/1NSgJAde8dr8JJmvbRR5d1) | 2:52 |
 | 17 | [Nuntannamurà](https://open.spotify.com/track/3DQy4kOBuD0Ypt5wfjaSIo) | [CAINERO](https://open.spotify.com/artist/2T58UeifQnkmAg655hjDCG) | [Nuntannamurà](https://open.spotify.com/album/2oeVaWxbdo92zxDBfYhC3s) | 2:58 |
+| 18 | [Bacio piccolino](https://open.spotify.com/track/0xuxFQeTtJSzRSC9nfzOcT) | [Renato D'Amico](https://open.spotify.com/artist/2u9esjWV33bedmIU35gTsz) | [Bacio piccolino](https://open.spotify.com/album/60HudCYAwR5L5FzLsHoUdy) | 2:30 |
 
-Snapshot ID: `AAAAAIo8b3bsIoCbo/3YDZuvXIhdr1KW`
+Snapshot ID: `AAAAALWV4+xMSx7NdGdZf3h1S1Ot1Qd7`

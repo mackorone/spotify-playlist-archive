@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 
 > Great songs by Australian music legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,068 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,078 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 16 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 |
 | 17 | [Into My Arms](https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(Remastered\)](https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1) | 4:16 |
 | 18 | [Power And The Passion \- Remastered Version](https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [10,9,8,7,6,5,4,3,2,1](https://open.spotify.com/album/1iWFOvjt1FQfkMJrZxtwiF) | 5:39 |
-| 19 | [Born to Try](https://open.spotify.com/track/2iWyrSHvs6qhFzfpiLAK0z) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:11 |
+| 19 | [Born to Try](https://open.spotify.com/track/2iWyrSHvs6qhFzfpiLAK0z) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:13 |
 | 20 | [Cheap Wine \- 2011 Remastered](https://open.spotify.com/track/3EkEomllpfXPPIGVFvZcEq) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [East](https://open.spotify.com/album/4WQVLiXpiYlFpKXCyheZU3) | 3:25 |
 | 21 | [I Want You](https://open.spotify.com/track/5pwykH32nEkcqdnufmbiqo) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/2FSVwM8ysmI2tXIPpBJbfs) | 3:52 |
 | 22 | [Never Tear Us Apart](https://open.spotify.com/track/3pyTksNccLM1jRvzQ4zTke) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [INXS Remastered](https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl) | 3:04 |

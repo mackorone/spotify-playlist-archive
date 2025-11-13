@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Poles \(더 폴스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,164 songs - 2 day 22 hr 34 min
+1,165 songs - 2 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1058,7 +1058,7 @@
 | [warm enough](https://open.spotify.com/track/1AWvxjDVBvkhpaiO1UAKoT) | [xxiuk](https://open.spotify.com/artist/3bUokI8BPDRTAMg4YNRuLT) | [warm enough](https://open.spotify.com/album/1XHKm77AfJKs7h4jXR9Enr) | 3:36 | 2022-03-31 | 2022-04-17 |
 | [WATER](https://open.spotify.com/track/6EIShxhgO0xfGx4wQ0zzPL) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [PRISM](https://open.spotify.com/album/4ob0pdaU2exF0jD5QST4oU) | 4:46 | 2022-03-31 | 2022-06-06 |
 | [WAVE](https://open.spotify.com/track/3etI6U4FQnHmsSDjrCi2f2) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 5:57 | 2025-01-30 | 2025-04-11 |
-| [Waves of Us](https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Waves of Us](https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS) | 3:23 | 2025-10-10 |  |
+| [Waves of Us](https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [Waves of Us](https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS) | 3:23 | 2025-10-10 | 2025-11-13 |
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-31 | 2022-04-03 |
 | [we never turn cold](https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [we never turn cold](https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5) | 4:55 | 2024-12-06 | 2025-02-18 |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-25 | 2023-02-15 |
@@ -1134,6 +1134,7 @@
 | [Young Man](https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:17 | 2024-07-10 | 2024-12-20 |
 | [Young People](https://open.spotify.com/track/1T3kSXQGxdY144SzofbEQt) | [nijuu](https://open.spotify.com/artist/5DOwMhG96lFhlPpNG9oaWW) | [Young People](https://open.spotify.com/album/1Q1jrlmvrqpxQOLa7i9VGh) | 3:04 | 2022-03-31 | 2022-05-12 |
 | [Your Day without Me \(feat\. h3hyeon\)](https://open.spotify.com/track/6VSGV5Rxqu6Dy5XaIoaJR8) | [Sukwon Yoon](https://open.spotify.com/artist/479FJWt17iCfT8B88WWSn2), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Your Day without Me \(feat\. h3hyeon\)](https://open.spotify.com/album/5yYy7EP9DA0mqi7xidMrxC) | 2:54 | 2025-09-22 | 2025-10-31 |
+| [Your love is mine](https://open.spotify.com/track/0OKuPzCoU3Mw6pmMWxef2h) | [Lee Kang Seung 이강승](https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz) | [Your love is mine](https://open.spotify.com/album/07cTCwLj5TW5AJgi5viA6g) | 2:48 | 2025-11-12 |  |
 | [Your Melody](https://open.spotify.com/track/282E4GBXUN4knGGBdrjxVP) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Your Melody](https://open.spotify.com/album/0tDLbqb5qbApAdQt0dTtn4) | 3:34 | 2024-11-06 | 2025-01-31 |
 | [Your Voice Makes Me Dream](https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Your Voice Makes Me Dream](https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n) | 4:00 | 2021-12-12 | 2022-07-27 |
 | [yours.](https://open.spotify.com/track/3C4KOIMBDPK21oTsvdMDRn) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [yours.](https://open.spotify.com/album/1jcBjaepZsSf1Wl0mx8S3d) | 3:25 | 2024-08-12 | 2024-08-23 |

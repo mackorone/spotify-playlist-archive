@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,186 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,179 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 59 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 |
 | 60 | [Laat Mij Nu Alleen](https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Don Perignon](https://open.spotify.com/artist/4DYBWqRV6KEzNKKEyW9I0t), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Laat Mij Nu Alleen](https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR) | 2:15 |
 | 61 | [Ontspanje](https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ontspanje](https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N) | 2:40 |
-| 62 | [Pepas](https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Pepas](https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4) | 3:18 |
-| 63 | [Nog Geen Siësta](https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Nog Geen Siësta](https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A) | 2:39 |
-| 64 | [Als Ik Naar Malaga Ga](https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Als Ik Naar Malaga Ga](https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X) | 2:23 |
-| 65 | [Señorita, Meisje van de nacht](https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Señorita, Meisje van de nacht](https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj) | 2:56 |
+| 62 | [Nog Geen Siësta](https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Nog Geen Siësta](https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A) | 2:39 |
+| 63 | [Pepas](https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Pepas](https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4) | 3:18 |
+| 64 | [Señorita, Meisje van de nacht](https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Señorita, Meisje van de nacht](https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj) | 2:56 |
+| 65 | [Als Ik Naar Malaga Ga](https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Als Ik Naar Malaga Ga](https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X) | 2:23 |
 | 66 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 |
-| 67 | [Beetje Gek](https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beetje Gek](https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg) | 2:54 |
-| 68 | [Eiland](https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Eiland](https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV) | 2:06 |
+| 67 | [Eiland](https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Eiland](https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV) | 2:06 |
+| 68 | [Beetje Gek](https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beetje Gek](https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg) | 2:54 |
 | 69 | [De Eerste Keer](https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K), [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [De Eerste Keer](https://open.spotify.com/album/6U53g89WwY7vnrmHVFB8tL) | 2:44 |
 | 70 | [Piña Colada](https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Piña Colada](https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ) | 2:46 |
 

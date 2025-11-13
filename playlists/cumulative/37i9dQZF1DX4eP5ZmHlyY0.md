@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: YEONJUN
 
-792 songs - 1 day 19 hr 26 min
+793 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Bossa Bosa](https://open.spotify.com/track/67cHhblKt3ThjqAsvZJB2A) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Bossa Bosa](https://open.spotify.com/album/4gRM6Xt8jx7UpQm6Cworb4) | 2:22 | 2025-07-01 | 2025-08-25 |
 | [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 | 2025-03-31 | 2025-04-02 |
 | [BOYS \-TJBB Anthem\-](https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [BOYS \-TJBB Anthem\-](https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV) | 3:36 | 2024-06-12 | 2024-07-03 |
-| [BOYtude](https://open.spotify.com/track/2hv3fzGIWRnUJUa0gkGsIY) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<unevermet>](https://open.spotify.com/album/5oEtw7UMnlNDA6UOGXfQsi) | 2:46 | 2025-08-22 |  |
+| [BOYtude](https://open.spotify.com/track/2hv3fzGIWRnUJUa0gkGsIY) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<unevermet>](https://open.spotify.com/album/5oEtw7UMnlNDA6UOGXfQsi) | 2:46 | 2025-08-22 | 2025-11-13 |
 | [BOYZ](https://open.spotify.com/track/1oDe5TtaFUT4puki7twdMG) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [BOYZ](https://open.spotify.com/album/6CjShkNC5nkZxNVdH6zlZR) | 3:05 | 2025-06-04 | 2025-07-07 |
 | [Brand New Day](https://open.spotify.com/track/0MbmPT6btZ8e3oMGkAAA00) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/3qC8aLtNt0GYp1ALDBFVL3) | 3:26 | 2025-06-24 | 2025-06-29 |
 | [BREATH \- TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE](https://open.spotify.com/track/5dc4VseT1mmnukwMKVv9nn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [BREATH \(TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE\)](https://open.spotify.com/album/1ofoHM5P1fgclfkTriG9V1) | 2:34 | 2025-02-18 | 2025-04-18 |
@@ -187,6 +187,7 @@
 | [ECHO! \(Prod\. WOOZI\)](https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:33 | 2025-06-12 | 2025-09-09 |
 | [Echoes](https://open.spotify.com/track/2HcdmAwTWL2zekEICHENEq) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [宵 \-YOI\-](https://open.spotify.com/album/3SbFks7Ke2crP3O0RpfDEF) | 3:06 | 2025-07-28 |  |
 | [Eighdays](https://open.spotify.com/track/5uTBYCoNktVoHiNYhZTLrF) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [Eighdays](https://open.spotify.com/album/2atzkjLZ1m2rv26VwJ71Jv) | 4:03 | 2024-07-26 | 2024-07-31 |
+| [Eight Eleven](https://open.spotify.com/track/7wBIqYptstEtFGMgwOp4KF) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/5qs8gsNwXL8oeBfIrEFbwd) | 2:21 | 2025-11-12 |  |
 | [Electric Heart](https://open.spotify.com/track/1raMkA3XySjfh18K7COTNV) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [Electric Heart : Born to Glow](https://open.spotify.com/album/4N5R5cNDClPItdzoOjSVDe) | 3:07 | 2025-08-19 | 2025-11-06 |
 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 | 2025-05-19 | 2025-08-18 |
 | [EMBER](https://open.spotify.com/track/4h2V11d3WGC0388eBkm6tC) | [YUTA](https://open.spotify.com/artist/4WndMgZGitK4uQdKcmVHua) | [PERSONA](https://open.spotify.com/album/0PqzdmRYw6MfmrUtmlrDv1) | 3:36 | 2025-10-24 | 2025-11-06 |

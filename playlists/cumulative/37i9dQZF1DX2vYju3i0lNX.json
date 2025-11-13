@@ -2366,8 +2366,8 @@
       },
       "artists": [
         {
-          "name": "Kupiers & Winter",
-          "url": "https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g"
+          "name": "Kuipers & Winter",
+          "url": "https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK"
         }
       ],
       "date_added": "2023-05-25",
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 263790,
       "name": "Beauty Within",
       "url": "https://open.spotify.com/track/0EnPGNHGICDJ33oZhpYTio"
@@ -16484,8 +16484,8 @@
       },
       "artists": [
         {
-          "name": "Kupiers & Winter",
-          "url": "https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g"
+          "name": "Kuipers & Winter",
+          "url": "https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK"
         }
       ],
       "date_added": "2025-07-23",
@@ -21160,6 +21160,24 @@
       "duration_ms": 134488,
       "name": "Waltz For Ola",
       "url": "https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63"
+    },
+    {
+      "album": {
+        "name": "Wardour Street",
+        "url": "https://open.spotify.com/album/2fI8OSSlrizKuwxm3K9GBn"
+      },
+      "artists": [
+        {
+          "name": "Levi Hollis",
+          "url": "https://open.spotify.com/artist/1qX2ZmbjKsrW9gAqmJXvJg"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283362,
+      "name": "Wardour Street",
+      "url": "https://open.spotify.com/track/0fnedCugQXYbkoby0dUHHt"
     },
     {
       "album": {

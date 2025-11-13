@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 823797,
+  "num_followers": 823860,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACjzjhLroEBf5qKV2LI56Nh",
+  "snapshot_id": "aRJ8gAAAAACPltdUq7YP9x77Eelvrv0i",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Dig Down",
-      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Dig Down",
+      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 226786,
-      "name": "Something Human",
-      "url": "https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg"
+      "duration_ms": 441093,
+      "name": "Citizen Erased",
+      "url": "https://open.spotify.com/track/177MZraDAxjRqqtZBz5Vhn"
     }
   ],
   "unique_name": "This Is Muse",

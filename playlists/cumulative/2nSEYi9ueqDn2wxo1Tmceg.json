@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants To Be Here And Nobody Wants To Leave (Demos)",
+        "url": "https://open.spotify.com/album/0Kq9hw7z2wmAxnpXJnmJOg"
+      },
+      "artists": [
+        {
+          "name": "The Twilight Sad",
+          "url": "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231058,
+      "name": "Badlands (There's A Girl In The Corner - Demo)",
+      "url": "https://open.spotify.com/track/25enLYiDQG5q5p3rFXCA1j"
+    },
+    {
+      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38"
       },
@@ -4159,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "COSPLAY",
+        "url": "https://open.spotify.com/album/2y9KTl1MXK8jgH40zwh11X"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186463,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/1nVShgCXxO3N7CAXoVNCdp"
+    },
+    {
+      "album": {
         "name": "Candle",
         "url": "https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2"
       },
@@ -4170,7 +4206,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 186463,
       "name": "Candle",
       "url": "https://open.spotify.com/track/66447TJUyw3jjyePECdqJY"
@@ -4984,7 +5020,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 185152,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
@@ -8349,6 +8385,24 @@
     },
     {
       "album": {
+        "name": "Fallen Cloud",
+        "url": "https://open.spotify.com/album/6MonCuHwaHWT2dXu5PwMOK"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276662,
+      "name": "Fallen Cloud",
+      "url": "https://open.spotify.com/track/2eYz2ZEoHun4Lepj7nBM3S"
+    },
+    {
+      "album": {
         "name": "Bury the Key",
         "url": "https://open.spotify.com/album/3vjna8pM3TKAsi0LsQzBiK"
       },
@@ -9846,7 +9900,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 268194,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/35TWPLjC6Iak3kAaA5yldE"
@@ -10822,7 +10876,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 245732,
       "name": "Greasy off the Racing Line - Midnight Version",
       "url": "https://open.spotify.com/track/48k6gJDEd2Gt2jeZjC6w07"
@@ -12179,6 +12233,28 @@
     },
     {
       "album": {
+        "name": "House featuring John Cale",
+        "url": "https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197593,
+      "name": "House featuring John Cale",
+      "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
+    },
+    {
+      "album": {
         "name": "HOUSE OF CARDS (Kevin Shields Rainbow Belts Remix)",
         "url": "https://open.spotify.com/album/0wxL3up90d20n6m5Tqg0YO"
       },
@@ -13118,7 +13194,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 100735,
       "name": "I'm Not Sad",
       "url": "https://open.spotify.com/track/1En8CBKqljHuYPJjqETcfu"
@@ -15888,7 +15964,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 256266,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/5fxKiTlkEPEDwrPMcWTojo"
@@ -26073,6 +26149,28 @@
     },
     {
       "album": {
+        "name": "In the Earth Again",
+        "url": "https://open.spotify.com/album/5KFvhZwejSylBaPatTFVBA"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        },
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "The Magic of the World",
+      "url": "https://open.spotify.com/track/5E0HFc9EgQTH91dOXxBccs"
+    },
+    {
+      "album": {
         "name": "The Main Thing",
         "url": "https://open.spotify.com/album/5VDdRQdLibcyNdXjc5Dtkz"
       },
@@ -26088,6 +26186,24 @@
       "duration_ms": 178333,
       "name": "The Main Thing",
       "url": "https://open.spotify.com/track/6bsVnmyNlehbQvLX5xBuDR"
+    },
+    {
+      "album": {
+        "name": "The Man I'm Supposed to Be",
+        "url": "https://open.spotify.com/album/7sZ7r9GjMQqoyFsHyIj9h3"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222131,
+      "name": "The Man I'm Supposed To Be",
+      "url": "https://open.spotify.com/track/3Kbgwa33bP2XwjjI2f4K5V"
     },
     {
       "album": {
@@ -26208,7 +26324,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 182557,
       "name": "The Olympics",
       "url": "https://open.spotify.com/track/0nhJsrLBDfByF9JmnDrUaU"
@@ -27914,7 +28030,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 273971,
       "name": "UFO",
       "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
@@ -28430,7 +28546,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 159168,
       "name": "Veil",
       "url": "https://open.spotify.com/track/01LG1CgSBq1WrjEQOy6wQl"
@@ -29158,7 +29274,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 358500,
       "name": "WGB/WMD - David Holmes Remix",
       "url": "https://open.spotify.com/track/6OqpH0YnNw1l9DmYABdeEC"

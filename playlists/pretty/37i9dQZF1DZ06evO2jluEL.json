@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABKQNsoHHGl3ObHzLX2Ucw0",
+  "snapshot_id": "aRJ8gAAAAADSsr3Qa1zKUCTp+nehvPq0",
   "tracks": [
     {
       "added_at": null,
@@ -439,38 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 407626,
-      "name": "Vale a Pena ser Profeta - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 336644,
-      "name": "O Caminho do Milagre",
-      "url": "https://open.spotify.com/track/0i6enCvQLwM7dXVPKUET6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 336644,
+      "name": "O Caminho do Milagre",
+      "url": "https://open.spotify.com/track/0i6enCvQLwM7dXVPKUET6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 407626,
+      "name": "Vale a Pena ser Profeta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
     },
     {
       "added_at": null,
@@ -919,18 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
       "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 418733,
-      "name": "Milhares de Milhares",
-      "url": "https://open.spotify.com/track/2Hkp20ozKGXEj6cBsCWpbq"
+      "duration_ms": 227013,
+      "name": "Jesus, A Rocha Eterna - Ao Vivo",
+      "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
     }
   ],
   "unique_name": "This Is Ludmila Ferber",

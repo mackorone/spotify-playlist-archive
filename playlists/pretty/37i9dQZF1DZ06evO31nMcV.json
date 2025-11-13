@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24569,
+  "num_followers": 24571,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACAeljYyA23uzMbeRkmBEDy",
+  "snapshot_id": "aRJ8gAAAAABj3sB76cCDN7lfJ0GqU9yO",
   "tracks": [
     {
       "added_at": null,
@@ -116,7 +116,7 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 128914,
+      "duration_ms": 128915,
       "name": "Wishing",
       "url": "https://open.spotify.com/track/2DCB7vBKleDUerpJErGyr2"
     },
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 123850,
-      "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
-      "url": "https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd"
+      "duration_ms": 138795,
+      "name": "When the Bells Ring",
+      "url": "https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 138795,
-      "name": "When the Bells Ring",
-      "url": "https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu"
+      "duration_ms": 123850,
+      "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
+      "url": "https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 198617,
-      "name": "One Look - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Karma",
         "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 191445,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 198617,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ"
     },
     {
       "added_at": null,

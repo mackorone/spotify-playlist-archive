@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,182 likes - 40 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,320 likes - 40 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NUNCA MUDA?](https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [NUNCA MUDA?](https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy) | 1:21 |
 | 2 | [DIA DELÍCIA](https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do) | 1:15 |
 | 3 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
-| 4 | [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 |
-| 5 | [Montagem Supersonic](https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk) | [KHAOS](https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [Mc Jajá](https://open.spotify.com/artist/1P2tOPRmSa1XzEdtIEYA9W) | [Montagem Supersonic](https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC) | 1:27 |
+| 4 | [Montagem Supersonic](https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk) | [KHAOS](https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [Mc Jajá](https://open.spotify.com/artist/1P2tOPRmSa1XzEdtIEYA9W) | [Montagem Supersonic](https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC) | 1:27 |
+| 5 | [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 |
 | 6 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |
 | 7 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 8 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC MAYAH](https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 |

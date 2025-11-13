@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:  SUHO\(수호\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 도영 \(DOYOUNG\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,606 songs - 4 day 8 hr 19 min
+1,607 songs - 4 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1199,6 +1199,7 @@
 | [Step](https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Step](https://open.spotify.com/album/1xWCeaqYgmdUQ2Cm90Z6Zk) | 4:56 | 2023-04-08 | 2023-08-25 |
 | [Steps Towards You](https://open.spotify.com/track/59263BYqT0AARHtTfHEAR1) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [The Lovers Note](https://open.spotify.com/album/55ddigAUNLCkDpvkjG1w9U) | 3:48 | 2025-02-28 | 2025-06-14 |
 | [Still](https://open.spotify.com/track/2FPVLNcMPKysmV1TpozETD) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [Still](https://open.spotify.com/album/0dS3PtdYqB4uboBYWRln6H) | 3:43 | 2024-07-22 | 2024-11-29 |
+| [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-11-12 |  |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-07-07 | 2023-10-20 |
@@ -1598,7 +1599,7 @@
 | [인사](https://open.spotify.com/track/4EGe0ovVvjRyGS5Wt9uM9C) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [인사 Prelude1](https://open.spotify.com/album/63qF2GbuABAfcprCdWlEXn) | 3:56 | 2025-09-18 |  |
 | [잊고 있는 중](https://open.spotify.com/track/0zA7Awbp9OytjHG0PsVzIy) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [잊고 있는 중](https://open.spotify.com/album/1hQH5zANKRdlDLPxHwdwm1) | 3:57 | 2023-02-24 | 2023-06-23 |
 | [잊고 있던 너의 이름 \(feat\. 폴림\)](https://open.spotify.com/track/1DjQQDPUC9hP2YizOEkmpx) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Paul Lim](https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ) | [잊고 있던 너의 이름](https://open.spotify.com/album/0OGiVmjuiPk07qU6PyFoGA) | 3:37 | 2023-11-13 | 2024-12-06 |
-| [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/track/5oP2tE2hxVVCtzebqIAvE1) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/album/5VXMYdA5bEgCZQr88x5occ) | 4:07 | 2025-07-18 |  |
+| [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/track/5oP2tE2hxVVCtzebqIAvE1) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/album/5VXMYdA5bEgCZQr88x5occ) | 4:07 | 2025-07-18 | 2025-11-13 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2021-12-23 | 2022-07-06 |
 | [잘해보고 싶어요](https://open.spotify.com/track/3qPXM4XdLCv6GNK7n8GoL6) | [Lia Kim](https://open.spotify.com/artist/4XkyKEhzoNQEg8ruN7OkPs) | [잘해보고 싶어요](https://open.spotify.com/album/13u5VtPqwiS0olRYW2iUet) | 3:51 | 2023-02-24 | 2023-04-27 |
 | [정글피쉬 시즌2 \(Original Television Soundtrack\) Pt.5 \- 슬픈 예감](https://open.spotify.com/track/1ZlUjS9wtDXIx6tfy6LLkt) | [여희](https://open.spotify.com/artist/1rFdsvsjD6tzMXbtB0BNog) | [정글피쉬 시즌2 \(Original Television Soundtrack\) Pt.5 \- 슬픈 예감](https://open.spotify.com/album/5JWtvgoCkxRl7d5ksvOxxp) | 4:05 | 2024-09-13 | 2024-12-03 |

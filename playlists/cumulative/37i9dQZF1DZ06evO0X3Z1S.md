@@ -4,7 +4,7 @@
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 0 min
+76 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Fast Car \- Club Mix](https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:30 | 2023-05-13 |  |
 | [Fast Car \- Rare Candy Remix](https://open.spotify.com/track/7npdzx7U6ZiBat9xrnQBZi) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [Rare Candy](https://open.spotify.com/artist/5okfcZF47LTIbEIx6RILD9) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:42 | 2023-03-19 | 2023-05-14 |
 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 | 2023-04-15 |  |
+| [Fly Away \- Jonas Blue Remix](https://open.spotify.com/track/1gwOMsYzYeRH6xjAKVzBFq) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/7ht7IVG2XY9izYyaXvIwze) | 3:12 | 2025-11-13 |  |
 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 | 2023-03-19 |  |
 | [Hearts Ain't Gonna Lie \- Eden Prince Remix](https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Hearts Ain't Gonna Lie \(Remixes, Pt\. 1\)](https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i) | 3:58 | 2023-03-19 |  |
 | [I See Love \- Extended Mix](https://open.spotify.com/track/0bXZ7EDW04kNR8jaxZ4xLc) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Beach House & EDM Lounge](https://open.spotify.com/album/2G8XUGYuXiRz6DFeoVPzBD) | 3:44 | 2024-05-10 | 2024-07-24 |

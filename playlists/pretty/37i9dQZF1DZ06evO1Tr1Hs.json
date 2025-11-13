@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 43468,
+  "num_followers": 43492,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACGNCqe03OpGcwtWohv5Wmh",
+  "snapshot_id": "aRJ8gAAAAADoZfhj8QzAVmDGWDGb/mCs",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 150386,
-      "name": "Trap Jump",
-      "url": "https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9"
+      "duration_ms": 121957,
+      "name": "Lord Of Chaos",
+      "url": "https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 121957,
-      "name": "Lord Of Chaos",
-      "url": "https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV"
+      "duration_ms": 150386,
+      "name": "Trap Jump",
+      "url": "https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 252636,
-      "name": "THRILL (with Ken Carson)",
-      "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 165411,
       "name": "Delinquent (feat. Homixide Gang)",
       "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 252636,
+      "name": "THRILL (with Ken Carson)",
+      "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,963 songs - 13 day 18 hr 18 min
+5,964 songs - 13 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1490,6 +1490,7 @@
 | [Doom Orchid](https://open.spotify.com/track/3mZCinMmfx8rdNRklBpfVH) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Doom Orchid](https://open.spotify.com/album/1mQdOfx5dY7rSl0k5ZKFEA) | 3:14 | 2025-01-24 | 2025-02-01 |
 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 | 2025-07-25 | 2025-08-02 |
 | [Dopamine](https://open.spotify.com/track/2Z4hloW8AonDE1zAJGPCds) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Dopamine](https://open.spotify.com/album/56D6RfpJlxOSGZCCsaKroB) | 5:18 | 2024-05-09 | 2024-05-18 |
+| [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-12 |  |
 | [Dormir en cuillère](https://open.spotify.com/track/62C3xySr6Q3NWFSsHhZhF9) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Zouzou](https://open.spotify.com/album/1SBkbQTV02JGuDpSS8o5BH) | 3:31 | 2024-11-08 | 2024-11-16 |
 | [Dos Gusanos](https://open.spotify.com/track/0QCThVo6CAQ85b8a8yCaxM) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Dos Gusanos](https://open.spotify.com/album/03oipajiAtAgWzZTo6CKFZ) | 3:05 | 2025-05-20 | 2025-05-31 |
 | [Dos Hemisferios](https://open.spotify.com/track/7acGx0sbDtiq2WC1ugWUoR) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:35 | 2024-11-28 | 2024-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 87952,
+  "num_followers": 87984,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACun6/BPMIObPdPI/T1PbC8",
+  "snapshot_id": "aRJ8gAAAAAAF6IYOLoGD3D8YuF50ULLJ",
   "tracks": [
     {
       "added_at": null,
@@ -731,38 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Lo Siento (I'm Sorry)",
-      "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184430,
-      "name": "Aries",
-      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ay Haiti!",
         "url": "https://open.spotify.com/album/1Lf1a9gQPIuDOZqrbhzoGk"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 311346,
       "name": "Ay Haiti!",
       "url": "https://open.spotify.com/track/3FifroUyur8j5mTM78WuXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 184430,
+      "name": "Aries",
+      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Lo Siento (I'm Sorry)",
+      "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
     },
     {
       "added_at": null,

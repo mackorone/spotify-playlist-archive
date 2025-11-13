@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:5QdEbQJ3ylBnc3gsIASAT5">G Herbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,980 likes - 159 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,954 likes - 159 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 37 | [muse](https://open.spotify.com/track/6oYUmkBQumOgSeAfBmOH2c) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [muse](https://open.spotify.com/album/3jiHHjsam8b1Yhh3FAckrj) | 2:18 |
 | 38 | [KO](https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/4X4lSxXixoFEuAkUICyZMR) | 3:34 |
 | 39 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
-| 40 | [Love From Afar](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
+| 40 | [Love From Afar \(feat\. Fousheé\)](https://open.spotify.com/track/3naCCoK1DL3xELBgjhzD3A) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [MOOLODIC: Hotep Luxury](https://open.spotify.com/album/2KgTzcs4c38Kq9zemMHhai) | 4:01 |
 | 41 | [Stay TF Outta CA \(feat\. Guapdad 4000\)](https://open.spotify.com/track/7GbBXMHjzJryrFjQ7EC40x) | [Frisco Chuck](https://open.spotify.com/artist/0EJ1PJOTZJgAacXpyyCXqy), [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Stay TF Outta CA \(feat\. Guapdad 4000\)](https://open.spotify.com/album/5S5zClv77wsPY3R5TjMfoE) | 3:30 |
 | 42 | [2003](https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Ots J Huncho](https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l) | [2003](https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN) | 2:26 |
 | 43 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |

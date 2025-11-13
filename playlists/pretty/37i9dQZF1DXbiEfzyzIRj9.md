@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again.., CA7RIEL&Paco Amoroso
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,048 likes - 110 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,058 likes - 110 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

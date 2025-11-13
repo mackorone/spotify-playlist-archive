@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,723 likes - 93 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,731 likes - 93 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 92 | [The Learning Process \(feat\. Tim Deluxe\)](https://open.spotify.com/track/3nCCJKuMNzIN77qfRqHIhy) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71), [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0) | [The Learning Process / Call It In](https://open.spotify.com/album/25o07BPwD9N6Vd3Xf2JWHH) | 5:23 |
 | 93 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
 
-Snapshot ID: `AAAAAAnmkvLJ7E7qJshjqSgd6FqlDmbr`
+Snapshot ID: `AAAAAFyJEpS12IOUrsUvMpFsZdSaK+Jc`

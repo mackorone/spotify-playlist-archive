@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Bad Omens
 
-1,606 songs - 4 day 0 hr 7 min
+1,607 songs - 4 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,6 +894,7 @@
 | [Missile](https://open.spotify.com/track/1LNE7fC5D7fjipwng8IXGu) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [NIGHTVISION](https://open.spotify.com/album/04Wf69y2V5QM4dl5XKTT7Q) | 2:19 | 2023-06-02 | 2023-07-29 |
 | [Missile](https://open.spotify.com/track/7tk7GTuflatSdYiJW97Itc) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Missile](https://open.spotify.com/album/4WArPDAzvEWVt99SwPqfQ5) | 2:19 | 2023-05-05 | 2023-06-04 |
 | [Mistakes](https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 3:14 | 2023-05-12 | 2023-07-01 |
+| [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 | 2025-11-07 |  |
 | [MONEY](https://open.spotify.com/track/6uEwHhQjA253wuQQ6KDMAj) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MONEY](https://open.spotify.com/album/5kVYC2LhvuwUxVhfLQ9i6T) | 3:14 | 2022-03-25 | 2022-08-27 |
 | [Money Spent](https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:36 | 2022-09-16 | 2023-01-06 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-18 | 2023-03-18 |

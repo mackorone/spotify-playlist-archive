@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,340 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,350 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 34 | [Rockin' Years \(with Ricky Van Shelton\)](https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ricky Van Shelton](https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc) | [Eagle When She Flies](https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n) | 3:26 |
 | 35 | [Love Is Like a Butterfly](https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love Is Like a Butterfly](https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT) | 2:20 |
 | 36 | [9 to 5 to 9](https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH) | [Sabyn](https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Halfway There](https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC) | 3:51 |
-| 37 | [Harper Valley PTA](https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [In the Good Old Days \(When Times Were Bad\)](https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl) | 3:12 |
+| 37 | [Harper Valley PTA](https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [In the Good Old Days \(When Times Were Bad\)](https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl) | 3:15 |
 | 38 | [Lovesick Blues \(with Patsy Cline\)](https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:18 |
 | 39 | [Night Moves](https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:39 |
 | 40 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
 | 50 | [Lookin' for You \(feat\. Dolly Parton\)](https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Hundred Highways \(Extended Edition\)](https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf) | 3:46 |
 
-Snapshot ID: `aRErAAAAAADnRTKqxn5Tb/Yx6qI7rned`
+Snapshot ID: `aRJ8gAAAAACRyA6I9UkdaEgl3ssaoxYv`

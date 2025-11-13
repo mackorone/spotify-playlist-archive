@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4KaHfqM1aMQrw63pHrzIM3"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4aJOAOc5CkBxEcwHhxbLRi"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 192293,
       "name": "1999 Pt. 5 (Mainpark Baby)",
       "url": "https://open.spotify.com/track/38wy8njwwp1r4SwJZ6TS3e"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 154746,
       "name": "1999 Pt. III",
       "url": "https://open.spotify.com/track/0VOoFMLU692oDIDlMxSOH9"
@@ -10844,6 +10844,28 @@
       "duration_ms": 231093,
       "name": "Bila Memang Kamu",
       "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223488,
+      "name": "Bilhete 2.0",
+      "url": "https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev"
     },
     {
       "album": {
@@ -28983,6 +29005,28 @@
     },
     {
       "album": {
+        "name": "Gal Sun",
+        "url": "https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV"
+      },
+      "artists": [
+        {
+          "name": "Sabat Batin",
+          "url": "https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju"
+        },
+        {
+          "name": "Rackstar",
+          "url": "https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178826,
+      "name": "Gal Sun",
+      "url": "https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1"
+    },
+    {
+      "album": {
         "name": "GALA",
         "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
       },
@@ -34045,6 +34089,32 @@
     },
     {
       "album": {
+        "name": "HOMAGE FUNK",
+        "url": "https://open.spotify.com/album/53PlPC6A2mj9PsHr3N9cqj"
+      },
+      "artists": [
+        {
+          "name": "KIXIA",
+          "url": "https://open.spotify.com/artist/6e1LwzV1WAJFCdT1RsgqMK"
+        },
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        },
+        {
+          "name": "Mc Kaique SP",
+          "url": "https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121771,
+      "name": "HOMAGE FUNK",
+      "url": "https://open.spotify.com/track/4oFXV9F1OhUZy9cEGqrGHe"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
       },
@@ -35717,6 +35787,24 @@
     },
     {
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "album": {
         "name": "Aaron's Party (Come Get It)",
         "url": "https://open.spotify.com/album/3BfvHVArGv1rIZgbOkdrbW"
       },
@@ -37230,7 +37318,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 151573,
       "name": "IRIS OUT",
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
@@ -44690,7 +44778,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 204959,
       "name": "Livin\u2019 on Borrowed Time",
       "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
@@ -51594,7 +51682,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 169850,
       "name": "MONTAGEM CAMERA LENTA",
       "url": "https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh"
@@ -57640,7 +57728,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 258885,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/1FHIkxHMBDqSHdNdNoGlO4"
@@ -57658,7 +57746,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 258939,
       "name": "One in a Million - Reggae",
       "url": "https://open.spotify.com/track/18rfxb2keyIjrxbhlqXFgo"
@@ -84674,7 +84762,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
@@ -86470,7 +86558,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 191719,
       "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
       "url": "https://open.spotify.com/track/4nW7z4lyhT18qAuz7uZ7lW"

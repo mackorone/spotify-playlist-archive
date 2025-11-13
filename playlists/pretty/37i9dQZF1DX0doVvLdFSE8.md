@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0doVvLdFSE8.md) - [plain]
 
 > Listen to the best Techno tracks of 2024\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,511 likes - 75 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,547 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

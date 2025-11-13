@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: OG",
-  "num_followers": 475628,
+  "num_followers": 476160,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFl2fH53SApiZxTlmgZXjHEOm4z4",
+  "snapshot_id": "AAAAAE3+SsPypJvjV2786xWuCJiDPjSh",
   "tracks": [
     {
       "added_at": "2025-11-11 06:12:33",
@@ -31,6 +31,34 @@
       "duration_ms": 273072,
       "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
       "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
+    },
+    {
+      "added_at": "2025-11-12 09:36:49",
+      "album": {
+        "name": "GlobeTrotter (From \"GlobeTrotter\")",
+        "url": "https://open.spotify.com/album/3F9p3s24oL5KZjzc1qfRwp"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Chaitanya Prasad",
+          "url": "https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf"
+        }
+      ],
+      "duration_ms": 215178,
+      "name": "GlobeTrotter (From \"GlobeTrotter\")",
+      "url": "https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV"
     },
     {
       "added_at": "2025-11-03 09:53:29",
@@ -167,30 +195,6 @@
       "duration_ms": 188505,
       "name": "Monica (From \"Coolie\") (Telugu)",
       "url": "https://open.spotify.com/track/6ZjyKXvQIwalLNmJo3exz3"
-    },
-    {
-      "added_at": "2025-08-22 07:23:49",
-      "album": {
-        "name": "Vibe Undi (From \"Mirai\") [Telugu]",
-        "url": "https://open.spotify.com/album/36tlIgxlfBUU4tXa7Vo5XX"
-      },
-      "artists": [
-        {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 202361,
-      "name": "Vibe Undi (From \"Mirai\") [Telugu]",
-      "url": "https://open.spotify.com/track/2N4dA1J0EkkXU7mRxtnfKv"
     },
     {
       "added_at": "2025-11-11 06:12:33",

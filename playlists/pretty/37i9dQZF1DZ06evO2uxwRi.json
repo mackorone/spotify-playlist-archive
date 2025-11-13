@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42938,
+  "num_followers": 42942,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACpzkmcl43WrjhZEHJnBaW7",
+  "snapshot_id": "aRJ8gAAAAADJs89xgiq5+Kwz8qzx/79k",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+        "name": "Treat Yourself",
+        "url": "https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 191160,
-      "name": "Understatement",
-      "url": "https://open.spotify.com/track/4191ROqtYiS10furYDAv05"
+      "duration_ms": 218509,
+      "name": "Treat Yourself",
+      "url": "https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC"
     },
     {
       "added_at": null,
@@ -119,6 +119,22 @@
       "duration_ms": 195826,
       "name": "Iris",
       "url": "https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Understatement",
+      "url": "https://open.spotify.com/track/4191ROqtYiS10furYDAv05"
     },
     {
       "added_at": null,
@@ -151,22 +167,6 @@
       "duration_ms": 240943,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Treat Yourself",
-        "url": "https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 218509,
-      "name": "Treat Yourself",
-      "url": "https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC"
     },
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Sound",
-        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
       "artists": [
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 178823,
-      "name": "Part of Your World",
-      "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
+      "duration_ms": 183293,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
       "artists": [
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 183293,
-      "name": "My Heart Will Go On",
-      "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
+      "duration_ms": 178823,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 207800,
       "name": "Sonny",
       "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 160266,
       "name": "Something I Call Personality",
       "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo, Pt. II",
         "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Found Glory",
         "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 167733,
       "name": "Sincerely Me",
       "url": "https://open.spotify.com/track/2r4ANDbGuwFVv5zTjJPrTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 203963,
-      "name": "nothing matters (with Jordan Pundik of New Found Glory)",
-      "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Found Glory",
         "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
@@ -659,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 180655,
-      "name": "Happy Being Miserable",
-      "url": "https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP"
+      "duration_ms": 203963,
+      "name": "nothing matters (with Jordan Pundik of New Found Glory)",
+      "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 217413,
       "name": "It's Not Your Fault",
       "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 180655,
+      "name": "Happy Being Miserable",
+      "url": "https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Headwreck",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: PINKNOISE",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 184982,
       "name": "[zippermouth]",
       "url": "https://open.spotify.com/track/5hQUu3nqe7nIZM9qViyO6X"
@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "Apparition",
+        "url": "https://open.spotify.com/album/5McFM0iyPTlRWWAWj6W8rr"
+      },
+      "artists": [
+        {
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+        },
+        {
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/4lbQzF4Kum8RZzaWSlVrPC"
+    },
+    {
+      "album": {
         "name": "From The New World",
         "url": "https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC"
       },
@@ -612,7 +634,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 168083,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/38SyNSQeamQ0uHxKWr1G6S"
@@ -1265,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/5eT3yEzp5pMmD3NgZz5PG1"
+      },
+      "artists": [
+        {
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180613,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6DXZpoli9tXI3h1JOd30H9"
+    },
+    {
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/3I918RSWr7tdLlfKE7dAj3"
       },
@@ -1528,7 +1568,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 245900,
       "name": "By Divide",
       "url": "https://open.spotify.com/track/6I3Lurb6sNFq23PTHLmflX"
@@ -2513,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Stargod",
+        "url": "https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354666,
+      "name": "Depressed Mode",
+      "url": "https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO"
+    },
+    {
+      "album": {
         "name": "DEPTHS",
         "url": "https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3"
       },
@@ -2633,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Divine Excuse",
+        "url": "https://open.spotify.com/album/2RhXBFLd2gjsW4PZdINed4"
+      },
+      "artists": [
+        {
+          "name": "Kami no Ikari",
+          "url": "https://open.spotify.com/artist/50w6So1pU1erYm1J3cGxXY"
+        },
+        {
+          "name": "Benighted",
+          "url": "https://open.spotify.com/artist/0dUwIwaPc6UukkCZTaaf7J"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Divine Excuse",
+      "url": "https://open.spotify.com/track/3gEbpqpSyNZ6Dsb3Wswm9T"
+    },
+    {
+      "album": {
         "name": "Divine//Decay",
         "url": "https://open.spotify.com/album/1wLdj089Z7BIkDtXdkMK0k"
       },
@@ -2738,6 +2818,24 @@
       "duration_ms": 213333,
       "name": "don't spiral",
       "url": "https://open.spotify.com/track/1LSxnC5p6Ikqp2HNJggHIH"
+    },
+    {
+      "album": {
+        "name": "Doomsday Profit",
+        "url": "https://open.spotify.com/album/7uFD1iLYsPUhGnyvPdgmuM"
+      },
+      "artists": [
+        {
+          "name": "Enquire Within",
+          "url": "https://open.spotify.com/artist/0WaZXHni547zjiFP5Ih2El"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Doomsday Profit",
+      "url": "https://open.spotify.com/track/6f6xqwxDtmE36JrgbF79Sx"
     },
     {
       "album": {
@@ -2958,6 +3056,28 @@
       "duration_ms": 184000,
       "name": "EARN YOUR FLOWERS",
       "url": "https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3X2rVGi0T8gaRpXhJ9Js9M"
+      },
+      "artists": [
+        {
+          "name": "STESY",
+          "url": "https://open.spotify.com/artist/10InLsi9iNzEaKN0L1e4eG"
+        },
+        {
+          "name": "VENUES",
+          "url": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196166,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7CheusintakeDzR0GNkKUU"
     },
     {
       "album": {
@@ -3807,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Fusion",
+        "url": "https://open.spotify.com/album/4mZ5cJVy6Clf7bFmSaSkFo"
+      },
+      "artists": [
+        {
+          "name": "Fronti\u00e8res",
+          "url": "https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/4yZENXL6haEAuM4Oi2gEbL"
+    },
+    {
+      "album": {
         "name": "Solar Strain",
         "url": "https://open.spotify.com/album/0hXYSmAh2qU9D7AFYZaMHQ"
       },
@@ -4454,6 +4592,28 @@
       "duration_ms": 131026,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/3XQ3iUVc6IWjotTwBbK60w"
+    },
+    {
+      "album": {
+        "name": "Hope In Hatred",
+        "url": "https://open.spotify.com/album/3bsJaxsyFGB1WKJYRJoy45"
+      },
+      "artists": [
+        {
+          "name": "Rituals",
+          "url": "https://open.spotify.com/artist/6zaggWMA34L6ag8GRa8pHh"
+        },
+        {
+          "name": "Tom P",
+          "url": "https://open.spotify.com/artist/0k0bUj0qd2fXBiWeYrNPGy"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198315,
+      "name": "Hope In Hatred",
+      "url": "https://open.spotify.com/track/2MGTtQeh2yi5Iysu0lLj5V"
     },
     {
       "album": {
@@ -5194,7 +5354,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 193920,
       "name": "Kleptomaniac",
       "url": "https://open.spotify.com/track/52hhvUNX3OaAI4MP7suPBw"
@@ -5216,6 +5376,36 @@
       "duration_ms": 219888,
       "name": "KNIFE",
       "url": "https://open.spotify.com/track/66Gjhpjffv2VlZxx251Isw"
+    },
+    {
+      "album": {
+        "name": "KNOCK OUT ANTHEM",
+        "url": "https://open.spotify.com/album/6iX8MV5Jr59RLgvTEEzunX"
+      },
+      "artists": [
+        {
+          "name": "CROWDKILL CARTEL",
+          "url": "https://open.spotify.com/artist/7jWytXunzd88U2NY5nlSTz"
+        },
+        {
+          "name": "MOUTH BREAKER",
+          "url": "https://open.spotify.com/artist/5dz8LGLQRsMoVR5UqGT61d"
+        },
+        {
+          "name": "KnuckleSandwich",
+          "url": "https://open.spotify.com/artist/75VqwDv9W7ksPkPRoufm7O"
+        },
+        {
+          "name": "IN THE END TIMES",
+          "url": "https://open.spotify.com/artist/3gBjfLu0nyCuFjBwtYaKx8"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173954,
+      "name": "KNOCK OUT ANTHEM",
+      "url": "https://open.spotify.com/track/5G6iZqhu6ef6U61qJBWLUN"
     },
     {
       "album": {
@@ -5584,7 +5774,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 190885,
       "name": "lovely",
       "url": "https://open.spotify.com/track/2om9zI8QJeeWgGF2k2GkRZ"
@@ -5696,6 +5886,42 @@
       "duration_ms": 121787,
       "name": "Make it Happen",
       "url": "https://open.spotify.com/track/0BJlMkX9QR5eTP9YXcEtM2"
+    },
+    {
+      "album": {
+        "name": "We Are N\u00f8t Okay II",
+        "url": "https://open.spotify.com/album/2gtyXxBXNOEhIw5oawdBaK"
+      },
+      "artists": [
+        {
+          "name": "OCEANS",
+          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Make Me Bleed",
+      "url": "https://open.spotify.com/track/7hkNaiAc6OLjFHqKjvkunx"
+    },
+    {
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/3Eu2wdAO6EJNLBaT2VMVgy"
+      },
+      "artists": [
+        {
+          "name": "Pentastone",
+          "url": "https://open.spotify.com/artist/2Ga7dFa3QASOZpORTAUD8l"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133904,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/2AqTMihgZ6peouB1RPkbuT"
     },
     {
       "album": {
@@ -5812,7 +6038,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 169007,
       "name": "MBWA KALI (Beware Of Fierce Dogs)",
       "url": "https://open.spotify.com/track/056O6VIaUAXAC2VfGHwPSD"
@@ -6108,7 +6334,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 166213,
       "name": "Neighbors",
       "url": "https://open.spotify.com/track/09ni95bc8G2j4OOPopdyYl"
@@ -7078,7 +7304,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 169970,
       "name": "Radio Bleed",
       "url": "https://open.spotify.com/track/1yaf7WYprnhx5O2VJblAPS"
@@ -7258,7 +7484,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 203146,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0h4VA64bukREPju77bkXTf"
@@ -8121,6 +8347,24 @@
     },
     {
       "album": {
+        "name": "UTB",
+        "url": "https://open.spotify.com/album/11Jit2U7AAiPTB7lcoMhZB"
+      },
+      "artists": [
+        {
+          "name": "Indigo Blaze",
+          "url": "https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Starwound",
+      "url": "https://open.spotify.com/track/0aMNWzkPRsvfMCE5Py9gFf"
+    },
+    {
+      "album": {
         "name": "Steel Spine",
         "url": "https://open.spotify.com/album/2VvkI58bYdqyrLwcXyG9PK"
       },
@@ -8486,6 +8730,24 @@
       "duration_ms": 175506,
       "name": "Talk Real",
       "url": "https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND"
+    },
+    {
+      "album": {
+        "name": "TALK TALK",
+        "url": "https://open.spotify.com/album/3obBXBc1KbiJDQQSg922HU"
+      },
+      "artists": [
+        {
+          "name": "PINKNOISE",
+          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "TALK TALK",
+      "url": "https://open.spotify.com/track/4XtuGMMCtBT4TqNy1XfJHK"
     },
     {
       "album": {
@@ -9096,7 +9358,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 256319,
       "name": "The Worst Kind",
       "url": "https://open.spotify.com/track/2ahd2e0nGpjacPvcn7tSBW"
@@ -9404,7 +9666,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 196812,
       "name": "Trauma Souba",
       "url": "https://open.spotify.com/track/3STq7mlQmTlgEQm6i1EEqK"
@@ -9570,7 +9832,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 169000,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/1HFmKuR3PFEfgkEQrwXfKP"
@@ -9682,7 +9944,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 192000,
       "name": "Violent Heaven",
       "url": "https://open.spotify.com/track/4UiIaGpKdM1DPOwM2yQkJ4"
@@ -9999,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "Wembley",
+        "url": "https://open.spotify.com/album/2tSjlOU9TcNEvNuuvcnRTN"
+      },
+      "artists": [
+        {
+          "name": "Reece Mastin",
+          "url": "https://open.spotify.com/artist/6pjod8SsOOGf6GW9tfEnH1"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Wembley",
+      "url": "https://open.spotify.com/track/28FSHGIOKGewqNo7lmpAMw"
+    },
+    {
+      "album": {
         "name": "Fury",
         "url": "https://open.spotify.com/album/1fCrRUykhfUC1sGg4QMoDu"
       },
@@ -10270,7 +10550,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 306622,
       "name": "You Are the Night",
       "url": "https://open.spotify.com/track/4DnHadPIFBpZKFU1tpmbrk"

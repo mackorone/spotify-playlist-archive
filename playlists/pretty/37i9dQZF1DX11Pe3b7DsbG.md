@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,720 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,719 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pé Na Areia](https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/6j0eevSzWWuNeN9tkY5AZt) | 3:40 |
 | 2 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 |
 | 3 | [Meu ébano](https://open.spotify.com/track/0nmEuK27DMGbYmSdh6NtKB) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Uma nova paixão](https://open.spotify.com/album/6dXmMQCykJuG3inOM5aE7u) | 3:27 |
-| 4 | [Feitio de paixão \- Ao vivo](https://open.spotify.com/track/5ZAE7mG7SUcHAkorXb2poH) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Ao vivo](https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA) | 4:49 |
-| 5 | [Malandragem dá um Tempo](https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no) | [Bezerra Da Silva](https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt) | [Alô Malandragem Maloca o Flagrante](https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO) | 3:52 |
+| 4 | [Malandragem dá um Tempo](https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no) | [Bezerra Da Silva](https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt) | [Alô Malandragem Maloca o Flagrante](https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO) | 3:52 |
+| 5 | [Feitio de paixão \- Ao vivo](https://open.spotify.com/track/5ZAE7mG7SUcHAkorXb2poH) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Ao vivo](https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA) | 4:49 |
 | 6 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
 | 7 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 |
 | 8 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 37 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
 | 38 | [Spc](https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho](https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs) | 3:23 |
 | 39 | [Promessa](https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo) | [Noca Da Portela](https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC) | [De Mãos Dadas](https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF) | 2:54 |
-| 40 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 |
-| 41 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |
+| 40 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |
+| 41 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 |
 | 42 | [Pintou uma Lua Lá](https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr) | [Arlindo Cruz & Sombrinha](https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE) | [Da Música](https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM) | 4:24 |
 | 43 | [Eu e Você Sempre \- Ao Vivo](https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Jorge 70: Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8) | 4:11 |
 | 44 | [Coração Leviano](https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Coração Leviano](https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy) | 2:52 |

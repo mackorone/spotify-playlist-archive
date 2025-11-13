@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168209,
+  "num_followers": 168219,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 185991,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
+        "name": "Londinium",
+        "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/0wjMOhITbtYN2n0WXU0MnJ"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
         "name": "Diamond Miner",
         "url": "https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 231034,
       "name": "Diamond Miner",
       "url": "https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
-        "name": "Londinium",
-        "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/0wjMOhITbtYN2n0WXU0MnJ"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "pity dirty",
         "url": "https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 193000,
       "name": "pity dirty",
       "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Echoes from the Hills",
-        "url": "https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB"
-      },
-      "artists": [
-        {
-          "name": "karan",
-          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
-        }
-      ],
-      "duration_ms": 172551,
-      "name": "FREEFALL",
-      "url": "https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 253927,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Echoes from the Hills",
+        "url": "https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB"
+      },
+      "artists": [
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        }
+      ],
+      "duration_ms": 172551,
+      "name": "FREEFALL",
+      "url": "https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "honeymoon - Spotify Singles",
-      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
-      },
-      "artists": [
-        {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
-    },
-    {
-      "added_at": "2025-11-10 02:29:40",
-      "album": {
         "name": "Acchordance",
         "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Baby Cakes",
-        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
       "artists": [
         {
-          "name": "Whyte",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
         }
       ],
-      "duration_ms": 228705,
-      "name": "Baby Cakes",
-      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2025-11-10 02:29:40",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
+        "name": "Baby Cakes",
+        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
       },
       "artists": [
         {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
         }
       ],
-      "duration_ms": 154573,
-      "name": "Voicenotes",
-      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
+      "duration_ms": 228705,
+      "name": "Baby Cakes",
+      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
     },
     {
       "added_at": "2025-11-10 02:29:40",
@@ -1743,6 +1727,22 @@
       "duration_ms": 321176,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/59AsW4buRUplzfnJYSvopN"
+    },
+    {
+      "added_at": "2025-11-10 02:29:40",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Voicenotes",
+      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

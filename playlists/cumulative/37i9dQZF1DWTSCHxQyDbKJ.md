@@ -2,9 +2,9 @@
 
 ### [GLOW UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DWTSCHxQyDbKJ)
 
-> Necessities from LGBTQIA+ artists\. Cover: HAAi
+> Necessities from LGBTQIA+ artists\. Cover: kwn
 
-260 songs - 14 hr 21 min
+262 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2024-06-10 |  |
 | [Dizzy](https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Odyssey](https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6) | 2:52 | 2024-12-04 | 2025-01-14 |
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-06-10 |  |
+| [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 | 2025-11-12 |  |
 | [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 | 2025-04-07 | 2025-05-14 |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-06-10 |  |
 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2024-06-10 | 2024-09-10 |
@@ -101,7 +102,7 @@
 | [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 | 2025-07-07 |  |
 | [Get Me Away From Here, I'm Dying](https://open.spotify.com/track/4ksAJMoTryW6BTsZpKdoMk) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Calvin Lauber](https://open.spotify.com/artist/6MhwTz6PUbDqp3h0azrtR2), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv), [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:13 | 2024-12-04 | 2025-01-14 |
 | [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 | 2024-12-04 | 2025-01-14 |
-| [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 | 2024-08-12 |  |
+| [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 | 2024-08-12 | 2025-11-13 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2024-06-10 | 2025-07-08 |
 | [go](https://open.spotify.com/track/5wsa7NPNWf4akemfHQ4u2g) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/0rnW4hH24v4j16wUbeR5Tn) | 3:35 | 2025-09-08 |  |
 | [Good Bi](https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Good Bi](https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo) | 3:14 | 2024-06-10 |  |
@@ -237,7 +238,7 @@
 | [Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Talk 2 Me](https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq) | 3:42 | 2025-05-29 |  |
 | [Television Promises](https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Television Promises](https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT) | 3:39 | 2024-07-08 | 2024-08-13 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2024-06-10 |  |
-| [Thank Goodness](https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT) | 3:20 | 2024-09-09 |  |
+| [Thank Goodness](https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT) | 3:20 | 2024-09-09 | 2025-11-13 |
 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 | 2025-06-09 |  |
 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 | 2024-08-12 | 2025-04-05 |
 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 | 2025-07-07 |  |
@@ -259,6 +260,7 @@
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-06-10 | 2025-10-21 |
 | [WILD!](https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [WILD!](https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i) | 3:22 | 2025-05-29 | 2025-08-28 |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2024-06-10 | 2025-07-08 |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 | 2025-11-12 |  |
 | [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 | 2024-06-10 | 2025-01-24 |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-01-14 | 2025-04-12 |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-06-10 | 2025-11-10 |

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 65009,
+  "num_followers": 65037,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 141344,
+      "name": "Mind Your Business",
+      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 141344,
-      "name": "Mind Your Business",
-      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Johnny Quest Thinks We're Sellouts",
         "url": "https://open.spotify.com/album/7mgR3Stdis4IHoMJLscZdX"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Rudy Come Home",
         "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 240429,
       "name": "Rudy Come Home",
       "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Balkan Boys",
+        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
+      },
+      "artists": [
+        {
+          "name": "Dubioza kolektiv",
+          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+        }
+      ],
+      "duration_ms": 124580,
+      "name": "Balkan Boys",
+      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Balkan Boys",
-        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
       "artists": [
         {
-          "name": "Dubioza kolektiv",
-          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
         }
       ],
-      "duration_ms": 124580,
-      "name": "Balkan Boys",
-      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1139,22 +1155,6 @@
       "duration_ms": 192106,
       "name": "Contigo Estar\u00e9 Bien",
       "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Salida 32",
-        "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
-      },
-      "artists": [
-        {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Salida 32",
-      "url": "https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Weit, weit weg",
         "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 269400,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Salida 32",
+        "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
+      },
+      "artists": [
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Salida 32",
+      "url": "https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/6vXaJCdxYv2UFNYQuvikUv"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/0Gs3jQei0OSDAZCI3LZlUJ"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/6vXaJCdxYv2UFNYQuvikUv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 251133,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/0Gs3jQei0OSDAZCI3LZlUJ"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Gr\u00fc\u00dfe ins Neandertal",
-        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 106724,
-      "name": "Gr\u00fc\u00dfe ins Neandertal",
-      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Tania",
         "url": "https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 261321,
       "name": "Tania",
       "url": "https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Gr\u00fc\u00dfe ins Neandertal",
+        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 106724,
+      "name": "Gr\u00fc\u00dfe ins Neandertal",
+      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Wir kommen in Frieden",
+        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 234061,
+      "name": "Wir kommen in Frieden",
+      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "The Sound Of Revolution",
         "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 225018,
       "name": "Don`t Worry Be Happy",
       "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Wir kommen in Frieden",
-        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "Wir kommen in Frieden",
-      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Shellshock",
-        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+        "name": "Endlich auf Reise",
+        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 248370,
-      "name": "Sleepin' on the Couch (with The Elovaters)",
-      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+      "duration_ms": 179446,
+      "name": "Endlich auf Reise",
+      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1583,6 +1579,26 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Endlich auf Reise",
-        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 179446,
-      "name": "Endlich auf Reise",
-      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+        "name": "Mudik",
+        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
       },
       "artists": [
         {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
         }
       ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
+      "duration_ms": 255500,
+      "name": "Mudik",
+      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
     }
   ],
   "unique_name": "Ska Around The Globe",

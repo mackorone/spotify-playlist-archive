@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Naykilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,583 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,594 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Bertahan Hati](https://open.spotify.com/track/3G4ohJ0PWOqVJ6eYyg9UaG) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7), [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Bertahan Hati](https://open.spotify.com/album/70eDzNiPSeiYvNZWUXJw5V) | 4:21 |
 | 50 | [Symbols](https://open.spotify.com/track/5NddCV4Gi6eUcmINz5oifV) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Pendulum](https://open.spotify.com/album/5fwCfAtOwiSs4EOAr4mzam) | 3:09 |
 
-Snapshot ID: `AAAAAJR22t+jzFMhpnjIGhudEtsjzl4U`
+Snapshot ID: `AAAAAMHAQ62ZfnkYlyC90k8O4kp2puo/`

@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5498,
+  "num_followers": 5499,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Un banc, un arbre, une rue",
+        "url": "https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg"
+      },
+      "artists": [
+        {
+          "name": "Severine",
+          "url": "https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH"
+        }
+      ],
+      "duration_ms": 181033,
+      "name": "Un banc, un arbre, une rue",
+      "url": "https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "16 Hits",
         "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 177293,
       "name": "Dansevise",
       "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Un banc, un arbre, une rue",
-        "url": "https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg"
-      },
-      "artists": [
-        {
-          "name": "Severine",
-          "url": "https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH"
-        }
-      ],
-      "duration_ms": 181033,
-      "name": "Un banc, un arbre, une rue",
-      "url": "https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n"
     },
     {
       "added_at": "2025-03-14 16:55:23",

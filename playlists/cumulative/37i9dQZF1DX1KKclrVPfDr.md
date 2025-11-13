@@ -4,7 +4,7 @@
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं\. Cover: Surabhi Kashyap, Stuti Sinha, Nikita Rai
 
-51 songs - 3 hr 12 min
+52 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ehi Thaiyan](https://open.spotify.com/track/3T9IeP4TkhYQZdzps3JKd2) | [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI), [Arun Dev Yadav](https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb) | [Ehi Thaiyan](https://open.spotify.com/album/6ULMsJDGq7yXOIDVnygzdJ) | 5:52 | 2025-09-15 |  |
 | [Far Gaile Nembua](https://open.spotify.com/track/5dS1QpIQNwYBb1UQEGwuND) | [Srishty Shandilya](https://open.spotify.com/artist/4Q5lbT1axsaPWwkbq36iIe) | [Far Gaile Nembua](https://open.spotify.com/album/5GlJ4gu9CXPm0Z7MQ4qPDU) | 2:35 | 2025-09-15 |  |
 | [FULAURI BINA CHATNI](https://open.spotify.com/track/6o6I0y3nCi6suPvXCBQeUq) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt), [Shagun Srivastava](https://open.spotify.com/artist/6lndd8QIQWss9ro5cE1wb7) | [FULAURI BINA CHATNI](https://open.spotify.com/album/59eVrJFq82tVu7YQpMPUOH) | 2:56 | 2025-09-15 |  |
-| [Gauwan Ke Batiya](https://open.spotify.com/track/7EbkL9Dk8zETlSOW6eFVrA) | [Anupam Mukherjee](https://open.spotify.com/artist/7DbP9FIaNPK3TFYaG2HrLX) | [Gauwan Ke Batiya](https://open.spotify.com/album/7HaPljcOyqsVcvRD24JbmF) | 5:50 | 2025-09-15 |  |
+| [Gauwan Ke Batiya](https://open.spotify.com/track/7EbkL9Dk8zETlSOW6eFVrA) | [Anupam Mukherjee](https://open.spotify.com/artist/7DbP9FIaNPK3TFYaG2HrLX) | [Gauwan Ke Batiya](https://open.spotify.com/album/7HaPljcOyqsVcvRD24JbmF) | 5:50 | 2025-09-15 | 2025-11-13 |
 | [HARDI Haradiya](https://open.spotify.com/track/7Ealn3Ao3veKdMEbB3AaCM) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [HARDI Haradiya](https://open.spotify.com/album/4ZMPY4CB0mgO2ustutbx2n) | 2:48 | 2025-09-15 |  |
 | [Hathi Lebe Ghoda Lebe](https://open.spotify.com/track/4yHlWqQQtYrCoWmiE793Gm) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Hathi Lebe Ghoda Lebe](https://open.spotify.com/album/1xBRVmGAlYRFJbgd1vbqb3) | 3:36 | 2025-09-15 | 2025-10-28 |
 | [Holi Khele Raghuveera](https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Sugam Singh](https://open.spotify.com/artist/1OBZ7mHS6j53GMTt0nFA57) | [Holi Khele Raghuveera](https://open.spotify.com/album/4qtI6ApG6I8gOHHr3FLLOG) | 3:40 | 2025-09-15 |  |
@@ -54,6 +54,7 @@
 | [Saari Saari Ratiya](https://open.spotify.com/track/21TDQB67T7YG0Kt1ipq7rk) | [Deepali Sahay](https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q) | [Bejod Vol 1](https://open.spotify.com/album/2j318y4M67EQzPry1SDdyL) | 4:22 | 2025-09-15 |  |
 | [SAJANWA Love in Bangkok](https://open.spotify.com/track/3uV48MQcXm310OWtoGxWID) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q), [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm) | [SAJANWA Love in Bangkok](https://open.spotify.com/album/78LZ3Ix8rrUiQfJKOZ4JQT) | 3:42 | 2025-09-15 |  |
 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 | 2025-09-15 |  |
+| [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/track/1LFXcEokQkhnzhl3b00F5S) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Shatakshi Chakraborty](https://open.spotify.com/artist/0sHqr4WJZKAFNTZHQGClzA) | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/album/6LV5DklKkSNVEPzLa2cZjZ) | 2:54 | 2025-11-12 |  |
 | [SAWARIYA](https://open.spotify.com/track/3yq59mQFfnqp8oh1Dxi8VC) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [SAWARIYA](https://open.spotify.com/album/5rKYTYpHErvjHQwoDZAfMT) | 3:26 | 2025-09-15 |  |
 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 | 2025-09-15 |  |
 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 | 2025-09-15 |  |

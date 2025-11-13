@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280406,
+  "num_followers": 280405,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADi43EVf6IW/rkuh82aE5pA",
+  "snapshot_id": "aRJ8gAAAAACJZsycEGpDYkb7WMxhfhUL",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "S\u00e3o Amores",
-      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 173136,
       "name": "Disk Me",
       "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "S\u00e3o Amores",
+      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
+      "duration_ms": 154941,
+      "name": "Seu Crime",
+      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 154941,
-      "name": "Seu Crime",
-      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
     },
     {
       "added_at": null,
@@ -487,6 +487,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -507,26 +531,6 @@
       "duration_ms": 150824,
       "name": "Penetra - Pedro Sampaio Remix",
       "url": "https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIA CLARK",
-        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
     },
     {
       "added_at": null,
@@ -567,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Esque\u00e7o",
+        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
+      },
+      "artists": [
+        {
+          "name": "Niara",
+          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "N\u00e3o Esque\u00e7o",
+      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -595,46 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Esque\u00e7o",
-        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
+        "name": "LIA CLARK",
+        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
       },
       "artists": [
         {
-          "name": "Niara",
-          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 185217,
-      "name": "N\u00e3o Esque\u00e7o",
-      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
     },
     {
       "added_at": null,
@@ -646,11 +646,31 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Me Usa",
-      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
+      "duration_ms": 157492,
+      "name": "Falta Coragem",
+      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 162464,
+      "name": "Problema Seu",
+      "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
     },
     {
       "added_at": null,
@@ -699,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 162464,
-      "name": "Problema Seu",
-      "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -722,15 +726,11 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 157492,
-      "name": "Falta Coragem",
-      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
-      },
-      "artists": [
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 168983,
-      "name": "Nada Se Compara a Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 153423,
       "name": "Ouro (feat. Urias)",
       "url": "https://open.spotify.com/track/7zvGNZu33bC4jZEkXHdDZ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
+      },
+      "artists": [
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168983,
+      "name": "Nada Se Compara a Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "A Lua",
+      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 136844,
       "name": "Parab\u00e9ns",
       "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "A Lua",
-      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 114951,
-      "name": "Ultra Som",
-      "url": "https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 145920,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 114951,
+      "name": "Ultra Som",
+      "url": "https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY"
     },
     {
       "added_at": null,

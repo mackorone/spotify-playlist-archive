@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6Cq0WES5JTdcBCw8hubCt0"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/7ieBYsqVGvTx6rOvvYdoDY"
+    },
+    {
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
       },
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 176431,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
       "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"

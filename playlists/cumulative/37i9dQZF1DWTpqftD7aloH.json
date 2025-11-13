@@ -9399,6 +9399,24 @@
     },
     {
       "album": {
+        "name": "Um Novo Dia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GSAZ8tFAL4wQVM6fLflbg"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414761,
+      "name": "Um Novo Dia - Ao Vivo",
+      "url": "https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN"
+    },
+    {
+      "album": {
         "name": "Um Refr\u00e3o Pra Sua Alma",
         "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
       },
@@ -9458,7 +9476,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 276679,
       "name": "Unidos em F\u00e9",
       "url": "https://open.spotify.com/track/38jE2OTK942nevMNlcPZg9"

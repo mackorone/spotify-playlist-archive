@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24791,
+  "num_followers": 24796,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABv6MBPP3KE/reKqll9Kibm",
+  "snapshot_id": "aRJ8gAAAAACPhVYkU8ixDrsJTbS3Fks2",
   "tracks": [
     {
       "added_at": null,
@@ -103,18 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
       },
       "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 209186,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
+      "duration_ms": 187943,
+      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
       "added_at": null,
@@ -151,22 +155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
       },
       "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+      "duration_ms": 209186,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
     },
     {
       "added_at": null,

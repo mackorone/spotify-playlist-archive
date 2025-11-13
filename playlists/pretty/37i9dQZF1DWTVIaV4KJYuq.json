@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 707338,
+  "num_followers": 707341,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
-      "added_at": "2025-08-29 04:00:33",
-      "album": {
-        "name": "I'll Stand By You",
-        "url": "https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 247113,
-      "name": "I'll Stand By You",
-      "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Believe",
@@ -855,6 +839,22 @@
       "duration_ms": 255675,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
+    },
+    {
+      "added_at": "2025-08-29 04:00:33",
+      "album": {
+        "name": "I'll Stand By You",
+        "url": "https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 247113,
+      "name": "I'll Stand By You",
+      "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "What's Going On - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Home Again / It's Too Late",
         "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 197647,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "What's Going On - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Mercy Mercy Me (The Ecology)",
         "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 190885,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+      },
+      "artists": [
+        {
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1515,34 +1515,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Don't Think Twice, It's All Right",
-        "url": "https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        },
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "Rissi Palmer",
-          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
-        },
-        {
-          "name": "Tami Neilson",
-          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
-        }
-      ],
-      "duration_ms": 261096,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "When The Levee Breaks",
         "url": "https://open.spotify.com/album/3IEVZmB4jiRhirv2VVMuSL"
       },
@@ -1579,6 +1551,34 @@
       "duration_ms": 159541,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Don't Think Twice, It's All Right",
+        "url": "https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        },
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "Rissi Palmer",
+          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
+        },
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "duration_ms": 261096,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Didn't Want to Have to Do It",
-        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
-      },
-      "artists": [
-        {
-          "name": "Lady Apple Tree",
-          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
-        }
-      ],
-      "duration_ms": 264362,
-      "name": "Didn't Want to Have to Do It",
-      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/6vm31Kdb2VRrtMLIdV0VQh"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 210914,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Didn't Want to Have to Do It",
+        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
+      },
+      "artists": [
+        {
+          "name": "Lady Apple Tree",
+          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
+        }
+      ],
+      "duration_ms": 264362,
+      "name": "Didn't Want to Have to Do It",
+      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1707,6 +1707,22 @@
       "duration_ms": 213671,
       "name": "Heart Of Glass (Live from the iHeart Festival)",
       "url": "https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1775,22 +1791,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2024-10-18 04:00:00",

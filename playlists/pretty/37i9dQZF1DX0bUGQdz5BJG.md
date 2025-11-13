@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Cooper Alan
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,065 likes - 199 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,136 likes - 199 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 45 | [Girls Are Pretty](https://open.spotify.com/track/40Gm0YlKywgXUK6nrz2Wt5) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [Girls Are Pretty](https://open.spotify.com/album/6rBwMEGCkSNNuY4sKqirQT) | 2:59 |
 | 46 | [Speed Of Summer](https://open.spotify.com/track/7GNZQQuAI4aeLx9lJmiowE) | [Derek James](https://open.spotify.com/artist/0BjtXpumZkiJijmbFSTqG6) | [Speed Of Summer](https://open.spotify.com/album/4rmibJu4zNdU8RCd5erMsD) | 3:19 |
 | 47 | [I Know You're Gonna Leave](https://open.spotify.com/track/72atHIvoTlciOLigaSWvmV) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [I Know You're Gonna Leave](https://open.spotify.com/album/78SaWe92J5xBo7yf2MUU1j) | 3:09 |
-| 48 | [Know This \- Feat\. Miley Cyrus](https://open.spotify.com/track/2GcqT7vCpcFUoApmkoCqRG) | [Braison Cyrus](https://open.spotify.com/artist/6VBgMdUuX6QKDkK7pRLJx0), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Know This \(Feat\. Miley Cyrus\)](https://open.spotify.com/album/08axT6n0oyav8Y8V2JVICp) | 3:39 |
+| 48 | [Know This \(Feat\. Miley Cyrus\)](https://open.spotify.com/track/2GcqT7vCpcFUoApmkoCqRG) | [Braison Cyrus](https://open.spotify.com/artist/6VBgMdUuX6QKDkK7pRLJx0), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Know This \(Feat\. Miley Cyrus\)](https://open.spotify.com/album/08axT6n0oyav8Y8V2JVICp) | 3:39 |
 | 49 | [Blue Lights](https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 2:21 |
 | 50 | [Jack & Jill Daniel's](https://open.spotify.com/track/30leMI4jjws5W5fEZi4xde) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Jack & Jill Daniel's](https://open.spotify.com/album/5nGxwyuhD6vuC5uPVzPtm5) | 2:43 |
 | 51 | [Roll of Dice](https://open.spotify.com/track/5nZKjV0NtF6ILCy6SS0HB5) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Roll of Dice](https://open.spotify.com/album/13sS4rnukMSnAty34JOiDf) | 3:29 |

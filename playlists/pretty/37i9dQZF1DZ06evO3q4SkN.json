@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAA5kawIirB3OqG+oeVc25jf",
+  "snapshot_id": "aRJ8gAAAAAB8itsmOho83EWvzFEj/D9x",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 95853,
-      "name": "Separation Anxiety",
-      "url": "https://open.spotify.com/track/07DwLdqts4dZrfCm6sfO3k"
+      "duration_ms": 99986,
+      "name": "Adrian's Zone",
+      "url": "https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 198120,
-      "name": "Havana Flashback",
-      "url": "https://open.spotify.com/track/6ZcuL8PMsy7QWo5To1RVdG"
+      "duration_ms": 95853,
+      "name": "Separation Anxiety",
+      "url": "https://open.spotify.com/track/07DwLdqts4dZrfCm6sfO3k"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
+      "duration_ms": 198120,
+      "name": "Havana Flashback",
+      "url": "https://open.spotify.com/track/6ZcuL8PMsy7QWo5To1RVdG"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 86133,
-      "name": "Simiana Derby Race",
-      "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
+      "duration_ms": 112000,
+      "name": "George's Realization",
+      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
     },
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 99986,
-      "name": "Adrian's Zone",
-      "url": "https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "Lavando Trastos",
-      "url": "https://open.spotify.com/track/6yjlcMP1WhucM1AUDP7kVk"
+      "duration_ms": 108600,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "Lavando Trastos",
+      "url": "https://open.spotify.com/track/6yjlcMP1WhucM1AUDP7kVk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 112000,
-      "name": "George's Realization",
-      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
+      "duration_ms": 92773,
+      "name": "Ted And Felipe Arrive",
+      "url": "https://open.spotify.com/track/5luoWuuRXpjursM5bDKtGN"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 108600,
-      "name": "She's Mine",
-      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
+      "duration_ms": 102600,
+      "name": "Mother To Mother",
+      "url": "https://open.spotify.com/track/0PCLZXHh7EiqzaL5kwYoPX"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 92773,
-      "name": "Ted And Felipe Arrive",
-      "url": "https://open.spotify.com/track/5luoWuuRXpjursM5bDKtGN"
+      "duration_ms": 86133,
+      "name": "Simiana Derby Race",
+      "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 143946,
-      "name": "The Stampede",
-      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
+      "duration_ms": 140655,
+      "name": "A Real Cowboy",
+      "url": "https://open.spotify.com/track/4WT4fA8R0oE5rtuPBGLRNF"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 83293,
-      "name": "Big City Train",
-      "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
+      "duration_ms": 119346,
+      "name": "History of Lone Pine Falls",
+      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
     }
   ],
   "unique_name": "This Is Germaine Franco",

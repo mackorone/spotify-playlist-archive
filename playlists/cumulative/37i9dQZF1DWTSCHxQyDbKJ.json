@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Necessities from LGBTQIA+ artists. Cover: HAAi",
+  "description": "Necessities from LGBTQIA+ artists. Cover: kwn",
   "name": "GLOW UK & Ireland ",
   "tracks": [
     {
@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
+    },
+    {
+      "album": {
         "name": "DONT MAKE THIS WEIRD",
         "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
       },
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 214245,
       "name": "Glasgow",
       "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 200061,
       "name": "Thank Goodness",
       "url": "https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ"
@@ -4768,6 +4786,28 @@
       "duration_ms": 148690,
       "name": "Worms",
       "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
+    },
+    {
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
     },
     {
       "album": {

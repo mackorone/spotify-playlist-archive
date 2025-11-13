@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,760 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,289 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 21 | [Main Khiladi Tu Anari](https://open.spotify.com/track/75HJYgb0KguhgWBjpx5iWH) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Main Khiladi Tu Anari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK) | 6:00 |
 | 22 | [Ole Ole](https://open.spotify.com/track/4cHkNpAIlCFbNQKGHfMVaw) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yeh Dillagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ie0MgmTKE4kkyq5MCh94N) | 4:30 |
 | 23 | [Duniya Haseenon Ka Mela](https://open.spotify.com/track/02bs4xUcI9ZtAA80P5k2FW) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sunita Rao](https://open.spotify.com/artist/4Z7fgPg7xFjaIVunM0ANF2) | [Gupt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LTaahcsWeWpBGnD2iWGWa) | 6:33 |
-| 24 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:48 |
+| 24 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:17 |
 | 25 | [Neend Churayee Meri](https://open.spotify.com/track/2oVJZVH1hlxP3MxyDFRSEb) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Ishq \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kIIShUL1dcx3W9ZYoCd1H) | 5:46 |
 | 26 | [O O Jaane Jaana](https://open.spotify.com/track/7fl15uWBpbKrzrmEm48ZyP) | [Kamaal Khan](https://open.spotify.com/artist/0oXD3gW056DGEfWuEWcs7R) | [Pyaar Kiya To Darna Kya](https://open.spotify.com/album/1qvXEHskZGV4XZVBFd7lFP) | 5:45 |
 | 27 | [Too Cheez Badi Hain](https://open.spotify.com/track/6wYKL1vzI0Vwkkz4fS7ana) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Mohra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA) | 6:25 |

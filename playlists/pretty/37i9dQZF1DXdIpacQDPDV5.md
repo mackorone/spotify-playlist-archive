@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,509 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,504 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 14 | [Beto’s Horns \- fred remix](https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Beto’s Horns \(fred remix\)](https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU) | 3:46 |
 | 15 | [Diet Coke](https://open.spotify.com/track/2vKywwP4hnuJgUwAqDG8mJ) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/6uumoA4cGhqPScdve9d0Ml) | 2:35 |
 | 16 | [Where You Are](https://open.spotify.com/track/0inGMCDxu6EX9Ga6xzBlu6) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Closer](https://open.spotify.com/album/27C4TnvDfltBYqM4AxWRM7) | 3:14 |
-| 17 | [Fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
+| 17 | [fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
 | 18 | [HOW I DO IT](https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT) | [As The Pendulum Swings](https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd) | 2:28 |
 | 19 | [Holy](https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Holy](https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b) | 3:04 |
 | 20 | [Crazy](https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crazy](https://open.spotify.com/album/4Xqf8b22c4vUcl9PFEmy50) | 2:42 |

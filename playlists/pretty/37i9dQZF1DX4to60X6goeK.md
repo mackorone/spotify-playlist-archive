@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Macky Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,180 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,192 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 27 | [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 |
 | 28 | [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 |
 | 29 | [Left 2 Right](https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Left 2 Right](https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6) | 3:22 |
-| 30 | [Phases](https://open.spotify.com/track/1Vhm1THfiygNz26B13LPOn) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Phases](https://open.spotify.com/album/2AeJVj6XknSPD111VjrYgU) | 3:46 |
+| 30 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 31 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 |
-| 32 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
+| 32 | [Phases](https://open.spotify.com/track/1Vhm1THfiygNz26B13LPOn) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Phases](https://open.spotify.com/album/2AeJVj6XknSPD111VjrYgU) | 3:46 |
 | 33 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
 | 34 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
 | 35 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |

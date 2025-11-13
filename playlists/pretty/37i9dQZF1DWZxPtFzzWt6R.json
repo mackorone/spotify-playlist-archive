@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 105635,
+  "num_followers": 105672,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,26 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
+        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        },
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 274261,
+      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
         "name": "Esperan\u00e7a",
         "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 158250,
       "name": "O Crente e a Palmeira",
       "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        },
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 274261,
-      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
         "url": "https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 430816,
       "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
       "url": "https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2025-10-03 03:01:34",

@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Showdemcamp
 
-976 songs - 1 day 23 hr 24 min
+977 songs - 1 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Daylight](https://open.spotify.com/track/1RbQkmd0Y5kyAM78G86brd) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Daylight](https://open.spotify.com/album/49uRQvXnQht8Wk3mTiGjmw) | 3:30 | 2022-06-23 | 2022-07-08 |
 | [Days On The Road](https://open.spotify.com/track/5Rhg5EEsoD1JDbtwxNtdLT) | [Antoi](https://open.spotify.com/artist/30hgDcEs2QHytNksy0pRJi) | [Days On The Road](https://open.spotify.com/album/3XHnS4oHKruQJk26BFgpxe) | 2:55 | 2024-02-23 | 2024-07-12 |
 | [DEADMAN BONE \(feat\. Koffee\)](https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 | 2022-03-03 | 2022-09-16 |
-| [DEATH DO US PART](https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [DEATH DO US PART](https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a) | 3:42 | 2025-08-15 |  |
+| [DEATH DO US PART](https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [DEATH DO US PART](https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a) | 3:42 | 2025-08-15 | 2025-11-13 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 | 2023-05-05 |
 | [Deep End](https://open.spotify.com/track/0DDpQSUMPkeBIUD8GKtkLT) | [Adey](https://open.spotify.com/artist/7fhpMY84rQV2StaeBivWOI) | [Akiba](https://open.spotify.com/album/0qeoUkFuY2vTbvIwZmOkMJ) | 3:12 | 2021-02-26 | 2022-02-11 |
 | [Deep End](https://open.spotify.com/track/6w2WWyBAOXQeP6waVT9s5O) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Deep End](https://open.spotify.com/album/5lxES27OgTtXmCDhsBrvKP) | 3:22 | 2024-03-21 | 2024-03-25 |
@@ -428,6 +428,7 @@
 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 | 2024-07-05 | 2025-04-04 |
 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 | 2023-03-30 | 2023-06-17 |
 | [interplanetary](https://open.spotify.com/track/68RlQU5kqW6EZJPLx3e1ML) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [you make me feel](https://open.spotify.com/album/4EdOUzybtrtPOKZgOdLKoa) | 2:03 | 2025-05-23 | 2025-08-27 |
+| [Intoxicated](https://open.spotify.com/track/4oFUe1dYVoxGijTx6Ybbz6) | [DOLV GVNG](https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Intoxicated](https://open.spotify.com/album/0eNSPV3zRvoPObxbIu0lrn) | 1:41 | 2025-11-07 |  |
 | [Iris](https://open.spotify.com/track/0AbKXSvBYHF2KavOnTaNrU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Iris](https://open.spotify.com/album/3J3KNWVFFh6IBLyFuL0LCo) | 3:26 | 2025-04-04 | 2025-06-13 |
 | [iron sight \(feat\. Iver Rivers\)](https://open.spotify.com/track/324Buozu5QYGGRkzqNbdc9) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Iver Rivers](https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061) | [iron sight \(feat\. Iver Rivers\)](https://open.spotify.com/album/6JA4FCXa1w3ouNcEyiun8B) | 3:16 | 2025-02-14 | 2025-08-01 |
 | [Island Pink \(feat\. PsychoYP\)](https://open.spotify.com/track/4XHNGQTifbzr1R6xVGRCaW) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [PHÆWAY, VOL\. 1](https://open.spotify.com/album/44ok9Ivc710oHa0zl32cgv) | 3:22 | 2021-03-26 | 2022-04-01 |

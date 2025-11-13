@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAh3NGhEvsuUPq0ACC9Uury",
+  "snapshot_id": "aRJ8gAAAAACc/7Ojn6ZgxJcbjt6xe2W3",
   "tracks": [
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 200150,
-      "name": "Para la Reina",
-      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
+      "duration_ms": 196075,
+      "name": "El Libro de los Dioses",
+      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 196075,
-      "name": "El Libro de los Dioses",
-      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
+      "duration_ms": 200150,
+      "name": "Para la Reina",
+      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-606 songs - 1 day 14 hr 5 min
+608 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Everytime We Say Hello](https://open.spotify.com/track/4PnwjyfS2Q6Mp2ZH1vyLqF) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Everytime We Say Hello](https://open.spotify.com/album/2gKBIiQPl5DA9ftNIu7qj6) | 3:43 | 2023-11-17 | 2024-10-22 |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-17 | 2025-09-12 |
 | [Falling For Love](https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:13 | 2023-05-11 | 2025-09-12 |
+| [Familiar Turns](https://open.spotify.com/track/6WYMrSzbOZhaaKidKNC3KR) | [Chops & Coda](https://open.spotify.com/artist/6n4Dbzp4CXCS3JzkqTU5cc) | [Familiar Turns](https://open.spotify.com/album/6GQ8M4UlOdebedy2eaDBmD) | 2:17 | 2025-11-12 |  |
 | [Feathers](https://open.spotify.com/track/3YvFRSz2nrV493DaCAEEBx) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Feathers](https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o) | 3:20 | 2021-12-07 | 2025-09-12 |
 | [Featherweight](https://open.spotify.com/track/6QlS3Dv3qoei6D11JZpocp) | [Hudson Lights](https://open.spotify.com/artist/7cGZpogWiqg5xUSGTmYA7A) | [Featherweight](https://open.spotify.com/album/7MHiXGyqiPMXIcjrrGuhip) | 3:31 | 2025-09-17 |  |
 | [Fin De L'Affaire \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Hank Mobley Quintet \(Remastered\)](https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb) | 6:39 | 2021-12-07 | 2022-09-30 |
@@ -233,7 +234,7 @@
 | [I Got It Bad](https://open.spotify.com/track/7mAaoHCzBBjj3tYb1l25OH) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Got It Bad](https://open.spotify.com/album/4fifEjoLEumLNYYMlSvaan) | 4:26 | 2022-09-13 | 2023-05-26 |
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-08-17 | 2025-09-12 |
 | [I Hear You Now](https://open.spotify.com/track/6SMfs8KCyzSANk33d3cQcN) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [I Hear You Now](https://open.spotify.com/album/7KAddonNSAiDuYBlMZIYS3) | 3:43 | 2024-01-12 |  |
-| [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 |  |
+| [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 | 2025-11-13 |
 | [I Love You](https://open.spotify.com/track/1KmGXs3D1oKmVriBrJrIaA) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [I Love You](https://open.spotify.com/album/1nImZPHcIonDTwOkKKrozi) | 2:46 | 2023-11-24 | 2024-10-02 |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2021-12-07 | 2025-09-12 |
 | [I Promise to Love](https://open.spotify.com/track/19LMucy1MN241ShsoCUKia) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [I Promise to Love](https://open.spotify.com/album/44tqKaAh69xrdFN9s2TCl4) | 2:52 | 2022-08-30 | 2025-09-12 |
@@ -272,7 +273,7 @@
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2021-12-07 | 2023-08-11 |
 | [Isfahan](https://open.spotify.com/track/2k5aiRwCt4Eat9U54Lz8up) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Isfahan](https://open.spotify.com/album/6VC7itIVScZfwaNoNArgBw) | 3:00 | 2021-12-07 | 2025-10-01 |
 | [Isn't It Romantic](https://open.spotify.com/track/2loBTwDUEtNRAegOGqppeu) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Isn't It Romantic](https://open.spotify.com/album/0sj3CpTeCWPE72SO0Yp26c) | 4:11 | 2021-12-07 | 2022-04-13 |
-| [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-01 |  |
+| [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-01 | 2025-11-13 |
 | [It's you isn't it](https://open.spotify.com/track/3o1Biafic3dkiM7MTNl2KD) | [Ruben Haag](https://open.spotify.com/artist/3NjBBPVfXFdaxSbazeEJJ0) | [Bonez](https://open.spotify.com/album/0V8s97HGbsotWRN6r7iqVL) | 3:49 | 2021-12-07 | 2022-04-27 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [I’m on break](https://open.spotify.com/track/0jfJ3aLp2fGnPRMbd4Se26) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [I’m on break](https://open.spotify.com/album/4dbCv4JQcIKYHDQDkaCcjm) | 2:39 | 2023-08-17 | 2024-11-12 |
@@ -567,6 +568,7 @@
 | [Wallflower](https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Wallflower](https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK) | 3:40 | 2023-09-29 |  |
 | [Waltz For Ola](https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:14 | 2022-11-10 | 2025-10-01 |
 | [Wanderer](https://open.spotify.com/track/3OmfaRWLdT1itOR1B9o5hH) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Wanderer](https://open.spotify.com/album/0oKlBmIeoGk6AcrieTkQ7s) | 3:19 | 2025-10-07 |  |
+| [Wardour Street](https://open.spotify.com/track/0fnedCugQXYbkoby0dUHHt) | [Levi Hollis](https://open.spotify.com/artist/1qX2ZmbjKsrW9gAqmJXvJg) | [Wardour Street](https://open.spotify.com/album/2fI8OSSlrizKuwxm3K9GBn) | 4:43 | 2025-11-12 |  |
 | [Was It Me?](https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Was It Me?](https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv) | 4:21 | 2023-12-08 | 2025-09-12 |
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-08-30 | 2025-09-12 |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 | 2025-09-12 |

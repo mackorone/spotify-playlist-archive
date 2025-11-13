@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,654 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,823 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 37 | [Pac\-Man \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:12 |
 | 38 | [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 |
 | 39 | [Fire Flies](https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:53 |
-| 40 | [Strobelite \(feat\. Peven Everett\)](https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:32 |
+| 40 | [Re\-Hash](https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:40 |
 | 41 | [The Valley of The Pagans \(feat\. Beck\)](https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:01 |
-| 42 | [Re\-Hash](https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:40 |
+| 42 | [Strobelite \(feat\. Peven Everett\)](https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:32 |
 | 43 | [Kansas](https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:08 |
 | 44 | [Doncamatic \(feat\. Daley\)](https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Doncamatic \(feat\. Daley\) \[The Joker Remix\]](https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W) | 3:22 |
 | 45 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5h5FY6vmtDpgXF91BUexO0) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Désolé \(feat\. Fatoumata Diawara\) \- Extended Version](https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 5:33 |
 | 50 | [We Got the Power \(feat\. Jehnny Beth\) \- Claptone Remix](https://open.spotify.com/track/68JZIPnGZxbExNeSb6KslW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [We Got the Power \(feat\. Jehnny Beth\) \[Claptone Remix\]](https://open.spotify.com/album/06RqqeArD7wnwaNBZrY71a) | 6:04 |
 
-Snapshot ID: `aRErAAAAAADZMacBkc+sjPa7k3JaSBoE`
+Snapshot ID: `aRJ8gAAAAAC4C83OycBHwnlg2GEWfiG3`

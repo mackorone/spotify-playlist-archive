@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 74 | [Call me baby](https://open.spotify.com/track/4eGjEmszXmCXXihZxzCRLG) | [monolisa](https://open.spotify.com/artist/2fzeZ8TWvV4nKiruUKeLHt) | [Call me baby](https://open.spotify.com/album/64CyLN3vwARx2Eh8sgHyRb) | 3:52 |
 | 75 | [Вальс](https://open.spotify.com/track/49Y7XtTjNGA7kt37iIDViv) | [Panteyaa](https://open.spotify.com/artist/6EBzs3DnHwCFRhIN13SZtE) | [Вальс](https://open.spotify.com/album/6ZQLfl29F8Kq7gqdjtPGVG) | 2:26 |
 
-Snapshot ID: `AAAAAABoDVKOrnHcPynvVqUrgNpI2jpx`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,615,829 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,615,542 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 17 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 18 | [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 |
 | 19 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
-| 20 | [Fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
+| 20 | [fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 |
 | 21 | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 |
 | 22 | [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 |
 | 23 | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd) | 4:08 |

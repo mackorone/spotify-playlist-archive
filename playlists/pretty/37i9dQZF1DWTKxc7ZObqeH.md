@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing Jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,182 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,172 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 11 | [Younger Than Springtime](https://open.spotify.com/track/1ZpBuSsDgudYCcYB40dFWm) | [Chestnut Street Trio](https://open.spotify.com/artist/2XyIoQNaBNpu3ucMG4euc8) | [Younger Than Springtime](https://open.spotify.com/album/0x77MXLgRQ4lJSc0YEeZ4T) | 3:43 |
 | 12 | [If we don't meet again](https://open.spotify.com/track/5QSXWwxMRtDDdiSiH5CcWB) | [Trio in Transit](https://open.spotify.com/artist/5N4Y1kGWdM70gOzO41lvk1) | [If we don't meet again](https://open.spotify.com/album/5RUKXQ3Z5KIeWu6gZxCjGV) | 3:28 |
 | 13 | [My Invitation](https://open.spotify.com/track/1hoIJarUXDtPDiQxw4GKlG) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [My Invitation](https://open.spotify.com/album/6gPcS0XkKq7xfEaO5AupT2) | 3:26 |
-| 14 | [Silent Conversations](https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Silent Conversations](https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix) | 3:30 |
+| 14 | [Silent Conversations](https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Silent Conversations](https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix) | 3:30 |
 | 15 | [You’re Always Waiting](https://open.spotify.com/track/6zDxfk0SAZnMVX4fvQ4Z2c) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [You’re Always Waiting](https://open.spotify.com/album/1YNaoKQbG6i4xKUB7YQ2yQ) | 2:39 |
 | 16 | [As Long As You Will Be There](https://open.spotify.com/track/6q0GMizOAHat4I2timWhBD) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [As Long As You Will Be There](https://open.spotify.com/album/0RXGLqaERL0lQxJZBOEchh) | 3:57 |
 | 17 | [Memories of Old](https://open.spotify.com/track/5aBvwMKUJXUd3qF2eJ83Um) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Memories of Old](https://open.spotify.com/album/1Vu3jZXLUu3amLJyxIH71P) | 3:28 |

@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Malibu",
-  "num_followers": 133187,
+  "num_followers": 133233,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 218773,
       "name": "Suosan",
       "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Virga (feat. Darlingside)",
         "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 382867,
       "name": "Virga (feat. Darlingside)",
       "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -927,22 +927,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+        "name": "Analemma",
+        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
       },
       "artists": [
         {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        },
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 185834,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -967,18 +963,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Analemma",
-        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        },
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
         }
       ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
+      "duration_ms": 185834,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "until all are free",
-        "url": "https://open.spotify.com/album/6xCbR0Jj7Sv99FELiluFHw"
-      },
-      "artists": [
-        {
-          "name": "Jessica Moss",
-          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "until all are free",
-      "url": "https://open.spotify.com/track/0UrZM7tm4R6F4Kl9yfzEFp"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Duality Pt 2 Peace",
         "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 144500,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "until all are free",
+        "url": "https://open.spotify.com/album/6xCbR0Jj7Sv99FELiluFHw"
+      },
+      "artists": [
+        {
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "until all are free",
+      "url": "https://open.spotify.com/track/0UrZM7tm4R6F4Kl9yfzEFp"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 400000,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "PLEASE COME TO ME",
         "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 344491,
       "name": "Only Wish",
       "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Big Majestic",
-        "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
-      },
-      "artists": [
-        {
-          "name": "Ellen Reid",
-          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Big Majestic",
-      "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+        "name": "Big Majestic",
+        "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
       },
       "artists": [
         {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
         }
       ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+      "duration_ms": 290250,
+      "name": "Big Majestic",
+      "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2025-11-06 10:55:12",

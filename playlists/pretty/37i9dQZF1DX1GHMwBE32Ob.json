@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Bhadboi OML",
-  "num_followers": 118558,
+  "num_followers": 118641,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-11-07 00:01:37",
       "album": {
+        "name": "MAFFIAN",
+        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Are you there?",
+      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
+    },
+    {
+      "added_at": "2025-11-07 00:01:37",
+      "album": {
         "name": "Dangbana Riddim",
         "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
-    },
-    {
-      "added_at": "2025-11-07 00:01:37",
-      "album": {
-        "name": "MAFFIAN",
-        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Are you there?",
-      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
     },
     {
       "added_at": "2025-11-07 00:01:37",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-11-07 00:01:37",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-11-07 00:01:37",
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 140240,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": "2025-11-07 00:01:37",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-11-07 00:01:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-11-07 00:01:37",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2025-11-07 00:01:37",
-      "album": {
         "name": "Shoday Kilode",
         "url": "https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 131092,
       "name": "Shoday Kilode",
       "url": "https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp"
+    },
+    {
+      "added_at": "2025-11-07 00:01:37",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2025-11-07 00:01:37",
@@ -775,18 +775,22 @@
     {
       "added_at": "2025-11-07 00:01:37",
       "album": {
-        "name": "Spaghetti",
-        "url": "https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx"
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 138947,
-      "name": "Spaghetti",
-      "url": "https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt"
+      "duration_ms": 164745,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
     },
     {
       "added_at": "2025-11-07 00:01:37",
@@ -807,6 +811,22 @@
     {
       "added_at": "2025-11-07 00:01:37",
       "album": {
+        "name": "Spaghetti",
+        "url": "https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Spaghetti",
+      "url": "https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt"
+    },
+    {
+      "added_at": "2025-11-07 00:01:37",
+      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 133043,
       "name": "Too Busy",
       "url": "https://open.spotify.com/track/22l3YPQhWkphT3FWJL7heC"
-    },
-    {
-      "added_at": "2025-11-07 00:01:37",
-      "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
     },
     {
       "added_at": "2025-11-07 00:01:37",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-11-07 00:01:37",
       "album": {
-        "name": "Hot Hot",
-        "url": "https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 143232,
-      "name": "Hot Hot",
-      "url": "https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6"
-    },
-    {
-      "added_at": "2025-11-07 00:01:37",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2025-11-07 00:01:37",
+      "album": {
+        "name": "Hot Hot",
+        "url": "https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 143232,
+      "name": "Hot Hot",
+      "url": "https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6"
     },
     {
       "added_at": "2025-11-07 00:01:37",

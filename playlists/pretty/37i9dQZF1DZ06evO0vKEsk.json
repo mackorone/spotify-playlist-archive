@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133032,
+  "num_followers": 133034,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAClHuc4McmJKvhYyRui/UJu",
+  "snapshot_id": "aRJ8gAAAAAACNsQ+5grO/5M7y7a86AfL",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
       "duration_ms": 327318,
       "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque Creio em Ti (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PqSfdNtdjfAD04B8Xug5f"
+      },
+      "artists": [
+        {
+          "name": "Quatro por Um",
+          "url": "https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 300672,
+      "name": "Porque Creio em Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/0p9rykIa6q6WOrWGrZSSKB"
     },
     {
       "added_at": null,
@@ -408,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 266286,
-      "name": "Que Bom Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
+      "duration_ms": 331070,
+      "name": "Pai Eu Confiarei",
+      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
     },
     {
       "added_at": null,
@@ -480,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 331070,
-      "name": "Pai Eu Confiarei",
-      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
+      "duration_ms": 266286,
+      "name": "Que Bom Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
     },
     {
       "added_at": null,
@@ -695,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+        "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
       "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+      "duration_ms": 467647,
+      "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
     },
     {
       "added_at": null,
@@ -731,28 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 467647,
-      "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive In (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
       "artists": [
         {
@@ -760,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 298388,
-      "name": "Deus da Gra\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,
@@ -779,6 +783,22 @@
       "duration_ms": 248407,
       "name": "Apaixonado Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 298388,
+      "name": "Deus da Gra\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
     },
     {
       "added_at": null,
@@ -815,22 +835,6 @@
       "duration_ms": 333002,
       "name": "Marca da Promessa - Ao Vivo",
       "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": null,
@@ -875,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
       },
@@ -907,22 +927,6 @@
       "duration_ms": 268887,
       "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
       "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siga em Frente",
-        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 214041,
-      "name": "Cante Aleluia",
-      "url": "https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82"
     }
   ],
   "unique_name": "This Is Bruna Karla",

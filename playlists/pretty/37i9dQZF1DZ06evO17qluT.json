@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 93233,
+  "num_followers": 93368,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABVpJe9g8rlNso7qKRPCnvz",
+  "snapshot_id": "aRJ8gAAAAADUgvYrMn5+++OGDkmGndvA",
   "tracks": [
     {
       "added_at": null,
@@ -507,34 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Odeio o Dia dos Namorados",
-        "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
-        },
-        {
-          "name": "MUC4",
-          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "N\u00e3o Me Abandona",
-      "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pir\u00e2mide Perdida, Vol. 7",
         "url": "https://open.spotify.com/album/1qLUIhTnDRJCY5ZzSacLuj"
       },
@@ -563,6 +535,34 @@
       "duration_ms": 201190,
       "name": "Dispiei",
       "url": "https://open.spotify.com/track/6NAj1vwio7YjCVtUaQTOQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Odeio o Dia dos Namorados",
+        "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        },
+        {
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "N\u00e3o Me Abandona",
+      "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
     },
     {
       "added_at": null,

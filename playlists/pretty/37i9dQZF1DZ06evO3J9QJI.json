@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADo+asQpEb5u1LMly+WbkiS",
+  "snapshot_id": "aRJ8gAAAAABQu0LiorVuPn22Ha65aiAx",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Informal Introduction: Classic Edition",
+        "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
+      },
+      "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 280649,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 278200,
       "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
       "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Informal Introduction: Classic Edition",
-        "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
-      },
-      "artists": [
-        {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 280649,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Irv Gotti Presents: The Murderers",
+        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
+      },
+      "artists": [
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 233773,
       "name": "Here We Come",
       "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irv Gotti Presents: The Murderers",
-        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
-      },
-      "artists": [
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Delaware State University's own <a href="spotify:artist:2qAwMsiIjTzlmfAkXKvhVA">Armani White</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,561 likes - 61 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,622 likes - 61 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 31 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 |
 | 32 | [Slippery \(feat\. Gucci Mane\)](https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:04 |
 | 33 | [Grove St\. Party \(feat\. Kebo Gotti\)](https://open.spotify.com/track/2e9EZ2V5QGGZPMJacO3y0Y) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Kebo Gotti](https://open.spotify.com/artist/00UOluVoYY4F2blO5DmgRj) | [Flockaveli](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) | 4:10 |
-| 34 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
+| 34 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:03 |
 | 35 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
 | 36 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 |
 | 37 | [TTSO\. FREESTYLE](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 |

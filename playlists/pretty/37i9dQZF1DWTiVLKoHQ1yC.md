@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,940 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,985 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 19 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 |
 | 20 | [Chasing Ghosts](https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Chasing Ghosts](https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4) | 4:12 |
 | 21 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
-| 22 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
-| 23 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
+| 22 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
+| 23 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
 | 24 | [Love’s A Game](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love’s A Game](https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd) | 3:26 |
 | 25 | [Midnight Sun](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Midnight Sun](https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ) | 3:24 |
 | 26 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 55 | [Mirage](https://open.spotify.com/track/63JXEbhoCRypjCULbjX8Qw) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreams At Dusk Part I \- Mirage](https://open.spotify.com/album/1qf6lnED6A9YmsNLXfzfLJ) | 3:37 |
 | 56 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
 | 57 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
-| 58 | [Nirvana](https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Nirvana](https://open.spotify.com/album/1ZohrB8KSfWMc0yNkymR93) | 3:42 |
-| 59 | [Seventeen](https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Seventeen](https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3) | 3:23 |
+| 58 | [Seventeen](https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Seventeen](https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3) | 3:23 |
+| 59 | [Nirvana](https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Nirvana](https://open.spotify.com/album/1ZohrB8KSfWMc0yNkymR93) | 3:42 |
 | 60 | [It Feels Different Now](https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [It Feels Different Now](https://open.spotify.com/album/6t4sjy5ObPiOqraABIxjWk) | 3:14 |
 
 Snapshot ID: `AAAAAPy1mx0L5ZMMlnU1tEtc64GYVqzf`

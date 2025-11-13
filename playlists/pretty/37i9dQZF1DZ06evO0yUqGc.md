@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,421 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,468 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 30 | [Chinese](https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:28 |
 | 31 | [Apples](https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:39 |
 | 32 | [Smile \- Acoustic](https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Smile](https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku) | 3:20 |
-| 33 | [Friend of Mine](https://open.spotify.com/track/3w4CigxQLsjSd2Az4eR4B5) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:57 |
+| 33 | [Friday Night](https://open.spotify.com/track/0v8bPECK6FcZ5uwipUn3MX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:06 |
 | 34 | [Him](https://open.spotify.com/track/3XbSdPCqIfK0BOOjqtNdfa) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:18 |
 | 35 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 |
 | 36 | [Just Be Good To Green](https://open.spotify.com/track/5Wi5AUAI4YKRYNYI8XLLG3) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alive Till I'm Dead](https://open.spotify.com/album/0iVnRHjr6fAOojkgjxnJVO) | 3:24 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 42 | [Insincerely Yours](https://open.spotify.com/track/0mP0wBDvB6NFtgwo89eOJX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:39 |
 | 43 | [Drivin' Me Wild](https://open.spotify.com/track/1UvHbGEsb66bPueCDFUgJS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 3:42 |
 
-Snapshot ID: `aRErAAAAAAD0NcV51Bjv9QM1VxkTBaq3`
+Snapshot ID: `aRJ8gAAAAADz0OgW5dqiFmWiURAcXFZu`

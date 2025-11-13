@@ -4,7 +4,7 @@
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 13 min
+56 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Blues Ciego](https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:39 | 2023-08-25 |  |
 | [Cambia Esa Cara](https://open.spotify.com/track/4Xiph5Fmh21XoRTzge0l3y) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:08 | 2023-08-25 |  |
 | [Caras Maquilladas](https://open.spotify.com/track/0svWbaRgTAjKBEU2a0axfS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:32 | 2023-08-25 |  |
-| [Decir adiós](https://open.spotify.com/track/7c6Zu7NeLHWy4r3ztZuT0G) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:59 | 2023-08-25 |  |
+| [Decir Adiós](https://open.spotify.com/track/1snT64YtuTvZYVzuornRjw) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:52 | 2025-11-13 |  |
+| [Decir adiós](https://open.spotify.com/track/7c6Zu7NeLHWy4r3ztZuT0G) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:59 | 2023-08-25 | 2025-11-13 |
 | [Despierten](https://open.spotify.com/track/6P4H2ugc3v2fYV8bds4bkc) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 6:14 | 2025-03-30 |  |
 | [Despierten](https://open.spotify.com/track/4bnaFMP9HTgIFVTBXJM0ju) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Despierten](https://open.spotify.com/album/1qWSjGC7gRdMMcJoowJTK7) | 6:14 | 2023-08-25 | 2025-03-30 |
 | [Dilo por Mí](https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:10 | 2023-08-25 |  |
@@ -46,6 +47,7 @@
 | [No Me Estoy Quemando](https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 4:13 | 2023-08-25 |  |
 | [No Sé Por qué](https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [No Sé Por qué](https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY) | 2:16 | 2023-08-25 |  |
 | [Pan con mantequilla](https://open.spotify.com/track/4weOiHbItjLGTSB6ZHpXOA) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:42 | 2023-08-25 |  |
+| [Paz](https://open.spotify.com/track/43pAsE9P0mYGrIxK0ABdXR) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:41 | 2025-11-13 |  |
 | [Por amor](https://open.spotify.com/track/3OJ8elwnqmeJVMlOoU9HyN) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 4:39 | 2023-08-25 |  |
 | [Rutas](https://open.spotify.com/track/5DOYgPZq11EUB4T4DxNWvK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Rutas](https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd) | 4:16 | 2024-01-06 |  |
 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 | 2023-08-25 |  |
@@ -60,7 +62,7 @@
 | [Una Canción por Dios](https://open.spotify.com/track/06KTyxDHBsb71AYAbb0J1N) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:50 | 2023-08-25 |  |
 | [Viejas Historias](https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:39 | 2023-08-25 |  |
 | [Y Solo Yo Quiero \(La Chata\)](https://open.spotify.com/track/7EQkbWo1xv3Lf4kE1aIrXg) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:54 | 2023-08-25 |  |
-| [Yo No Vivo de los Demás](https://open.spotify.com/track/1rGlnEKMpLYM2qVEYXejyv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 2:55 | 2023-08-30 |  |
+| [Yo No Vivo de los Demás](https://open.spotify.com/track/1rGlnEKMpLYM2qVEYXejyv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 2:55 | 2023-08-30 | 2025-11-13 |
 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 | 2023-08-27 |  |
 
 \*This playlist was first scraped on 2023-08-26. Prior content cannot be recovered.

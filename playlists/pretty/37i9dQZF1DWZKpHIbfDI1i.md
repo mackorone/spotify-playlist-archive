@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Ximena Sariñana en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,404 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,459 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 51 | [Tu Nunca Lo Sabrás \(Versión Cumbia\)](https://open.spotify.com/track/7nd0pe3OCrz2HfsuYxHmIw) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca), [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Tu Nunca Lo Sabrás \(Versión Cumbia\)](https://open.spotify.com/album/3kZP79R86LZxnLIU1FGcCa) | 3:05 |
 | 52 | [Piedras a la Luna](https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:12 |
 | 53 | [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 |
-| 54 | [El Despertador](https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Despertador](https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip) | 2:51 |
-| 55 | [Relojito Cartier](https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:41 |
-| 56 | [ALO](https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [ALO](https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW) | 3:08 |
+| 54 | [ALO](https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [ALO](https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW) | 3:08 |
+| 55 | [El Despertador](https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Despertador](https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip) | 2:51 |
+| 56 | [Relojito Cartier](https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:41 |
 | 57 | [+ Perra + Bitch](https://open.spotify.com/track/0T1BVEf9OOT5YolK9xqljP) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [+ Perra + Bitch](https://open.spotify.com/album/39RFBiFmGH0p3npriZ7PJc) | 3:18 |
 | 58 | [PERDIDO](https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [PERDIDO](https://open.spotify.com/album/1bySzNQNPElENKhS564NkO) | 2:36 |
 | 59 | [Campo De Fuerza](https://open.spotify.com/track/1m38lWWKzmJqykCVawumPP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Campo De Fuerza](https://open.spotify.com/album/6IhAlXYc7SpLasMhtu645D) | 4:38 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 65 | [Rexsexex](https://open.spotify.com/track/4hof8Zyvn8QvkkCWt5HAY0) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rexsexex](https://open.spotify.com/album/0N75pJ0usO4zBt08Z5wSWj) | 4:12 |
 | 66 | [DPM](https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [DPM](https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH) | 3:33 |
 | 67 | [Mi Carnal](https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Carnal](https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo) | 2:48 |
-| 68 | [Lo Que Construimos](https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Construimos](https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz) | 3:30 |
-| 69 | [VIBRA PERFECTA](https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [VIBRA PERFECTA](https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI) | 2:28 |
+| 68 | [VIBRA PERFECTA](https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [VIBRA PERFECTA](https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI) | 2:28 |
+| 69 | [Lo Que Construimos](https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Construimos](https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz) | 3:30 |
 | 70 | [la vuelta](https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [la vuelta](https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD) | 3:19 |
 | 71 | [La Blindada](https://open.spotify.com/track/20R5Q4VGBfDpsX51M6U0Jk) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [OMNI](https://open.spotify.com/album/7DM14YL838M0SuNf2GKR99) | 3:21 |
 | 72 | [Y SI TE VAS](https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Y SI TE VAS](https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL) | 2:57 |
-| 73 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
-| 74 | [Querida Socia \- En Vivo Desde la Plaza de Toros la México \- Spotify Singles](https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Querida Socia \(En Vivo Desde la Plaza de Toros la México \- Spotify Singles\)](https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K) | 3:09 |
-| 75 | [Larga Vida](https://open.spotify.com/track/7wDDpvr6MwQ5OzGAVSCN5l) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [VIDA...](https://open.spotify.com/album/2HFHpZvlhuCotOkAQaclQj) | 2:52 |
+| 73 | [Larga Vida](https://open.spotify.com/track/7wDDpvr6MwQ5OzGAVSCN5l) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [VIDA...](https://open.spotify.com/album/2HFHpZvlhuCotOkAQaclQj) | 2:52 |
+| 74 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
+| 75 | [Querida Socia \- En Vivo Desde la Plaza de Toros la México \- Spotify Singles](https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Querida Socia \(En Vivo Desde la Plaza de Toros la México \- Spotify Singles\)](https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K) | 3:09 |
 
 Snapshot ID: `AAAAALuz9sNwkcW8bAd0NFCQeZfUtxLG`

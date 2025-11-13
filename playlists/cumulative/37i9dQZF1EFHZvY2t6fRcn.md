@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-197 songs - 10 hr 44 min
+198 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Out Of 10](https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [10 Out Of 10](https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi) | 3:05 | 2025-02-09 |  |
+| [2 Little 2 Late](https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [2 Little 2 Late](https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF) | 2:51 | 2025-11-12 |  |
 | [50ft.](https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [50ft.](https://open.spotify.com/album/029JHv262PSXojxqywHDwr) | 3:05 | 2021-12-27 |  |
 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 | 2023-12-13 | 2025-03-31 |
 | [Actress](https://open.spotify.com/track/4zgIOCDE23hczp6120IZ5N) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 3:58 | 2025-03-30 |  |

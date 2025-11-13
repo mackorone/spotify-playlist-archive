@@ -4,7 +4,7 @@
 
 > Giorgia in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,270 songs - 4 day 20 hr 25 min
+2,271 songs - 4 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,6 +1194,7 @@
 | [MACHINE GIRL](https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [MACHINE GIRL](https://open.spotify.com/album/0KkwEi1iuPDwmFI9FInQW8) | 2:36 | 2025-02-28 | 2025-03-28 |
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-05-29 | 2025-06-27 |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 | 2025-07-25 |
+| [Mademoiselle](https://open.spotify.com/track/0UxG5nZAvywjp9pGrnd9Sr) | [Disco Club Paradiso](https://open.spotify.com/artist/45tjTaIY56HcSaLJLUmlut) | [Mademoiselle](https://open.spotify.com/album/2qDYi2yV5JgoUKKIb2Uu0c) | 2:56 | 2025-11-11 |  |
 | [Madonna di Campiglio \(feat\. J\-AX\)](https://open.spotify.com/track/7q23nkL2MTF2dCQI2lbeGQ) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71), [DJ Matrix](https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Madonna di Campiglio \(feat\. J\-AX\)](https://open.spotify.com/album/4oTE1CTXO77jiSYvTJ9iWU) | 2:41 | 2024-11-14 | 2024-12-13 |
 | [MADRID](https://open.spotify.com/track/5sbU31CmaRePrVYr8bARhE) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [MADRID](https://open.spotify.com/album/6W1uDUWHc2fI4hlTI9HCxo) | 2:34 | 2024-11-14 | 2024-12-13 |
 | [Magico… di notte \- Pekka Remix](https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq), [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [Magico… di notte \(Pekka Remix\)](https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4) | 3:03 | 2025-06-05 | 2025-07-04 |

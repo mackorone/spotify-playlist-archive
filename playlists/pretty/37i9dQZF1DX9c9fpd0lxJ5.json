@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 444995,
+  "num_followers": 444969,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -291,8 +291,8 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Provincia",
-      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -379,8 +379,8 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
       },
       "artists": [
         {
@@ -388,25 +388,9 @@
           "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "costas de coral",
-        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "costas de coral",
-      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
+      "duration_ms": 195200,
+      "name": "Provincia",
+      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -423,6 +407,22 @@
       "duration_ms": 160106,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -479,26 +479,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Bailando mal",
-        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
-      },
-      "artists": [
-        {
-          "name": "ELYELLA",
-          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 204193,
-      "name": "Bailando mal",
-      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Bailando mal",
+        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
+      },
+      "artists": [
+        {
+          "name": "ELYELLA",
+          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 204193,
+      "name": "Bailando mal",
+      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Where Do You Go?",
-        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
+        "name": "maracuy\u00e1",
+        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
       },
       "artists": [
         {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
         }
       ],
-      "duration_ms": 147067,
-      "name": "Where Do You Go?",
-      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
+      "duration_ms": 138500,
+      "name": "maracuy\u00e1",
+      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "maracuy\u00e1",
-        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+        "name": "Where Do You Go?",
+        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
         }
       ],
-      "duration_ms": 138500,
-      "name": "maracuy\u00e1",
-      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
+      "duration_ms": 147067,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "Puente",
+        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "Hasta M\u00e1laga",
         "url": "https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx"
       },
@@ -919,6 +935,38 @@
       "duration_ms": 148229,
       "name": "Hasta M\u00e1laga",
       "url": "https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -943,34 +991,18 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Puente",
-        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
         }
       ],
-      "duration_ms": 180746,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+      "duration_ms": 168205,
+      "name": "Intr\u00e9pida",
+      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -991,22 +1023,6 @@
       "duration_ms": 215807,
       "name": "Ya no nos hablamos",
       "url": "https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Intr\u00e9pida",
-      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1115,38 +1131,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Volver A Empezar",
         "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 185007,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Coraz\u00f3n Extra\u00f1o",
         "url": "https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 185007,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Primer encuentro",
-        "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
       },
       "artists": [
         {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        },
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 246598,
-      "name": "Primer encuentro",
-      "url": "https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV"
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+        "name": "Primer encuentro",
+        "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
         }
       ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+      "duration_ms": 246598,
+      "name": "Primer encuentro",
+      "url": "https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Te conoc\u00ed",
-        "url": "https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 208332,
-      "name": "Te conoc\u00ed",
-      "url": "https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 178285,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Te conoc\u00ed",
+        "url": "https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 208332,
+      "name": "Te conoc\u00ed",
+      "url": "https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Claro",
         "url": "https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 243245,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i"
     },
     {
       "added_at": "2025-10-24 04:00:24",

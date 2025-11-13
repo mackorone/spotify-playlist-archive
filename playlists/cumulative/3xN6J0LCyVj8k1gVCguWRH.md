@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,430 songs - 12 day 15 hr 25 min
+5,431 songs - 12 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2156,6 +2156,7 @@
 | [Hymn for the Weekend](https://open.spotify.com/track/0Z7as66E9OMzbzBLWjSrsK) | [Vyel](https://open.spotify.com/artist/5xmehWlamvEZUh99hiIL7e), [Sophia Omarji](https://open.spotify.com/artist/2HzMzyebh8gjbYY3wq83cb) | [Hymn for the Weekend](https://open.spotify.com/album/0NcrasByOaGJRN1zECaLNE) | 4:07 | 2024-08-31 | 2024-09-12 |
 | [Hymn for the Weekend](https://open.spotify.com/track/2T8ORGKfqiml42VOmPvINJ) | [Vyel](https://open.spotify.com/artist/5xmehWlamvEZUh99hiIL7e), [Sophia Omarji](https://open.spotify.com/artist/2HzMzyebh8gjbYY3wq83cb) | [Hymn for the Weekend](https://open.spotify.com/album/6yTcAT2KFH66g7TONUisW5) | 4:07 | 2021-05-14 | 2021-05-30 |
 | [Hypeman](https://open.spotify.com/track/6QaYVH17E7T2Emfoqm5VQo) | [Marc.Made](https://open.spotify.com/artist/0RetzfhhE2S55u8bGEoySv) | [Hypeman](https://open.spotify.com/album/6zPVzW0VJ89CBU3ocwD4Qu) | 3:16 | 2020-12-04 | 2020-12-19 |
+| [Hypnotize](https://open.spotify.com/track/18mZ0jyw3dAWDgYUeTEQYD) | [Lala Chloe](https://open.spotify.com/artist/777UkFnLnvKiAJqlecalxh) | [Hypnotize](https://open.spotify.com/album/0fTacOnCz5mHZNdvbhzz97) | 4:15 | 2025-11-12 |  |
 | [Hypnotized](https://open.spotify.com/track/4geBj8XbdKnVsw0y01bjLs) | [Band of Coyotes](https://open.spotify.com/artist/2q1a1UBuTh6weuuYsS4ibO) | [Hypnotized](https://open.spotify.com/album/5f6RMf6MuEejpFp5Bwb4bR) | 4:12 | 2024-09-27 | 2024-10-01 |
 | [Hypocrite](https://open.spotify.com/track/32TAddif0f0MlSbqVPOFgT) | [Allison Park](https://open.spotify.com/artist/5N1vEfUa50Brm3ciG2zZ7h) | [Hypocrite](https://open.spotify.com/album/1FlEhyKp6xOCPX5JC0nSyJ) | 4:09 | 2025-04-16 | 2025-05-08 |
 | [Hypocrite](https://open.spotify.com/track/5HiTnO0TxjIR5wWFoiQlT5) | [Compass](https://open.spotify.com/artist/0IeDag6Mjm397glEJwhKeA) | [Hypocrite](https://open.spotify.com/album/4uc50ROh0H3eNkS2sPDqoK) | 3:08 | 2023-04-03 | 2023-04-23 |
@@ -4581,7 +4582,7 @@
 | [tbh](https://open.spotify.com/track/0cKC6bA7NiX7ogWa60zscP) | [posey la fleur](https://open.spotify.com/artist/3zQQgVpdMhdMVXy3Y44Tjl), [Harry Terrell](https://open.spotify.com/artist/5Oxfk1Wef9jleoHFZEQKpd) | [tbh](https://open.spotify.com/album/7EJdrvQCIzwrKmsotU6BNa) | 3:25 | 2024-07-19 | 2024-08-01 |
 | [Te llame](https://open.spotify.com/track/4HKIskp2EGVQlWwxSfN6K3) | [J.Abel](https://open.spotify.com/artist/3X8slEHF7s9oBLoaZvcAOP) | [Te llame](https://open.spotify.com/album/3UpCn5VRWtwwWeM53wP5NR) | 2:34 | 2024-09-07 | 2024-09-19 |
 | [Te Odio\. Te Amo.](https://open.spotify.com/track/5ingw1HJZHGeR3XH3uD4qk) | [Yovanna Ventura](https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L) | [Te Odio\. Te Amo.](https://open.spotify.com/album/4r410t9vgZ6qgpTbQLf3RZ) | 3:06 | 2024-07-09 | 2024-07-23 |
-| [te quiero no te quiero](https://open.spotify.com/track/3wyGulC7jRzN574dPgcrje) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [te quiero no te quiero](https://open.spotify.com/album/4En6EUGkNrwRyXh5L4FA96) | 2:00 | 2025-10-12 |  |
+| [te quiero no te quiero](https://open.spotify.com/track/3wyGulC7jRzN574dPgcrje) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [te quiero no te quiero](https://open.spotify.com/album/4En6EUGkNrwRyXh5L4FA96) | 2:00 | 2025-10-12 | 2025-11-13 |
 | [Te Quiero Ver](https://open.spotify.com/track/4OPZnwJzfm6GGljxtRPV1m) | [Stefany](https://open.spotify.com/artist/6bfhI8OUv54wrI4BgmjPAU) | [Te Quiero Ver](https://open.spotify.com/album/4Et3YYuo74V6oX87hXDahb) | 2:30 | 2024-02-26 | 2024-03-05 |
 | [Te Solté la Rienda](https://open.spotify.com/track/29E8A1IIi03J3g4Fj12Qjn) | [Román Mosteiro](https://open.spotify.com/artist/6jCM8O5dwhpKtR6ZFxjYXv) | [Te Solté la Rienda](https://open.spotify.com/album/4o1qSiXUrGGiRkUHdPI4WS) | 3:08 | 2025-03-28 | 2025-04-09 |
 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-07-04 | 2025-07-21 |

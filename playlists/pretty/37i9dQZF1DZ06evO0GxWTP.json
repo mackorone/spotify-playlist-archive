@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20671,
+  "num_followers": 20673,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAApIxriNZm3xXocUR5QHMLC",
+  "snapshot_id": "aRJ8gAAAAAD92jxebVddPsIx2iJZdCv9",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wangedrag",
-        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 121889,
-      "name": "Wangedrag",
-      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },
@@ -83,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entourage",
-        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+        "name": "Wangedrag",
+        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
       },
       "artists": [
         {
@@ -92,9 +76,9 @@
           "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 129433,
-      "name": "Entourage",
-      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
+      "duration_ms": 121889,
+      "name": "Wangedrag",
+      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
     },
     {
       "added_at": null,
@@ -123,6 +107,22 @@
       "duration_ms": 140202,
       "name": "Vader & zoon - Remix",
       "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
       "added_at": null,

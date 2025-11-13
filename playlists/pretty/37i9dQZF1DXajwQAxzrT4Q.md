@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,333 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,346 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 21 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 22 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 23 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
-| 24 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 |
-| 25 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 |
+| 24 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 |
+| 25 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 |
 | 26 | [Veggie Dance \- Remix](https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Veggie Dance \(Remix\)](https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2) | 1:52 |
 | 27 | [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 |
 | 28 | [MOVE YO BODY](https://open.spotify.com/track/2R0EsT9xG37tlQLDDztqJN) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY](https://open.spotify.com/album/7LCVBllSs6ZG5ytN1Y4hep) | 2:08 |

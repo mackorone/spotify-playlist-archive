@@ -4131,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "Pollyanna",
+        "url": "https://open.spotify.com/album/2LXR2618aXK3sfnx200Blv"
+      },
+      "artists": [
+        {
+          "name": "polyana",
+          "url": "https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221419,
+      "name": "throwback",
+      "url": "https://open.spotify.com/track/5YdoumXHEAi1WASjyQttfs"
+    },
+    {
+      "album": {
         "name": "throwback",
         "url": "https://open.spotify.com/album/6mPGMWDewCE93cUfGJe63q"
       },

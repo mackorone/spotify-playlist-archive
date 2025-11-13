@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 
 > This is Keauhou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 29 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 28 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 | 14 | [Molokini Hula](https://open.spotify.com/track/7zcWp3M2RKV8uVQ8IFmhog) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 1:48 |
 | 15 | [Hoʻoluana](https://open.spotify.com/track/6p73AniAyfcu69ugHM2dGw) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:46 |
 | 16 | [He Māmane Paha ʻOe](https://open.spotify.com/track/4sSdtXAPpiexrddxJdojY6) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:25 |
-| 17 | [Namolokama Medley: Lei i ka Mokihana / Kani Uina / Ka Wai Nakolokolo](https://open.spotify.com/track/7ye9DYAYDXDHty7nHdIdJ9) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 1:49 |
+| 17 | [Pololei Oiaio / Na Moku Eha](https://open.spotify.com/track/4yXcbK0ySTXKPMqKf11pY9) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:18 |
 | 18 | [No ʻĀnela Uʻilani, He Inoa](https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:32 |
 | 19 | [Radio Hula](https://open.spotify.com/track/74AgvxbXfdykQbU2PjM6vZ) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:43 |
 | 20 | [Nā Pua Lei ʻIlima](https://open.spotify.com/track/1SGHYS9DFVMxckXH7u59yl) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:42 |
-| 21 | [Pololei Oiaio / Na Moku Eha](https://open.spotify.com/track/4yXcbK0ySTXKPMqKf11pY9) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:18 |
+| 21 | [Namolokama Medley: Lei i ka Mokihana / Kani Uina / Ka Wai Nakolokolo](https://open.spotify.com/track/7ye9DYAYDXDHty7nHdIdJ9) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 1:49 |
 | 22 | [Maui](https://open.spotify.com/track/7cZpEshCy8Ncbd6jIDXbux) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:04 |
 | 23 | [Nā Pono Hawai‘i](https://open.spotify.com/track/4VUxv1fLgA0EFKyOlLRiaq) | [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS), [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Na Pono Hawaii](https://open.spotify.com/album/2a0Q1Fp7UmDBM6sIb3H7Qa) | 2:56 |
 | 24 | [Hoʻoheno Molokaʻi](https://open.spotify.com/track/1bQZDoRz5z1xv3WO9GtFWc) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:30 |
 | 25 | [Ulupō Nui](https://open.spotify.com/track/3hP50hIbqKdScxY4DKKLKW) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:34 |
 | 26 | [Māpuana Kuʻu Aloha](https://open.spotify.com/track/1EQrkFOyJHOaIbPlq9aC1X) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:35 |
 | 27 | [Ulunui Waltz \(Reimagined\) \[feat\. Keauhou\]](https://open.spotify.com/track/4ZqhG1g8joMt52tGGpnybU) | [Kekuhi](https://open.spotify.com/artist/2qjFFoBsCacy10U9XksBkE), [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Hahani Mai \(21st Anniversary Edition\)](https://open.spotify.com/album/35rgOxshONl1KMNXOH71Yv) | 2:30 |
-| 28 | [He Aloha Wau iā ʻOe](https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Kāwili](https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC) | 2:39 |
-| 29 | [Launa ʻOle Kō Hie](https://open.spotify.com/track/5QDDHyxpe452EYRsTwwreB) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:00 |
+| 28 | [Launa ʻOle Kō Hie](https://open.spotify.com/track/5QDDHyxpe452EYRsTwwreB) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:00 |
 
-Snapshot ID: `aRErAAAAAABC9MPpmxcPxp0xTgVBJ1Hw`
+Snapshot ID: `aRJ8gAAAAABBBODZaUa5MQpQPooG/jRD`

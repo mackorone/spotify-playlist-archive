@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 78154,
+  "num_followers": 78214,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -399,30 +399,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "The Best Of Art Tatum",
-        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        },
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "John Simmons",
-          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
-        },
-        {
-          "name": "Alvin Stoller",
-          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
         }
       ],
-      "duration_ms": 367600,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+      "duration_ms": 394506,
+      "name": "Journey to the Stars",
+      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -495,18 +483,30 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
+        "name": "The Best Of Art Tatum",
+        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
       "artists": [
         {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        },
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "John Simmons",
+          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
+        },
+        {
+          "name": "Alvin Stoller",
+          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
         }
       ],
-      "duration_ms": 394506,
-      "name": "Journey to the Stars",
-      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
+      "duration_ms": 367600,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 357213,
-      "name": "I'll Close My Eyes",
-      "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Daylight Express",
         "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 145040,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 357213,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Thumpin' & Bumpin' - New York, Vol. 2",
         "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
       "artists": [
         {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1291,6 +1275,22 @@
       "duration_ms": 600493,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
+      },
+      "artists": [
+        {
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        }
-      ],
-      "duration_ms": 418642,
-      "name": "Sweet Peach Tree",
-      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        }
+      ],
+      "duration_ms": 418642,
+      "name": "Sweet Peach Tree",
+      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Hubsongs",
-        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        },
-        {
-          "name": "Marcus Printup",
-          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Hub Cap",
-      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1527,6 +1507,42 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Hubsongs",
+        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        },
+        {
+          "name": "Marcus Printup",
+          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Hub Cap",
+      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
+        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
+      },
+      "artists": [
+        {
+          "name": "Mugsy Spanier",
+          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1555,22 +1571,6 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Mugsy Spanier Sentimental Journey, Vol. 3",
-        "url": "https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL"
-      },
-      "artists": [
-        {
-          "name": "Mugsy Spanier",
-          "url": "https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx"
-        }
-      ],
-      "duration_ms": 176613,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
     },
     {
       "added_at": "2025-09-10 12:53:12",

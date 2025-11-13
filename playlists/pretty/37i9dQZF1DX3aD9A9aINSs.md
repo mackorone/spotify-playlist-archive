@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nazan Öncel
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,031 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,024 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 93 | [Karanlık Dans](https://open.spotify.com/track/3fT7g0pr31EO8rCBOzf57M) | [Serenadname](https://open.spotify.com/artist/14e8vComliNJxotZZwqIam) | [Karanlık Dans](https://open.spotify.com/album/0PHPwjI39yq04E3zNVMbPK) | 2:13 |
 | 94 | [Mirrors of Time \(Kanun ve Piyano İçin\)](https://open.spotify.com/track/3cOr1H001VQ4sDfvQZrAE4) | [Esra Berkman](https://open.spotify.com/artist/0cOfId3SwFEPFTir04POF1), [Gökçe Eryılmaz](https://open.spotify.com/artist/7eqNzbGCfO1WHjzrvwf4uR) | [Echoes of Kanun & Piano](https://open.spotify.com/album/1D2jdp1B0nQDYjWL1uF0Sa) | 11:42 |
 
-Snapshot ID: `AAAAAJt0mjZ6wZSZLJoOLh/lIedlD+wt`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

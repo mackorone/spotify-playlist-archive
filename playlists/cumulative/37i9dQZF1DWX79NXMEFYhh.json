@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
+    {
+      "album": {
         "name": "A Piece of You",
         "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
       },
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 218051,
       "name": "Palagi",
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
@@ -2234,6 +2252,24 @@
       "duration_ms": 224318,
       "name": "Time",
       "url": "https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF"
+    },
+    {
+      "album": {
+        "name": "Too Good to be Bad",
+        "url": "https://open.spotify.com/album/5NQNmJ3Q1PALGrmnl0c22t"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172937,
+      "name": "Too Good to be Bad",
+      "url": "https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3"
     },
     {
       "album": {

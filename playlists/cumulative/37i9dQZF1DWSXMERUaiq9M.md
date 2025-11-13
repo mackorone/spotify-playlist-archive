@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-589 songs - 1 day 12 hr 9 min
+590 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 | 2023-09-15 | 2025-01-07 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-03-10 |  |
 | [HEY MR\. DJ](https://open.spotify.com/track/3HxCDAu8PU82fQkRTJkBF3) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [HEY MR\. DJ](https://open.spotify.com/album/5dWe8jrmoZRuYpfdFgamh7) | 2:35 | 2024-10-17 | 2024-10-26 |
-| [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-07-24 |  |
+| [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-07-24 | 2025-11-13 |
+| [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 | 2025-11-07 |  |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-04-06 |  |
 | [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 | 2025-11-07 |  |
 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2025-05-22 | 2025-06-16 |

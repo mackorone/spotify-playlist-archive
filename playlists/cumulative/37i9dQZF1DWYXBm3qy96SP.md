@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: IV of SPADES
 
-1,747 songs - 4 day 5 hr 0 min
+1,748 songs - 4 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Arrows](https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE), [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [nulla.](https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X) | 3:35 | 2023-12-14 | 2023-12-22 |
 | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L) | 3:21 | 2023-11-16 | 2023-12-15 |
 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2023-08-10 | 2023-08-18 |
-| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 |  |
+| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 | 2025-11-13 |
 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 | 2025-10-23 |  |
 | [Asleep](https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Asleep](https://open.spotify.com/album/2Vflu6dPQKpU7KHo3wAicp) | 3:13 | 2023-12-14 | 2023-12-22 |
 | [Astral Plans](https://open.spotify.com/track/6RAxNp0JErI8nVJh4ojrsk) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Astral Plans](https://open.spotify.com/album/3ZMX2IUr5KO4BaIFWX3yCS) | 3:59 | 2023-10-12 | 2023-10-20 |
@@ -467,6 +467,7 @@
 | [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 | 2023-04-06 | 2023-04-14 |
 | [Drifting](https://open.spotify.com/track/6dZ0nsuT3rtAnhl9b93IEY) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Drifting](https://open.spotify.com/album/3lt2n3wIE0XIRT2XXgo9nn) | 3:07 | 2024-02-08 | 2024-02-16 |
 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-06-19 |  |
+| [Drive Myself Home](https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Drive Myself Home](https://open.spotify.com/album/4EHBw2Nv87XerwlcvJxiXx) | 3:39 | 2025-11-06 |  |
 | [Drivin'](https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Drivin'](https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX) | 3:17 | 2024-07-18 | 2024-07-27 |
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-03-23 | 2023-04-29 |
 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-04-13 | 2023-12-30 |

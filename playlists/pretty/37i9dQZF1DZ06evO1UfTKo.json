@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 758396,
+  "num_followers": 758452,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACp9UU1ThEQ4NeIs658ewWF",
+  "snapshot_id": "aRJ8gAAAAACQXCuoOnwREN2CRfCAKs7S",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Mi Sangre Prisionera",
-      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carrera Contra La Muerte",
         "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 180746,
       "name": "Carrera Contra La Muerte",
       "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "Mi Sangre Prisionera",
+      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historias Que Contar",
-        "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Le Compr\u00e9 La Muerte A Mi Hijo",
-      "url": "https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Al Corazon",
         "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216080,
       "name": "La Sorpresa",
       "url": "https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Historias Que Contar",
+        "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Le Compr\u00e9 La Muerte A Mi Hijo",
+      "url": "https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp"
     },
     {
       "added_at": null,

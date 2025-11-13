@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 210000,
       "name": "Against The World",
       "url": "https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4"
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 142921,
       "name": "Ain't Gonna Lose",
       "url": "https://open.spotify.com/track/3YXOr0tpyPvhSDQ8sqpaM9"
@@ -15140,7 +15140,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 144179,
       "name": "Despicable",
       "url": "https://open.spotify.com/track/08dqWQ579WMKDNNR3t3Pw9"
@@ -16214,7 +16214,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 190010,
       "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
@@ -18773,6 +18773,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "FaceTime (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI"
+    },
+    {
+      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
       },
@@ -19114,7 +19136,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -22332,7 +22354,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 118762,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/14jQipq7mtV2HCpdOQlHyE"
@@ -28496,7 +28518,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 147301,
       "name": "If Only (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2dwqjMo4L4UtPPZ8DzI50N"
@@ -31412,7 +31434,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 229411,
       "name": "Kiss Of Judas",
       "url": "https://open.spotify.com/track/4ImXAjE3XxR4tfYRX0xUFf"
@@ -31810,7 +31832,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 147916,
       "name": "LA",
       "url": "https://open.spotify.com/track/2MKGbK10kT2hySS40U7gAD"
@@ -37482,7 +37504,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 145269,
       "name": "MOUNT PLEASANT.",
       "url": "https://open.spotify.com/track/1NwcswzrfTmjxeyZKm3rCK"
@@ -39202,7 +39224,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 196847,
       "name": "Nice Guy (feat. Tyla)",
       "url": "https://open.spotify.com/track/3rZpsB07jU84a0LvMTGJ8L"
@@ -40462,6 +40484,36 @@
       "duration_ms": 160553,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/4F9lsEUqiJlpW1SE3DQMBX"
+    },
+    {
+      "album": {
+        "name": "NOOFFSEASON (feat. Watson, MIKADO & \u00a5ellow Bucks)",
+        "url": "https://open.spotify.com/album/19JgisVEhmMMIcbBMRSNF6"
+      },
+      "artists": [
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314986,
+      "name": "NOOFFSEASON (feat. Watson, MIKADO & \u00a5ellow Bucks)",
+      "url": "https://open.spotify.com/track/3vNdfXNHe81OR9hbhLuvFs"
     },
     {
       "album": {
@@ -42937,6 +42989,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144850,
+      "name": "Over Here - Bonus Track",
+      "url": "https://open.spotify.com/track/5kPC2gejhpMULSmabaLTzn"
+    },
+    {
+      "album": {
         "name": "Summer 2002, Vol. 1",
         "url": "https://open.spotify.com/album/0oIsqseukvLwDI3Q0H5O83"
       },
@@ -43040,7 +43110,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 156800,
       "name": "Owe Me",
       "url": "https://open.spotify.com/track/3SFWyVnGTGGvTH6iQmLAxL"
@@ -43158,6 +43228,24 @@
       "duration_ms": 242428,
       "name": "P.O.P. (with Key Nyata & Sauce Walka)",
       "url": "https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "P2000",
+      "url": "https://open.spotify.com/track/349wwJQlBSnVUImC0PBwH5"
     },
     {
       "album": {
@@ -45517,6 +45605,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187678,
+      "name": "Prayer - feat. 2 Chainz",
+      "url": "https://open.spotify.com/track/54HOxghzPHShvKMhx96eU1"
+    },
+    {
+      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT"
       },
@@ -46776,7 +46886,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 214756,
       "name": "Putus Asa",
       "url": "https://open.spotify.com/track/0meM92aaDDZjAOtc4Iq9TU"
@@ -47492,7 +47602,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 194175,
       "name": "RED CLOAKS (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/3k729YaJPwqpIrInZQVd4c"
@@ -49878,7 +49988,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 168000,
       "name": "Satellites 2.5",
       "url": "https://open.spotify.com/track/7D7pZCoMGkDbKtgvy8qHLQ"
@@ -50452,6 +50562,28 @@
       "duration_ms": 181986,
       "name": "See You In Every Party",
       "url": "https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169644,
+      "name": "Seen Enough (feat. Polo G)",
+      "url": "https://open.spotify.com/track/1qDDgZwDI312DbDaFPaXVD"
     },
     {
       "album": {
@@ -51428,7 +51560,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 128832,
       "name": "Shoot It Off",
       "url": "https://open.spotify.com/track/0yfOjGzOXq6N0PzS3J2YwD"
@@ -51662,7 +51794,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 235403,
       "name": "Shut Me Up",
       "url": "https://open.spotify.com/track/6nOgznOKaZXPxLqx3h0RrX"
@@ -56706,7 +56838,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 217309,
       "name": "Taj Mahal",
       "url": "https://open.spotify.com/track/33kAHshXdvhvVW95Wo0b7b"
@@ -58559,6 +58691,24 @@
     },
     {
       "album": {
+        "name": "The Mileage",
+        "url": "https://open.spotify.com/album/3Tuhgglsy6KSuOWAj61HhX"
+      },
+      "artists": [
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131761,
+      "name": "The Mileage",
+      "url": "https://open.spotify.com/track/0ZUajodtCkJCusZoXziaNs"
+    },
+    {
+      "album": {
         "name": "The Mob",
         "url": "https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04"
       },
@@ -59926,7 +60076,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-13",
       "duration_ms": 138947,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
@@ -63776,6 +63926,28 @@
       "duration_ms": 180915,
       "name": "WASSUP (feat. JPEGMAFIA)",
       "url": "https://open.spotify.com/track/695BJdWZwhvuws1HSrvU4e"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229112,
+      "name": "Watching Us (with Leon Thomas)",
+      "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
     },
     {
       "album": {

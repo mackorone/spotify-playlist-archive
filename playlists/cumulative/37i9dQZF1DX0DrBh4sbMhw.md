@@ -4,7 +4,7 @@
 
 > ang lalim
 
-275 songs - 16 hr 58 min
+278 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,11 +59,12 @@
 | [Di Mapakali](https://open.spotify.com/track/1AqyT79FxsN0PhqSty5BS2) | [Pattia](https://open.spotify.com/artist/5lsGsDuEgkJJVIupE3kupJ) | [Di Mapakali](https://open.spotify.com/album/6sJYwdvd3qvopepHz1111k) | 3:48 | 2024-12-16 | 2025-02-18 |
 | [Did You Like Her In The Morning?](https://open.spotify.com/track/1PASE7Ext8mjvfNE6UtApD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/1DWudTaW5joeHaG6wgSNSS) | 3:37 | 2025-01-22 | 2025-05-24 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-10-18 | 2024-12-30 |
+| [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2025-11-12 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-14 |  |
 | [Dive \- Ellie's Version](https://open.spotify.com/track/0mVpff7KFIp0PdFJuU3kR1) | [Ellie Banke](https://open.spotify.com/artist/5oyWr2nOEd2KnF8HHvAb1Q) | [Dive \(Ellie's Version\)](https://open.spotify.com/album/046RRsEz7vXk4Ym7tzEg5n) | 3:56 | 2025-07-21 | 2025-09-18 |
 | [DKSI!](https://open.spotify.com/track/3z5GSDFNexYsTnswjJAYTe) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [L0VER G!RL](https://open.spotify.com/album/5ifAePO10zjHrgzi6IXGck) | 3:14 | 2024-02-07 | 2024-06-06 |
 | [Do Better](https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Do Better](https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8) | 2:58 | 2024-12-16 | 2025-01-23 |
-| [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2023-10-18 |  |
+| [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2023-10-18 | 2025-11-13 |
 | [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 | 2024-04-30 | 2024-07-18 |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2023-10-18 | 2024-11-05 |
 | [drunk text](https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:07 | 2024-03-04 | 2024-04-19 |
@@ -86,6 +87,7 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2024-06-05 | 2025-01-15 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-10-18 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-17 | 2024-11-05 |
+| [Gotta Go My Own Way](https://open.spotify.com/track/3islVaNbz47dWjT79Kcyqk) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [What If This Song](https://open.spotify.com/artist/2OT8DHrfJxbKEYC57V4zIw) | [Gotta Go My Own Way](https://open.spotify.com/album/6t3COIIgEBekLnltYY4I0l) | 3:14 | 2025-11-12 |  |
 | [Guilty](https://open.spotify.com/track/4hrhbBDsHsyPRlRmAhr0B7) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Guilty](https://open.spotify.com/album/7rQjX2ZepaAedLLcl4Fah6) | 3:13 | 2023-10-18 | 2024-11-05 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 | 2024-12-04 |
 | [Gusto Ko Nang Bumitaw \- R&B Version](https://open.spotify.com/track/5A0iwwO0qsBL1xNejV3F0q) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Gusto Ko Nang Bumitaw \(R&B Version\)](https://open.spotify.com/album/31hgf1HCoTGPJroYu2VMcb) | 6:13 | 2023-10-18 | 2024-07-19 |
@@ -234,8 +236,9 @@
 | [Somber and Solemn](https://open.spotify.com/track/4RDV6siOdF829qgSWoiXh4) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Somber](https://open.spotify.com/album/3NnuuyP11cyqfqH4nOXuEH) | 3:36 | 2023-10-18 | 2024-11-05 |
 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 | 2025-09-17 | 2025-10-10 |
 | [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 | 2024-12-03 | 2024-12-17 |
-| [Someone To Stay](https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Revival](https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC) | 4:14 | 2023-10-18 |  |
+| [Someone To Stay](https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Revival](https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC) | 4:14 | 2023-10-18 | 2025-11-13 |
 | [Star](https://open.spotify.com/track/73Zoq6Z5lXVJPAERw2s9fp) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [See You in My 19th Life, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/70RhkQek9C6hFNJaXccyWU) | 3:41 | 2023-10-18 | 2025-02-18 |
+| [Staying](https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:31 | 2025-11-12 |  |
 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-11-05 |  |
 | [Sumpa](https://open.spotify.com/track/53TEymid26RSQwfL3UrYru) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Sumpa](https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1) | 3:34 | 2025-11-07 |  |
 | [surprise!](https://open.spotify.com/track/0I6BQvM62vDau1xn76eJyD) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [surprise!](https://open.spotify.com/album/44xJnasBEye8d4fOjeOtyX) | 2:49 | 2025-09-17 | 2025-10-10 |
@@ -263,7 +266,7 @@
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-03-03 | 2025-11-05 |
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2024-06-05 | 2024-06-12 |
 | [Ulap](https://open.spotify.com/track/0yBycfuTYOoDrvfP5wY2Ux) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf) | 6:45 | 2023-10-18 | 2023-11-11 |
-| [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 | 2023-10-18 |  |
+| [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 | 2023-10-18 | 2025-11-13 |
 | [Under The Same Moon](https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL) | [Myla](https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj) | [Sweet Melodies](https://open.spotify.com/album/2Eaw3jA9SsuntHhN3ouDQB) | 3:31 | 2024-08-05 | 2024-11-05 |
 | [Urn](https://open.spotify.com/track/0SsOMCjOCpit4EfFpwjcFW) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [Urn](https://open.spotify.com/album/5DI4qtknotYzeB65hKJPVG) | 3:22 | 2023-10-18 | 2024-11-05 |
 | [Usad](https://open.spotify.com/track/2bOxIrFLLniNEsog54cXU9) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Usad](https://open.spotify.com/album/1SLopDZ1pJhcByy6WH1irA) | 4:08 | 2025-11-10 |  |

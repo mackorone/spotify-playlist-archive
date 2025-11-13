@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 ### [Women of Punjabi Pop](https://open.spotify.com/playlist/37i9dQZF1DWSElo6PPUdZk)
 
-> Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
+> Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,775 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,794 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 |
+| 1 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |
 | 2 | [Mera Mahi](https://open.spotify.com/track/445SKNj7J0NZC5tp2in8Cc) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Mera Mahi](https://open.spotify.com/album/4Lavw2Qao6SX3DqcPJRGXs) | 2:59 |
-| 3 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |
-| 4 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 |
-| 5 | [Nazraan Utaar](https://open.spotify.com/track/3YphNdwpVI9dYHBWBPh9Cz) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Nazraan Utaar](https://open.spotify.com/album/2hxEE3l6zjylCXTslzfasp) | 2:18 |
-| 6 | [Ishq Che Kamla](https://open.spotify.com/track/510sx0cWU4YnFfdbgeJkS8) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Ishq Che Kamla](https://open.spotify.com/album/0kENds2zylGpy52teWDX0F) | 3:09 |
-| 7 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
-| 8 | [Bombshell](https://open.spotify.com/track/1lwIEn4LvceKySirb4olKh) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bombshell](https://open.spotify.com/album/78RIGKdHOd2J4qAhxNdxlU) | 2:34 |
+| 3 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 |
+| 4 | [Nazraan Utaar](https://open.spotify.com/track/3YphNdwpVI9dYHBWBPh9Cz) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Nazraan Utaar](https://open.spotify.com/album/2hxEE3l6zjylCXTslzfasp) | 2:18 |
+| 5 | [Ishq Che Kamla](https://open.spotify.com/track/510sx0cWU4YnFfdbgeJkS8) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Ishq Che Kamla](https://open.spotify.com/album/0kENds2zylGpy52teWDX0F) | 3:09 |
+| 6 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
+| 7 | [Bombshell](https://open.spotify.com/track/1lwIEn4LvceKySirb4olKh) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bombshell](https://open.spotify.com/album/78RIGKdHOd2J4qAhxNdxlU) | 2:34 |
+| 8 | [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 |
 | 9 | [Rebel & Queen](https://open.spotify.com/track/1ZVaYqaUf8DhEezYz9YTTm) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Rebel & Queen](https://open.spotify.com/album/1oOjL38Eh7qZNwe2GWvTvG) | 2:23 |
 | 10 | [Soohe Ve Cheere Waleya \- From "Soohe Ve Cheere Waleya"](https://open.spotify.com/track/3WawaDHSNhv7uv50HZkAeP) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Soohe Ve Cheere Waleya \(From "Soohe Ve Cheere Waleya"\)](https://open.spotify.com/album/5591O5Zy1d8u9YKhrOpeFB) | 2:23 |
 | 11 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 |
 | 50 | [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 |
 
-Snapshot ID: `AAAAANX5ygM0eynXVDE5unZf8IUfcdXs`
+Snapshot ID: `AAAAAFY7/vyEnOOGhcAyFwIGJSMWXYoh`

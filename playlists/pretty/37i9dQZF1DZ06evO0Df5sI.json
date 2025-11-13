@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 23312,
+  "num_followers": 23314,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABbb2G+W15R4/UVkhrUxuNU",
+  "snapshot_id": "aRJ8gAAAAABG/kam0In68+Q45sEZURI7",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agony & Irony (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Love Love, Kiss Kiss",
-      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 187480,
-      "name": "I Wanna Be A Warhol",
-      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+      "duration_ms": 205240,
+      "name": "Love Love, Kiss Kiss",
+      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 170360,
       "name": "Goodbye Forever",
       "url": "https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
     },
     {
       "added_at": null,

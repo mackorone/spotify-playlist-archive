@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-153 songs - 9 hr 12 min
+154 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Note to self](https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Note to self](https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ) | 2:45 | 2025-09-25 | 2025-09-29 |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 |  |
 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 | 2025-08-07 |  |
-| [Out Of The Blue](https://open.spotify.com/track/1RSn4iuoSFtw1K8VvWmzcn) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Evan Klar](https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2) | [P.S I Love You](https://open.spotify.com/album/0rOSkVbGUhgFTrpRJL6vqn) | 2:56 | 2025-11-06 |  |
+| [Out Of The Blue](https://open.spotify.com/track/1RSn4iuoSFtw1K8VvWmzcn) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Evan Klar](https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2) | [P.S I Love You](https://open.spotify.com/album/0rOSkVbGUhgFTrpRJL6vqn) | 2:56 | 2025-11-06 | 2025-11-13 |
 | [Out of Time Man](https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two of Diamonds](https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5) | 2:57 | 2025-07-18 |  |
 | [Paradis bleu](https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Paradis bleu](https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg) | 3:57 | 2025-07-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Peace of Mind](https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG) | 2:36 | 2025-07-18 | 2025-08-22 |
@@ -132,6 +132,7 @@
 | [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-08-01 | 2025-10-17 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-07-18 | 2025-08-08 |
 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 | 2025-07-18 |  |
+| [Swear](https://open.spotify.com/track/0AXK5URrriXUx3gf8PtQB9) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Swear](https://open.spotify.com/album/0sACc500qALRTNO2l0yvUS) | 2:28 | 2025-11-06 |  |
 | [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2025-07-18 |  |
 | [Tarmac](https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Tarmac](https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU) | 3:10 | 2025-10-10 |  |
 | [Tennis Bracelet](https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Tennis Bracelet](https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV) | 3:28 | 2025-07-18 | 2025-09-28 |

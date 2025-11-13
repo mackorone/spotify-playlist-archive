@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,507 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,590 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 37 | [No Words](https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:30 |
 | 38 | [Venting](https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Crop Circle](https://open.spotify.com/album/4375umzAIqqlWI49eue7Na) | 2:21 |
 | 39 | [Samantha](https://open.spotify.com/track/4YLzVD32aMH4qgSsSPtNbl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Samantha](https://open.spotify.com/album/7gZazM80DtQjZyFz2e9tJe) | 3:40 |
-| 40 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 |
-| 41 | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB) | 3:19 |
+| 40 | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB) | 3:19 |
+| 41 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 |
 | 42 | [Peligro](https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Wamp 2 Dem](https://open.spotify.com/album/7C1MfzZy2I988m1dIEzV6o) | 4:20 |
 | 43 | [Money Talks \(feat\. Dave\)](https://open.spotify.com/track/31gzwBma4iEppvk8um5ZGx) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/4QonFDxUcxM49sCR7g8ns1) | 4:33 |
 | 44 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [Picture Me](https://open.spotify.com/track/7eFZGDVNCjcB6j3WLzHeLR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Six Paths](https://open.spotify.com/album/5MEImpWt30V3Huwd5n1XM8) | 4:40 |
 | 50 | [Children Of The Internet](https://open.spotify.com/track/3zts4KqAV78dZXc55v4mQv) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Es Devlin](https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut) | [12 Questions](https://open.spotify.com/album/5zh9ibSFLqUY91cKupwihN) | 3:22 |
 
-Snapshot ID: `aRErAAAAAABDQpyfrMDI8sZtgthZ4Ulr`
+Snapshot ID: `aRJ8gAAAAACEN3Uu4IFpLHDxEn2D43gP`

@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73727,
+  "num_followers": 73729,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACfpiS0vYSTae84vZJq9uA/",
+  "snapshot_id": "aRJ8gAAAAACq+PrJO7VKmjfhnKqfIRBV",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Bem Maior",
-        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Meu Bem Maior",
-      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (ao Vivo)",
         "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 262053,
       "name": "Alto Pre\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Bem Maior",
+        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Meu Bem Maior",
+      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
     },
     {
       "added_at": null,

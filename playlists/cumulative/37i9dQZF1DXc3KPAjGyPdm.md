@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-293 songs - 17 hr 28 min
+294 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Whip It](https://open.spotify.com/track/2FZzcWnzSyUvFbu7xNLepv) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Stranger Things \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N) | 2:38 | 2017-12-20 |  |
 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 | 2017-12-20 | 2024-04-19 |
 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 | 2017-12-20 |  |
+| [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/5QKWBo5Npc0W9zhy8rRIBq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/0twNBk33toCSvUBJdutVAE) | 2:47 | 2025-11-12 |  |
 | [Wien Bleibt Wien / 'Vienna Forever Vienna'](https://open.spotify.com/track/2oSKgAjPHymEVTPAdBFUGn) | [Andrew Pilmer](https://open.spotify.com/artist/1vJ5QqmS9cRPnQ8yG2MP5G) | [Mechanical Instruments](https://open.spotify.com/album/6NbPrgay4Hn1j6DuMQde8E) | 3:26 | 2019-07-10 |  |
 | [William](https://open.spotify.com/track/3HZRVOuWbmotzfQNIRDhJ3) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 2:11 | 2023-02-27 | 2024-04-19 |
 | [William](https://open.spotify.com/track/4wKcdpm3vqZ960UlufQj3k) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:11 | 2019-07-10 |  |

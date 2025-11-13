@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,843 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,880 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 41 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
 | 42 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
 | 43 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
-| 44 | [Nesesari](https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Philkeyz](https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:58 |
+| 44 | [Cool Temper](https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:25 |
 | 45 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
-| 46 | [Cool Temper](https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:25 |
+| 46 | [Nesesari](https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Philkeyz](https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:58 |
 | 47 | [Aboki](https://open.spotify.com/track/0JbBVIBfhayLLsKG6pTJ06) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Aboki](https://open.spotify.com/album/1alweGRwffgnQuovKvYOe1) | 3:40 |
 | 48 | [My Car](https://open.spotify.com/track/2eFJKElZ98vRvWChxh1niz) | [Tony Tetuila](https://open.spotify.com/artist/7fypMlrHKV3ziGuvZkSYoX), [ICE K, PASTO GOODY GOODY](https://open.spotify.com/artist/5EYJENlwor1tQ52BITpvRI) | [My Car](https://open.spotify.com/album/3U6bIPNzVzzt4sJ2mIjFmw) | 4:08 |
 | 49 | [Repete](https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8) | [Blackmagic \(Version 2.0\)](https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW) | 3:38 |

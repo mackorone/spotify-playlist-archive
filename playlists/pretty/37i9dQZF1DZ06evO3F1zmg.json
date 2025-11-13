@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42282,
+  "num_followers": 42285,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACntsElw3REzT9mx6r5tJ1l",
+  "snapshot_id": "aRJ8gAAAAACJYNx8vbyP2BjfbIZZ5mjR",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 109302,
-      "name": "ICY GRL",
-      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
         "url": "https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 175992,
       "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
       "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Lourdiz",
+          "url": "https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Back Seat",
+      "url": "https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mardi Gras (Go Crazy) [PBM Version]",
         "url": "https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 174709,
       "name": "Mardi Gras (Go Crazy) - PBM Version",
       "url": "https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Summer Playlist: Season 1",
-        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Lourdiz",
-          "url": "https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Back Seat",
-      "url": "https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ"
     },
     {
       "added_at": null,

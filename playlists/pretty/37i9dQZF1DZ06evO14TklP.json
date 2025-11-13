@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 16942,
+  "num_followers": 16965,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACgmnxLOR41BrKDOrgbu8Ct",
+  "snapshot_id": "aRJ8gAAAAAAiFwMdf8ji0+4HO5ZQKgon",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+        "name": "8KG",
+        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
       "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 139644,
-      "name": "Festa do Pijama",
-      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
+      "duration_ms": 132923,
+      "name": "8KG",
+      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
     },
     {
       "added_at": null,
@@ -299,26 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "8KG",
-        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
       "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
         }
       ],
-      "duration_ms": 132923,
-      "name": "8KG",
-      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
+      "duration_ms": 139644,
+      "name": "Festa do Pijama",
+      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
     },
     {
       "added_at": null,
@@ -775,26 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
       },
       "artists": [
         {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 115999,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
+      "duration_ms": 147119,
+      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
     },
     {
       "added_at": null,
@@ -819,22 +815,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
       },
       "artists": [
         {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 147119,
-      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
+      "duration_ms": 115999,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
-      },
-      "artists": [
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 130307,
-      "name": "Xoxo",
-      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Condessa",
         "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 134569,
       "name": "Disco",
       "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
+      },
+      "artists": [
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 130307,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
     },
     {
       "added_at": null,

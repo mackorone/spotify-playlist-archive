@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 67194,
+  "num_followers": 67210,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACQcZmdvyAdCZyFI3HM6BV5",
+  "snapshot_id": "aRJ8gAAAAABRDtT1UU0sWbJ3+y9Ltusc",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Te lo debo a ti",
-      "url": "https://open.spotify.com/track/24RmszriFqvujOsycO1NID"
+      "duration_ms": 154546,
+      "name": "Mi chica ideal",
+      "url": "https://open.spotify.com/track/34JErr9kKYsVRoqNlXDqVT"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 154546,
-      "name": "Mi chica ideal",
-      "url": "https://open.spotify.com/track/34JErr9kKYsVRoqNlXDqVT"
+      "duration_ms": 215200,
+      "name": "Te lo debo a ti",
+      "url": "https://open.spotify.com/track/24RmszriFqvujOsycO1NID"
     },
     {
       "added_at": null,
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi chica ideal (Lo B\u00e1sico)",
-        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
       "artists": [
         {
           "name": "Banda Machos",
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        },
+        {
+          "name": "Pedro Magdaleno",
+          "url": "https://open.spotify.com/artist/5dhr9F9C2GXOeMqhMV9EfC"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/0QTosUG7yMB9UBNzhU4ZmF"
+      "duration_ms": 242333,
+      "name": "Volver a empezar",
+      "url": "https://open.spotify.com/track/72TESm64s0W784aHoK4k0c"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
       "artists": [
         {
           "name": "Banda Machos",
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        },
-        {
-          "name": "Pedro Magdaleno",
-          "url": "https://open.spotify.com/artist/5dhr9F9C2GXOeMqhMV9EfC"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Volver a empezar",
-      "url": "https://open.spotify.com/track/72TESm64s0W784aHoK4k0c"
+      "duration_ms": 172666,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/0QTosUG7yMB9UBNzhU4ZmF"
     },
     {
       "added_at": null,

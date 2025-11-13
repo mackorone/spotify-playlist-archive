@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80172,
+  "num_followers": 80171,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAACmHW20fOy6v6sh71uQOmEv",
+  "snapshot_id": "aRJ8gAAAAADet+mxTiTPMY/TVAkp7wTg",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wall - Live In Berlin",
-        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
       "artists": [
         {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        },
-        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 397000,
-      "name": "Mother - Live In Berlin",
-      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
+      "duration_ms": 334960,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
     },
     {
       "added_at": null,
@@ -259,18 +251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
+        "name": "The Wall - Live In Berlin",
+        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
       },
       "artists": [
         {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        },
+        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 334960,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
+      "duration_ms": 397000,
+      "name": "Mother - Live In Berlin",
+      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
     },
     {
       "added_at": null,
@@ -491,26 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enemy of the Enemy (Remastered)",
-        "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
       },
       "artists": [
         {
-          "name": "Asian Dub Foundation",
-          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
-        },
-        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        },
-        {
-          "name": "EOB",
-          "url": "https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG"
         }
       ],
-      "duration_ms": 295040,
-      "name": "1000 Mirrors",
-      "url": "https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT"
+      "duration_ms": 306626,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
     },
     {
       "added_at": null,
@@ -547,18 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+        "name": "Enemy of the Enemy (Remastered)",
+        "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
       "artists": [
         {
+          "name": "Asian Dub Foundation",
+          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
+        },
+        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        },
+        {
+          "name": "EOB",
+          "url": "https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG"
         }
       ],
-      "duration_ms": 306626,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
+      "duration_ms": 295040,
+      "name": "1000 Mirrors",
+      "url": "https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 181186,
-      "name": "No Man's Woman",
-      "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
+      "duration_ms": 201826,
+      "name": "Emma's Song",
+      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Emma's Song",
-      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
+      "duration_ms": 181186,
+      "name": "No Man's Woman",
+      "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "8 Good Reasons",
-      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Mountain Thyme (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm"
       },
@@ -711,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le premier cri",
-        "url": "https://open.spotify.com/album/7w6VcRLFzLLmlLUQrol4OF"
+        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
       "artists": [
-        {
-          "name": "Armand Amar",
-          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
-        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 209480,
-      "name": "A New Born Child",
-      "url": "https://open.spotify.com/track/4gH669pWOPQMVlTnUV0PnA"
+      "duration_ms": 206880,
+      "name": "8 Good Reasons",
+      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
     },
     {
       "added_at": null,
@@ -755,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Famine",
-      "url": "https://open.spotify.com/track/361298vj6RdofeKjHCiD7I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You for Hearing Me",
         "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
       },
@@ -783,6 +747,42 @@
       "duration_ms": 252640,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le premier cri",
+        "url": "https://open.spotify.com/album/7w6VcRLFzLLmlLUQrol4OF"
+      },
+      "artists": [
+        {
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "A New Born Child",
+      "url": "https://open.spotify.com/track/4gH669pWOPQMVlTnUV0PnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Famine",
+      "url": "https://open.spotify.com/track/361298vj6RdofeKjHCiD7I"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Scorn Not His Simplicity",
-      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 179266,
       "name": "Daddy I'm Fine",
       "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Scorn Not His Simplicity",
+      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
     },
     {
       "added_at": null,

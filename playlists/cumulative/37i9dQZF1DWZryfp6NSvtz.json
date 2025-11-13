@@ -98175,6 +98175,24 @@
     },
     {
       "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272507,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
+    },
+    {
+      "album": {
         "name": "Molly Sells Molly By The Seashore",
         "url": "https://open.spotify.com/album/4CLBaAh7QXO9GVPVBokZ7w"
       },

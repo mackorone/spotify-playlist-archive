@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,344 likes - 227 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,345 likes - 227 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 226 | [Ancient Ruins](https://open.spotify.com/track/1HoTlNbrP4TvyexOygEiQ9) | [Slumber Boy](https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n) | [Ancient Ruins](https://open.spotify.com/album/0r6bVrVzN9M3VZVAl9YwLr) | 3:18 |
 | 227 | [Woods](https://open.spotify.com/track/0NzfkMppPtYvZ9WP5BcyT8) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Woods](https://open.spotify.com/album/1El1FeO6copIuw3wHOk1vZ) | 2:23 |
 
-Snapshot ID: `AAAAAD+GxHrONPzIH+DjPMu+HnfOay/k`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

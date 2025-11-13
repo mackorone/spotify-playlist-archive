@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: LydiaBaoBao
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,619 likes - 152 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,620 likes - 152 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

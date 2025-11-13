@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20384,
+  "num_followers": 20389,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -347,38 +347,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Price You Pay",
-        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Price You Pay",
-      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Life's a Bitch, I Just Need an Early Night",
         "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 275156,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Price You Pay",
+        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Price You Pay",
+      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Grreydaze",
-        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
+        "name": "Doubt Nothing",
+        "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
         }
       ],
-      "duration_ms": 164750,
-      "name": "God's House",
-      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
+      "duration_ms": 180000,
+      "name": "Doubt Nothing",
+      "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -755,6 +755,38 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD"
+      },
+      "artists": [
+        {
+          "name": "71A",
+          "url": "https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb"
+        }
+      ],
+      "duration_ms": 218924,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Grreydaze",
+        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "God's House",
+      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Super Sad Generation",
         "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
       },
@@ -771,22 +803,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Doubt Nothing",
-        "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Doubt Nothing",
-      "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 232573,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD"
-      },
-      "artists": [
-        {
-          "name": "71A",
-          "url": "https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb"
-        }
-      ],
-      "duration_ms": 218924,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Can't Love",
-        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
+        "name": "Trouble Sleeping",
+        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
       },
       "artists": [
         {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+          "name": "Ross Carlo",
+          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
         }
       ],
-      "duration_ms": 219281,
-      "name": "Can't Love",
-      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
+      "duration_ms": 215172,
+      "name": "Trouble Sleeping",
+      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Trouble Sleeping",
-        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
       },
       "artists": [
         {
-          "name": "Ross Carlo",
-          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Trouble Sleeping",
-      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
+      "duration_ms": 219281,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "\u2605SLEEPY\u2605",
         "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 134437,
       "name": "\u2605SLEEPY\u2605",
       "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 138775,
-      "name": "Babybrown",
-      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Intertwined",
-        "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
-      },
-      "artists": [
-        {
-          "name": "Amanda Whiting",
-          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
-        },
-        {
-          "name": "PEACH.",
-          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
-        }
-      ],
-      "duration_ms": 352999,
-      "name": "Intertwined",
-      "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1643,18 +1623,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
+        "name": "Intertwined",
+        "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
       "artists": [
         {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+          "name": "Amanda Whiting",
+          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
+        },
+        {
+          "name": "PEACH.",
+          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
         }
       ],
-      "duration_ms": 113052,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v"
+      "duration_ms": 352999,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1687,6 +1671,22 @@
       "duration_ms": 284120,
       "name": "White Doves",
       "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 113052,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Took My Heart",
-        "url": "https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8"
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
       },
       "artists": [
         {
-          "name": "00ab",
-          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Took My Heart",
-      "url": "https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI"
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     }
   ],
   "unique_name": "the night bus",

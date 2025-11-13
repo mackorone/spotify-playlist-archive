@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 304506,
+  "num_followers": 304523,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAL9sQJNsghx53nl521tvP3",
+  "snapshot_id": "aRJ8gAAAAACPtJPGQIqNkOlPpjFEmkN7",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 158663,
-      "name": "Otaku Hot Girl",
-      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
+      "duration_ms": 177376,
+      "name": "Cocky Af",
+      "url": "https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tina Snow",
-        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 177376,
-      "name": "Cocky Af",
-      "url": "https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3"
+      "duration_ms": 158663,
+      "name": "Otaku Hot Girl",
+      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 154433,
       "name": "Ungrateful (feat. Key Glock)",
       "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
     },
     {
       "added_at": null,

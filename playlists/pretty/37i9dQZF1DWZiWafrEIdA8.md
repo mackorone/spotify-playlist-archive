@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,969 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,980 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 6 | [We Are](https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [We Are](https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J) | 3:16 |
 | 7 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
 | 8 | [Martini Blue](https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Her](https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR) | 3:15 |
-| 9 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 |
-| 10 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 |
+| 9 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 |
+| 10 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 |
 | 11 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 12 | [Nightmare](https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [More ASH](https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD) | 1:55 |
 | 13 | [Text Me](https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Her](https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR) | 2:57 |

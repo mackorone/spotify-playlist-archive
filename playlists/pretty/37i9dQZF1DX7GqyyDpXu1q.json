@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 92595,
+  "num_followers": 92600,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Interstate Cowboy",
         "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214881,
       "name": "Interstate Cowboy",
       "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
-      },
-      "artists": [
-        {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
-        }
-      ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Summer Skin",
         "url": "https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 167946,
       "name": "Goin' Back Where I Came From",
       "url": "https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2025-04-21 21:56:35",

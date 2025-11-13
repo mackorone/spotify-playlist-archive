@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9082,
+  "num_followers": 9081,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAGGiVmKqmqvz4gieHFDDPv",
+  "snapshot_id": "aRJ8gAAAAAC6bZmTYBS9Nby9H3L2Tx4v",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Runnin (with JP Saxe)",
-      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 256217,
       "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Runnin (with JP Saxe)",
+      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 183591,
       "name": "Here for It (feat. Ingrid Andress)",
       "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
     },
     {
       "added_at": null,

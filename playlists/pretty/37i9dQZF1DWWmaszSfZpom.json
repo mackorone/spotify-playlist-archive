@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 945090,
+  "num_followers": 945105,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Deu Onda",
-        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "Deu Onda",
-      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
       },
@@ -255,6 +239,42 @@
       "duration_ms": 161444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Deu Onda",
+        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "Deu Onda",
+      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Vento Forte",
+        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Dj Tk",
+          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "Vento Forte",
+      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -279,26 +299,6 @@
       "duration_ms": 143448,
       "name": "SENTAD\u00c3O",
       "url": "https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Vento Forte",
-        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Dj Tk",
-          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
-        }
-      ],
-      "duration_ms": 123711,
-      "name": "Vento Forte",
-      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Malandramente",
         "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 171692,
       "name": "Malandramente",
       "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Talarica",
-        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
-      },
-      "artists": [
-        {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
-        },
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Talarica",
-      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Sapequinha",
         "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 134106,
       "name": "Sapequinha",
       "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Talarica",
+        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Talarica",
+      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
-        "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Doguinha",
-          "url": "https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL"
-        },
-        {
-          "name": "MC Pupio",
-          "url": "https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
-      "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Tudo Ok",
         "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 178500,
       "name": "Tudo Ok",
       "url": "https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+        "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Doguinha",
+          "url": "https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL"
+        },
+        {
+          "name": "MC Pupio",
+          "url": "https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+      "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Solta a batida",
-        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Solta a batida",
-      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Solo Seduzente",
         "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 125990,
       "name": "Solo Seduzente",
       "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Solta a batida",
+        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Solta a batida",
+      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "N\u00e3o encosta",
-        "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "DJ Will22",
-          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
-        }
-      ],
-      "duration_ms": 144039,
-      "name": "N\u00e3o encosta",
-      "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Bumbum caliente (Participa\u00e7\u00e3o especial de De La Ghetto)",
         "url": "https://open.spotify.com/album/6D1FwIdsvzNSEKtOXKzTTU"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 150886,
       "name": "Bumbum caliente (Participa\u00e7\u00e3o especial de De La Ghetto)",
       "url": "https://open.spotify.com/track/2WXpTKDvFRRAKKwaNbT6OW"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "N\u00e3o encosta",
+        "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "DJ Will22",
+          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
+        }
+      ],
+      "duration_ms": 144039,
+      "name": "N\u00e3o encosta",
+      "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
       },
       "artists": [
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
+      "duration_ms": 267795,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1771,18 +1767,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
       },
       "artists": [
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 267795,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
     },
     {
       "added_at": "2023-06-26 14:06:50",

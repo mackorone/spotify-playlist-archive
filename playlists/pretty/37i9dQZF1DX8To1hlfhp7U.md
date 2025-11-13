@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,185 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,196 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 19 | [Vancouver](https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:43 |
 | 20 | [Mummy Nu Pasand \(From "Jai Mummy Di"\)](https://open.spotify.com/track/74qF0JeFMVilMEeFDiQZ48) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Mummy Nu Pasand \(From "Jai Mummy Di"\)](https://open.spotify.com/album/6CBvOAJkYbQbehRvq4nrcE) | 3:04 |
 | 21 | [Jattiye Ni](https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jattiye Ni](https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA) | 3:01 |
-| 22 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 |
-| 23 | [Halla Gulla](https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Halla Gulla](https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ) | 2:47 |
+| 22 | [Halla Gulla](https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Halla Gulla](https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ) | 2:47 |
+| 23 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 |
 | 24 | [Baby Girl](https://open.spotify.com/track/0FoAlOXHI6KJ4RHP9v8jnw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Baby Girl](https://open.spotify.com/album/4dob5W0fcOiKEe3ii4AuqD) | 3:27 |
 | 25 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
 | 26 | [Sauda Khara Khara \- From "Good Newwz"](https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sauda Khara Khara \(From "Good Newwz"\)](https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5) | 3:31 |

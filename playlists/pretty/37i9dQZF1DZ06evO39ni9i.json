@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 29757,
+  "num_followers": 29762,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAzKvqO93n22jc79ElEzOHc",
+  "snapshot_id": "aRJ8gAAAAADDWRYKSKsddSdCiW3rfWWg",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't But The One Way",
-        "url": "https://open.spotify.com/album/2AAKJcJfC2KSGZfR9W9nR4"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Ha Ha, Hee Hee",
-      "url": "https://open.spotify.com/track/22P9q4YxqhWcTOVMar9TT0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Whole New Thing",
         "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 237800,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/2VHALpy5ewC9SAZS6n1hqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't But The One Way",
+        "url": "https://open.spotify.com/album/2AAKJcJfC2KSGZfR9W9nR4"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Ha Ha, Hee Hee",
+      "url": "https://open.spotify.com/track/22P9q4YxqhWcTOVMar9TT0"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Thing",
-        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Trip to Your Heart",
-      "url": "https://open.spotify.com/track/3ku8Qt9J0Y29yC4jdzJ8PO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -619,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Into My Own Thing",
-      "url": "https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "It Takes All Kinds",
-      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Whole New Thing",
         "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
       },
@@ -660,25 +612,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 190266,
-      "name": "If This Room Could Talk",
-      "url": "https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 265240,
-      "name": "I Ain't Got Nobody (For Real)",
-      "url": "https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u"
+      "duration_ms": 221426,
+      "name": "Trip to Your Heart",
+      "url": "https://open.spotify.com/track/3ku8Qt9J0Y29yC4jdzJ8PO"
     },
     {
       "added_at": null,
@@ -699,6 +635,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "It Takes All Kinds",
+      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 265240,
+      "name": "I Ain't Got Nobody (For Real)",
+      "url": "https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Whole New Thing",
+        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "If This Room Could Talk",
+      "url": "https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Into My Own Thing",
+      "url": "https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
         "url": "https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Thing",
-        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 169266,
       "name": "Are You Ready",
       "url": "https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Whole New Thing",
+        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Thing",
-        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 115733,
-      "name": "Turn Me Loose",
-      "url": "https://open.spotify.com/track/5min27LLty1G9R270gS0p4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 167666,
       "name": "Higher - Single Version",
       "url": "https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Whole New Thing",
+        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 115733,
+      "name": "Turn Me Loose",
+      "url": "https://open.spotify.com/track/5min27LLty1G9R270gS0p4"
     }
   ],
   "unique_name": "This Is Sly & The Family Stone",

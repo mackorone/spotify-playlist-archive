@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,280 songs - 2 day 17 hr 11 min
+1,281 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-04-29 | 2025-06-06 |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 | 2024-10-11 |
 | [DON'T WANNA](https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:45 | 2025-09-05 | 2025-10-10 |
+| [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-12 |  |
 | [Dreja virka, dreja virka, yeah](https://open.spotify.com/track/3Hr1olyODDbzWJ1v3VyYei) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Dreja virka, dreja virka, yeah](https://open.spotify.com/album/0uiV97xloyvu1WiYE9hFD4) | 2:48 | 2025-08-28 | 2025-09-26 |
 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-06-19 | 2025-08-08 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-15 | 2025-02-28 |
@@ -702,7 +703,7 @@
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-11-20 | 2025-02-08 |
 | [Mellan dig och mig](https://open.spotify.com/track/5SfopVe3JTA3Ldr8tDYxy7) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stockholm](https://open.spotify.com/album/1kBloj5RL5FVr7iBaB0UQi) | 2:01 | 2024-09-13 | 2024-10-11 |
 | [Memories](https://open.spotify.com/track/3dFghmP0JgZf7W6RcweLoq) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Memories](https://open.spotify.com/album/1RO9csUg4Bkpb5xSGReQZs) | 3:12 | 2025-08-07 | 2025-09-19 |
-| [Men du](https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Men du](https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P) | 3:07 | 2025-09-11 | 2025-10-10 |
+| [Men du](https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Men du](https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P) | 3:07 | 2025-09-11 |  |
 | [Mer du mer allt](https://open.spotify.com/track/3Fat9Q5RPkoIham2BZE6SL) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Mer du mer allt](https://open.spotify.com/album/61f3yuHLlsso1BG9jANJgv) | 2:36 | 2024-08-29 | 2024-09-06 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-27 | 2024-08-09 |
 | [Meri Jaan](https://open.spotify.com/track/7EOFRODQyV3kqx0zbVKEQG) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Meri Jaan](https://open.spotify.com/album/53pdOr0g9OKj2Ytq5Onfp9) | 2:51 | 2025-06-05 | 2025-07-18 |
@@ -946,7 +947,7 @@
 | [shady](https://open.spotify.com/track/3WCcDNT4MecCulBiLMBETx) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [shady](https://open.spotify.com/album/0Tq1fXfkBJHlGSCcC0E78p) | 2:08 | 2025-10-30 |  |
 | [Shame on Me](https://open.spotify.com/track/5rlOIBiFjCDV89ylwnBZPA) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Shame on Me / Grow Old](https://open.spotify.com/album/2SIqhxXQm4qYsCKd4mXKXQ) | 2:54 | 2025-05-16 | 2025-06-20 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-26 | 2025-09-05 |
-| [She Goes](https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [She Goes](https://open.spotify.com/album/0UPsFm6WSOwkWQH8Q0sMKF) | 3:03 | 2025-11-06 |  |
+| [She Goes](https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [She Goes](https://open.spotify.com/album/0UPsFm6WSOwkWQH8Q0sMKF) | 3:03 | 2025-11-06 | 2025-11-13 |
 | [Shotgun](https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Shotgun](https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM) | 3:55 | 2024-08-21 | 2024-09-27 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-25 | 2025-04-18 |
 | [Show Me What Love Is](https://open.spotify.com/track/3uLYynLG6MmlfSVfzVCYW2) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Show Me What Love Is](https://open.spotify.com/album/1zRpwE0IL3JG04AMI8oZIj) | 3:02 | 2025-02-07 | 2025-03-14 |

@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,244 songs - 2 day 16 hr 26 min
+1,245 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [aftermath](https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [aftermath](https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs) | 2:46 | 2021-12-16 | 2022-07-29 |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-10-19 | 2024-12-06 |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2022-01-20 | 2022-06-15 |
+| [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-10 |  |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-04-07 | 2022-07-29 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-06 | 2024-05-24 |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-08 | 2025-05-16 |
@@ -1244,7 +1245,7 @@
 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 | 2025-05-02 | 2025-05-09 |
 | [you were there for me](https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [you were there for me](https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV) | 3:15 | 2022-10-06 | 2023-02-03 |
 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 | 2021-12-16 | 2022-07-29 |
-| [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 | 2025-04-17 |  |
+| [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 | 2025-04-17 | 2025-11-13 |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-24 | 2022-04-21 |
 | [Your Villain](https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Your Villain](https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ) | 2:45 | 2025-07-11 | 2025-08-05 |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-30 | 2024-12-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Jonna Fraser ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,889 likes - 74 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,881 likes - 74 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 20 | [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 |
 | 21 | [AZOTA MAMASOTA](https://open.spotify.com/track/5SO20gQK9WJba4coPLPIN4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 2:14 |
 | 22 | [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 |
-| 23 | [Aura](https://open.spotify.com/track/22MilDv76hzDnw5vvZWSIa) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Aura](https://open.spotify.com/album/4N5TQNNDpsbXG60hJF5YHL) | 2:21 |
+| 23 | [AURA](https://open.spotify.com/track/22MilDv76hzDnw5vvZWSIa) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [AURA](https://open.spotify.com/album/4N5TQNNDpsbXG60hJF5YHL) | 2:21 |
 | 24 | [Balans](https://open.spotify.com/track/6aqPezinT6LCMWQI4kgd10) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Kinoh](https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Balans](https://open.spotify.com/album/0kGGDKBOwhxpv9afeFxRbs) | 2:37 |
 | 25 | [Pinpas](https://open.spotify.com/track/0zKtsWu08TQ2joYfctFCwH) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Jacob](https://open.spotify.com/artist/2ZWlxqdbnltt0uP7DQZzJb), [CHIO](https://open.spotify.com/artist/17KBGFpwzRiw52IRtvJnYu), [Jermaine Niffer](https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY), [Manny](https://open.spotify.com/artist/6KiVn4W8Lqp3xHacePilJT) | [Pinpas](https://open.spotify.com/album/70Jqgixh0hNzgcAf6snUqz) | 1:40 |
 | 26 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 66 | [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1) | 2:32 |
 | 67 | [Teasen](https://open.spotify.com/track/2N5iYSspcFpqqhBUFNgTS1) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Teasen](https://open.spotify.com/album/5to6nUfWOfIKwABvpx3Xor) | 2:36 |
 | 68 | [mas q nada](https://open.spotify.com/track/2g6gR7WCwhLS0QCrMU7xBC) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 3:38 |
-| 69 | [Wat Ik Doe](https://open.spotify.com/track/4RCGoyfqGJLGYu8fsFTydp) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Wat Ik Doe](https://open.spotify.com/album/5KIOgfssSbSfV9aqcNhnhR) | 2:26 |
+| 69 | [WAT IK DOE](https://open.spotify.com/track/4RCGoyfqGJLGYu8fsFTydp) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [WAT IK DOE](https://open.spotify.com/album/5KIOgfssSbSfV9aqcNhnhR) | 2:26 |
 | 70 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 |
 | 71 | [Tiki Taka](https://open.spotify.com/track/3wATIp6pejrTsdEYWboNJF) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Red Rose Romance](https://open.spotify.com/album/5HMPz9vHbmthIDKiVXdSsO) | 2:07 |
 | 72 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |

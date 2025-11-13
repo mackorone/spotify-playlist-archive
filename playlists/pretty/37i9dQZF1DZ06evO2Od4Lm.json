@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129352,
+  "num_followers": 129375,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAABjQIFAGaLO0niKKWpNrtxP",
+  "snapshot_id": "aRJ8gAAAAADnhOPoeJnyyY1DUv9gbKqD",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Yourself / With My Whole Heart",
+        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 103014,
+      "name": "Love Yourself (Short Reprise)",
+      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Yourself / With My Whole Heart",
-        "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 103014,
-      "name": "Love Yourself (Short Reprise)",
-      "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Flint (For the Unemployed and Underpaid)",
+      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aporia",
         "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
       },
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
       },
       "artists": [
         {
@@ -752,41 +768,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 223893,
-      "name": "Flint (For the Unemployed and Underpaid)",
-      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Favorite Dream",
-        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
-        },
-        {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
-        }
-      ],
-      "duration_ms": 152644,
-      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
-      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
+      "duration_ms": 153693,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
     },
     {
       "added_at": null,
@@ -823,18 +807,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+        "name": "My Favorite Dream",
+        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
       },
       "artists": [
         {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
         }
       ],
-      "duration_ms": 153693,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
+      "duration_ms": 152644,
+      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
+      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
     },
     {
       "added_at": null,

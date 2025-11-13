@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Awich
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,290 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,287 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 3 | [Josho](https://open.spotify.com/track/0b5EkS1MB75CcQK1O3lB4m) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [Metamorphosis](https://open.spotify.com/album/3bS9wKuwcvMA0a9JUOnxZQ) | 1:27 |
 | 4 | [5FEET](https://open.spotify.com/track/0qtKyGcWh1DsLsB2GYOdor) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [5FEET](https://open.spotify.com/album/3LzwSTjVRieXoYDh9teRr3) | 4:00 |
 | 5 | [what am i made for?](https://open.spotify.com/track/6A2R5U4rigH8I7uogDnfvc) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/0kQhszYtu221bfIM2Tg6mv) | 3:47 |
-| 6 | [Lip Noise](https://open.spotify.com/track/3kmlp8uPqbrqTmvsyHSM1K) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [](https://open.spotify.com/album/null) | 4:58 |
+| 6 | [Lip Noise](https://open.spotify.com/track/3kmlp8uPqbrqTmvsyHSM1K) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [DEAR MYSTERIES](https://open.spotify.com/album/4hxdw3cTnoBALcncTVldxq) | 4:58 |
 | 7 | [K](https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Euphoria](https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag) | 4:15 |
 | 8 | [AGA](https://open.spotify.com/track/3sLVbx2GX2Sg4qdIxD7N7z) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [AGA](https://open.spotify.com/album/0aF1FxcAnVb5f3PX7Zaxbj) | 3:25 |
 | 9 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |

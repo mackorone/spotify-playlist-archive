@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p?si=BmfCfPx\_TrOzK6dqk5jtwA">giuliette price</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p?si=BmfCfPx\_TrOzK6dqk5jtwA">Ossi Grace</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,995 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,003 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [seeking happiness](https://open.spotify.com/track/5tQ1jWHYQUI0RaK7Q0WbeC) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [seeking happiness](https://open.spotify.com/album/4y2dq6AMdXK2CrT2f247lS) | 4:26 |
-| 2 | [Anywhere](https://open.spotify.com/track/7mbOhIIjCDUP0Vt1GEm1yT) | [Ossi Grace](https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr) | [In A Hopeless Place](https://open.spotify.com/album/3p4gFaEBX6OMPuxVsJgEw5) | 2:36 |
-| 3 | [Iduku](https://open.spotify.com/track/0cZptay0UBOAhkmTUO31Po) | [SIIBU](https://open.spotify.com/artist/2YUPgGlOpUW8MqoVBQICdd) | [A Zulu Lover Girl](https://open.spotify.com/album/6quj8KJtq38WLpoyMOjIuL) | 3:22 |
+| 1 | [Anywhere](https://open.spotify.com/track/7mbOhIIjCDUP0Vt1GEm1yT) | [Ossi Grace](https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr) | [In A Hopeless Place](https://open.spotify.com/album/3p4gFaEBX6OMPuxVsJgEw5) | 2:36 |
+| 2 | [Iduku](https://open.spotify.com/track/0cZptay0UBOAhkmTUO31Po) | [SIIBU](https://open.spotify.com/artist/2YUPgGlOpUW8MqoVBQICdd) | [A Zulu Lover Girl](https://open.spotify.com/album/6quj8KJtq38WLpoyMOjIuL) | 3:22 |
+| 3 | [seeking happiness](https://open.spotify.com/track/5tQ1jWHYQUI0RaK7Q0WbeC) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [seeking happiness](https://open.spotify.com/album/4y2dq6AMdXK2CrT2f247lS) | 4:26 |
 | 4 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
 | 5 | [Love From The Nineties](https://open.spotify.com/track/4ii4VKaQOAVtzt32ML4QtA) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Love From The Nineties](https://open.spotify.com/album/6bh3TgloXnkjY7zSTmQdNK) | 2:32 |
 | 6 | [No Matter the Mood](https://open.spotify.com/track/5tDNRu9BCMdr2reYK0rglL) | [ORCH](https://open.spotify.com/artist/1AFgd7pALRI6JUb0CAlt4k) | [No Matter the Mood](https://open.spotify.com/album/2kKrgDp4FT0nvruS3hQ8Ne) | 2:00 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 53 | [Dear Ex](https://open.spotify.com/track/7hAIX39HeD4wZZpThDOLUQ) | [Wiz Designer](https://open.spotify.com/artist/1yTEWhW1UidhRHDtRBsr2L) | [Dear Ex](https://open.spotify.com/album/0SenRgI2VCRXW4jHBa7dpO) | 2:33 |
 | 54 | [House Of Mirrors](https://open.spotify.com/track/0m52oHvaK7uThwe3HkumYY) | [TAYKATRIP](https://open.spotify.com/artist/31I01TL25gP5IiHHh0Xjez) | [House Of Mirrors](https://open.spotify.com/album/5LDVm6ENmcKqoQfWc4YzgK) | 3:28 |
 
-Snapshot ID: `AAAAACJQL9Lkt4DNFbBu7kq5cmnIhJCf`
+Snapshot ID: `AAAAAMQ3yN13hEmopairz/KKFFhB4M67`

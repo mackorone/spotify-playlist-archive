@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Orelsan, DJ Snake x Stray Kids et ROSALÍA au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,220 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,213 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

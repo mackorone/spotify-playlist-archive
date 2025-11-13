@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 92130,
+  "num_followers": 92141,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAtG6R/b7KtHrRunXlAHZ3H",
+  "snapshot_id": "aRJ8gAAAAAAmBrY9kDmlsGfR8YQcMOmm",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 282696,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Life (with Stick Figure) [2017]",
         "url": "https://open.spotify.com/album/5X1KWRLAGVcqe4OIgFI23P"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 172885,
       "name": "Good Life (with Stick Figure) - 2017",
       "url": "https://open.spotify.com/track/7GM1icCPWW3nRxa9p1mS3B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 282696,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 26 min
+71 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Black Vultures](https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 4:10 | 2025-03-08 |  |
 | [Boot Scootin' Boogie \(with Halestorm\)](https://open.spotify.com/track/6CU78ZRTNZRomC7o6K0gFh) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 2:56 | 2025-03-08 | 2025-08-10 |
 | [Break In \(feat\. Amy Lee\)](https://open.spotify.com/track/2vB55r6U3pqNI8I6Spz391) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Reimagined](https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl) | 4:54 | 2025-03-08 |  |
-| [Broken Doll](https://open.spotify.com/track/5hBSBygYl27nMEqjNv37Lk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:23 | 2025-08-10 | 2025-09-11 |
+| [Broken Doll](https://open.spotify.com/track/5hBSBygYl27nMEqjNv37Lk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:23 | 2025-08-10 |  |
 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 | 2025-03-08 |  |
 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 | 2025-04-24 |  |
 | [Daughters of Darkness](https://open.spotify.com/track/6LlulaQFzRuypfDLBPCWUq) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:55 | 2025-09-10 | 2025-09-11 |
@@ -45,7 +45,8 @@
 | [It's Not You](https://open.spotify.com/track/1piXfcb5rq0vuilQ6kC2Jx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 2:54 | 2025-03-08 |  |
 | [K\-I\-L\-L\-I\-N\-G](https://open.spotify.com/track/1ADdo5xu02u6qFW9c5bhAq) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 2:36 | 2025-08-10 | 2025-08-29 |
 | [Killing Ourselves to Live](https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 4:00 | 2025-03-08 |  |
-| [Like A Woman Can](https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:22 | 2025-08-10 |  |
+| [Like A Woman Can](https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:22 | 2025-08-10 | 2025-11-13 |
+| [Like A Woman Can \(feat\. Apocalyptica\) \- Live](https://open.spotify.com/track/3noMTd8fEDFskqrdW9tJfQ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Live From The nEVEREST Tour](https://open.spotify.com/album/017MSgoEpZr9QH1ChXei51) | 4:43 | 2025-11-13 |  |
 | [Love / Hate Heartbreak](https://open.spotify.com/track/10cmYEzChfAzj7dxQzRDvO) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:18 | 2025-03-08 | 2025-03-30 |
 | [Love Bites \(So Do I\)](https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:11 | 2025-09-09 |  |
 | [Love Bites \(So Do I\)](https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 | 2025-03-08 | 2025-09-09 |
@@ -62,7 +63,7 @@
 | [Rock Show](https://open.spotify.com/track/42h9lxw9OKy1sw6vh6dKBP) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:19 | 2025-08-08 |  |
 | [Shatter Me](https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Shatter Me \(Deluxe\)](https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe) | 4:38 | 2025-09-28 |  |
 | [Shiver](https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:50 | 2025-08-10 |  |
-| [Shoot to Thrill](https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 5:07 | 2025-03-08 |  |
+| [Shoot to Thrill](https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 5:07 | 2025-03-08 | 2025-11-13 |
 | [Shooting Star](https://open.spotify.com/track/0gxgmkQJPIUqgHCmzHYRBW) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Shooting Star](https://open.spotify.com/album/1RVbpAB5qeezJb1Ka1z4Wp) | 6:35 | 2025-10-29 |  |
 | [Sick Individual](https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:27 | 2025-03-08 |  |
 | [Skulls](https://open.spotify.com/track/4nFYiBLRjRYyhY95x5qSm1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:19 | 2025-04-26 | 2025-05-31 |

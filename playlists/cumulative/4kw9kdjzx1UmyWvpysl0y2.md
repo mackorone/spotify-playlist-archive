@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,112 songs - 2 day 14 hr 10 min
+1,114 songs - 2 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-07 | 2024-11-01 |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
+| [BELIEVE](https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [BELIEVE](https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ) | 2:41 | 2025-11-12 |  |
 | [Believe What You Want](https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Believe What You Want](https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe) | 4:38 | 2024-09-30 | 2025-01-10 |
 | [Believe What You Want \- Tokyo Machine Remix](https://open.spotify.com/track/4atZ397uEMc82psNuBd1Vs) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Believe What You Want \(Tokyo Machine Remix\)](https://open.spotify.com/album/1M95lzVN1aCGVMdpd18ykb) | 3:40 | 2025-10-08 |  |
 | [Bella Ciao](https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Bella Ciao](https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO) | 2:00 | 2024-10-02 | 2025-01-10 |
@@ -883,6 +884,7 @@
 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-02 | 2025-07-26 |
 | [Snakes & Ladders](https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Snakes & Ladders](https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A) | 3:02 | 2023-07-04 | 2023-12-14 |
 | [Snowflake](https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Snowflake](https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA) | 3:42 | 2024-05-28 | 2024-08-17 |
+| [Snowglobe](https://open.spotify.com/track/6UJJQojiWeKnlKJqvMZVPr) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [Snowglobe](https://open.spotify.com/album/3olphOfuxOVH6cV9IEIUfA) | 2:50 | 2025-11-12 |  |
 | [SO ABSURD](https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [SO ABSURD](https://open.spotify.com/album/5OkjBm4prdIorIAYptLT81) | 2:32 | 2023-10-04 | 2024-01-19 |
 | [SO ABSURD \- VIP](https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity \(Remixes\)](https://open.spotify.com/album/0CbP5M5WzdEP5RB82uf6YO) | 2:28 | 2024-12-19 | 2025-03-29 |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |

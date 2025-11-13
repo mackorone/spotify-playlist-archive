@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1211159,
+  "num_followers": 1211355,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-24 13:19:21",
       "album": {
-        "name": "Sergio El Bailador",
-        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Sergio el Bailador",
-      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
-    },
-    {
-      "added_at": "2025-10-24 13:19:21",
-      "album": {
         "name": "25 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 189152,
       "name": "Jurabas Tu",
       "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+    },
+    {
+      "added_at": "2025-10-24 13:19:21",
+      "album": {
+        "name": "Sergio El Bailador",
+        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Sergio el Bailador",
+      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
     },
     {
       "added_at": "2025-10-24 13:19:21",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-10-24 13:19:21",
       "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+      "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
+    },
+    {
+      "added_at": "2025-10-24 13:19:21",
+      "album": {
         "name": "El Amor de Mi Vida",
         "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 184586,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
-    },
-    {
-      "added_at": "2025-10-24 13:19:21",
-      "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-      "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
     },
     {
       "added_at": "2025-10-24 13:19:21",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-24 13:19:21",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
-    },
-    {
-      "added_at": "2025-10-24 13:19:21",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 247000,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
+    },
+    {
+      "added_at": "2025-10-24 13:19:21",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
     }
   ],
   "unique_name": "100% Cumbia",

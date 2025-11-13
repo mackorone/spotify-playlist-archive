@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-104 songs - 4 hr 52 min
+105 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [El Golpe Traidor](https://open.spotify.com/track/7bBKjaJ2bU7iLagUNwtJrW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:26 | 2022-06-01 |  |
 | [El Troquero](https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Puras De Pegue](https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc) | 3:03 | 2023-12-21 |  |
 | [Entre Copa y Copa](https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 2:43 | 2022-06-01 |  |
-| [Flor del Río](https://open.spotify.com/track/374obv40cY3m87Zj7e6pZ8) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 2:29 | 2025-03-09 |  |
+| [Flor del Río](https://open.spotify.com/track/374obv40cY3m87Zj7e6pZ8) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 2:29 | 2025-03-09 | 2025-11-13 |
+| [Flor del Río](https://open.spotify.com/track/6ctrQicvvZMGC6pG8pAwK9) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 2:29 | 2025-11-13 |  |
 | [Flor del Río](https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tesoros de Colección \- Los Mejores Duetos Rancheros de la Historia](https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ) | 2:31 | 2022-06-01 | 2025-03-09 |
 | [Gabino Barrera](https://open.spotify.com/track/7eWE0XtEh4ZbUjWzEDTSPJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:36 | 2022-06-01 | 2024-03-25 |
 | [Hablando Claro](https://open.spotify.com/track/7cXUofSYEealMPBcymmKGp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [La Gran Coleccion de Oro, Vol\. 1](https://open.spotify.com/album/7FgTvoZPZEOarrn1kKHWa0) | 2:46 | 2022-06-01 | 2025-06-14 |

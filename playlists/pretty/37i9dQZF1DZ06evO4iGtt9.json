@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8749,
+  "num_followers": 8754,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAAajttoom/cRqibgfEfK9ar",
+  "snapshot_id": "aRJ8gAAAAAAKuw51517gFgsE2He4CpnD",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gehn Gehn Album",
         "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 207317,
       "name": "Ogede",
       "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To U",
-        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "To U",
-      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 199546,
       "name": "Iberibe",
       "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To U",
+        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "To U",
+      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Like The Way",
+        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum - Machel Montano Remix",
       "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Like The Way",
-        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "I Like The Way",
-      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "God You Are 2 Much",
+      "url": "https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 212498,
       "name": "Abeg Abeg (feat. 2Baba & Timaya)",
       "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gift And Grace",
-        "url": "https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "God You Are 2 Much",
-      "url": "https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Käärijä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,779 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,790 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 64 | [Suudelmat ei pysty valehtelee](https://open.spotify.com/track/61b0NDjyAEPIGR6QgH9Dfj) | [Sana](https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog), [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Suudelmat ei pysty valehtelee](https://open.spotify.com/album/1so0ATwOmOoKgdANPmJhb0) | 3:07 |
 | 65 | [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 |
 
-Snapshot ID: `AAAAACB1NLTu0TBUcDSzdT2IDv2qGi4Q`
+Snapshot ID: `AAAAAMMDTTj0NIKVlolMsmFVFR2D6qj9`

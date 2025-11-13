@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-337 songs - 1 day 5 hr 24 min
+338 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Người Phụ Tình Tôi](https://open.spotify.com/track/76n21hc8bFprmvEa2MTA3I) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 6:58 | 2022-03-11 | 2023-05-24 |
 | [Người Thương Kẻ Nhớ](https://open.spotify.com/track/0uN3MEs0l5wgER0LKmjfLT) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Người Thương Kẻ Nhớ](https://open.spotify.com/album/54cWAp3JvSPROX2sLz5Z4l) | 4:24 | 2022-03-11 | 2022-07-29 |
 | [Người Thương Kẻ Nhớ](https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Lan Và Điệp 4](https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB) | 4:32 | 2022-03-11 | 2023-12-17 |
-| [Nhung Doi Hoa Sim](https://open.spotify.com/track/0BQRouDnpSqugi3WUbJ4Nl) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Nhung Doi Hoa Sim](https://open.spotify.com/album/6qJfuDMW94u2TQjlA5ItWr) | 6:03 | 2022-03-11 |  |
+| [Người yêu cô đơn](https://open.spotify.com/track/0pM2UmaeVqgWuxJciBKmGz) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 5:27 | 2025-06-03 |  |
+| [Nhung Doi Hoa Sim](https://open.spotify.com/track/0BQRouDnpSqugi3WUbJ4Nl) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Nhung Doi Hoa Sim](https://open.spotify.com/album/6qJfuDMW94u2TQjlA5ItWr) | 6:03 | 2022-03-11 | 2025-11-13 |
 | [Nhung Dom Mat Hoa Chau](https://open.spotify.com/track/5GBRcENiqamCztJOUE5xyK) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 4:28 | 2024-05-27 | 2025-02-26 |
 | [Nhung Ngay Xua Than Ai](https://open.spotify.com/track/66haNUuzYRnvrgtDqOXnBn) | [Mỹ Huyền](https://open.spotify.com/artist/49XaufENFxa27swhjCgZdB) | [My Huyen Tuyet Pham](https://open.spotify.com/album/0sIKqKcFctVmv0gciYqCSS) | 5:18 | 2024-02-09 | 2024-03-12 |
 | [Nhà Anh Nhà Em](https://open.spotify.com/track/7xsNkxqEmqfmd9cP9OdqSB) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Chuyện Tình Hoa Trắng](https://open.spotify.com/album/2BmWCLi5QYHSaDCEbzqedc) | 5:02 | 2022-03-11 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 162888,
+  "num_followers": 162900,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAADHot2xwv8YbMPplqcvUYdL",
+  "snapshot_id": "aRJ8gAAAAABJHKVkW4cp1ZP1lZXs9iWV",
   "tracks": [
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth, Chandler Moore )",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
     },
     {
       "added_at": null,
@@ -683,34 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Hold It All Together",
-        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 449704,
-      "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
-      "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
         "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
@@ -735,6 +707,34 @@
       "duration_ms": 202503,
       "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
       "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "duration_ms": 449704,
+      "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,895 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,910 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 29 | [The FOMO](https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV), [Complex](https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5) | [The FOMO](https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx) | 3:28 |
 | 30 | [Paint It Black](https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Paint It Black](https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp) | 3:18 |
 | 31 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
-| 32 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 |
-| 33 | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF) | 2:33 |
+| 32 | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF) | 2:33 |
+| 33 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 |
 | 34 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 |
 | 35 | [Straight To The Core](https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Straight To The Core](https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH) | 2:51 |
 | 36 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |

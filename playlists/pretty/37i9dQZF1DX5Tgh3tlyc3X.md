@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,462 likes - 171 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,522 likes - 171 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 170 | [Binaural Theta Sinus 100 Hz \- L 104 Hz \- R](https://open.spotify.com/track/6Pd8xCfxVXrD1sLW7Vorj8) | [Flannigan Hymes](https://open.spotify.com/artist/2LGsIbCyW8WQecWoxgtsMr) | [Binaural Theta Sinus 300 Hz \- L 303 Hz \- R](https://open.spotify.com/album/3EJ0bG54rmUZGuSea8TbIA) | 2:32 |
 | 171 | [Binaural Theta Waves 128\-130 Hz](https://open.spotify.com/track/05dPiXXMQDPIchZJtvGXDy) | [Theta Lake](https://open.spotify.com/artist/7eBIgxtUQM6TJ7BqEG0NJw) | [Binaural Theta Waves 128\-130 Hz](https://open.spotify.com/album/3hN50WH1khBMCTIwMZXAzD) | 2:32 |
 
-Snapshot ID: `AAAAAGmkUSXIS+TlQKtqEtzAdi9vV6NA`
+Snapshot ID: `AAAAAHUsDMmyp7Pq1cZeoktL1Tgd6fH+`

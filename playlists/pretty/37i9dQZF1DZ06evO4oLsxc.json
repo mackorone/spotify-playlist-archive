@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1055,
+  "num_followers": 1060,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRErAAAAAAB1LYZnZPoODA5Cgx9vf+iy",
+  "snapshot_id": "aRJ8gAAAAAAw++Xgd6kT4WOJ/WwOBRQt",
   "tracks": [
     {
       "added_at": null,
@@ -278,15 +278,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Mr Popular (feat. Smino)",
-      "url": "https://open.spotify.com/track/215MkXd23lFtFD1lUeRuGF"
+      "duration_ms": 296186,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/639zLmMqth7OXOV7NxsHL8"
     },
     {
       "added_at": null,
@@ -354,11 +350,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 296186,
-      "name": "Prophet",
-      "url": "https://open.spotify.com/track/639zLmMqth7OXOV7NxsHL8"
+      "duration_ms": 178493,
+      "name": "Mr Popular (feat. Smino)",
+      "url": "https://open.spotify.com/track/215MkXd23lFtFD1lUeRuGF"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "nag champa",
-        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
-      },
-      "artists": [
-        {
-          "name": "agajon",
-          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 172190,
-      "name": "so simple",
-      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Showbiz!",
         "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 173021,
       "name": "Artist of the Century",
       "url": "https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nag champa",
+        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
+      },
+      "artists": [
+        {
+          "name": "agajon",
+          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 172190,
+      "name": "so simple",
+      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
     },
     {
       "added_at": null,
