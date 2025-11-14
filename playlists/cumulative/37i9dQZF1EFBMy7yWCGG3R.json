@@ -5415,6 +5415,24 @@
     },
     {
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Rom Com",
+      "url": "https://open.spotify.com/track/5DlkRr6LX51VHk9MTZwKAl"
+    },
+    {
+      "album": {
         "name": "COIN",
         "url": "https://open.spotify.com/album/247KCXJJqEGxii7kfI4NZ2"
       },

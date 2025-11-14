@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11044,
+  "num_followers": 11041,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAADGiKMpHAdMlRjDgS7gla2m",
+  "snapshot_id": "aRPOAAAAAAANi5J+X892n/AF8UJHS5co",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano 17",
-        "url": "https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Piano 17",
-      "url": "https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Winter Impressions",
         "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 166338,
       "name": "A Tale in Paris",
       "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano 17",
+        "url": "https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Piano 17",
+      "url": "https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB"
     },
     {
       "added_at": null,

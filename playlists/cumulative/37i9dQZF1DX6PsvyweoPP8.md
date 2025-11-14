@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-306 songs - 14 hr 59 min
+307 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Victoria's Secrets](https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Gabriel Xan](https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm), [PTKA](https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej) | [Victoria's Secrets](https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM) | 3:01 | 2024-02-23 | 2024-06-15 |
 | [Vida Chique Madame](https://open.spotify.com/track/6VpqXQLljVXPTAdUbOaXOt) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Vida Chique Madame](https://open.spotify.com/album/2vm6G0MiLRBKJENg1HJIti) | 2:58 | 2023-05-26 | 2023-10-28 |
 | [Vida Eu Penso Na Gente Ainda](https://open.spotify.com/track/5qV0rG1Tdj5mpL9ssoLxrj) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Vida Eu Penso Na Gente Ainda](https://open.spotify.com/album/6TirEETOEzpQyGQnVSmm7S) | 2:38 | 2024-02-09 |  |
+| [Vilã](https://open.spotify.com/track/3RZvocIuAggwRb9CPDiH0W) | [Tertto](https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Vilã](https://open.spotify.com/album/3p7lX0NzQeef9OAI4bsIwd) | 2:54 | 2025-11-14 |  |
 | [Vinho & Sexo \- Prod\. Papatinho](https://open.spotify.com/track/0Lou5GSyISEjhtmbCgKGVI) | [Rany Money](https://open.spotify.com/artist/44P449nprZUercBnuts1o0) | [Vinho & Sexo \(Prod\. Papatinho\)](https://open.spotify.com/album/0ruRPIoTVV03Iaj3qxiaTs) | 3:16 | 2022-03-18 | 2022-11-12 |
 | [Visconde](https://open.spotify.com/track/7oQ1T06MueIr7JcxrKv2qa) | [Itinn086](https://open.spotify.com/artist/3E0XZ7RrFpI5jVamigv02T), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Visconde](https://open.spotify.com/album/2Xbh3EeiqJE3BCUP1DRGk0) | 2:44 | 2022-09-09 | 2022-10-01 |
 | [Você já é meu](https://open.spotify.com/track/1cByBn960B0t7A5TMGIFm3) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Garotas como eu](https://open.spotify.com/album/6YahacLZscu28rWWU55ZEM) | 2:57 | 2024-03-08 |  |

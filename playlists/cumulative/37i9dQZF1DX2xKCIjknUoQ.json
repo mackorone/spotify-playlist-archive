@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 200866,
       "name": "Cingl\u00e9s",
       "url": "https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 207132,
       "name": "My Name Is Stain",
       "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Qui de nous deux",
+        "url": "https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc"
+      },
+      "artists": [
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225720,
+      "name": "Qui de nous deux",
+      "url": "https://open.spotify.com/track/0PZiPbrDCdORrSW6IIICRG"
+    },
+    {
+      "album": {
         "name": "Aston Villa",
         "url": "https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm"
       },
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 240560,
       "name": "Regarde-moi",
       "url": "https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz"
@@ -1228,6 +1246,24 @@
       "duration_ms": 207173,
       "name": "R\u00e9volution.com",
       "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"
+    },
+    {
+      "album": {
+        "name": "La bonne attitude",
+        "url": "https://open.spotify.com/album/7COmZfBtnEJ1BAdk0bX1If"
+      },
+      "artists": [
+        {
+          "name": "Sinclair",
+          "url": "https://open.spotify.com/artist/27DUNSbKmWQsjfXFjCv3Q4"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296040,
+      "name": "Si c'est bon comme \u00e7a",
+      "url": "https://open.spotify.com/track/6lHHjwoRmbQkQcni9EOj3H"
     },
     {
       "album": {
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 306200,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/1IG7yiK7vAUD1bg5wfMmEO"

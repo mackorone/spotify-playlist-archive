@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Fito y Fitipaldis.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Sidecars.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 211173,
       "name": "Ay Que Gustito Pa' Mis Orejas",
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 190925,
       "name": "Baile infinito",
       "url": "https://open.spotify.com/track/3EMWwWg50FcBpMePJMzD0E"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 239258,
       "name": "Cielo herm\u00e9tico",
       "url": "https://open.spotify.com/track/5aWREznXDTWJ046mUoT162"
@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/1v53epoasiAWEskZGhPxoy"
+      },
+      "artists": [
+        {
+          "name": "Nat Simons",
+          "url": "https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242853,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/06UFtc599dVPNkuy7hoazi"
+    },
+    {
+      "album": {
         "name": "A Todo Que S\u00ed",
         "url": "https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS"
       },
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 220435,
       "name": "El bosque",
       "url": "https://open.spotify.com/track/2KGDBpYnB7YUK5BvUPGYQu"
@@ -6579,6 +6597,24 @@
     },
     {
       "album": {
+        "name": "La misma canci\u00f3n",
+        "url": "https://open.spotify.com/album/1MCpSDB8Ofg9qrjFizu4qU"
+      },
+      "artists": [
+        {
+          "name": "Sidecars",
+          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286534,
+      "name": "La misma canci\u00f3n",
+      "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
+    },
+    {
+      "album": {
         "name": "La Orilla",
         "url": "https://open.spotify.com/album/7bwz4aqT6xHJs7x2UiXNhP"
       },
@@ -7542,6 +7578,24 @@
       "duration_ms": 253786,
       "name": "Los Armarios",
       "url": "https://open.spotify.com/track/2SldLZgf5875EZgrSe1iIW"
+    },
+    {
+      "album": {
+        "name": "Los asombros",
+        "url": "https://open.spotify.com/album/1DBP3tzKAC77y7m5ScVNPt"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243164,
+      "name": "Los asombros",
+      "url": "https://open.spotify.com/track/1NR3Npg2MnDT43VbB45z0s"
     },
     {
       "album": {
@@ -8724,7 +8778,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 242761,
       "name": "Mujer sola, hombre solo",
       "url": "https://open.spotify.com/track/4L64oHad8LTensWM5YWvbd"
@@ -9116,7 +9170,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 270640,
       "name": "No es la tierra, Est\u00fapido. Eres t\u00fa!",
       "url": "https://open.spotify.com/track/6gIIcz8My87uT7wqw1jiZN"
@@ -9424,6 +9478,24 @@
       "duration_ms": 223104,
       "name": "Nubes de Papel",
       "url": "https://open.spotify.com/track/34T0QDCgw3Rqhk7lKFCXEx"
+    },
+    {
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0Re0PIjmK9dEdFbbY8i2yv"
+      },
+      "artists": [
+        {
+          "name": "Salistre",
+          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2zsxsNcbo5Sr2fuquzwQDz"
     },
     {
       "album": {

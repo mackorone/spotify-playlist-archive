@@ -2,9 +2,9 @@
 
 ### [Shisha Club](https://open.spotify.com/playlist/37i9dQZF1DX2lUf1uE6Mre)
 
-> Die Playlist zur Wasserpfeife\. Cover: Jazeek x Luciano
+> Die Playlist zur Wasserpfeife\. Cover: Jazeek
 
-379 songs - 16 hr 9 min
+381 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [HOME SWEET 7OUMA \(feat\. Noah Amano\)](https://open.spotify.com/track/6Yu2mYtEDWjHq1GVojcw2o) | [Skandal](https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV), [Noah Amano](https://open.spotify.com/artist/21yEnf7kUistCxIaqg8DDb) | [HOME SWEET 7OUMA \(feat\. Noah Amano\)](https://open.spotify.com/album/2NdMP7LoIimiXfDYIHZmIc) | 2:25 | 2024-09-09 | 2025-06-27 |
 | [Houma](https://open.spotify.com/track/51dlv2FBCSSlKY9oWTDQoD) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Qassem](https://open.spotify.com/artist/4bZVLoQBUBvGj058GUTaj1) | [Houma](https://open.spotify.com/album/5G1N4YwRF1TsrFpMtwd5PW) | 2:00 | 2024-12-09 | 2025-06-27 |
 | [Hyaluron](https://open.spotify.com/track/1PnpIuEtT1K5zhfOHuEB9J) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Hyaluron](https://open.spotify.com/album/3qMVTVqtP6rZfnIIpWZBfr) | 2:10 | 2024-12-09 | 2025-01-17 |
+| [ICE](https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [ICE](https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G) | 2:19 | 2025-11-13 |  |
 | [iceolator](https://open.spotify.com/track/6ap5DxU2deZo2dPT7YIVBP) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [iceolator](https://open.spotify.com/album/1JbPOVuXx2XrtuhWxewiCu) | 1:52 | 2025-02-03 | 2025-04-18 |
 | [Ideal](https://open.spotify.com/track/4S0m76panTQupVL0AQuesV) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Ideal](https://open.spotify.com/album/3OkXNauoV9PS1FUoeClZ4X) | 2:40 | 2025-04-24 | 2025-05-28 |
 | [Imaginando \(feat\. Morad & MERO\)](https://open.spotify.com/track/5XO5xTh36v4kdblErCUk4k) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Imaginando \(feat\. Morad & MERO\)](https://open.spotify.com/album/527fyLtwwJx69yZGobfV2H) | 3:09 | 2024-06-28 | 2024-07-27 |
@@ -219,6 +220,7 @@
 | [Macarena](https://open.spotify.com/track/5I9uCUKoWayvzs2y7ZRqSV) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Macarena](https://open.spotify.com/album/6UyzuEIaY0nGAYVEN0E4p2) | 2:48 | 2024-06-28 | 2024-07-05 |
 | [MAKE LOVE](https://open.spotify.com/track/1sW2fHqbVSc0DBsEMWM7RB) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [MAKE LOVE](https://open.spotify.com/album/2OSRTidLWzcKbpBfjvVs22) | 2:30 | 2025-04-10 | 2025-04-25 |
 | [Malaga](https://open.spotify.com/track/7wc5sF6gVT8KCeamMlcMWf) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Malaga](https://open.spotify.com/album/0nmZwTMbImYIBvqD9itep4) | 2:22 | 2024-07-25 | 2024-10-25 |
+| [Marbella](https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Marbella](https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt) | 2:22 | 2025-11-13 |  |
 | [me & you](https://open.spotify.com/track/2qX5NeJHw3LGR2cNoY8qbK) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [me & you](https://open.spotify.com/album/2KbDjW2XjpgFC6VTfwkTYu) | 2:18 | 2025-03-03 | 2025-05-16 |
 | [ME GUSTA](https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [ME GUSTA](https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC) | 2:38 | 2025-07-28 |  |
 | [Medusa](https://open.spotify.com/track/0GTPNseX2jfIwK81RKPLZd) | [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Medusa](https://open.spotify.com/album/7JjEhhKLIyFtoEjyXulsoX) | 2:26 | 2025-10-16 |  |
@@ -292,7 +294,7 @@
 | [Schmerz](https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Schmerz](https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ) | 2:43 | 2025-04-24 |  |
 | [Scusa](https://open.spotify.com/track/1fcHxYGjq7l6C8ugKHgJa8) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Albozz](https://open.spotify.com/artist/6TqHWporEvKAPW4jtZXBCH), [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [ICON 6 \- EP 21 \- Duetti](https://open.spotify.com/album/22slJwWE4RkTmJXz8LIJNA) | 3:08 | 2025-05-13 |  |
 | [Serie A](https://open.spotify.com/track/4GJd3kcSBnLqrXCtuEOEPH) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [SSJ](https://open.spotify.com/album/64i90MATD7eZu6yTlkVOHS) | 2:39 | 2025-08-07 |  |
-| [Sexy Lady](https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Sexy Lady](https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn) | 2:20 | 2025-08-07 |  |
+| [Sexy Lady](https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Sexy Lady](https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn) | 2:20 | 2025-08-07 | 2025-11-14 |
 | [Shaghaf Oud](https://open.spotify.com/track/10uXkMwebTL6Y3R2SVg4w4) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Shaghaf Oud](https://open.spotify.com/album/79gXDytLOufwOCvX5VUTob) | 2:09 | 2025-05-15 | 2025-07-25 |
 | [SHAWTY](https://open.spotify.com/track/1NnkKgNvWpVPT6h7NCie2W) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [SHAWTY](https://open.spotify.com/album/1abyKuoHKWwqf7dxWa47Gz) | 2:19 | 2025-04-17 | 2025-04-25 |
 | [Showtime](https://open.spotify.com/track/5KCpjci6j0QdpQmlpFqYfP) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Showtime](https://open.spotify.com/album/5MfLxCDK86zZkjz1b15VLL) | 1:41 | 2024-10-21 | 2024-11-19 |
@@ -383,7 +385,7 @@
 | [Zeit ist Geld](https://open.spotify.com/track/6A8yt5nUqOyBMWpnfxF1kP) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Zeit ist Geld](https://open.spotify.com/album/5thGMRVpw4Uv3IttUkS57o) | 2:46 | 2025-06-19 | 2025-07-25 |
 | [Zelle](https://open.spotify.com/track/0MLKvQX64ZyzNkXJwQ6jZw) | [Jiyo](https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [Zelle](https://open.spotify.com/album/0m7rVcss5XRw1b8OOHDFcU) | 2:17 | 2024-09-02 | 2024-12-10 |
 | [Zemer](https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Zemer](https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I) | 2:14 | 2024-08-21 |  |
-| [Zieh Zieh](https://open.spotify.com/track/5BsS41PRBAXs7EibiFdvPp) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Zieh Zieh](https://open.spotify.com/album/5u5bKLkbu0chTbmvTvQgKq) | 2:13 | 2025-11-06 |  |
+| [Zieh Zieh](https://open.spotify.com/track/5BsS41PRBAXs7EibiFdvPp) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Zieh Zieh](https://open.spotify.com/album/5u5bKLkbu0chTbmvTvQgKq) | 2:13 | 2025-11-06 | 2025-11-14 |
 | [Zimmer 582](https://open.spotify.com/track/1wsxoHOqXop0YHoNAB5SqG) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Zimmer 582](https://open.spotify.com/album/46eYkIUSrWVOGPEcxPcgpY) | 2:42 | 2025-04-17 | 2025-04-25 |
 | [ZOE](https://open.spotify.com/track/6ilShkVwoV3360sb3JIJWd) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [ZOE](https://open.spotify.com/album/0LcczDP99Tz2qWoEQFtNrQ) | 2:48 | 2025-08-21 |  |
 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 | 2025-04-17 |  |

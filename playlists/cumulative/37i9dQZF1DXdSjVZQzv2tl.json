@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Diego & Arnaldo, Z\u00e9 Neto & Cristiano",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus Vargas, Cleber & Cauan",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -4245,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "Ana Castela - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174170,
+      "name": "Nosso Quadro - Spotify Sessions",
+      "url": "https://open.spotify.com/track/2iKAO37qx988WHAJt4YyGE"
+    },
+    {
+      "album": {
         "name": "Nota de Rep\u00fadio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0"
       },
@@ -5713,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "Sol Nos Olhos",
+        "url": "https://open.spotify.com/album/3jJoGyBkSeVYLCEAnpzQ2H"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199061,
+      "name": "Sol Nos Olhos",
+      "url": "https://open.spotify.com/track/4mevJ3Ki58x4cQgWheMAPd"
+    },
+    {
+      "album": {
         "name": "Solteiro For\u00e7ado (Boiadeira Internacional)",
         "url": "https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i"
       },
@@ -5996,7 +6032,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 142755,
       "name": "Tem Amor, Tem Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/6C5EczmaeIUmf1pTYux9f1"
@@ -6708,7 +6744,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 167709,
       "name": "Volt\u00e1vel - Ao Vivo",
       "url": "https://open.spotify.com/track/74LohOvD6SpyKQHPt4WTGC"

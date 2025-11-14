@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,680 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 32 | [Tout le bonheur du monde \(feat\. Inaya\)](https://open.spotify.com/track/54LltxIjaYmwtp7OtRppKb) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Inaya](https://open.spotify.com/artist/3ssxd1G91AbaoMrg9vA3TY) | [Tout le bonheur du monde](https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC) | 3:21 |
 | 33 | [Happy](https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 3:53 |
 | 34 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 |
-| 35 | [Ce mur qui nous sépare \- de la série TV "Miraculous"](https://open.spotify.com/track/2YF9TdhTuz5NsV3PHAguYN) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Ce mur qui nous sépare \(de la série TV "Miraculous"\)](https://open.spotify.com/album/7ih29Ga5PuH0avOjbVnN3c) | 4:02 |
+| 35 | [Ce mur qui nous sépare \- de la série TV "Miraculous"](https://open.spotify.com/track/2YF9TdhTuz5NsV3PHAguYN) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Ce mur qui nous sépare \(de la série TV "Miraculous"\)](https://open.spotify.com/album/7ih29Ga5PuH0avOjbVnN3c) | 4:00 |
 | 36 | [Shake It Off](https://open.spotify.com/track/1p52mBoILwvouXvCie1c3q) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 3:28 |
 | 37 | [Hakuna Matata](https://open.spotify.com/track/2ZshgCOIV4YQ3fmBrK6QlE) | [Kids Love Disney](https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX), [Lévanah Solomon](https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc), [Ismaël El Marjou](https://open.spotify.com/artist/2hKMbLjhkxbw6bRCA5Iva4) | [Kids Love Disney](https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA) | 3:29 |
 | 38 | [Señorita](https://open.spotify.com/track/5i9RzQa9BPRDZR7qHuiey1) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t) | 3:10 |

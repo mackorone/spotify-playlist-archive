@@ -213,6 +213,32 @@
     },
     {
       "album": {
+        "name": "Bombay Acid",
+        "url": "https://open.spotify.com/album/4V920KjSGo0PCU9UebEuGC"
+      },
+      "artists": [
+        {
+          "name": "Indo Warehouse",
+          "url": "https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2"
+        },
+        {
+          "name": "Kunal Merchant",
+          "url": "https://open.spotify.com/artist/3dnfx7aJ7P7yMP6JuujdjB"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Bombay Acid",
+      "url": "https://open.spotify.com/track/6LCqeqxI8ezqTpQWQSWirk"
+    },
+    {
+      "album": {
         "name": "Bombay Dreams (feat. Kavita Seth)",
         "url": "https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3"
       },

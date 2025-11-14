@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-440 songs - 22 hr 43 min
+443 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Atrevida](https://open.spotify.com/track/58nKfhlWsJ3pFEQDW7Mel7) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Atrevida](https://open.spotify.com/album/4kzAbL8Xc7eCUG4eRh7RZe) | 2:50 | 2024-06-27 | 2024-10-04 |
 | [Au Wenn Du Meinsch](https://open.spotify.com/track/3VJIskMud77RiOU7Q869Uh) | [OG Florin](https://open.spotify.com/artist/5OxRSgisvdKcNLUsvCzZc9) | [Träffpunkt](https://open.spotify.com/album/3rD5gxbSwNRO3aheFMcPuv) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [babyboy](https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [Milan](https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE) | [babyboy](https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8) | 2:50 | 2024-06-27 | 2024-10-28 |
+| [Back To You](https://open.spotify.com/track/34nhR5m1ASOnTdMAEMk8go) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [November](https://open.spotify.com/album/13D2CoRwXl97xpKUl7Ijh8) | 2:53 | 2025-11-13 |  |
 | [bad in bed](https://open.spotify.com/track/4jtAvPO4BGKgxJv8ldLxHH) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:17 | 2025-05-15 | 2025-05-23 |
 | [bad in bed](https://open.spotify.com/track/5VEbufushgdxy4ABk3zLgb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [bad in bed](https://open.spotify.com/album/3rJocQaLt2DOdES15IklMl) | 3:17 | 2025-01-10 | 2025-03-08 |
 | [bad times](https://open.spotify.com/track/72hh4nkhvz4iC6mXpJZ9oL) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bad times](https://open.spotify.com/album/47I2gUQL7qdI0iYfY5DNxo) | 3:03 | 2024-06-27 | 2024-07-14 |
@@ -89,8 +90,9 @@
 | [Corpse Bride](https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Corpse Bride](https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs) | 3:07 | 2024-09-13 | 2024-10-19 |
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 | 2025-06-12 |
 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 | 2024-11-29 | 2025-07-11 |
-| [Curse](https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Curse](https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2) | 2:57 | 2025-10-16 |  |
+| [Curse](https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Curse](https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2) | 2:57 | 2025-10-16 | 2025-11-14 |
 | [Da bist du](https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Da bist du](https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ) | 2:14 | 2025-10-24 |  |
+| [DAME DE PIQUE](https://open.spotify.com/track/0N9qqWHtdzlvTwPyeappjH) | [Mia Oud](https://open.spotify.com/artist/65AflfF9AgRyhp7Dpc2yGD), [QUARTZ](https://open.spotify.com/artist/6IUYieqhxuuDEMav8i1yiV) | [DAME DE PIQUE](https://open.spotify.com/album/5EmLiEhLwKmA8HZaYGEoXE) | 2:43 | 2025-11-13 |  |
 | [Dancing Alone Again](https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Dancing Alone Again](https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C) | 3:11 | 2025-08-28 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Dein Herz](https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Dein Herz](https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5) | 2:48 | 2025-01-10 |  |
@@ -193,7 +195,7 @@
 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 | 2024-10-03 | 2024-10-24 |
 | [I han es Zündhölzli azündt](https://open.spotify.com/track/1BgnJyDB7jEYoAMpHqKbcn) | [Mani Matter](https://open.spotify.com/artist/7wkPBPwF9oOZJ8lEbQjIVt) | [I han es Zündhölzli azündt](https://open.spotify.com/album/04MiVKnlpaFvjQY0LBLmry) | 1:33 | 2025-05-08 | 2025-05-16 |
 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 | 2024-09-06 | 2025-05-29 |
-| [I Just Wanna Turn It Up](https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo) | [I Just Wanna Turn It Up](https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld) | 2:44 | 2025-08-07 |  |
+| [I Just Wanna Turn It Up](https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo) | [I Just Wanna Turn It Up](https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld) | 2:44 | 2025-08-07 | 2025-11-14 |
 | [I schänke dr mis Härz](https://open.spotify.com/track/16yQMAq01OKNB5oiEFajio) | [Züri West](https://open.spotify.com/artist/5whb6si9KY0ywOL5zeRlV9) | [Züriwest](https://open.spotify.com/album/0frrjFHdmIInWUPLnFGExA) | 3:28 | 2025-04-17 | 2025-05-16 |
 | [i think i'm in love](https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [i think i'm in love](https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9) | 3:07 | 2024-08-09 | 2024-10-04 |
 | [I weiss das](https://open.spotify.com/track/6OqMGnEQzYpePPj7B1l0kT) | [Fischermätteli Hood Gäng](https://open.spotify.com/artist/12y9kQeYqRhyqDQsC7SI68) | [Turbo](https://open.spotify.com/album/2pOZ7Af7rkYWPPMi7NSXqX) | 2:48 | 2025-04-24 | 2025-05-02 |
@@ -271,6 +273,7 @@
 | [Mond](https://open.spotify.com/track/2Jb3Hv9Wj4gnhv9APP99rK) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Mond](https://open.spotify.com/album/12IgBWXsy2s0UJggqj5OtH) | 2:35 | 2024-10-03 | 2024-11-05 |
 | [moonflower](https://open.spotify.com/track/2cCdH558afXwJ38FkWRNmB) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 2:47 | 2025-03-07 | 2025-06-08 |
 | [more light](https://open.spotify.com/track/6qp9ZDjiBv1sAO15FDNRpB) | [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq), [88eastBoae](https://open.spotify.com/artist/0a8zYN9NHy5KrJUQdqMrFI) | [more light](https://open.spotify.com/album/6EgoKoNllJjZYMlfxc632C) | 2:46 | 2025-04-24 | 2025-05-02 |
+| [Moved On](https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [Moved On](https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc) | 3:08 | 2025-11-13 |  |
 | [MOVIE](https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [MOVIE](https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX) | 3:41 | 2024-09-27 | 2024-11-16 |
 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 | 2025-04-17 | 2025-04-25 |
 | [My Life](https://open.spotify.com/track/3in7NzbLsVP1HZqYcE58uM) | [Boy Amor](https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E) | [My Life](https://open.spotify.com/album/4hqosLwz9aarWxNFH0FyVV) | 3:39 | 2025-09-12 |  |
@@ -427,7 +430,7 @@
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-20 |
 | [Weekend](https://open.spotify.com/track/3XiLkVWxjafBq4YcvtCqq8) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:24 | 2025-04-24 | 2025-05-02 |
-| [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 |  |
+| [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 | 2025-11-14 |
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 | 2025-09-13 |
 | [What If This World](https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [What If This World](https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr) | 3:39 | 2025-08-14 | 2025-10-29 |

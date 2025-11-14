@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,028 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,051 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 75 | [The Wife](https://open.spotify.com/track/7fXEEvo3qSmMO7luYT5amw) | [Jocelyn Pook](https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06) | [The Wife \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0RrX75zsLkwGfGsdDLGxtS) | 3:58 |
 | 76 | [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 |
 | 77 | [She Remembers](https://open.spotify.com/track/4zj2TfCmxKJ92IwtNWOAaM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 3:49 |
-| 78 | [New Queen](https://open.spotify.com/track/0saVGOHWPnGXus321u3c1i) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Three \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2Fo6fhIcRqerCpyYBORZWK) | 3:56 |
+| 78 | [New Queen](https://open.spotify.com/track/0saVGOHWPnGXus321u3c1i) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [The Crown: Season Three \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2Fo6fhIcRqerCpyYBORZWK) | 3:56 |
 | 79 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 |
 | 80 | [Harry and Ginny](https://open.spotify.com/track/2iX2KVy2X2QEhTqx4ebOeO) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5gI4aiUCMxTkrjEeXDbybG) | 1:43 |
 | 81 | [Hollow in the Ferns](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 |

@@ -4,7 +4,7 @@
 
 > The Deans are taking over the world!
 
-1,349 songs - 4 day 3 hr 50 min
+1,351 songs - 4 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Downfall](https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH) | 3:56 | 2024-01-04 | 2025-08-16 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-15 | 2023-08-04 |
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-10 | 2023-01-27 |
+| [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 | 2025-11-13 |  |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-09-09 | 2025-08-16 |
 | [Drop That Shit](https://open.spotify.com/track/13AdDCRZ0YZXNuO6TI1NZU) | [Liquid Rose](https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN) | [Drop That Shit](https://open.spotify.com/album/34GYmdKFlqrOhxP6BifSr3) | 2:47 | 2024-07-04 | 2025-08-16 |
 | [Dry & High \- Edit](https://open.spotify.com/track/0hzEI361Ekv59mGaVxp4Us) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Dry & High](https://open.spotify.com/album/5lczTqf9xL2Me3lzFmkW6x) | 3:38 | 2022-08-18 | 2022-10-07 |
@@ -463,6 +464,7 @@
 | [Great Beyond](https://open.spotify.com/track/7bDmfSbYvJuPOV0JKkM4qm) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [The Great Beyond EP](https://open.spotify.com/album/675VeaTznSjELUPod9RotX) | 4:09 | 2022-11-17 | 2023-03-10 |
 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 | 2023-05-11 | 2023-08-12 |
 | [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 | 2023-08-10 | 2024-02-23 |
+| [Green Nights](https://open.spotify.com/track/43OTS5qjTsNWe515us0Zd4) | [Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [Green Nights](https://open.spotify.com/album/0UD0pr0kGbY2Y12hy7kVR8) | 2:33 | 2025-11-13 |  |
 | [Grey](https://open.spotify.com/track/5JGtxRAsbJqZZmFClDuJOK) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Grey](https://open.spotify.com/album/5b4bLkD95egwnwGACNgO9F) | 7:36 | 2024-12-05 | 2025-10-16 |
 | [Grime Dust](https://open.spotify.com/track/6abjk9eXvWqx0aoKAGNYZa) | [Far&High](https://open.spotify.com/artist/7DEuf4iD1rRxpszUW1MDdP), [pizzaaftersex](https://open.spotify.com/artist/5fAx3oQVUxzYsLdamULaLu) | [Grime Dust](https://open.spotify.com/album/53AQ3tvvGgJOJDjcG43cky) | 6:28 | 2024-06-06 | 2025-08-16 |
 | [Gritty Dance](https://open.spotify.com/track/0GQQRGWgPcE2Tj35gS49ys) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56), [Angel Sanchez](https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC) | [Gritty Dance](https://open.spotify.com/album/4KhxKZ6Igqv2uiHeVQCGCl) | 8:12 | 2024-08-08 | 2025-08-16 |

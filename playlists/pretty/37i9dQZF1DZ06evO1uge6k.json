@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 258838,
+  "num_followers": 258860,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAABJo0PXaYSvXjiVDuZJ7LLK",
+  "snapshot_id": "aRPOAAAAAAAj9grVNJHkYebBt3tNdgEW",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Hot, Blue and Righteous (2006 Remaster)",
-      "url": "https://open.spotify.com/track/3PjUjSHQcZteFB77WX3WYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 144813,
       "name": "Heard It on the X (2005 Remaster)",
       "url": "https://open.spotify.com/track/1zYDw55mtTWD6kGOlFxIz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Hot, Blue and Righteous (2006 Remaster)",
+      "url": "https://open.spotify.com/track/3PjUjSHQcZteFB77WX3WYZ"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Precious and Grace (2005 Remaster)",
-      "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 156733,
       "name": "Balinese (2005 Remaster)",
       "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Precious and Grace (2005 Remaster)",
+      "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
     },
     {
       "added_at": null,

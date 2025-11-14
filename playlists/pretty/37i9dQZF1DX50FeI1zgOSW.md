@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Rudh
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,357 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,365 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 19 | [Potta Kuyil \(Otta Kasu\)](https://open.spotify.com/track/73u7PLCEvAWoCcBmTitS6v) | [Pogan](https://open.spotify.com/artist/3H1gfzjgnwqUgVfsv1AJO1), [ArjunRaj](https://open.spotify.com/artist/1YwxRUVU0kaNMdcK2NQja8), [Akshay Govind](https://open.spotify.com/artist/1EHbtNMHuhf09oHBZUFg1b), [Shehnaz Fathima](https://open.spotify.com/artist/4OhY5PCLIusO6C95zEdFt5), [Koshal](https://open.spotify.com/artist/1wvjJEVaHh1HELljGmSOtX), [Otta Kasu](https://open.spotify.com/artist/3VKlemr8KG7i4Xxrwl7u0N) | [Potta Kuyil \(Otta Kasu\)](https://open.spotify.com/album/4Gny4NcSHOCj3s3jOqRJRQ) | 4:18 |
 | 20 | [Kanmai Itta Poi](https://open.spotify.com/track/7dgDHiM9EB9cRaIDFMmflO) | [Viyan Pugazhendhi](https://open.spotify.com/artist/1DlDru2UCX2WBPqHwluwtt) | [Kanmai Itta Poi](https://open.spotify.com/album/7H7ekzrocQTujZ6Y8Ii2xg) | 3:03 |
 | 21 | [Dhwani](https://open.spotify.com/track/05qCw3TgWoH6jg4GlzxLp0) | [Midhun Suresh](https://open.spotify.com/artist/24nhDe8XrRTh7NuSjLDJLL), [Megha Salila](https://open.spotify.com/artist/7nTES2cUKX4jdUOXxSs1YZ), [Aadhi](https://open.spotify.com/artist/62LkuWN34h9wWrFQaAvO74) | [Dhwani](https://open.spotify.com/album/6WdSRbZrPptJCQfHmGyX2j) | 3:15 |
-| 22 | [Nee Yaaro](https://open.spotify.com/track/3HJUrDWeltUMXyU9Vwzklx) | [Ahalya Doris S](https://open.spotify.com/artist/3usgZF0wWk84D8mBdf5FoF), [Sanjay Kumar](https://open.spotify.com/artist/32ad0QtJBapEts8FCsp8MD) | [Nee Yaaro](https://open.spotify.com/album/2igS6FPy85uwLaxystVQYG) | 3:34 |
+| 22 | [Nee Yaaro](https://open.spotify.com/track/3HJUrDWeltUMXyU9Vwzklx) | [Ahalya Doris S](https://open.spotify.com/artist/3usgZF0wWk84D8mBdf5FoF), [Sanjay Kumar](https://open.spotify.com/artist/32ad0QtJBapEts8FCsp8MD), [Vignesh Vijayaraghavan](https://open.spotify.com/artist/5wQQ1XWiYpVHDBvsUSMg0c) | [Nee Yaaro](https://open.spotify.com/album/2igS6FPy85uwLaxystVQYG) | 3:34 |
 | 23 | [VaVa Nightcore](https://open.spotify.com/track/2nPxyiK6th607iCsAUyWJc) | [Colin James Gordon](https://open.spotify.com/artist/4xI9EJrlVcy7uHKnRBfPDO), [Shilpa Ananth](https://open.spotify.com/artist/3mlTRbD5Vit017KpgSvzEi) | [VaVa Nightcore](https://open.spotify.com/album/4DsdYz5PA3wnSMZnFViWlf) | 3:05 |
 | 24 | [Paravaye](https://open.spotify.com/track/5ZL592j6IRUW6di57xQEb5) | [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Paravaye](https://open.spotify.com/album/1zIo9w3rHWM6qxVjyESpH0) | 3:41 |
 | 25 | [ATMA](https://open.spotify.com/track/3TLUrerWmrfDo6CnxKwS4u) | [PAX DHARMA](https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ) | [ATMA](https://open.spotify.com/album/5fgQTko22Vt1yXZ84yW6Sf) | 3:05 |

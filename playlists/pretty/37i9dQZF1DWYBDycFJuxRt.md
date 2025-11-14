@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: TOMOO \*👉 <a href="https://spice.eplus.jp/articles/342029">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,328 likes - 79 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,359 likes - 79 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 31 | [THE BOOM!!! \(feat\. ratiff & A.G.O\)](https://open.spotify.com/track/6QZasuo3uewvNdCbZPm3YQ) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [THE BOOM!!! \(feat\. ratiff & A.G.O\)](https://open.spotify.com/album/4OJ27BEepgucmqXJX30vEx) | 3:07 |
 | 32 | [明日の足跡](https://open.spotify.com/track/5jkHZGeGQ2LvZPh11YrICQ) | [T字路s](https://open.spotify.com/artist/238nzReAbgGdev4POJB20t) | [MAGIC TIME](https://open.spotify.com/album/2EEygaL7QfPErHivOeHbYo) | 4:02 |
 | 33 | [Chigirienoyohni Watashiwa](https://open.spotify.com/track/0jhbcjWDPhTSqNO5z2iQPd) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [Chigirienoyohni Watashiwa](https://open.spotify.com/album/3h5pdAwuD6l1u27zk5hBc8) | 5:45 |
-| 34 | [Misunderstood](https://open.spotify.com/track/6Q2juwR6y4mCuJG0nW2d7t) | [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx), [Two Four](https://open.spotify.com/artist/6QphsUUFSSqLLLH36P2V9V) | [Misunderstood](https://open.spotify.com/album/0OZouDc9rp8XnlDYpzGCLf) | 2:14 |
+| 34 | [Misunderstood](https://open.spotify.com/track/6Q2juwR6y4mCuJG0nW2d7t) | [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx), [Two Four](https://open.spotify.com/artist/2sPPqXgGF4lgQDXW6Ugdcf) | [Misunderstood](https://open.spotify.com/album/0OZouDc9rp8XnlDYpzGCLf) | 2:14 |
 | 35 | [PARTY IS ALIVE](https://open.spotify.com/track/55dw9MllJApEunMioGl7qP) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [PARTY IS ALIVE](https://open.spotify.com/album/3bcGvgCAtDSJDMkNjCqSAW) | 4:18 |
 | 36 | [PARADISE \- JP Ver.](https://open.spotify.com/track/6Lei1zVuEuI65ZqlqXLPDL) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL JP SELECTION \[LOVE PULSE\]](https://open.spotify.com/album/3HHB9GFSCEPXsp0RaaBzzl) | 2:50 |
 | 37 | [Super Luna](https://open.spotify.com/track/7KzvRJThUDhHZmhvHbbngi) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Super Luna](https://open.spotify.com/album/4WeJZrYQVlypCWog50MUSl) | 3:12 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 50 | [7 minutes](https://open.spotify.com/track/4xvUNJzple6pL5yJjz9dd7) | [Natsudaidai](https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G) | [7 minutes](https://open.spotify.com/album/3z37n5Twoc3niP80UDXRB0) | 3:35 |
 | 51 | [片想いトリップ](https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [片想いトリップ](https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn) | 2:56 |
 | 52 | [Secret spot](https://open.spotify.com/track/3V6SCb99rqNjKgEjoUAjxn) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [Secret spot](https://open.spotify.com/album/5TAsGUWxwyTAc1qzhJPabX) | 2:10 |
-| 53 | [タネを撒く](https://open.spotify.com/track/2xX0EMqIiu2R87AwABblXK) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [タネを撒く](https://open.spotify.com/album/2Q3k4A3J8uHqy7Qh2she2F) | 4:27 |
+| 53 | [タネを蒔く](https://open.spotify.com/track/2xX0EMqIiu2R87AwABblXK) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [タネを蒔く](https://open.spotify.com/album/2Q3k4A3J8uHqy7Qh2she2F) | 4:27 |
 | 54 | [you](https://open.spotify.com/track/74vKTeU9SYikaMZZAAfmXj) | [林 和希](https://open.spotify.com/artist/2QT3HyGIWurcFoP3sbtK6E) | [to](https://open.spotify.com/album/0SqBA1TfurxYxshpTlHVLe) | 5:17 |
 | 55 | [This Road](https://open.spotify.com/track/7pbCo0JHhj6Gxgrq9FVrWi) | [MONOBRIGHT](https://open.spotify.com/artist/1fA0ExNzbvrQiX84L8SqQk) | [This Road](https://open.spotify.com/album/63Yx79R00fNi0aOwriu3Y9) | 2:36 |
 | 56 | [汚れなきクソ野郎ども](https://open.spotify.com/track/7nDXipyOJY7HvrdkM1aUeD) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [汚れなきクソ野郎ども](https://open.spotify.com/album/4B4ivVcNu1GFS8WkEwWLkP) | 2:36 |

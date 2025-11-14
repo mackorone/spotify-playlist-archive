@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Oklou \(du titre \#1 au \#6\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,961 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,968 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Amour Moitié](https://open.spotify.com/track/3wAfGwL9EbrHF8P2ewSezC) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [G Buggé](https://open.spotify.com/album/0g00qW3j7xiA7X10SPfaaR) | 3:20 |
 | 50 | [Good Morning](https://open.spotify.com/track/6Q4ShJIJBKArEjIqwiYCo5) | [Tatyana Jane](https://open.spotify.com/artist/5K976UJ5j3DvhhBkOd7gKx) | [Good Morning](https://open.spotify.com/album/5VbMI78S2QG24SIXBlxJoB) | 4:11 |
 
-Snapshot ID: `AAAAANJLKJMn2WjZ4UPUNXlRjPKQunPF`
+Snapshot ID: `AAAAAP22TADdyK0eEZ+DB77PDbyhiVcA`

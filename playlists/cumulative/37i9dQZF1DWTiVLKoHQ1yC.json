@@ -3033,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "Inside My Mind",
+        "url": "https://open.spotify.com/album/51Bm49zEyTXCR3kzqSywco"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222598,
+      "name": "Inside My Mind",
+      "url": "https://open.spotify.com/track/4y6WROhnWvAhYlkjNi7nPa"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
       },
@@ -3084,7 +3106,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 194139,
       "name": "It Feels Different Now",
       "url": "https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6"

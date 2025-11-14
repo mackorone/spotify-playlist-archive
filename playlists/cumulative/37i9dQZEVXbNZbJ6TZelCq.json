@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -4696,7 +4696,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 103384,
       "name": "BELLY DANCE",
       "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
@@ -13008,7 +13008,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 166760,
       "name": "El chapo",
       "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
@@ -14076,7 +14076,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 143505,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5"
@@ -14123,6 +14123,24 @@
     },
     {
       "album": {
+        "name": "Fara numar",
+        "url": "https://open.spotify.com/album/5tHBUxFBBBj1Rjyb9EqOYs"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Fara numar",
+      "url": "https://open.spotify.com/track/0nBMyMNhA8LxFM0BoUcgD2"
+    },
+    {
+      "album": {
         "name": "Z PRINT",
         "url": "https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso"
       },
@@ -14134,7 +14152,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "FARMACISTA",
       "url": "https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2"
@@ -14564,7 +14582,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Fetele din mahala",
       "url": "https://open.spotify.com/track/0U6hUt9szpEQgKFmkMYW5L"
@@ -15008,7 +15026,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "FLY",
       "url": "https://open.spotify.com/track/4Hnz28zV4yVyc2J7U3ZR0x"
@@ -19620,7 +19638,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 145655,
       "name": "Iart\u0103-m\u0103",
       "url": "https://open.spotify.com/track/7votX46q6Osc7afmHgLIIZ"
@@ -20236,7 +20254,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 181626,
       "name": "Insula Iubirii",
       "url": "https://open.spotify.com/track/0fFZDVMwx6JzhWbZiG7aCX"
@@ -23974,7 +23992,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -25100,7 +25118,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -25260,7 +25278,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 165269,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
@@ -27774,7 +27792,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 193560,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/3HWS3HVkirA39KnT84Io5g"
@@ -30628,7 +30646,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 171878,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/6wZGcl9qrUvlzrX1S1aci4"
@@ -43842,7 +43860,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 149000,
       "name": "Vreau",
       "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"

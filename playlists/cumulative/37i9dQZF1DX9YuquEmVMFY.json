@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "eaJ [LOVE IN SEOUL] 2025.11.13 @ \ube14\ub8e8\uc2a4\ud018\uc5b4 SOL\ud2b8\ub798\ube14\ud640",
-  "name": "On Tour Korea: eaJ",
+  "description": "Jeremy Zucker [LOVE IN SEOUL] 2025.11.23 @ \ube14\ub8e8\uc2a4\ud018\uc5b4 SOL\ud2b8\ub798\ube14\ud640",
+  "name": "On Tour Korea: Jeremy Zucker",
   "tracks": [
+    {
+      "album": {
+        "name": "CRUSHER",
+        "url": "https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150773,
+      "name": "18",
+      "url": "https://open.spotify.com/track/1No2CqopteR18XVL4RJHNO"
+    },
     {
       "album": {
         "name": "1999",
@@ -439,6 +457,24 @@
     },
     {
       "album": {
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "all the kids are depressed",
+      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+    },
+    {
+      "album": {
         "name": "What Ifs & Maybes",
         "url": "https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F"
       },
@@ -512,6 +548,24 @@
       "duration_ms": 216626,
       "name": "Always in My Head",
       "url": "https://open.spotify.com/track/0FMjqbY3aWo1QDbo3GwXib"
+    },
+    {
+      "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146160,
+      "name": "always, i'll care",
+      "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
     },
     {
       "album": {
@@ -903,6 +957,28 @@
     },
     {
       "album": {
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193946,
+      "name": "better off",
+      "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
+    },
+    {
+      "album": {
         "name": "BIG MAD",
         "url": "https://open.spotify.com/album/0iVTOa2qX5dH97F287gKl4"
       },
@@ -1207,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "brent ii",
+        "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175253,
+      "name": "brooklyn boy",
+      "url": "https://open.spotify.com/track/49NHhYyzUBQBwexsZxcjlN"
+    },
+    {
+      "album": {
         "name": "T-school",
         "url": "https://open.spotify.com/album/53uIVgmBeviRcuLXxotl8h"
       },
@@ -1248,7 +1342,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 149690,
       "name": "burn",
       "url": "https://open.spotify.com/track/1bMuzydx2yyTMDfQHKSWF8"
@@ -1422,7 +1516,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 186453,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/6mZ6SNzhdYJg9cN22RoZip"
@@ -1462,7 +1556,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176101,
       "name": "castle in the sky",
       "url": "https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB"
@@ -1821,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "summer,",
+        "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181613,
+      "name": "comethru",
+      "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -1944,6 +2056,24 @@
       "duration_ms": 201333,
       "name": "Cry Again",
       "url": "https://open.spotify.com/track/5S3HLZv4wJd8NnDc9PmIxn"
+    },
+    {
+      "album": {
+        "name": "CRUSHER",
+        "url": "https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "Cry with you",
+      "url": "https://open.spotify.com/track/46LAHXpuIUZ5kR7AyQ1qmd"
     },
     {
       "album": {
@@ -2512,7 +2642,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 156020,
       "name": "enemy",
       "url": "https://open.spotify.com/track/4v8jCYnK4NPjHzujzucsPu"
@@ -3252,7 +3382,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 149500,
       "name": "friendly fire",
       "url": "https://open.spotify.com/track/5gKAyVa0H23yWgiPGUaj3a"
@@ -3314,6 +3444,24 @@
       "duration_ms": 184218,
       "name": "Full Attention",
       "url": "https://open.spotify.com/track/56hmVcCMjGBWjnVsTWSbus"
+    },
+    {
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "garden state",
+      "url": "https://open.spotify.com/track/1h2apv83FhPeWbflsV5Ycy"
     },
     {
       "album": {
@@ -3941,6 +4089,24 @@
     },
     {
       "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ"
+    },
+    {
+      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -4072,6 +4238,24 @@
       "duration_ms": 229383,
       "name": "i don't think i love you anymore",
       "url": "https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I"
+    },
+    {
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "i don\u2019t know you",
+      "url": "https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl"
     },
     {
       "album": {
@@ -4594,7 +4778,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 157688,
       "name": "in my civic",
       "url": "https://open.spotify.com/track/5juhApsqgUntbADKWjYQzo"
@@ -4808,6 +4992,24 @@
       "duration_ms": 269622,
       "name": "Judge Judy",
       "url": "https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl"
+    },
+    {
+      "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260866,
+      "name": "julia",
+      "url": "https://open.spotify.com/track/4wJaoAVSc8X5rBhmoGdtvp"
     },
     {
       "album": {
@@ -5026,7 +5228,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 89516,
       "name": "LA Traffic (/)",
       "url": "https://open.spotify.com/track/17l1jfvTVIB7Py0UreZhQn"
@@ -5048,6 +5250,24 @@
       "duration_ms": 207166,
       "name": "LADY",
       "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
+    },
+    {
+      "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "lakehouse",
+      "url": "https://open.spotify.com/track/72jQMLt6LzfpNv80YjP2CF"
     },
     {
       "album": {
@@ -5192,7 +5412,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 144991,
       "name": "lennon",
       "url": "https://open.spotify.com/track/6tUm6ytqWbqPByOl4WFXP9"
@@ -5254,6 +5474,24 @@
       "duration_ms": 225494,
       "name": "LET'S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
+    },
+    {
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/5ZsOB8r2lhgEVQmSfA29nz"
     },
     {
       "album": {
@@ -5684,7 +5922,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 177529,
       "name": "mad",
       "url": "https://open.spotify.com/track/5y5r0EqHTGhkNEBhWIGVCS"
@@ -5854,7 +6092,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 144920,
       "name": "merry go round",
       "url": "https://open.spotify.com/track/3hCyHQV60DGUiPCEQHXgxY"
@@ -6173,6 +6411,42 @@
     },
     {
       "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235693,
+      "name": "natural disaster",
+      "url": "https://open.spotify.com/track/0jpsHPcR0o236aBU8SnCKG"
+    },
+    {
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "navy blue",
+      "url": "https://open.spotify.com/track/3l2OCHvbjwgcSy5OcuMZG6"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -6406,6 +6680,24 @@
       "duration_ms": 242480,
       "name": "Normal Thing",
       "url": "https://open.spotify.com/track/1MPulKrmSK9EW5IrawhdRs"
+    },
+    {
+      "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174520,
+      "name": "not ur friend",
+      "url": "https://open.spotify.com/track/2b2LUjMx9LKwIARJf93Rbd"
     },
     {
       "album": {
@@ -6718,7 +7010,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 93520,
       "name": "pacman",
       "url": "https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc"
@@ -6880,7 +7172,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 157493,
       "name": "pause",
       "url": "https://open.spotify.com/track/1abgG2jgztGM55dZBAZRHh"
@@ -7133,6 +7425,24 @@
     },
     {
       "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143573,
+      "name": "pretty fucking tight",
+      "url": "https://open.spotify.com/track/3Id3APqokT818orpuE4eqf"
+    },
+    {
+      "album": {
         "name": "pretty little thing",
         "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
       },
@@ -7282,7 +7592,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 185546,
       "name": "RED (from Arena Breakout: Infinite)",
       "url": "https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB"
@@ -7442,7 +7752,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 173466,
       "name": "right where you left me",
       "url": "https://open.spotify.com/track/6BP77NXCd1vdzcdl878Mig"
@@ -7590,7 +7900,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 122131,
       "name": "ruin my life",
       "url": "https://open.spotify.com/track/3TcopyBqafzM0EG4rcNbmu"
@@ -7666,7 +7976,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 138113,
       "name": "safe in the rain",
       "url": "https://open.spotify.com/track/70IqUiabcCm7cFk2Uc55oB"
@@ -8051,6 +8361,24 @@
     },
     {
       "album": {
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "somebody loves you",
+      "url": "https://open.spotify.com/track/5bP2w6Jfk5L44Mf2vqxhAl"
+    },
+    {
+      "album": {
         "name": "K-Drama Ost Vol.1",
         "url": "https://open.spotify.com/album/5JXr6aHhrVPdKAh2qxaRvY"
       },
@@ -8240,6 +8568,24 @@
       "duration_ms": 291546,
       "name": "Speed of Sound",
       "url": "https://open.spotify.com/track/1ExW9geJzAZZH0xzsWvCcw"
+    },
+    {
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "splinter",
+      "url": "https://open.spotify.com/track/4lae9VNlxtV2eNiByI58Tc"
     },
     {
       "album": {
@@ -8534,6 +8880,24 @@
       "duration_ms": 216734,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
+    },
+    {
+      "album": {
+        "name": "supercuts",
+        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206599,
+      "name": "supercuts",
+      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
     },
     {
       "album": {
@@ -9079,6 +9443,24 @@
     },
     {
       "album": {
+        "name": "CRUSHER",
+        "url": "https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154013,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/4AlIVxkLsxGiRxxqxHpvb5"
+    },
+    {
+      "album": {
         "name": "There Goes My Baby",
         "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
       },
@@ -9196,6 +9578,24 @@
       "duration_ms": 314836,
       "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
       "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
+    },
+    {
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "time zones",
+      "url": "https://open.spotify.com/track/6Y31TTB7bXsIr0erkKL4ys"
     },
     {
       "album": {
@@ -9360,7 +9760,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 165066,
       "name": "traveler",
       "url": "https://open.spotify.com/track/0IcZVi8GTyOH0lp36qi7Gj"
@@ -9502,7 +9902,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 126614,
       "name": "typical story",
       "url": "https://open.spotify.com/track/4CMxPM4rUaslm9WQy9zJNf"
@@ -9706,7 +10106,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 225142,
       "name": "VISIONS",
       "url": "https://open.spotify.com/track/5pkqN8A6vyZp3qmUZK41zc"
@@ -9966,7 +10366,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"

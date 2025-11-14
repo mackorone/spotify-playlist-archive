@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Savannah Ré
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,463 likes - 200 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,471 likes - 200 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

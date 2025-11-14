@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
   "name": "R&Bae",
   "tracks": [
     {
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 188772,
       "name": "Dose",
       "url": "https://open.spotify.com/track/5UgJpQ5ZAGE2mYSxsW637J"
@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 155898,
       "name": "I.L.Y",
       "url": "https://open.spotify.com/track/17Lm73gZfp5A5Dk1ZOTzBI"
@@ -6805,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/1Zgq9rZDRCkWZX9JZq98BJ"
+      },
+      "artists": [
+        {
+          "name": "BB NOYAA",
+          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153119,
+      "name": "NO STRESS",
+      "url": "https://open.spotify.com/track/6XfYPlcJGR48xgye2kSOmw"
+    },
+    {
+      "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/5MJA5T2zaFcFJwNRA6t6qq"
       },
@@ -6954,6 +6972,24 @@
       "duration_ms": 61951,
       "name": "N\u00b01",
       "url": "https://open.spotify.com/track/4MO9FQjvq19aQYHzwPS0EK"
+    },
+    {
+      "album": {
+        "name": "Odjo",
+        "url": "https://open.spotify.com/album/4ULOaqdIcArvKcU0sP64D3"
+      },
+      "artists": [
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163459,
+      "name": "Odjo",
+      "url": "https://open.spotify.com/track/3XeU69FyLpUT2UPGcrtKKI"
     },
     {
       "album": {
@@ -7742,7 +7778,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 178426,
       "name": "Petit Bateau",
       "url": "https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o"
@@ -9415,6 +9451,24 @@
     },
     {
       "album": {
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Solide",
+      "url": "https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX"
+    },
+    {
+      "album": {
         "name": "Solo (feat. Tayc)",
         "url": "https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj"
       },
@@ -10116,7 +10170,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 139781,
       "name": "Termin\u00e9 - Summer Version",
       "url": "https://open.spotify.com/track/1BpS9FmfbNuMeufyBJgM2u"

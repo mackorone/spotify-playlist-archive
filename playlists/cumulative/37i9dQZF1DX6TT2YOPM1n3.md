@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to the greatest Pakistani hits 🎶 Cover: Asim Azhar
+> Home to the greatest Pakistani hits 🎶 Cover: Afusic
 
 255 songs - 17 hr 17 min
 

@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Kofee Bean
+> Get your spirits up and manage your mood any time of the day\. Cover: Sheebah
 
-171 songs - 9 hr 31 min
+172 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Nkwagala Nyo](https://open.spotify.com/track/0abZtNfyOQ6wBbSFDjJ0vu) | [Mayanja](https://open.spotify.com/artist/4PRlBo5LzXsbvtsEoo3bHz), [Osteen Ozzie](https://open.spotify.com/artist/4wFr6scPa0f5Y6ChavxJzU) | [Nkwagala Nyo](https://open.spotify.com/album/2ufoC18kLhy5iWShnKyPMT) | 2:56 | 2025-08-21 |  |
 | [Nkwegomba](https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 3:01 | 2022-06-06 | 2025-04-25 |
 | [Nyoko \(Remastered\)](https://open.spotify.com/track/6776viloLrnBTXcAEYsaQ1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Let's Music Vol 2](https://open.spotify.com/album/2ZaMITZXW1qt20EnWbIMuf) | 3:13 | 2024-03-01 | 2025-02-08 |
+| [Nyweera](https://open.spotify.com/track/32fgnccnW2GGN0Sh5tu2cz) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nyweera](https://open.spotify.com/album/3fjpmzYRV1dh2XNXdYIxuX) | 3:28 | 2025-11-13 |  |
 | [Nzikiriza](https://open.spotify.com/track/6R97FR5ro7PL8h76QBXjmq) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [Nzikiriza](https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq) | 3:56 | 2025-10-23 |  |
 | [Nzize](https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A) | [Nzize](https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C) | 4:22 | 2023-06-30 | 2024-04-13 |
 | [Obsession](https://open.spotify.com/track/68QPAQP4IqF1cedu2jwk5H) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 4:29 | 2023-10-12 | 2024-01-20 |
@@ -125,7 +126,7 @@
 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-03-31 | 2024-03-02 |
 | [Perfect Gentleman](https://open.spotify.com/track/4JvlKstqcP3RDQT41voNhc) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Joash Qulture](https://open.spotify.com/artist/7B4YdtaetlGnu7wq6JV9QV) | [Perfect Gentleman](https://open.spotify.com/album/5WLhUONtuun8pwLc7u3WiN) | 3:26 | 2025-02-14 |  |
 | [Pick Up](https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY) | [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky), [Andy Muzic](https://open.spotify.com/artist/5tc8NGhMC3EWbThUi33XXn), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Pick Up](https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu) | 2:36 | 2022-06-06 | 2023-06-10 |
-| [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-06-06 |  |
+| [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-06-06 | 2025-11-14 |
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2024-10-04 |
 | [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 | 2023-11-16 |  |
 | [Runaway](https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Runaway](https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7) | 3:41 | 2023-09-07 | 2025-02-15 |

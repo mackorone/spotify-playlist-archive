@@ -1,13 +1,141 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Bells Larsen",
-  "num_followers": 167385,
+  "description": "A laid-back trip in the folk scene. Cover: Hudson Freeman",
+  "num_followers": 167388,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHtmDOKOyGVHxRFFmPEeSj3kcTA8",
+  "snapshot_id": "AAAAAAPwqRbLHo1NDvD9vjeQkb05L9SD",
   "tracks": [
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "If You Know Me / Wild Horses",
+        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "If You Know Me",
+      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
+    },
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "Photograph of a Cyclone",
+        "url": "https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 208720,
+      "name": "Photograph of a Cyclone",
+      "url": "https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE"
+    },
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "Daniel's Theme",
+        "url": "https://open.spotify.com/album/0I7OCGcIxEQSSjv23zIMzr"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 102327,
+      "name": "Daniel's Theme",
+      "url": "https://open.spotify.com/track/5vF5orpSWS0qxC0GsPJkq8"
+    },
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL"
+    },
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "winding down",
+        "url": "https://open.spotify.com/album/0LWVJ5rTXEyWs67DMQK4mt"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "winding down",
+      "url": "https://open.spotify.com/track/3kVCAHJ6NUmyjobxsTzB5O"
+    },
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "Fourteen Hours",
+        "url": "https://open.spotify.com/album/5WldiAnlW0tmIibUYmik8f"
+      },
+      "artists": [
+        {
+          "name": "My Mercury",
+          "url": "https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "Fourteen Hours",
+      "url": "https://open.spotify.com/track/0IAG7vs6rImln2cP8Hnlyk"
+    },
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "The Man I'm Supposed to Be",
+        "url": "https://open.spotify.com/album/7sZ7r9GjMQqoyFsHyIj9h3"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 222131,
+      "name": "The Man I'm Supposed To Be",
+      "url": "https://open.spotify.com/track/3Kbgwa33bP2XwjjI2f4K5V"
+    },
+    {
+      "added_at": "2025-11-14 00:01:38",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Old Man Luedecke",
+          "url": "https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 17",
+      "url": "https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X"
+    },
     {
       "added_at": "2025-11-07 00:01:45",
       "album": {
@@ -1489,110 +1617,6 @@
       "url": "https://open.spotify.com/track/1G4bXB1UO3uPisKXnp1xOD"
     },
     {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Tear in the Tide",
-        "url": "https://open.spotify.com/album/3KABPyNYjL0K2r7rjgDZFo"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Tear in the Tide",
-      "url": "https://open.spotify.com/track/3avfg2tRKOBcC6NhpnXkW3"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Indian Ocean (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5tZmV6Tut1LHtRR6yhDoYv"
-      },
-      "artists": [
-        {
-          "name": "Frazey Ford",
-          "url": "https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Trouble, Heartaches & Sadness",
-      "url": "https://open.spotify.com/track/74HStNv7UKnd5ek3WPx1Fp"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Luther",
-        "url": "https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "Ben Bridwell",
-          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Luther",
-      "url": "https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Wake",
-        "url": "https://open.spotify.com/album/7f9YkOw54CSn7GcMvUk89m"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        },
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Wake (feat. Fleet Foxes)",
-      "url": "https://open.spotify.com/track/3BET187FKsBSEEwU5qtDXU"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Sapphire Blue",
-        "url": "https://open.spotify.com/album/25Qc8ombuzk4pO0MABTCQ0"
-      },
-      "artists": [
-        {
-          "name": "Meredith Moon",
-          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "Sapphire Blue",
-      "url": "https://open.spotify.com/track/7GXWLCpt8dqfaz8mGAzvC2"
-    },
-    {
       "added_at": "2025-09-12 00:01:24",
       "album": {
         "name": "These Days (with James Bay)",
@@ -1643,38 +1667,6 @@
       "duration_ms": 251535,
       "name": "Youth Not Wasted",
       "url": "https://open.spotify.com/track/61qkbWy786DEXnR4sla066"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/7GV2WxJnpmhF7DRjjUYOov"
-      },
-      "artists": [
-        {
-          "name": "Pompey",
-          "url": "https://open.spotify.com/artist/2nWS0foFZts25bZ6sxfP9x"
-        }
-      ],
-      "duration_ms": 176517,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/5dNKttSZleDghdhl02rNbT"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Maybe For Once",
-        "url": "https://open.spotify.com/album/3T97rdVL9AGz3s1EUJUQ0z"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 187841,
-      "name": "Maybe For Once",
-      "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
     }
   ],
   "unique_name": "Folk & Friends",

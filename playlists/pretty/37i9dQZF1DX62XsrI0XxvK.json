@@ -1,13 +1,65 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Wizzy, Fangtatis",
-  "num_followers": 13572,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Marion Jola",
+  "num_followers": 13571,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2cNWTZszM/QN93dpWFQL42Uu6I",
+  "snapshot_id": "AAAAAHyWe8H1JUNoo5TRM/ahDUyUGqxv",
   "tracks": [
+    {
+      "added_at": "2025-11-13 17:30:27",
+      "album": {
+        "name": "BYE",
+        "url": "https://open.spotify.com/album/3nawUQoRQ9QlaATlotBQNj"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "BYE",
+      "url": "https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH"
+    },
+    {
+      "added_at": "2025-11-13 17:30:27",
+      "album": {
+        "name": "Teman Saja?",
+        "url": "https://open.spotify.com/album/4Ab1fQSH9SvvolCcEdsxVl"
+      },
+      "artists": [
+        {
+          "name": "Fourtune",
+          "url": "https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k"
+        },
+        {
+          "name": "Haira",
+          "url": "https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Teman Saja?",
+      "url": "https://open.spotify.com/track/0SKL2yqIcbrJV667qtKgCa"
+    },
+    {
+      "added_at": "2025-11-13 21:53:40",
+      "album": {
+        "name": "Ramu",
+        "url": "https://open.spotify.com/album/6Um3awxwOSoxLVVBn85UjA"
+      },
+      "artists": [
+        {
+          "name": "Rizki Jonathan",
+          "url": "https://open.spotify.com/artist/2Pc5nBssh59fUoQGWOb0KS"
+        }
+      ],
+      "duration_ms": 203498,
+      "name": "Ramu",
+      "url": "https://open.spotify.com/track/2bGWVOJph2fsQMcuL04PrU"
+    },
     {
       "added_at": "2025-11-06 17:30:33",
       "album": {
@@ -79,6 +131,22 @@
       "duration_ms": 207157,
       "name": "Denganmu",
       "url": "https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo"
+    },
+    {
+      "added_at": "2025-11-13 17:30:27",
+      "album": {
+        "name": "Good Fellas",
+        "url": "https://open.spotify.com/album/3x0oNPgMi1nHkpKhJozTzr"
+      },
+      "artists": [
+        {
+          "name": "Zhizaa",
+          "url": "https://open.spotify.com/artist/1kjUmnL4PHjLmfVg9G4PyZ"
+        }
+      ],
+      "duration_ms": 278270,
+      "name": "Good Fellas",
+      "url": "https://open.spotify.com/track/2FmT90UyNwTNSWMHFzWBYq"
     },
     {
       "added_at": "2025-11-06 17:30:33",
@@ -657,22 +725,6 @@
       "url": "https://open.spotify.com/track/6xWfKqMv4ebAIVGYbvo7o4"
     },
     {
-      "added_at": "2025-07-31 19:00:19",
-      "album": {
-        "name": "KENALI, PAHAMI, EMPATI",
-        "url": "https://open.spotify.com/album/0eh9Z9qkqWNkorijht9BiA"
-      },
-      "artists": [
-        {
-          "name": "SIVIA",
-          "url": "https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy"
-        }
-      ],
-      "duration_ms": 272054,
-      "name": "Diam, Kamu Berisik!",
-      "url": "https://open.spotify.com/track/2OCgdKh0K1rFW1Gi8Y7rOt"
-    },
-    {
       "added_at": "2025-08-07 19:00:29",
       "album": {
         "name": "Again",
@@ -721,26 +773,6 @@
       "url": "https://open.spotify.com/track/21j9SPUJscVwCfxqvopLhc"
     },
     {
-      "added_at": "2025-07-31 19:00:19",
-      "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/2KBqdVBjVrF5iFRznyxRGA"
-      },
-      "artists": [
-        {
-          "name": "Jordy Waelauruw",
-          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
-        },
-        {
-          "name": "Kamga",
-          "url": "https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O"
-        }
-      ],
-      "duration_ms": 217903,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/0qG2qBOkGXPOplavjmTs9h"
-    },
-    {
       "added_at": "2025-07-24 20:00:12",
       "album": {
         "name": "Buktinya Baik-Baik Saja",
@@ -755,42 +787,6 @@
       "duration_ms": 205442,
       "name": "Buktinya Baik-Baik Saja",
       "url": "https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK"
-    },
-    {
-      "added_at": "2025-07-17 17:28:01",
-      "album": {
-        "name": "Figaro",
-        "url": "https://open.spotify.com/album/3YqvLwy54tEMwiGwfTUFNh"
-      },
-      "artists": [
-        {
-          "name": "Fathan Maulana",
-          "url": "https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4"
-        },
-        {
-          "name": "Monica Karina",
-          "url": "https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Figaro",
-      "url": "https://open.spotify.com/track/13BOpGnIOTDvQPNtOuX4K6"
-    },
-    {
-      "added_at": "2025-07-24 20:00:12",
-      "album": {
-        "name": "Text Me (When It's Over)",
-        "url": "https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw"
-      },
-      "artists": [
-        {
-          "name": "Cassette Tape",
-          "url": "https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2"
-        }
-      ],
-      "duration_ms": 184008,
-      "name": "Text Me (When It's Over)",
-      "url": "https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv"
     },
     {
       "added_at": "2025-07-17 17:28:01",
@@ -923,22 +919,6 @@
       "duration_ms": 234224,
       "name": "Bentang Jarak Asmara",
       "url": "https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP"
-    },
-    {
-      "added_at": "2025-06-12 18:01:31",
-      "album": {
-        "name": "Pelupa",
-        "url": "https://open.spotify.com/album/49VsFd3bLsFnppQt4bQPIH"
-      },
-      "artists": [
-        {
-          "name": "TERUNA",
-          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Pelupa",
-      "url": "https://open.spotify.com/track/1TaC3GhBKRo8wUHQ4jpCaM"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -1083,22 +1063,6 @@
       "duration_ms": 209933,
       "name": "Yours Forever",
       "url": "https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Nuansa Romansa",
-        "url": "https://open.spotify.com/album/4VXfamSWSkK2CTv6hUPImL"
-      },
-      "artists": [
-        {
-          "name": "Haira",
-          "url": "https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Siratan",
-      "url": "https://open.spotify.com/track/2TNQiEVrgQhwj3akf8nPhz"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -1323,22 +1287,6 @@
       "duration_ms": 256760,
       "name": "Pintu Rahasia",
       "url": "https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "crimson lullaby",
-        "url": "https://open.spotify.com/album/55fOMHbP3P9EWSoceHIkpo"
-      },
-      "artists": [
-        {
-          "name": "dilasarah",
-          "url": "https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3"
-        }
-      ],
-      "duration_ms": 205936,
-      "name": "crimson lullaby",
-      "url": "https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq"
     },
     {
       "added_at": "2025-06-05 17:05:22",

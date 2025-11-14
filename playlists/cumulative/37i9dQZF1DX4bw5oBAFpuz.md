@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-601 songs - 1 day 10 hr 14 min
+602 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Follow the Sun](https://open.spotify.com/track/5qbxdRAzVZpOE4Nzl1Rc3Z) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Follow The Sun](https://open.spotify.com/album/5IYTQUGdBAkp9r0EmuEk7U) | 3:17 | 2023-02-23 | 2023-08-18 |
 | [Follow the Sun](https://open.spotify.com/track/681CdzPb1nAv2X4dELjOCx) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Follow the Sun](https://open.spotify.com/album/2Oa02DxgF4v5W6QRP0Vmt7) | 3:17 | 2023-08-17 | 2024-03-22 |
 | [Fool For You](https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rolling](https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z) | 3:24 | 2023-04-12 |  |
+| [For Always](https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz) | 3:27 | 2025-11-13 |  |
 | [For the First Time](https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0) | 4:12 | 2024-04-11 |  |
 | [For the First Time](https://open.spotify.com/track/09ZcYBGFX16X8GMDrvqQwt) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP) | 4:12 | 2023-02-23 | 2024-04-19 |
 | [Free \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2rOuCpkWsioxg8QNPMX9lB) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Home](https://open.spotify.com/album/2AOpbitJNMvKhSbsi2YD4F) | 3:36 | 2024-04-11 | 2025-08-29 |
@@ -375,7 +376,7 @@
 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2025-02-18 |  |
 | [One Last Chance \(I Won't Let You Down\) \- Acoustic](https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [One Last Chance \(I Won't Let You Down\)](https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2) | 3:19 | 2023-04-25 |  |
 | [One Life](https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [One Life](https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC) | 2:30 | 2023-05-18 | 2024-03-27 |
-| [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2024-04-11 |  |
+| [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2024-04-11 | 2025-11-14 |
 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2024-03-20 | 2024-04-19 |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2024-03-21 |  |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2023-02-23 | 2025-08-29 |

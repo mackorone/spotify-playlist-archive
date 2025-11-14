@@ -1,13 +1,45 @@
 {
-  "description": "Dendang Dangdut teratas. Cover: Titi DJ, Thomas Djorghi",
-  "num_followers": 195271,
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: Selfi Yamma",
+  "num_followers": 195291,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYqEr7sQixp8QybeovxqF2gujBF",
+  "snapshot_id": "AAAAANlq93J3U15t0uVr4HhXpozljtO6",
   "tracks": [
+    {
+      "added_at": "2025-11-14 00:41:47",
+      "album": {
+        "name": "Pelukan Nyata",
+        "url": "https://open.spotify.com/album/21JHSnNLa4oEY1ZYOc61Kc"
+      },
+      "artists": [
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "duration_ms": 294539,
+      "name": "Pelukan Nyata",
+      "url": "https://open.spotify.com/track/5ERJrE1WYAlQeulzLWZq7g"
+    },
+    {
+      "added_at": "2025-11-14 00:41:47",
+      "album": {
+        "name": "Setia Yang Terluka",
+        "url": "https://open.spotify.com/album/1Ngsz8kC8juJS9fijXkHpV"
+      },
+      "artists": [
+        {
+          "name": "Aprilian",
+          "url": "https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz"
+        }
+      ],
+      "duration_ms": 333995,
+      "name": "Setia Yang Terluka",
+      "url": "https://open.spotify.com/track/5u1u9U8UFEe2B8swksFxQY"
+    },
     {
       "added_at": "2025-11-06 17:00:09",
       "album": {

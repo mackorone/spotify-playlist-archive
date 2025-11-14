@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,342 likes - 140 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,378 likes - 140 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 133 | [Knights Of Jerusalem](https://open.spotify.com/track/3AWSRZ967XzZAtGIQnqvrc) | [Andreas Waldetoft](https://open.spotify.com/artist/7eyudpSl4KF7iXun4H2PSh), [Nina Åkerblom Nielsen](https://open.spotify.com/artist/1QmMQFvCfie370LsTjkqEd) | [Crusader Kings III \(Official Game Soundtrack\)](https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr) | 5:21 |
 | 134 | [Finding the Pattern](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 |
 | 135 | [Under Construction](https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ) | [Jerry Martin](https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ) | [The Sims \(Original Soundtrack\)](https://open.spotify.com/album/7ycdCSJkou3lE7MLECIgz5) | 4:48 |
-| 136 | [Sunny's Theme](https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz) | [Guy Jackson](https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K) | [Sea of Solitude \(Original Soundtrack\)](https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff) | 3:43 |
+| 136 | [Sunny's Theme](https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz) | [Guy Jackson](https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K), [Laura James](https://open.spotify.com/artist/1H5KC2cVBwx1kISA2FkxnB), [Samara Ginsberg](https://open.spotify.com/artist/73SBDvuMr3ov9967RJrz1V), [Sam Rolles](https://open.spotify.com/artist/7delQU1y8nPrr2ehRKtYwP), [Frederick Taylor](https://open.spotify.com/artist/3Ly6ilDZTcC6RFd63SKulh), [Charlie Cole](https://open.spotify.com/artist/0NK1igiRsxdqYAMUYYEvqJ), [Tom Pickles](https://open.spotify.com/artist/6DykzjoBM0hXF9RrrTOFhR) | [Sea of Solitude \(Original Soundtrack\)](https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff) | 3:43 |
 | 137 | [Hymn of the Fayth \(Final Fantasy X\)](https://open.spotify.com/track/72LWO03wjiyCVqxrNUpx2V) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 1:48 |
 | 138 | [Title Theme](https://open.spotify.com/track/7xiqFMenX3KY3kINA88d8Q) | [Russell Shaw](https://open.spotify.com/artist/5wuYDMU4DPsiqWaB8QBZU5) | [Fable Legends:The Rosewood](https://open.spotify.com/album/1FdHeXxHiE06U5anAfv4H2) | 4:15 |
 | 139 | [Skalitz 1403](https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 2:21 |

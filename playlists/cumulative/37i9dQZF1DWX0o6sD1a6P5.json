@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: KeBlack x Franglish",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Omah Lay",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -654,6 +654,28 @@
       "duration_ms": 190696,
       "name": "Amina",
       "url": "https://open.spotify.com/track/3O8Pxndt6Jm898WSLpCVGe"
+    },
+    {
+      "album": {
+        "name": "Analyser",
+        "url": "https://open.spotify.com/album/0ErJ4NbacpQWefi5nubFUD"
+      },
+      "artists": [
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Analyser",
+      "url": "https://open.spotify.com/track/5zHjAtkKtN3HUhIxXaQrbq"
     },
     {
       "album": {
@@ -5724,7 +5746,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
@@ -6682,7 +6704,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 148550,
       "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
@@ -12228,7 +12250,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 144004,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/0COOpYVrr8jb7eR7GWZWZa"
@@ -15409,6 +15431,28 @@
     },
     {
       "album": {
+        "name": "S\u00c9CURIT\u00c9 (feat. Aya Nakamura)",
+        "url": "https://open.spotify.com/album/58q7Czi1Fg68OZEULLUywr"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "S\u00c9CURIT\u00c9 (feat. Aya Nakamura)",
+      "url": "https://open.spotify.com/track/58MQ1HSuo7ZPsvUkWuUNMP"
+    },
+    {
+      "album": {
         "name": "S\u00e9n\u00e9gal",
         "url": "https://open.spotify.com/album/0qVnVWvaBRuyhr7IFEeR6p"
       },
@@ -17130,6 +17174,24 @@
       "duration_ms": 170721,
       "name": "WAHALA (feat. Olamide)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS"
     },
     {
       "album": {

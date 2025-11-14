@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,449 likes - 79 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,451 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 11 | [Non C’è Sole](https://open.spotify.com/track/1vpyiwwkl2sof0egH6I2qd) | [Armando Cusopoli](https://open.spotify.com/artist/21KeJZe4mic75K8BYiaZOX) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 3:42 |
 | 12 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
 | 13 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Milord](https://open.spotify.com/artist/3Vq6kuFglDGxatnDILEHjL) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 |
-| 14 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
+| 14 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 6:01 |
 | 15 | [Motivo di Giorgia](https://open.spotify.com/track/6v77gXfHDNgbVqFbVN5MD7) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Gli ordini sono ordini \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kBJUgj279LsOfO13mrhOe) | 1:20 |
 | 16 | [Musica leggerissima \- Ceri Remix](https://open.spotify.com/track/7Lgy02MHyCl4iOMkpv9iJJ) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g), [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Musica leggerissima \(Remixes\)](https://open.spotify.com/album/6DZeYzqD1i6EmBwKOG6fvh) | 5:10 |
 | 17 | [Enchantè](https://open.spotify.com/track/7wz5J4wDOJ8XxVXDPunHIl) | [Germanò](https://open.spotify.com/artist/7s2UvXfaUlGeajsHlqWYBz) | [Piramidi](https://open.spotify.com/album/53sEevyzPYg4a04hbJVsj6) | 2:53 |

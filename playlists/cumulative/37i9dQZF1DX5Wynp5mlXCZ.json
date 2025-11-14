@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: KLER",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Klavdia Petrivna",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -226,6 +226,24 @@
       "duration_ms": 172184,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3giwe9vgaYqArFdbgVYhQp"
+    },
+    {
+      "album": {
+        "name": "Amore porfavor",
+        "url": "https://open.spotify.com/album/6pH2hPmLjNE5OdP2ZKIYHV"
+      },
+      "artists": [
+        {
+          "name": "BRYKULETS",
+          "url": "https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Amore porfavor",
+      "url": "https://open.spotify.com/track/6xfnBcyfkXpuuZzSjU8dPg"
     },
     {
       "album": {
@@ -849,6 +867,24 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104400,
+      "name": "De Madrug\u00e1",
+      "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -994,7 +1030,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 209300,
       "name": "Earth (Dradada)",
       "url": "https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX"
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 177138,
       "name": "FENOMENAL'",
       "url": "https://open.spotify.com/track/1b977NIX97rPhUrvt57udY"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 228923,
       "name": "Manuscript",
       "url": "https://open.spotify.com/track/19uuIw82xrHu7afEOddYiI"
@@ -3310,7 +3346,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 257065,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
@@ -4558,7 +4594,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
@@ -6727,6 +6763,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 (\u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb)",
+        "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
+      },
+      "artists": [
+        {
+          "name": "Alena Omargalieva",
+          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223255,
+      "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 - \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb",
+      "url": "https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435 \u043f\u0438\u0442\u0430\u0439 \u043c\u0435\u043d\u0435",
         "url": "https://open.spotify.com/album/6dEyeuCmL5E7kcQBfF989C"
       },
@@ -6854,7 +6908,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 187000,
       "name": "\u041d\u0435\u0431\u0435\u0441\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS"
@@ -7294,7 +7348,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 275500,
       "name": "\u041f\u0456\u0432\u043e\u043d\u0456\u0457",
       "url": "https://open.spotify.com/track/3wljFbUpMosodzjXTudzfn"
@@ -7858,7 +7912,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 193608,
       "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
       "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
@@ -7880,6 +7934,24 @@
       "duration_ms": 148793,
       "name": "\u0422\u0435\u0430\u0442\u0440",
       "url": "https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u0431\u0435-\u0441\u0435\u0431\u0435",
+        "url": "https://open.spotify.com/album/1jFFUtzmG9QIb0P4mCQSJY"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0423\u0427\u0410",
+          "url": "https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179502,
+      "name": "\u0422\u0435\u0431\u0435-\u0441\u0435\u0431\u0435",
+      "url": "https://open.spotify.com/track/23vnEYRBxsgniSbqJZw3pp"
     },
     {
       "album": {
@@ -8006,7 +8078,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 198546,
       "name": "\u0422\u041e \u041d\u0415 \u041c\u0418",
       "url": "https://open.spotify.com/track/6rg2NVL2NQfyMmrOwXLabs"
@@ -8259,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "\u0427\u0430\u0439",
+        "url": "https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "\u0427\u0430\u0439",
+      "url": "https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws"
+    },
+    {
+      "album": {
         "name": "\u0427\u0430\u0441 \u0434\u0456\u0432\u0447\u0430\u0442",
         "url": "https://open.spotify.com/album/4o46d4ID0WZLqqCUG7yQbi"
       },
@@ -8274,6 +8364,24 @@
       "duration_ms": 126018,
       "name": "\u0427\u0430\u0441 \u0434\u0456\u0432\u0447\u0430\u0442",
       "url": "https://open.spotify.com/track/2pMIuYLqEAUxaMaXOhZDCR"
+    },
+    {
+      "album": {
+        "name": "\u0427\u041e\u041c\u0423",
+        "url": "https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY"
+      },
+      "artists": [
+        {
+          "name": "Volodymyr Dantes",
+          "url": "https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164543,
+      "name": "\u0427\u041e\u041c\u0423",
+      "url": "https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3"
     },
     {
       "album": {
@@ -8502,6 +8610,24 @@
       "duration_ms": 156888,
       "name": "\u042f\u0431\u043b\u0443\u0447\u043a\u043e",
       "url": "https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5"
+    },
+    {
+      "album": {
+        "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
+        "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154030,
+      "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
+      "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
     },
     {
       "album": {

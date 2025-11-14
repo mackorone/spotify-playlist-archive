@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 67683,
+  "num_followers": 67701,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 239932,
       "name": "At This Table",
       "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2025-09-14 08:43:31",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
-        "name": "Thank You (feat. MARTY)",
-        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        }
-      ],
-      "duration_ms": 202634,
-      "name": "Thank You (feat. MARTY)",
-      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj"
       },
@@ -795,30 +775,22 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
-        "name": "God of the Ages (Live At The Manor)",
-        "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
+        "name": "Thank You (feat. MARTY)",
+        "url": "https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T"
       },
       "artists": [
         {
-          "name": "Manor Collective",
-          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         },
         {
-          "name": "Sarah Bird",
-          "url": "https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
         }
       ],
-      "duration_ms": 256437,
-      "name": "God of the Ages - Single Version - Live",
-      "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
+      "duration_ms": 202634,
+      "name": "Thank You (feat. MARTY)",
+      "url": "https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi"
     },
     {
       "added_at": "2025-09-14 08:43:31",
@@ -855,6 +827,34 @@
       "duration_ms": 295306,
       "name": "Oh Give Thanks (Psalm 136)",
       "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
+        "name": "God of the Ages (Live At The Manor)",
+        "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
+      },
+      "artists": [
+        {
+          "name": "Manor Collective",
+          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+        },
+        {
+          "name": "Sarah Bird",
+          "url": "https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 256437,
+      "name": "God of the Ages - Single Version - Live",
+      "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
     },
     {
       "added_at": "2025-09-14 08:43:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-09-14 08:43:31",
       "album": {
+        "name": "Live in Chicago",
+        "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
+      },
+      "artists": [
+        {
+          "name": "Vincent Bohanan & SOV",
+          "url": "https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk"
+        }
+      ],
+      "duration_ms": 329824,
+      "name": "Oh Give Thanks - Live",
+      "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
+    },
+    {
+      "added_at": "2025-09-14 08:43:31",
+      "album": {
         "name": "THANKFULLY!",
         "url": "https://open.spotify.com/album/5Uhh5aYtde3GAEAe7XnHcY"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 109530,
       "name": "THANKFULLY!",
       "url": "https://open.spotify.com/track/2Sm92rOFOf5TbEtZQOKcQE"
-    },
-    {
-      "added_at": "2025-09-14 08:43:31",
-      "album": {
-        "name": "Live in Chicago",
-        "url": "https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ"
-      },
-      "artists": [
-        {
-          "name": "Vincent Bohanan & SOV",
-          "url": "https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk"
-        }
-      ],
-      "duration_ms": 329824,
-      "name": "Oh Give Thanks - Live",
-      "url": "https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7"
     },
     {
       "added_at": "2025-09-14 08:43:31",

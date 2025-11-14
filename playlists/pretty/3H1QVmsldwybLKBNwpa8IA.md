@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,613 likes - 137 songs - 7 hr 23 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,612 likes - 137 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 99 | [Christmas Time](https://open.spotify.com/track/1bIFv1yGWPC4wH4qcSWdzO) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Holiday for Kids](https://open.spotify.com/album/68AQgbEtfO3MDrA3OBUrMN) | 4:15 |
 | 100 | [Grandma Got Run over by a Reindeer](https://open.spotify.com/track/49iHYFjT5yO6WEw6KerX9o) | [Elmo & Patsy](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC) | 3:26 |
 | 101 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/5lyikKk6KFWfWCuDDir9Fx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 1:56 |
-| 102 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:47 |
+| 102 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:46 |
 | 103 | [Little Drummer Boy](https://open.spotify.com/track/5zSyL2nprQbBnDIq9d6WjK) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Best Of Pentatonix Christmas](https://open.spotify.com/album/1ohdh4vzVUXhtaE04cHvle) | 4:13 |
 | 104 | [Winter Wonderland](https://open.spotify.com/track/3svlCHYt8YCtAYXjKhrpUs) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Runnin' Out of Fools \(Expanded Edition\)](https://open.spotify.com/album/4y31w9vk2A1Wn3GGZCpOpq) | 2:12 |
 | 105 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 |

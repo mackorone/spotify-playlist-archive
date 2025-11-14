@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Book That You Like",
+        "url": "https://open.spotify.com/album/2Bw9P8yQxbsJ5VDemIHWua"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244983,
+      "name": "Book That You Like",
+      "url": "https://open.spotify.com/track/1zBcD224iIgGm3fap7jzyE"
+    },
+    {
+      "album": {
         "name": "Boundary Rider",
         "url": "https://open.spotify.com/album/5acfdsTeybq9WNzMStHK3g"
       },

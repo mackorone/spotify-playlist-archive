@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Honkytonk Hollywood",
+        "url": "https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227613,
+      "name": "Don't You Wanna Know",
+      "url": "https://open.spotify.com/track/0dLg48yfX8CZnkh7Pr0D2l"
+    },
+    {
+      "album": {
         "name": "Every Girl",
         "url": "https://open.spotify.com/album/4ZmHk18IZRCI8s1hjXV4cF"
       },
@@ -4070,6 +4088,28 @@
       "duration_ms": 198106,
       "name": "Medicine (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/7vvqns9A9v9CuC8MlUDPnC"
+    },
+    {
+      "album": {
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "Mess With Missing You (with Carly Pearce)",
+      "url": "https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg"
     },
     {
       "album": {

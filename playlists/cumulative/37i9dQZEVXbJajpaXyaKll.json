@@ -930,7 +930,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 178896,
       "name": "A Pelo",
       "url": "https://open.spotify.com/track/6lI8bU2Sd8yB5EykQVsydi"
@@ -8179,6 +8179,24 @@
     },
     {
       "album": {
+        "name": "Debi\u00f3 ser as\u00ed",
+        "url": "https://open.spotify.com/album/0BRpECH8FHdVc3TYfBSw1W"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223805,
+      "name": "Debi\u00f3 ser as\u00ed",
+      "url": "https://open.spotify.com/track/31FDPB097i0iqut2Bb056l"
+    },
+    {
+      "album": {
         "name": "Decile que la voy a hacer abuela",
         "url": "https://open.spotify.com/album/1Y5lr546EWtTUPB8Fq3mBE"
       },
@@ -14968,7 +14986,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
@@ -17136,7 +17154,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 285306,
       "name": "La Melod\u00eda de Dios",
       "url": "https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR"
@@ -24488,7 +24506,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
@@ -24676,7 +24694,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/4581iSIX0QZNNzAQRysF3k"

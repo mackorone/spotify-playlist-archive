@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,316 likes - 269 songs - 15 hr 46 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,313 likes - 269 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 187758,
       "name": "for angels...",
       "url": "https://open.spotify.com/track/5WWU0XmMNNSmtX1RA551NM"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 208000,
       "name": "IT'S ALRIGHT!",
       "url": "https://open.spotify.com/track/3KUpQ6AmmLHkUBX6GQ16HT"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 136400,
       "name": "Say You\u2019re Sorry",
       "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "\u4fd7\u4e16\uff08THE PROCESSING\uff09",
+        "url": "https://open.spotify.com/album/6FMFe0YIy2btShCPmRj35c"
+      },
+      "artists": [
+        {
+          "name": "\u9127\u5178",
+          "url": "https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282315,
+      "name": "\u4fd7\u4e16(CalledLife)",
+      "url": "https://open.spotify.com/track/42GPyTCVBC3EygW06qcwz4"
+    },
+    {
+      "album": {
         "name": "\u4fe1\u865f\u7121\u6cd5\u50b3\u9001",
         "url": "https://open.spotify.com/album/0jfSHGXLsMPx4jRV33iAdC"
       },
@@ -3096,6 +3114,28 @@
       "duration_ms": 260958,
       "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
       "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+    },
+    {
+      "album": {
+        "name": "\u4ed9\u4eba\u638c\u65e5\u62a5\u793e",
+        "url": "https://open.spotify.com/album/3UGuGErZdWgcVOOKqp9qSW"
+      },
+      "artists": [
+        {
+          "name": "\u996d\u5361",
+          "url": "https://open.spotify.com/artist/4Ak4OMWvPvUb0wIDC4wdfp"
+        },
+        {
+          "name": "\u91d1\u8eca\u5398\u5b50",
+          "url": "https://open.spotify.com/artist/0KVp6ZWCciKYq9mIlsDcO1"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185030,
+      "name": "\u5348\u89c9",
+      "url": "https://open.spotify.com/track/0XgTJyrZWvT4ry46Oup6yd"
     },
     {
       "album": {
@@ -6164,7 +6204,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 205636,
       "name": "\u627f\u8a8d\u5427",
       "url": "https://open.spotify.com/track/0K43XmgRdBvhEoDUw1U45B"
@@ -6788,7 +6828,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 224995,
       "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
       "url": "https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb"
@@ -8180,7 +8220,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 189500,
       "name": "\u7a7a\u57ce\u8a18",
       "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"

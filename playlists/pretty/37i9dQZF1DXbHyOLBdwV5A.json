@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 130805,
+  "num_followers": 130808,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Me Encontrou Remix",
-        "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
-      },
-      "artists": [
-        {
-          "name": "Cleverton Marques",
-          "url": "https://open.spotify.com/artist/7IVkIqTy51csgU0TdHFhey"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Me Encontrou (DJ Vitor Capoia Remix)",
-      "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "O Autor",
         "url": "https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 176640,
       "name": "O Autor",
       "url": "https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Me Encontrou Remix",
+        "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
+      },
+      "artists": [
+        {
+          "name": "Cleverton Marques",
+          "url": "https://open.spotify.com/artist/7IVkIqTy51csgU0TdHFhey"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Me Encontrou (DJ Vitor Capoia Remix)",
+      "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
     },
     {
       "added_at": "2025-08-29 03:01:05",

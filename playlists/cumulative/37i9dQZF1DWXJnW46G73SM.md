@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: آمال ماهر
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: روبي
 
-1,597 songs - 3 day 17 hr 4 min
+1,599 songs - 3 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,6 +1041,7 @@
 | [اتدلع](https://open.spotify.com/track/587TfgNF9A1XZnZpfN5LTZ) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [اتدلع](https://open.spotify.com/album/1qEITIUvRmuhWvzJ5oSfIz) | 3:11 | 2024-08-15 | 2024-10-11 |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-10 | 2024-06-14 |
 | [احسن حد](https://open.spotify.com/track/7vLDQJQ0YqbXrH35uR8Ozy) | [مشاعل بنت محمد](https://open.spotify.com/artist/5hMpabYClaGFv8u2O7Y1gK) | [احسن حد](https://open.spotify.com/album/5NsoLUMKvzQq1g67lv1p2O) | 3:41 | 2023-11-21 | 2024-01-18 |
+| [احلي تحية \(من فيلم السلم والثعبان: لعب عيال\)](https://open.spotify.com/track/7meScCcpB4aku3DJ1naHEZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [احلي تحية \(من فيلم السلم والثعبان: لعب عيال\)](https://open.spotify.com/album/5KltyWeIsvr3N3NAgMUaU8) | 2:23 | 2025-11-13 |  |
 | [احلي سحر](https://open.spotify.com/track/4dVU6RuUeo8aOnRdvMaW0N) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [احلي سحر](https://open.spotify.com/album/0SdV8Gnkw1zonjBAnTcIsC) | 3:18 | 2024-05-24 | 2024-07-19 |
 | [احنا في حتة تانية](https://open.spotify.com/track/2qf81ena3saXA1BHE9Kbxk) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [احنا في حتة تانية](https://open.spotify.com/album/3R4q4R8A2zdjMF1WavLYeS) | 3:18 | 2022-12-29 | 2023-01-13 |
 | [احنا معلمين](https://open.spotify.com/track/0IGFcmjkXL2keq1FMLPzKM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Rimas](https://open.spotify.com/artist/6F6rS3DUIztYnyZzB6fRzP) | [احنا معلمين](https://open.spotify.com/album/4rB18dHHV4TkJATiFoEtVQ) | 3:12 | 2025-06-19 | 2025-07-11 |
@@ -1193,7 +1194,7 @@
 | [تتر مسلسل صدفة](https://open.spotify.com/track/12F6rNixnmVNXqqPaogMgj) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha), [اوكا](https://open.spotify.com/artist/3iBCuclUWFl1ozuyqphlyK), [Reham Haggag](https://open.spotify.com/artist/2Z98zeSBR1FrMBFXry65tV) | [تتر مسلسل صدفة](https://open.spotify.com/album/15jNREV1M2MUlVs0AjW3rO) | 3:15 | 2024-03-12 | 2024-06-14 |
 | [تجاوز](https://open.spotify.com/track/6dGF8eFaRmMMQ72EJd8c7W) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [تجاوز](https://open.spotify.com/album/2bsAJySmgxtPwwtHQ13SQE) | 2:53 | 2023-01-19 | 2023-02-24 |
 | [تجري ورايا \- من فيلم هارلي](https://open.spotify.com/track/77poO713J8VlBYcLXAhQUx) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [تجري ورايا \(من فيلم هارلي\)](https://open.spotify.com/album/732sy0H8AYAH1fNnwN6Lgi) | 2:34 | 2023-05-10 | 2023-06-28 |
-| [تراباتاتي](https://open.spotify.com/track/02m87j1MgQ0fp96FaOgCsw) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [تراباتاتي](https://open.spotify.com/album/4AI2NqsZMqlsZyH8Nh6mkn) | 2:44 | 2025-07-10 |  |
+| [تراباتاتي](https://open.spotify.com/track/02m87j1MgQ0fp96FaOgCsw) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [تراباتاتي](https://open.spotify.com/album/4AI2NqsZMqlsZyH8Nh6mkn) | 2:44 | 2025-07-10 | 2025-11-14 |
 | [ترحالي](https://open.spotify.com/track/17pKNqA6ODA4lxDZ1ZyL8x) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [ترحالي](https://open.spotify.com/album/5S26R99JmKF6tmohh4xlQn) | 4:18 | 2024-02-01 | 2024-02-23 |
 | [تروح لمين \- من فيلم البحث عن منفذ لخروج السيد رامبو](https://open.spotify.com/track/3A84MH5fFWCHgy5R5c7WpC) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تروح لمين \(من فيلم البحث عن منفذ لخروج السيد رامبو\)](https://open.spotify.com/album/4gNQZT3zYV1by1BHTngarP) | 2:58 | 2025-01-09 | 2025-02-21 |
 | [تعرف احساس](https://open.spotify.com/track/1qzj2e4mUYpTDXtyCqczet) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [تعرف احساس](https://open.spotify.com/album/6qxBeW6FV4ysiVT3QyyvDW) | 3:07 | 2024-04-30 | 2024-07-01 |
@@ -1234,7 +1235,7 @@
 | [حوش الدلع](https://open.spotify.com/track/1bmpsrIYMeY9VmveBYu6Cc) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [حوش الدلع](https://open.spotify.com/album/0Xg67d18Abk7FgLGE9PDBQ) | 2:10 | 2024-10-04 | 2024-12-13 |
 | [حياتي الحلوة](https://open.spotify.com/track/7nKaQoZQ393y185966WSMC) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حياتي الحلوة](https://open.spotify.com/album/4g5ht2e1QyO4KGxRWtClrW) | 3:14 | 2024-12-31 | 2025-03-07 |
 | [حياتي ناقصة](https://open.spotify.com/track/7fKN49oFs9bw5i9xZLCMCo) | [Mohamed Youssef](https://open.spotify.com/artist/3qVa7avCXcTdFZrXRI5Upz) | [حياتي ناقصة](https://open.spotify.com/album/25tkkJfxvTlOrz7yj6gz03) | 5:14 | 2024-07-11 | 2024-08-29 |
-| [خبر عاجل](https://open.spotify.com/track/5PhOhk7QUJKhkKQesDD5k1) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [خبر عاجل](https://open.spotify.com/album/6sDx3E7UuHEj3Ke6FbZigC) | 3:10 | 2025-07-17 |  |
+| [خبر عاجل](https://open.spotify.com/track/5PhOhk7QUJKhkKQesDD5k1) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [خبر عاجل](https://open.spotify.com/album/6sDx3E7UuHEj3Ke6FbZigC) | 3:10 | 2025-07-17 | 2025-11-14 |
 | [خبط خبط](https://open.spotify.com/track/4yECK82XOZ7UUi50TREPxC) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [خبط خبط](https://open.spotify.com/album/4C85aQZ62amt2opB2Ls8Ti) | 2:27 | 2024-04-11 | 2024-04-26 |
 | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/track/4VBJjLh7pIvW7cTWmmW3DX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/album/0Lz5buevocRlWNTzBMyIjG) | 2:57 | 2024-06-11 | 2024-07-25 |
 | [خد وقتي كله](https://open.spotify.com/track/4ARfmB3WXlG25MguHryHG7) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [خد وقتي كله](https://open.spotify.com/album/2oXIIJQKbJsF6Tf4qkwZ37) | 3:57 | 2025-05-15 | 2025-07-04 |
@@ -1315,6 +1316,7 @@
 | [ضاع خيري](https://open.spotify.com/track/1MNfuN5Atuzp8fQ3ATsdND) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ضاع خيري](https://open.spotify.com/album/2s2zt2ILbKBV91Jy71Hb1L) | 4:16 | 2025-06-23 | 2025-09-10 |
 | [ضرب نار \- تتر بداية المسلسل](https://open.spotify.com/track/1m0IonlGzhsZwYfuaMlvdI) | [Mohamed El helw](https://open.spotify.com/artist/3dcqyPdXEFFEYsVkgJpqJK), [Hanan Mady](https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ) | [ضرب نار \(تتر بداية المسلسل\)](https://open.spotify.com/album/5KCPJ0yrhgiA7j50Zn1Fn5) | 3:37 | 2023-04-05 | 2023-05-19 |
 | [ضعت منك](https://open.spotify.com/track/3V9KgBiz5uP7SacDMfy6KZ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [ضعت منك](https://open.spotify.com/album/4uBlwNfBEpGGj2wdBTsWb5) | 3:10 | 2025-04-17 | 2025-06-10 |
+| [ضميره مأنبه](https://open.spotify.com/track/7caPvBD3XFBrVppZyorM3z) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [ضميره مأنبه](https://open.spotify.com/album/4byfuukOFSIIs1sA1ly5VR) | 4:05 | 2025-11-13 |  |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2021-12-23 | 2022-02-12 |
 | [ضيّ \- من فيلم سيرة أهل الضيّ](https://open.spotify.com/track/57SkIuSdgMFHGNOtdBN8xO) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [ضيّ \(من فيلم سيرة أهل الضيّ\)](https://open.spotify.com/album/64RVTyZIEphCJygPD5Luhq) | 3:16 | 2025-09-09 |  |
 | [طباخ](https://open.spotify.com/track/3B54o4HHnxF5Z9ahXy9XI4) | [خيري](https://open.spotify.com/artist/69Dj8KlJcp4FNOTVQVdLnZ) | [طباخ](https://open.spotify.com/album/70NQn5O93jkh125hOoRAkG) | 2:23 | 2024-10-18 | 2024-11-29 |

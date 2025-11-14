@@ -1587,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "II: The second",
+        "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197031,
+      "name": "Di Nakakasawa",
+      "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
+    },
+    {
+      "album": {
         "name": "Di Ngayon",
         "url": "https://open.spotify.com/album/3aGNT5eglsVIrZg6LoYPVO"
       },

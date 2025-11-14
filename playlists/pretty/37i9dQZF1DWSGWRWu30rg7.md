@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Abubakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,282 likes - 109 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,284 likes - 109 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 25 | [Somebody](https://open.spotify.com/track/2pEQ9g8Onxp3cxK6DMpln5) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Somebody](https://open.spotify.com/album/6xG1Tz7Li6xSmdJJHClCxk) | 3:18 |
 | 26 | [Terasa Sepi](https://open.spotify.com/track/4sK7j8W8kycShBh6iyjvoh) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Terasa Sepi](https://open.spotify.com/album/2kOcxmjfhRq9pW20iDIGBx) | 3:03 |
 | 27 | [Salah Menaruh Harapan](https://open.spotify.com/track/2UPPXC6wbpNgPfKGbbSBd3) | [Ira Khayz](https://open.spotify.com/artist/4kMe8xJdqU4HVRiu2KAzE1) | [Salah Menaruh Harapan](https://open.spotify.com/album/4G1xMaRO1lQGJiFNW0zSy5) | 4:44 |
-| 28 | [HABIBI](https://open.spotify.com/track/31CCxKppQzwWHCEevvacS9) | [KAPTEN HIPHOP](https://open.spotify.com/artist/1NDRdLyX1pS7qmU8dpTHQB), [Rendy Da Silva](https://open.spotify.com/artist/3CobeSMPXTBlcIq5s7g7J9), [Tian DJ](https://open.spotify.com/artist/1mztsMGTmu68IRpVRIWdes) | [HABIBI](https://open.spotify.com/album/6HmZf5WnGoSU6nWjfnhgJl) | 3:34 |
+| 28 | [HABIBI](https://open.spotify.com/track/31CCxKppQzwWHCEevvacS9) | [KAPTEN HIPHOP](https://open.spotify.com/artist/1NDRdLyX1pS7qmU8dpTHQB), [Rendy Da Silva](https://open.spotify.com/artist/3CobeSMPXTBlcIq5s7g7J9), [Tian DJ](https://open.spotify.com/artist/1mztsMGTmu68IRpVRIWdes), [S KEI ENT](https://open.spotify.com/artist/0V4oYEfkzTzg0krsAx91Li) | [HABIBI](https://open.spotify.com/album/6HmZf5WnGoSU6nWjfnhgJl) | 3:34 |
 | 29 | [Gusar](https://open.spotify.com/track/3fBI4CVn4NPrEmsFlW5j4g) | [Ninety Horsepower](https://open.spotify.com/artist/0Dgmxi8oh7NaL332kwpo3a) | [Gusar](https://open.spotify.com/album/57B44q6OLim0qzeol5oAwS) | 3:30 |
 | 30 | [Merindukan Kita \(From “SOLATA THE MOVIE” Original Soundtrack\)](https://open.spotify.com/track/0ilLYomZ0D4smmIXI4XT3N) | [Hippotopia](https://open.spotify.com/artist/4Qm4z7F87Y3fXtZMJQfusH) | [Merindukan Kita \(From “SOLATA THE MOVIE” Original Soundtrack\)](https://open.spotify.com/album/2ssTmSGifI1s9bP8qXxHWc) | 3:56 |
 | 31 | [Masihkah](https://open.spotify.com/track/5fzjmKDsJe5GicHKKBu7Nm) | [Ardhita](https://open.spotify.com/artist/7rVCTKS3L5oYKz2nubmveY) | [Masihkah](https://open.spotify.com/album/0IMj3qsIlUfVOBUyRPJDjd) | 3:50 |

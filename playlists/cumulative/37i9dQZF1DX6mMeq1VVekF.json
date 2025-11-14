@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Tora-i",
+  "description": "No tags, no labels - just free form. Cover: FKA twigs",
   "name": "Free Form",
   "tracks": [
     {
@@ -3173,6 +3173,28 @@
     },
     {
       "album": {
+        "name": "FAVELA",
+        "url": "https://open.spotify.com/album/6JcNrOZ8lK2fCEFR0VNzTs"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        },
+        {
+          "name": "Deno",
+          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138826,
+      "name": "FAVELA",
+      "url": "https://open.spotify.com/track/2Zra8ic72klVu1wiczr6XD"
+    },
+    {
+      "album": {
         "name": "NEMZZZ TYPE BEAT",
         "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
       },
@@ -3985,6 +4007,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214125,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX"
+    },
+    {
+      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
@@ -4362,6 +4402,28 @@
       "duration_ms": 183484,
       "name": "I Heard",
       "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
+    },
+    {
+      "album": {
+        "name": "BLACKS LAW",
+        "url": "https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        },
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223846,
+      "name": "i hope you're ready",
+      "url": "https://open.spotify.com/track/5aG0VbqVEE7Egpdc2YLBzZ"
     },
     {
       "album": {
@@ -6056,10 +6118,28 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 212559,
       "name": "More Light (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
+    },
+    {
+      "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111352,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc"
     },
     {
       "album": {
@@ -9452,7 +9532,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 209362,
       "name": "time to go",
       "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
@@ -10342,7 +10422,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 158739,
       "name": "Whatcha Mean",
       "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
@@ -10360,7 +10440,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 312195,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/5I4Z9SwVg7q2YmldDQhBxq"

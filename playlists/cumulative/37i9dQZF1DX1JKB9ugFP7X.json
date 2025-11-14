@@ -1987,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/1441MgCddQFlemfJeDNGRp"
+      },
+      "artists": [
+        {
+          "name": "Allegra",
+          "url": "https://open.spotify.com/artist/4C010hedd0zf3wtDaekdf3"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/1ZhKqt8br9NkAi0SKr2Zw4"
+    },
+    {
+      "album": {
         "name": "Lado V (Remixes de Postal)",
         "url": "https://open.spotify.com/album/5qFHdRCzIW7YgxDRyAt52J"
       },
@@ -3116,6 +3134,32 @@
       "duration_ms": 213322,
       "name": "Snobs",
       "url": "https://open.spotify.com/track/7bp6TPhLJx0SXrdTA8tDyf"
+    },
+    {
+      "album": {
+        "name": "EN OTR4 VIDA ME CONOC\u00cd??",
+        "url": "https://open.spotify.com/album/2zlb5BH5mS2CsNdHh5XJAS"
+      },
+      "artists": [
+        {
+          "name": "J4MES",
+          "url": "https://open.spotify.com/artist/1QR3Y3SClEg7rddguLp2Oa"
+        },
+        {
+          "name": "Tomas Coletto",
+          "url": "https://open.spotify.com/artist/6uusC1uYFurIsaviYlGC5p"
+        },
+        {
+          "name": "Facundo Majdalani",
+          "url": "https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171943,
+      "name": "SO HIGH",
+      "url": "https://open.spotify.com/track/06L5KuV4aHL4DapLNLwXfh"
     },
     {
       "album": {

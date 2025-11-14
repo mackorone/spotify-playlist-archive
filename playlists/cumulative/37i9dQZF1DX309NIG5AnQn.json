@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 NOTA",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 reybruja",
   "name": "el under",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 251500,
       "name": "02:51",
       "url": "https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB"
+    },
+    {
+      "album": {
+        "name": "Estr\u00e9s y alucinaciones",
+        "url": "https://open.spotify.com/album/56QO5e29vGQoeZts6U2Ivf"
+      },
+      "artists": [
+        {
+          "name": "Autos Robados",
+          "url": "https://open.spotify.com/artist/5mTDazgxgE8HYpzPckCwV0"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163591,
+      "name": "2 y diagonal",
+      "url": "https://open.spotify.com/track/5xUACDPbDPvPg1HimpwyBK"
     },
     {
       "album": {
@@ -266,7 +284,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 251343,
       "name": "Alimentarte",
       "url": "https://open.spotify.com/track/1ebB7EnsXFME2cAhXx6Mw0"
@@ -584,7 +602,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 157602,
       "name": "Botas Texanas",
       "url": "https://open.spotify.com/track/3NRoOXIRa9IAwuPJIPtVvA"
@@ -1333,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Descansar",
+        "url": "https://open.spotify.com/album/5Mp7GKFlEVk2jQQlXCcGVY"
+      },
+      "artists": [
+        {
+          "name": "La Grecia",
+          "url": "https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264340,
+      "name": "Descansar",
+      "url": "https://open.spotify.com/track/2hljYNWDu9nsXKJTRQ2xCq"
+    },
+    {
+      "album": {
         "name": "Desconsuelo",
         "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
       },
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 325299,
       "name": "El Primer Color",
       "url": "https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD"
@@ -2097,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "NO",
+        "url": "https://open.spotify.com/album/3GDRzdZnEjkT4WUBykPWLT"
+      },
+      "artists": [
+        {
+          "name": "FLETES RAKEL",
+          "url": "https://open.spotify.com/artist/1tTem1ochSScdXVMZnXVJD"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339914,
+      "name": "Estrellate Estrellita",
+      "url": "https://open.spotify.com/track/2wIvD1QzMVlshMuMk4QMWN"
+    },
+    {
+      "album": {
         "name": "Evil Dead",
         "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
       },
@@ -2259,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Todo lo S\u00f3lido se Desvanece en el Aire",
+        "url": "https://open.spotify.com/album/20ER5NM3DjvoJJGglffgwl"
+      },
+      "artists": [
+        {
+          "name": "Camionero",
+          "url": "https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251407,
+      "name": "Guerrero At\u00edpico",
+      "url": "https://open.spotify.com/track/5JcF5s0zg7kpeEXg7Iwrgq"
+    },
+    {
+      "album": {
         "name": "Hasta siempre amigo",
         "url": "https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz"
       },
@@ -2314,7 +2386,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 194999,
       "name": "Hice Todo Mal",
       "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
@@ -2703,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "LO BIEN LO MAL",
+        "url": "https://open.spotify.com/album/53R2j5VKsT3hRpI8MEqmcA"
+      },
+      "artists": [
+        {
+          "name": "Bistur\u00ed",
+          "url": "https://open.spotify.com/artist/2WR0rWwoNz5jH6gxt3aJ45"
+        },
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178794,
+      "name": "LAIKS",
+      "url": "https://open.spotify.com/track/3Camdb3Q9HlHo6hj7qo266"
+    },
+    {
+      "album": {
         "name": "Las Flores Violentas",
         "url": "https://open.spotify.com/album/3Pwm5izC0NugLdgi5BLzIJ"
       },
@@ -3008,7 +3102,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 211830,
       "name": "Manos",
       "url": "https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe"
@@ -3320,7 +3414,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 204958,
       "name": "No",
       "url": "https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu"
@@ -3790,6 +3884,24 @@
       "duration_ms": 194470,
       "name": "Piedra del \u00c1guila",
       "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+    },
+    {
+      "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141762,
+      "name": "piso 20",
+      "url": "https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m"
     },
     {
       "album": {

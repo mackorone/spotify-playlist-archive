@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-590 songs - 1 day 12 hr 13 min
+591 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [I Miss U](https://open.spotify.com/track/3cVortvmdAWxXSnCNeaZ1B) | [D S D](https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5) | [I Miss U](https://open.spotify.com/album/1gFBnaMuRCHd7P3UH3N9K9) | 4:29 | 2024-02-08 | 2024-05-18 |
 | [I Think I Need A DJ](https://open.spotify.com/track/2lKOI1nwP5qZtZC7TGQVY8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Think I Need A DJ](https://open.spotify.com/album/1ElP3WFqq5sgMcc3ScIR4l) | 2:35 | 2024-09-19 | 2024-12-29 |
 | [I Told The Stars About You](https://open.spotify.com/track/0gH48CJYOsoA2vl9ERM9W5) | [DJ GUESTLIST](https://open.spotify.com/artist/2n7VLaVMlGpxqmt05OiMCB) | [I Told The Stars About You](https://open.spotify.com/album/01X97e3r4Nt76UXPIXiWEO) | 4:21 | 2023-11-24 | 2023-12-01 |
+| [I Wanna](https://open.spotify.com/track/6R2TSs7XaceEyovdPOr5Rt) | [Jim Jonathan](https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [I Wanna](https://open.spotify.com/album/4qE3DiAGExwNVDXsd8uUuv) | 2:58 | 2025-11-13 |  |
 | [I Wanna Go](https://open.spotify.com/track/0EkO6IEUFlbfxLDoDVieOt) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [I Wanna Go](https://open.spotify.com/album/3YbiInRvYkmmWq6DHrYsn9) | 2:47 | 2024-10-10 | 2025-06-02 |
 | [I WANT YOUR LOVE](https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [I WANT YOUR LOVE](https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU) | 2:02 | 2024-11-11 | 2024-12-29 |
 | [I'm Sorry \- southstar Remix](https://open.spotify.com/track/1DCR3o15qC2degQEYG5K2R) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D), [sowhy3](https://open.spotify.com/artist/1U1FxSl6bYeFUeGcg8KOsE) | [Digital Chaos](https://open.spotify.com/album/7t8XvETweKzk5YjRfTQzYA) | 3:34 | 2024-07-12 | 2024-08-26 |
@@ -387,7 +388,7 @@
 | [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer \(Hard Techno Edit\)](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 | 2024-03-22 | 2024-04-06 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-09 | 2024-09-17 |
 | [Oh mein Herz](https://open.spotify.com/track/0UkjRy9JSG0ybtOzzgaY6x) | [Sita Messer](https://open.spotify.com/artist/2Mm1h6fUugx92tOcPa4Jxj) | [Oh mein Herz](https://open.spotify.com/album/3ivdIDxMnTZX2JS1l08RAJ) | 3:08 | 2023-03-10 | 2023-03-25 |
-| [OK SU KA](https://open.spotify.com/track/5pLZDZ1UaePBUMc2nvLi4z) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Vall Du Son](https://open.spotify.com/artist/7dxbiWVBTS1j37WGihfBa2) | [OK SU KA](https://open.spotify.com/album/1QsbN12NSzFqF7U4exapgk) | 3:26 | 2025-11-06 |  |
+| [OK SU KA](https://open.spotify.com/track/5pLZDZ1UaePBUMc2nvLi4z) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Vall Du Son](https://open.spotify.com/artist/7dxbiWVBTS1j37WGihfBa2) | [OK SU KA](https://open.spotify.com/album/1QsbN12NSzFqF7U4exapgk) | 3:26 | 2025-11-06 | 2025-11-14 |
 | [ON REPEAT](https://open.spotify.com/track/25IAOVi773nomfvgEmAMLY) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Bassfeature](https://open.spotify.com/artist/6gJ6e0zgqpzY9032oXvb8l) | [ON REPEAT](https://open.spotify.com/album/5RRbzqP3YIcWhinEigBuc0) | 2:25 | 2025-05-22 | 2025-06-06 |
 | [One Last Time](https://open.spotify.com/track/29jpjbsZz3nsNxUlqisJaP) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [I Thought It Would Never End](https://open.spotify.com/album/78aVBtjGo7hdkDnVbVWhES) | 6:37 | 2024-12-28 | 2025-01-07 |
 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 | 2025-03-06 |  |

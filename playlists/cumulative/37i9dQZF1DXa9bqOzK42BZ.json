@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=Hh0JFuNxSgCheBr6elkNlA\">Joel Lwaga</a> ",
+  "description": "Celebrating the life of Betty Bayo. Cover: <a href=\"https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T?si=g84hmsQfS9yDgNMKIFMemw\">Betty Bayo</a> ",
   "name": "Swahili Praise",
   "tracks": [
+    {
+      "album": {
+        "name": "11Th Hour",
+        "url": "https://open.spotify.com/album/0ASoKe9iJhwnFRRTlw1hCl"
+      },
+      "artists": [
+        {
+          "name": "Betty Bayo",
+          "url": "https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313376,
+      "name": "11Th Hour",
+      "url": "https://open.spotify.com/track/4MnYNtuF9iLFmN2CSkmmnZ"
+    },
     {
       "album": {
         "name": "Acha Waseme",
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 464133,
       "name": "Gusa",
       "url": "https://open.spotify.com/track/07WihVXFDlPnDqsF9LnuSU"
@@ -1350,6 +1368,28 @@
       "duration_ms": 302576,
       "name": "Huniachi",
       "url": "https://open.spotify.com/track/5NLS2f8tVRtoKXOU600LBL"
+    },
+    {
+      "album": {
+        "name": "I Believe In God",
+        "url": "https://open.spotify.com/album/0wj6etGy3nYj1SiA6g4Rvj"
+      },
+      "artists": [
+        {
+          "name": "Shanariha Evans",
+          "url": "https://open.spotify.com/artist/1tiS9gycVIZc7IaRSzckRn"
+        },
+        {
+          "name": "Kelechi Africana",
+          "url": "https://open.spotify.com/artist/0O4K5MK5VYnGoMT3MZpr7k"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293052,
+      "name": "I Believe In God",
+      "url": "https://open.spotify.com/track/3eyQZroKBvbwuGObbhyeAN"
     },
     {
       "album": {
@@ -2252,7 +2292,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 170721,
       "name": "Move On",
       "url": "https://open.spotify.com/track/6DZopdGdHv6WIh6d1Qh0rZ"
@@ -3530,7 +3570,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 205714,
       "name": "Not Gonna Worry",
       "url": "https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id"
@@ -3788,7 +3828,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 300002,
       "name": "Rafiki Wa Majira Yote",
       "url": "https://open.spotify.com/track/4mTdGYYNRukakFzuSQuTJZ"
@@ -4150,7 +4190,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 475077,
       "name": "Sifa Ziko Juu",
       "url": "https://open.spotify.com/track/11eugyHtSx3H2mPJEnHr5m"
@@ -4284,6 +4324,24 @@
       "duration_ms": 187193,
       "name": "Sitalia Tena",
       "url": "https://open.spotify.com/track/6jqIBx1x8iiaGliPsqXsJM"
+    },
+    {
+      "album": {
+        "name": "Siyabonga",
+        "url": "https://open.spotify.com/album/20MB7vARqKjmBDx5YeWwAv"
+      },
+      "artists": [
+        {
+          "name": "Betty Bayo",
+          "url": "https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290992,
+      "name": "Siyabonga",
+      "url": "https://open.spotify.com/track/0fZhoimpT9ikAD7wt4Y6E5"
     },
     {
       "album": {
@@ -4574,6 +4632,28 @@
       "duration_ms": 205790,
       "name": "The Way",
       "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
+    },
+    {
+      "album": {
+        "name": "Ngai Ti Mundu - Single",
+        "url": "https://open.spotify.com/album/0oJ8KORSfhJiUIH9j1vsNq"
+      },
+      "artists": [
+        {
+          "name": "Betty Bayo",
+          "url": "https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T"
+        },
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213919,
+      "name": "Ti Mundu - Single",
+      "url": "https://open.spotify.com/track/7oe6V6y2P5cqkDGP5J1eUK"
     },
     {
       "album": {
@@ -4872,6 +4952,28 @@
       "duration_ms": 598047,
       "name": "Umezungushwa Na Sifa",
       "url": "https://open.spotify.com/track/28W0lPWcA0mhpqlNJglxKF"
+    },
+    {
+      "album": {
+        "name": "Uira",
+        "url": "https://open.spotify.com/album/6Ia2YbxZ5kJ7LaFl4zCpns"
+      },
+      "artists": [
+        {
+          "name": "Betty Bayo",
+          "url": "https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T"
+        },
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214088,
+      "name": "Unamuwinda Nani",
+      "url": "https://open.spotify.com/track/5OCq8laibCFBy2U6XyBZvX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: Efya
 
-571 songs - 1 day 5 hr 30 min
+575 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Me Ne Woa](https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [2+](https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76) | 3:30 | 2025-01-31 | 2025-03-22 |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-22 | 2024-04-12 |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-06-27 |  |
+| [Melanin](https://open.spotify.com/track/2RUKhHP0w1l49R7f1820qS) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP), [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [](https://open.spotify.com/album/null) | 2:33 | 2025-11-14 |  |
 | [Million Style](https://open.spotify.com/track/1aShenubI5JKdlv1S4Sm7s) | [KillBeatz](https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Killa Riddim](https://open.spotify.com/album/5POFszPRMh67b1cImkzLnA) | 3:28 | 2024-03-22 | 2024-09-07 |
 | [Miss You](https://open.spotify.com/track/0h7AuxckvEgyoaBzXZuYyB) | [Reefer Tym](https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27) | [Miss You](https://open.spotify.com/album/3UsYwByBCsosmzI5ZMzqOL) | 2:36 | 2023-07-28 | 2023-08-02 |
 | [Miss Yu](https://open.spotify.com/track/0jvNABBGWF3vQH1PhJ5hJz) | [Joshua Moszi](https://open.spotify.com/artist/4VXF3uE8fAjVHyffIYO8yA), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Badu](https://open.spotify.com/album/3FbAWIKQQ5bOVXnwJDTtpa) | 2:37 | 2024-10-12 | 2024-10-26 |
@@ -396,6 +397,7 @@
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2022-11-04 | 2024-01-26 |
 | [Ose Ompe](https://open.spotify.com/track/0dRVnb21xOr4qlQ6XAieTG) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Ose Ompe](https://open.spotify.com/album/1ddDZp7X19BdM39Gdw0TZl) | 4:34 | 2024-08-29 | 2024-09-28 |
 | [Our Day](https://open.spotify.com/track/2mqHJQs6OXsllIjNmffAWn) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Our Day](https://open.spotify.com/album/6XWLKjabihhtUqkff8Ts9l) | 2:58 | 2024-03-01 | 2024-03-29 |
+| [Our Wife](https://open.spotify.com/track/51kRliH4DuTVRV20tDRr7x) | [Dancegod Lloyd](https://open.spotify.com/artist/3nWugp75P8M6hkqd0pWeI7), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Our Wife](https://open.spotify.com/album/3vBZZf0fWM78EV8ciJhz8y) | 3:48 | 2025-11-14 |  |
 | [Over](https://open.spotify.com/track/1537dWgnx4cqNxMYQbVa6C) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Over](https://open.spotify.com/album/0qpAELxRfWAsE1InseqU1e) | 3:53 | 2023-09-14 | 2023-11-03 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2022-11-04 | 2023-05-13 |
 | [Over](https://open.spotify.com/track/4AqSMNtn3vFqE0OScxvEps) | [Thirtn](https://open.spotify.com/artist/2DJRjIwHAj1DdOo6pBcM6v) | [Over](https://open.spotify.com/album/0SvEJsifHLZ7VGMZaan2pc) | 3:02 | 2023-03-10 | 2023-03-18 |
@@ -520,6 +522,7 @@
 | [Time Heals All](https://open.spotify.com/track/1Nx1168hCpGQsg5iU9z6VK) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Time Is on My Side](https://open.spotify.com/album/3ASS1Gvr24klSgbVcFwPGD) | 3:13 | 2025-08-22 | 2025-08-29 |
 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 | 2024-05-03 | 2025-08-30 |
 | [Tobinco](https://open.spotify.com/track/32FnB6UFAo9RC1DoP2KfDp) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Tobinco](https://open.spotify.com/album/03Oxk0R8ECMuzePW0kT4PT) | 3:00 | 2025-01-31 | 2025-07-25 |
+| [Toffee](https://open.spotify.com/track/526ajsmmCi9QKfOQCJiZn3) | [Veola](https://open.spotify.com/artist/5fLNzZuVFMdNKfNOvWA39i) | [Toffee](https://open.spotify.com/album/3gtf09EytYdN4bfuTXsvCW) | 3:05 | 2025-11-14 |  |
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-12 | 2023-09-15 |
 | [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 |  |
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2024-11-08 |  |
@@ -551,6 +554,7 @@
 | [WINE AND BLUES](https://open.spotify.com/track/29kG9fZa56h0jL9qXqTePM) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 3:15 | 2025-03-14 | 2025-06-28 |
 | [With You](https://open.spotify.com/track/1u6XGybU3ZSyXbJJOfI4xJ) | [Viqtorioz](https://open.spotify.com/artist/2nrABzjOIYEw6s7SFqD9ZS) | [With You](https://open.spotify.com/album/45i20rWbykJztJLUNDqZSP) | 2:28 | 2023-07-20 | 2023-07-29 |
 | [Wo Be Di](https://open.spotify.com/track/3qdewg2LKF0GWD8Uw7JpHP) | [Efia Odo](https://open.spotify.com/artist/2nQ3wwgr8vXKhBIvnEViIj) | [Wo Be Di](https://open.spotify.com/album/6H9yV8Nf3SNSsQUdK5NrbI) | 2:34 | 2023-12-22 | 2024-01-13 |
+| [Woa Nware Me](https://open.spotify.com/track/0WCt3vH3kSYNCYntKg6Rbz) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Woa Nware Me](https://open.spotify.com/album/6wVTond1gKEOxd7IqB7QG8) | 3:16 | 2025-11-14 |  |
 | [Woara](https://open.spotify.com/track/7uZBZ7UmMoMf0FvYrVRDhx) | [KWEKU PEE](https://open.spotify.com/artist/1moWgmfzDrNtohnVWhZOmO) | [Woara](https://open.spotify.com/album/5SvMQOBbGLOCGhzxSNK8pT) | 2:45 | 2024-10-12 | 2024-10-26 |
 | [Woman](https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Woman](https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA) | 2:00 | 2023-03-17 | 2023-04-21 |
 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 | 2024-08-02 |  |

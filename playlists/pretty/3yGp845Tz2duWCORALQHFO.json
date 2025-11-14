@@ -1,13 +1,29 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26113,
+  "num_followers": 26114,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABkYUrZ1kfbllDLRhVCbASFojfPKBN2",
+  "snapshot_id": "AABkZV0bRS/uyU8DWPIXC5GzLlAMkiNF",
   "tracks": [
+    {
+      "added_at": "2025-11-13 19:14:09",
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/0isByBBaze9EBj0ChAkxLj"
+      },
+      "artists": [
+        {
+          "name": "H4lo",
+          "url": "https://open.spotify.com/artist/6TmXkkMlMTvattdlqLmhCi"
+        }
+      ],
+      "duration_ms": 159654,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3aCrnLs1CCi0KbrFs32xb0"
+    },
     {
       "added_at": "2025-11-07 13:47:56",
       "album": {
@@ -27,26 +43,6 @@
       "duration_ms": 182400,
       "name": "With Your Love",
       "url": "https://open.spotify.com/track/3T1CFsOfNi9Dy9cMtjNdEQ"
-    },
-    {
-      "added_at": "2025-11-07 13:47:56",
-      "album": {
-        "name": "Don't Know",
-        "url": "https://open.spotify.com/album/6arECnkHN24rRhB1w2PyZJ"
-      },
-      "artists": [
-        {
-          "name": "Indicate",
-          "url": "https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv"
-        },
-        {
-          "name": "Colin",
-          "url": "https://open.spotify.com/artist/5DhxUi8bUBocqMI03A2b5P"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "Don't Know",
-      "url": "https://open.spotify.com/track/2Xxpqi4AeT3YGtO5iRahub"
     },
     {
       "added_at": "2025-11-07 13:47:56",
@@ -107,6 +103,26 @@
       "duration_ms": 272370,
       "name": "Only the Dark Knows",
       "url": "https://open.spotify.com/track/2ABVwS3BHZyUoBj7v5OoBB"
+    },
+    {
+      "added_at": "2025-11-07 13:47:56",
+      "album": {
+        "name": "Don't Know",
+        "url": "https://open.spotify.com/album/6arECnkHN24rRhB1w2PyZJ"
+      },
+      "artists": [
+        {
+          "name": "Indicate",
+          "url": "https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv"
+        },
+        {
+          "name": "Colin",
+          "url": "https://open.spotify.com/artist/5DhxUi8bUBocqMI03A2b5P"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "Don't Know",
+      "url": "https://open.spotify.com/track/2Xxpqi4AeT3YGtO5iRahub"
     },
     {
       "added_at": "2025-11-07 13:47:56",
@@ -243,7 +259,7 @@
     {
       "added_at": "2025-11-07 13:47:56",
       "album": {
-        "name": "Till I Die",
+        "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
       },
       "artists": [
@@ -261,7 +277,7 @@
         }
       ],
       "duration_ms": 203076,
-      "name": "Till I Die",
+      "name": "Till I Die (feat. Claudia Valentina)",
       "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
     },
     {
@@ -889,54 +905,6 @@
       "url": "https://open.spotify.com/track/627BGq7yac7ZJA4wYI1byj"
     },
     {
-      "added_at": "2025-11-06 20:11:54",
-      "album": {
-        "name": "Best Life",
-        "url": "https://open.spotify.com/album/5pw5zN5WB8gfmxvLJTLZ9T"
-      },
-      "artists": [
-        {
-          "name": "Lusinate",
-          "url": "https://open.spotify.com/artist/0ehERwTSzP6EhM71qhDuIA"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Best Life",
-      "url": "https://open.spotify.com/track/5Ol9rvLoKJssaem0Z3g7cz"
-    },
-    {
-      "added_at": "2025-11-06 20:11:51",
-      "album": {
-        "name": "Filter Me Back",
-        "url": "https://open.spotify.com/album/1DEs3YlvOEpZjMBXHp48Ur"
-      },
-      "artists": [
-        {
-          "name": "DJ Hit-Man",
-          "url": "https://open.spotify.com/artist/0EAhxRRHL0u8MudjvMA1am"
-        }
-      ],
-      "duration_ms": 350666,
-      "name": "Filter Me Back",
-      "url": "https://open.spotify.com/track/6Mk3B07Z1Ha4viwR3h2xxR"
-    },
-    {
-      "added_at": "2025-11-06 20:10:53",
-      "album": {
-        "name": "Duel of Gods",
-        "url": "https://open.spotify.com/album/5qQYdsOMqVZaFHuqvG7tA2"
-      },
-      "artists": [
-        {
-          "name": "Damian Elloway",
-          "url": "https://open.spotify.com/artist/36jTgEoBrINLZsO6i2tMI9"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Duel of Gods - Radio Edit",
-      "url": "https://open.spotify.com/track/79py99VxJc2RFZTUzUBsye"
-    },
-    {
       "added_at": "2025-11-07 23:30:52",
       "album": {
         "name": "Sky Stair",
@@ -951,22 +919,6 @@
       "duration_ms": 214080,
       "name": "Sky Stair",
       "url": "https://open.spotify.com/track/2ct4S9bXzgPayyURUC181P"
-    },
-    {
-      "added_at": "2025-11-06 20:10:52",
-      "album": {
-        "name": "My First Dream",
-        "url": "https://open.spotify.com/album/5RjCnrlY2ib4LcCgGEEqdW"
-      },
-      "artists": [
-        {
-          "name": "MeyrAviv",
-          "url": "https://open.spotify.com/artist/6s6aItZuaBeKkRcsscYdpY"
-        }
-      ],
-      "duration_ms": 398479,
-      "name": "My First Dream",
-      "url": "https://open.spotify.com/track/7hRw8fzr37GGdMPEk8axdT"
     }
   ],
   "unique_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",

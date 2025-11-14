@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 
 > Dive into the songwriting and production influences that inspired boygenius and laid the blueprint for their latest release, 'the record.'
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,250 likes - 82 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,258 likes - 82 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Erika Isac",
-  "num_followers": 22049,
+  "num_followers": 22054,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -659,30 +659,6 @@
     {
       "added_at": "2025-11-06 22:00:36",
       "album": {
-        "name": "\u0218tefan IV",
-        "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        },
-        {
-          "name": "Stefan Costea",
-          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
-        },
-        {
-          "name": "Pitariu George",
-          "url": "https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s"
-        }
-      ],
-      "duration_ms": 194936,
-      "name": "inexplicabil",
-      "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
-    },
-    {
-      "added_at": "2025-11-06 22:00:36",
-      "album": {
         "name": "Selfmade",
         "url": "https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 129005,
       "name": "Certificat",
       "url": "https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO"
+    },
+    {
+      "added_at": "2025-11-06 22:00:36",
+      "album": {
+        "name": "\u0218tefan IV",
+        "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "Stefan Costea",
+          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
+        },
+        {
+          "name": "Pitariu George",
+          "url": "https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s"
+        }
+      ],
+      "duration_ms": 194936,
+      "name": "inexplicabil",
+      "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
     },
     {
       "added_at": "2025-11-06 22:00:36",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-11-06 22:00:36",
       "album": {
-        "name": "Hai S\u0103 Recunoa\u0219tem",
-        "url": "https://open.spotify.com/album/1ehTMIKjhF1p4w5V3mfnlF"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        },
-        {
-          "name": "Guess Who",
-          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Hai S\u0103 Recunoa\u0219tem",
-      "url": "https://open.spotify.com/track/7FuBCO9oT1czcAJEdU76Nv"
-    },
-    {
-      "added_at": "2025-11-06 22:00:36",
-      "album": {
         "name": "Lumea toat\u0103",
         "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 135000,
       "name": "Lumea toat\u0103",
       "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
+    },
+    {
+      "added_at": "2025-11-06 22:00:36",
+      "album": {
+        "name": "Hai S\u0103 Recunoa\u0219tem",
+        "url": "https://open.spotify.com/album/1ehTMIKjhF1p4w5V3mfnlF"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Hai S\u0103 Recunoa\u0219tem",
+      "url": "https://open.spotify.com/track/7FuBCO9oT1czcAJEdU76Nv"
     },
     {
       "added_at": "2025-11-06 22:00:36",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-06 22:00:36",
       "album": {
+        "name": "Tu, M\u0103rie!",
+        "url": "https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr"
+      },
+      "artists": [
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Tu, M\u0103rie!",
+      "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
+    },
+    {
+      "added_at": "2025-11-06 22:00:36",
+      "album": {
         "name": "REBORN",
         "url": "https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 151111,
       "name": "Momentul meu",
       "url": "https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi"
-    },
-    {
-      "added_at": "2025-11-06 22:00:36",
-      "album": {
-        "name": "Tu, M\u0103rie!",
-        "url": "https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr"
-      },
-      "artists": [
-        {
-          "name": "Grasu XXL",
-          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Tu, M\u0103rie!",
-      "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
     }
   ],
   "unique_name": "Suflet + Sunet",

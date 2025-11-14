@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: The Getdown",
+  "description": "The best jazz new releases. Cover: Celeste",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -756,6 +756,40 @@
       "duration_ms": 137831,
       "name": "Always Late",
       "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
+    },
+    {
+      "album": {
+        "name": "Healing Songs",
+        "url": "https://open.spotify.com/album/5htGZT3fLKOMEPMLI5Gi4y"
+      },
+      "artists": [
+        {
+          "name": "Henri Texier",
+          "url": "https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES"
+        },
+        {
+          "name": "S\u00e9bastien Texier",
+          "url": "https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu"
+        },
+        {
+          "name": "Hermon Mehari",
+          "url": "https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT"
+        },
+        {
+          "name": "Emmanuel Borghi",
+          "url": "https://open.spotify.com/artist/2zQxEBrtaCkbyrUVBcxRPk"
+        },
+        {
+          "name": "Gautier Garrigue",
+          "url": "https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356827,
+      "name": "Amazone Blues",
+      "url": "https://open.spotify.com/track/1ohcAmZl6D4BtaQ1TjQDoQ"
     },
     {
       "album": {
@@ -1542,7 +1576,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 185500,
       "name": "Big Band Boogie (feat. Kenny G)",
       "url": "https://open.spotify.com/track/48W2JnDmP6n5pfqxZkpeOM"
@@ -2564,6 +2598,24 @@
       "duration_ms": 235920,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
+    },
+    {
+      "album": {
+        "name": "F\u00eate de la Lune",
+        "url": "https://open.spotify.com/album/1AJLwsfJNSl7X0pgGX3pmi"
+      },
+      "artists": [
+        {
+          "name": "L'Equipe Lab",
+          "url": "https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171349,
+      "name": "Cato Keto",
+      "url": "https://open.spotify.com/track/1HPJAgazdyuIIzjQ3GB7kz"
     },
     {
       "album": {
@@ -4558,7 +4610,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 111724,
       "name": "Empty.",
       "url": "https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q"
@@ -6840,7 +6892,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 183035,
       "name": "I Feel Bad For You, Dave",
       "url": "https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn"
@@ -7196,7 +7248,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 324888,
       "name": "I. The Cakewalk Dilemma",
       "url": "https://open.spotify.com/track/0lXpOJk3QrAIuDW0pUqRQM"
@@ -8020,7 +8072,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 199362,
       "name": "JUKE JOINT",
       "url": "https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9"
@@ -8972,7 +9024,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 152124,
       "name": "Lie To Yourself",
       "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
@@ -9995,6 +10047,24 @@
     },
     {
       "album": {
+        "name": "Mellow Mood",
+        "url": "https://open.spotify.com/album/0vayclALpKpD3eJVCdt6Sm"
+      },
+      "artists": [
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125186,
+      "name": "Mellow Mood",
+      "url": "https://open.spotify.com/track/0Pe1KapRTQUTfPyVrBD8Iv"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/06GB9kfkvoirUATe7moJMJ"
       },
@@ -10170,6 +10240,28 @@
       "duration_ms": 240496,
       "name": "Mille rivages",
       "url": "https://open.spotify.com/track/3RGbbFVz6LfyLdqTCuTffa"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324808,
+      "name": "Minor Blues Redux",
+      "url": "https://open.spotify.com/track/4CoxOtljview88zweWSqQI"
     },
     {
       "album": {
@@ -10958,7 +11050,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 356746,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/5ywlQz286fFX2BB2j9BGGI"
@@ -12121,6 +12213,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290397,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg"
+    },
+    {
+      "album": {
         "name": "Gabi Hartmann",
         "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
       },
@@ -12877,6 +12987,36 @@
     },
     {
       "album": {
+        "name": "RUST",
+        "url": "https://open.spotify.com/album/4OsGsUmunboaDQbAb1tA0e"
+      },
+      "artists": [
+        {
+          "name": "Amaury Faye",
+          "url": "https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte"
+        },
+        {
+          "name": "Julian Lee",
+          "url": "https://open.spotify.com/artist/4vkAguYu71OITfPIO1qT0p"
+        },
+        {
+          "name": "Amina Scott",
+          "url": "https://open.spotify.com/artist/2mA7agMNb4IjjXcEb5U6La"
+        },
+        {
+          "name": "Herlin Riley",
+          "url": "https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "RUST",
+      "url": "https://open.spotify.com/track/5ejBZt6jqTXPW1S1DfKBS9"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
       },
@@ -13564,6 +13704,28 @@
       "duration_ms": 274945,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
+    },
+    {
+      "album": {
+        "name": "Song for Abbey (Tribute to Abbey Lindoln)",
+        "url": "https://open.spotify.com/album/61bvkueuAf7anU6B18PS1z"
+      },
+      "artists": [
+        {
+          "name": "Marion Rampal",
+          "url": "https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7w8wB21SgPWxgmEZ14WfBe"
     },
     {
       "album": {

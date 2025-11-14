@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: Iyaani
 
-63 songs - 3 hr 34 min
+64 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [MAMA MILKA](https://open.spotify.com/track/7gQJRJatQFLSyXuSC4scUH) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH), [Jopee](https://open.spotify.com/artist/21ak7Cl93xzt3ehH6wYg9E) | [Mama Milka](https://open.spotify.com/album/3Wi0NdeDpEYOZrZljvTCLx) | 4:51 | 2025-10-23 | 2025-10-31 |
 | [Mangware](https://open.spotify.com/track/3aiwhTT14AcGxTAmw42GBm) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Mangware](https://open.spotify.com/album/2khrWO6bJ7SgSy7sL1oq43) | 3:43 | 2025-10-23 |  |
 | [Massage](https://open.spotify.com/track/21TYyo4SkqMcBMdGwRd2JE) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Massage](https://open.spotify.com/album/2WKXzYoy2LgVc0IKi1wwxR) | 3:01 | 2025-10-30 |  |
-| [MAYOO](https://open.spotify.com/track/0UGIdREkw9Xn2ZoO5V2YAs) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Mayoo](https://open.spotify.com/album/23lRRb60jedC86NHbLHWnp) | 2:42 | 2025-10-23 |  |
+| [MAYOO](https://open.spotify.com/track/0UGIdREkw9Xn2ZoO5V2YAs) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Mayoo](https://open.spotify.com/album/23lRRb60jedC86NHbLHWnp) | 2:42 | 2025-10-23 |  |
 | [MONEY OVER LOVE](https://open.spotify.com/track/1bRVuXgt09LS1QVUHO4MLT) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [MONEY OVER LOVE](https://open.spotify.com/album/1b91cls5Jm2s4naoWKtMKp) | 2:26 | 2025-10-23 |  |
 | [MR GOODTIMES](https://open.spotify.com/track/6mZECojs7YOHVhoTtEX2Ey) | [DCMTRS](https://open.spotify.com/artist/5p1MTNZoPDj1nXrYVA1xbM) | [Mr Goodtimes](https://open.spotify.com/album/1cAVm30Gksqq5wnuoqQhvw) | 3:19 | 2025-10-23 |  |
 | [My Lady](https://open.spotify.com/track/43vAHBJD2MimEVUVhixbBp) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [My Lady](https://open.spotify.com/album/7FVOFeOpO8F36zxl62IkRF) | 3:12 | 2025-10-23 |  |
@@ -65,6 +65,7 @@
 | [SORE LOSER](https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [SORE LOSER](https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d) | 2:06 | 2025-10-23 |  |
 | [Stage Ya Mwisho](https://open.spotify.com/track/4DaouMbzqBe1eaMtaTgzWv) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Stage Ya Mwisho](https://open.spotify.com/album/1gIhAIB17QtPHUTr3ZUihX) | 4:22 | 2025-10-23 |  |
 | [Step On It](https://open.spotify.com/track/5iuHaDidtsMXlNnChEzhGf) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Step On It](https://open.spotify.com/album/1lm3iByzAMTA4yCKIYVksH) | 2:39 | 2025-10-23 |  |
+| [Tamu](https://open.spotify.com/track/3sHSigMkhROnRI1Q8kxRTU) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Tamu](https://open.spotify.com/album/6nqNjfAqrnPMNpdhwMQvmT) | 2:22 | 2025-11-06 |  |
 | [Taya](https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Healing](https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC) | 3:59 | 2025-10-23 |  |
 | [TIKI TAKO](https://open.spotify.com/track/2gJRqeN8Q9Yg5jpx6WKm7h) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [TIKI TAKO](https://open.spotify.com/album/5qBMXffGoDp4pPe9S7niXJ) | 3:52 | 2025-10-23 |  |
 | [TRUE LOVE](https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [TRUE LOVE](https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0) | 2:32 | 2025-10-23 |  |

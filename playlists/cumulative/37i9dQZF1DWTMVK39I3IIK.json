@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Rosa P\u00e5 M\u00e5nen",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Kayak",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 194523,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 168391,
       "name": "Finder Du Dig Selv?",
       "url": "https://open.spotify.com/track/4JkxtgmKcYRe2OynLFQPCC"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 136551,
       "name": "Ik Er Her.",
       "url": "https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2"
@@ -2956,6 +2956,24 @@
       "duration_ms": 212558,
       "name": "Ildfluer",
       "url": "https://open.spotify.com/track/44AFri447xop1t5EblgHbE"
+    },
+    {
+      "album": {
+        "name": "Ind I Solen",
+        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
+      },
+      "artists": [
+        {
+          "name": "Kayak",
+          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227037,
+      "name": "Ind I Solen",
+      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
     },
     {
       "album": {
@@ -3082,7 +3100,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 233503,
       "name": "Jeg Ved At Jeg Intet Ved",
       "url": "https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu"
@@ -4345,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "PRINCESS",
+        "url": "https://open.spotify.com/album/3C6pXaV8U9U90CLrsxT6hJ"
+      },
+      "artists": [
+        {
+          "name": "Amna Naseer",
+          "url": "https://open.spotify.com/artist/1SgTaDWOR4enMcVASjuBcV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177541,
+      "name": "PRINCESS",
+      "url": "https://open.spotify.com/track/1rfscPpZJO9r89WXN6ABU9"
+    },
+    {
+      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -4454,7 +4490,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 116259,
       "name": "P\u00c5 TIL DET SAMME",
       "url": "https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS"
@@ -4562,7 +4598,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 200875,
       "name": "Rend Mig I R\u00f8ven",
       "url": "https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA"
@@ -5276,7 +5312,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 171885,
       "name": "Syg af f\u00f8lelser",
       "url": "https://open.spotify.com/track/26xQNPL2NfgQEzwezhcOml"
@@ -5334,6 +5370,24 @@
       "duration_ms": 170192,
       "name": "Syreregn",
       "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
+    },
+    {
+      "album": {
+        "name": "S\u00c5DAN EN DAG",
+        "url": "https://open.spotify.com/album/7I2LWIdG5Bvv820KGpM9XH"
+      },
+      "artists": [
+        {
+          "name": "BASKE",
+          "url": "https://open.spotify.com/artist/5t1bsUlFWixhgRJ983muoP"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222551,
+      "name": "S\u00c5DAN EN DAG",
+      "url": "https://open.spotify.com/track/6F7Q5P0ramAp7duLP12hj3"
     },
     {
       "album": {
@@ -5800,7 +5854,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 186681,
       "name": "Umuligt",
       "url": "https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1"
@@ -6006,7 +6060,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 261262,
       "name": "Valmue",
       "url": "https://open.spotify.com/track/1YXNeYRjvVt1mqAA9jH2SR"
@@ -6082,7 +6136,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Vilde \u00d8jne",
       "url": "https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux"
@@ -6190,7 +6244,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 196406,
       "name": "Void",
       "url": "https://open.spotify.com/track/0FnPLGAM2kz47V99T5YskK"
@@ -6471,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "\u00c5bner Mit Hjerte Op",
+        "url": "https://open.spotify.com/album/1u8Y1IYbLB5VDXqgqE2Tpc"
+      },
+      "artists": [
+        {
+          "name": "Tredjeperson",
+          "url": "https://open.spotify.com/artist/3lNT9IzIJt2jRxFprNJa27"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "\u00c5bner Mit Hjerte Op",
+      "url": "https://open.spotify.com/track/38CTgqDetumc5aPBJZ9MQl"
+    },
+    {
+      "album": {
         "name": "\u00d8delagt Byen (feat. Augusta Schackinger)",
         "url": "https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW"
       },
@@ -6486,7 +6558,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 157021,
       "name": "\u00d8delagt Byen (feat. Augusta Schackinger)",
       "url": "https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce"

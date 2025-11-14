@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 486160,
+  "num_followers": 486130,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "I AM NOT SO TALL",
         "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+      },
+      "artists": [
+        {
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Naga Damai",
-        "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
-      },
-      "artists": [
-        {
-          "name": "Cocobolo",
-          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Naga Damai",
-      "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Rocketship",
@@ -759,6 +743,22 @@
       "duration_ms": 116202,
       "name": "Rocketship",
       "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Naga Damai",
+        "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
+      },
+      "artists": [
+        {
+          "name": "Cocobolo",
+          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Naga Damai",
+      "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -777,20 +777,20 @@
       "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-03-27 13:00:14",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
       },
       "artists": [
         {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
         }
       ],
-      "duration_ms": 124636,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+      "duration_ms": 172228,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -809,20 +809,20 @@
       "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
-      "added_at": "2025-03-27 13:00:14",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Sunday Scaries",
-        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
       "artists": [
         {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
         }
       ],
-      "duration_ms": 172228,
-      "name": "Sunday Scaries",
-      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
+      "duration_ms": 124636,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Malibu Sunset b/w Hang On",
         "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 128194,
       "name": "Malibu Sunset",
       "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Cold Summers EP",
-        "url": "https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj"
-      },
-      "artists": [
-        {
-          "name": "Crepes",
-          "url": "https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "Cold Summers",
-      "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Floating By",
@@ -1211,6 +1195,22 @@
       "duration_ms": 160703,
       "name": "Floating By",
       "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Cold Summers EP",
+        "url": "https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj"
+      },
+      "artists": [
+        {
+          "name": "Crepes",
+          "url": "https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "Cold Summers",
+      "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

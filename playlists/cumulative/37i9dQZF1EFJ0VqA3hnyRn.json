@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 172540,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
@@ -3707,7 +3707,7 @@
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 163173,
+      "duration_ms": 163167,
       "name": "Like That (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
@@ -5485,7 +5485,7 @@
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187040,
+      "duration_ms": 187048,
       "name": "Rules",
       "url": "https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP"
     },
@@ -6906,6 +6906,28 @@
       "duration_ms": 248022,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/5myV3Ddm7CXKrP4QOOguQl"
+    },
+    {
+      "album": {
+        "name": "WICKED (Diplo Remix)",
+        "url": "https://open.spotify.com/album/13sIfrF1vCbtMThrAWji2T"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157153,
+      "name": "WICKED - Diplo Remix",
+      "url": "https://open.spotify.com/track/3khSG33zOqh8Mv3gnwKJam"
     },
     {
       "album": {

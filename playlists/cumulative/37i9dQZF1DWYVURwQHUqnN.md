@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : GIMS
+> Photo : Bouss
 
-408 songs - 19 hr 12 min
+410 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,8 +214,9 @@
 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-04 | 2024-07-27 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-02-15 | 2024-12-20 |
 | [Margiela](https://open.spotify.com/track/4i7Ck0jXJc0az9i8yOI9FJ) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8), [HDPRK](https://open.spotify.com/artist/73s1HHCb3RQcuxhFgqgGG0), [G29](https://open.spotify.com/artist/33GoYRikyN9Ej7idDdY55g) | [Margiela](https://open.spotify.com/album/7yWRuAb4BfIk1I9N1WUbQI) | 3:33 | 2025-06-12 | 2025-10-10 |
-| [Margiela II](https://open.spotify.com/track/3HbGZpDMKmkJG5ypX6n5UT) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8) | [Margiela II](https://open.spotify.com/album/4e6zt1cxWDOQy2ZkY6SBOd) | 2:39 | 2025-10-09 |  |
+| [Margiela II](https://open.spotify.com/track/3HbGZpDMKmkJG5ypX6n5UT) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8) | [Margiela II](https://open.spotify.com/album/4e6zt1cxWDOQy2ZkY6SBOd) | 2:39 | 2025-10-09 | 2025-11-14 |
 | [Marius](https://open.spotify.com/track/1nCTokqcdpdZL8gY7vhrpJ) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/6j1vIDOEZpuiCr8OBU3Dly) | 2:35 | 2025-06-12 | 2025-07-04 |
+| [Masterclass](https://open.spotify.com/track/4Tt8x8oI2YybS522SzJDc0) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Masterclass](https://open.spotify.com/album/4g5iHp0eensRrYH7Z95xQ8) | 2:33 | 2025-11-13 |  |
 | [MASTERCLASS](https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [MASTERCLASS](https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF) | 2:50 | 2025-05-08 | 2025-06-20 |
 | [Mayday](https://open.spotify.com/track/5E8kxgxJswnI9TBzISn1Zg) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Mayday](https://open.spotify.com/album/3Nzj9VBKatRVdE3Ac1L3pE) | 2:42 | 2024-12-12 | 2025-01-17 |
 | [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 | 2024-08-01 | 2024-09-06 |
@@ -223,7 +224,7 @@
 | [MAÑANA](https://open.spotify.com/track/4DUWkGJrfXx0DHPAKlrE9p) | [Mougli](https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl) | [MAÑANA](https://open.spotify.com/album/0iFRPwv9nJhWNAVvcWtVRy) | 2:56 | 2025-08-14 | 2025-08-29 |
 | [Mehlich](https://open.spotify.com/track/522QRUYYtyjsc5PGQv8m1U) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Mehlich](https://open.spotify.com/album/0amslvYWdskNGA8zH4RGsy) | 2:52 | 2025-04-17 | 2025-05-09 |
 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 | 2025-04-03 |  |
-| [Mentale](https://open.spotify.com/track/45nxwllTmJ5gBXbPQFWMkS) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN) | [Mentale](https://open.spotify.com/album/0F5y6w0ZtRQJbOapfyV4JX) | 2:39 | 2025-09-25 |  |
+| [Mentale](https://open.spotify.com/track/45nxwllTmJ5gBXbPQFWMkS) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN) | [Mentale](https://open.spotify.com/album/0F5y6w0ZtRQJbOapfyV4JX) | 2:39 | 2025-09-25 | 2025-11-14 |
 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 | 2024-06-20 | 2024-10-04 |
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2023-11-30 | 2024-06-21 |
 | [Million](https://open.spotify.com/track/2tBdFaBdoT64Y2NvZxWOqW) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Million](https://open.spotify.com/album/34PgqU853NOE06O6q5LywJ) | 2:10 | 2025-01-02 | 2025-01-24 |
@@ -311,6 +312,7 @@
 | [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 | 2024-06-20 | 2024-10-04 |
 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 | 2025-02-06 | 2025-04-25 |
 | [RAP CONSCIENT](https://open.spotify.com/track/2Hj3OjF1QTf8uqHb5C7ArK) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [RAP CONSCIENT](https://open.spotify.com/album/3AIpkvssKn09gqJpEPXdDG) | 2:16 | 2024-06-27 | 2024-07-19 |
+| [RATATA](https://open.spotify.com/track/4tGZCW0Ik3wASPyZXVjZQo) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [RATATA](https://open.spotify.com/album/22dlDdmFV7p4UaFso2PhHo) | 3:04 | 2025-11-13 |  |
 | [Remontada \(feat\. Leto\)](https://open.spotify.com/track/1uLESz9GPo9f3kKyf9Us8M) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Art de rue](https://open.spotify.com/artist/1b27lFoOmpecfaxZGgprtA), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Remontada \(feat\. Leto\)](https://open.spotify.com/album/3G83RKl9LzD6JEfzBhzCU2) | 2:43 | 2024-06-20 | 2024-07-27 |
 | [Reste Trankil](https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reste Trankil](https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm) | 3:19 | 2023-10-12 | 2024-04-05 |
 | [Risqué](https://open.spotify.com/track/6HCVioNcqAhwl3dkVLBhjE) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Sous contrôle](https://open.spotify.com/album/4giZXCK1xBPgdea8UmTIpU) | 2:36 | 2024-05-16 | 2024-06-14 |

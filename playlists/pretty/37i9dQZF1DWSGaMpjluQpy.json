@@ -1,15 +1,31 @@
 {
   "description": "Sitting in a cozy caf\u00e9 studying while the rain is pouring down outside. ",
-  "num_followers": 180774,
+  "num_followers": 180986,
   "original_name": "Jazz in the Rain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPL0jC8++AI3/rTgsI4ylxfHLR2X",
+  "snapshot_id": "AAAAAMYJZdL1dtHti0OfOsalI847nEn4",
   "tracks": [
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/15GZvHoaG8oM6ja8LZQxBl"
+      },
+      "artists": [
+        {
+          "name": "Darlington",
+          "url": "https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/4ky0UguF2TtDUPvcr9ur0r"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Glencoe Sketches (Rain)",
         "url": "https://open.spotify.com/album/2TgNzsUJ4VgF7SkDGRBL7k"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/0MiOcIeWX5CdJKN8i49wzp"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Birthday Tears",
+        "url": "https://open.spotify.com/album/1nRGyn6pBKo7rkDU0Jhgrn"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Parker",
+          "url": "https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Birthday Tears",
+      "url": "https://open.spotify.com/track/7I0PrS7YVShNZzNDep6y83"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Midnight Midtown Jazz (Rain)",
         "url": "https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/7wYnL2pk7S3VqiiraH0DIi"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "I'm Here With You (Rain)",
         "url": "https://open.spotify.com/album/2Lud8g78ZBSbutIxU3J4c4"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/0yd29PdljMYYz4yNL9ZhzF"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Spiritless",
         "url": "https://open.spotify.com/album/0oXZ3h5wShcHVkL6I5qama"
@@ -73,7 +105,23 @@
       "url": "https://open.spotify.com/track/4od7ZCFWUhJvGRJCwRxHAF"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/5ehehHaqSO7IPAB03NQKaB"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "duration_ms": 254494,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/2qyWbnYIQpyXd6Ziqny20A"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Neighbourhoods",
         "url": "https://open.spotify.com/album/6qVnzW9CV9vYruMWeVehCN"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/43eFgyZEkQKOEivmUlxX9A"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "South River",
         "url": "https://open.spotify.com/album/2JqjC0kW7cjuJRW5XToXfy"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/4TLWEgxwgSUSfSWvONeWzi"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/0Y5ZQ28L3Oi1APem8PpPNM"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/2frIsLqlpUpQGS6Z80EUlF"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Slow Paced",
         "url": "https://open.spotify.com/album/0ZMvA4uDL6bhxbEXAPPobh"
@@ -137,23 +185,7 @@
       "url": "https://open.spotify.com/track/3dXvGcZYtBLSX9xnzRSthU"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Home town rain and thunder",
-        "url": "https://open.spotify.com/album/2pDEdJ0ANr2omZ1ww8jXwF"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Monday thunder",
-      "url": "https://open.spotify.com/track/6ZQb3pCXG9c7gMCxX5Sf6B"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Blue Winds",
         "url": "https://open.spotify.com/album/1CVh3z4KqNY5J3j2tdqXKH"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/28EQq9IWf3sYG9K92wo5XA"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "I Have Never Been Here Before",
         "url": "https://open.spotify.com/album/0lmxGh73XUO0RWmSJ4CnWE"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/5JLNI2JSEkEGFA3PVhocdf"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Last July",
         "url": "https://open.spotify.com/album/143rj0nzCnMvtM2QwxMS86"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/2iSk8f5ORB6lB0nFECBRHW"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "City Nights",
         "url": "https://open.spotify.com/album/7hNvVcYkzKSXfkELeeTYI2"
@@ -217,23 +249,7 @@
       "url": "https://open.spotify.com/track/6ignd5l7hk4Z8AWDbl5vtX"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Reign",
-        "url": "https://open.spotify.com/album/1FzB6cl6WzoFi2ruwHEZTp"
-      },
-      "artists": [
-        {
-          "name": "Lee Davis",
-          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
-        }
-      ],
-      "duration_ms": 190623,
-      "name": "Reign",
-      "url": "https://open.spotify.com/track/6wvYAbSX54UOwWLFNd4rcj"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Lingonberry street",
         "url": "https://open.spotify.com/album/3ceHaQZS4P8ZBkCFFGh9Yz"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/34Wis4cwZ9p15HetdvIXvi"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Far Out East",
         "url": "https://open.spotify.com/album/4PrR6jsiqH3BvNm1pPZbop"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/6Bo85LoxPZAdeHcfLMS0LJ"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Hudson Square",
         "url": "https://open.spotify.com/album/3FqzYXSENE2fCy1bm78FVC"
@@ -281,7 +297,23 @@
       "url": "https://open.spotify.com/track/4vdbfxd6ds6YeOHb5ZD6r2"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Rainy Wednesday",
+        "url": "https://open.spotify.com/album/44CexKdVGKsM7hcuHrZ5nl"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 293058,
+      "name": "Rainy Wednesday",
+      "url": "https://open.spotify.com/track/1ToqDyww0cXymjlh5ivnCY"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Evening Rain",
         "url": "https://open.spotify.com/album/6dWDQjgAC5tLFm19J2YgFU"
@@ -297,87 +329,7 @@
       "url": "https://open.spotify.com/track/4tfNLlpSHpFvBsVufocJKn"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Out of Reach",
-        "url": "https://open.spotify.com/album/5e57meEfY5HuEDRGJmmJIP"
-      },
-      "artists": [
-        {
-          "name": "Lyle Jones",
-          "url": "https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Out of Reach",
-      "url": "https://open.spotify.com/track/05HlrWYW3sQdDvhwr3aErJ"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Faber",
-        "url": "https://open.spotify.com/album/2at9fFe2ZxNu7MVCetxx4U"
-      },
-      "artists": [
-        {
-          "name": "Ballroom Jazz Collective",
-          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Faber",
-      "url": "https://open.spotify.com/track/482CNrlW4YFB0QiKySuxFq"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Blue Sunday",
-        "url": "https://open.spotify.com/album/4BxrAZLnMBaSwzdODpcTwx"
-      },
-      "artists": [
-        {
-          "name": "Archie Taylor",
-          "url": "https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL"
-        }
-      ],
-      "duration_ms": 207622,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/4wRroGt99b7BQGV7Lp59f3"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Eternity Rain",
-        "url": "https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Forgiving",
-      "url": "https://open.spotify.com/track/5tVKrc60aMf0daSkoUgJL4"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Whispers in the Rain",
-        "url": "https://open.spotify.com/album/12I1Gk5ZU8y5l7Dq6PDjeV"
-      },
-      "artists": [
-        {
-          "name": "Shay Walsh",
-          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Whispers in the Rain",
-      "url": "https://open.spotify.com/track/6WPDoN6Aw0tRpkuobDENfD"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Dark Horizon",
         "url": "https://open.spotify.com/album/42NDwI0VQclSqsovH1vmR2"
@@ -393,7 +345,103 @@
       "url": "https://open.spotify.com/track/6eD3m2Yga51OXHn6LjQXLC"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Out of Reach",
+        "url": "https://open.spotify.com/album/5e57meEfY5HuEDRGJmmJIP"
+      },
+      "artists": [
+        {
+          "name": "Lyle Jones",
+          "url": "https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Out of Reach",
+      "url": "https://open.spotify.com/track/05HlrWYW3sQdDvhwr3aErJ"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Faber",
+        "url": "https://open.spotify.com/album/2at9fFe2ZxNu7MVCetxx4U"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Faber",
+      "url": "https://open.spotify.com/track/482CNrlW4YFB0QiKySuxFq"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Blue Sunday",
+        "url": "https://open.spotify.com/album/4BxrAZLnMBaSwzdODpcTwx"
+      },
+      "artists": [
+        {
+          "name": "Archie Taylor",
+          "url": "https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL"
+        }
+      ],
+      "duration_ms": 207622,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/4wRroGt99b7BQGV7Lp59f3"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Eternity Rain",
+        "url": "https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Forgiving",
+      "url": "https://open.spotify.com/track/5tVKrc60aMf0daSkoUgJL4"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Whispers in the Rain",
+        "url": "https://open.spotify.com/album/12I1Gk5ZU8y5l7Dq6PDjeV"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Whispers in the Rain",
+      "url": "https://open.spotify.com/track/6WPDoN6Aw0tRpkuobDENfD"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Reign",
+        "url": "https://open.spotify.com/album/1FzB6cl6WzoFi2ruwHEZTp"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "duration_ms": 190623,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/6wvYAbSX54UOwWLFNd4rcj"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Invisible Me",
         "url": "https://open.spotify.com/album/5QAMdfV1T3X7eRhgkWv711"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/1J54TjMEUE01G7trDlIU3h"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/5EJ2boafQnIqaYEDWNpbmq"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/4KVmPeP1Uegqyg9ZaSRz0o"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Boxroom",
         "url": "https://open.spotify.com/album/0Llf3NZanAqYEwbg9paS8b"
@@ -441,7 +489,7 @@
       "url": "https://open.spotify.com/track/5SsQyltME8sKOX8jU7LXiH"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5n6Zxrk0wxRTnnxlAgS7Iv"
@@ -457,23 +505,7 @@
       "url": "https://open.spotify.com/track/3ayvi21PAEf43yKuS0Mvb7"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Kites",
-        "url": "https://open.spotify.com/album/1xckIXwRecVrXSRxG7sWJR"
-      },
-      "artists": [
-        {
-          "name": "Sverrir Audland",
-          "url": "https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kites",
-      "url": "https://open.spotify.com/track/5GBFC6IMRifrXhGpvntHHj"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Her Song",
         "url": "https://open.spotify.com/album/6rcsRUeB2jjdWMtRZ3Yjjr"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/1ePnBDWTj8rvGAqsfKApk3"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/2ep4TtOop22u1GintL5Yhx"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/1aimEz2afv76wgDapf7y2i"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Grey Surroundings",
         "url": "https://open.spotify.com/album/0q4TVVIREiFXIECbrNIyen"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/4L6tRPsIaXt08jqSCXyOpr"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/1PUymjohkZif5MR150o773"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/5aWqkwh860xhalXLdDCEpM"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/6Yl1lhoCj9VAsuNSgxV13i"
@@ -553,23 +585,7 @@
       "url": "https://open.spotify.com/track/2dv3ZXTz70qDYe5OpMouWP"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Blame It On My Youth - Rain",
-        "url": "https://open.spotify.com/album/1xHh3zVBbPvTMxxxZPl7Dx"
-      },
-      "artists": [
-        {
-          "name": "Long Island Quartet",
-          "url": "https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR"
-        }
-      ],
-      "duration_ms": 298529,
-      "name": "Blame It On My Youth - Rain",
-      "url": "https://open.spotify.com/track/1kcqIlIk0Tked5nm7sAQDW"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Central Park West (Rain)",
         "url": "https://open.spotify.com/album/19gKjLugTg8IrZDc7iLZed"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/4otpI8Q3ofe7O0BNuRs3Ta"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Forests Sometimes",
         "url": "https://open.spotify.com/album/4c5tCMY258trdUWxqJ4J5j"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/3rDVLfUb6s70EdNhrVOycF"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rainfall Serenade",
         "url": "https://open.spotify.com/album/4GpvonLyL8kXK4s36HWMn0"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/138EdSRNQahnwfLwKlGecV"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Aeromine",
         "url": "https://open.spotify.com/album/6rvdDeXagBj7x6KFoBByRa"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/7L8BCeH9zPooWszjqnCJSa"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rainy Nights",
         "url": "https://open.spotify.com/album/2wvtzHGpXw5MkkPMyDSZf0"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/5un2Ci3uFAMQZwxrPa2OCF"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Jazz Lovin in the Rain",
         "url": "https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/0T2metNGLcq41M0OsIZNRu"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Lovely Weekends",
         "url": "https://open.spotify.com/album/0jJAmJ2ihxm7iKHcsEQ6Jp"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/5ujDFhQC9Xvp1vCaITdin9"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "! The Midnight Wine",
         "url": "https://open.spotify.com/album/3RQ2pKQ2V7YvzhmMqQCf2i"
@@ -697,23 +713,7 @@
       "url": "https://open.spotify.com/track/4adssK9XfHz0Zv86gLUB42"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "What's More?",
-        "url": "https://open.spotify.com/album/12Vi3uObilz0KLoH4yZvdJ"
-      },
-      "artists": [
-        {
-          "name": "Magnolia",
-          "url": "https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "What's More?",
-      "url": "https://open.spotify.com/track/2QVnPUl043doBv8EhSFSWv"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Where Do You Start - Rain version",
         "url": "https://open.spotify.com/album/6a7UDC6qE0e23mho3CW21C"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/4IQfHeEVSa7TEPslEJLZ3D"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Come Away With Me",
         "url": "https://open.spotify.com/album/4LnkT3vGIc1iifgGnblsc2"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/6W36Hqqh0VueDlZMT5iyjn"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Drops of Love",
         "url": "https://open.spotify.com/album/1HU0JocCALzqiT1YRNjA2i"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/1XGqKYsdUsykJJiQaGPlOH"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/1PUymjohkZif5MR150o773"
@@ -777,23 +777,7 @@
       "url": "https://open.spotify.com/track/0wlTJUbii03xcQIbf6fHSa"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Jazz Lovin in the Rain",
-        "url": "https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ"
-      },
-      "artists": [
-        {
-          "name": "The Ebbing Tides",
-          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Carpet Ride",
-      "url": "https://open.spotify.com/track/0U7kzZCo3AukhMvJAXy9NY"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Tell Me (Rain)",
         "url": "https://open.spotify.com/album/2hNl2gh5ok1dz58Srt82gX"
@@ -809,7 +793,7 @@
       "url": "https://open.spotify.com/track/6otMukSGKb6tFs0O25xlGl"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Steam",
         "url": "https://open.spotify.com/album/2sG4LyH2WzTRKQbvavkxdd"
@@ -825,7 +809,23 @@
       "url": "https://open.spotify.com/track/3RmG3gc8uPfq0O0zHTsPsh"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Home town rain and thunder",
+        "url": "https://open.spotify.com/album/2pDEdJ0ANr2omZ1ww8jXwF"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Monday thunder",
+      "url": "https://open.spotify.com/track/6ZQb3pCXG9c7gMCxX5Sf6B"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Eternity Rain",
         "url": "https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/06NxUSlMIb6JsSC0cW4HhH"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Desperately",
         "url": "https://open.spotify.com/album/4FGLUio2gkeaEyyBvbySkR"
@@ -857,23 +857,7 @@
       "url": "https://open.spotify.com/track/5K6EkvFc8WgbP4bi65TrbE"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Regnig Jazz",
-        "url": "https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp"
-      },
-      "artists": [
-        {
-          "name": "Tom Stills Quartet",
-          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Hoping",
-      "url": "https://open.spotify.com/track/40cR5aBJrfrfsDVFEKhdFJ"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/4nUAFQ7psaKNzv5aGXALsB"
@@ -889,7 +873,7 @@
       "url": "https://open.spotify.com/track/0tisTFhHm0SFZO2y7RSRRt"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Cloudburst",
         "url": "https://open.spotify.com/album/0nNb04hpA17KvoJC3Rx2Ud"
@@ -905,7 +889,7 @@
       "url": "https://open.spotify.com/track/7tvV4pQbpWPcOaeZ0WNAag"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "No Manner",
         "url": "https://open.spotify.com/album/68t1UBM8b5ZwQWkuHUAgf7"
@@ -921,7 +905,7 @@
       "url": "https://open.spotify.com/track/6BcWqLROWgGk488uw9RBgW"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Vesper (Rainy Jazz)",
         "url": "https://open.spotify.com/album/5Pn68JjCb2TRPlLX1VBLls"
@@ -937,7 +921,7 @@
       "url": "https://open.spotify.com/track/7ehvwDE0lWKvVsYcXQ5CzZ"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Just a Piece of My Heart",
         "url": "https://open.spotify.com/album/23OPXFjZxSYn3SNreIpuaY"
@@ -953,23 +937,7 @@
       "url": "https://open.spotify.com/track/7DvYIDgcdDXPuojrQzn0Gk"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Search For Peace (Rain)",
-        "url": "https://open.spotify.com/album/3luBmB64dzPcqi2r9Tqk3K"
-      },
-      "artists": [
-        {
-          "name": "Smokey's Jazz Trio",
-          "url": "https://open.spotify.com/artist/3GeyvENO5rRkyhTImJ1H3C"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Search For Peace (Rain)",
-      "url": "https://open.spotify.com/track/39dySDQQwOaUeeKV9UvXjt"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Farmland",
         "url": "https://open.spotify.com/album/1CknfwJF9oqXYKFwCNYo1C"
@@ -985,7 +953,7 @@
       "url": "https://open.spotify.com/track/1l5zTu0n5D0D1488z9QKvL"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rain in Stockholm",
         "url": "https://open.spotify.com/album/24F7niakJErEVnQ8EeFRGZ"
@@ -1001,7 +969,7 @@
       "url": "https://open.spotify.com/track/6B6hK76pQdlT90cUAKPOZv"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Jazz in the Rain",
         "url": "https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs"
@@ -1017,7 +985,7 @@
       "url": "https://open.spotify.com/track/7BDaveBFLZDZKWH6uwlFXD"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Steps Ahead - with rain",
         "url": "https://open.spotify.com/album/17X0mXbnd5ma8fXI2dQ3Wi"
@@ -1033,7 +1001,7 @@
       "url": "https://open.spotify.com/track/09MFPunETQ5tfa2Nsisume"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "How High Is the Moon",
         "url": "https://open.spotify.com/album/2UEkb0VLEZWU1c6U1waxxF"
@@ -1049,7 +1017,7 @@
       "url": "https://open.spotify.com/track/49F5FzKXM1htgixJFaD7rM"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Blue Caf\u00e9",
         "url": "https://open.spotify.com/album/0RzevXUMiwBxb8ulm1U7VZ"
@@ -1065,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0MgoRd7LaUL4VWwimX4fPw"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/0bSaNSRTilq44cFMksQqBq"
@@ -1081,7 +1049,7 @@
       "url": "https://open.spotify.com/track/21kH0JzzpjdZCQRgWICoU1"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Younger (Rainy Day Jazz)",
         "url": "https://open.spotify.com/album/1VtmEV3xD5iePCfKlHYdyu"
@@ -1097,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1Uv4xPUx4Wjas5gf7HWmjA"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Have You Met Miss Jones - Rain version",
         "url": "https://open.spotify.com/album/1vNyfbtnTuXPJVPw7rUTA6"
@@ -1113,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1wPvqaFBWI8wpDZDm1xoCH"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Between The Rain",
         "url": "https://open.spotify.com/album/7ijwsTk1qpmF3k5FIoT9cP"
@@ -1129,7 +1097,7 @@
       "url": "https://open.spotify.com/track/5FagKEeBcZDoXo5AxEpcMg"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Lies And Illusions",
         "url": "https://open.spotify.com/album/4nzv5Jf3VjNfEw06qvNPzS"
@@ -1145,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6EGRzh9ore7oILIWBmUl2K"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Ripples of a Stream",
         "url": "https://open.spotify.com/album/7b0d7N1eLaQNPrz58rwD8z"
@@ -1161,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6YkAvEOxph7Q7kfaA40dvb"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Leaky Roofs",
         "url": "https://open.spotify.com/album/2NkWcy7M5v9TR0kmAAryEA"
@@ -1177,7 +1145,7 @@
       "url": "https://open.spotify.com/track/6NynfWuoyXIfUtivo6rIxu"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "A Sunday Kind Of Love - Rain version",
         "url": "https://open.spotify.com/album/2QzjNSEubnLtlAT4LdYmQs"
@@ -1193,7 +1161,7 @@
       "url": "https://open.spotify.com/track/05ZPyRm6eqKI0V2EZ9O2XJ"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Hopeless",
         "url": "https://open.spotify.com/album/1baTg9J8Uzw1ba3UjShsBt"
@@ -1209,7 +1177,7 @@
       "url": "https://open.spotify.com/track/2YXw0ruvR2FhKdFyumhvYI"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/1WIajoanqSKmdebdjpgYsG"
@@ -1225,7 +1193,7 @@
       "url": "https://open.spotify.com/track/6GOTLXFVYbrt4CN0SQMZKz"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "What's New (Rain)",
         "url": "https://open.spotify.com/album/7gRcOMFZccNOd9sKAjqGRA"
@@ -1241,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0hE4grfejgr0R9cKPytQCC"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Honeymoon (Rain)",
         "url": "https://open.spotify.com/album/0qsUKVODzSAZLkDxUlR5KZ"
@@ -1257,7 +1225,7 @@
       "url": "https://open.spotify.com/track/2qQqxXl7I6Z2QhpU5zPwHl"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Willow - With Rain",
         "url": "https://open.spotify.com/album/09crZclMBBVJEuR37J9KoY"
@@ -1273,7 +1241,7 @@
       "url": "https://open.spotify.com/track/3ca6seIEQebgbV0gZZZTut"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Almost Being in Love",
         "url": "https://open.spotify.com/album/3MVho0RdwGmZa3Nr3efad5"
@@ -1289,7 +1257,7 @@
       "url": "https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "When You Are Around (Rain Version)",
         "url": "https://open.spotify.com/album/61kKdQ5qVAB9Uwkm3PBOcn"
@@ -1305,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0x2unn4VUE8F2lwPjejUpy"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "In The Blue Of The Evening",
         "url": "https://open.spotify.com/album/7wIBBKIHTByNurtRezdOlM"
@@ -1321,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2A6wgA8leuZORbnlvhMpfj"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/7vvyLIo6bR9Cfc3Qb6bbws"
@@ -1337,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5NrwsKRkhQgczHWPL0BGIm"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Stillness",
         "url": "https://open.spotify.com/album/38aRLLKUYTDNW4a7E2I7hM"
@@ -1353,7 +1321,7 @@
       "url": "https://open.spotify.com/track/53AGT4gvkOHRhYiQP3RuOp"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Jazz in the Rain",
         "url": "https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs"
@@ -1369,7 +1337,7 @@
       "url": "https://open.spotify.com/track/4UHKXKM0MFPED9V05lgC8C"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rainy Days Ahead",
         "url": "https://open.spotify.com/album/2tFuZPqd1oofSheumCpUTN"
@@ -1385,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4p0t3HDaFqA40Kkj7YZq8o"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Space Weather (rain)",
         "url": "https://open.spotify.com/album/6vT31K4BZAbdIm1d4OUHZb"
@@ -1401,7 +1369,7 @@
       "url": "https://open.spotify.com/track/7hChPcCPTRNRbRaBsisxQs"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rainless",
         "url": "https://open.spotify.com/album/6QSeMLR0Mg9t0c44pite0q"
@@ -1417,7 +1385,7 @@
       "url": "https://open.spotify.com/track/4LlVfy4JGDwzxFRE66SIkB"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Loverman",
         "url": "https://open.spotify.com/album/5COVxRUZp3B1OvL9BtunBI"
@@ -1433,7 +1401,7 @@
       "url": "https://open.spotify.com/track/4S1nLxqM7tWryABWdC7dmh"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Mist",
         "url": "https://open.spotify.com/album/32wjNexQ2ZLD5qU9SQRzo7"
@@ -1449,7 +1417,7 @@
       "url": "https://open.spotify.com/track/5iM3nPaF06Dp4dGEzEKA1U"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Regnig Jazz",
         "url": "https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp"
@@ -1465,7 +1433,7 @@
       "url": "https://open.spotify.com/track/2BaO1C4HWolgBawfyhr1NC"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Jazz Lovin in the Rain",
         "url": "https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ"
@@ -1481,7 +1449,7 @@
       "url": "https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Midnight Midtown Jazz (Rain)",
         "url": "https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC"
@@ -1497,7 +1465,7 @@
       "url": "https://open.spotify.com/track/03DgmKAOSZy70tFCQZULM3"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Drizzle",
         "url": "https://open.spotify.com/album/660BSmyiAOlSjmSTX080Za"
@@ -1513,7 +1481,7 @@
       "url": "https://open.spotify.com/track/7xAsNYcd0c2TRtX29Le7Ul"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Witchcraft",
         "url": "https://open.spotify.com/album/7EmVGbhUQRlyLRnTZPmMQV"
@@ -1529,7 +1497,7 @@
       "url": "https://open.spotify.com/track/7L8cjQGzZTdkiUY2a0hEpe"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Sleeper (Rain)",
         "url": "https://open.spotify.com/album/3h8DMi0SkCfL9cVvfDKWLp"
@@ -1545,7 +1513,7 @@
       "url": "https://open.spotify.com/track/0s5p0LzXf4HyJakOtwB0Oo"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rainy Days Jazz",
         "url": "https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV"
@@ -1561,7 +1529,7 @@
       "url": "https://open.spotify.com/track/09ppY0JbUbFgaNkU7YgVmD"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Eternity Rain",
         "url": "https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr"
@@ -1577,7 +1545,7 @@
       "url": "https://open.spotify.com/track/5EZQIWcPbstB9bGfZyMVP5"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Three Views Of A Secret - Rain version",
         "url": "https://open.spotify.com/album/1pJXVnXlKtZt5hxRWHX6fZ"
@@ -1593,7 +1561,7 @@
       "url": "https://open.spotify.com/track/7agbpfkAH7NrfjSU2lfiUZ"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Sommarnattens Skeende (Rain Version)",
         "url": "https://open.spotify.com/album/1aCRMnV31DGcpjJJPiwcMe"
@@ -1609,7 +1577,7 @@
       "url": "https://open.spotify.com/track/7m6xM40of1KJw6JRKcRmU8"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Ain't Misbehavin'",
         "url": "https://open.spotify.com/album/2PVnJTZBmjYKxzazZAwhxr"
@@ -1625,7 +1593,7 @@
       "url": "https://open.spotify.com/track/3CLqFFKx3u8sYRfjcw5YKg"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Night and Day",
         "url": "https://open.spotify.com/album/22oIgys6iXgc13DKLKkwet"
@@ -1641,7 +1609,7 @@
       "url": "https://open.spotify.com/track/6JJ7JnW8fJZLrAbMMBkttV"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Lilys Dream - With Rain",
         "url": "https://open.spotify.com/album/7gWz9hPVKS6JT1x1o4Q8tn"
@@ -1657,39 +1625,7 @@
       "url": "https://open.spotify.com/track/3mmqVXFbshhfqNMyqY1xYi"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Detour Ahead (Rain)",
-        "url": "https://open.spotify.com/album/4YYid3LXG2UbfvXCJOVhe3"
-      },
-      "artists": [
-        {
-          "name": "Akio",
-          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Detour Ahead (Rain)",
-      "url": "https://open.spotify.com/track/7f8cCtFCSEVOU5c8WDX5Iw"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Rainy Jazz",
-        "url": "https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2"
-      },
-      "artists": [
-        {
-          "name": "Eltingvilles",
-          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Rainy Mix",
-      "url": "https://open.spotify.com/track/5Bf6RpE7cymyP9RuFdKUr2"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Young and Foolish",
         "url": "https://open.spotify.com/album/1P5lOMLdwyvLcbEo5q2C2X"
@@ -1705,7 +1641,7 @@
       "url": "https://open.spotify.com/track/0wADQX26Sl0ekCHObzGMiA"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Someone Elses Love (Rainy Jazz)",
         "url": "https://open.spotify.com/album/57L3y0yeaQBZ8sy4EvXF7U"
@@ -1721,7 +1657,7 @@
       "url": "https://open.spotify.com/track/1FTkGoHuWlpH4rpxMMXrXv"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Regnig Jazz",
         "url": "https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp"
@@ -1737,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6O82Wor9j2PUIm98Q8Ra8L"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/3b3ExtBZbSetTTliqnKE8o"
@@ -1753,7 +1689,7 @@
       "url": "https://open.spotify.com/track/2BUh1zO3RVt7YU7ioAUDkA"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "It Aint Necessary So",
         "url": "https://open.spotify.com/album/3HowxMF6pSrpsQJF4EpAgh"
@@ -1769,7 +1705,7 @@
       "url": "https://open.spotify.com/track/3aG1gZRn9kcJofJqFJQpvT"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Far Away From Home",
         "url": "https://open.spotify.com/album/09fyD6GBCml59WivM8dhow"
@@ -1785,7 +1721,7 @@
       "url": "https://open.spotify.com/track/3vqwzMRKAi8Zr2JKuzYqhz"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Wet Leaves",
         "url": "https://open.spotify.com/album/223CsvboV8mNLadyuZ9ROK"
@@ -1801,7 +1737,7 @@
       "url": "https://open.spotify.com/track/6r9ltIEXBNphJbVISWUuhC"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Quietude (Rain)",
         "url": "https://open.spotify.com/album/30H4NMj6s73FG3LylSrr8r"
@@ -1817,7 +1753,7 @@
       "url": "https://open.spotify.com/track/0kWsC6cDFuducuSGBUAWA6"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Soft Like Rain",
         "url": "https://open.spotify.com/album/0ZYPNtaa3s06B4H2ano78w"
@@ -1833,7 +1769,7 @@
       "url": "https://open.spotify.com/track/0VoOgcLPinspmfp1NJ0NR3"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "I Can't Get Started",
         "url": "https://open.spotify.com/album/2w15Chr6cX4ReS1qmZZO5e"
@@ -1849,7 +1785,7 @@
       "url": "https://open.spotify.com/track/6CJ14vzBSBk0C3FsfdkOtj"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Orbital Rain",
         "url": "https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv"
@@ -1865,23 +1801,7 @@
       "url": "https://open.spotify.com/track/14CVtIGrRL3bV8BlQSJigf"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/5Dps681nM2oHCn6EIW6oaE"
-      },
-      "artists": [
-        {
-          "name": "Stockholm Whereabouts",
-          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
-        }
-      ],
-      "duration_ms": 228408,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/7KtOVix4R67aOkCcsFzSsM"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Under My Umbrella",
         "url": "https://open.spotify.com/album/7KAotzp6Y8jn1byQJeo3SC"
@@ -1897,23 +1817,23 @@
       "url": "https://open.spotify.com/track/18kKrkIzW4NO0WKRVPtyqT"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
-        "name": "Rainy Days Jazz",
-        "url": "https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV"
+        "name": "Detour Ahead (Rain)",
+        "url": "https://open.spotify.com/album/4YYid3LXG2UbfvXCJOVhe3"
       },
       "artists": [
         {
-          "name": "Holborns",
-          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+          "name": "Akio",
+          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
         }
       ],
-      "duration_ms": 162874,
-      "name": "Elise",
-      "url": "https://open.spotify.com/track/2siast7oxxUacDe3OiZuYx"
+      "duration_ms": 225266,
+      "name": "Detour Ahead (Rain)",
+      "url": "https://open.spotify.com/track/7f8cCtFCSEVOU5c8WDX5Iw"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Shinbashi",
         "url": "https://open.spotify.com/album/0fq9yXwI6wsSqOGUjp2D1G"
@@ -1929,23 +1849,7 @@
       "url": "https://open.spotify.com/track/34soZw4sJRLS7oi5Gb0AWG"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
-      "album": {
-        "name": "Broken Promises",
-        "url": "https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Lee",
-          "url": "https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud"
-        }
-      ],
-      "duration_ms": 216302,
-      "name": "Broken Promises",
-      "url": "https://open.spotify.com/track/4sSuZdKAQ5DaGXMcTVB1cJ"
-    },
-    {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "As Time Goes By (Rainy Day)",
         "url": "https://open.spotify.com/album/0NyhOEDU3V9m3tXhIdIZtU"
@@ -1961,7 +1865,7 @@
       "url": "https://open.spotify.com/track/1Ynq0czY9jVcpiQrKHVaiE"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Jazz in the Rain",
         "url": "https://open.spotify.com/album/5HnUNhdvVTF9T6QV5ThVGs"
@@ -1977,7 +1881,7 @@
       "url": "https://open.spotify.com/track/4v0D6JR6PcHoahyrV9RtIf"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Danny\u00b4s Dream - Rain",
         "url": "https://open.spotify.com/album/6V4FZFYpLpfLCk1qJWatur"
@@ -1993,7 +1897,7 @@
       "url": "https://open.spotify.com/track/1vEImeGWLWDYCxRPQJeDhy"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Midnight Midtown Jazz (Rain)",
         "url": "https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC"
@@ -2009,7 +1913,7 @@
       "url": "https://open.spotify.com/track/3A4bXk6EoP2nR6LyHnMecm"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rainy Days Jazz",
         "url": "https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV"
@@ -2025,7 +1929,7 @@
       "url": "https://open.spotify.com/track/0RL0vPsIpS1mGoDGaXOLYJ"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Spring Can Really Hang You Up The Most",
         "url": "https://open.spotify.com/album/5ccUuk74VKOx1uSOZUxAUt"
@@ -2041,7 +1945,7 @@
       "url": "https://open.spotify.com/track/29Gr0GjylxtT8NnqYdzD0q"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Rainy Jazz",
         "url": "https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2"
@@ -2057,7 +1961,7 @@
       "url": "https://open.spotify.com/track/2iY8BxUCYmtQkqU9igxNp4"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Orbital Rain",
         "url": "https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv"
@@ -2073,7 +1977,7 @@
       "url": "https://open.spotify.com/track/5juD6KBBmEyvSPFXwBvh9O"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Broken Promises",
         "url": "https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR"
@@ -2089,7 +1993,23 @@
       "url": "https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/5Dps681nM2oHCn6EIW6oaE"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Whereabouts",
+          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
+        }
+      ],
+      "duration_ms": 228408,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/7KtOVix4R67aOkCcsFzSsM"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/1uLCEyYLskgtJNf0M4O82z"
@@ -2105,7 +2025,55 @@
       "url": "https://open.spotify.com/track/2xmzcOWOdw7KlGDskvEsM5"
     },
     {
-      "added_at": "2025-02-04 08:35:11",
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Rainy Jazz",
+        "url": "https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2"
+      },
+      "artists": [
+        {
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Rainy Mix",
+      "url": "https://open.spotify.com/track/5Bf6RpE7cymyP9RuFdKUr2"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Rainy Days Jazz",
+        "url": "https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV"
+      },
+      "artists": [
+        {
+          "name": "Holborns",
+          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+        }
+      ],
+      "duration_ms": 162874,
+      "name": "Elise",
+      "url": "https://open.spotify.com/track/2siast7oxxUacDe3OiZuYx"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
+      "album": {
+        "name": "Broken Promises",
+        "url": "https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Lee",
+          "url": "https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud"
+        }
+      ],
+      "duration_ms": 216302,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/4sSuZdKAQ5DaGXMcTVB1cJ"
+    },
+    {
+      "added_at": "2025-11-13 12:40:24",
       "album": {
         "name": "Merry Monday - With Rain",
         "url": "https://open.spotify.com/album/5f9MNfZHMS1tvWq55LdJU1"

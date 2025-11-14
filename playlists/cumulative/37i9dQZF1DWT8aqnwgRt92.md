@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,284 songs - 5 day 21 hr 26 min
+2,286 songs - 5 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-06 | 2023-01-13 |
 | [Deneb and Spica](https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Deneb and Spica](https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g) | 4:27 | 2022-07-28 | 2022-09-21 |
 | [DEPARTURES](https://open.spotify.com/track/0oHaPQM7yK5dKp5peN7Em5) | [R×R](https://open.spotify.com/artist/0p4G5g5Mi5mDyw1gurnQkT) | [DEPARTURES](https://open.spotify.com/album/1rZkib1YUfe70Jiyf1RtIZ) | 3:37 | 2025-01-23 | 2025-04-09 |
+| [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 | 2025-11-13 |  |
 | [DESTINY IS MINE](https://open.spotify.com/track/3KUHI1soRodMsN3bykSVT5) | [ベートーヴェン\(CV.内田雄馬\)](https://open.spotify.com/artist/2oiV3XUfLkBW3EFAlADJGC) | [DESTINY IS MINE](https://open.spotify.com/album/0MKTWn298lAiQFloZex5Yf) | 4:01 | 2025-05-06 | 2025-05-21 |
 | [Dexion \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/track/1S4VJpB3i8k2Y5m1fmgELM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Dexion \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/album/3o0JLon9nA1g2CidIZdojj) | 9:08 | 2025-03-27 | 2025-04-06 |
 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 | 2023-06-13 | 2023-07-19 |
@@ -278,7 +279,7 @@
 | [DREAMER](https://open.spotify.com/track/7yKbjz9hzbUY6zmIJ8nDDL) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [パリピ孔明 VOCAL COLLECTION MEGAMORI!!](https://open.spotify.com/album/1i9R3CdEU23BRYGaMkpSEC) | 4:49 | 2022-07-28 | 2022-09-21 |
 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [『劇場版 Free!\-the Final Stroke\-』後編オリジナルサウンドトラック「Never Ending Blue」](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 | 2022-05-28 | 2022-06-08 |
 | [Drops](https://open.spotify.com/track/5XJjIyN8rFNhKNo3eRfv4K) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Drops](https://open.spotify.com/album/1pR3bxXgbVs9c8EV3498Zt) | 5:02 | 2025-04-01 | 2025-06-14 |
-| [Drowin’ Loneliness](https://open.spotify.com/track/45ysGOk6LjU64yCpr1lqsu) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Drowin’ Loneliness](https://open.spotify.com/album/5tdbhBL7N9moHPFQUtwwbH) | 3:34 | 2025-11-06 |  |
+| [Drowin’ Loneliness](https://open.spotify.com/track/45ysGOk6LjU64yCpr1lqsu) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Drowin’ Loneliness](https://open.spotify.com/album/5tdbhBL7N9moHPFQUtwwbH) | 3:34 | 2025-11-06 | 2025-11-14 |
 | [Drown Out the Noise and Push Through the Trash](https://open.spotify.com/track/7kgpuDQ0n9nFfYxttuECjg) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | ['FIGHT' ADDICT](https://open.spotify.com/album/7u6ewmLUOQuNwjUUuQDliU) | 3:36 | 2025-11-11 |  |
 | [Dye My Heart Red](https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo) | [Nonoka Obuchi](https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1) | [Dye My Heart Red](https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm) | 3:14 | 2024-04-11 | 2024-04-19 |
 | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/track/2rugT3UVSZsmmmat3ElLqP) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/album/46OnDsJZsnWOArf7ZoDUsI) | 4:08 | 2024-01-04 | 2024-02-07 |
@@ -1132,7 +1133,7 @@
 | [Things You Don't Know Yet](https://open.spotify.com/track/1HXHcjxzVpAiNhIol2bFll) | [Sizuk](https://open.spotify.com/artist/5UNvWvt9sIB2DmhHzpkwBM), [日下部栞奈\(CV:前田佳織里\)](https://open.spotify.com/artist/3lJjODjtCocsyjPKPb8PvJ) | [Things You Don't Know Yet](https://open.spotify.com/album/30QIAQCOHK9hTYKD4fci1G) | 3:56 | 2025-05-06 | 2025-05-21 |
 | [THIRD PARTY](https://open.spotify.com/track/4yawsBj5wDLhYNSP0Wo40d) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [THIRD PARTY](https://open.spotify.com/album/4piVOVvMJOSCfaD99QDVRG) | 4:05 | 2024-02-06 | 2024-04-05 |
 | [Three Kings](https://open.spotify.com/track/28oyqFsxKYzSNvZ3R0dV9R) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [Three Kings](https://open.spotify.com/album/4YaPRWr1TAgkfFG3YZx0tg) | 3:46 | 2025-01-30 | 2025-03-05 |
-| [ties](https://open.spotify.com/track/5JTQj2XIRHxRJz1Xx5uK0S) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ties](https://open.spotify.com/album/6otcFMuDyGPjWd1SJZTxgN) | 4:09 | 2025-09-30 |  |
+| [ties](https://open.spotify.com/track/5JTQj2XIRHxRJz1Xx5uK0S) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ties](https://open.spotify.com/album/6otcFMuDyGPjWd1SJZTxgN) | 4:09 | 2025-09-30 | 2025-11-14 |
 | [ties](https://open.spotify.com/track/6NRH4SrOxLsw9tcUy6CcG4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ties](https://open.spotify.com/album/1q6HspP5fyftaSF8rE0oKY) | 4:06 | 2024-10-15 | 2025-01-08 |
 | [TKGシンドローム](https://open.spotify.com/track/0icpQ05PDxKqNPEIn9PTPN) | [金子みゆ](https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1) | [TKGシンドローム](https://open.spotify.com/album/3aDYDc5gYqoot2Ew1FuXtO) | 2:52 | 2024-07-05 | 2024-07-31 |
 | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK) | 5:10 | 2023-10-07 | 2023-11-18 |
@@ -1244,6 +1245,7 @@
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-27 | 2023-07-14 |
 | [where you come from](https://open.spotify.com/track/7vD1eXGRQ3b6QKy5SvrYOz) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [where you come from](https://open.spotify.com/album/0qotzgqwP2TvkS1fAAHr02) | 3:59 | 2025-08-19 | 2025-09-03 |
 | [Wherever](https://open.spotify.com/track/6APr8sy2QQ069Semu8mHLI) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [Wherever](https://open.spotify.com/album/7uLHf7YtnW93JodSYUl7AE) | 3:30 | 2022-08-16 | 2022-10-19 |
+| [White Lie](https://open.spotify.com/track/0dLBIfDldEcaDE7PX9Gkcj) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Let's give them the pinky finger](https://open.spotify.com/album/7qESs0ejYank8pF63nKmLQ) | 3:06 | 2025-11-13 |  |
 | [White Love](https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [White Love](https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA) | 5:36 | 2022-11-24 | 2022-12-07 |
 | [White Night! White Wish!](https://open.spotify.com/track/53h9qebEiSqrdE3aWZRQZ7) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [葛城リーリヤ](https://open.spotify.com/artist/5njOtP6afp2cbGAa5s8iYJ), [花海佑芽](https://open.spotify.com/artist/0EPcSoJwzUaREV8OMBSSN3), [藤田ことね](https://open.spotify.com/artist/6L7jieQ3QgDPkfFDk41GCw) | [White Night! White Wish!](https://open.spotify.com/album/303Sy3PJxHQvQMBnmdcjel) | 3:56 | 2024-11-28 | 2024-12-11 |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-10 | 2023-06-09 |

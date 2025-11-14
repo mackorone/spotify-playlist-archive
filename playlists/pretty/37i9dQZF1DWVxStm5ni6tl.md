@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: KOLA, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,135 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,140 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [FIRST DAY OF WINTER FREESTYLE](https://open.spotify.com/track/6G5Ce9PeiGwW7MHKyImEFw) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s) | [FIRST DAY OF WINTER FREESTYLE](https://open.spotify.com/album/41q9Dxxpgsm8uO5LQZB5OH) | 3:00 |
 | 50 | [Pose](https://open.spotify.com/track/7xnzCRryqdPK3J6vRjxz5W) | [Isaiah Peck](https://open.spotify.com/artist/67014IFK655tFf5wjpb3v7) | [Pose](https://open.spotify.com/album/0jQRcUApai2uhzULcXslsm) | 1:57 |
 
-Snapshot ID: `AAAAAPwyY7uYBMSEmUh9tjFjMNKnocH9`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

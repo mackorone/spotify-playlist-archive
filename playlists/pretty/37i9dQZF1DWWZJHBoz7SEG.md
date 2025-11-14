@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Nueva semana, nuevas rolitas con $HUPE, Victor Mendivil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,339 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,393 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 11 | [2 + 2 \(Remix\)](https://open.spotify.com/track/6OR5qIBcDnBu5jxzbxYuyI) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [2 + 2 \(Remix\)](https://open.spotify.com/album/1XUosdjpLBlTC9PBABtbOr) | 4:02 |
 | 12 | [Aquí Sigo](https://open.spotify.com/track/1tmjSXcNCd0i2w9LlcbYLb) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Aquí Sigo](https://open.spotify.com/album/1nGED994kwbz6e4Gy5KtfR) | 3:07 |
 | 13 | [Piñatas](https://open.spotify.com/track/1kEKJ4FYCI73RR0owm4mMP) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Piñatas](https://open.spotify.com/album/5SbPt24Z98pi0lt4EV15sG) | 2:58 |
-| 14 | [QUITATELOTO \(feat\. Kris R., Young Fatty, Bad Milk, Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [EXTRADITABLESSD](https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V) | 5:03 |
+| 14 | [QUITATELOTO \(feat\. Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [EXTRADITABLESSD](https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V) | 5:03 |
 | 15 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 |
 | 16 | [⁠En el Ritz](https://open.spotify.com/track/1Ul0TcIqDRguYzr0A8Vz75) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:49 |
 | 17 | [Ojalá](https://open.spotify.com/track/4OaYDTgruspO8wC9Oz2oEc) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Ojalá](https://open.spotify.com/album/6Ehy4BBRGE9dtjfo60rWfM) | 2:54 |

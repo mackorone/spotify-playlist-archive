@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,579 songs - 4 day 10 hr 42 min
+1,580 songs - 4 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [His Masterpiece](https://open.spotify.com/track/1xjEv7WTVnOVmsVUZeZGwA) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX) | [His Masterpiece](https://open.spotify.com/album/7wucPbrkVZaNLMoqGFLnIa) | 4:31 | 2023-11-08 | 2023-12-14 |
 | [History Lesson Part 2](https://open.spotify.com/track/4DGbJMzedFZAuT40Uq4NDC) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [History Lesson Part 2](https://open.spotify.com/album/7AURzANDD0wbB1oJvUNXUG) | 2:10 | 2022-11-02 | 2022-12-08 |
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-01 |  |
+| [Hits Hits Hits \- Live at Konk Studios](https://open.spotify.com/track/2oSWBcnrEpuwLQFmKaBFAd) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Hits Hits Hits \(Live at Konk Studios\)](https://open.spotify.com/album/4dsQLfcgifxzQywjSRDD8e) | 4:50 | 2025-11-13 |  |
 | [Hoe Kan Het](https://open.spotify.com/track/4DLz00sXcjWd4Gu1eWzuoK) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 3:35 | 2025-06-25 | 2025-07-24 |
 | [Hold Me In A New Way](https://open.spotify.com/track/1djA3jM4PEwMqLvUwkakpb) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [Hold Me In A New Way](https://open.spotify.com/album/1ek0nOpDFtLfigBkbJoTIA) | 4:31 | 2025-10-08 |  |
 | [Hold On To Tonight](https://open.spotify.com/track/2FqGMf2kNPUdD9fOOs4HHt) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Hold On To Tonight](https://open.spotify.com/album/6Z7rJDX8tZu5Two3ARRSZ6) | 4:13 | 2025-04-02 | 2025-05-22 |

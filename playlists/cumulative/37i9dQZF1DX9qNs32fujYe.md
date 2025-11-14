@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,159 songs - 3 day 12 hr 26 min
+1,159 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,7 +904,7 @@
 | [Steelbound](https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI) | 4:26 | 2025-06-06 |  |
 | [Steh auf \- Live](https://open.spotify.com/track/4u03E7bxeXp4m2w1gAdoLq) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Live in Moscow](https://open.spotify.com/album/0vHmDgU1qV6VFFGv8ixnkU) | 4:06 | 2021-12-17 | 2022-04-23 |
 | [Still Alive](https://open.spotify.com/track/09OnB8xeghs8FRnu4dJKmU) | [Nocturnal Rites](https://open.spotify.com/artist/0dSoaJ8iEP3aid30p18O2g) | [Grand Illusion](https://open.spotify.com/album/4QMOKIrJCvPTwbimx6uB26) | 4:02 | 2022-03-22 | 2022-04-21 |
-| [Stinkfist](https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 5:12 | 2022-08-19 |  |
+| [Stinkfist](https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 5:11 | 2022-08-19 |  |
 | [Stirb Langsam](https://open.spotify.com/track/1NyTtDuy0SmNecrrddmrjI) | [Nachtblut](https://open.spotify.com/artist/5B0OyK2i2akNMaYj3voQ3j) | [Stirb Langsam](https://open.spotify.com/album/4RHqzZdNV2yzr4DHvTq8Hx) | 4:35 | 2025-01-31 | 2025-04-12 |
 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 | 2022-07-13 | 2022-08-31 |
 | [Storm the Gates](https://open.spotify.com/track/6iiAkb7Yoecpfue9Io0ruh) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Storm the Gates](https://open.spotify.com/album/0jbahDwPEqICrNUjjpXrYa) | 2:41 | 2025-08-29 |  |

@@ -1,13 +1,33 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!! \nCover : Manisha Eerabathini",
-  "num_followers": 41755,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath Kiran Goparaaju",
+  "num_followers": 41772,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJD731ck0BLcXWL2v+J7cCBinR7b",
+  "snapshot_id": "AAAAAJ5cYFnKqwYCAN8DI9Y8/8mEaZYk",
   "tracks": [
+    {
+      "added_at": "2025-09-29 06:42:49",
+      "album": {
+        "name": "Premey",
+        "url": "https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk"
+      },
+      "artists": [
+        {
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
+        },
+        {
+          "name": "Eknaath Kiran Goparaaju",
+          "url": "https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf"
+        }
+      ],
+      "duration_ms": 285499,
+      "name": "Premey",
+      "url": "https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i"
+    },
     {
       "added_at": "2025-10-03 03:32:29",
       "album": {
@@ -55,26 +75,6 @@
       "duration_ms": 197540,
       "name": "Naa Praanama",
       "url": "https://open.spotify.com/track/4aWHaOhVZohcuId23MxVFC"
-    },
-    {
-      "added_at": "2025-09-29 06:42:49",
-      "album": {
-        "name": "Premey",
-        "url": "https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk"
-      },
-      "artists": [
-        {
-          "name": "Eknaath",
-          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
-        },
-        {
-          "name": "Eknaath Kiran Goparaaju",
-          "url": "https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf"
-        }
-      ],
-      "duration_ms": 285499,
-      "name": "Premey",
-      "url": "https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i"
     },
     {
       "added_at": "2025-09-22 14:01:11",
@@ -456,12 +456,12 @@
           "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
         },
         {
-          "name": "Singer Swamy",
-          "url": "https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM"
-        },
-        {
           "name": "Naveen Ja",
           "url": "https://open.spotify.com/artist/3mYh9viWxcMMFV9x5dK79z"
+        },
+        {
+          "name": "Singer Swamy",
+          "url": "https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM"
         }
       ],
       "duration_ms": 256400,

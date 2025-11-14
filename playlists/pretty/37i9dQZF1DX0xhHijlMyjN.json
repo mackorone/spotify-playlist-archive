@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 330379,
+  "num_followers": 330360,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 495400,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "La Dura Vida del Joven Rapero",
         "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 219666,
       "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
       "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 495400,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Diez De Corazon",
-        "url": "https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV"
-      },
-      "artists": [
-        {
-          "name": "Camela",
-          "url": "https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Cuando zarpa el amor",
-      "url": "https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Diez De Corazon",
+        "url": "https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV"
+      },
+      "artists": [
+        {
+          "name": "Camela",
+          "url": "https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Cuando zarpa el amor",
+      "url": "https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Macarena (EP)",
         "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 224626,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "El Vals Del Obrero",
-        "url": "https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Cannabis",
-      "url": "https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 254773,
       "name": "Y Yo Sigo Aqui - Spanglish",
       "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "El Vals Del Obrero",
+        "url": "https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Cannabis",
+      "url": "https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1975,30 +1975,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "SEX AND LOVE",
-        "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Bailando - Spanish Version",
-      "url": "https://open.spotify.com/track/0bEA0mMgXheXnahvIbIQfg"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Noelia",
         "url": "https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9"
       },
@@ -2027,6 +2003,30 @@
       "duration_ms": 244500,
       "name": "La Cucaracha",
       "url": "https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "SEX AND LOVE",
+        "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/0bEA0mMgXheXnahvIbIQfg"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "A\u00fan Hay M\u00e1s",
-        "url": "https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii"
-      },
-      "artists": [
-        {
-          "name": "F\u00f3rmula Abierta",
-          "url": "https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Prestige",
         "url": "https://open.spotify.com/album/2I4tV7CMavQflSlHJ52RX1"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 224693,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/6EIO3HCU6WmnRk2rEX86aN"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "A\u00fan Hay M\u00e1s",
+        "url": "https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii"
+      },
+      "artists": [
+        {
+          "name": "F\u00f3rmula Abierta",
+          "url": "https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Hombres Con Pa\u00f1ales",
-        "url": "https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT"
-      },
-      "artists": [
-        {
-          "name": "K-Narias",
-          "url": "https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Salsa Con Reggaet\u00f3n",
-      "url": "https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Gloria!",
         "url": "https://open.spotify.com/album/2JpDKOMTykF3Z1dbTCO6CK"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 279626,
       "name": "Oye",
       "url": "https://open.spotify.com/track/34js2TOQm9tf6xhefJ97HI"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Hombres Con Pa\u00f1ales",
+        "url": "https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT"
+      },
+      "artists": [
+        {
+          "name": "K-Narias",
+          "url": "https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Salsa Con Reggaet\u00f3n",
+      "url": "https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8"
     },
     {
       "added_at": "2025-07-02 10:54:22",

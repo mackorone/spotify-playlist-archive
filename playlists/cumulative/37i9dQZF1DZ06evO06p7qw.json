@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/5tU9ASFW06aP69DNB5ewP0"
+    },
+    {
+      "album": {
         "name": "Amen (Spanglish Version)",
         "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 162040,
       "name": "Explorando El Universo",
       "url": "https://open.spotify.com/track/5DcG3SCnOvGrIEnaFT5eTY"

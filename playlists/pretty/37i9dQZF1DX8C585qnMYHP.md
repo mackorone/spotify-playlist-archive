@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:7nfBxjb99prCqaT3wk87u5">Samba Jean\-Baptiste</a> on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,655 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,675 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 47 | [Squatter's Quarters](https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF) | [Gryphon Rue](https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP) | [I Keep My Diamond Necklace in a Pond of Sparkling Water](https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ) | 4:36 |
 | 48 | [Träfrack](https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ) | [Joakim Åhlund & Jockum Nordström](https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy) | [Träfrack](https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA) | 3:35 |
 | 49 | [Goldfish](https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Goldfish](https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc) | 2:26 |
-| 50 | [Saint](https://open.spotify.com/track/2JzB9o5dq0KUg5CEBdK2nN) | [Invariance](https://open.spotify.com/artist/2HHUVNqkALtPVBvy2mvtkv), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Daniel Rogerson](https://open.spotify.com/artist/489g9cJ7QzvW5OKQLB0Pu3), [Lorenz Okello](https://open.spotify.com/artist/4ATBLFOPaWNkz3ZUU4hlgl), [John Jones](https://open.spotify.com/artist/0l4vvWqPlPrfSHE8dJ6AV5), [Morgan Simpson](https://open.spotify.com/artist/5ZLVgeZ9imtZfNwHCZDqHS) | [Wish You Well / Album](https://open.spotify.com/album/6VOPycS7XmfgA0y43Xd8dq) | 7:07 |
-| 51 | [HM2BB](https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9) | [Indira Elias](https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ) | [HM2BB](https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN) | 2:13 |
+| 50 | [HM2BB](https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9) | [Indira Elias](https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ) | [HM2BB](https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN) | 2:13 |
+| 51 | [Saint](https://open.spotify.com/track/2JzB9o5dq0KUg5CEBdK2nN) | [Invariance](https://open.spotify.com/artist/2HHUVNqkALtPVBvy2mvtkv), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Daniel Rogerson](https://open.spotify.com/artist/489g9cJ7QzvW5OKQLB0Pu3), [Lorenz Okello](https://open.spotify.com/artist/4ATBLFOPaWNkz3ZUU4hlgl), [John Jones](https://open.spotify.com/artist/0l4vvWqPlPrfSHE8dJ6AV5), [Morgan Simpson](https://open.spotify.com/artist/5ZLVgeZ9imtZfNwHCZDqHS) | [Wish You Well / Album](https://open.spotify.com/album/6VOPycS7XmfgA0y43Xd8dq) | 7:07 |
 | 52 | [Blu](https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC) | [Sara Zozaya](https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n) | [Blu](https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp) | 3:41 |
 | 53 | [Ghost Ryder](https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [SCORPIO FALLING](https://open.spotify.com/album/24Q9MlJDWfjif0Qaos88ub) | 2:06 |
 | 54 | [14 Rue d'Abbeville](https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [punk cake](https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b) | 2:22 |

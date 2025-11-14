@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 395133,
       "name": "(Goodbye) Once Upon A Time",
       "url": "https://open.spotify.com/track/1fnl8uIPUiVsNMP321VRcT"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 243733,
       "name": "(Make Me Do) Anything You Want",
       "url": "https://open.spotify.com/track/0fWTGqNoC0nsbhA0aRAkDf"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 180066,
       "name": "A Teenager in Love - 2012 Remaster",
       "url": "https://open.spotify.com/track/5kuvOXaO2WiHwES81fSeu3"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 265800,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/38201hf9jUgOBzDJ3t3uKj"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 250693,
       "name": "Burning Heart",
       "url": "https://open.spotify.com/track/6mVJRgyXJ3eAy6EViECJyW"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 328533,
       "name": "Can't Find My Way",
       "url": "https://open.spotify.com/track/1CZ6ArNjSg9TuStY75kzKr"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 234332,
       "name": "Drive - 2017 Remaster",
       "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
@@ -2080,10 +2080,28 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 194377,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1SEiTDZDxiIZan9apE6RnM"
+    },
+    {
+      "album": {
+        "name": "Music For Girls Night Out",
+        "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
+      },
+      "artists": [
+        {
+          "name": "Robin Beck",
+          "url": "https://open.spotify.com/artist/0tUERnHmr1tKp2pSwPLN8b"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/1FQ0ecMZMI3ArhcJQPROFP"
     },
     {
       "album": {
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 230826,
       "name": "Fly High Michelle",
       "url": "https://open.spotify.com/track/6wUR8lnkxuQUeHa0rJOolR"
@@ -2685,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/4CUSYHYyzqumxIUrCcLDco"
+      },
+      "artists": [
+        {
+          "name": "Gotthard",
+          "url": "https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6w2q9iV3oJAjcN8cPKNT4a"
+    },
+    {
+      "album": {
         "name": "Dirty Rotten Filthy Stinking Rich",
         "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
       },
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "Hello, Again",
       "url": "https://open.spotify.com/track/6KdQTIVUmKRlMsQcC0pmbS"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 298760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
@@ -3542,7 +3578,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
@@ -3900,7 +3936,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 229773,
       "name": "In the Night",
       "url": "https://open.spotify.com/track/3vVesn3Ipg8L4gpxPKoy1E"
@@ -4260,7 +4296,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 423840,
       "name": "Layla",
       "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
@@ -4476,7 +4512,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 268333,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/5TrISe7VQxaewmfwX8QPgt"
@@ -4638,7 +4674,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 495133,
       "name": "Love Is A Lie",
       "url": "https://open.spotify.com/track/22rb3suWekuTn8o2KSkBRL"
@@ -5196,7 +5232,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 234196,
       "name": "More Than Words Can Say",
       "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
@@ -5704,7 +5740,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 309773,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7yvhqx2bIMDdUS3LHXAX8C"
@@ -6104,7 +6140,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 273466,
       "name": "Safe in My Heart",
       "url": "https://open.spotify.com/track/7z93deiuycP6O9PHsKoTmt"
@@ -6904,7 +6940,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 291066,
       "name": "The Angel Song",
       "url": "https://open.spotify.com/track/5uSZx5kCrS4RtZYroge6qC"
@@ -6994,7 +7030,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 200813,
       "name": "The Day I Met You",
       "url": "https://open.spotify.com/track/6hEgSpJP09IPGNASvcFX0n"
@@ -7632,7 +7668,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 256486,
       "name": "Two Steps Behind - String / Acoustic Version",
       "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
@@ -8046,7 +8082,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 298653,
       "name": "When Love Comes Down",
       "url": "https://open.spotify.com/track/0oL5l7aGG4aPdCAkZX6kkv"
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 252600,
       "name": "Will You Still Love Me? - 2003 Remaster",
       "url": "https://open.spotify.com/track/3dn6qXlHYAQpOqMTWxkGOR"
@@ -8507,6 +8543,24 @@
     },
     {
       "album": {
+        "name": "You Make Me Feel - The Ballads",
+        "url": "https://open.spotify.com/album/6nUFRklKmzbh0VHzYJYjoB"
+      },
+      "artists": [
+        {
+          "name": "Bonfire",
+          "url": "https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284440,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/6ap82DD5UEs3e63CqGiioP"
+    },
+    {
+      "album": {
         "name": "The Traveling Wilburys, Vol. 3",
         "url": "https://open.spotify.com/album/1DGMD70zay4ZtN9XLX0uY4"
       },
@@ -8644,7 +8698,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 308973,
       "name": "Your Love Is in Vain",
       "url": "https://open.spotify.com/track/3feSg8pPsHu1oP2rmpE7VR"

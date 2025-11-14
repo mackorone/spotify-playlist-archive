@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Ado",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure.  cover: Mori Calliope",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 199014,
       "name": "ACTION",
       "url": "https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2"
@@ -3721,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
+    },
+    {
+      "album": {
         "name": "I I I",
         "url": "https://open.spotify.com/album/6khDJU0RLPOsxLWNk8HJQs"
       },
@@ -4658,6 +4676,24 @@
       "duration_ms": 176160,
       "name": "KIRA KIRA",
       "url": "https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X"
+    },
+    {
+      "album": {
+        "name": "Kissing the machine",
+        "url": "https://open.spotify.com/album/4dQJhysRhXJHLyVx76Wty1"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "Kissing the machine",
+      "url": "https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF"
     },
     {
       "album": {
@@ -6232,7 +6268,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 212280,
       "name": "My Answer",
       "url": "https://open.spotify.com/track/5sb1ngao5lKvPfGBiBsQW8"
@@ -10610,7 +10646,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 169901,
       "name": "\u3044\u306e\u3061\u306e\u30d1\u30ec\u30f1\u30c9",
       "url": "https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ"
@@ -10668,6 +10704,24 @@
       "duration_ms": 206893,
       "name": "\u3046\u3063\u305b\u3047\u308f",
       "url": "https://open.spotify.com/track/5QS01sq07pThdktoNUxXRZ"
+    },
+    {
+      "album": {
+        "name": "\u3046\u3064\u304f\u3057\u3058\u3054\u304f",
+        "url": "https://open.spotify.com/album/5xU2auiRThiL630ZNmAr2J"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232448,
+      "name": "\u3046\u3064\u304f\u3057\u3058\u3054\u304f",
+      "url": "https://open.spotify.com/track/52tuMlVkSWg4LbpIcHpvgi"
     },
     {
       "album": {
@@ -14327,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3.",
+        "url": "https://open.spotify.com/album/6qcTk2xh2hi14khpKisfq3"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249703,
+      "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3.",
+      "url": "https://open.spotify.com/track/2Dn1yv0osM4HARV95xFWeB"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30b9\u30c8\u30eb\u30c3\u30af",
         "url": "https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS"
       },
@@ -14752,10 +14824,28 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 236083,
       "name": "\u4fee\u7f85",
       "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
+    },
+    {
+      "album": {
+        "name": "\u5049\u751f\u4eba",
+        "url": "https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208910,
+      "name": "\u5049\u751f\u4eba",
+      "url": "https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq"
     },
     {
       "album": {
@@ -18266,7 +18356,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 348367,
       "name": "\u98a8\u3068\u79c1\u306e\u7269\u8a9e",
       "url": "https://open.spotify.com/track/10QhAQvfHf4ztZlXlkgWFR"

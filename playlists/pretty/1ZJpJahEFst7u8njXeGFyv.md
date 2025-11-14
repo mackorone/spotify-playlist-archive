@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 299,210 likes - 250 songs - 14 hr 19 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 299,186 likes - 250 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bach: Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/4JQ6pD780oArXevS5icpVY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Bach: Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/album/61QW5qa1TIbjRcZOB65st2) | 2:58 |
 | 2 | [River Flows in You](https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [The Best \- Reminiscent 10th Anniversary](https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1) | 3:38 |
 | 3 | [Raindrop Postlude](https://open.spotify.com/track/1hrXhqWMK5O7DOhNZMqmG6) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Raindrop Postlude](https://open.spotify.com/album/07m1K1XQZXTU6sb4gDZyOK) | 4:47 |
-| 4 | [What Love Will Do to You](https://open.spotify.com/track/71G0IAEoNkyuM8wuAS5wEy) | [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [What Love Will Do to You](https://open.spotify.com/album/7qlvvRi1G3HFm35RqhY1Pr) | 3:46 |
+| 4 | [Laufey: What Love Will Do to you](https://open.spotify.com/track/71G0IAEoNkyuM8wuAS5wEy) | [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Laufey: What Love Will Do to you](https://open.spotify.com/album/7qlvvRi1G3HFm35RqhY1Pr) | 3:46 |
 | 5 | [Nightlight](https://open.spotify.com/track/0fypoB1hrzA7NcI9431Hzt) | [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Kim Barbier](https://open.spotify.com/artist/4rBenz5sFjZJ0IBVELwTNw), [Esther Abrami Ensemble](https://open.spotify.com/artist/3RwLOpBYQ4MK3htNGKimtz) | [Nightlight](https://open.spotify.com/album/0eN5u2syj93yBDNVr6ou4S) | 2:34 |
 | 6 | [Silent Night](https://open.spotify.com/track/2o0AHdi9xtIUsz2zr4voll) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Silent Night](https://open.spotify.com/album/51zAE0mqqYQE5ixJv3OECF) | 2:16 |
 | 7 | [Somewhere Over the Rainbow](https://open.spotify.com/track/2OaGGj94xHvARetO5TOhkk) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Somewhere Over the Rainbow](https://open.spotify.com/album/6GL1ZGETQjEw2yW4PnG1LR) | 4:01 |

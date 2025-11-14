@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Low G
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
 
-319 songs - 18 hr 42 min
+320 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 | 2023-10-19 |  |
 | [Chơi Như Tụi Mỹ Remix ft\. wokeupat4am x kewtiie \- Remix](https://open.spotify.com/track/2GgJoD0prtC5Dv4z5BXstc) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Chơi Như Tụi Mỹ Remix ft\. wokeupat4am x kewtiie](https://open.spotify.com/album/3A1tQnmZO3gqaS7jwXu5MZ) | 2:21 | 2023-10-19 | 2023-11-16 |
 | [Chưa Bao Giờ](https://open.spotify.com/track/75rsMKqFUVEQvhwCL6Qc9m) | [DSK](https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD) | [Chưa Bao Giờ](https://open.spotify.com/album/6Q0nObZ1DJ746K31OZiOfM) | 4:48 | 2024-03-22 | 2024-03-29 |
-| [Chưa Phải Là Yêu](https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z) | [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4) | [Chưa Phải Là Yêu](https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd) | 3:12 | 2023-10-19 |  |
+| [Chưa Phải Là Yêu](https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z) | [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4) | [Chưa Phải Là Yêu](https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd) | 3:12 | 2023-10-19 | 2025-11-14 |
 | [Chấm Hết](https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [ZEXZEX](https://open.spotify.com/artist/4hNP1VYe1hO5ppmWDlGhsx), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [Chấm Hết](https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj) | 3:06 | 2025-06-17 |  |
 | [Chẳng 1 Ai](https://open.spotify.com/track/7f29YBu2kdwdWiCj0xrTd8) | [CADMIUM](https://open.spotify.com/artist/6f5XlPB9qtr5eY5x9vUsMU), [T.Hyde](https://open.spotify.com/artist/3HOua3AllgtLfDsKg3qtWE), [Phankeo](https://open.spotify.com/artist/2rv0GwxSEWKhz54nLluNhK) | [Chẳng 1 Ai](https://open.spotify.com/album/4WIgzx5Hn9hAHlBNVTIC1z) | 2:57 | 2023-11-30 | 2023-12-04 |
 | [chẳng giống giáng sinh](https://open.spotify.com/track/7k3ohP9ZiGfhL6yD8oIPfk) | [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Willistic](https://open.spotify.com/artist/0XEYiIh3AzMl9lBaT3gNz7), [datfitzx](https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7) | [chẳng giống giáng sinh](https://open.spotify.com/album/38X017QxkKpFYkdFcxDy9V) | 3:12 | 2024-10-03 | 2025-01-17 |
@@ -226,6 +226,7 @@
 | [Phong Long](https://open.spotify.com/track/3A0QLMQn0XqmCrJMInLhYg) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Phong Long](https://open.spotify.com/album/5AHGKEuf59fdL0sAkxJwmY) | 4:41 | 2024-01-24 | 2024-03-21 |
 | [Phía Sau Em](https://open.spotify.com/track/2J3yoavy0daNn6l8hOffBA) | [Kay Trần](https://open.spotify.com/artist/3EPkqJFzEGSJWtGsu1Xwqt) | [Phía Sau Em](https://open.spotify.com/album/66pYJljCv5MWl7eqxsfPdu) | 3:09 | 2024-12-25 | 2025-01-12 |
 | [Phù Hộ Cho Con](https://open.spotify.com/track/6Rah0twMGdoudVfDpscqpo) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Phù Hộ Cho Con](https://open.spotify.com/album/1RFTGVotyaIg4gBxNeuruz) | 4:20 | 2024-08-10 | 2024-08-16 |
+| [POLITE](https://open.spotify.com/track/3EfychxMku3sRuso0jkGis) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [POLITE](https://open.spotify.com/album/4hIY0GUjgLZi9jrUneg03c) | 2:40 | 2025-11-13 |  |
 | [QUAY ĐI QUAY LẠI \(feat\. HIEUTHUHAI\)](https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [ANH TRAI "SAY HI", Chung Kết 1](https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln) | 3:30 | 2025-07-31 | 2025-10-13 |
 | [QV3D](https://open.spotify.com/track/44v8VGC9c2Jg59M8cJg3YZ) | [LK](https://open.spotify.com/artist/6S0JgJU2l6ds1EhZUJMQFk), [Rich Choi](https://open.spotify.com/artist/3xIg04BrQzREY9e2mQxzAf), [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K) | [QV3D](https://open.spotify.com/album/4e0IStNCwdllLf3YsFOd1I) | 4:16 | 2023-12-11 | 2023-12-16 |
 | [Rainy Day](https://open.spotify.com/track/0byB89KKO0W9FNX0AHynon) | [QUYNH](https://open.spotify.com/artist/5HVhynFWNGRxwdMYWUggrf), [Fous](https://open.spotify.com/artist/2l6JnuA4jf2M5OTxmrEdAH) | [Rainy Day](https://open.spotify.com/album/1jV8m82t4ybR5jHyjHys7C) | 3:06 | 2024-05-07 | 2024-07-27 |

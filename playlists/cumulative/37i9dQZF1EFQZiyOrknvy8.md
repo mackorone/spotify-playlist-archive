@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-179 songs - 9 hr 5 min
+180 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Drei Uhr Nachts](https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [MUSKETIERE](https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE) | 2:40 | 2024-01-29 |  |
 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 | 2024-02-27 |  |
 | [Drunk On You](https://open.spotify.com/track/25HWrN7rPVMy7r7JlYZvsC) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Drunk On You](https://open.spotify.com/album/7oAvImtminoHsBgJFgKgCd) | 3:28 | 2024-01-29 |  |
+| [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 | 2025-11-13 |  |
 | [Dye My Hair](https://open.spotify.com/track/6iOeQNXb0fFP3TDCzVPts8) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:27 | 2024-01-29 |  |
 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 | 2024-01-29 |  |
 | [Einfach](https://open.spotify.com/track/4AsCLebVfa8IMmrUfG3VF7) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:24 | 2024-01-29 |  |
@@ -136,7 +137,7 @@
 | [On My Own](https://open.spotify.com/track/78hj6ClFpaG2MuOaPCjlOo) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O) | [On My Own](https://open.spotify.com/album/46VvuVv2NV5Zm8W6b5YZze) | 2:21 | 2024-01-29 |  |
 | [One Day \(I'm Gonna Break Your Heart\)](https://open.spotify.com/track/17RvMTNV8cqEhlKnr65btb) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:28 | 2024-01-29 |  |
 | [Our Parade](https://open.spotify.com/track/5CZjFSunID1EGKCDJkMKpj) | [Elaiza](https://open.spotify.com/artist/3p45HHDBKyxCDJeOnOWuSo) | [Restless \(Deluxe\)](https://open.spotify.com/album/1Nr0EKbE71nEAcbXN5jqi2) | 3:09 | 2025-01-09 | 2025-04-12 |
-| [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:36 | 2024-01-29 |  |
+| [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:38 | 2024-01-29 |  |
 | [Paradise](https://open.spotify.com/track/6VwzQHIGN0ftc9IL3YsnhA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Paradise](https://open.spotify.com/album/5sOwGpONKjXJNRRAGmdg5j) | 2:20 | 2025-08-14 |  |
 | [PAY ME BACK!](https://open.spotify.com/track/0XO1KK7qiUGVK8t3FZdM4w) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [PAY ME BACK!](https://open.spotify.com/album/0FdEEw1vJvO8hCUJUoYjRd) | 3:08 | 2024-01-29 |  |
 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 | 2024-10-01 |  |

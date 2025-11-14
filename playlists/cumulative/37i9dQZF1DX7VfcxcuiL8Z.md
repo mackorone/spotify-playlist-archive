@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: Teen Jesus and the Jean Teasers
+> The best in new rock\. Cover: Ecca Vandal
 
-493 songs - 1 day 4 hr 53 min
+496 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 | 2024-09-05 | 2024-10-18 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-04-09 | 2024-07-12 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-25 | 2024-08-31 |
-| [Don't Break](https://open.spotify.com/track/2iQ5z7hip59FJsSuAL3P6p) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Don't Break](https://open.spotify.com/album/0unni3XCvwifZadaWbBoRt) | 2:37 | 2025-08-14 |  |
+| [Don't Break](https://open.spotify.com/track/2iQ5z7hip59FJsSuAL3P6p) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Don't Break](https://open.spotify.com/album/0unni3XCvwifZadaWbBoRt) | 2:37 | 2025-08-14 | 2025-11-14 |
 | [Don't Feel Right](https://open.spotify.com/track/15o1aMlyBLPTiPNSplIsAo) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Don't Feel Right](https://open.spotify.com/album/5r6Gn5aCcCku9RDnFdIGTk) | 3:06 | 2024-12-05 | 2025-01-10 |
 | [Don't Go](https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Old Mervs](https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g) | 2:41 | 2025-03-20 | 2025-05-02 |
 | [Don't Try To Talk](https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:06 | 2024-10-31 | 2025-01-10 |
@@ -178,7 +178,7 @@
 | [Hate Me If You Want](https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Hate Me If You Want](https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg) | 2:52 | 2024-09-19 | 2025-03-21 |
 | [He's A Lad](https://open.spotify.com/track/5btBJ5bMhC5rj9hI5uG44I) | [Noah Dillon](https://open.spotify.com/artist/6g4VCntGKDE2bsGSPEjtal) | [He's A Lad](https://open.spotify.com/album/5oTg0D4D6qNCmtpkOskoYZ) | 3:50 | 2024-07-11 | 2024-09-27 |
 | [Heartbeats](https://open.spotify.com/track/7kPB1hXYtfc0uNt6L5bc7v) | [The Angels](https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al) | [Ninety Nine](https://open.spotify.com/album/5GPBkq5Um3EzY4OFnDfcR7) | 3:39 | 2024-06-27 | 2024-12-06 |
-| [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-20 |  |
+| [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-20 | 2025-11-14 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2025-06-06 |
 | [Heavy Jelly](https://open.spotify.com/track/0WWJZU5HrQHxshzma0h9LC) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVIER JELLY](https://open.spotify.com/album/3Rz31xgqFQGTlkABzhv7Qo) | 2:36 | 2025-04-17 | 2025-05-30 |
 | [Heavy Rain](https://open.spotify.com/track/5iFraPN6vo1W4cQAhOMeAH) | [Mulga Bore Hard Rock](https://open.spotify.com/artist/20UoU6pOqBHVcSRITcRIzl) | [Heavy Rain](https://open.spotify.com/album/1agfSEUlwa4atpbck7205R) | 4:31 | 2025-07-17 | 2025-09-12 |
@@ -241,7 +241,7 @@
 | [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 | 2024-09-26 | 2024-11-29 |
 | [Leading Man Lost](https://open.spotify.com/track/4wZxHzPJms8QYluw0P1wpx) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [Breaking Into Heaven](https://open.spotify.com/album/4kJMoTLljEaIx8c7gX2JOX) | 4:12 | 2025-09-11 |  |
 | [Left Of The Dealer](https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Left Of The Dealer](https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi) | 4:14 | 2025-02-13 | 2025-05-16 |
-| [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 | 2025-07-10 |  |
+| [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 | 2025-07-10 | 2025-11-14 |
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-04-09 | 2024-08-16 |
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-15 | 2025-06-20 |
 | [Letters](https://open.spotify.com/track/1WpML49J52wtI6B7cEfoRP) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Letters](https://open.spotify.com/album/63YZiViTBsGpNT25ZCz4FK) | 3:13 | 2024-04-09 | 2024-07-12 |
@@ -278,6 +278,7 @@
 | [Misery](https://open.spotify.com/track/1MXeU8DeJKCj0OPrRoXf10) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [Misery](https://open.spotify.com/album/47Djj8Y5eFxemOU2aYZDit) | 3:02 | 2025-09-11 |  |
 | [MISS HER](https://open.spotify.com/track/6KdhOOGA2jiinTxZ9bUio4) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [MISS HER](https://open.spotify.com/album/5iyhaKuooHHV4O3BBi5z53) | 2:08 | 2025-10-09 |  |
 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-04-09 | 2024-09-13 |
+| [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 | 2025-11-13 |  |
 | [MOTHER](https://open.spotify.com/track/0xyfRG9hlPvfU2Stwic0tt) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [MOTHER](https://open.spotify.com/album/1lgxH3GZc9wK0q1I73bMCo) | 4:05 | 2025-09-11 | 2025-11-07 |
 | [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 | 2024-09-19 | 2024-11-22 |
 | [My Blood](https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [My Blood](https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf) | 4:05 | 2025-01-09 | 2025-05-02 |
@@ -301,6 +302,7 @@
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-23 | 2025-05-16 |
 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 | 2024-08-22 | 2024-11-22 |
 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 | 2025-01-16 | 2025-04-11 |
+| [Not Sacred](https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky \(Deluxe\)](https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5) | 3:46 | 2025-11-13 |  |
 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 | 2025-07-10 | 2025-10-03 |
 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 | 2024-12-19 | 2025-02-28 |
 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 | 2024-04-09 | 2024-07-05 |
@@ -368,6 +370,7 @@
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-01 | 2025-06-06 |
 | [Seven Years](https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Seven Years](https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P) | 3:05 | 2025-01-30 | 2025-04-04 |
 | [Sex Drugs Whatever](https://open.spotify.com/track/0CsYbDQXRAVZ6kHn4rDakN) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Wonderland](https://open.spotify.com/album/48NcXzz8dPbKReTUjTNQHv) | 3:18 | 2024-10-10 | 2024-11-01 |
+| [Shadowland](https://open.spotify.com/track/55UcLytbMiRcXmReVQcpyz) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Shadowland](https://open.spotify.com/album/0RdCEIJvDjwJve2G98UIAy) | 3:52 | 2025-11-13 |  |
 | [Shepherd Hunter](https://open.spotify.com/track/72JMBHXwXvtZ2LiVOrAMCE) | [Battlesnake](https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y) | [Shepherd Hunter](https://open.spotify.com/album/5L1EiL3GqQeoS9i99QyzwW) | 6:06 | 2025-03-20 | 2025-04-11 |
 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 | 2025-03-20 | 2025-09-19 |
 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 | 2024-08-01 | 2024-12-13 |

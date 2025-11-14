@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Papaz\u00f3, Billie Kark",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Evangelia ",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 195214,
       "name": "Afinomai",
       "url": "https://open.spotify.com/track/2gUqLtfxvSiqwSVXiZhJfv"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Asteio",
+        "url": "https://open.spotify.com/album/5s8IZjqAX57I4iiMUI9kT9"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "Asteio",
+      "url": "https://open.spotify.com/track/3grnI3Xh7sIjuSI6mH59Ta"
+    },
+    {
+      "album": {
         "name": "Asteromata",
         "url": "https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 175175,
       "name": "Diafanis",
       "url": "https://open.spotify.com/track/0cJQO2o81NwOtjlJOJiEGV"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 195923,
       "name": "Giati De Milame",
       "url": "https://open.spotify.com/track/3YSF4pQR0BBfSZulVqCre8"
@@ -3529,6 +3547,28 @@
     },
     {
       "album": {
+        "name": "Savvato",
+        "url": "https://open.spotify.com/album/1NkUIqDz4AEyWcIH8z13sk"
+      },
+      "artists": [
+        {
+          "name": "M.Hustler",
+          "url": "https://open.spotify.com/artist/4DQVXkgvUChjlRvkwoLc1a"
+        },
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234344,
+      "name": "Savvato",
+      "url": "https://open.spotify.com/track/6ULW8Q20DVR3MvwSK6yzMq"
+    },
+    {
+      "album": {
         "name": "Se Mia Stigmi",
         "url": "https://open.spotify.com/album/6JG6ZymOscG7SsvhD1SSqr"
       },
@@ -3716,6 +3756,28 @@
       "duration_ms": 151456,
       "name": "Social Media",
       "url": "https://open.spotify.com/track/0ZyWNvHKNWO8d3f9Rhqnd1"
+    },
+    {
+      "album": {
+        "name": "iDidntMeanToGhostYouButMyWifiCrashedAgain",
+        "url": "https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2"
+      },
+      "artists": [
+        {
+          "name": "TEO.x3",
+          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
+        },
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155232,
+      "name": "sprite",
+      "url": "https://open.spotify.com/track/32kFCCsS86KQIbhgGED7pp"
     },
     {
       "album": {

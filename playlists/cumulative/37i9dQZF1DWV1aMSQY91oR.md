@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest in hip\-hop, updated weekly\. Cover: Smiley & Roy Woods
+> We'll be back next week with the latest in hip\-hop\. Cover: Smiley & Roy Woods
 
 4,328 songs - 8 day 14 hr 52 min
 

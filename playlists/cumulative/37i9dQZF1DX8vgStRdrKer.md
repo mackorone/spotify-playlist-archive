@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-660 songs - 2 day 6 hr 36 min
+661 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Olurapada](https://open.spotify.com/track/2js7F5DvF0thAggs9An2rP) | [Paul Akadi](https://open.spotify.com/artist/2cbc9yq0kt2sTJJQLlMD6s), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Olurapada](https://open.spotify.com/album/1fGgeIsErNuXGDeKqLApfd) | 5:14 | 2025-08-15 | 2025-10-03 |
 | [Oluwatosin II](https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Oluwatosin II](https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc) | 10:56 | 2025-09-19 |  |
 | [OLÓÒTITÓ NI Ó](https://open.spotify.com/track/13FnhTtUrEIbSxvid3AQgD) | [Tobi Jeff Richards](https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [OLÓÒTITÓ NI Ó](https://open.spotify.com/album/33SC0sxTUSvArVHIIayukR) | 3:36 | 2025-07-18 | 2025-11-12 |
+| [OMG](https://open.spotify.com/track/4ekJe6P8gN8oGg0W43ehiZ) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [OMG](https://open.spotify.com/album/54HjzlHxkRXDOVVLnMRt2G) | 3:05 | 2025-11-07 |  |
 | [OMG](https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie) | [OMG](https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT) | 2:23 | 2025-07-25 |  |
 | [On Time](https://open.spotify.com/track/1ZKMJ2MqdbzaS0fkzsIly1) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [On Time](https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI) | 3:49 | 2025-09-05 | 2025-10-03 |
 | [Once in a Lifetime](https://open.spotify.com/track/4jKE8iBxRkU7clFMh8B3wv) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [The Social Singing Choir](https://open.spotify.com/artist/357xJ6cz2aICpIdrRt5LsD) | [Mum Does the Washing EP](https://open.spotify.com/album/3EGVHi8RO2XZzfpI6SmM9C) | 3:38 | 2024-11-08 | 2025-03-25 |
@@ -502,7 +503,7 @@
 | [PRSNC](https://open.spotify.com/track/3MJ0tuFBzhdFw6hvifLHrq) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [PRSNC](https://open.spotify.com/album/7e2lcyFX3dQKTHGqhqVrhw) | 3:45 | 2025-06-20 | 2025-07-11 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-09-15 | 2024-03-16 |
 | [Radical](https://open.spotify.com/track/73x1RKOULcFwHI4fXEVJPu) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Radical](https://open.spotify.com/album/1qH7PKSm7heJPJVtl89bIc) | 2:40 | 2025-06-27 | 2025-11-05 |
-| [Radical for Jesus](https://open.spotify.com/track/7FsjqcvezLOeKRza3YLEfL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Radical for Jesus](https://open.spotify.com/album/2xa6oSpyhIzuxQOxTkNjBK) | 4:27 | 2025-07-25 |  |
+| [Radical for Jesus](https://open.spotify.com/track/7FsjqcvezLOeKRza3YLEfL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Radical for Jesus](https://open.spotify.com/album/2xa6oSpyhIzuxQOxTkNjBK) | 4:27 | 2025-07-25 | 2025-11-14 |
 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 | 2024-08-16 | 2025-06-27 |
 | [Re Baeti / Pa Lweendo](https://open.spotify.com/track/63wEcQuc6bYUD4oTqxpcDs) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU), [Malcolm VX](https://open.spotify.com/artist/0ZUd7XhP6ZLBMiBEsU32jE) | [Re Baeti / Pa Lweendo](https://open.spotify.com/album/6S3pedZdhbF7ETfnJZju9O) | 3:34 | 2025-06-06 | 2025-07-11 |
 | [Ready](https://open.spotify.com/track/5xTDvjETI0M1xpqTtNqffo) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Ready](https://open.spotify.com/album/2cbzL66lCOQqfizLgD9plV) | 2:11 | 2025-05-16 | 2025-06-27 |

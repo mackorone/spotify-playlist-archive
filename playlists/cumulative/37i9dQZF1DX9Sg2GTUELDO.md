@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 陳蕾 Panther Chan
+> 感受女聲力量。Cover: 秋彤 Claudia Ng
 
-601 songs - 1 day 11 hr 45 min
+603 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [I'm Marf\-elous](https://open.spotify.com/track/4S8TjPWXhfFvofEcbHIOLO) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [I'm Marf\-elous](https://open.spotify.com/album/56vIFUndRkDyBnSwIZHQhV) | 2:47 | 2024-06-27 | 2025-09-12 |
 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 | 2025-03-27 |  |
 | [I'm Sorry](https://open.spotify.com/track/0iWCmxtYEVCcJlvOPQbPj7) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [I'm Sorry](https://open.spotify.com/album/5ugZtluKVm4MzbUv0YSUFw) | 3:50 | 2024-06-27 | 2025-09-12 |
+| [i8](https://open.spotify.com/track/0SL9cVRHqAp8IJ6Lg7pixI) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [i8](https://open.spotify.com/album/6VPZxBLuNU4evPwBe4XP5o) | 2:37 | 2025-11-13 |  |
 | [idc](https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [idc](https://open.spotify.com/album/7ArQiiYfgEeFr0QQJHRWQQ) | 3:23 | 2024-06-27 | 2025-09-12 |
 | [IDK](https://open.spotify.com/track/4TlU4jNsch6P9hgbFxNK8L) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [IDK](https://open.spotify.com/album/6TA2BHMMBRmW2dGthzsQZV) | 3:22 | 2024-06-27 | 2025-09-12 |
 | [in love / not enough](https://open.spotify.com/track/1hqh3ZyC1ltmQICWJK6RCs) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [in love / not enough](https://open.spotify.com/album/4UvU4P3qLkjXqQp7tqlcdQ) | 3:30 | 2024-06-27 | 2025-09-12 |
@@ -191,6 +192,7 @@
 | [TXT OR CALL](https://open.spotify.com/track/2KTPd1X17SzSJbyjfJW0Sx) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [TXT OR CALL](https://open.spotify.com/album/4WztQlLQZA7tBAyAaSVvRT) | 3:06 | 2024-06-27 | 2025-09-12 |
 | [Unfamiliar City](https://open.spotify.com/track/6ifU8TVuad0XdG9AxzBbX8) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Unfamiliar City](https://open.spotify.com/album/2top45rqhgC5JyBtUaTmWA) | 3:22 | 2024-10-17 | 2025-09-12 |
 | [Unknown](https://open.spotify.com/track/5Y0P12reC1bcbffi8UdV37) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [LUMINOUS](https://open.spotify.com/album/5eakbHsVqrALeQmOTqnmq0) | 4:57 | 2025-05-22 |  |
+| [Until We Meet Again \(Swing Version\) \(動畫電影《世外》片尾曲\)](https://open.spotify.com/track/5xKno8ZLDF0daSsqtqwIVW) | [秋彤 Claudia Ng](https://open.spotify.com/artist/0RK9kpb4SyiaVW8FsMwclg) | [Until We Meet Again \(Swing Version\) \(動畫電影《世外》片尾曲\)](https://open.spotify.com/album/4SEnheLhI5SDRrSTW5egrx) | 1:54 | 2025-11-13 |  |
 | [Vanish Mode](https://open.spotify.com/track/0cfUsP81Dh0lERwoxpP5pp) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Vanish Mode](https://open.spotify.com/album/4swc89sddgQGk4i07ihKpy) | 3:10 | 2024-06-27 | 2025-09-12 |
 | [Wait A Second](https://open.spotify.com/track/54Yaojip5O2QGFnjDBF38o) | [Day 許軼](https://open.spotify.com/artist/2LjB9YNxEmF9W7o90smtuv) | [Wait A Second](https://open.spotify.com/album/4kbonNl8gWGKAlpa7wmEH7) | 3:28 | 2025-03-06 |  |
 | [WAKE](https://open.spotify.com/track/2AaRO5LigsqlZOdvx5kchh) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [WAKE](https://open.spotify.com/album/7Dn7EqixgN39a10ad4iKQc) | 3:17 | 2025-01-16 |  |

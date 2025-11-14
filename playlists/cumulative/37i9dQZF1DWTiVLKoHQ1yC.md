@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-336 songs - 22 hr 45 min
+337 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,9 +152,10 @@
 | [In Your Arms](https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ), [CAY \(DE\)](https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K) | [In Your Arms](https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi) | 5:33 | 2024-02-02 | 2025-01-11 |
 | [Incomplete Dreaming](https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Incomplete Dreaming](https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7) | 4:12 | 2024-06-21 | 2024-09-01 |
 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 | 2022-01-14 | 2024-02-02 |
+| [Inside My Mind](https://open.spotify.com/track/4y6WROhnWvAhYlkjNi7nPa) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Inside My Mind](https://open.spotify.com/album/51Bm49zEyTXCR3kzqSywco) | 3:42 | 2025-11-14 |  |
 | [Insomnia](https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Insomnia](https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH) | 3:42 | 2024-04-05 | 2025-04-18 |
 | [Intina](https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Maasai](https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD) | 3:13 | 2024-03-29 | 2024-05-04 |
-| [It Feels Different Now](https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [It Feels Different Now](https://open.spotify.com/album/6t4sjy5ObPiOqraABIxjWk) | 3:14 | 2025-10-02 |  |
+| [It Feels Different Now](https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [It Feels Different Now](https://open.spotify.com/album/6t4sjy5ObPiOqraABIxjWk) | 3:14 | 2025-10-02 | 2025-11-14 |
 | [It's Love \(Trippin'\)](https://open.spotify.com/track/2bqwXwAj4ALLlDZ3JYbQVg) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Goldtrix](https://open.spotify.com/artist/4Pif8am2UHNsBFcUA9zthX), [Andrea Brown](https://open.spotify.com/artist/1pFPaJCULP8CZE6y0tbzyn) | [It's Love \(Trippin'\)](https://open.spotify.com/album/2NWsEyK1jCTUINqSKWcVyA) | 3:11 | 2024-06-21 | 2024-08-16 |
 | [JOI](https://open.spotify.com/track/6X6KFGk20iV8XwxoCDt2N4) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [JOI](https://open.spotify.com/album/7cd8ra3w8pF0z6Qluw7ukv) | 3:52 | 2024-03-01 | 2024-03-22 |
 | [Just To Hear You Say](https://open.spotify.com/track/1bqLz6dF5MhBZkZO5QSf4N) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/4E8mL0pF0wa8wqQrShYVXQ) | 3:32 | 2022-01-14 | 2024-07-05 |

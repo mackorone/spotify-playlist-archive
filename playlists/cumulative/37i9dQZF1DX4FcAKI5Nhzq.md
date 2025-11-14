@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
 
-1,501 songs - 3 day 8 hr 42 min
+1,502 songs - 3 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [My Beloved](https://open.spotify.com/track/2o8qsTLDQ17QWeozcwKFoF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [My Beloved](https://open.spotify.com/album/2EngEc311hXov3f6KQ6h8D) | 4:04 | 2024-01-16 | 2024-03-26 |
 | [My First Love Song](https://open.spotify.com/track/6M7PEx3X111WwTAXc6vYCH) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/2oPgsxzvXORR8pnYv9mYdz) | 2:44 | 2025-09-24 | 2025-11-06 |
 | [My Prada \(feat\. Sik\-K\)](https://open.spotify.com/track/4Lp82VUupwn647W6h0EFUu) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [New Moon](https://open.spotify.com/album/7J8v0tZ6svPXbPvivnltq8) | 3:25 | 2023-09-21 | 2023-10-20 |
+| [My Sign](https://open.spotify.com/track/2rqbGNHWdUVtfz6OVV8shW) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [RUSH MODE](https://open.spotify.com/album/18jadutYzDYkOEjcH375H7) | 2:20 | 2025-11-13 |  |
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2021-01-11 | 2021-03-18 |
 | [My Turn](https://open.spotify.com/track/3uO9uv6y5eAJrkQzkHqVnM) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: BE OUR VOICE \- SEASON 3.](https://open.spotify.com/album/7151PzsDeTLtjDvqVyOj3m) | 3:33 | 2021-01-21 | 2021-03-01 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-15 | 2024-11-08 |

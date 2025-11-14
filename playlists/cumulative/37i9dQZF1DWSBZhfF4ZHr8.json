@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec LUIZA et Carbonne",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Linh",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 163074,
       "name": "J'm'en voudrais",
       "url": "https://open.spotify.com/track/4jwSH626zHuPoF0I0vh9qj"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 189877,
       "name": "Laura",
       "url": "https://open.spotify.com/track/6jdbuti5nE5JJXsR4RBcgG"
@@ -4222,7 +4222,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176106,
       "name": "Mirror (feat Ma\u00eblle)",
       "url": "https://open.spotify.com/track/4xeCDqW1TTPVmXcYtXZlLG"
@@ -4951,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "Perdu En Mer",
+        "url": "https://open.spotify.com/album/3aycKZounQ4iuQVzUY1y55"
+      },
+      "artists": [
+        {
+          "name": "Alex Roussiaux",
+          "url": "https://open.spotify.com/artist/2gLTBD2g3G1CgXjB3sFwcV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Perdu En Mer",
+      "url": "https://open.spotify.com/track/0SsduTUrCZaq6Kt99XS6fS"
+    },
+    {
+      "album": {
         "name": "Petit",
         "url": "https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH"
       },
@@ -5108,7 +5126,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 179680,
       "name": "Plus que moi",
       "url": "https://open.spotify.com/track/6S3ut1DyCwLZw5zJyekMVK"
@@ -5184,6 +5202,24 @@
       "duration_ms": 215506,
       "name": "Pour de bon",
       "url": "https://open.spotify.com/track/2kmIpQXsWwIpvZJ8qr7pGJ"
+    },
+    {
+      "album": {
+        "name": "Pourquoi c'est ma faute",
+        "url": "https://open.spotify.com/album/53PrOEpLchGMYxlFfUQs0a"
+      },
+      "artists": [
+        {
+          "name": "Camille LV",
+          "url": "https://open.spotify.com/artist/73MUbbxCJGpiMBz0fFO8is"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146465,
+      "name": "Pourquoi c'est ma faute",
+      "url": "https://open.spotify.com/track/0wBlKAIz4OHYOmqPgyr0D0"
     },
     {
       "album": {
@@ -6533,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD"
+    },
+    {
+      "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be"
       },
@@ -6902,6 +6956,24 @@
       "duration_ms": 202493,
       "name": "Viens on s'aime",
       "url": "https://open.spotify.com/track/138obimywddp5O6o3Tceg3"
+    },
+    {
+      "album": {
+        "name": "Mill\u00e9nium",
+        "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158544,
+      "name": "Virile",
+      "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
     },
     {
       "album": {

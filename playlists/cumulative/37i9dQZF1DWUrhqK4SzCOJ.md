@@ -4,7 +4,7 @@
 
 > Kung Hei Fat Choi! Hit play and get the authentic Chinese New Year atmosphere right away!
 
-166 songs - 9 hr 16 min
+167 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [小媳婦回娘家](https://open.spotify.com/track/67ES8w0EBOT5tkKr5FZgIw) | [China Dolls](https://open.spotify.com/artist/5av1Q663IrV8YZOKKG1BCa) | [亮晶晶](https://open.spotify.com/album/4s5YUZG4VuBLVoG5HUoXro) | 3:50 | 2024-01-24 |  |
 | [小龙女与小龙龙](https://open.spotify.com/track/6x98TojyPz9LZuYLI1xbDH) | [Jestinna Kuan](https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2) | [小龙女与小龙龙](https://open.spotify.com/album/0qsLtUluJndQVtsbe97MDQ) | 3:20 | 2024-02-10 |  |
 | [帅气漂亮发大财](https://open.spotify.com/track/7AeGcT9eCKSfxowjHSB2pP) | [鍾盛忠](https://open.spotify.com/artist/3tJiBxotnVJzNdx1BAeEnJ), [Stella Chung](https://open.spotify.com/artist/3BrG5EjjAeVzpHt5vT5Wk8) | [帅气漂亮发大财](https://open.spotify.com/album/7HOrotmTtySdyhD1pPzjNb) | 2:54 | 2024-01-24 | 2025-11-04 |
+| [平安回家](https://open.spotify.com/track/42ajbdWoFfxROVycMVPQJf) | [Sheron Tan](https://open.spotify.com/artist/3trKMbo3kf5THeIDoQEEph), [四季女孩](https://open.spotify.com/artist/18VHMuDHV6bli9M6iqEK2w) | [平安回家](https://open.spotify.com/album/6PREa3Tm99wnWYfaHwU6Us) | 2:56 | 2025-11-13 |  |
 | [年年新希望](https://open.spotify.com/track/3HXaQp9CSIIC4vqYspJrE6) | [九十壹 JSY](https://open.spotify.com/artist/6s0bxuz8OoUwNNtuUAubKn) | [年年新希望](https://open.spotify.com/album/315pjLQoNYTVfH2NPnYOzu) | 3:01 | 2024-01-24 | 2025-08-16 |
 | [幸福一笼笼](https://open.spotify.com/track/7xoSa4kccttgjvzjSgYECX) | [96.3HAOFM](https://open.spotify.com/artist/5wyGFYVvhdNvRjjqLrglkX) | [幸福一笼笼](https://open.spotify.com/album/1QTbHJiuvJnslpzBnAvOFG) | 2:57 | 2024-01-24 | 2025-08-16 |
 | [幹嘛恭喜](https://open.spotify.com/track/5fsOQWP5T2PI0cEtKpKEtQ) | [關韶文](https://open.spotify.com/artist/1F2fBq7rt9bBbbIOPlmEUm), [丹妮婊姐](https://open.spotify.com/artist/7hqpGvnqUhGBNSRZmy209A) | [幹嘛恭喜](https://open.spotify.com/album/69Lk7ogIrgl0VDT1Xcf6fV) | 3:50 | 2024-01-24 | 2025-10-02 |
@@ -125,7 +126,7 @@
 | [新年的心願](https://open.spotify.com/track/4w9svDAm59BDNfrIQrMuuw) | [洪湧澤](https://open.spotify.com/artist/5pF53KdsxnTA0InKzyLZcq), [賴威丞](https://open.spotify.com/artist/04vx9FvmxIZNN2sVxgvlqQ), [王炫斌](https://open.spotify.com/artist/5jFgOOXDgqftN7qWpNizih), [葉政衛](https://open.spotify.com/artist/4VSZiJjGhulrQA90NtciGr), [CJing](https://open.spotify.com/artist/7qV5xdtTybmwg4aEFp5eHl), [鄭睨錡](https://open.spotify.com/artist/63OgID6JW9xPnyHfJiY9c2), [鄭颩壕](https://open.spotify.com/artist/4sr2yhtuXXiPieCOCNwvax) | [賀新年](https://open.spotify.com/album/0ftL4DHHC8v2fEcrCVBZcw) | 3:12 | 2024-01-24 | 2025-08-16 |
 | [新年简讯](https://open.spotify.com/track/06qisWh9CdElOiLkFM7tZ5) | [夏研](https://open.spotify.com/artist/2F23YsSC2tR3CH1Xy7PUiW) | [新年简讯](https://open.spotify.com/album/0sBf1X5c6i3uqEa9sxdzsD) | 3:34 | 2024-01-24 | 2025-10-07 |
 | [新年花鼓歌](https://open.spotify.com/track/6BOVsNATSDlkYzQRxZkZAp) | [鍾盛忠](https://open.spotify.com/artist/3tJiBxotnVJzNdx1BAeEnJ), [Stella Chung](https://open.spotify.com/artist/3BrG5EjjAeVzpHt5vT5Wk8), [阿妮](https://open.spotify.com/artist/72TAg24Gy9JQArNK5rym2g) | [新年团园](https://open.spotify.com/album/2RgJBKc0BPkZCowpGX0wRH) | 2:48 | 2024-01-24 |  |
-| [新年這一刻](https://open.spotify.com/track/2kzpgoRnrxmTONArtlwKpO) | [BEJ48](https://open.spotify.com/artist/2jNMQae1iHtA8DUYThuNzl) | [新年這一刻](https://open.spotify.com/album/4ccyDgmsUSutLhqQr9qG5w) | 4:08 | 2024-01-24 |  |
+| [新年這一刻](https://open.spotify.com/track/2kzpgoRnrxmTONArtlwKpO) | [BEJ48](https://open.spotify.com/artist/2jNMQae1iHtA8DUYThuNzl) | [新年這一刻](https://open.spotify.com/album/4ccyDgmsUSutLhqQr9qG5w) | 4:08 | 2024-01-24 | 2025-11-14 |
 | [新的一年](https://open.spotify.com/track/2toxAqgBeF7D22kAWUTnyP) | [Abin Fang](https://open.spotify.com/artist/3sHU5vwszRfnJNhvcYNZdS) | [新的一年](https://open.spotify.com/album/1Ljab2pftGKQDTpOpR5BAd) | 3:54 | 2024-01-24 |  |
 | [旺兔GOLD](https://open.spotify.com/track/4CYXJN6d3CQ1zpuXS6HfmY) | [Astro Artiste](https://open.spotify.com/artist/1EauZTwWoWAgah4DxiW6Eu) | [旺兔GOLD](https://open.spotify.com/album/7JKkK0P0knndVm31zH5g4h) | 4:25 | 2024-01-24 | 2025-08-16 |
 | [春之晨](https://open.spotify.com/track/1yFkVfQct0pCWj6pwIeHja) | [錦繡二重唱](https://open.spotify.com/artist/5wfKP70B1SjI045dboOJIT) | [全球贺年发发发](https://open.spotify.com/album/38YiUeNWgfWrc92BCCzm0m) | 3:03 | 2024-01-24 |  |

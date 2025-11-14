@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. ALT BLK ERA",
+  "description": "welcome to our universe ft. Poppy",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -2746,6 +2746,24 @@
       "duration_ms": 181682,
       "name": "BROKE THE LIGHT",
       "url": "https://open.spotify.com/track/5Wj7k4nW3fNiO8KU1Q1XdY"
+    },
+    {
+      "album": {
+        "name": "Bruised Sky",
+        "url": "https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220837,
+      "name": "Bruised Sky",
+      "url": "https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH"
     },
     {
       "album": {
@@ -12740,7 +12758,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 202036,
       "name": "LOOKING AT US",
       "url": "https://open.spotify.com/track/3Jvl3Qm630HlA7FTGiaNeA"

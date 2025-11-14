@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Clara Luciani",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Solann",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
+    {
+      "album": {
+        "name": "15 ans",
+        "url": "https://open.spotify.com/album/6tXdxLvzz6UupjarlpmHCG"
+      },
+      "artists": [
+        {
+          "name": "Alice on the roof",
+          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "15 ans",
+      "url": "https://open.spotify.com/track/52LD9mh7vjHBReZRbAc9Wu"
+    },
     {
       "album": {
         "name": "Le Disque Bleu",
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 161440,
       "name": "facilement",
       "url": "https://open.spotify.com/track/4uf3w3CXmwSA2sK6pLH82s"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 199666,
       "name": "J'veux tout savoir",
       "url": "https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi"
@@ -1782,6 +1800,24 @@
       "duration_ms": 223133,
       "name": "La louve",
       "url": "https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "La lune",
+      "url": "https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI"
     },
     {
       "album": {

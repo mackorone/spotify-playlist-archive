@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Box of Old News",
+        "url": "https://open.spotify.com/album/0MSGZun8WMibF4TguucXkm"
+      },
+      "artists": [
+        {
+          "name": "Chun Yongsung",
+          "url": "https://open.spotify.com/artist/7gwO0Vy6Qp6gq1DnrAE2AQ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164867,
+      "name": "Box of Old News",
+      "url": "https://open.spotify.com/track/6pJbzsU11saTTCBEQERybY"
+    },
+    {
+      "album": {
         "name": "Break Me.",
         "url": "https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB"
       },
@@ -9826,7 +9844,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 246000,
       "name": "Kids Return",
       "url": "https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk"
@@ -9952,7 +9970,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 181000,
       "name": "Koi",
       "url": "https://open.spotify.com/track/43nyP68GKT0fDa6ftbmvr1"
@@ -16294,6 +16312,24 @@
       "duration_ms": 200810,
       "name": "So, Sometimes, I",
       "url": "https://open.spotify.com/track/30v6L22ChZQMHGsbV0wzut"
+    },
+    {
+      "album": {
+        "name": "socks",
+        "url": "https://open.spotify.com/album/7qq6RonivWab6VT1z4ci85"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "socks",
+      "url": "https://open.spotify.com/track/7wkUcJctXuRrG7eNVD8Ivx"
     },
     {
       "album": {

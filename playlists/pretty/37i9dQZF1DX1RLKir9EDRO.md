@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: ARKADAŞ Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,109 likes - 73 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,178 likes - 73 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

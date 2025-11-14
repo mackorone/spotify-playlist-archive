@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: screensaver
+> A new world of alternative noise\. Cover: Mini Skirt
 
-80 songs - 4 hr 17 min
+84 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,10 @@
 | [Can't Feel It](https://open.spotify.com/track/0FeXCUdFEYzYRxsl0ntsgH) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Can't Feel It](https://open.spotify.com/album/0NF5PG5PmiomlWNUBt0mTa) | 3:37 | 2025-10-23 |  |
 | [Claires Whip](https://open.spotify.com/track/2KiXoQzagdrDIjAlgfqM2t) | [Dragnet](https://open.spotify.com/artist/4N5f5r6VSt8LaWeAKlK91o) | [Dragnet Reigns!](https://open.spotify.com/album/62I8kD8qVSthButF7DN4pR) | 1:52 | 2025-10-23 |  |
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-06 |  |
+| [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 | 2025-11-13 |  |
 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 | 2025-10-23 | 2025-11-07 |
 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-11-06 |  |
-| [Dipped](https://open.spotify.com/track/52hIY1Ik9gSGWALJWm0SgC) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Dipped](https://open.spotify.com/album/7sF4EDoaaVq31e07L2aWHJ) | 3:24 | 2025-10-23 |  |
+| [Dipped](https://open.spotify.com/track/52hIY1Ik9gSGWALJWm0SgC) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Dipped](https://open.spotify.com/album/7sF4EDoaaVq31e07L2aWHJ) | 3:24 | 2025-10-23 | 2025-11-14 |
 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-23 |  |
 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 | 2025-10-23 |  |
 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 | 2025-10-23 |  |
@@ -30,14 +31,16 @@
 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 | 2025-10-23 |  |
 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 | 2025-10-23 |  |
 | [Executive Function](https://open.spotify.com/track/5LrBYOI6AaS8zumfUqaygO) | [screensaver](https://open.spotify.com/artist/38UP3ZGUai10OtCaC0dV33) | [Three Lens Approach](https://open.spotify.com/album/5bH15xU8bX8E7YN29EpCnk) | 3:46 | 2025-11-06 |  |
+| [FIG TREE](https://open.spotify.com/track/5Gc96BrAvQwVPHSTNAuM9o) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [FIG TREE](https://open.spotify.com/album/4xgAG3Mzt6qHU1lqo7ZoJN) | 2:52 | 2025-11-13 |  |
 | [FME](https://open.spotify.com/track/46mmlCxxF6c4mzobMVK94b) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi) | [FME](https://open.spotify.com/album/2EVaRxUjrnJY0eSRdEdeZi) | 2:15 | 2025-10-23 |  |
 | [Forgotten Token](https://open.spotify.com/track/0SaFJ21gDyyTrEsHGgJr5d) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Forgotten Token / Un Momento](https://open.spotify.com/album/3Fy6a5Wj5FfY6s9JIU2JtM) | 3:28 | 2025-10-23 | 2025-11-07 |
 | [Friendship Bracelet](https://open.spotify.com/track/60FBfGHqju9muD7rNs6tz3) | [Behind You](https://open.spotify.com/artist/1T6MrJ05LTMSvGL8zMNjku), [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Friendship Bracelet](https://open.spotify.com/album/0IhqfuNHOmWgjgj5oIuBSQ) | 3:04 | 2025-10-23 | 2025-11-07 |
-| [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-10-23 |  |
+| [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-10-23 | 2025-11-14 |
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 |  |
 | [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 |  |
 | [Head In A Toaster](https://open.spotify.com/track/3imsIC8F4wV3AX7oIoIkCE) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Head In A Toaster](https://open.spotify.com/album/3fvhuLxy0ynDpYUlL5MxYM) | 1:55 | 2025-10-23 |  |
 | [Headlights](https://open.spotify.com/track/5EVfMP3tZ8L1c2ple2YnGT) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [Headlights](https://open.spotify.com/album/6U4InmynS95MGghIuTUa6x) | 4:10 | 2025-10-23 |  |
+| [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 | 2025-11-13 |  |
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-23 |  |
 | [How I'm Feeling](https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [How I'm Feeling](https://open.spotify.com/album/5UFejVMGISqKdcE8jikgyd) | 2:56 | 2025-11-06 |  |
 | [i'm still here \(feat\. sweet93\)](https://open.spotify.com/track/4syMA65QPHgPFbAhKF1cy1) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [the machinist](https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa) | 4:02 | 2025-10-23 |  |
@@ -71,6 +74,7 @@
 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 | 2025-10-23 |  |
 | [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 | 2025-10-23 |  |
 | [Sick Sad World](https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Sick Sad World](https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9) | 2:53 | 2025-10-23 |  |
+| [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [](https://open.spotify.com/album/null) | 3:11 | 2025-11-13 |  |
 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 | 2025-10-23 |  |
 | [Sooner](https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Life Advice](https://open.spotify.com/album/4rLGhG2wJkZQ1bAP4QhrCl) | 4:37 | 2025-10-23 |  |
 | [Squeeze Down](https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [Squeeze Down](https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws) | 3:03 | 2025-10-23 |  |
@@ -79,12 +83,12 @@
 | [Swamped](https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky Is Falling](https://open.spotify.com/album/28uUvZtG0MaZILpUToigcn) | 3:17 | 2025-10-23 |  |
 | [Take Me Apart](https://open.spotify.com/track/60X2aBTjALI2TZvRe3dHTJ) | [LORY](https://open.spotify.com/artist/1MnhXelXuGXhjgCyWrc4DF) | [Three\-Three\-Three](https://open.spotify.com/album/48JSARqYTYJa1DmZl1NOLJ) | 2:19 | 2025-11-06 |  |
 | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [The Cigs, The Light, The Coffee And Crying](https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5) | 3:03 | 2025-10-23 |  |
-| [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-10-23 |  |
+| [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-10-23 | 2025-11-14 |
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-10-23 |  |
 | [THROWIN SHAPES](https://open.spotify.com/track/3mhopbXYbHnBNTP4VpAvFy) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [THROWIN SHAPES](https://open.spotify.com/album/0CC78rgNhzUddEbVeX6efS) | 2:43 | 2025-10-23 |  |
 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 | 2025-10-23 |  |
 | [Today Might Be The Hit](https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Today Might Be The Hit](https://open.spotify.com/album/7pjYZia3RiUqYGtZ2FRaXT) | 2:11 | 2025-10-23 |  |
-| [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-10-23 |  |
+| [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-10-23 | 2025-11-14 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-10-23 |  |
 | [want someone](https://open.spotify.com/track/6z3OIvA4hWhL9tAqh4pG5N) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [want someone](https://open.spotify.com/album/6sHptB5hwfGcHfTk2x9I4d) | 2:40 | 2025-10-23 |  |
 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-10-23 |  |

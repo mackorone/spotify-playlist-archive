@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Du Fehlst Hier",
+        "url": "https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169002,
+      "name": "Du Fehlst Hier",
+      "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
+    },
+    {
+      "album": {
         "name": "Dye My Hair",
         "url": "https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS"
       },
@@ -2545,7 +2563,7 @@
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 216946,
+      "duration_ms": 218640,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia"
     },

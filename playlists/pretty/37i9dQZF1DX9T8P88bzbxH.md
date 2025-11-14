@@ -1,32 +1,32 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: The Juans](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: eaJ](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Some nights aren’t meant to be streamed — this is one of them\. Cover: The Juans
+> Some nights aren’t meant to be streamed — this is one of them\. Cover: eaJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,289 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,284 likes - 20 songs - 51 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gusto Kita](https://open.spotify.com/track/5nuuMXl7oPQpiooUtFXMcz) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 3:15 |
-| 2 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 |
-| 3 | [rebound](https://open.spotify.com/track/3V60l0xsKjcvTaCXj3hcPL) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [rebound](https://open.spotify.com/album/4mSpI3bNoO6smNpcHpvC2G) | 2:23 |
-| 4 | [Ako Na Lang](https://open.spotify.com/track/6qvHdIO3la7MIDr6IX4S3S) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Ako Na Lang](https://open.spotify.com/album/0GJLUa9eKNwUM3Fd8XG77U) | 2:59 |
-| 5 | [Ngiti](https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 3:21 |
-| 6 | [Ano Ba Talaga Tayo? \(feat\. Janine Berdin\)](https://open.spotify.com/track/2KpCEmtEabbAHx2TyXE6NX) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 4:12 |
-| 7 | [Dulo](https://open.spotify.com/track/3iWM23sWtG4v6a7hqr54NJ) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Liwanag](https://open.spotify.com/album/3TvO2eqaYYjgzackJSY5rX) | 5:13 |
-| 8 | [Back Home](https://open.spotify.com/track/2qUjIPzoL4ShLwN601AwQv) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Back Home](https://open.spotify.com/album/5S5t8D3myCSNNDg2dcuHHU) | 3:36 |
-| 9 | [Naiwan](https://open.spotify.com/track/3PJbB730cAmMvMLRT8MZCq) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 3:21 |
-| 10 | [Hatid](https://open.spotify.com/track/7sRkDPHBa0vc3lyBgELhCC) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 4:47 |
-| 11 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
-| 12 | ['Di Na Masakit](https://open.spotify.com/track/124BRvHNAn7FhiLMvwn8iL) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 2:32 |
-| 13 | [Atin Ang Mundo](https://open.spotify.com/track/7rMXr8DsobxsV8i86Enz4d) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [The Juans](https://open.spotify.com/album/2UoAEizGmERanE6XPrYuKq) | 4:13 |
-| 14 | [Tahan Na](https://open.spotify.com/track/0m7pOyvve4OIgOUUEQJCVo) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [Tahan Na](https://open.spotify.com/album/1eXSXdzyjzdS0bhFur8QOt) | 3:24 |
-| 15 | [Masungit](https://open.spotify.com/track/6UtoqPi7AbK5iMhvnT5gNu) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [Masungit](https://open.spotify.com/album/3Z3V5MQUvpu8aXq6jY97NY) | 3:31 |
-| 16 | [Kumot](https://open.spotify.com/track/6YzwHIstlUTgCjn0BrWp2b) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [Kumot](https://open.spotify.com/album/2vAxHQTTR4EwXTXSMkfy5N) | 3:39 |
-| 17 | [Itutulog Na Lang](https://open.spotify.com/track/5EnlPeg0b7VPJeNarKEAjA) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 4:45 |
-| 18 | [Balisong \- Theme Song \- From "100 Tula Para Kay Stella"](https://open.spotify.com/track/7KO7gjX5oP2FA1AsDc5Dol) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [Balisong \- Theme Song \(From "100 Tula Para Kay Stella"\)](https://open.spotify.com/album/7fXViIJlL1SkvtdWzFcR07) | 3:49 |
-| 19 | [Pasensyoso](https://open.spotify.com/track/6zdWDcq0oUFFMqDHVkCL8Y) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Pasensyoso](https://open.spotify.com/album/55n5ypmobXM2XfuUZosSo4) | 3:11 |
-| 20 | [bestfriend](https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [bestfriend](https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le) | 2:38 |
+| 1 | [LA Traffic \(/\)](https://open.spotify.com/track/17l1jfvTVIB7Py0UreZhQn) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [LA Traffic \(/\)](https://open.spotify.com/album/5VVBPjyR9RudYLi2r3FNR1) | 1:29 |
+| 2 | [right where you left me](https://open.spotify.com/track/6BP77NXCd1vdzcdl878Mig) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 2:53 |
+| 3 | [friendly fire](https://open.spotify.com/track/5gKAyVa0H23yWgiPGUaj3a) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 2:29 |
+| 4 | [ruin my life](https://open.spotify.com/track/3TcopyBqafzM0EG4rcNbmu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 2:02 |
+| 5 | [in my civic](https://open.spotify.com/track/5juhApsqgUntbADKWjYQzo) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [medicated insomnia](https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z) | 2:37 |
+| 6 | [mad](https://open.spotify.com/track/5y5r0EqHTGhkNEBhWIGVCS) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 2:57 |
+| 7 | [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 |
+| 8 | [enemy](https://open.spotify.com/track/4lAuerdYbz9gBJ4qcn9oHu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [enemy](https://open.spotify.com/album/6odNUINFot7sJrltqp5Xqo) | 2:36 |
+| 9 | [safe in the rain](https://open.spotify.com/track/6U6TDsgpWCaeI1wneNAPKj) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [safe in the rain](https://open.spotify.com/album/1koQnMMMACCfMc3tYtNOLN) | 2:18 |
+| 10 | [RED \(from Arena Breakout: Infinite\)](https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 3:05 |
+| 11 | [traveler](https://open.spotify.com/track/0IcZVi8GTyOH0lp36qi7Gj) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [laughing in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:45 |
+| 12 | [castle in the sky](https://open.spotify.com/track/4eFJGYVvnPDky3iKsFLCNB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [laughing in insomnia](https://open.spotify.com/album/14I8hTePOAteadQZcVxtGq) | 2:56 |
+| 13 | [typical story](https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [typical story](https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU) | 2:06 |
+| 14 | [lennon](https://open.spotify.com/track/6nmvb6WdkIcLobvcvZHKyE) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [lennon](https://open.spotify.com/album/2O67mvGFeAKSh2aGXF10CL) | 2:24 |
+| 15 | [merry go round](https://open.spotify.com/track/6mfLyuVFGmvWJBAVj3x6ko) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [merry go round](https://open.spotify.com/album/19iDCxX7uLuKuFlkFi4ZQ5) | 2:24 |
+| 16 | [burn](https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [burn](https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ) | 2:29 |
+| 17 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 18 | [VISIONS](https://open.spotify.com/track/5pkqN8A6vyZp3qmUZK41zc) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [VISIONS](https://open.spotify.com/album/6uWi2CjzgC6W2l1N4R8uIX) | 3:45 |
+| 19 | [pacman](https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [medicated insomnia](https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z) | 1:33 |
+| 20 | [Car Crash](https://open.spotify.com/track/6mZ6SNzhdYJg9cN22RoZip) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Car Crash](https://open.spotify.com/album/0xsPkI7oHXiqESHLNwHsGV) | 3:06 |
 
-Snapshot ID: `AAAAAIl0k60uHOcxOX0hvU0DsLCpIpCf`
+Snapshot ID: `AAAAABwL4kzH2P94yqQKVxuEXdE0FD2a`

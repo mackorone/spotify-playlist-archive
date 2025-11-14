@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,003 likes - 18 songs - 51 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 11,016 likes - 22 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 | 11 | [FENOMENALE](https://open.spotify.com/track/7Lyp3UJHMJ6w7FP6bRa9Rj) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [FENOMENALE](https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4) | 2:48 |
 | 12 | [Inizialmente Tu](https://open.spotify.com/track/4vdUdncyJWMoLAIDO9WAfT) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [Inizialmente Tu](https://open.spotify.com/album/6eiDHXFrqpEhgF8jqCKQZ3) | 3:05 |
 | 13 | [Maria](https://open.spotify.com/track/4RJVJi20vRPunYATJEYIxQ) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Maria](https://open.spotify.com/album/5qnM379RxrraXflgj7ObDV) | 2:14 |
-| 14 | [Ullallà](https://open.spotify.com/track/1awla02OwE5uKeKSYj7u0R) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Ullallà](https://open.spotify.com/album/6H70unPTHZmictgTc52us2) | 2:52 |
-| 15 | [Amico Lontano](https://open.spotify.com/track/4w3ZbY68eOuvuMJbVJgQHF) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [Amico Lontano](https://open.spotify.com/album/1TBdifXGPgO0WX1vuOZ9BC) | 2:56 |
-| 16 | [PIZZA AMERICANA](https://open.spotify.com/track/5HKQuMckT8eoF6fQGNMhrd) | [AMSI](https://open.spotify.com/artist/2lYoyllLwqdW5mjvgOnLGw) | [PIZZA AMERICANA](https://open.spotify.com/album/1NSgJAde8dr8JJmvbRR5d1) | 2:52 |
+| 14 | [Mademoiselle](https://open.spotify.com/track/0UxG5nZAvywjp9pGrnd9Sr) | [Disco Club Paradiso](https://open.spotify.com/artist/45tjTaIY56HcSaLJLUmlut) | [Mademoiselle](https://open.spotify.com/album/2qDYi2yV5JgoUKKIb2Uu0c) | 2:56 |
+| 15 | [Ullallà](https://open.spotify.com/track/1awla02OwE5uKeKSYj7u0R) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Ullallà](https://open.spotify.com/album/6H70unPTHZmictgTc52us2) | 2:52 |
+| 16 | [Ddoje Criature](https://open.spotify.com/track/5RXYv9glfNLq830PTslMO6) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [Ddoje Criature](https://open.spotify.com/album/74WfrfLXs2O4TIFRUrNd4Y) | 2:57 |
 | 17 | [Nuntannamurà](https://open.spotify.com/track/3DQy4kOBuD0Ypt5wfjaSIo) | [CAINERO](https://open.spotify.com/artist/2T58UeifQnkmAg655hjDCG) | [Nuntannamurà](https://open.spotify.com/album/2oeVaWxbdo92zxDBfYhC3s) | 2:58 |
-| 18 | [Bacio piccolino](https://open.spotify.com/track/0xuxFQeTtJSzRSC9nfzOcT) | [Renato D'Amico](https://open.spotify.com/artist/2u9esjWV33bedmIU35gTsz) | [Bacio piccolino](https://open.spotify.com/album/60HudCYAwR5L5FzLsHoUdy) | 2:30 |
+| 18 | [Amico Lontano](https://open.spotify.com/track/4w3ZbY68eOuvuMJbVJgQHF) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [Amico Lontano](https://open.spotify.com/album/1TBdifXGPgO0WX1vuOZ9BC) | 2:56 |
+| 19 | [PIZZA AMERICANA](https://open.spotify.com/track/5HKQuMckT8eoF6fQGNMhrd) | [AMSI](https://open.spotify.com/artist/2lYoyllLwqdW5mjvgOnLGw) | [PIZZA AMERICANA](https://open.spotify.com/album/1NSgJAde8dr8JJmvbRR5d1) | 2:52 |
+| 20 | [EGO](https://open.spotify.com/track/1f7cBHwgfzbWD2Fyn79p9O) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX) | [EGO](https://open.spotify.com/album/6kV7FtJVjRZqkITbZ6XiDg) | 2:10 |
+| 21 | [FINCHÉ DURA](https://open.spotify.com/track/51S93MaRFJyW8VDLc4nuER) | [eyeline](https://open.spotify.com/artist/1VqRWAml93O9mG6TyMsM6i) | [FINCHÉ DURA](https://open.spotify.com/album/4tpWsXa0f2OVVBGwjtQe8z) | 2:41 |
+| 22 | [Bacio piccolino](https://open.spotify.com/track/0xuxFQeTtJSzRSC9nfzOcT) | [Renato D'Amico](https://open.spotify.com/artist/2u9esjWV33bedmIU35gTsz) | [Bacio piccolino](https://open.spotify.com/album/60HudCYAwR5L5FzLsHoUdy) | 2:30 |
 
-Snapshot ID: `AAAAALWV4+xMSx7NdGdZf3h1S1Ot1Qd7`
+Snapshot ID: `AAAAADbjk0w5LlcRLo4MIUfiiLrEyci0`

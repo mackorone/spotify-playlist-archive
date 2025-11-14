@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/73Q6MSAPXNTKts7AuR5GQU.md) - [plain]
 
 > Alle classics in 1 lijst
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 4,490 likes - 77 songs - 4 hr 31 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 4,489 likes - 77 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "A delicious mix of new songs in high rotation. Cover: Anna von Hausswolff & Ethel Cain",
-  "num_followers": 1942914,
+  "description": "A delicious mix of new songs in high rotation. Cover: Grace Ives",
+  "num_followers": 1942844,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJms6mIYM1H2Ewu1/vh4YkUYdhsb",
+  "snapshot_id": "AAAAAM5ok+8GBX0OxgbrBOhSAT6gk6r7",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:25",
@@ -69,6 +69,42 @@
       "url": "https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My"
     },
     {
+      "added_at": "2025-11-14 02:56:38",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX"
+    },
+    {
+      "added_at": "2025-11-14 02:56:38",
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
+    },
+    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Aging Young Women",
@@ -89,20 +125,36 @@
       "url": "https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2"
     },
     {
-      "added_at": "2025-10-31 04:00:42",
+      "added_at": "2025-11-14 02:56:38",
       "album": {
-        "name": "LOTTO",
-        "url": "https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT"
+        "name": "On s'envoie en l'air",
+        "url": "https://open.spotify.com/album/4a2XzyF9o9Hr3c69EuQejX"
       },
       "artists": [
         {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
         }
       ],
-      "duration_ms": 170370,
-      "name": "baeside k",
-      "url": "https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1"
+      "duration_ms": 177951,
+      "name": "On s'envoie en l'air",
+      "url": "https://open.spotify.com/track/3ueR9lZN5RE88U8WCtDtnw"
+    },
+    {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
       "added_at": "2025-10-03 04:00:45",
@@ -153,6 +205,22 @@
       "url": "https://open.spotify.com/track/6nCDvoALdUsjb2lTJqJLsu"
     },
     {
+      "added_at": "2025-11-14 02:56:38",
+      "album": {
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 231499,
+      "name": "Small Town Joan of Arc",
+      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
+    },
+    {
       "added_at": "2025-11-07 03:44:05",
       "album": {
         "name": "ep 1",
@@ -167,6 +235,58 @@
       "duration_ms": 212403,
       "name": "favorite place",
       "url": "https://open.spotify.com/track/3OoEy74Z2neKejptWR4RIy"
+    },
+    {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
+    },
+    {
+      "added_at": "2025-11-14 02:56:38",
+      "album": {
+        "name": "A Hundred Alibis",
+        "url": "https://open.spotify.com/album/5pBP3gp4Xm7jNUoylvFhhN"
+      },
+      "artists": [
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Loveseat",
+      "url": "https://open.spotify.com/track/3XBycqVB8UDEtEboLU9iJT"
+    },
+    {
+      "added_at": "2025-11-14 02:56:38",
+      "album": {
+        "name": "Liquorice",
+        "url": "https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG"
     },
     {
       "added_at": "2025-10-17 01:52:55",
@@ -201,20 +321,24 @@
       "url": "https://open.spotify.com/track/3MneCEeEwmHI6yG4EucrNI"
     },
     {
-      "added_at": "2025-10-31 04:00:42",
+      "added_at": "2025-11-14 02:56:38",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "Beck n Call",
+        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
         }
       ],
-      "duration_ms": 298783,
-      "name": "My Old Ways",
-      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+      "duration_ms": 203320,
+      "name": "Beck n Call",
+      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -231,6 +355,26 @@
       "duration_ms": 217700,
       "name": "Miss",
       "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
+    },
+    {
+      "added_at": "2025-11-14 02:56:38",
+      "album": {
+        "name": "Push & Pull",
+        "url": "https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ"
+      },
+      "artists": [
+        {
+          "name": "A Good Year",
+          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
+        },
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 199344,
+      "name": "Push & Pull",
+      "url": "https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -267,22 +411,6 @@
     {
       "added_at": "2025-10-31 04:00:42",
       "album": {
-        "name": "One Last Nothing",
-        "url": "https://open.spotify.com/album/7nvCouw3rwh7W2NYkYg4Yb"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 324610,
-      "name": "One Last Nothing",
-      "url": "https://open.spotify.com/track/1PFT6FIVOimQMZSqZXxcHD"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
         "name": "Ego Death At A Bachelorette Party",
         "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
       },
@@ -295,6 +423,22 @@
       "duration_ms": 203710,
       "name": "Good Ol' Days",
       "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
+    },
+    {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "LOTTO",
+        "url": "https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        }
+      ],
+      "duration_ms": 170370,
+      "name": "baeside k",
+      "url": "https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1"
     },
     {
       "added_at": "2025-10-03 04:00:45",
@@ -333,22 +477,6 @@
       "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
     },
     {
-      "added_at": "2025-11-07 03:44:05",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE"
-    },
-    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Navy Blue",
@@ -363,38 +491,6 @@
       "duration_ms": 226373,
       "name": "Upside",
       "url": "https://open.spotify.com/track/46i6oWlLNJVhUPaRnWX6v0"
-    },
-    {
-      "added_at": "2025-10-17 01:52:55",
-      "album": {
-        "name": "The Life You Save",
-        "url": "https://open.spotify.com/album/7fuPhH0QTTl13WgshkTAP6"
-      },
-      "artists": [
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Keep Me in the Dark",
-      "url": "https://open.spotify.com/track/1UXrY8dRPFVkkB8MiwpT3T"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -565,26 +661,6 @@
       "url": "https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8"
     },
     {
-      "added_at": "2025-10-17 01:52:55",
-      "album": {
-        "name": "viscus (feat. FKA twigs)",
-        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 220534,
-      "name": "viscus (feat. FKA twigs)",
-      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
-    },
-    {
       "added_at": "2025-09-19 04:00:37",
       "album": {
         "name": "Bleeds",
@@ -733,54 +809,6 @@
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Tumbleweed",
-        "url": "https://open.spotify.com/album/79Qf7QALzKa8fVpNlO4Ghh"
-      },
-      "artists": [
-        {
-          "name": "Twen",
-          "url": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO"
-        }
-      ],
-      "duration_ms": 137820,
-      "name": "Tumbleweed",
-      "url": "https://open.spotify.com/track/3LcK5jw0MsB1Hu0O0skplj"
-    },
-    {
-      "added_at": "2025-09-26 04:00:25",
-      "album": {
-        "name": "I Wish I Didn\u2019t Waste Your Time",
-        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
-    },
-    {
-      "added_at": "2025-10-17 01:52:55",
-      "album": {
-        "name": "EARWORM",
-        "url": "https://open.spotify.com/album/0oJB399Gh1l7rlzJXbsF85"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 198665,
-      "name": "I KINDA LIKE THAT",
-      "url": "https://open.spotify.com/track/5Xy68999kkCW10igZPCGv5"
-    },
-    {
       "added_at": "2025-09-05 04:00:23",
       "album": {
         "name": "Last Time",
@@ -811,22 +839,6 @@
       "duration_ms": 268410,
       "name": "Yamaha",
       "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
-    },
-    {
-      "added_at": "2025-09-19 04:00:37",
-      "album": {
-        "name": "Ridin' (Deluxe)",
-        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 233051,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
     },
     {
       "added_at": "2025-09-12 00:38:11",

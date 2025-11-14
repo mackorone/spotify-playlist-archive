@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,093 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,098 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Zaymat](https://open.spotify.com/track/47OlWN8ccCht8FVRWJJSOR) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1) | [Zaymat](https://open.spotify.com/album/51yTZZHYx2ZUhG7cltwFj9) | 2:52 |
 | 50 | [Babrio](https://open.spotify.com/track/2biC9PP13QlanDL0Jb1Q20) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [Babrio](https://open.spotify.com/album/6zJ7PQ9Glv74Y7wxsj3xyU) | 3:45 |
 
-Snapshot ID: `AAAAAI9DqVz4THaqQP8bw0JVwSx0AL+a`
+Snapshot ID: `AAAAAP5D2KQT6pNQA6N0o0WIqy5s4V7c`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Schlotte, laurin",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Mika No\u00e9",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1140,6 +1140,24 @@
       "duration_ms": 190792,
       "name": "Achterbahn",
       "url": "https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L"
+    },
+    {
+      "album": {
+        "name": "AIBAMFMD <3",
+        "url": "https://open.spotify.com/album/26r6vXsxamz3QsFpFS7vhA"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "AIBAMFMD <3",
+      "url": "https://open.spotify.com/track/7tdsfCxobjiM7yzACtDaCd"
     },
     {
       "album": {
@@ -8676,7 +8694,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 173269,
       "name": "Fucked Up feat. makko",
       "url": "https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA"
@@ -15189,6 +15207,24 @@
     },
     {
       "album": {
+        "name": "lieblingslied",
+        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "lieblingslied",
+      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
+    },
+    {
+      "album": {
         "name": "liebst du mich noch so wie ich dich ?",
         "url": "https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l"
       },
@@ -15958,7 +15994,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 126101,
       "name": "Marmeladenglas",
       "url": "https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU"
@@ -16740,6 +16776,24 @@
       "duration_ms": 160082,
       "name": "Mond",
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
+    },
+    {
+      "album": {
+        "name": "Monobloc",
+        "url": "https://open.spotify.com/album/5zzXAbbVglZLcLXzfQ8C1S"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "Monobloc",
+      "url": "https://open.spotify.com/track/2IhPaNuIuFIFE7r4eOgOhh"
     },
     {
       "album": {
@@ -20000,7 +20054,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 140678,
       "name": "R\u00e4uber",
       "url": "https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u51f9\u8207\u5c71 (Our Shame)",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u5b8b\u5fb7\u9db4 (Song of Crane)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -1366,6 +1366,28 @@
       "duration_ms": 318763,
       "name": "Finally Home",
       "url": "https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N"
+    },
+    {
+      "album": {
+        "name": "Floating Summer Night (homegrown live)",
+        "url": "https://open.spotify.com/album/5nx8TxN6Zu2QEFRXmdstqm"
+      },
+      "artists": [
+        {
+          "name": "\u5b8c\u7f8e\u5012\u7acb",
+          "url": "https://open.spotify.com/artist/2q5cBeOy6Hfb8VkvNrGsIT"
+        },
+        {
+          "name": "homegrown\u81ea\u5bb6\u7a2e",
+          "url": "https://open.spotify.com/artist/7K1OlJMxZ5W3zrFk3UT3wg"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303750,
+      "name": "Floating Summer Night - homegrown live",
+      "url": "https://open.spotify.com/track/21hFVdrQTlOon9figZ5Ozx"
     },
     {
       "album": {
@@ -3069,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Override!",
+        "url": "https://open.spotify.com/album/25tlbetikHiDQ4Qe7veV2W"
+      },
+      "artists": [
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Robot Revolution",
+      "url": "https://open.spotify.com/track/1oFZdO313TxVIMrurGaaWa"
+    },
+    {
+      "album": {
         "name": "Roche Limit (ft. Soby)",
         "url": "https://open.spotify.com/album/5oP9zYkS3GF8QygXP3bZLd"
       },
@@ -4192,7 +4232,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 258275,
       "name": "Whose House",
       "url": "https://open.spotify.com/track/70WEikzq1VTkxHlgv8gghV"
@@ -4435,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u4e2a\u4eba\u7684\u6d77\u8fb9",
+        "url": "https://open.spotify.com/album/0gv3uZXSM2PxxVpimMqxZ9"
+      },
+      "artists": [
+        {
+          "name": "\u623f\u6771\u7684\u8c93",
+          "url": "https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353949,
+      "name": "\u4e00\u4e2a\u4eba\u7684\u6d77\u8fb9",
+      "url": "https://open.spotify.com/track/1DrQlDUUWu9sK7TyMTuyJz"
+    },
+    {
+      "album": {
         "name": "\u4e00\u500b\u543b\u7684\u6642\u9593 (feat. \u51b0\u7403\u6a02\u5718)",
         "url": "https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa"
       },
@@ -4602,6 +4660,24 @@
       "duration_ms": 226000,
       "name": "\u4e09\u5e74\u5f8c\u7684\u5927\u96ea",
       "url": "https://open.spotify.com/track/5wPSDvBFCJa7vGUy0dw92V"
+    },
+    {
+      "album": {
+        "name": "\u4e09\u5ef3\u96fb\u5f71",
+        "url": "https://open.spotify.com/album/5va093MtdAv7LWpMIehXKz"
+      },
+      "artists": [
+        {
+          "name": "\u7576\u4ee3\u96fb\u5f71\u5927\u5e2b",
+          "url": "https://open.spotify.com/artist/1Zho9gJQQCYaLYKkmWp337"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349980,
+      "name": "\u4e09\u5ef3\u96fb\u5f71",
+      "url": "https://open.spotify.com/track/3GL2cnkJL7L2px1FYipR0H"
     },
     {
       "album": {
@@ -5783,6 +5859,24 @@
     },
     {
       "album": {
+        "name": "\u5080\u5121\u6232",
+        "url": "https://open.spotify.com/album/3IXwJVDEEay9GPOfjkePV7"
+      },
+      "artists": [
+        {
+          "name": "BOOM\uff01\u602a\u7269\u661f\u4eba",
+          "url": "https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "\u5080\u5121\u6232 (Netflix \u5f71\u96c6\u300a\u9ed1\u76d2\u5b50\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/1DafEncDqIufjjpN1fYBWG"
+    },
+    {
+      "album": {
         "name": "\u7d50\u4f34",
         "url": "https://open.spotify.com/album/5P7W9ZOIIManMjXgMuPCbA"
       },
@@ -5888,6 +5982,24 @@
       "duration_ms": 280600,
       "name": "\u5149",
       "url": "https://open.spotify.com/track/16Jwl6WRsN8xvjVz9Tnw7L"
+    },
+    {
+      "album": {
+        "name": "\u971e",
+        "url": "https://open.spotify.com/album/5d3n6qsnhgm1GV53yLk0Zd"
+      },
+      "artists": [
+        {
+          "name": "\u5b8b\u5fb7\u9db4",
+          "url": "https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298875,
+      "name": "\u5149\u5f71",
+      "url": "https://open.spotify.com/track/4q1XzhbnICQTDSQQJ5C8cg"
     },
     {
       "album": {
@@ -7054,6 +7166,24 @@
       "duration_ms": 228857,
       "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
       "url": "https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj"
+    },
+    {
+      "album": {
+        "name": "\u66ae\u591c\u5f90\u884c",
+        "url": "https://open.spotify.com/album/0ijkqmoHUFvMd8K4uY81Mo"
+      },
+      "artists": [
+        {
+          "name": "\u8001\u738b\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337000,
+      "name": "\u5824\u9632",
+      "url": "https://open.spotify.com/track/5DPFPkq8JmAmeGdefTfVqi"
     },
     {
       "album": {
@@ -9402,7 +9532,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 239895,
       "name": "\u6211\u7684\u9748\u9b42\u5df2\u7d93\u9010\u6f38\u559c\u6b61\u4e0a\u4e86\u9019\u88e1",
       "url": "https://open.spotify.com/track/0RhyZR8URV5XzPBLjgqgXF"
@@ -9540,6 +9670,24 @@
       "duration_ms": 200552,
       "name": "\u624b\u6a5f\u9322\u5305\u9470\u5319\u83f8 (Ft. \u76e7\u5ee3\u4ef2)",
       "url": "https://open.spotify.com/track/2DhX6wct6tY8lbZpq5KgXp"
+    },
+    {
+      "album": {
+        "name": "\u628a\u6211\u7684\u5feb\u6a02\u9084\u4f86",
+        "url": "https://open.spotify.com/album/2uV0VTub3VauF6zaeUgvkB"
+      },
+      "artists": [
+        {
+          "name": "GOTA",
+          "url": "https://open.spotify.com/artist/1t3344DpBqbezUv3QIR1DH"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u628a\u6211\u7684\u5feb\u6a02\u9084\u4f86",
+      "url": "https://open.spotify.com/track/2x1RAsprHwwlIVffkwJFLk"
     },
     {
       "album": {
@@ -9974,7 +10122,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 216250,
       "name": "\u661f\u661f\u5728\u8df3\u821e (feat. \u5f35\u7acb\u9577)",
       "url": "https://open.spotify.com/track/1cf33PEfVJS6NBbtOwabCw"
@@ -10450,7 +10598,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 299625,
       "name": "\u6709\u4eba\u5728\u7b49",
       "url": "https://open.spotify.com/track/003Y8j9gLiFrzhj3MmsEjT"
@@ -15104,6 +15252,24 @@
       "duration_ms": 252318,
       "name": "\u98a8",
       "url": "https://open.spotify.com/track/2nwRk2QTUrMPfDcpISEvPY"
+    },
+    {
+      "album": {
+        "name": "\u767e\u614b",
+        "url": "https://open.spotify.com/album/6bbMzWCipXZjd4snpWwWZZ"
+      },
+      "artists": [
+        {
+          "name": "\u9802\u52a0\u96c6\u6703 M.L.C",
+          "url": "https://open.spotify.com/artist/5z5RkPclaGgwE7A15LaVrT"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153616,
+      "name": "\u98a8\u4e2d\u8ffd\u98a8",
+      "url": "https://open.spotify.com/track/6lFoVNrcnUJ3JjwUGh1da2"
     },
     {
       "album": {

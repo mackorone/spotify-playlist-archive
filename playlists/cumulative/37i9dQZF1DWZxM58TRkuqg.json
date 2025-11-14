@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Iwan Fals, Ebiet G. Ade",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Raisa, Barsena Bestandhi",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1343,6 +1343,46 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188062,
+      "name": "Bila",
+      "url": "https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp"
+    },
+    {
+      "album": {
+        "name": "Bila (Live From See You On Wednesday)",
+        "url": "https://open.spotify.com/album/2aKwzPcQ7ndw5Ky9U3sNFw"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Barsena Bestandhi",
+          "url": "https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Bila (feat. Barsena Bestandhi) - Live From See You On Wednesday",
+      "url": "https://open.spotify.com/track/6TAwbjw1LYQYXc5y0J9jKB"
+    },
+    {
+      "album": {
         "name": "Bila Memang Kamu",
         "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
       },
@@ -1799,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "BYE",
+        "url": "https://open.spotify.com/album/3nawUQoRQ9QlaATlotBQNj"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "BYE",
+      "url": "https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH"
+    },
+    {
+      "album": {
         "name": "Cahaya",
         "url": "https://open.spotify.com/album/3XnIcjWBfEuKeLRsL6743o"
       },
@@ -1868,7 +1926,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 237747,
       "name": "Cendana",
       "url": "https://open.spotify.com/track/0PKoCpeBjGdx6TTXPZVLbM"
@@ -2422,7 +2480,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 183013,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic"
@@ -3432,7 +3490,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 186135,
       "name": "Ingatlah Aku Di Sini",
       "url": "https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K"
@@ -4773,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "Lampu Jalan",
+        "url": "https://open.spotify.com/album/1pgpzFXxuEn2OzsFuY3bOk"
+      },
+      "artists": [
+        {
+          "name": "Naura Ayu",
+          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Lampu Jalan",
+      "url": "https://open.spotify.com/track/0i6scCF0UEfJ6rKpXz24Ea"
+    },
+    {
+      "album": {
         "name": "Nonfiksi",
         "url": "https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh"
       },
@@ -5396,6 +5472,24 @@
       "duration_ms": 244137,
       "name": "Mati-Matian",
       "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
+    },
+    {
+      "album": {
+        "name": "Mau Jadi Apa?",
+        "url": "https://open.spotify.com/album/4J0OIjbX95tZ97392u8OeI"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Mau Jadi Apa?",
+      "url": "https://open.spotify.com/track/20Vgi9sX3rOnoUFGaPLQXX"
     },
     {
       "album": {
@@ -6790,7 +6884,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 156631,
       "name": "Raga",
       "url": "https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9"
@@ -6880,7 +6974,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 166560,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ"

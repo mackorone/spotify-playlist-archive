@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 7 hr 51 min
+112 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Liberdade \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/034PgluVteDQlzkkUwcUC1) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Infinito Interno](https://open.spotify.com/album/2cVakOBVsLn6mJFLL0ZBo5) | 3:31 | 2023-03-09 |  |
 | [Longe](https://open.spotify.com/track/4DWfECBAfHMuTpw2NkVHTm) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:13 | 2023-05-18 | 2025-02-20 |
 | [Longe](https://open.spotify.com/track/2GWXYmBvhjblEusppuPMTW) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Toque de Amor](https://open.spotify.com/album/1hBUpJgASOo4ljocpHr3tF) | 3:13 | 2025-02-19 |  |
-| [MALUNGOFORTE.](https://open.spotify.com/track/2v3z1JTUBw1UpsLRa3H6Cm) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 2:08 | 2022-06-04 |  |
+| [MALUNGOFORTE.](https://open.spotify.com/track/0sqjWru1AOoQ86CgONUqKM) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Russo Passapusso](https://open.spotify.com/artist/0Uj3yVCMQpeErRbuJVEele), [Helio Bentes](https://open.spotify.com/artist/3W98HNZqVI7pcoPrziE4b8) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/2eawgQvAxZ5Laen9KDuRaX) | 2:08 | 2025-11-13 |  |
+| [MALUNGOFORTE.](https://open.spotify.com/track/2v3z1JTUBw1UpsLRa3H6Cm) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 2:08 | 2022-06-04 | 2025-11-14 |
 | [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 | 2022-12-02 | 2023-05-20 |
 | [Martim de Sá](https://open.spotify.com/track/5FASTworUcU7zslxYvJRWQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:57 | 2023-05-19 | 2025-02-20 |
 | [Martim de Sá](https://open.spotify.com/track/0M7zrQkS5hb0wvuXmVaU8u) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Toque de Amor](https://open.spotify.com/album/1hBUpJgASOo4ljocpHr3tF) | 3:57 | 2025-02-19 |  |

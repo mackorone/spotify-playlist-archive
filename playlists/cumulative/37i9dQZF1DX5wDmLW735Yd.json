@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sub Focus, Grimes",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Metrik",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2157,6 +2157,32 @@
     },
     {
       "album": {
+        "name": "Believe Again (I Found U)",
+        "url": "https://open.spotify.com/album/38TeLB23wJIwq32bvm0Tq4"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "Believe Again (I Found U)",
+      "url": "https://open.spotify.com/track/7aDEbPXBdGXjwp9DQKN6B1"
+    },
+    {
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/5Vf6v01qChWz8bQpsfXNHj"
       },
@@ -2890,7 +2916,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 137585,
       "name": "Break My Fall",
       "url": "https://open.spotify.com/track/0TLYpWsoh2KJMvjv18kTNK"
@@ -3454,7 +3480,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 187586,
       "name": "Can't Love Me",
       "url": "https://open.spotify.com/track/1tALflD6FaMu5fHeIIUHPy"
@@ -4334,7 +4360,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 183620,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/4H8UCydV1B54wpzkqurvdW"
@@ -4858,7 +4884,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 154532,
       "name": "Darlin' (feat. Sean Paul & Brodie)",
       "url": "https://open.spotify.com/track/3nzc4SgSCinAI09fpGaHxT"
@@ -7278,7 +7304,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 217411,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy"
@@ -12270,7 +12296,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 199310,
       "name": "Love Is The Answer",
       "url": "https://open.spotify.com/track/6a7PmyP5DI0pcxzggmayAW"
@@ -12314,6 +12340,32 @@
       "duration_ms": 248228,
       "name": "Love Will Find Its Way",
       "url": "https://open.spotify.com/track/1sSZehFIbhRKKnpiIIYYvG"
+    },
+    {
+      "album": {
+        "name": "Lunatics & Legends",
+        "url": "https://open.spotify.com/album/3ykaR3X0wfsHG0JFxrmfFP"
+      },
+      "artists": [
+        {
+          "name": "London Elektricity",
+          "url": "https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "Dunk",
+          "url": "https://open.spotify.com/artist/3to9W3JX4kSmj4TEGlKiDS"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257243,
+      "name": "Lovebombs",
+      "url": "https://open.spotify.com/track/0XC1E7JdINwIbX94uT5YkU"
     },
     {
       "album": {
@@ -14542,7 +14594,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 121542,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/3omJaHrNFLXojdXfDiuZr3"
@@ -14866,7 +14918,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
@@ -16901,6 +16953,28 @@
     },
     {
       "album": {
+        "name": "Ride The Energy",
+        "url": "https://open.spotify.com/album/0n5pWSEynI3hx6CgZTlxXX"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216172,
+      "name": "Ride The Energy",
+      "url": "https://open.spotify.com/track/5YarSfIv7zBae8TcMGGSsg"
+    },
+    {
+      "album": {
         "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries)",
         "url": "https://open.spotify.com/album/4fWKmSpytW56kAFC0agOjQ"
       },
@@ -17224,6 +17298,28 @@
       "duration_ms": 305116,
       "name": "Run Sound",
       "url": "https://open.spotify.com/track/5NJQNKmSMsZgkAE6QjOYS5"
+    },
+    {
+      "album": {
+        "name": "Runaway With You",
+        "url": "https://open.spotify.com/album/1udxFZwxVtg1jBUKebcclH"
+      },
+      "artists": [
+        {
+          "name": "Enei",
+          "url": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J"
+        },
+        {
+          "name": "Cameron Hayes",
+          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297848,
+      "name": "Runaway With You",
+      "url": "https://open.spotify.com/track/0GLwjdIo4S1X0kOJLBDZ8i"
     },
     {
       "album": {
@@ -17641,6 +17737,28 @@
     },
     {
       "album": {
+        "name": "Scream My Name",
+        "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
+      },
+      "artists": [
+        {
+          "name": "Georgie Riot",
+          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
+        },
+        {
+          "name": "Sophie-Grace",
+          "url": "https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206774,
+      "name": "Scream My Name",
+      "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
+    },
+    {
+      "album": {
         "name": "Alpha Omega",
         "url": "https://open.spotify.com/album/4RqkoyzwiQiTiemmchAR96"
       },
@@ -17934,7 +18052,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 154971,
       "name": "Shanice (feat. Dr Ofori)",
       "url": "https://open.spotify.com/track/5p5YEgT9w20UI8jJJLSbZU"
@@ -18586,6 +18704,28 @@
       "duration_ms": 160465,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/2jicIbMJAn7grxb0PwaCyd"
+    },
+    {
+      "album": {
+        "name": "So Many Colours",
+        "url": "https://open.spotify.com/album/6nF5H5OjJkS0X2WZtUQEXz"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "So Many Colours",
+      "url": "https://open.spotify.com/track/0HIpQEomgZmd5Kt1XHa4qu"
     },
     {
       "album": {
@@ -19575,6 +19715,24 @@
     },
     {
       "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
+    },
+    {
+      "album": {
         "name": "SUMMER",
         "url": "https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9"
       },
@@ -19782,6 +19940,24 @@
       "duration_ms": 167314,
       "name": "Swerve It",
       "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/1EA86wBxvfN4bmznzhURvd"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Synchronise",
+      "url": "https://open.spotify.com/track/6VNCxBZLzXY3Lgdue2PXwF"
     },
     {
       "album": {
@@ -22714,6 +22890,28 @@
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB"
+    },
+    {
+      "album": {
+        "name": "Whip It",
+        "url": "https://open.spotify.com/album/5hgqjstOqHEAYTqIki8nDn"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223908,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/15QzklBIn8KAndva0wRSHU"
     },
     {
       "album": {

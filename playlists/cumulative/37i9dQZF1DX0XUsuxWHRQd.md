@@ -4,7 +4,7 @@
 
 > New music from Lil Baby, Quavo and G Herbo.
 
-2,555 songs - 5 day 12 hr 32 min
+2,556 songs - 5 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1087,6 +1087,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-01 | 2022-06-18 |
 | [In the A \(feat\. 21 Savage\)](https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:53 | 2024-09-06 | 2024-10-19 |
 | [In The Dark](https://open.spotify.com/track/6l26j7uCiDstBiYTuiaInV) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 3:11 | 2019-05-26\* | 2019-06-15 |
+| [In The Morning \(feat\. Drake\)](https://open.spotify.com/track/124IHGAzY9F3unizZ08iRc) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:54 | 2025-11-13 |  |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-24 | 2021-10-16 |
 | [INDUSTRY GAMES](https://open.spotify.com/track/6ighVlHNMvUaIdwKlJ0hA7) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:16 | 2020-08-14 | 2020-08-30 |
 | [Insane](https://open.spotify.com/track/2meHtZ7N97pJfvTL4hYtfv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 2:49 | 2022-06-03 | 2022-07-30 |

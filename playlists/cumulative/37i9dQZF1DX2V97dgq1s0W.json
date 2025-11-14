@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Saint Harison",
+  "description": "The best voices in R&B. Cover: Summer Walker",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 201882,
       "name": "0 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5gp4fDZhfPDV75DyK1BkdB"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324776,
+      "name": "1-800 Heartbreak (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
     },
     {
       "album": {
@@ -1391,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Heat The Streets Some Mo'",
+        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167965,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
+    },
+    {
+      "album": {
         "name": "Call You",
         "url": "https://open.spotify.com/album/0WOEnrWky87aIMALb1FEUn"
       },
@@ -2018,7 +2058,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 243232,
       "name": "Deus Deus",
       "url": "https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b"
@@ -5029,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Limit",
+        "url": "https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165920,
+      "name": "Limit",
+      "url": "https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t"
+    },
+    {
+      "album": {
         "name": "Little Blue Moon",
         "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
       },
@@ -6241,6 +6299,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146015,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
+    },
+    {
+      "album": {
         "name": "No Feelings",
         "url": "https://open.spotify.com/album/4JUDavAIny5Dww4tFD712w"
       },
@@ -6634,7 +6710,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 208711,
       "name": "Only Happen",
       "url": "https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn"
@@ -7570,7 +7646,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 157261,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap"
@@ -8036,7 +8112,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 142636,
       "name": "Seems 2 Be",
       "url": "https://open.spotify.com/track/0Atgg7bjvJSjWNpDZ241Kj"

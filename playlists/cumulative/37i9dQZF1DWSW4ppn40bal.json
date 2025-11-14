@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 230000,
       "name": "250 hz",
       "url": "https://open.spotify.com/track/6hSTTsafTBFi7jkqfF2edo"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 196000,
       "name": "500 hz",
       "url": "https://open.spotify.com/track/2hqX5Ex3zuwo9Rv9LuB1jk"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 139014,
       "name": "Baby Sleep BN One",
       "url": "https://open.spotify.com/track/6J8DMT0HbyIbUoT7u1B07u"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 195500,
       "name": "Beautiful Pink",
       "url": "https://open.spotify.com/track/4XF936yVsRL4WwIAe6Nvll"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 154000,
       "name": "Brown Dream Noise",
       "url": "https://open.spotify.com/track/2vHP59OnsqJKuwbJCBcnA1"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 137462,
       "name": "Brown Noise - 500 Hz - Cutoff",
       "url": "https://open.spotify.com/track/1a1FejtHrHiz2b3DY6mwCn"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 246352,
       "name": "Brown Noise 110 Hz Soft Q",
       "url": "https://open.spotify.com/track/43AHVJK6VNxeRpTEq7Ms8Q"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 246352,
       "name": "Brown Noise 800 Hz Soft Q",
       "url": "https://open.spotify.com/track/4h7HE6Olqb70jb5UmpR2Pu"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 172000,
       "name": "Brown Noise Dream",
       "url": "https://open.spotify.com/track/4eGCTk4n1GXu9C1keB4ama"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 216218,
       "name": "Brown Noise is made of this, travel the world in your sleep",
       "url": "https://open.spotify.com/track/4eVqgnEzgXDNBB9OJwU9S5"
@@ -2612,6 +2612,24 @@
       "duration_ms": 180411,
       "name": "Brown Noise Sounds",
       "url": "https://open.spotify.com/track/6l8lAkm5VnM9K4UTe5KbFZ"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Spa",
+        "url": "https://open.spotify.com/album/7dAm9gpkAghN9nuMdSxrfX"
+      },
+      "artists": [
+        {
+          "name": "Noyze Freq",
+          "url": "https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187901,
+      "name": "Brown Noise Spa",
+      "url": "https://open.spotify.com/track/1T8LPpzZMrX1CepY2m6TRe"
     },
     {
       "album": {
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Cozy Pink Noise",
       "url": "https://open.spotify.com/track/7MnFe3PPb9ZWbkERlzk9t7"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 129082,
       "name": "Dark Brown Noise",
       "url": "https://open.spotify.com/track/088IGXcssPdYJIJOmZg199"
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 156798,
       "name": "Dark Brown Noise 3",
       "url": "https://open.spotify.com/track/4MNzUq2ASKEgfO93e9l6IP"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 209556,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/0vdgbrDBcd7K2RYe7e2biu"
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-20",
+      "date_removed": null,
       "duration_ms": 126334,
       "name": "Dreamy Pink Noise",
       "url": "https://open.spotify.com/track/5gkiGV7pu6ejpdgIaB8JBj"
@@ -4894,7 +4912,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 134476,
       "name": "Flowing Pink Noise",
       "url": "https://open.spotify.com/track/1VtxGYNZcXdnZnO9p6Fxaj"
@@ -5261,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "White Noizu",
+        "url": "https://open.spotify.com/album/4f7NGXGk8LEF0XZLHyWrYU"
+      },
+      "artists": [
+        {
+          "name": "Noizu Deluxe",
+          "url": "https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Hontoni White Noise",
+      "url": "https://open.spotify.com/track/742apIRA23YNnENap1s4xV"
+    },
+    {
+      "album": {
         "name": "Headphone Noise",
         "url": "https://open.spotify.com/album/2GHfqBCDEGBy0ap6RdFo1E"
       },
@@ -5402,6 +5438,24 @@
       "duration_ms": 218495,
       "name": "In Harmony with Brown Noise",
       "url": "https://open.spotify.com/track/0D74jJ6XzbCWFtu4WlGW8A"
+    },
+    {
+      "album": {
+        "name": "In Somnio",
+        "url": "https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393"
+      },
+      "artists": [
+        {
+          "name": "Zendium",
+          "url": "https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "In Somnio",
+      "url": "https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r"
     },
     {
       "album": {
@@ -6172,7 +6226,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-17",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Ocean Depths",
       "url": "https://open.spotify.com/track/0yA8Vz6KJrpQIFAUbJW9tw"
@@ -6910,7 +6964,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Pink Noise 217Hz",
       "url": "https://open.spotify.com/track/0Xyc1643zBZ5kSHwevhR4x"
@@ -7684,7 +7738,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 169412,
       "name": "Pink Noise Halle Aux Grains",
       "url": "https://open.spotify.com/track/2TDsXh3db0OOw2UVCivB33"
@@ -7792,7 +7846,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 218034,
       "name": "Pink Noise in the Flood Tunnel",
       "url": "https://open.spotify.com/track/6GajeuGo2cCMY3NpbE21Ne"
@@ -7954,7 +8008,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 136328,
       "name": "Pink Noise Moon",
       "url": "https://open.spotify.com/track/2J4zxmGylnG7HLJ486emfj"
@@ -8098,7 +8152,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 192457,
       "name": "Pink Noise Regensturm",
       "url": "https://open.spotify.com/track/2xGl4UKIluuRFMRuCdhLS1"
@@ -8332,7 +8386,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 136000,
       "name": "Pink Ocean",
       "url": "https://open.spotify.com/track/0iFltMWsFTOAJOmikHSy7u"
@@ -8494,7 +8548,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Pink Relaxative",
       "url": "https://open.spotify.com/track/0Q2xNXtrUEWKOORsYd0lmh"
@@ -8530,7 +8584,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Pink Sky",
       "url": "https://open.spotify.com/track/5Fbh018hoA0IQi7SM9CZfs"
@@ -8602,7 +8656,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Pink Sundown",
       "url": "https://open.spotify.com/track/4Dc0wjSmEiKOz0ymExmmkf"
@@ -8728,7 +8782,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Platinum Pink Noise",
       "url": "https://open.spotify.com/track/5HBoYUk0wRJ6ZEQ5GVYqkA"
@@ -8764,7 +8818,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Precious Bedtime",
       "url": "https://open.spotify.com/track/6b50H35ZNObNWB1JTOmwuR"
@@ -9142,7 +9196,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 245352,
       "name": "Rolling Deep",
       "url": "https://open.spotify.com/track/74z73AMsEbOWSffQB4IIHl"
@@ -9747,6 +9801,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Soft Noises",
+        "url": "https://open.spotify.com/album/6jHLUQbTlVpXynGKp7dhc6"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Sleepy Soft Noise",
+      "url": "https://open.spotify.com/track/3b6pTPDhlQqTwxuUhZlUR8"
+    },
+    {
+      "album": {
         "name": "Deep Sleep Brown Noise",
         "url": "https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT"
       },
@@ -9834,6 +9906,24 @@
       "duration_ms": 177586,
       "name": "Slumber With Brown Noise",
       "url": "https://open.spotify.com/track/27uSOqSGbvyDjryyX8ja16"
+    },
+    {
+      "album": {
+        "name": "Smooth & Cozy White Noise",
+        "url": "https://open.spotify.com/album/71x1sgTEau5rFW9zWgVGyy"
+      },
+      "artists": [
+        {
+          "name": "Heavenly Fluff",
+          "url": "https://open.spotify.com/artist/088h0mIu6ZctknUuvWuqGm"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Smooth & Cozy White Noise",
+      "url": "https://open.spotify.com/track/4GmlgTUcOTyRKT1I4NL6ZB"
     },
     {
       "album": {
@@ -10104,6 +10194,24 @@
       "duration_ms": 173127,
       "name": "Soothing Brown Noise 8000Hz",
       "url": "https://open.spotify.com/track/6VYRvM6otDqzhPYTAiuHKb"
+    },
+    {
+      "album": {
+        "name": "Fluffy Winds",
+        "url": "https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U"
+      },
+      "artists": [
+        {
+          "name": "Focus Noise",
+          "url": "https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Soothing Deep",
+      "url": "https://open.spotify.com/track/7onLbJEZjADTmezCnSWND5"
     },
     {
       "album": {
@@ -10392,7 +10500,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 192457,
       "name": "Stormy Ocean Pink Noise",
       "url": "https://open.spotify.com/track/3VQ13NVz6w98nsg3YWJ8XG"
@@ -10446,7 +10554,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 180050,
       "name": "Street Noise - Brown Noise",
       "url": "https://open.spotify.com/track/7iS8aC9Qmet8TyVUqyR4jY"
@@ -10680,7 +10788,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Tranquil Pink Noise",
       "url": "https://open.spotify.com/track/0WyaA3Ul8pDAIfMHo8G3vj"
@@ -10975,6 +11083,96 @@
     },
     {
       "album": {
+        "name": "White Evening Noise",
+        "url": "https://open.spotify.com/album/5m9azpx3Mqj4tOLA2kM7F6"
+      },
+      "artists": [
+        {
+          "name": "Ambientics",
+          "url": "https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "White Night Noise",
+      "url": "https://open.spotify.com/track/1EUTUbuBNWwyVNMr1Jxp9w"
+    },
+    {
+      "album": {
+        "name": "White Noise Sleep Frequencies",
+        "url": "https://open.spotify.com/album/52N8PBq0YZxmu3A5ywct3C"
+      },
+      "artists": [
+        {
+          "name": "A Dreaming Machine",
+          "url": "https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "White Noise asleep on my feet",
+      "url": "https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD"
+    },
+    {
+      "album": {
+        "name": "White Noise Chill",
+        "url": "https://open.spotify.com/album/56vEzMivM0CGfVlqDWIzZD"
+      },
+      "artists": [
+        {
+          "name": "Hypnotronica",
+          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182264,
+      "name": "White Noise Chill",
+      "url": "https://open.spotify.com/track/5hcvK2YKF1cr7cBNKTCKOW"
+    },
+    {
+      "album": {
+        "name": "White Noise for Resting",
+        "url": "https://open.spotify.com/album/536RaT7Jmh5B49XMpLZSAe"
+      },
+      "artists": [
+        {
+          "name": "Dream Fuzz",
+          "url": "https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "White Noise in the Cabin",
+      "url": "https://open.spotify.com/track/2JVO6M02HMNuW4lbWE8ocT"
+    },
+    {
+      "album": {
+        "name": "White Stillness",
+        "url": "https://open.spotify.com/album/0iPB6VzMrzOG2BBVCs2PML"
+      },
+      "artists": [
+        {
+          "name": "Chome",
+          "url": "https://open.spotify.com/artist/7qoGac7BPc1n3vkOSaRCjC"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177347,
+      "name": "White Stillness",
+      "url": "https://open.spotify.com/track/6UKGwtoh2dvrAzYNTqJRqz"
+    },
+    {
+      "album": {
         "name": "Steady Brown Noise Sounds",
         "url": "https://open.spotify.com/album/10TlukHJ5eYF7eftTzFi4D"
       },
@@ -11130,7 +11328,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 164000,
       "name": "Zone Out 400 Hz",
       "url": "https://open.spotify.com/track/5dqbBy7lYDGIMb0GYEmzEs"

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "Crimson Eyes",
+      "url": "https://open.spotify.com/track/5inof0KIoiMYX9rdQsBb0y"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u81d3",
         "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
       },
@@ -686,7 +704,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 89000,
       "name": "PHOENIX PRAYER -TV size ver-",
       "url": "https://open.spotify.com/track/2ZNivi9MHFRMpXFMB74G4V"

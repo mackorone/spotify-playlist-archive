@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Jesus Came Down",
+        "url": "https://open.spotify.com/album/2oN0LRaIJoNjowj0INq1US"
+      },
+      "artists": [
+        {
+          "name": "Thenjiwe Vilakazi",
+          "url": "https://open.spotify.com/artist/5U3OmM44tr4F3Ch7vqyp8F"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273281,
+      "name": "Jesus Came Down",
+      "url": "https://open.spotify.com/track/29OqOvfDaFCUaYwXzH2ILK"
+    },
+    {
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -5992,7 +6010,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 309984,
       "name": "Ukuhlala Kuye - Live",
       "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"

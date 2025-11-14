@@ -3387,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "God's Favorite",
+        "url": "https://open.spotify.com/album/1fPl9VPqzAR5Z2Ce5IegcY"
+      },
+      "artists": [
+        {
+          "name": "Mataya Newton",
+          "url": "https://open.spotify.com/artist/4uIl3HS6qlnmWM3deds3hp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130429,
+      "name": "God's Favorite",
+      "url": "https://open.spotify.com/track/2jcCdk4FEEyXf2sDdiC0qB"
+    },
+    {
+      "album": {
         "name": "God's Not Done",
         "url": "https://open.spotify.com/album/5IJkqU0BaoyVtmOW44rfo7"
       },
@@ -4686,7 +4704,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 354572,
       "name": "Imela (feat. Enitan Adaba)",
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"

@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7nfBxjb99prCqaT3wk87u5\">Samba Jean-Baptiste</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 191655,
+  "num_followers": 191675,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
+        "name": "HM2BB",
+        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
+      },
+      "artists": [
+        {
+          "name": "Indira Elias",
+          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "HM2BB",
+      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
         "name": "Wish You Well / Album",
         "url": "https://open.spotify.com/album/6VOPycS7XmfgA0y43Xd8dq"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 427694,
       "name": "Saint",
       "url": "https://open.spotify.com/track/2JzB9o5dq0KUg5CEBdK2nN"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "HM2BB",
-        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
-      },
-      "artists": [
-        {
-          "name": "Indira Elias",
-          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
-        }
-      ],
-      "duration_ms": 133848,
-      "name": "HM2BB",
-      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
     },
     {
       "added_at": "2025-10-24 19:31:01",

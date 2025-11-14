@@ -4,7 +4,7 @@
 
 > Relax to the sound of classical guitar.
 
-61 songs - 4 hr 7 min
+62 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Mario Castelnuovo\-Tedesco](https://open.spotify.com/artist/28c3Va3dnSLY1av3ym8XT2), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 | 2021-06-28 |  |
 | [Sarabande for Guitar, FP 179](https://open.spotify.com/track/57kjlZb922AMJJKWCfpNLl) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Nash Ensemble](https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7) | [Poulenc: Complete Chamber Music](https://open.spotify.com/album/1wuDEkqo7hR06VieUrIGeB) | 2:46 | 2023-08-04 |  |
 | [Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/track/4ov3xGTdYtaIU6wR5O3khY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [J.S\. Bach: Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/album/5tQEsGSfmYIHmqCiAhhgnk) | 3:05 | 2023-10-06 |  |
+| [Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/track/3PTPfwwyUMhVI2t8sWDXAi) | [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:05 | 2025-11-13 |  |
 | [Sonata giocosa: II\. Andante moderato](https://open.spotify.com/track/7lCykZv6dxrbN7p7GbKxMz) | [Joaquín Rodrigo](https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr), [Marcin Dylla](https://open.spotify.com/artist/12Wd9ttq7EUbesXRqEGhRB) | [Chitarra Giocosa](https://open.spotify.com/album/4hsz409ORqBPBdd9BkpzFr) | 4:19 | 2021-06-28 |  |
 | [The Deer Hunter: Cavatina](https://open.spotify.com/track/0OjeJ8wBPo0AYTMbFp1QBI) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Jason Vieaux](https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO) | [Play](https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h) | 3:45 | 2021-06-28 |  |
 | [The Frog Galliard](https://open.spotify.com/track/3vAlgcCLgVr6VpYzIdwffA) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Christoph Denoth](https://open.spotify.com/artist/4mROVpgaeFTNmKG7dpsg8B) | [Mister Dowland's Midnight](https://open.spotify.com/album/57ywLala59SjhhaFuqHiNd) | 2:10 | 2021-06-28 |  |

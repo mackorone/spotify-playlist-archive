@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia. Emma Nolde in cover.",
+  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia. Marte in cover.",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -560,6 +560,24 @@
       "duration_ms": 149742,
       "name": "CACIARA",
       "url": "https://open.spotify.com/track/1lRWL3L6s6T3EUgcdsFeAl"
+    },
+    {
+      "album": {
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
     },
     {
       "album": {

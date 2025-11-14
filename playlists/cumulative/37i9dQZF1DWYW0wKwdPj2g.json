@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 534782,
       "name": "Amandla - Live",
       "url": "https://open.spotify.com/track/1aouk0cuImwh43TboSr12l"
@@ -1417,6 +1417,28 @@
     },
     {
       "album": {
+        "name": "Praise and Worship (Live)",
+        "url": "https://open.spotify.com/album/6Gwwh8hPZKpX2wKyNLdW5C"
+      },
+      "artists": [
+        {
+          "name": "Sound Of Goshen",
+          "url": "https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW"
+        },
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1230354,
+      "name": "Glory to God (Live)",
+      "url": "https://open.spotify.com/track/23yCRDXfApu8gYJSZV8CkU"
+    },
+    {
+      "album": {
         "name": "Goliathi (Live at Goshen City Church 2023)",
         "url": "https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2"
       },
@@ -1472,6 +1494,24 @@
       "duration_ms": 254163,
       "name": "Good God - Live",
       "url": "https://open.spotify.com/track/2EczWzXO2XGE0vaHjhbWlH"
+    },
+    {
+      "album": {
+        "name": "Goodness Of God (Live at Doxa Deo Tshwane Central)",
+        "url": "https://open.spotify.com/album/6Heb3VsVtgKyc6dwG4FTmw"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267227,
+      "name": "Goodness Of God - Live at Doxa Deo Tshwane Central",
+      "url": "https://open.spotify.com/track/5hmLPjr3EWRHL4IAzFoCKw"
     },
     {
       "album": {
@@ -1840,7 +1880,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 546048,
       "name": "I Know - Live",
       "url": "https://open.spotify.com/track/4NGtFSuxqx4px2MAyYD5y4"

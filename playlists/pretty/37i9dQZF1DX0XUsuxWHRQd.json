@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Baby, Quavo and G Herbo. ",
-  "num_followers": 15847846,
+  "num_followers": 15847729,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEBVEL9csPpkvB2oOYPHWuIDLNM",
+  "snapshot_id": "AAAAAGRxVrFeTZEW/H53W5Jxo0cv47Zw",
   "tracks": [
     {
       "added_at": "2025-11-10 21:02:45",
@@ -175,6 +175,26 @@
       "duration_ms": 138947,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
+    },
+    {
+      "added_at": "2025-11-13 05:00:19",
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 234192,
+      "name": "In The Morning (feat. Drake)",
+      "url": "https://open.spotify.com/track/124IHGAzY9F3unizZ08iRc"
     },
     {
       "added_at": "2025-11-10 21:02:45",

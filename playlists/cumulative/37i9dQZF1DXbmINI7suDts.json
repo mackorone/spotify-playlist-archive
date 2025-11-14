@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Get your spirits up and manage your mood any time of the day. Cover: Kofee Bean",
+  "description": "Get your spirits up and manage your mood any time of the day. Cover: Sheebah",
   "name": "Mutima ",
   "tracks": [
     {
@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Nyweera",
+        "url": "https://open.spotify.com/album/3fjpmzYRV1dh2XNXdYIxuX"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Nyweera",
+      "url": "https://open.spotify.com/track/32fgnccnW2GGN0Sh5tu2cz"
+    },
+    {
+      "album": {
         "name": "Nzikiriza",
         "url": "https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq"
       },
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 204140,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA"

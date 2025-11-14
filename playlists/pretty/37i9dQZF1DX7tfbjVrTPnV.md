@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,812 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,832 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 30 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 |
 | 31 | [Iowa \(Traveling, Pt\. 3\)](https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG) | 4:47 |
 | 32 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 |
-| 33 | [Choctaw Bingo](https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Saint Mary Of The Woods](https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y) | 8:33 |
+| 33 | [Copper Canteen](https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Complicated Game](https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly) | 4:37 |
 | 34 | [Johnson Blvd](https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mountains Of Sorrow, Rivers Of Song \(Deluxe\)](https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx) | 4:15 |
 | 35 | [A Feather's Not A Bird](https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread](https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys) | 3:18 |
 | 36 | [Shine a Different Way](https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Servant of Love](https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e) | 5:17 |
 | 37 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 |
-| 38 | [Copper Canteen](https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Complicated Game](https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly) | 4:37 |
+| 38 | [Choctaw Bingo](https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Saint Mary Of The Woods](https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y) | 8:33 |
 | 39 | [Who You Thought I Was](https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 3:09 |
 | 40 | [Merely Avoiding](https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Shouted, Written Down & Quoted](https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L) | 3:27 |
 | 41 | [Can't Let Go](https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 3:28 |

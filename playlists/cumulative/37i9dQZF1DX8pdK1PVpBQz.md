@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Baby Smith
 
-4,343 songs - 9 day 23 hr 19 min
+4,344 songs - 9 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1642,7 +1642,7 @@
 | [Healing](https://open.spotify.com/track/6VXTwheugAKNTUgASc2rTf) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Healing](https://open.spotify.com/album/3YW5NWjuHOox9msuhFyl57) | 3:25 | 2023-10-11 | 2023-11-23 |
 | [Hear no, Speak no](https://open.spotify.com/track/3Fhy8YFgo9DAOhBBsz3mne) | [Narli](https://open.spotify.com/artist/53PF1XNYEjCjV3nHOXEDoO) | [Hear no, Speak no](https://open.spotify.com/album/6Gn2SYE1BgF0SiZiAjGFGP) | 2:37 | 2023-04-19 | 2023-05-11 |
 | [Heard This Calling](https://open.spotify.com/track/1Vbyh85c1kKWe2Daq9NwfP) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [Heard This Calling](https://open.spotify.com/album/2IALQfr0s4LYREWQxE7aNC) | 5:15 | 2022-06-01 | 2022-06-23 |
-| [Heart Bleeds So Slow](https://open.spotify.com/track/4pjbO2Xvb250YWs6eMdrtH) | [Theeth](https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj) | [Heart Bleeds So Slow](https://open.spotify.com/album/6diXWJtQTpkcnbYADdyb0q) | 2:46 | 2025-09-02 |  |
+| [Heart Bleeds So Slow](https://open.spotify.com/track/4pjbO2Xvb250YWs6eMdrtH) | [Theeth](https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj) | [Heart Bleeds So Slow](https://open.spotify.com/album/6diXWJtQTpkcnbYADdyb0q) | 2:46 | 2025-09-02 | 2025-11-14 |
 | [Heart Full Of Tenderness](https://open.spotify.com/track/2IKFliCQSryEI0rHX3XycS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Heart Full Of Tenderness](https://open.spotify.com/album/0bgATyrFE1D21ryMOyFr6u) | 4:10 | 2023-07-12 | 2023-07-31 |
 | [Heart Full Of Tenderness](https://open.spotify.com/track/39zZaQHjXzYr8IiOOAlZhT) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 4:10 | 2023-07-26 | 2023-08-02 |
 | [Heart Pumps Blood](https://open.spotify.com/track/16J2iE7u869PV4QRa0fY9x) | [Bad Neighbour](https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B) | [Heart Pumps Blood](https://open.spotify.com/album/38tf14Nlk4xBpZhwax3wZ6) | 2:45 | 2024-06-25 | 2024-08-07 |
@@ -3921,6 +3921,7 @@
 | [TOUR PARTY FREESTYLE](https://open.spotify.com/track/5hdwwOakF2q2EnEgZ7SBAS) | [Jupiter Project](https://open.spotify.com/artist/1wH5LoIgKQmq8VhaoP8FZO) | [TOUR PARTY FREESTYLE](https://open.spotify.com/album/6zz5U6dT3IH2mDmTbwxHS5) | 2:24 | 2023-04-19 | 2023-05-11 |
 | [Toxic Traits](https://open.spotify.com/track/1x3U1l5mI0KK0nrRAmXJlC) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 3:39 | 2022-03-09 | 2022-03-31 |
 | [Toyfriend](https://open.spotify.com/track/3QFTTRFU90EHB5B4tmMebo) | [sunbleached](https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP) | [Toyfriend](https://open.spotify.com/album/15vX7MZz8RKLcGh9Puwpcm) | 3:12 | 2022-11-23 | 2022-12-01 |
+| [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [Pash](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-16 | 2022-09-09 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-08 | 2023-03-02 |
 | [Trainspotting](https://open.spotify.com/track/3DM05JaGLdsyusPp4ThbtG) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4) | [Trainspotting](https://open.spotify.com/album/3qjMBkAwYu7cg8Owarm6Ac) | 2:18 | 2022-02-16 | 2022-03-02 |

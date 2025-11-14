@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Manisha Eerabathini
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath Kiran Goparaaju
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,755 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,772 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
-| 2 | [Koyila](https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Koyila](https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z) | 3:52 |
-| 3 | [Naa Praanama](https://open.spotify.com/track/4aWHaOhVZohcuId23MxVFC) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Naa Praanama](https://open.spotify.com/album/2vCR1uAaMVJUh3VOVgp8v4) | 3:17 |
-| 4 | [Premey](https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Premey](https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk) | 4:45 |
+| 1 | [Premey](https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Premey](https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk) | 4:45 |
+| 2 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
+| 3 | [Koyila](https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Koyila](https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z) | 3:52 |
+| 4 | [Naa Praanama](https://open.spotify.com/track/4aWHaOhVZohcuId23MxVFC) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Naa Praanama](https://open.spotify.com/album/2vCR1uAaMVJUh3VOVgp8v4) | 3:17 |
 | 5 | [Chusa Chusa](https://open.spotify.com/track/63r17MDwPquKTBIjhC47tu) | [Rohit Boddapati](https://open.spotify.com/artist/3uMBcVVwdo2AlBH1GMfAie), [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Chusa Chusa](https://open.spotify.com/album/7AphFYJdbcS8VUrML5qUbL) | 4:46 |
 | 6 | [Neetho](https://open.spotify.com/track/2JWW2XxFTitx26C0YzaNEE) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [Neetho](https://open.spotify.com/album/3fpTbL64j34pTYS2rloKOJ) | 3:06 |
 | 7 | [Bangaru](https://open.spotify.com/track/09qjN4zFiZH8lcuINSJ5lk) | [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [Bangaru](https://open.spotify.com/album/51t7QiRHzfXqyiZ3euyglO) | 3:20 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 20 | [Maguva](https://open.spotify.com/track/2asFMnzLmUXIK4aM8sGdgl) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Maguva](https://open.spotify.com/album/2DKW5XKHCVKC94w7VgY7gg) | 2:52 |
 | 21 | [Prasnalu](https://open.spotify.com/track/1jkpUejYSAt1pQj7tBxwfi) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Prasnalu](https://open.spotify.com/album/7c4ZX5f7ZVdKL0HJD0OoYY) | 3:01 |
 | 22 | [O Jaana](https://open.spotify.com/track/6zTE4qILoNBO77vlXxjMym) | [V\. Kiran Kumara](https://open.spotify.com/artist/4Z749KM9HAqKwKhSHZm4jl), [Teja Gorle](https://open.spotify.com/artist/6HuRYV0V9D7J2QdfDBd24X) | [O Jaana](https://open.spotify.com/album/7BcN94l7Ds3MbpmO3fmHcb) | 3:01 |
-| 23 | [Gujjari Gujjari](https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE) | [Singer Prabha](https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo), [Singer Swamy](https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM), [Naveen Ja](https://open.spotify.com/artist/3mYh9viWxcMMFV9x5dK79z) | [Gujjari Gujjari](https://open.spotify.com/album/4LP4EasH1Mvihh2XQ0ZTAn) | 4:16 |
+| 23 | [Gujjari Gujjari](https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE) | [Singer Prabha](https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo), [Naveen Ja](https://open.spotify.com/artist/3mYh9viWxcMMFV9x5dK79z), [Singer Swamy](https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM) | [Gujjari Gujjari](https://open.spotify.com/album/4LP4EasH1Mvihh2XQ0ZTAn) | 4:16 |
 | 24 | [Peru Gurthu Pettukondi](https://open.spotify.com/track/65dMszxbD9jqP2mITfoe58) | [Lady Skavya](https://open.spotify.com/artist/5QeNGb11QgU6msarwbkI2I) | [Peru Gurthu Pettukondi](https://open.spotify.com/album/0japaiVAo5BkeQDWaca83V) | 2:59 |
 | 25 | [Ee Dhooram](https://open.spotify.com/track/05xRro06AoS24cKRabrPMH) | [Nikhita Gurukula](https://open.spotify.com/artist/1XFT4IBVHDkk3Q6N83c0V7), [SS Vardhan](https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL) | [Ee Dhooram](https://open.spotify.com/album/4WHiD2ROlMapOF9yDKejUs) | 3:13 |
 | 26 | [Malli](https://open.spotify.com/track/0628Dj8mPaQkvFDN8dfw9U) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Malli](https://open.spotify.com/album/2uOCZDqhcAnydzgnD2cFsI) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Bujji Pilla](https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Bujji Pilla](https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ) | 4:35 |
 | 75 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 |
 
-Snapshot ID: `AAAAAJD731ck0BLcXWL2v+J7cCBinR7b`
+Snapshot ID: `AAAAAJ5cYFnKqwYCAN8DI9Y8/8mEaZYk`

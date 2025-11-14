@@ -4,7 +4,7 @@
 
 > 
 
-471 songs - 1 day 7 hr 6 min
+472 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2023-01-10 |
 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 | 2024-05-08 | 2024-07-16 |
 | [Bon Bon \- Andrew VanWyngarden Remix](https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bon Bon \(Andrew VanWyngarden Remix\)](https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH) | 5:35 | 2025-01-29 | 2025-09-18 |
+| [Book That You Like](https://open.spotify.com/track/1zBcD224iIgGm3fap7jzyE) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Book That You Like](https://open.spotify.com/album/2Bw9P8yQxbsJ5VDemIHWua) | 4:04 | 2025-11-13 |  |
 | [Boundary Rider](https://open.spotify.com/track/5w9XvpOBv2FviDF7lSV5Kb) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Paul Banks](https://open.spotify.com/artist/6h7Y3QR7IjzAD05Qw5QYO4) | [Boundary Rider](https://open.spotify.com/album/5acfdsTeybq9WNzMStHK3g) | 3:44 | 2025-10-22 |  |
 | [Break Me Down](https://open.spotify.com/track/1TZTHHoSj7OcBIn23pV0SJ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Break Me Down](https://open.spotify.com/album/5GxzwB5MNabNYCjgFX8ml0) | 2:28 | 2024-10-09 | 2025-09-18 |
 | [Bul Bul Bul](https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Bul Bul Bul](https://open.spotify.com/album/4JVtJnEeBkkCUUbrxs1tU8) | 3:28 | 2024-09-10 | 2024-12-13 |

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-693 songs - 1 day 16 hr 47 min
+695 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Boca de Dama](https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Exquisito como el Disgusto](https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP) | 4:23 | 2024-08-23 | 2025-08-01 |
 | [Boca Seca](https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ) | [Pow](https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB) | [Boca Seca](https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn) | 1:47 | 2024-02-29 | 2024-08-17 |
 | [Bola de derribo](https://open.spotify.com/track/3O3LuqcxKhxqQyw3cG4dtC) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd) | [Bola de derribo](https://open.spotify.com/album/4K75zhGw6CrC8pNUWvZkro) | 2:47 | 2022-07-01 | 2022-07-15 |
+| [Bosque Gris](https://open.spotify.com/track/5ROBySV5NOHHoLxZ9dLhK7) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Bosque Gris](https://open.spotify.com/album/0HOvdaietx0LNJodu9VOMy) | 5:23 | 2025-11-13 |  |
 | [Botas encontradas](https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Que te iba a Decir](https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr) | 6:21 | 2024-08-16 | 2025-08-01 |
 | [Botella](https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6) | [Botella](https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi) | 2:12 | 2024-08-23 |  |
 | [Brillo](https://open.spotify.com/track/5Mvi4VJVhPKPn3OxumkRI6) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Brillo](https://open.spotify.com/album/5GHe6nkqz9cE4dS76BmPuR) | 4:20 | 2022-06-03 | 2022-07-29 |
@@ -216,6 +217,7 @@
 | [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 | 2024-01-25 |  |
 | [Equipaje](https://open.spotify.com/track/3BpS6Ow1G7TgaNkCVEE23H) | [Toby Deltin](https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr) | [Equipaje](https://open.spotify.com/album/5LPnw7W7fQcPbttK9RldF3) | 4:23 | 2022-07-01 | 2022-07-21 |
 | [Era un Día Perfecto](https://open.spotify.com/track/2p4q16NmSsr8vobCRfigQl) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC), [Chary Loquero](https://open.spotify.com/artist/2js5TqocdHmmCV22px3iDE) | [Era un Día Perfecto](https://open.spotify.com/album/2I4sJxvwWdkpeIJ6Y8UboE) | 2:58 | 2022-06-03 | 2022-07-25 |
+| [Es para Vos](https://open.spotify.com/track/23pAO9HxQ11FI2wp2me3HP) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [Nuestra Forma de Bailar](https://open.spotify.com/album/2xMWlEJixvfyFGNlxmPSef) | 2:37 | 2025-11-13 |  |
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-07-15 | 2022-07-20 |
 | [Escorpión](https://open.spotify.com/track/3zAZ2WVP5IOQx9mX7spd9f) | [Sueño Azul](https://open.spotify.com/artist/0AbJsFRfN5wTdbvA8hRfzL) | [Abismo](https://open.spotify.com/album/4ppNBiUfwrULt33mJfejJq) | 3:25 | 2023-08-18 | 2023-09-16 |
 | [Escurridiza](https://open.spotify.com/track/5wLMgRfTU6darBQ2X1DkeN) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [El Resto de los Días](https://open.spotify.com/album/0XqoGBuZ30uBpXlfBlSQx5) | 3:20 | 2022-07-01 | 2023-10-27 |

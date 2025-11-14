@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Akhir Cerita Cinta",
+      "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
+    },
+    {
+      "album": {
         "name": "Akhir Tak Bahagia",
         "url": "https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 240800,
       "name": "Dirimu Yang Dulu",
       "url": "https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7"

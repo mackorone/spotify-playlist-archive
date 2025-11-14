@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Mon Laferte
 
-505 songs - 1 day 2 hr 24 min
+507 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2023-03-17 | 2023-04-15 |
 | [CUANDO HABLES CON ÉL](https://open.spotify.com/track/3HwOh611McmotNJOLEb66y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:05 | 2025-05-30 |  |
 | [Cuando La Noche Está Fría](https://open.spotify.com/track/3r3DLqM43NMEYhWYL15uOt) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cuando La Noche Está Fría](https://open.spotify.com/album/4T7Q0lmKcx7dHtiUAozZtA) | 2:43 | 2023-03-24 | 2023-07-22 |
+| [Cuando Será](https://open.spotify.com/track/5UWfxgqEHjkJPrYKpO20jy) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Cuando Será](https://open.spotify.com/album/2QxzI2B1jLILTDC4yPtpaG) | 2:38 | 2025-11-13 |  |
 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuando Te Dejan De Querer](https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0) | 2:35 | 2025-02-28 | 2025-05-17 |
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-07-28 | 2023-09-23 |
 | [Cuesta Amarte](https://open.spotify.com/track/4DGZh7uAyj4s7zaGqAGNHR) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuesta Amarte](https://open.spotify.com/album/2iZl32x6FhDIVsCbJOvPSK) | 2:21 | 2024-04-12 | 2024-05-11 |
@@ -204,6 +205,7 @@
 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 | 2024-07-19 | 2024-12-14 |
 | [GALA Y DALÍ](https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [GALA Y DALÍ](https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc) | 2:47 | 2024-03-29 | 2024-06-08 |
 | [Golpes Contra Las Paredes](https://open.spotify.com/track/4pbOoaHqU4xaxqgjNZQunP) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Golpes Contra Las Paredes](https://open.spotify.com/album/7dz4YX7KleW1rR5YQInKog) | 3:10 | 2023-11-24 | 2024-02-08 |
+| [Gracias](https://open.spotify.com/track/3WN3NDopqbJbYugYds7cQ8) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Gracias](https://open.spotify.com/album/7xHrrovWnL4xpFsNx9m3Al) | 2:58 | 2025-11-13 |  |
 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 | 2024-02-09 | 2024-12-14 |
 | [Gran Día](https://open.spotify.com/track/31zvQazbahCmdyPanbUWse) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Gran Día](https://open.spotify.com/album/7zDXEU4nyXHA193wcfXjfZ) | 3:13 | 2024-04-26 | 2024-12-14 |
 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 | 2023-03-17 | 2023-10-30 |
@@ -323,7 +325,7 @@
 | [Nada igual](https://open.spotify.com/track/0f6YHD5KAWTJvuVZYZXQJL) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [He vuelto a casa](https://open.spotify.com/album/5xCuw694nRXodTPQsHICcM) | 5:08 | 2023-11-10 | 2023-11-21 |
 | [Nada Igual](https://open.spotify.com/track/60YobeMFdejmNpZmhog1Bi) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [He Vuelto a Casa](https://open.spotify.com/album/0h0m1KcrZqTVQNkXP7XDLm) | 5:08 | 2023-11-10 | 2023-11-25 |
 | [Nadie Me Vuelve A Joder](https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Nadie Me Vuelve A Joder](https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr) | 2:41 | 2023-03-24 | 2023-07-22 |
-| [Nadie se muere de un mal de amor](https://open.spotify.com/track/6zbWrAhDcbbBBhdTjMlNNJ) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Nadie se muere de un mal de amor](https://open.spotify.com/album/7CLYk8EN3Iv2LWDj4OtYFB) | 2:58 | 2025-08-01 |  |
+| [Nadie se muere de un mal de amor](https://open.spotify.com/track/6zbWrAhDcbbBBhdTjMlNNJ) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Nadie se muere de un mal de amor](https://open.spotify.com/album/7CLYk8EN3Iv2LWDj4OtYFB) | 2:58 | 2025-08-01 | 2025-11-14 |
 | [Netflix & Chill](https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Netflix & Chill](https://open.spotify.com/album/6ifGExbAC6E7OlfRiwMx7U) | 2:44 | 2023-03-17 | 2023-05-06 |
 | [Ni Feliz Ni Triste](https://open.spotify.com/track/7gVjCWszGK1EsGaqpfGlZX) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Alta Fidelidad: El Mixtape](https://open.spotify.com/album/42o7ybB55bGnKbfv9nLuhb) | 2:46 | 2025-07-11 | 2025-10-18 |
 | [Niña Mía](https://open.spotify.com/track/2zLl44y8k324ML18Jcpre8) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [No Le Creas a Tu Cabeza \(Cuando T Diga Que No Mereces Eso Que Tú Hiciste Realidad\)](https://open.spotify.com/album/51B03yAKFGkkk2uFFkJDeI) | 2:30 | 2025-05-23 | 2025-07-19 |
@@ -397,7 +399,7 @@
 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 | 2023-04-28 | 2023-05-13 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-03-17 | 2023-04-22 |
 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 | 2025-09-26 |  |
-| [Q.E.P.D.](https://open.spotify.com/track/4eOuNXs59t1ISTPLgoqviY) | [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Q.E.P.D.](https://open.spotify.com/album/0T9xjCWDGiGMUzkwSUTM40) | 3:00 | 2025-09-05 |  |
+| [Q.E.P.D.](https://open.spotify.com/track/4eOuNXs59t1ISTPLgoqviY) | [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Q.E.P.D.](https://open.spotify.com/album/0T9xjCWDGiGMUzkwSUTM40) | 3:00 | 2025-09-05 | 2025-11-14 |
 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-05-23 |  |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-14 | 2024-02-10 |
 | [Que Vuelva](https://open.spotify.com/track/4rcpIZPn98q2yRwvTFZsuG) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Que Vuelva](https://open.spotify.com/album/0Cf2276QwJGQdF7D3xhCpF) | 2:30 | 2024-09-20 | 2024-11-08 |

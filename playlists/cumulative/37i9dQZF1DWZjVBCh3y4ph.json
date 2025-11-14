@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
+  "description": "Les hits zouk & kompa du moment. Photo : Mik L x Nesly",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 182049,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7hiM6YF0fW8EbSw2j4iOSf"
@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "Condamn\u00e9",
+        "url": "https://open.spotify.com/album/5td7pfaLpn96MRBbIcrnmc"
+      },
+      "artists": [
+        {
+          "name": "KOKE\u00cfNEJTD",
+          "url": "https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Condamn\u00e9",
+      "url": "https://open.spotify.com/track/6Ih8EcMC6qReJ9tKz6WIYV"
+    },
+    {
+      "album": {
         "name": "Continu\u00e9 gard\u00e9",
         "url": "https://open.spotify.com/album/77slPqHtITdgg4b5874Mfq"
       },
@@ -1412,7 +1434,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 193720,
       "name": "DONNE-MOI TOUT",
       "url": "https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM"
@@ -1434,6 +1456,24 @@
       "duration_ms": 200347,
       "name": "DOUBABY",
       "url": "https://open.spotify.com/track/2rkpaD7yXJfPLnp8GOfBS9"
+    },
+    {
+      "album": {
+        "name": "Doucement",
+        "url": "https://open.spotify.com/album/0H067QWW7nJN9UROzTlVh8"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207374,
+      "name": "Doucement",
+      "url": "https://open.spotify.com/track/51407X8WA1awlUT9rARW1U"
     },
     {
       "album": {
@@ -1714,6 +1754,28 @@
       "duration_ms": 209231,
       "name": "ENKONDISYON\u00c8L",
       "url": "https://open.spotify.com/track/0GvU1gb0o2cd20XYirQsun"
+    },
+    {
+      "album": {
+        "name": "ENL\u00c8VE TOUT",
+        "url": "https://open.spotify.com/album/7zHCVP7WI2f2RlZ64VP4gD"
+      },
+      "artists": [
+        {
+          "name": "Nesly",
+          "url": "https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L"
+        },
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131707,
+      "name": "ENL\u00c8VE TOUT",
+      "url": "https://open.spotify.com/track/46L28MTOvLiVgQK6hdJzXF"
     },
     {
       "album": {
@@ -3702,7 +3764,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 204346,
       "name": "Nina",
       "url": "https://open.spotify.com/track/06Gk0XFtdWi0IgZ62nKfoH"

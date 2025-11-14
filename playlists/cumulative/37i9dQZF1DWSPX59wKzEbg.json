@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "One Voice At Christmas",
+        "url": "https://open.spotify.com/album/3iUdj01da7x8CWOtgT1FIU"
+      },
+      "artists": [
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        },
+        {
+          "name": "Libera Boys Choir",
+          "url": "https://open.spotify.com/artist/01GaB2c6sxYztDuahM22Oq"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7vUNAnwqyXltVW22aPOxPo"
+    },
+    {
+      "album": {
         "name": "Musical Gifts from Joshua Bell and Friends",
         "url": "https://open.spotify.com/album/0YOdrzckghjEdWcBvXRLd8"
       },

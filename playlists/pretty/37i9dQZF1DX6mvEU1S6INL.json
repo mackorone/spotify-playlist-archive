@@ -915,6 +915,22 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 240559,
+      "name": "Love's The Only Way",
+      "url": "https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 183760,
       "name": "She's Casual",
       "url": "https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Love's The Only Way",
-      "url": "https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM"
     },
     {
       "added_at": "2025-02-14 15:17:16",

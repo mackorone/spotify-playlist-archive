@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/13D2CoRwXl97xpKUl7Ijh8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        },
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173848,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/34nhR5m1ASOnTdMAEMk8go"
+    },
+    {
+      "album": {
         "name": "Hearts Lust",
         "url": "https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj"
       },
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 177740,
       "name": "Curse",
       "url": "https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel"
@@ -1540,6 +1562,28 @@
       "duration_ms": 134750,
       "name": "Da bist du",
       "url": "https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF"
+    },
+    {
+      "album": {
+        "name": "DAME DE PIQUE",
+        "url": "https://open.spotify.com/album/5EmLiEhLwKmA8HZaYGEoXE"
+      },
+      "artists": [
+        {
+          "name": "Mia Oud",
+          "url": "https://open.spotify.com/artist/65AflfF9AgRyhp7Dpc2yGD"
+        },
+        {
+          "name": "QUARTZ",
+          "url": "https://open.spotify.com/artist/6IUYieqhxuuDEMav8i1yiV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "DAME DE PIQUE",
+      "url": "https://open.spotify.com/track/0N9qqWHtdzlvTwPyeappjH"
     },
     {
       "album": {
@@ -3482,7 +3526,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 164966,
       "name": "I Just Wanna Turn It Up",
       "url": "https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW"
@@ -4912,6 +4956,24 @@
       "duration_ms": 166467,
       "name": "more light",
       "url": "https://open.spotify.com/track/6qp9ZDjiBv1sAO15FDNRpB"
+    },
+    {
+      "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
     },
     {
       "album": {
@@ -7818,7 +7880,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 225099,
       "name": "Weird Kid",
       "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"

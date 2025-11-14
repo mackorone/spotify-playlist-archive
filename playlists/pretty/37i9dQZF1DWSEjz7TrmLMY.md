@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > I❤️CHUGGIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,866 likes - 26 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,888 likes - 26 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 25 | [RIP DON CAMERINO](https://open.spotify.com/track/5n42upHmmAYmbJCDugBwTl) | [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c), [Freddy Moreno](https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf), [GlobalBoy Da Glowop](https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq), [Ca$h300](https://open.spotify.com/artist/2ibj4Ar8ndNTRSzDDpZjv2) | [RIP DON CAMERINO](https://open.spotify.com/album/38qlc2II1sj2wdvMmjL0AX) | 1:48 |
 | 26 | [Triplemania](https://open.spotify.com/track/6YD7PgNVokQKK0UXy9uD9x) | [Freddy Moreno](https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf), [SONIDO MARCIANO](https://open.spotify.com/artist/4XIGS7MdRnmnlh4EEIf4A0) | [Triplemania](https://open.spotify.com/album/0dUbrj3ojxw0SLhDqz2TGy) | 3:30 |
 
-Snapshot ID: `AAAAAMILUb+mwnSDkKBvcdm37i+4f3X0`
+Snapshot ID: `AAAAAMyhLTnb3aPyEukCvctyGk8xIcJR`

@@ -4,7 +4,7 @@
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-44 songs - 2 hr 8 min
+48 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,13 @@
 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 | 2025-11-10 |  |
 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 | 2025-02-11 | 2025-11-11 |
 | [Come mare](https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Come mare](https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5) | 2:53 | 2025-02-11 | 2025-11-11 |
+| [Ddoje Criature](https://open.spotify.com/track/5RXYv9glfNLq830PTslMO6) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [Ddoje Criature](https://open.spotify.com/album/74WfrfLXs2O4TIFRUrNd4Y) | 2:57 | 2025-11-13 |  |
 | [Diamanti nel fango](https://open.spotify.com/track/3pa0WX5y6IoW3tIxyV005W) | [OrioN](https://open.spotify.com/artist/7IF4qyFcCGkrYb5dbMecQG) | [Diamanti nel fango](https://open.spotify.com/album/2T2dLo2wiHBLqst8gBHAhN) | 3:10 | 2025-02-11 | 2025-11-11 |
 | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL) | 2:57 | 2025-02-11 | 2025-11-11 |
+| [EGO](https://open.spotify.com/track/1f7cBHwgfzbWD2Fyn79p9O) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX) | [EGO](https://open.spotify.com/album/6kV7FtJVjRZqkITbZ6XiDg) | 2:10 | 2025-11-13 |  |
 | [FENOMENALE](https://open.spotify.com/track/7Lyp3UJHMJ6w7FP6bRa9Rj) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [FENOMENALE](https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4) | 2:48 | 2025-11-11 |  |
 | [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 | 2025-02-11 | 2025-11-11 |
+| [FINCHÉ DURA](https://open.spotify.com/track/51S93MaRFJyW8VDLc4nuER) | [eyeline](https://open.spotify.com/artist/1VqRWAml93O9mG6TyMsM6i) | [FINCHÉ DURA](https://open.spotify.com/album/4tpWsXa0f2OVVBGwjtQe8z) | 2:41 | 2025-11-13 |  |
 | [FLASHBACK](https://open.spotify.com/track/1r3To4NjUA5ChvN3SpI3Vw) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY) | [FLASHBACK](https://open.spotify.com/album/08inxH81vpwObZ4BBD1uCm) | 2:51 | 2025-02-11 | 2025-11-11 |
 | [Forse Per Sempre](https://open.spotify.com/track/1eoJIBLBrWDrkFxcN9YGXn) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Forse Per Sempre](https://open.spotify.com/album/0SdxqbeUd7cOTRkP3kJdRH) | 3:02 | 2025-02-11 | 2025-11-11 |
 | [Goodbye \(voglio good vibes\)](https://open.spotify.com/track/408NzSks0G1KXAcQMr2VvF) | [Maria Tomba](https://open.spotify.com/artist/37zHkEzE18MxYD5Mg1Hc69) | [Goodbye \(voglio good vibes\)](https://open.spotify.com/album/7iUzTmCb5Q9j4XkQ00Rp7r) | 2:22 | 2025-02-11 | 2025-11-11 |
@@ -28,6 +31,7 @@
 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 | 2025-02-11 | 2025-11-11 |
 | [Laguna](https://open.spotify.com/track/0L7oxMR89ji7A6htHnPR8L) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Laguna](https://open.spotify.com/album/5W4eH1naXtnfhw3f93qB2V) | 3:08 | 2025-11-10 |  |
 | [Luoghi Perduti](https://open.spotify.com/track/0buQEirKTKRWP0rPK4NaDl) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Luoghi Perduti](https://open.spotify.com/album/1XlyOWkPvZd9mnUjhFcKLG) | 3:02 | 2025-11-10 |  |
+| [Mademoiselle](https://open.spotify.com/track/0UxG5nZAvywjp9pGrnd9Sr) | [Disco Club Paradiso](https://open.spotify.com/artist/45tjTaIY56HcSaLJLUmlut) | [Mademoiselle](https://open.spotify.com/album/2qDYi2yV5JgoUKKIb2Uu0c) | 2:56 | 2025-11-13 |  |
 | [Maria](https://open.spotify.com/track/4RJVJi20vRPunYATJEYIxQ) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Maria](https://open.spotify.com/album/5qnM379RxrraXflgj7ObDV) | 2:14 | 2025-11-10 |  |
 | [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 | 2025-11-10 |  |
 | [Mon Amour](https://open.spotify.com/track/32MSyU9DbEBSmUGQWJm9Q4) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Mon Amour](https://open.spotify.com/album/1k9M6MbGeVeSmDCB5BRKix) | 2:17 | 2025-11-10 |  |

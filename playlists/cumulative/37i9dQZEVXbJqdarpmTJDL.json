@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 195345,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 171323,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/3DUb10VKSNh0dVG8ZEszNn"
@@ -8108,7 +8108,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 165148,
       "name": "C'EST LA VIE",
       "url": "https://open.spotify.com/track/24lFkOGD335Gqix1VDFHYH"
@@ -24632,7 +24632,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -32946,7 +32946,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 172800,
       "name": "Normal",
       "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
@@ -34440,7 +34440,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 269314,
       "name": "Ores Mikres",
       "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
@@ -35928,6 +35928,28 @@
       "duration_ms": 189656,
       "name": "Party",
       "url": "https://open.spotify.com/track/4pDfbeAinmAjEoxwIpaNho"
+    },
+    {
+      "album": {
+        "name": "Party & Bullshit",
+        "url": "https://open.spotify.com/album/24d9gFjuSMXb95TkG1D8jS"
+      },
+      "artists": [
+        {
+          "name": "Moose",
+          "url": "https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC"
+        },
+        {
+          "name": "Display",
+          "url": "https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138012,
+      "name": "Party & Bullshit",
+      "url": "https://open.spotify.com/track/5GKXXZjNSXszbOYQjZNlyu"
     },
     {
       "album": {
@@ -41744,7 +41766,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 260209,
       "name": "Sinthikes",
       "url": "https://open.spotify.com/track/3aMmyk82Hs36APmNoEM0ZJ"
@@ -48674,7 +48696,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 181224,
       "name": "Valaoritou",
       "url": "https://open.spotify.com/track/1qnGRggChnWJ6FWM2FRL7n"
@@ -50640,7 +50662,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

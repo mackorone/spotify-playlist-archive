@@ -948,7 +948,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 193101,
       "name": "Dear Maria",
       "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
@@ -3690,6 +3690,24 @@
       "duration_ms": 184055,
       "name": "Separate Cars",
       "url": "https://open.spotify.com/track/7hwOnTyzAl6Jf8XIKEKv2A"
+    },
+    {
+      "album": {
+        "name": "Time Jumper",
+        "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
+      },
+      "artists": [
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "She Needs Lovin' Too",
+      "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
     },
     {
       "album": {

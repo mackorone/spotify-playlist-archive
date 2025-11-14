@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-339 songs - 16 hr 45 min
+340 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,12 +153,13 @@
 | [If I Have To](https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Morane](https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB) | [If I Have To](https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID) | 4:06 | 2024-11-14 | 2025-02-08 |
 | [ilomilo](https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q) | [MBNN](https://open.spotify.com/artist/0ZXntjSej6WUvpEMkRgwKJ), [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [ilomilo](https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY) | 3:01 | 2022-09-15 | 2022-11-17 |
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2022-09-15 | 2024-03-21 |
-| [In This Life](https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [In This Life](https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA) | 2:41 | 2025-02-20 |  |
+| [In This Life](https://open.spotify.com/track/0JSYFP3oIBhjM85ovg8rk8) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [In This Life](https://open.spotify.com/album/3rlvFy9cXkI3Dq5lj7P7nA) | 2:41 | 2025-02-20 | 2025-11-14 |
 | [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-10-21 | 2024-12-15 |
 | [Inside My Love](https://open.spotify.com/track/35Z92uTzX4sfUPx4WUACVh) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/1Q0eIT8icImeOZOFv2hggZ) | 2:28 | 2024-03-21 | 2024-04-19 |
 | [Inside My Love](https://open.spotify.com/track/47yLW6AY0mHHVMKlTGssZj) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Inside My Love](https://open.spotify.com/album/2OisRBCsbL1WNwFmenCQbR) | 2:28 | 2024-07-26 | 2024-12-13 |
 | [Is It All](https://open.spotify.com/track/010l3mhzEoYzVy1XuOJSPK) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/3mS24Mj9B2t4VekyKjko2c) | 2:55 | 2023-05-18 | 2023-06-28 |
 | [Is It All](https://open.spotify.com/track/1x1x0iaQx8peMU7wYVxfXH) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/4fc5iBGvs6R2JP7JHZddS5) | 2:55 | 2023-05-18 | 2024-12-13 |
+| [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 | 2025-11-06 |  |
 | [Jameela \- Bolier Remix](https://open.spotify.com/track/6fYlQCa2G8euJYgaIJa5ha) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD) | [Jameela \(Bolier Remix\)](https://open.spotify.com/album/77fkSbSnSPtcStsBFoL1Kx) | 3:34 | 2024-07-26 | 2024-08-02 |
 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 | 2024-06-20 | 2025-09-05 |
 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 | 2023-04-06 | 2024-02-08 |

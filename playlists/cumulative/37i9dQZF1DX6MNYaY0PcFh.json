@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 190869,
       "name": "DUWML",
       "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
@@ -1932,6 +1932,32 @@
       "duration_ms": 190080,
       "name": "feel it yet? - P\u00ecjus Remix",
       "url": "https://open.spotify.com/track/7vOuN0g6feJQI6TaGYA8uB"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "PRESTi",
+          "url": "https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc"
+        },
+        {
+          "name": "CLAVIS 7EVEN",
+          "url": "https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210957,
+      "name": "Feel The Beat",
+      "url": "https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp"
     },
     {
       "album": {
@@ -4196,6 +4222,24 @@
       "duration_ms": 263246,
       "name": "No Name Groove",
       "url": "https://open.spotify.com/track/44m3n7H0Fn7FrxFi8rfQAf"
+    },
+    {
+      "album": {
+        "name": "No Paint",
+        "url": "https://open.spotify.com/album/4QE6c8zOdkPUAN0MEE1xox"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104413,
+      "name": "No Paint",
+      "url": "https://open.spotify.com/track/01WpbxfBQz4Fa5dJ8RCfPE"
     },
     {
       "album": {
@@ -6604,7 +6648,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 179130,
       "name": "Wicked & Crisp",
       "url": "https://open.spotify.com/track/5Jbvdqlo0feBp4uwB88yPW"

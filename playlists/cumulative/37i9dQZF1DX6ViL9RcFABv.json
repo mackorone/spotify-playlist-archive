@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma edi\u00e7\u00e3o especial de Pop PT, com a co-curadoria \u00fanica de Diogo Pi\u00e7arra.",
+  "description": "Uma playlist de pura alma pop! Foto: NAPA, Jovem Dionisio",
   "name": "Pop PT",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 154177,
       "name": "1,2,3",
       "url": "https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 210645,
       "name": "Algu\u00e9m Real A\u00ed?",
       "url": "https://open.spotify.com/track/69WLTpCM5wiPAIctk3Hv3X"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 224478,
       "name": "Amigos Coloridos",
       "url": "https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 165152,
       "name": "Call You Again",
       "url": "https://open.spotify.com/track/4n5jhHApCFZ0JqopEcsu7d"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 225132,
       "name": "CAR\u00cdSSIMA",
       "url": "https://open.spotify.com/track/5er4sHzf4bV5DUes8WTEhK"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 206700,
       "name": "casa",
       "url": "https://open.spotify.com/track/3UQ5rLaounAewIDVVEgStb"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 160880,
       "name": "Cinco e Meia",
       "url": "https://open.spotify.com/track/6KGVT9dt9Avdo3uKXWt2me"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 184137,
       "name": "Como Tens Estado",
       "url": "https://open.spotify.com/track/2gEhamLKrRmJJqanA7uVm1"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 169800,
       "name": "Como \u00c9",
       "url": "https://open.spotify.com/track/1RDHqgjj1CFnHevSWYs7X7"
@@ -1673,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Culpa",
+        "url": "https://open.spotify.com/album/0H0mlWjw55S9P9c4VbnVEZ"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208357,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/7IlNHRy6LWaMGFBPLfHMTu"
+    },
+    {
+      "album": {
         "name": "SOZINHA E MAL ACOMPANHADA",
         "url": "https://open.spotify.com/album/6OmOFBmtboJKXXqTpXCZBi"
       },
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 204578,
       "name": "Dava A Volta Ao Mundo",
       "url": "https://open.spotify.com/track/09qfLOE6qHLUoBediT6JXu"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 185386,
       "name": "Ela n\u00e3o sabe, pois n\u00e3o?",
       "url": "https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s"
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 216569,
       "name": "Garota (feat. Marisa Liz)",
       "url": "https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 147096,
       "name": "Habituada",
       "url": "https://open.spotify.com/track/1VxyhNwfIJoIhLvbj6UgPw"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 196030,
       "name": "Hora de Ponta",
       "url": "https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6"
@@ -3225,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "I Can Still Love",
+        "url": "https://open.spotify.com/album/12jgmWssKQ0wT9dRUUB5py"
+      },
+      "artists": [
+        {
+          "name": "Fingertips",
+          "url": "https://open.spotify.com/artist/4h2l7TxC4HEuikgsHG6wM0"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252600,
+      "name": "I Can Still Love",
+      "url": "https://open.spotify.com/track/2In8B9cHgnwPilUSOSzbmJ"
+    },
+    {
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/2EhWvwxCdHOLcIZbrylw8o"
       },
@@ -3258,7 +3294,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 178615,
       "name": "ikea",
       "url": "https://open.spotify.com/track/7DdmajSWbiJO5AmNcWDcDf"
@@ -3582,7 +3618,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 170209,
       "name": "Lembra Voc\u00ea",
       "url": "https://open.spotify.com/track/5nbttiVvzyybchDJXyNT71"
@@ -3790,7 +3826,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Maria do Caf\u00e9",
       "url": "https://open.spotify.com/track/32h70zsAWUjdJXV26dGBvJ"
@@ -3932,6 +3968,28 @@
       "duration_ms": 175586,
       "name": "Melodia",
       "url": "https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx"
+    },
+    {
+      "album": {
+        "name": "MENINA",
+        "url": "https://open.spotify.com/album/4EUB72vhUpOVYOor1ZpAzX"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213896,
+      "name": "MENINA",
+      "url": "https://open.spotify.com/track/17ohad4EKCTOvpNpDhVjO8"
     },
     {
       "album": {
@@ -4267,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "nada do que eu disse",
+        "url": "https://open.spotify.com/album/6yWNz284A9KIXZr2g4CkY1"
+      },
+      "artists": [
+        {
+          "name": "Miguel Carmona",
+          "url": "https://open.spotify.com/artist/2Ktt2J1keIh6NEheImRRh8"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184956,
+      "name": "nada do que eu disse",
+      "url": "https://open.spotify.com/track/50tpEJgTMfjeCJjiMYvWoV"
+    },
+    {
+      "album": {
         "name": "Nas Pontas dos P\u00e9s",
         "url": "https://open.spotify.com/album/5n4oUABzSQyhbknyo8MnBX"
       },
@@ -4574,7 +4650,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 101599,
       "name": "O Sol Sangra",
       "url": "https://open.spotify.com/track/5bnpbLonAjSXl0npflo8iq"
@@ -5122,7 +5198,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 188849,
       "name": "Por ti Amor",
       "url": "https://open.spotify.com/track/2ZrBQjL7BS9y1zXUgWSf4U"
@@ -5580,7 +5656,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 148311,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1j4kYsMuewIYAYqtKfyTwj"
@@ -5776,7 +5852,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 152366,
       "name": "Santa",
       "url": "https://open.spotify.com/track/2FgjjNgPHjlqsrAfooIQei"
@@ -5838,7 +5914,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 210927,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1xoubW0lb0QniLQB1Y8zf5"
@@ -5892,7 +5968,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 155361,
       "name": "Sdds",
       "url": "https://open.spotify.com/track/2fmLeOt97ihNkRwkRv6uek"
@@ -6932,7 +7008,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 195600,
       "name": "Voar",
       "url": "https://open.spotify.com/track/54IJk4ONmSkwCO63YKJTNB"

@@ -5134,7 +5134,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 198135,
       "name": "\u5982\u679c",
       "url": "https://open.spotify.com/track/4zKrZaJfD53JjF06CQuM3c"
@@ -6852,7 +6852,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 229143,
       "name": "\u61c2\u4e8b\u5f97\u53ef\u4ee5",
       "url": "https://open.spotify.com/track/2hktUEtNzzjFjHOUsHAkr7"
@@ -9798,7 +9798,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 262588,
       "name": "\u7121\u540d\u4e4b\u8f29 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv"
@@ -10094,6 +10094,24 @@
       "duration_ms": 287579,
       "name": "\u7537\u4e8c\u865f",
       "url": "https://open.spotify.com/track/1YTr9bx7g2JMwjApb72tes"
+    },
+    {
+      "album": {
+        "name": "\u7576\u4e16\u754c\u5c07\u6211\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/0ehjxqwNXbYsDGNWzxMUOg"
+      },
+      "artists": [
+        {
+          "name": "Young",
+          "url": "https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "\u7576\u4e16\u754c\u5c07\u6211\u907a\u5fd8",
+      "url": "https://open.spotify.com/track/1Kdjn3Rlugj2Jxh3gYiapE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Jassin",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Ski Aggu, GDA",
   "name": "me right now",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
+    },
+    {
+      "album": {
+        "name": "1 ADLER",
+        "url": "https://open.spotify.com/album/1Qv1Tys8HdyaAbB6BBwIgf"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "GDA",
+          "url": "https://open.spotify.com/artist/2qWlUlfE7zEJM20ec5Dk9T"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198316,
+      "name": "1 ADLER",
+      "url": "https://open.spotify.com/track/36an2kIaMv6GW7UaNXTWTw"
     },
     {
       "album": {
@@ -1102,7 +1124,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 131924,
       "name": "3 Uhr Nachts",
       "url": "https://open.spotify.com/track/3UYxIENAasKz3LVwOnTeLX"
@@ -5261,6 +5283,24 @@
     },
     {
       "album": {
+        "name": "avoidant little b <3",
+        "url": "https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148017,
+      "name": "avoidant little b <3",
+      "url": "https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R"
+    },
+    {
+      "album": {
         "name": "B**",
         "url": "https://open.spotify.com/album/1GABDZUQXriyk9KQ6LeUES"
       },
@@ -6726,7 +6766,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 163001,
       "name": "Benzin",
       "url": "https://open.spotify.com/track/13UTiKaRrV0yUvSQ284uzs"
@@ -19286,7 +19326,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 151578,
       "name": "F\u00fcr Sie",
       "url": "https://open.spotify.com/track/7rLTGGhB9aQwcRTfc5xu3m"
@@ -19380,7 +19420,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 166302,
       "name": "Galopp!",
       "url": "https://open.spotify.com/track/0QuygfcvB1w2MLTyPDpEJj"
@@ -19468,6 +19508,24 @@
       "duration_ms": 122064,
       "name": "Ganz normal",
       "url": "https://open.spotify.com/track/0PwAEJswpqsJyKusLb9jLK"
+    },
+    {
+      "album": {
+        "name": "Gar nichts",
+        "url": "https://open.spotify.com/album/5TxjpEdOKteRl6rVFzRXRA"
+      },
+      "artists": [
+        {
+          "name": "Nalya",
+          "url": "https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Gar nichts",
+      "url": "https://open.spotify.com/track/1dOq2ejbHcyeAefkRUMP4B"
     },
     {
       "album": {
@@ -19650,7 +19708,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 182680,
       "name": "GEH ALLEIN2",
       "url": "https://open.spotify.com/track/4BnIOogPaujK6zSmKYv1LW"
@@ -21654,7 +21712,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 147096,
       "name": "G\u00e4nsehaut",
       "url": "https://open.spotify.com/track/4Mg3E0QEPAWqbgcDmweYDE"
@@ -26628,7 +26686,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 212333,
       "name": "In meinem Garten",
       "url": "https://open.spotify.com/track/4T9sZmhUcwnAimjnBTl7eW"
@@ -27396,6 +27454,28 @@
       "duration_ms": 139574,
       "name": "Je M'appelle",
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+    },
+    {
+      "album": {
+        "name": "Jedes Jahr",
+        "url": "https://open.spotify.com/album/2OcyCpUysXn9w6raXov5K9"
+      },
+      "artists": [
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174297,
+      "name": "Jedes Jahr",
+      "url": "https://open.spotify.com/track/0wRu4iD5DqZxL7jjwcRr0j"
     },
     {
       "album": {
@@ -30158,7 +30238,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 178426,
       "name": "LASS MICH NICHT LOS",
       "url": "https://open.spotify.com/track/3JxhB5TRGsTI1a1mnnQvfH"
@@ -31389,6 +31469,24 @@
     },
     {
       "album": {
+        "name": "lieblingslied",
+        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "lieblingslied",
+      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
+    },
+    {
+      "album": {
         "name": "Life 2",
         "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
       },
@@ -31498,7 +31596,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 196453,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7IMWZb1BzYwsekwpdWU4BC"
@@ -33585,6 +33683,24 @@
     },
     {
       "album": {
+        "name": "Leben \u00fcberleben EP",
+        "url": "https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153369,
+      "name": "Mauern aus Granit",
+      "url": "https://open.spotify.com/track/3BPns5Bo5yH8QLcpdWhLCT"
+    },
+    {
+      "album": {
         "name": "mausmann",
         "url": "https://open.spotify.com/album/3uS7OtCkjI83nttCZ3TRYh"
       },
@@ -34046,6 +34162,28 @@
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
+    },
+    {
+      "album": {
+        "name": "mein zimmer",
+        "url": "https://open.spotify.com/album/3VwUQRuzAq3tza5OVCpse5"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189945,
+      "name": "mein zimmer",
+      "url": "https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd"
     },
     {
       "album": {
@@ -37051,6 +37189,24 @@
     },
     {
       "album": {
+        "name": "Neue Limits",
+        "url": "https://open.spotify.com/album/32PB8eqqOmqGst34bkCwIv"
+      },
+      "artists": [
+        {
+          "name": "Rex",
+          "url": "https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137205,
+      "name": "Neue Limits",
+      "url": "https://open.spotify.com/track/0r9RkfXUVXCFhOUGYnA4M0"
+    },
+    {
+      "album": {
         "name": "sch\u00f6nheit die in schmerzen liegt",
         "url": "https://open.spotify.com/album/0VHB5d6cpwtQi6KZ2UZfUB"
       },
@@ -37802,7 +37958,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 172006,
       "name": "niemehrzur\u00fcck",
       "url": "https://open.spotify.com/track/53pxXjDML6sQ5r78FigWYv"
@@ -38466,7 +38622,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 154603,
       "name": "Notfallkontakt",
       "url": "https://open.spotify.com/track/1QfEUkJDqhgqEghBSkL9BN"
@@ -39220,6 +39376,24 @@
       "duration_ms": 155136,
       "name": "Ohne Benzin",
       "url": "https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f"
+    },
+    {
+      "album": {
+        "name": "Ohne Dich",
+        "url": "https://open.spotify.com/album/42iyGNEjHDboUfT3h9RMCz"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194450,
+      "name": "Ohne Dich",
+      "url": "https://open.spotify.com/track/0cgSg5BkNM3ie2A3P4r9jx"
     },
     {
       "album": {
@@ -40076,6 +40250,24 @@
       "duration_ms": 129882,
       "name": "ORANGE SODA",
       "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+    },
+    {
+      "album": {
+        "name": "Orchideen",
+        "url": "https://open.spotify.com/album/6KSoQhb0DhsrFwnIZLBdNn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel",
+          "url": "https://open.spotify.com/artist/6qI5OaCAenX62HTorD3VRN"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162201,
+      "name": "Orchideen",
+      "url": "https://open.spotify.com/track/6aN0HIwaRufPehOAZxFCEl"
     },
     {
       "album": {
@@ -41690,7 +41882,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
@@ -43156,6 +43348,24 @@
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
+    },
+    {
+      "album": {
+        "name": "Red Cherry",
+        "url": "https://open.spotify.com/album/0GvGdPOAQn9qsPBuXMqy02"
+      },
+      "artists": [
+        {
+          "name": "Charlize",
+          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "Red Cherry",
+      "url": "https://open.spotify.com/track/2sn7cJhcBVHyiNhcnmeFee"
     },
     {
       "album": {
@@ -47868,7 +48078,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 171562,
       "name": "sommer",
       "url": "https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6"
@@ -53274,7 +53484,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 166200,
       "name": "Tr\u00e4umer",
       "url": "https://open.spotify.com/track/6WaYkVZGor0L2VkutbqKNU"
@@ -56270,7 +56480,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 155136,
       "name": "Was ich in die Lieder steck",
       "url": "https://open.spotify.com/track/5CCwJbgkZNjQg8rmutT3Uz"
@@ -56556,6 +56766,36 @@
       "duration_ms": 156585,
       "name": "watch me miss (feat. Jomie)",
       "url": "https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0"
+    },
+    {
+      "album": {
+        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey) [Noah Kraus Remix]",
+        "url": "https://open.spotify.com/album/4WuA2oYJLhooOcYCEyLoVU"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Noah Kraus",
+          "url": "https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120578,
+      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey) [Noah Kraus Remix]",
+      "url": "https://open.spotify.com/track/7vQJweluBnvuS8VYnZyohr"
     },
     {
       "album": {
@@ -58319,6 +58559,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180953,
+      "name": "WHO I WAS",
+      "url": "https://open.spotify.com/track/3IogDRfjO5JOOPhDzvppum"
+    },
+    {
+      "album": {
         "name": "WHO'S THAT",
         "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
       },
@@ -58456,7 +58718,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 141274,
       "name": "Wie du",
       "url": "https://open.spotify.com/track/2wgmhgtrg8mxD8Y7sBRXbo"
@@ -60375,6 +60637,32 @@
     },
     {
       "album": {
+        "name": "ZERSPLITTER DEIN GLAS",
+        "url": "https://open.spotify.com/album/6iBteritr2bKFlt7HZ7I8W"
+      },
+      "artists": [
+        {
+          "name": "pako peng",
+          "url": "https://open.spotify.com/artist/4TcHjciZ5CaAna38txoxJn"
+        },
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5oauHSnziOzOh8jYhHs8Oi"
+        },
+        {
+          "name": "Pablo Rochat",
+          "url": "https://open.spotify.com/artist/1jrRHAXkOac4wogkGnWubr"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "ZERSPLITTER DEIN GLAS",
+      "url": "https://open.spotify.com/track/2LJ26tG1CjE1SRDZpqFDxn"
+    },
+    {
+      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -60988,7 +61276,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 126274,
       "name": "Z\u00fcnd dich an",
       "url": "https://open.spotify.com/track/7lzOCpmTo8qUTWjREC7VAi"

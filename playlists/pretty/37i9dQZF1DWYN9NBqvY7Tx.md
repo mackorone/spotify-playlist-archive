@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,663 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,805 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [By My Side](https://open.spotify.com/track/6oGFDrlsSXovBIAY7gNYIq) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Snack Pack Vol\. 1](https://open.spotify.com/album/4UQkMJyhzQNbldVNaOY4IC) | 3:42 |
 | 100 | [HOMEWARD BOUND](https://open.spotify.com/track/6SJxVscXUNKHByst4t6Hlu) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [HOMEWARD BOUND](https://open.spotify.com/album/77qphqm55wE28WErICmvo5) | 3:52 |
 
-Snapshot ID: `AAAAAMRJtiXegqG4v0av2jQXS/iDBwGd`
+Snapshot ID: `AAAAAOKOU1XYZEbg/0WPPZxMXB2wMuCp`

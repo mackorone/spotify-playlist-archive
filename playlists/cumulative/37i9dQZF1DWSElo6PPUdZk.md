@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-234 songs - 11 hr 53 min
+235 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Malwain](https://open.spotify.com/track/0p5qFQmghBRG73G0yJV0mz) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [1996](https://open.spotify.com/album/1VIiYt1vOklJBc2EPUXVEj) | 2:35 | 2024-01-30 | 2025-01-11 |
 | [Maskara](https://open.spotify.com/track/2Ln1OxWuG3xTzWDl6DNcsy) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Maskara](https://open.spotify.com/album/3AGGLTvJpKLcOW6EdZMvuY) | 2:55 | 2023-03-18 | 2024-10-19 |
 | [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 | 2024-12-09 |  |
-| [Me](https://open.spotify.com/track/0avnM5yD5CcsnTGiWHugzO) | [Tej SherGill](https://open.spotify.com/artist/5fp2srMSCNbMRtihonQxIJ), [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Malwain](https://open.spotify.com/album/6gBOVi9Pn6lFcbKiaKgQzd) | 2:31 | 2025-10-24 |  |
+| [Me](https://open.spotify.com/track/0avnM5yD5CcsnTGiWHugzO) | [Tej SherGill](https://open.spotify.com/artist/5fp2srMSCNbMRtihonQxIJ), [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Malwain](https://open.spotify.com/album/6gBOVi9Pn6lFcbKiaKgQzd) | 2:31 | 2025-10-24 | 2025-11-14 |
 | [Mera Mahi](https://open.spotify.com/track/445SKNj7J0NZC5tp2in8Cc) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Mera Mahi](https://open.spotify.com/album/4Lavw2Qao6SX3DqcPJRGXs) | 2:59 | 2025-11-05 |  |
 | [Mexican](https://open.spotify.com/track/3aHev9iM03320UCUm6X7hv) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Mexican](https://open.spotify.com/album/7c16dgVaxSd21gbEmJNbAk) | 2:57 | 2024-08-20 | 2024-09-10 |
 | [Mil Mahiya](https://open.spotify.com/track/0Jed0U2VlUbQCrQwwexzaf) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [ICONYK](https://open.spotify.com/artist/53jFDJeDG6WGvjeiuw8RAE), [Sonakshi Sinha](https://open.spotify.com/artist/7Bs820pxTkAddFJ3O6WhKi) | [Mil Mahiya](https://open.spotify.com/album/4Ornr7ayLqytC7uxcof214) | 2:32 | 2023-03-18 | 2023-11-18 |
@@ -175,6 +175,7 @@
 | [Petrol](https://open.spotify.com/track/7kyMYKaxPR87EYzoglW6g6) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Preet Walia](https://open.spotify.com/artist/4qsD4MnZzpSlNfp84gvhkh) | [Miss Pooja, Vol\. 1 All Time Hits](https://open.spotify.com/album/6M1iSeTkr6lUyx1gqhNZCt) | 4:43 | 2025-08-02 |  |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 | 2024-11-05 |
 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 | 2025-09-26 |  |
+| [Puniya Di Raat](https://open.spotify.com/track/4DMUo4V6tLct4R7CwUfmNO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Puniya Di Raat](https://open.spotify.com/album/10ETDI8FZzf8TOQ8sldETE) | 2:30 | 2025-11-13 |  |
 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-03-20 |  |
 | [Pyar Ni Sarya](https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Pyar Ni Sarya](https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm) | 3:19 | 2025-08-29 | 2025-10-01 |
 | [Queen Of Calli \(From "Aapocalypse"\)](https://open.spotify.com/track/6RMI0sZiFkdhOrgOsnD8en) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Queen Of Calli \(From "Aapocalypse"\)](https://open.spotify.com/album/2DxY8Csi4QmR3hnh5wxhjP) | 2:28 | 2025-09-08 | 2025-09-18 |

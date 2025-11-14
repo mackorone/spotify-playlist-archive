@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 198728,
+  "num_followers": 198741,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAABS9rq9Gipr9ZdxxQhFTqc1",
+  "snapshot_id": "aRPOAAAAAAAMkoftae9u4dLraHWP1o8x",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Uh-Oh, Love Comes to Town",
-      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 254000,
       "name": "Cities - 2005 Remaster",
       "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Uh-Oh, Love Comes to Town",
+      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Titi DJ, Thomas Djorghi
+> Dendang dangdut ngetop Tanah Air\. Cover: Selfi Yamma
 
-276 songs - 22 hr 2 min
+278 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Pas Sayang Sayange](https://open.spotify.com/track/2kqTWTajdr0t4PQfeOkcnp) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pas Sayang Sayange](https://open.spotify.com/album/17QcdedIFHIn2Lns6dLSjc) | 4:48 | 2021-08-23 | 2023-11-04 |
 | [Pasrah](https://open.spotify.com/track/5PjYZaJLP6g0iZJq7xWlLb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Pasrah](https://open.spotify.com/album/7JPYB9gYfYyu2vCBmwVnRP) | 5:08 | 2021-08-23 | 2025-03-21 |
 | [Peluk Aku](https://open.spotify.com/track/0DGeqjxmICnJZWUFbc5kJh) | [Kabut Salju](https://open.spotify.com/artist/0Pp6pS7hDj733RBgVjXb6t), [DJ RBA](https://open.spotify.com/artist/74qLL4QhhMEFidqI5544Q0) | [Peluk Aku](https://open.spotify.com/album/2aQKNcv1m7lT1qKnKhRZNh) | 3:17 | 2025-03-07 | 2025-07-25 |
+| [Pelukan Nyata](https://open.spotify.com/track/5ERJrE1WYAlQeulzLWZq7g) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Pelukan Nyata](https://open.spotify.com/album/21JHSnNLa4oEY1ZYOc61Kc) | 4:54 | 2025-11-14 |  |
 | [Perceraian Lara \- Live AT Ska Reggae](https://open.spotify.com/track/6iOViqsT7POSA051R4nNu7) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Perceraian Lara \(Live AT Ska Reggae\)](https://open.spotify.com/album/12XGZI2mZBeybLLXfFW9Vb) | 5:08 | 2024-03-14 | 2024-07-19 |
 | [Pergi](https://open.spotify.com/track/6QCnymtBJNwdv6pIipGk4T) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pergi](https://open.spotify.com/album/1VDEAgE1vlNpwTrBbpSG2Y) | 4:06 | 2021-08-23 | 2023-09-22 |
 | [Perjalanan Cinta](https://open.spotify.com/track/7mAj5C8G5OGxbtrEuxTL4i) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp), [Sule](https://open.spotify.com/artist/7dFuuEw7vtremmH04grgC6) | [Perjalanan Cinta](https://open.spotify.com/album/0dRuc3F24fnfzP9AW5d4qp) | 4:08 | 2023-05-25 | 2025-01-31 |
@@ -231,6 +232,7 @@
 | [Sesayang Ini Kau Tipu Jua](https://open.spotify.com/track/4LhVuScLN4XUoZQ1oxFrI6) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Sesayang Ini Kau Tipu Jua](https://open.spotify.com/album/4kBRsbSrzCgJMt1j7FDy2x) | 5:11 | 2024-11-07 |  |
 | [Setia Jujur dan Taqwa \- Live At Ska Reggae](https://open.spotify.com/track/6lt4nbkCe2AAHVtbKLnlVC) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Setia Jujur dan Taqwa \(Live At Ska Reggae\)](https://open.spotify.com/album/7HbO1YQSuPQphc7DynEwVo) | 4:41 | 2024-03-22 | 2024-07-19 |
 | [Setia Selamanya](https://open.spotify.com/track/28Bo7TZyfgXwyI94AovY74) | [Nayunda](https://open.spotify.com/artist/14d9MMITs2VsO16pEVEe6M) | [Setia Selamanya](https://open.spotify.com/album/68xo70xpsg2AgbucwNpjrL) | 4:02 | 2024-02-22 | 2025-01-31 |
+| [Setia Yang Terluka](https://open.spotify.com/track/5u1u9U8UFEe2B8swksFxQY) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz) | [Setia Yang Terluka](https://open.spotify.com/album/1Ngsz8kC8juJS9fijXkHpV) | 5:33 | 2025-11-14 |  |
 | [Sholatlah Sebelum Kau Disholatkan](https://open.spotify.com/track/6n52z2t5n1pxXEknekVc7w) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Sholatlah Sebelum Kau Disholatkan](https://open.spotify.com/album/7CtMFVyeoLO7Q2ouU0HpkP) | 3:41 | 2025-03-07 | 2025-06-27 |
 | [Siang Malam Rindu](https://open.spotify.com/track/4QWa2dAN3aKBWvvkEJghCD) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Siang Malam Rindu](https://open.spotify.com/album/4kDFIPaPUAbDaDWaObbQjT) | 4:13 | 2024-02-22 | 2024-09-27 |
 | [Siapa Benar Siapa Salah](https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL) | [Gita Youbi](https://open.spotify.com/artist/1tjEjf3iIYPMTo0bOSZjcU) | [Siapa Benar Siapa Salah](https://open.spotify.com/album/59OrcFyOttYw7F3fZ1aT91) | 4:33 | 2021-08-23 | 2023-09-29 |

@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "alg\u00fan d\u00eda",
+        "url": "https://open.spotify.com/album/000oBFIq4QNMY8ZV5o0z4c"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191511,
+      "name": "alg\u00fan d\u00eda",
+      "url": "https://open.spotify.com/track/66v7Rcc25aSprVOwBzqmdZ"
+    },
+    {
+      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF"
       },
@@ -3298,6 +3316,24 @@
       "duration_ms": 191428,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+    },
+    {
+      "album": {
+        "name": "fumamos una ZAZA",
+        "url": "https://open.spotify.com/album/6n8FfZNTd1H8jBQ5UQGDDb"
+      },
+      "artists": [
+        {
+          "name": "Frozouda",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125963,
+      "name": "fumamos una ZAZA",
+      "url": "https://open.spotify.com/track/4BWBRxmV4KvvSCN358tXRe"
     },
     {
       "album": {

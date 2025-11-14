@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,145 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,181 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [QUITATELOTO \(feat\. Kris R., Young Fatty, Bad Milk, Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [EXTRADITABLESSD](https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V) | 5:03 |
+| 1 | [QUITATELOTO \(feat\. Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [EXTRADITABLESSD](https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V) | 5:03 |
 | 2 | [⁠En el Ritz](https://open.spotify.com/track/1Ul0TcIqDRguYzr0A8Vz75) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:49 |
 | 3 | [Avece](https://open.spotify.com/track/7xpW5u12cuoIWZA4PpWtLO) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Avece](https://open.spotify.com/album/3MscqliTChw3pPK5Ohlclk) | 2:32 |
 | 4 | [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 |

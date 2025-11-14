@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "\u884c\u5f97\u8d70\u5f97",
+        "url": "https://open.spotify.com/album/4Ip12sVLJTcXvaIwF8QR9I"
+      },
+      "artists": [
+        {
+          "name": "Alan Po",
+          "url": "https://open.spotify.com/artist/07KI4ayN7XEoAVkYdRq6FA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218844,
+      "name": "\u884c\u5f97\u8d70\u5f97",
+      "url": "https://open.spotify.com/track/07GpYSBl70z5thYWJtvRNo"
+    },
+    {
+      "album": {
         "name": "\u89aa\u611b\u7684",
         "url": "https://open.spotify.com/album/7dhNUGFJPYKsHhRML02ukm"
       },
@@ -2138,6 +2156,28 @@
       "duration_ms": 235251,
       "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
       "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
+    },
+    {
+      "album": {
+        "name": "\u8ddf\u60b2\u50b7\u7d50\u4e86\u5e33",
+        "url": "https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183462,
+      "name": "\u8ddf\u60b2\u50b7\u7d50\u4e86\u5e33",
+      "url": "https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD"
     },
     {
       "album": {

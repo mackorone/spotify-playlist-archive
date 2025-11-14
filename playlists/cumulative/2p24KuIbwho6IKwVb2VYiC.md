@@ -2,9 +2,9 @@
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance, House, Bass and EDM tracks right now!  Cover: James Hype
+> The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: James Hype
 
-372 songs - 19 hr 28 min
+373 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,10 +75,11 @@
 | [Dance On](https://open.spotify.com/track/2G4CIk2IToP1qUe2xYBbgK) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Dance On](https://open.spotify.com/album/1L9bYoVPRMllu5bG3p6nZh) | 3:08 | 2025-10-31 |  |
 | [Dance To Death](https://open.spotify.com/track/1t9CSdEHfgWAKoPJuxGd9A) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [MEMO](https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN) | 3:08 | 2023-10-27 | 2024-02-27 |
 | [Dancing In A Dream](https://open.spotify.com/track/0cuT0PRfkUNgSefAiy19FG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Dancing In A Dream](https://open.spotify.com/album/0sj1PJTkUkIA3V2a98whYB) | 2:38 | 2025-04-11 |  |
+| [Dancing In A Dream](https://open.spotify.com/track/3TkuEWpYUdNLvk9i6r0lnT) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Summer Rain](https://open.spotify.com/album/6nIe9tXHQdGhfBN7Vs4UJp) | 2:38 | 2025-11-13 |  |
 | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/track/2MR4BqIUtoBLWuZDVlZDQz) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/album/3MWTWM7ESjD7jVz8ThhVsH) | 3:32 | 2024-03-01 | 2024-05-13 |
 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 | 2025-10-17 |  |
 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 | 2025-01-21 |  |
-| [Dissociate](https://open.spotify.com/track/4tLTaEi3Pq0kinpQBzDKL0) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Dissociate](https://open.spotify.com/album/7HQVcIyRH0o6lQDTGsBCxb) | 4:30 | 2025-09-26 |  |
+| [Dissociate](https://open.spotify.com/track/4tLTaEi3Pq0kinpQBzDKL0) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Dissociate](https://open.spotify.com/album/7HQVcIyRH0o6lQDTGsBCxb) | 4:30 | 2025-09-26 | 2025-11-14 |
 | [Distance](https://open.spotify.com/track/012l99hw3ryhNU5vgk2EhB) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Distance](https://open.spotify.com/album/33cQAhIe826a1MYpc2xgDj) | 3:13 | 2024-04-26 | 2025-01-22 |
 | [dive /stay/](https://open.spotify.com/track/41nkDiPZ1lOq90wnmJoL1L) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [dive /stay/](https://open.spotify.com/album/40F183249X27nHVY2QmCal) | 3:05 | 2024-05-03 | 2024-09-25 |
 | [Doing Nothin'](https://open.spotify.com/track/6PAt6xtbwjpRwG4V3zKWaK) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Doing Nothin'](https://open.spotify.com/album/5u2FuIwuJwnkLtDnlAk3gs) | 3:06 | 2025-05-30 |  |
@@ -315,7 +316,7 @@
 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-12-01 | 2024-09-25 |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-10-27 | 2024-03-02 |
 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 | 2025-07-11 |  |
-| [Summer Rain](https://open.spotify.com/track/2RH6eSCNuQHUtxpOQPSxqG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Summer Rain](https://open.spotify.com/album/6nIe9tXHQdGhfBN7Vs4UJp) | 2:57 | 2025-09-05 |  |
+| [Summer Rain](https://open.spotify.com/track/2RH6eSCNuQHUtxpOQPSxqG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Summer Rain](https://open.spotify.com/album/6nIe9tXHQdGhfBN7Vs4UJp) | 2:57 | 2025-09-05 | 2025-11-14 |
 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 | 2024-04-26 |  |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-10-27 | 2024-03-05 |
 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 | 2023-10-27 | 2024-09-25 |

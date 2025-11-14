@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124796,
+  "num_followers": 124789,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUzY4nm9WBFDmTHNBxU15SaSjF+iMi",
+  "snapshot_id": "AAAUz5GwOD3wLHK+DLVE+FP6R1Snqcie",
   "tracks": [
+    {
+      "added_at": "2025-11-13 14:36:30",
+      "album": {
+        "name": "i can't make you love me / started over",
+        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 209538,
+      "name": "i can't make you love me",
+      "url": "https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax"
+    },
+    {
+      "added_at": "2025-11-13 14:36:30",
+      "album": {
+        "name": "i can't make you love me / started over",
+        "url": "https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Cayson Renshaw",
+          "url": "https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "started over",
+      "url": "https://open.spotify.com/track/6kQZXVO8AoN5KBh1QcJesG"
+    },
     {
       "added_at": "2025-11-12 15:37:03",
       "album": {
@@ -1107,114 +1143,6 @@
       "duration_ms": 200655,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
-    },
-    {
-      "added_at": "2025-08-25 14:09:51",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1Iss9QCIde69sEne4VAwep"
-      },
-      "artists": [
-        {
-          "name": "Eater",
-          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PHABVpOcs6ppc87VlPiPe"
-    },
-    {
-      "added_at": "2025-08-22 14:11:18",
-      "album": {
-        "name": "Aura Farming",
-        "url": "https://open.spotify.com/album/5RbSTWWJaRaRcehgyOVr04"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
-        }
-      ],
-      "duration_ms": 260689,
-      "name": "Aura Farming",
-      "url": "https://open.spotify.com/track/54iy8ooDbrHeuSOeYL0pkC"
-    },
-    {
-      "added_at": "2025-08-21 13:50:45",
-      "album": {
-        "name": "alive",
-        "url": "https://open.spotify.com/album/4793thhWqAaumOMiplcu9y"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "alive",
-      "url": "https://open.spotify.com/track/43IicbdTFqQdd70qPUAFyi"
-    },
-    {
-      "added_at": "2025-08-20 14:17:43",
-      "album": {
-        "name": "Burning Inside",
-        "url": "https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 218142,
-      "name": "Burning Inside",
-      "url": "https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z"
-    },
-    {
-      "added_at": "2025-08-19 14:51:19",
-      "album": {
-        "name": "A Flicker of Hope",
-        "url": "https://open.spotify.com/album/3k9fpNCXZDPfNJXFsY1qVL"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "A Flicker of Hope",
-      "url": "https://open.spotify.com/track/23Lq2x9AhuEt3nKhFWJlh2"
-    },
-    {
-      "added_at": "2025-08-18 14:07:07",
-      "album": {
-        "name": "onlybmyself",
-        "url": "https://open.spotify.com/album/2j3hCU44IsCKSTVb7jlzvJ"
-      },
-      "artists": [
-        {
-          "name": "beastboi.",
-          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
-        },
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
-        }
-      ],
-      "duration_ms": 186580,
-      "name": "onlybmyself",
-      "url": "https://open.spotify.com/track/6KRw2IFzgxe2PxNjAnLyPt"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -2,9 +2,9 @@
 
 ### [\(AR\)](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Innellea & Peces Raros.
+> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino.
 
-331 songs - 1 day 7 hr 37 min
+333 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bailarina \- Pyura Remix](https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Bailarina \(Pyura Remix\)](https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3) | 5:16 | 2024-04-12 | 2025-07-11 |
 | [Balloon](https://open.spotify.com/track/5csIQAH93KyFTJpltszzXo) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2), [Lisandro \(AR\)](https://open.spotify.com/artist/4g3giOQcTBZbuUvyMh7Ksm) | [Balloon](https://open.spotify.com/album/54v8pU06m0p6mAEyspipUB) | 2:40 | 2025-07-04 |  |
 | [Bane \- Original Mix](https://open.spotify.com/track/3nBiBY8DNnJNbquQVoL7Q1) | [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Todo Pasa](https://open.spotify.com/album/6CXmtcXDhZ2LJlQFwhD3m3) | 7:23 | 2020-09-04 | 2023-11-18 |
+| [Bars Attacks](https://open.spotify.com/track/3VOSdXmn0X57ajzbQceMxr) | [Sol Porro](https://open.spotify.com/artist/1TLxSIoXyqq9myZRDw5LjG) | [Bars Attacks](https://open.spotify.com/album/7wl5P8XUr2YT90ggnzshiX) | 4:15 | 2025-11-14 |  |
 | [Bass Face](https://open.spotify.com/track/5qcYskwpeP2QiOeJYrhKVp) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Zone7](https://open.spotify.com/artist/0ytdVfy5Hz9EvWv5IA6tuh), [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [Bass Face](https://open.spotify.com/album/3KF5RNYS7Hf6t9I4t8POB1) | 2:33 | 2025-03-19 | 2025-09-26 |
 | [Bells In The City](https://open.spotify.com/track/51ZPZgUzbjwTgQwsEWJIqo) | [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [Bells In The City](https://open.spotify.com/album/5UUaiaa10XXSAPvXFS81bg) | 6:33 | 2020-09-04 | 2023-11-18 |
 | [Bells In The City \- Original Mix](https://open.spotify.com/track/1waXr3hfD2ClJweduv16v8) | [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [Bells In The City EP](https://open.spotify.com/album/0wpoF3SrFhEziktsJMvKEO) | 6:33 | 2020-09-04 | 2022-07-29 |
@@ -306,6 +307,7 @@
 | [Todas las formas posibles de guaracha](https://open.spotify.com/track/25KyxdqLO8MD1T7A118ZeJ) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr) | [Todas las formas posibles de guaracha](https://open.spotify.com/album/0AWLDWejt99pQjQ8ovAbQJ) | 2:59 | 2025-09-05 |  |
 | [TODO ROTO \- CRRDR REMIX](https://open.spotify.com/track/3SLUG5Zy8FzgbRlVdA3tGr) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [CLUB GRASA](https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR) | 2:56 | 2025-02-28 | 2025-03-20 |
 | [Trabalho \- Radio Mix](https://open.spotify.com/track/4k9od1orgSdqKzHr3W8YzT) | [Pausa](https://open.spotify.com/artist/4l3jnC0bXCc7IqIe7SBmd0), [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Trabalho](https://open.spotify.com/album/6jNIo3VMqDBcLovK8Yk85r) | 3:22 | 2025-07-11 |  |
+| [Track 2](https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-14 |  |
 | [TRIBOT](https://open.spotify.com/track/6eD1z2Kzk06haPpMBZkGqD) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [CYBERIA](https://open.spotify.com/album/3zFrhLAlu0Ht0CufgIO1Vd) | 5:30 | 2024-04-12 | 2025-03-20 |
 | [Tribute To Miles Davis](https://open.spotify.com/track/0Kira2tDs8pI6osxYqusdZ) | [Franco Cinelli](https://open.spotify.com/artist/2Wxm8dZxYdfcNfDxJR2dfe) | [Cuts From The Vault, Pt\. 2 EP](https://open.spotify.com/album/1T7937typ9OL34vhl386lJ) | 10:47 | 2025-03-19 |  |
 | [TUMBANDO LA RAVE](https://open.spotify.com/track/6HqpjqQrxXGxarnzF8e9Bj) | [BRYCHTTA](https://open.spotify.com/artist/11d0mQkJbUfW6S0g0Ka3KS), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Jose Bonetto](https://open.spotify.com/artist/4S7xNOFAEJGGEuiF2C6AIY), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [TUMBANDO LA RAVE](https://open.spotify.com/album/1r6Jfo7tDkfvxKIaBIHPOF) | 4:58 | 2025-02-28 | 2025-03-20 |

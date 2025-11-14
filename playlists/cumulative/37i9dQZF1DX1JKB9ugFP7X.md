@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: Vera Frod
 
-189 songs - 11 hr 52 min
+191 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 | 2023-09-08 | 2024-10-19 |
 | [Manada](https://open.spotify.com/track/7cPTErYBnaeCq4BRMOCoqB) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Oh My Pop!](https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J) | [Manada](https://open.spotify.com/album/7KNYpYrWUDEH7KGzveOOYi) | 2:44 | 2025-06-27 |  |
 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-09-08 |  |
+| [Me Gusta](https://open.spotify.com/track/1ZhKqt8br9NkAi0SKr2Zw4) | [Allegra](https://open.spotify.com/artist/4C010hedd0zf3wtDaekdf3) | [Me Gusta](https://open.spotify.com/album/1441MgCddQFlemfJeDNGRp) | 2:32 | 2025-11-13 |  |
 | [ME QUEDO ACÁ\. \- Lupe Remix](https://open.spotify.com/track/1553JqZizFxv9hyNth0y0N) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Lado V \(Remixes de Postal\)](https://open.spotify.com/album/5qFHdRCzIW7YgxDRyAt52J) | 3:17 | 2023-09-08 | 2023-11-21 |
 | [Me Quieren Matar](https://open.spotify.com/track/3soKTnPmFPNK3feqeTAI9B) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Me Quieren Matar](https://open.spotify.com/album/1P4QJa2eFwuQSZkxj7kiS0) | 3:56 | 2025-04-18 |  |
 | [Me Sostiene la Pista de Baile](https://open.spotify.com/track/7Fe2qTMPxnE5Q20LfClKHe) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Me Sostiene la Pista de Baile](https://open.spotify.com/album/24zPgzdFuk9PqmjIcQgkKl) | 4:44 | 2025-05-02 |  |
@@ -163,6 +164,7 @@
 | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 | 2023-09-08 | 2024-10-19 |
 | [Si No Vas a Venir](https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Si No Vas a Venir](https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly) | 3:11 | 2024-10-18 | 2025-08-16 |
 | [Snobs](https://open.spotify.com/track/7bp6TPhLJx0SXrdTA8tDyf) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Snobs](https://open.spotify.com/album/1xKo8vFagzsXGfOkaS0Q9s) | 3:33 | 2025-02-21 |  |
+| [SO HIGH](https://open.spotify.com/track/06L5KuV4aHL4DapLNLwXfh) | [J4MES](https://open.spotify.com/artist/1QR3Y3SClEg7rddguLp2Oa), [Tomas Coletto](https://open.spotify.com/artist/6uusC1uYFurIsaviYlGC5p), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [EN OTR4 VIDA ME CONOCÍ??](https://open.spotify.com/album/2zlb5BH5mS2CsNdHh5XJAS) | 2:51 | 2025-11-13 |  |
 | [Sola por la Ciudad](https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Poncholandia](https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW) | 4:40 | 2023-09-08 | 2024-04-19 |
 | [Sola por la Ciudad](https://open.spotify.com/track/65EtBAc2PFTqVqhiNi5fFP) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Sola por la Ciudad](https://open.spotify.com/album/6iUHZc0MQW08O0qYQoHcra) | 4:40 | 2024-10-18 |  |
 | [Sombras en la Pared \- Vivo Buenos Aires](https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \(Vivo Buenos Aires\)](https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ) | 5:10 | 2023-09-08 | 2024-10-19 |

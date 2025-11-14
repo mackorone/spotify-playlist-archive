@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35626,
+  "num_followers": 35640,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAACSOb48WmuV8QW2WKw9z3NK",
+  "snapshot_id": "aRPOAAAAAAAkO0Ku7RCBfAAF5+3tkg16",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Again",
-        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i wish you cheated",
         "url": "https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 190626,
       "name": "i wish you cheated",
       "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
     },
     {
       "added_at": null,
@@ -252,25 +252,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 166306,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "day i die",
-      "url": "https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js"
+      "duration_ms": 144973,
+      "name": "Not Ready Yet",
+      "url": "https://open.spotify.com/track/5UYvsw1P7codQIsxOjlpDM"
     },
     {
       "added_at": null,
@@ -307,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "day i die",
+      "url": "https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
       },
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 144973,
-      "name": "Not Ready Yet",
-      "url": "https://open.spotify.com/track/5UYvsw1P7codQIsxOjlpDM"
+      "duration_ms": 166306,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es"
     },
     {
       "added_at": null,

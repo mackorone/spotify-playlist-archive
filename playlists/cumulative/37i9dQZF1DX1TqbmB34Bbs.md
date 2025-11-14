@@ -4,7 +4,7 @@
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: MIRANI\(미란이\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,294 songs - 2 day 23 hr 14 min
+1,295 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Fire Power](https://open.spotify.com/track/1FBj1JEf0hE57bfIDwDYDO) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Endless Summer](https://open.spotify.com/album/5VvtULvZkqDY7stRfnXLn1) | 3:34 | 2022-07-04 | 2022-07-06 |
 | [First Class](https://open.spotify.com/track/2tvnAzyoULMLYd9sMv9Lc3) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:31 | 2022-06-13 | 2022-07-28 |
 | [First Step](https://open.spotify.com/track/2CwoQbjMZDOyzihiVEczrR) | [빅선](https://open.spotify.com/artist/6dHi2MD6sC6yfuuORMamMK) | [RISE ABOVE](https://open.spotify.com/album/4HEwRyWp6Boo6tFWgIRQg7) | 2:27 | 2025-06-27 | 2025-07-06 |
+| [Flaunt It](https://open.spotify.com/track/4okfE89XctMbbLqf2dxB57) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Flaunt It](https://open.spotify.com/album/3HrgBPjUiDasVVSmzuN4JL) | 3:19 | 2025-11-14 |  |
 | [FLEX](https://open.spotify.com/track/5Sr6n27QEzwczXotjeJLVj) | [Loopy & nafla](https://open.spotify.com/artist/0Th5ZPrSTxpMyNsMAAvajp) | [FLEX](https://open.spotify.com/album/0Oeb49v3LGf9oKWqewUAOc) | 3:26 | 2022-05-28 | 2022-07-27 |
 | [Flex Forever](https://open.spotify.com/track/6jvr4hLUk5sDSuC5hyWZEq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Flex Forever](https://open.spotify.com/album/3ZkvR9Ma1eAh8E9IuVPsQm) | 3:19 | 2022-05-31 | 2022-06-09 |
 | [Flexin](https://open.spotify.com/track/1neuHOjOCQCgz8fKQtAcF3) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/0q4gS2Vkxf4lHw8PVrxSiW) | 4:17 | 2022-06-03 | 2022-06-06 |
@@ -993,7 +994,7 @@
 | [SHOOT](https://open.spotify.com/track/5TWjs4p7y3mhtkL7Ptbj2S) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Chaos](https://open.spotify.com/album/6kS7S0XmBTBnMgrf9sXXD2) | 3:50 | 2024-05-09 | 2024-10-02 |
 | [SHOOT](https://open.spotify.com/track/6uNsPeFAuFOdZcdP78kJ0h) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BIPOLAR](https://open.spotify.com/album/31GTeiqu8AUN76bXsnoCq9) | 3:06 | 2022-08-12 | 2023-12-10 |
 | [SHOOT](https://open.spotify.com/track/7edi2M1AStCauYaXY6lzm0) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:06 | 2022-05-28 | 2022-07-29 |
-| [SHOT \(feat\. ShyboiiTobii\)](https://open.spotify.com/track/3kinoRVDhNVu2PmxFYHfIE) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [KCTAPE, Vol\. 2](https://open.spotify.com/album/2hFmjRT4DsRquVvV1oQZJ2) | 3:37 | 2024-08-01 |  |
+| [SHOT \(feat\. ShyboiiTobii\)](https://open.spotify.com/track/3kinoRVDhNVu2PmxFYHfIE) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [KCTAPE, Vol\. 2](https://open.spotify.com/album/2hFmjRT4DsRquVvV1oQZJ2) | 3:37 | 2024-08-01 | 2025-11-14 |
 | [SHOT CALLER \(feat\. Blase\)](https://open.spotify.com/track/1Fxm7cIDRK2rKvEjFmImKw) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [RIDE OUT](https://open.spotify.com/album/4W2sxMKY4pll2QF8lIbezW) | 2:53 | 2022-06-03 | 2022-06-29 |
 | [SHOW YOU CAN \(Prod\. Czaer, JAKOPS\)](https://open.spotify.com/track/5XdxtGNFQTxDiTygagtrWi) | [MAYA](https://open.spotify.com/artist/4DtZvrKaqY0kYanvk27CMR), [COCONA](https://open.spotify.com/artist/3isFRALGdJtyQQZPHqIGcf), [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 3:14 | 2023-09-14 |  |
 | [Shower Booth](https://open.spotify.com/track/4963pejakv6pBO8c4oxeQk) | [버기](https://open.spotify.com/artist/7tn3xA9QfYt3WxUj7mQpra), [Wutan](https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn) | [after HOL!DAY](https://open.spotify.com/album/3m1iM2t11OaQ8RW9VGd7BA) | 3:04 | 2023-02-16 | 2023-03-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tout a chang\u00e9 ( Rien n'a chang\u00e9 ) de Helena est le Grand Hit de la semaine",
+  "description": "\"Tant pis pour elle\" de Charlotte Cardin est le Grand Hit de la semaine",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 200400,
       "name": "Un dimanche avec toi",
       "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
@@ -5450,6 +5450,24 @@
       "duration_ms": 236493,
       "name": "Vivre",
       "url": "https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV"
+    },
+    {
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Voulez-Vous",
+      "url": "https://open.spotify.com/track/513s60DKMknigRNGVzSORD"
     },
     {
       "album": {

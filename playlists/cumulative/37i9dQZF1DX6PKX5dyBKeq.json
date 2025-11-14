@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Digga D",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: D-Block Europe",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "4C",
+        "url": "https://open.spotify.com/album/7EnjzadgMEZuvHumi8epdx"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187564,
+      "name": "4C",
+      "url": "https://open.spotify.com/track/2JZXSSxPJ49MHuY0GuexUN"
+    },
+    {
+      "album": {
         "name": "Under Surveillance (Mixtape)",
         "url": "https://open.spotify.com/album/3pGr3RNC2dqe5ULkGgLsHN"
       },
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 123380,
       "name": "Ain't Just Rap",
       "url": "https://open.spotify.com/track/01OTFzbaxLMV0WLLjiFC0c"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 162784,
       "name": "AURA",
       "url": "https://open.spotify.com/track/1dN4pN5AKR0gPEzdl4dx4h"
@@ -4100,6 +4118,24 @@
       "duration_ms": 194400,
       "name": "Bad Guys",
       "url": "https://open.spotify.com/track/2Ddl73EZzsLgh3f88aOLbd"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161193,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/5EjXVdtmfqrwZSsSOyFsgf"
     },
     {
       "album": {
@@ -6306,7 +6342,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 153600,
       "name": "BOLO",
       "url": "https://open.spotify.com/track/2LjoYOg7gcOQ6V55HX5bO0"
@@ -14966,7 +15002,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 89929,
       "name": "FINESSE MY BRO (FMB)",
       "url": "https://open.spotify.com/track/2wCPuCekYVOaCxJwOww3IB"
@@ -17164,6 +17200,24 @@
       "duration_ms": 155200,
       "name": "Gotham",
       "url": "https://open.spotify.com/track/7ce57gIvxc353OwZyapw5e"
+    },
+    {
+      "album": {
+        "name": "it's all up in the air.",
+        "url": "https://open.spotify.com/album/3B3C3UznoLakeONA1ulfbW"
+      },
+      "artists": [
+        {
+          "name": "Pozzy",
+          "url": "https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "gotta go",
+      "url": "https://open.spotify.com/track/4vemNtc49DTOC9msYE5wge"
     },
     {
       "album": {
@@ -30627,6 +30681,28 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/0SwNGleQKGBii3TP6uFNSa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164886,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0eoGHsJMApwkfSbWNx26bv"
+    },
+    {
+      "album": {
         "name": "Patient",
         "url": "https://open.spotify.com/album/2kBPkB6EKBuZPWk7eGhU23"
       },
@@ -33202,7 +33278,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176223,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/1rC5ZbKwZv2PTHpNYSvJhM"
@@ -33352,7 +33428,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 155200,
       "name": "Redemption (feat. Nemzzz)",
       "url": "https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY"
@@ -35454,6 +35530,24 @@
       "duration_ms": 196280,
       "name": "SEIHOR",
       "url": "https://open.spotify.com/track/4t2qLFHPbjO7phudQm94Pr"
+    },
+    {
+      "album": {
+        "name": "Selfridges",
+        "url": "https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "Selfridges",
+      "url": "https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd"
     },
     {
       "album": {
@@ -38502,7 +38596,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 136488,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/35lMEgdnxPCBd220h7cTFG"
@@ -39586,6 +39680,24 @@
       "duration_ms": 127612,
       "name": "The Generals Corner (M24)",
       "url": "https://open.spotify.com/track/076FNVwv0Yf39SwDmb8ryH"
+    },
+    {
+      "album": {
+        "name": "blair babies",
+        "url": "https://open.spotify.com/album/5o7UOnKJFoPn38FPH4HNZL"
+      },
+      "artists": [
+        {
+          "name": "Ceebo",
+          "url": "https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211741,
+      "name": "the gospel (as according to tony blair)",
+      "url": "https://open.spotify.com/track/0cH4xuc2UOGWg2wpTxj77y"
     },
     {
       "album": {
@@ -41486,6 +41598,28 @@
       "duration_ms": 166597,
       "name": "TV",
       "url": "https://open.spotify.com/track/4bdMyPBL9j5O9otpyPwF17"
+    },
+    {
+      "album": {
+        "name": "twenty four",
+        "url": "https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g"
+      },
+      "artists": [
+        {
+          "name": "Taylr",
+          "url": "https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "twenty four",
+      "url": "https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM"
     },
     {
       "album": {

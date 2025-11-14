@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-30 songs - 1 hr 36 min
+31 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Breakfast at Tiffany's](https://open.spotify.com/track/0XNQXKMhsHrb8o9X3JpvcQ) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Breakfast at Tiffany's](https://open.spotify.com/album/53idUGP3DERYKpO12we4Xz) | 4:09 | 2024-06-13 |  |
 | [Closer](https://open.spotify.com/track/6LHc0V2Gb698GIPYy5qR3h) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 2:44 | 2024-06-13 |  |
 | [come so far](https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX) | 2:45 | 2024-06-13 |  |
-| [D2F](https://open.spotify.com/track/6tCvZKWqRtKYgXiKUWhSSk) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [D2F](https://open.spotify.com/album/5ohf9THvmzADgCFKwTn1PY) | 3:12 | 2025-05-04 |  |
+| [D2F](https://open.spotify.com/track/70ySCop6QCjP0TBUgXEn0r) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [D2F](https://open.spotify.com/album/0gY6Bvqmt9LA1VafJkFLPo) | 3:12 | 2025-11-13 |  |
+| [D2F](https://open.spotify.com/track/6tCvZKWqRtKYgXiKUWhSSk) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [D2F](https://open.spotify.com/album/5ohf9THvmzADgCFKwTn1PY) | 3:12 | 2025-05-04 | 2025-11-14 |
 | [Disaster](https://open.spotify.com/track/6v5PdrF9NdxTohcNtq8ZRo) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:47 | 2024-06-13 |  |
 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 | 2024-06-13 |  |
 | [Downstairs](https://open.spotify.com/track/7jfqMfPvPqdGnuH4w9YgOt) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 2:45 | 2024-06-13 |  |

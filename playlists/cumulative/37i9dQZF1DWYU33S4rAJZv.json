@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "a cozy christmas",
+        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200222,
+      "name": "mistletoe and holly",
+      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
+    },
+    {
+      "album": {
         "name": "Mistletoe And Holly",
         "url": "https://open.spotify.com/album/16erh4O46uaVuPocbpDBIE"
       },
@@ -2162,6 +2180,24 @@
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167178,
+      "name": "The Christmas Song - Cheery & Bright",
+      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
     },
     {
       "album": {

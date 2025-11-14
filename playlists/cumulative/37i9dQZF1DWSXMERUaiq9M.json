@@ -4823,6 +4823,28 @@
     },
     {
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4qE3DiAGExwNVDXsd8uUuv"
+      },
+      "artists": [
+        {
+          "name": "Jim Jonathan",
+          "url": "https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY"
+        },
+        {
+          "name": "Centre Court",
+          "url": "https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178838,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/6R2TSs7XaceEyovdPOr5Rt"
+    },
+    {
+      "album": {
         "name": "I Wanna Go",
         "url": "https://open.spotify.com/album/3YbiInRvYkmmWq6DHrYsn9"
       },
@@ -7762,7 +7784,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 206027,
       "name": "OK SU KA",
       "url": "https://open.spotify.com/track/5pLZDZ1UaePBUMc2nvLi4z"

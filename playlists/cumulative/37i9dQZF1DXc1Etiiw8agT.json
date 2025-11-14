@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 149166,
       "name": "126 hz LPF Brown Noise",
       "url": "https://open.spotify.com/track/0CR2sYL6dGeIpgpZigcR0t"
@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise For Deep Sleep",
+        "url": "https://open.spotify.com/album/7A4tt4hnFiBaRuYXvV2zA5"
+      },
+      "artists": [
+        {
+          "name": "Thyyphoon",
+          "url": "https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Brown Noise For Deep Sleep",
+      "url": "https://open.spotify.com/track/4V8lyGlvrCdldvGC8EQ1T1"
+    },
+    {
+      "album": {
         "name": "Brown Noise for Focus",
         "url": "https://open.spotify.com/album/6mWJo4K18ceBw2sQ77sykB"
       },
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 266750,
       "name": "Brown Noise Sleep Tunnel",
       "url": "https://open.spotify.com/track/6IqUgsHtCLRmkxcrURAFz2"
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 393845,
       "name": "Luxe Brown Noise",
       "url": "https://open.spotify.com/track/55PN68Zou0tRu2Flp3NhW4"
@@ -4156,7 +4174,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 190000,
       "name": "Pure Brown Noise",
       "url": "https://open.spotify.com/track/0X5PIazm6apxF6zvSJrQeR"
@@ -4678,7 +4696,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 193000,
       "name": "Soothing Brown Noise 304.6 Hz",
       "url": "https://open.spotify.com/track/7FQpbVqEAbbALTGqodrqZL"

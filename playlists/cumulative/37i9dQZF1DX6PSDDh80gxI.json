@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Regaz indie qui sono benvenut* \ud83d\udc98 Cover: Venerus",
+  "description": "Regaz indie qui sono benvenut* \ud83d\udc98 Cover: Tommaso Paradiso",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -908,7 +908,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176531,
       "name": "CAMBIARE PER TE",
       "url": "https://open.spotify.com/track/7a9oIirSBpXrv1Yjg9rLJZ"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 147093,
       "name": "Contrappunto",
       "url": "https://open.spotify.com/track/68mrG2sStpIgbByzj2q2aL"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 206204,
       "name": "Editto Dal Sottoscoglio",
       "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
@@ -2120,6 +2120,24 @@
       "duration_ms": 182373,
       "name": "Flavio",
       "url": "https://open.spotify.com/track/4fsvWE5P0MC7KgwlSpCK1R"
+    },
+    {
+      "album": {
+        "name": "Forse",
+        "url": "https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "Forse",
+      "url": "https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI"
     },
     {
       "album": {
@@ -5339,6 +5357,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185395,
+      "name": "Privilegio stupendo",
+      "url": "https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7"
+    },
+    {
+      "album": {
         "name": "Pugili impazziti",
         "url": "https://open.spotify.com/album/0QPqwp1DpjD5a14pa5Anpd"
       },
@@ -5554,6 +5590,24 @@
       "duration_ms": 197577,
       "name": "quasi all'improvviso",
       "url": "https://open.spotify.com/track/6eocEEZLEKEArXqydsMZHO"
+    },
+    {
+      "album": {
+        "name": "ragnatela",
+        "url": "https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ragnatela",
+      "url": "https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty"
     },
     {
       "album": {
@@ -5816,7 +5870,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 256393,
       "name": "Sciall\u00e0",
       "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
@@ -7102,7 +7156,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176115,
       "name": "un cane per te",
       "url": "https://open.spotify.com/track/1VCOQIBjWRjwgeXtQDmabc"

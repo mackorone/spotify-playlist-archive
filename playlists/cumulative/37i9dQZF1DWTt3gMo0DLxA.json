@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover: OG",
+  "description": "Trending songs from Tollywood! \nCover: Peddi",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -818,6 +818,28 @@
       "duration_ms": 200208,
       "name": "Boss Party",
       "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
+    },
+    {
+      "album": {
+        "name": "Shiva",
+        "url": "https://open.spotify.com/album/1LFucLqgurqybAjoxZPzD5"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. P. Sailaja",
+          "url": "https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266913,
+      "name": "Botany",
+      "url": "https://open.spotify.com/track/4gIFeOjem5ByKkKdtVJfM4"
     },
     {
       "album": {
@@ -1860,12 +1882,12 @@
           "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
         },
         {
-          "name": "Singer Swamy",
-          "url": "https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM"
-        },
-        {
           "name": "Naveen Ja",
           "url": "https://open.spotify.com/artist/3mYh9viWxcMMFV9x5dK79z"
+        },
+        {
+          "name": "Singer Swamy",
+          "url": "https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM"
         }
       ],
       "date_added": "2025-11-03",
@@ -2702,7 +2724,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 164000,
       "name": "Khathyayani",
       "url": "https://open.spotify.com/track/2mbJs7Lst8tAyJ3DIkfLiI"
@@ -4905,6 +4927,28 @@
     },
     {
       "album": {
+        "name": "Shiva",
+        "url": "https://open.spotify.com/album/1LFucLqgurqybAjoxZPzD5"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307014,
+      "name": "Sarasalu",
+      "url": "https://open.spotify.com/track/6UEz7MuRHf4TKFTWFKgmE0"
+    },
+    {
+      "album": {
         "name": "Sarrainodu",
         "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
       },
@@ -5020,7 +5064,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 256774,
       "name": "Sogasu Chudatharama (From \"Telusu Kada\")",
       "url": "https://open.spotify.com/track/3UlG7yRyzw7RsGC0vxVXgO"

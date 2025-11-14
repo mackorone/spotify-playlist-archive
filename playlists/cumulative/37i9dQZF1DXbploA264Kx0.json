@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Night Keepers (\u5b88\u591c\u4eba)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Robot Swing",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/1zhdofXO70KOzcSji9eQZR"
+      },
+      "artists": [
+        {
+          "name": "Maderlin Weng",
+          "url": "https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/3KozdeD4NNXxgWa0s4N8I6"
+    },
+    {
+      "album": {
         "name": "Fear (Mong Tong Remix)",
         "url": "https://open.spotify.com/album/3Gz3xyZhWUfIyvxNEFLu4g"
       },
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 161086,
       "name": "Healed",
       "url": "https://open.spotify.com/track/7LgSkEul4go8yUWDYKkbNa"
@@ -5817,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "Override!",
+        "url": "https://open.spotify.com/album/25tlbetikHiDQ4Qe7veV2W"
+      },
+      "artists": [
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Robot Revolution",
+      "url": "https://open.spotify.com/track/1oFZdO313TxVIMrurGaaWa"
+    },
+    {
+      "album": {
         "name": "SYSTEM BOOTING...",
         "url": "https://open.spotify.com/album/4g2Cby7UzbEqYdMiUE6AQo"
       },
@@ -6418,7 +6454,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 183056,
       "name": "SOMA",
       "url": "https://open.spotify.com/track/2AZDrUgXPKlEk5jYI3oBXY"
@@ -9429,6 +9465,28 @@
     },
     {
       "album": {
+        "name": "\u6211\u4e0d\u61c2",
+        "url": "https://open.spotify.com/album/1wdaw0pyAHQn1gSIjVgrcL"
+      },
+      "artists": [
+        {
+          "name": "Zuk1",
+          "url": "https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9"
+        },
+        {
+          "name": "T-easy",
+          "url": "https://open.spotify.com/artist/3AgDE5xkoPyn5sFxhwyTCi"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "\u6211\u4e0d\u61c2",
+      "url": "https://open.spotify.com/track/3JfR9BPmSh2Xcjhlh2fbxD"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh"
       },
@@ -10782,7 +10840,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 256679,
       "name": "\u8a02\u55ae\u5728\u54ea\u88e1 Mana Doaku",
       "url": "https://open.spotify.com/track/5vEgbr96UY68WoMjtwqnaq"

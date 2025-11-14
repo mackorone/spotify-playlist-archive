@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Series of Unfortunate Events",
+        "url": "https://open.spotify.com/album/2l9ZNGlbuDNgehXIfnF9yw"
+      },
+      "artists": [
+        {
+          "name": "a!ka",
+          "url": "https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "A Series of Unfortunate Events",
+      "url": "https://open.spotify.com/track/2HNjm4tIEuvBenfsqlfXVG"
+    },
+    {
+      "album": {
         "name": "Abot Langit (Ricovered)",
         "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
       },
@@ -118,6 +136,24 @@
       "duration_ms": 231840,
       "name": "Akong Addiction",
       "url": "https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN"
+    },
+    {
+      "album": {
+        "name": "akong ako",
+        "url": "https://open.spotify.com/album/4PP76TdEXfunxuGXh9MkL5"
+      },
+      "artists": [
+        {
+          "name": "dana paulene",
+          "url": "https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209294,
+      "name": "akong ako",
+      "url": "https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2"
     },
     {
       "album": {
@@ -592,6 +628,28 @@
       "duration_ms": 192000,
       "name": "Delusyon",
       "url": "https://open.spotify.com/track/2cCDHJUUC9NmxPPr7JkP3R"
+    },
+    {
+      "album": {
+        "name": "II: The second",
+        "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197031,
+      "name": "Di Nakakasawa",
+      "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
     },
     {
       "album": {
@@ -1798,7 +1856,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 262840,
       "name": "Pag-Ibig (Meron Ba?)",
       "url": "https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m"
@@ -2414,7 +2472,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 255661,
       "name": "Simula Pa Nung Una",
       "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
@@ -2896,7 +2954,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 264413,
       "name": "With a Smile (feat. Kelly Badon)",
       "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"

@@ -2,9 +2,9 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Schlotte, laurin
+> Indie, Pop und Rap mit deutschen Texten\. Cover: Mika Noé
 
-1,484 songs - 2 day 21 hr 59 min
+1,487 songs - 2 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Ach Du Liebe Zeit](https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Ach Du Liebe Zeit](https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP) | 2:24 | 2024-09-05 | 2024-11-08 |
 | [Achilles](https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Achilles](https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8) | 2:39 | 2023-03-30 | 2025-02-15 |
 | [Achterbahn](https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L) | [Definitely Not Luke](https://open.spotify.com/artist/4Oxu8bs0EB64KkSBGOLlkt) | [Achterbahn](https://open.spotify.com/album/4buWxLZ020iTdmt7PDGLL9) | 3:10 | 2023-03-09 | 2023-03-31 |
+| [AIBAMFMD <3](https://open.spotify.com/track/7tdsfCxobjiM7yzACtDaCd) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [AIBAMFMD <3](https://open.spotify.com/album/26r6vXsxamz3QsFpFS7vhA) | 2:38 | 2025-11-13 |  |
 | [AIRPOD CASE](https://open.spotify.com/track/3KdROIrtb9AxJIv2sYYBNm) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [AIRPOD CASE](https://open.spotify.com/album/6qaHRoTR4ExNpgyUcVEZsX) | 2:16 | 2025-06-19 | 2025-07-10 |
 | [Akademie der bildenden Künste](https://open.spotify.com/track/2Fdlm11Yt6g7Hk9CRKZGqq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/4czKDXmW22XoBTHqHQ6xha) | 2:46 | 2023-05-11 | 2023-06-07 |
 | [Akademie der bildenden Künste](https://open.spotify.com/track/6uQAZMFNPejBdiRnp6F03D) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/2PTfiTtj8qymWaeHFEFZWQ) | 2:46 | 2023-06-01 | 2023-06-30 |
@@ -472,7 +473,7 @@
 | [Frost an deinem Fenster](https://open.spotify.com/track/5wy79pCGzl95RFHyjgWxVs) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Frost an deinem Fenster](https://open.spotify.com/album/3DC5TFf1M5I2RvGlwKtcYc) | 2:33 | 2024-12-05 | 2025-02-07 |
 | [früher](https://open.spotify.com/track/4y6xoUAcVI5ouFgf4mu891) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [früher](https://open.spotify.com/album/4hducqbnJ6VqTefGiSdNpd) | 3:08 | 2025-04-24 | 2025-05-09 |
 | [Frühstück bei Tiffany](https://open.spotify.com/track/19AcOqKvhhgagNly6AcHQC) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Frühstück bei Tiffany](https://open.spotify.com/album/0oHrksXV8Ux6p9zKFTQrSO) | 2:45 | 2024-10-17 | 2024-11-15 |
-| [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 | 2025-08-14 |  |
+| [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 | 2025-08-14 | 2025-11-14 |
 | [Funken](https://open.spotify.com/track/3UK14tJPljA8ZQKICKe7cz) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Funken](https://open.spotify.com/album/6wugW8D1hFDRDOqxrTud60) | 3:11 | 2025-03-06 | 2025-04-04 |
 | [Funkroboter](https://open.spotify.com/track/6AqMpfEXlehRtgCf3Ty98Q) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [TimmyT](https://open.spotify.com/artist/06mH4KpBiqTcLHFiUKpZ89), [Friedrich Liechtenstein](https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV) | [Funkroboter](https://open.spotify.com/album/6cXsWtUgdTmZTgUPbiz2fZ) | 3:35 | 2023-06-15 | 2023-08-11 |
 | [fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 | 2024-03-14 | 2024-06-21 |
@@ -812,6 +813,7 @@
 | [Liebeslied](https://open.spotify.com/track/5yf926Kfq9Wv2vGJ11hCn1) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Liebeslied](https://open.spotify.com/album/3xwdlG4DPUcouIA1Mg7IwV) | 2:42 | 2023-02-13 | 2024-02-16 |
 | [Liebeslieder](https://open.spotify.com/track/2DiM40iTWQdrRt0TqSZQfr) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Liebeslieder](https://open.spotify.com/album/7dUu1CouJlkNjXppuGiHIC) | 2:53 | 2025-09-11 | 2025-09-26 |
 | [Lieblingsbild](https://open.spotify.com/track/3KxbfQqwKR0Vq9G22ULXAZ) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Lieblingsbild](https://open.spotify.com/album/7KMac5VgVo0Vb8LmyGatQ0) | 2:51 | 2025-02-27 | 2025-03-28 |
+| [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 | 2025-11-13 |  |
 | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/track/7M6917K5sAg3aejbjooySB) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l) | 2:48 | 2024-06-13 | 2024-07-05 |
 | [Lieder die du magst](https://open.spotify.com/track/1yfUth1wqtfr1p7q5PBipG) | [Kendrick](https://open.spotify.com/artist/194sSyN6bI2mufnRuawB3f) | [Lieder die du magst](https://open.spotify.com/album/1GjnXvm0kw787ISMidaer4) | 2:01 | 2025-03-06 | 2025-05-23 |
 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 | 2025-07-17 | 2025-08-09 |
@@ -853,7 +855,7 @@
 | [Marathon](https://open.spotify.com/track/3dNjDMod4qSZ1kM0QGhRc3) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Marathon](https://open.spotify.com/album/6lDGrMh75TwqSJyygAMmfB) | 2:35 | 2024-08-29 | 2024-09-20 |
 | [Marlboro](https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Marlboro](https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj) | 2:32 | 2023-10-12 | 2023-11-17 |
 | [Marlboro Mann](https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Marlboro Mann](https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB) | 2:56 | 2025-11-06 |  |
-| [Marmeladenglas](https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Marmeladenglas](https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w) | 2:06 | 2025-08-14 |  |
+| [Marmeladenglas](https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Marmeladenglas](https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w) | 2:06 | 2025-08-14 | 2025-11-14 |
 | [Mars](https://open.spotify.com/track/2pBJ5niLIzgziC8MsL7A4F) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Mars](https://open.spotify.com/album/1rp2rarNiSFB7ZqkIs5zPu) | 4:52 | 2025-09-04 |  |
 | [marseille](https://open.spotify.com/track/57ufrqhwjOnHIahY1S2CjM) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [bunte farben](https://open.spotify.com/album/0NLlCBbWgYUu1FqacMpMLs) | 2:51 | 2024-02-29 | 2024-05-17 |
 | [MASCHINEN](https://open.spotify.com/track/6vFoROVLo7CzKd5snb62hz) | [JPD](https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN), [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC) | [MASCHINEN](https://open.spotify.com/album/6ayhrCp47VQ1bcrnPXj7S7) | 2:20 | 2024-09-26 | 2024-10-11 |
@@ -895,6 +897,7 @@
 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 | 2023-11-16 | 2024-02-14 |
 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 | 2023-08-10 | 2023-10-20 |
 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 | 2024-02-08 | 2024-06-21 |
+| [Monobloc](https://open.spotify.com/track/2IhPaNuIuFIFE7r4eOgOhh) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Monobloc](https://open.spotify.com/album/5zzXAbbVglZLcLXzfQ8C1S) | 2:03 | 2025-11-13 |  |
 | [monogame liebe](https://open.spotify.com/track/4ZVhSSeY27owXp3cpZCm7r) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [monogame liebe](https://open.spotify.com/album/70pAG7npnWIwOD6COFkcxk) | 2:15 | 2024-04-25 | 2024-07-05 |
 | [Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Monster](https://open.spotify.com/album/5yWCQzEieyTdAkNZjEhF0q) | 3:21 | 2025-06-26 | 2025-08-02 |
 | [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 | 2024-12-05 | 2025-03-01 |
@@ -1068,7 +1071,7 @@
 | [ruf nach mir](https://open.spotify.com/track/4nji8zmK7jkznIcGmrRoiC) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [ruf nach mir](https://open.spotify.com/album/653bDkl5Ewg07jJLnH9oNB) | 2:49 | 2025-03-06 | 2025-04-04 |
 | [Rummelplatz](https://open.spotify.com/track/5KfbjvEXuvJh5d5gXnbTUG) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/1TZkquO0U0wdcUDGACsOHV) | 3:14 | 2023-02-02 | 2023-02-17 |
 | [rumpelstilzchen](https://open.spotify.com/track/6dyGPZ3X6fV2uxZEhbeOz0) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [aus meiner haut](https://open.spotify.com/album/4TNQ3Pw48XFyARr4VxirAE) | 3:34 | 2024-04-04 | 2024-04-26 |
-| [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 | 2025-08-14 |  |
+| [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 | 2025-08-14 | 2025-11-14 |
 | [Rückbank](https://open.spotify.com/track/0eykQulskSplL3BJ3YWBfe) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Rückbank](https://open.spotify.com/album/5rZPP4RZsAgziV6ZKcBFDS) | 3:04 | 2025-09-04 | 2025-10-10 |
 | [S\-Bahn](https://open.spotify.com/track/1OQH0PNPEo19niTVMXe6yS) | [daviid](https://open.spotify.com/artist/7IgnibAbELPF27AtaVahbM), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [S\-Bahn](https://open.spotify.com/album/6TJiwS41xu92moF2Tp3jor) | 2:25 | 2025-02-27 | 2025-03-07 |
 | [sad girl summer](https://open.spotify.com/track/7pVdFkXNZRr4F12K0hiUPy) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/2ZmXJSHjGlDKrQLoio24kk) | 3:27 | 2024-09-05 | 2024-09-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,342 likes - 93 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,364 likes - 93 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 70 | [Chutney Boy](https://open.spotify.com/track/0vdKCaCEbt0LgvM4w8zazu) | [Natalie Yorke](https://open.spotify.com/artist/4PhFyNoTIMJ7sM22KcqipS) | [Chutney Boy](https://open.spotify.com/album/1UMPIHK80EIDyG4O2pjMiL) | 4:24 |
 | 71 | [Orientale](https://open.spotify.com/track/3q2wVcssKQS0ETSNZSn1pr) | [Cristiano Malgioglio](https://open.spotify.com/artist/5cGyeP8xbP5ENwYBCUFK19) | [Italian Classics: Cristiano Malgioglio, Vol\. 2](https://open.spotify.com/album/6D7XM2VUyB08wsBTBpETwY) | 4:20 |
 | 72 | [T'amo amore t'amo](https://open.spotify.com/track/1Wgnb7tVXqz5IMiL98EysD) | [Salvo Nicolosi](https://open.spotify.com/artist/3lQ5aXkwdWj7vmg2zBswp1) | [La bomba](https://open.spotify.com/album/63WrdFSMzW7eSVRzlTlrQL) | 4:06 |
-| 73 | [Amarsi un po' \- Remastered](https://open.spotify.com/track/5MHUCw9nrw2RpHbl384ZAR) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Io tu noi tutti](https://open.spotify.com/album/2MU5YedaxyeNA8gKh1BfMJ) | 5:03 |
+| 73 | [Amarsi un po' \- Remastered](https://open.spotify.com/track/5MHUCw9nrw2RpHbl384ZAR) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Io tu noi tutti](https://open.spotify.com/album/2MU5YedaxyeNA8gKh1BfMJ) | 5:06 |
 | 74 | [Dracme](https://open.spotify.com/track/5dj7jdt9fhAZoHNn0lCrUW) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Pezzi Della Sera](https://open.spotify.com/album/4zRAT9VgY87szB4Gufc2t9) | 3:26 |
 | 75 | [Existe Uma Voz](https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:45 |
 | 76 | [Ayer Sonreí](https://open.spotify.com/track/7K1hBIDaYwqkH8vBnsHvtH) | [Las Cuatro Monedas](https://open.spotify.com/artist/66lhsXmHiV0j5gzhDKOFKg) | [Las Cuatro Monedas](https://open.spotify.com/album/3NY731kc1zNgTmRSDVBdb0) | 3:06 |

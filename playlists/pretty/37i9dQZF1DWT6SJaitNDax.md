@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: FOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,797 likes - 127 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,826 likes - 127 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 16 | [Fine Lady](https://open.spotify.com/track/6xA693QFS4Zbsm7pw87JZU) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Bleu](https://open.spotify.com/album/7w3CB3waJSsFRIGNF7TKo4) | 2:45 |
 | 17 | [Full Control](https://open.spotify.com/track/2xr0ywPuXSYyS76fwcIIrd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Full Control](https://open.spotify.com/album/0pvp4xWgpyl4ftXfJA8izS) | 2:27 |
 | 18 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
-| 19 | [Oga](https://open.spotify.com/track/6U99uyI9OzjczZuZNfIAiX) | [Chubby AB](https://open.spotify.com/artist/4MP9FwfPESAcKdykjl2xX3), [Sawd Yute](https://open.spotify.com/artist/5Az3VTsr8vho9FuamObjId) | [Oga](https://open.spotify.com/album/2EQMWjI3l1gHbHCogtrqWs) | 2:36 |
+| 19 | [Oga](https://open.spotify.com/track/6U99uyI9OzjczZuZNfIAiX) | [Chubby AB](https://open.spotify.com/artist/1PXarJqfpZptAtcY5NnMpR), [Sawd Yute](https://open.spotify.com/artist/4Hg54fQwOZ8dGeLN17vRTX) | [Oga](https://open.spotify.com/album/2EQMWjI3l1gHbHCogtrqWs) | 2:36 |
 | 20 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
 | 21 | [Body ​\(f​eat​\. Joeboy​\)](https://open.spotify.com/track/7dl6PILBG4EoGetKCME513) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:45 |
 | 22 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 |

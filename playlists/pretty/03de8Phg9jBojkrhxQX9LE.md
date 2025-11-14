@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,724 likes - 155 songs - 8 hr 40 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,723 likes - 155 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 5 | [With Your Love](https://open.spotify.com/track/3T1CFsOfNi9Dy9cMtjNdEQ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [With Your Love](https://open.spotify.com/album/6HjOkGo6xdNpBJSTa4FlDK) | 3:02 |
 | 6 | [Slamming Keys](https://open.spotify.com/track/1GeX2OkgjIrbeYvdal06lM) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Slamming Keys](https://open.spotify.com/album/0vspru0FpBRSg9OWMpHyT1) | 3:02 |
 | 7 | [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 |
-| 8 | [Till I Die](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
+| 8 | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 |
 | 9 | [Deep In The Underground](https://open.spotify.com/track/0IvVCubKR3KqQ1EBX5Qx3t) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Deep In The Underground](https://open.spotify.com/album/1r70knAHAUc8AmQ7fEzUya) | 2:37 |
 | 10 | [I Cannot](https://open.spotify.com/track/7rgnKPJ51NBGP5k20yaSHn) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [I Cannot](https://open.spotify.com/album/4jAmLhda79FRXBRTLNj9nL) | 3:09 |
 | 11 | [crystallized \(feat\. Inéz\) \- Subtronics Remix](https://open.spotify.com/track/0nRYjxQQCzMVyjgpTtKjLt) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\) \- Subtronics Remix](https://open.spotify.com/album/2KulydPxAQzfTOikjrntDI) | 3:35 |

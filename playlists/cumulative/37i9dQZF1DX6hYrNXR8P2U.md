@@ -2,9 +2,9 @@
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> porque sí.<br/>📷 Juan Ingaramo
+> MUY PIOLA<br/>📷 Usted Señalemelo
 
-558 songs - 1 day 5 hr 12 min
+560 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,10 +447,12 @@
 | [seu carinho](https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [seu carinho](https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh) | 2:38 | 2024-04-26 | 2024-06-01 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-24 | 2024-08-13 |
 | [Señales de Humo](https://open.spotify.com/track/6iJfLdzcOHK6blCkl0xSxZ) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [Rio de la Plata](https://open.spotify.com/album/0ylmdY2EkG0WnUwPdhmSbf) | 4:04 | 2024-08-30 | 2024-11-09 |
+| [Seúl](https://open.spotify.com/track/3yoI47UbxuCojhxspj2lo0) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Seúl / Matarme con vos](https://open.spotify.com/album/3LWSktH775QjtDFA2XoWRH) | 2:24 | 2025-11-14 |  |
 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 | 2024-02-16 | 2024-03-30 |
 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 | 2024-10-18 | 2025-10-25 |
 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 | 2023-12-15 | 2024-03-30 |
 | [Siente Bien](https://open.spotify.com/track/1WESlvnTN73QCmUbzybPsB) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Siente Bien](https://open.spotify.com/album/7zFEB77vKHYpfKn0zG6dPb) | 3:06 | 2025-05-19 | 2025-07-05 |
+| [Siga Siga](https://open.spotify.com/track/7j9UpLlhUeAAM4phdLGDJH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Ilusión Supersport](https://open.spotify.com/album/6L3tyYGy28herSTtFsKYIM) | 2:39 | 2025-11-14 |  |
 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 | 2023-10-13 | 2024-07-06 |
 | [sin mirar](https://open.spotify.com/track/4FzA5DKCpBhPD5z3JlX0NO) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [sin mirar](https://open.spotify.com/album/256sP7HP2JdilDPCAmAs4t) | 1:42 | 2025-01-17 | 2025-02-15 |
 | [SIN TI](https://open.spotify.com/track/0JxLBxUnL4NL01OmhbqutD) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [SIN TI](https://open.spotify.com/album/0qai8pi4z5sN95OHaaJrn3) | 2:57 | 2023-11-17 | 2024-02-17 |

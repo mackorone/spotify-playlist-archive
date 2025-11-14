@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 29762,
+  "num_followers": 29768,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAADDWRYKSKsddSdCiW3rfWWg",
+  "snapshot_id": "aRPOAAAAAACdSaLS59c9ZjTn2VFW3hGf",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/3WVZ2pRenWqfKdRw3c350C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Whole New Thing",
         "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 237800,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/2VHALpy5ewC9SAZS6n1hqm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't But The One Way",
-        "url": "https://open.spotify.com/album/2AAKJcJfC2KSGZfR9W9nR4"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Ha Ha, Hee Hee",
-      "url": "https://open.spotify.com/track/22P9q4YxqhWcTOVMar9TT0"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+        "name": "Ain't But The One Way",
+        "url": "https://open.spotify.com/album/2AAKJcJfC2KSGZfR9W9nR4"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 173733,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/3WVZ2pRenWqfKdRw3c350C"
+      "duration_ms": 225426,
+      "name": "Ha Ha, Hee Hee",
+      "url": "https://open.spotify.com/track/22P9q4YxqhWcTOVMar9TT0"
     },
     {
       "added_at": null,

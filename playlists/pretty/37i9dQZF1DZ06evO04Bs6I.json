@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116352,
+  "num_followers": 116357,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAAC62JK8NTTR9lDlyfnHrozK",
+  "snapshot_id": "aRPOAAAAAABqXlrEpdV1uGi1wfv40rvQ",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "Alian\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Tenho Voc\u00ea",
         "url": "https://open.spotify.com/album/3aQavEzfViHr3Qi6xaRNB9"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 394960,
       "name": "Eu Tenho Voc\u00ea",
       "url": "https://open.spotify.com/track/0oMn4ekYhRgtFMbAAzR0r9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 332906,
+      "name": "Alian\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "Azeite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 290080,
       "name": "Deus Faz Al\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "Azeite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz"
     },
     {
       "added_at": null,
@@ -575,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ovelhinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
       "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 298948,
-      "name": "Cruz em Ti (Ao Vivo)",
-      "url": "https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO"
+      "duration_ms": 259862,
+      "name": "Assume A Responsa",
+      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
       },
       "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 259862,
-      "name": "Assume A Responsa",
-      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+      "duration_ms": 298948,
+      "name": "Cruz em Ti (Ao Vivo)",
+      "url": "https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tchururu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/75pjd5uKrhMyLhBt1wXDcV"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 224062,
-      "name": "Tchururu - Ao Vivo",
-      "url": "https://open.spotify.com/track/6l4gqSvRVyiaP7mIIA63Hs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 773437,
       "name": "Tu \u00c9s Tudo",
       "url": "https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tchururu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/75pjd5uKrhMyLhBt1wXDcV"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 224062,
+      "name": "Tchururu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6l4gqSvRVyiaP7mIIA63Hs"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palavras e Palavras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 326136,
-      "name": "Palavras e Palavras - Ao Vivo",
-      "url": "https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 276080,
       "name": "Em Troca",
       "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palavras e Palavras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 326136,
+      "name": "Palavras e Palavras - Ao Vivo",
+      "url": "https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dependente de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 242602,
-      "name": "Lindo Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 240697,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dependente de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 242602,
+      "name": "Lindo Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW"
     },
     {
       "added_at": null,

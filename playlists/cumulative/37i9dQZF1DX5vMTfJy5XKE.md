@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Jonas Brothers
 
-960 songs - 2 day 3 hr 15 min
+961 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [O Come All Ye Faithful](https://open.spotify.com/track/0Qg6c3We3Ol8zMi7k1E0dD) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [O Come All Ye Faithful](https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI) | 4:30 | 2021-12-24 | 2022-07-25 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/2EDdWfBwIQPR94gbGIDHeE) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [O Come All Ye Faithful](https://open.spotify.com/album/2Tb5yS61H1XeS8BNqG9VSq) | 3:33 | 2024-12-03 | 2025-09-27 |
 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 | 2025-10-15 |  |
+| [O Come, O Come Emmanuel](https://open.spotify.com/track/6P0W0azMoFa2GchGcRlQdA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [O Come, O Come Emmanuel](https://open.spotify.com/album/0i8kFlv1Sf4LQRjYMQ4DwJ) | 4:32 | 2025-11-07 |  |
 | [O Come, O Come Emmanuel \- \(LIVE\)](https://open.spotify.com/track/1JTeFxmkEddzZEphSzJJzF) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas \(LIVE\) \[The Cinematic Concert Album\]](https://open.spotify.com/album/21WSbTkFweBSY9F6rCblFd) | 4:10 | 2024-11-22 | 2025-09-27 |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/02EqC5FYolOzRXb3mUiPlM) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [O Come, O Come, Emmanuel](https://open.spotify.com/album/2s8owMRViyWBnztyAUNG2i) | 5:15 | 2024-11-04 | 2025-09-27 |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/1DLI4lVWn4hhfFTr6JcuLb) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 3:16 | 2021-12-24 | 2022-09-28 |

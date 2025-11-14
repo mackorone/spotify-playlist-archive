@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-56 songs - 2 hr 32 min
+57 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [声なき魚 \- 新川崎（仮）](https://open.spotify.com/track/1kl79lBHASMMrhpTMoH8Ld) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [声なき魚 \(新川崎（仮）\)](https://open.spotify.com/album/4t49T3MWnwel3cqDKAWKsD) | 3:00 | 2024-04-19 |  |
 | [心象的フラクタル \- beni\-shouga](https://open.spotify.com/track/0D93yzeKsimKoXc9mEH6tI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [心象的フラクタル \(beni\-shouga\)](https://open.spotify.com/album/1FJLaCFfCGQaBNgqERAcQg) | 2:58 | 2024-05-10 |  |
 | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/track/35ngbRAZzlyKxFwrt119nE) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/album/2l6eJUlIyv9YUdJVVqzEza) | 0:28 | 2024-05-03 |  |
+| [最期の禱り](https://open.spotify.com/track/4MKCnMr1ky8cBHs6fvZtIK) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [小指立てませんか](https://open.spotify.com/album/1MQjwJVLmyEFAMFA8Pi2uw) | 3:06 | 2025-11-13 |  |
 | [極私的極彩色アンサー](https://open.spotify.com/track/3wemos54Nu8zliDXfDjfvK) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [極私的極彩色アンサー](https://open.spotify.com/album/4RJ3m1en7gKpVGpXTNjCdM) | 2:33 | 2024-04-12 |  |
 | [気鬱、白濁す](https://open.spotify.com/track/2wxq162dGuXaQuhFMbgLSp) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [気鬱、白濁す](https://open.spotify.com/album/2gqiFS1rMMBYjrPi7NtFzn) | 3:05 | 2024-04-12 |  |
 | [渇く、憂う](https://open.spotify.com/track/2mDf4R9sMkCa5qMJLyKGEm) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [渇く、憂う](https://open.spotify.com/album/6vNsSj5nfVuI9CCeO0QfCN) | 2:39 | 2025-10-19 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-7,874 songs - 20 day 7 hr 40 min
+7,876 songs - 20 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [\(She's\) Just a Phase](https://open.spotify.com/track/0NfKkSlUJWTbECFqrO0bp1) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Swum Baby](https://open.spotify.com/album/2p47OHaW1agrdBbgBP1S3W) | 3:06 | 2025-01-15 |  |
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2025-05-17 |  |
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 | 2025-07-17 |  |
+| [\(Why Do\) I Have to Get Up Tomorrow](https://open.spotify.com/track/0nwFLPwetTfIn7yZ4rt1A8) | [thquib](https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm) | [Deep Morning](https://open.spotify.com/album/1ZsCg7SUvQoiHUkEb6ioGC) | 2:12 | 2025-11-13 |  |
 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 | 2025-01-15 |  |
 | [\-HEROIC ADVENT\-](https://open.spotify.com/track/44Yyx6ZX9kIS9KC0OO1iYh) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Passionate Starmine](https://open.spotify.com/album/26bAggFQvGhfpZJLRdiDO4) | 3:41 | 2025-09-08 |  |
 | [...And the World Is Moving Somewhere](https://open.spotify.com/track/678YMJdXSPcP8Lpfw2Ov3A) | [Moonbrew](https://open.spotify.com/artist/4hIbcgjW07lDwyea7mJh4w) | [...And the World Is Moving Somewhere](https://open.spotify.com/album/5VyyKn1OnIWcAe2GY9WIFd) | 2:40 | 2025-04-30 |  |
@@ -2797,6 +2798,7 @@
 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 | 2025-01-03 |  |
 | [I Hope You Find Your Way Home](https://open.spotify.com/track/0pvZCv4JOS5WBu7JITYef6) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2025-01-15 |  |
 | [I Just Had Sex](https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:46 | 2025-01-04 |  |
+| [I Just Love the 50s!!!](https://open.spotify.com/track/1At66VMSGx03JwOrHEGMXj) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt\. 2](https://open.spotify.com/album/7pmuSRFBvY0D0tce5dpqdY) | 1:17 | 2025-11-13 |  |
 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 | 2025-01-03 |  |
 | [I Killed You](https://open.spotify.com/track/3GdwjAsCsoE79ObhsJFyYb) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:48 | 2025-01-01 |  |
 | [I Knew You Were Trouble.](https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 3:37 | 2025-01-15 |  |

@@ -4,7 +4,7 @@
 
 > La scène rap francophone sans frontières\. Photo: Kaaris
 
-344 songs - 17 hr 13 min
+345 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [C'EST RELOU](https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [C'EST RELOU](https://open.spotify.com/album/2s4PgkJiWCVMkEpDQ5ASHq) | 2:00 | 2025-05-16 |  |
 | [Ca parle mal](https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Pour la miff\)](https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J) | 2:56 | 2025-01-24 | 2025-10-11 |
 | [CAD \- Freestyle](https://open.spotify.com/track/2lNoS6A5x6D8aVQU24VOTI) | [MTL RAP](https://open.spotify.com/artist/6ZzR5GdqiXENtm5afmfTSZ), [MK](https://open.spotify.com/artist/0rfQQsDBxgKZfoL1gIul88) | [CAD \(Freestyle\)](https://open.spotify.com/album/37h7hDOgQFA4ghOB27SnXB) | 3:30 | 2025-10-17 |  |
+| [CALM DOWN](https://open.spotify.com/track/0xb8ULot226YGb27S6tSuQ) | [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [CALM DOWN](https://open.spotify.com/album/2dUUo9RBLqvAF1hZ6THZMk) | 2:12 | 2025-11-07 |  |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2023-03-03 | 2023-06-24 |
 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 | 2024-05-24 | 2024-06-15 |
 | [Cantona](https://open.spotify.com/track/2JVPQ5VbURgorwJH0LPAeS) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Cantona](https://open.spotify.com/album/5x5dSJS2FjUMe2pFYPqK8f) | 2:50 | 2025-08-01 | 2025-11-01 |

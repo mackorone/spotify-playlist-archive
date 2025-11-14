@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Weda Mauve
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: GANGGA
 
-520 songs - 1 day 6 hr 16 min
+527 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Constellation](https://open.spotify.com/track/70XVtHxUVOZo94bC0SPRCO) | [LOTUS FROM JAKARTA](https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG) | [Constellation](https://open.spotify.com/album/5twXA2RyqE0JZEg9UyQxp1) | 4:44 | 2025-10-03 |  |
 | [cool enough for you](https://open.spotify.com/track/595HL0O9cpL8vYwb9GpbAB) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [cool enough for you](https://open.spotify.com/album/7vA18NCulyMLrOtAZaA3AF) | 3:21 | 2024-08-01 | 2025-01-24 |
 | [Cosmos](https://open.spotify.com/track/1VtO0KNA5dhSp3Tp4ufQq9) | [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Cosmos](https://open.spotify.com/album/3TyrEQXO4XM1K7mwTq2Vjw) | 4:28 | 2024-09-26 | 2025-01-18 |
+| [Crave Me, Superstar](https://open.spotify.com/track/58zF0g3So838gVtFMWJQ3h) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Technicolor Meeting](https://open.spotify.com/album/4ytWptqrooC52m6hkyB6mD) | 4:55 | 2025-11-13 |  |
 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 | 2024-11-15 | 2025-08-08 |
 | [crimson lullaby](https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [crimson lullaby](https://open.spotify.com/album/55fOMHbP3P9EWSoceHIkpo) | 3:25 | 2025-01-17 |  |
 | [Crown](https://open.spotify.com/track/1zMB9Lc5euKQWMUjPHghcv) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Evolve](https://open.spotify.com/album/6MtNCqErxlSmfuGiEuTwpj) | 2:56 | 2024-11-21 | 2025-09-30 |
@@ -192,6 +193,7 @@
 | [Gone, Gone Again](https://open.spotify.com/track/3lLQXvcJwJezHqcnSSXvOk) | [Michael Rickard](https://open.spotify.com/artist/45Ci3JIPLftPkHA30hEH1b) | [Gone, Gone Again](https://open.spotify.com/album/6CuBCqYED6RUZdn3niCeeU) | 3:25 | 2025-05-15 | 2025-06-13 |
 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 | 2025-03-21 | 2025-05-09 |
 | [GOOD GIRL](https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [GOOD GIRL](https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi) | 2:53 | 2025-06-26 | 2025-08-08 |
+| [Good Morning, Goodbye](https://open.spotify.com/track/4Fb1gbBMGtDSx9CTfLHPBO) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Good Morning, Goodbye](https://open.spotify.com/album/1BFvEfpMYM71nuRxbdANUA) | 3:21 | 2025-11-13 |  |
 | [Gotchu](https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv) | [Gotchu](https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z) | 3:02 | 2024-08-01 | 2024-09-27 |
 | [GP5](https://open.spotify.com/track/6NQ3prsIYwHWpp0JXvZiQH) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [GP5](https://open.spotify.com/album/7Ab5uQR4vYCqw0CpoFc4W3) | 2:28 | 2024-10-03 | 2025-01-18 |
 | [Greedy](https://open.spotify.com/track/5FYnl9ZJkkB7SlQsfSWx3z) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Greedy](https://open.spotify.com/album/4gPCF2bVowiYubLshSzfHE) | 2:30 | 2024-07-25 | 2024-09-06 |
@@ -411,6 +413,7 @@
 | [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 | 2025-06-13 |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-06-27 | 2025-01-24 |
 | [Shadows of Goodbye](https://open.spotify.com/track/4FcnID6A9ecLg6K8JVOB3C) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX), [Leo Hartley](https://open.spotify.com/artist/6ih6ExFcIl58uv2jBLEEp2) | [Shadows of Goodbye](https://open.spotify.com/album/711Hf4CHjqtFATdDZifiOh) | 3:15 | 2024-10-31 | 2025-01-24 |
+| [SHE](https://open.spotify.com/track/2m3Jv5Wo0vHG9CS5uw9I0P) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [SHE](https://open.spotify.com/album/4S869zHvjKRHNFtSSL9Gjo) | 3:52 | 2025-11-13 |  |
 | [She Told Me Everything](https://open.spotify.com/track/43bd6diCww6vwmHc6kAmbw) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [She Told Me Everything](https://open.spotify.com/album/0wl3QHxUnisiTMoRQFuT0w) | 3:22 | 2025-04-03 | 2025-05-30 |
 | [She's Mysterious](https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg) | [Hotel Du Monde](https://open.spotify.com/album/093p6MOfrOmzMnDzymMEvq) | 2:44 | 2025-10-30 |  |
 | [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 | 2024-10-17 | 2025-01-24 |
@@ -438,6 +441,7 @@
 | [special wishes 3](https://open.spotify.com/track/4n2F4nUFAEZwYNJ5dFQ8CU) | [Kareem Soenharjo](https://open.spotify.com/artist/3a8I3dOLEe0Mliys7Jaxdp) | [special wishes 3](https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP) | 2:38 | 2024-12-12 | 2025-07-18 |
 | [SPLIT](https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SPLIT](https://open.spotify.com/album/0cjjgDrwEWPxrc5GyqNhZz) | 3:13 | 2024-06-27 | 2024-08-02 |
 | [stasis](https://open.spotify.com/track/2wDbO57z9mAGligAmR3j5T) | [brrr](https://open.spotify.com/artist/3vrbcpXGhZhRuD7gihiOnl) | [stasis](https://open.spotify.com/album/1RkAMBCqWjmoEzYYRKdtrV) | 4:13 | 2025-09-29 | 2025-10-04 |
+| [Stay](https://open.spotify.com/track/2qkNJZjX2cuCTOWYZkG2VX) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF), [Marryanne](https://open.spotify.com/artist/2uoTgtfuemVJ9Lh40FNQb7) | [Fill](https://open.spotify.com/album/1x00UZok4NU7WM37oXez2p) | 3:37 | 2025-11-13 |  |
 | [Stay Asleep](https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Stay Asleep](https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S) | 3:20 | 2024-06-27 | 2024-07-27 |
 | [Stay?](https://open.spotify.com/track/3BN1BLJzz1LQzdrMNfqPDZ) | [Satrio Pamungkas](https://open.spotify.com/artist/1XfSriHUiYbgNbngsYlCBg) | [Stay?](https://open.spotify.com/album/0xC0kRCunorrZJ40ImAhjY) | 3:17 | 2025-07-10 | 2025-11-07 |
 | [Still Young \- Reprise](https://open.spotify.com/track/5np9XNJ4yW3UPSfOfIHL9E) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Still Young \(Reprise\)](https://open.spotify.com/album/44peeOgr4kqU0HTETa5II6) | 3:48 | 2025-03-21 | 2025-05-09 |
@@ -469,6 +473,7 @@
 | [The Girl That I Used To Be](https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [The Girl That I Used To Be](https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332) | 3:11 | 2024-06-27 | 2024-08-30 |
 | [The Liar](https://open.spotify.com/track/0atEkXRq62mZybi556xuPI) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [The Liar](https://open.spotify.com/album/1wBu6C2xgJI6DaQ4pO4v5q) | 3:10 | 2025-05-29 |  |
 | [The One](https://open.spotify.com/track/3zLffbzNxo7ADl5bAf3kOL) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Road to Peak of Love](https://open.spotify.com/album/3cZIt5PvRpGsY9ldnvAfIf) | 4:06 | 2025-06-26 |  |
+| [The Songbird](https://open.spotify.com/track/2bAfWhm7VR3JEQs4W0TyfE) | [Darlene Lesmana](https://open.spotify.com/artist/0Y5J3KeS6eeONGh4PcfM7z) | [The Songbird](https://open.spotify.com/album/4R5qnsxcnef5TgP2AfniFx) | 2:51 | 2025-11-13 |  |
 | [The Thought of Loving You](https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [The Thought of Loving You](https://open.spotify.com/album/2rMeBN1SnUjK3G9vv9aZtf) | 3:17 | 2024-09-05 | 2025-01-18 |
 | [The Way You Look At Me](https://open.spotify.com/track/4jS2jYLMO71ZsIvtBxASXg) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [The Way You Look At Me](https://open.spotify.com/album/7IsX0Gy9v558vLczlUVqe5) | 4:10 | 2024-06-27 | 2025-01-24 |
 | [Thing I Desire](https://open.spotify.com/track/6xiR9KifftI2POJ091SlIw) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/3X175TeVLuIdBCfd61jSDm) | 3:51 | 2024-08-01 | 2025-01-24 |
@@ -493,6 +498,7 @@
 | [Unfinished](https://open.spotify.com/track/7jjiNv6lqv9l7GNnqrjtFL) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Unfinished](https://open.spotify.com/album/0Fw8otiXWyj2kBGymjqywY) | 3:38 | 2024-12-12 | 2025-08-08 |
 | [Untitled \- 20th Anniversary Tribute](https://open.spotify.com/track/7LrShfibFq494DGZtMw7dX) | [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Untitled \(20th Anniversary Tribute\)](https://open.spotify.com/album/1eTFrocdyafKmO9frFj6vE) | 4:27 | 2025-08-21 | 2025-11-07 |
 | [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-06-27 | 2024-07-24 |
+| [Virtu4L](https://open.spotify.com/track/2R5gTygG7JdLLdgrzoLHiC) | [Vania Abby](https://open.spotify.com/artist/1uCsUNBbx78pkgx2k5OxlA) | [Virtu4L](https://open.spotify.com/album/3dVfEqCHMDFeRQ7Qt1CIOB) | 2:56 | 2025-11-13 |  |
 | [Visions \(from under the rubble\)](https://open.spotify.com/track/1VQbvX2gQXcElkgAMrIgUE) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Pendulum](https://open.spotify.com/album/5fwCfAtOwiSs4EOAr4mzam) | 4:11 | 2024-10-10 | 2024-11-29 |
 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2024-11-21 | 2025-09-30 |
 | [wait a while](https://open.spotify.com/track/0604KZj4wib0UOceHyQISd) | [Alex Teh](https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36) | [in my twenties](https://open.spotify.com/album/3JwZWTu2OgSyuNDIYNQiTh) | 3:49 | 2025-10-09 |  |
@@ -503,6 +509,7 @@
 | [Wasted Love](https://open.spotify.com/track/4jLR1GRsmUmvfAUO1wCGIr) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm) | [Wasted Love](https://open.spotify.com/album/36vdskrDeCy3mUbPFzNVI6) | 4:28 | 2024-09-26 | 2025-01-18 |
 | [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 | 2024-09-12 | 2024-11-29 |
 | [way too far](https://open.spotify.com/track/5izeu7OwFRJMxqGaxdCMUX) | [michaelachel](https://open.spotify.com/artist/4ZwwHAFJx5G4tEtZmzT8nz) | [when we were](https://open.spotify.com/album/1nHoavkxm8i1Di9n8LMPfO) | 3:24 | 2025-05-08 | 2025-06-13 |
+| [Went Home](https://open.spotify.com/track/1gpXTR7JTfusUdQeXfrlVr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [Went Home](https://open.spotify.com/album/4U5OqEHbHbqZ5nhG43hjDt) | 4:03 | 2025-11-13 |  |
 | [What A Fool I've Been](https://open.spotify.com/track/2esuQKEEVkOxXiusLBP7kb) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [What A Fool I've Been](https://open.spotify.com/album/5wqmR0ixQol3OrXwsrjMy0) | 4:00 | 2025-05-08 | 2025-07-11 |
 | [what about we.](https://open.spotify.com/track/29500ynLp5KW47YhREJGF1) | [beenmind](https://open.spotify.com/artist/1XZvnhUO8BhpPo6P3q3zba) | [lovexickal](https://open.spotify.com/album/5l2ra1zglhLBDTxwvnTCoa) | 2:48 | 2024-06-27 | 2024-07-27 |
 | [What are We?](https://open.spotify.com/track/4huTFGlzP6EZIDgwxuGXT6) | [Stanley Hao](https://open.spotify.com/artist/2zyCIsZHG0cCF3ttinGHVz), [Pelin](https://open.spotify.com/artist/2K4c57tnoM6U3Oy7b5KFUB) | [What are We?](https://open.spotify.com/album/0TGO3NpFcVGaAjKSIN88EW) | 3:24 | 2025-03-27 |  |

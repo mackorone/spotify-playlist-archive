@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Deredia
 
-277 songs - 19 hr 14 min
+278 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Freedom](https://open.spotify.com/track/5ylKg6kcyKk0m6QeEpVDvG) | [Daniel Dyonisius](https://open.spotify.com/artist/3rFQcgQRZYIe2VOuY5XlLV), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Miles to Go](https://open.spotify.com/album/6lkLDekAYpvRIlph4rOGEX) | 8:07 | 2022-09-02 | 2023-08-18 |
 | [From Friendship to Lovers](https://open.spotify.com/track/36rsfY9ByznHgeKPucXBQH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Dua Empat](https://open.spotify.com/album/0nmHEa9VVgpkEAAaAxypqm) | 3:19 | 2025-06-26 |  |
 | [Funjam](https://open.spotify.com/track/5gigOxZ701Ezong2ua23Ab) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Funjam](https://open.spotify.com/album/0NoJTZ74E8d1P85bvwzxm7) | 4:26 | 2022-09-02 | 2023-08-18 |
+| [Funky Days](https://open.spotify.com/track/4fk2RLEsZZn4tifLJa3Odg) | [Alex Kuple](https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9) | [Funky Days](https://open.spotify.com/album/0lDOYBe2jM6P8Wxf5K9YK3) | 2:55 | 2025-11-13 |  |
 | [Gagal Diet](https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Gagal Diet](https://open.spotify.com/album/3mcLJfwHU5VR1N9pwSNCeO) | 3:08 | 2025-01-16 |  |
 | [Gandrung Sewu](https://open.spotify.com/track/6Q1TzwYURf4BlagM63vekn) | [Bintang Indrianto](https://open.spotify.com/artist/0iy4a8OhW1qCOG2uBlzmJC) | [Bintang Indrianto's Blue Fire Project](https://open.spotify.com/album/1Zz4IFEQmDFAqn3ThEWKCy) | 3:21 | 2023-02-24 | 2023-03-03 |
 | [Gettin' Ready](https://open.spotify.com/track/7qd9LgrI7TZD3IzcVIbeIC) | [Kartabaya](https://open.spotify.com/artist/3h5c2KMmCXBbMQxKBURcc8), [Alfado Jacob](https://open.spotify.com/artist/5SYx8g5qg29QfBZHj455XT), [Kevin Pieter](https://open.spotify.com/artist/0J2MN40uqe4aIe5PwMIuc7), [Elnoe Budiman](https://open.spotify.com/artist/7JEINMviq3x3y0aauyFpxn) | [Gettin' Ready](https://open.spotify.com/album/73wv1cdVOoI58v5EEDeCRA) | 4:50 | 2023-06-08 | 2024-11-30 |

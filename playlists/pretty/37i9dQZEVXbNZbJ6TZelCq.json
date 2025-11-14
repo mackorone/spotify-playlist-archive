@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 37087,
+  "num_followers": 37089,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MKf6eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MKlL+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Hai tu Maria",
         "url": "https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Tu blondina,eu brunet",
-        "url": "https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 145184,
-      "name": "Tu blondina,eu brunet",
-      "url": "https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Da fata se vede belea",
         "url": "https://open.spotify.com/album/0azKubGXxe8ni7q1gLWNTb"
@@ -61,7 +45,23 @@
       "url": "https://open.spotify.com/track/137HVoB0FeQ4algPiTH60w"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "ATIPIC",
         "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Tu blondina,eu brunet",
+        "url": "https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 145184,
+      "name": "Tu blondina,eu brunet",
+      "url": "https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Ponte Pa Mi",
         "url": "https://open.spotify.com/album/4wWK09bmpWvpfA2Fe2vcFV"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Din Corason",
         "url": "https://open.spotify.com/album/5vVL6TP9eGmHuqw5xZOzKZ"
@@ -113,75 +129,7 @@
       "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Ramai talent",
-        "url": "https://open.spotify.com/album/3UwL6QYrfWnsb0rWA5FKJI"
-      },
-      "artists": [
-        {
-          "name": "Luis Gabriel",
-          "url": "https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob"
-        }
-      ],
-      "duration_ms": 197730,
-      "name": "Ramai talent",
-      "url": "https://open.spotify.com/track/4TDbfzHz8qOg1GWtaQVt4y"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "7 zile",
-        "url": "https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE"
-      },
-      "artists": [
-        {
-          "name": "Florian Rus",
-          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 158332,
-      "name": "7 zile",
-      "url": "https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "E Mult, E Greu!",
-        "url": "https://open.spotify.com/album/2MO3K0AD3WGrjgL3Knfql2"
-      },
-      "artists": [
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
-        }
-      ],
-      "duration_ms": 141539,
-      "name": "E Mult, E Greu!",
-      "url": "https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Bipolar\u0103",
         "url": "https://open.spotify.com/album/68rGH2GpyJVZb1BXaOfrcI"
@@ -201,55 +149,39 @@
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Vino s\u0103 te f",
-        "url": "https://open.spotify.com/album/6HYk4ydfuVNkTLVq5eILau"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2vzmCj951NdHbnPgaK0SQn"
       },
       "artists": [
         {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
         }
       ],
-      "duration_ms": 180393,
-      "name": "Vino s\u0103 te f",
-      "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
+      "duration_ms": 196236,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/0X2G0m6hIXc0CohTLM92MJ"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "CATWALK",
-        "url": "https://open.spotify.com/album/3EsNYn0zNhPXDLScyyUvxr"
+        "name": "Filipineza",
+        "url": "https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q"
       },
       "artists": [
         {
-          "name": "AdelinMM",
-          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 192000,
-      "name": "CATWALK",
-      "url": "https://open.spotify.com/track/1e4njXWgyhXbD1Yb7BEzaR"
+      "duration_ms": 154736,
+      "name": "Filipineza",
+      "url": "https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "ATIPIC",
-        "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Tratamente",
-      "url": "https://open.spotify.com/track/2beoq3iRO5pp23aeJlgK87"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "7 zile (Cover)",
         "url": "https://open.spotify.com/album/3y5RGCSb7KPdoqa39kVtto"
@@ -265,23 +197,59 @@
       "url": "https://open.spotify.com/track/6mjX9qLMhFqsAZMZT4qqw1"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Ce Motor",
-        "url": "https://open.spotify.com/album/5qMOmOxtVZx47Y9UTX5gFe"
+        "name": "Ramai talent",
+        "url": "https://open.spotify.com/album/3UwL6QYrfWnsb0rWA5FKJI"
       },
       "artists": [
         {
-          "name": "Ursaru",
-          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob"
         }
       ],
-      "duration_ms": 126937,
-      "name": "Ce Motor",
-      "url": "https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA"
+      "duration_ms": 197730,
+      "name": "Ramai talent",
+      "url": "https://open.spotify.com/track/4TDbfzHz8qOg1GWtaQVt4y"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "7 zile",
+        "url": "https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE"
+      },
+      "artists": [
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 158332,
+      "name": "7 zile",
+      "url": "https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "ATIPIC",
+        "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Tratamente",
+      "url": "https://open.spotify.com/track/2beoq3iRO5pp23aeJlgK87"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Buze de Hollywood",
         "url": "https://open.spotify.com/album/7L7lGk3J4HltRkG21Uhj94"
@@ -305,23 +273,87 @@
       "url": "https://open.spotify.com/track/03BS0e7yO1ORBlVrBim1UE"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Filipineza",
-        "url": "https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q"
+        "name": "E Mult, E Greu!",
+        "url": "https://open.spotify.com/album/2MO3K0AD3WGrjgL3Knfql2"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
         }
       ],
-      "duration_ms": 154736,
-      "name": "Filipineza",
-      "url": "https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9"
+      "duration_ms": 141539,
+      "name": "E Mult, E Greu!",
+      "url": "https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Vino s\u0103 te f",
+        "url": "https://open.spotify.com/album/6HYk4ydfuVNkTLVq5eILau"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Vino s\u0103 te f",
+      "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "CATWALK",
+        "url": "https://open.spotify.com/album/3EsNYn0zNhPXDLScyyUvxr"
+      },
+      "artists": [
+        {
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "CATWALK",
+      "url": "https://open.spotify.com/track/1e4njXWgyhXbD1Yb7BEzaR"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Ce Motor",
+        "url": "https://open.spotify.com/album/5qMOmOxtVZx47Y9UTX5gFe"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "duration_ms": 126937,
+      "name": "Ce Motor",
+      "url": "https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "BOT",
+        "url": "https://open.spotify.com/album/65uYKKP0h8KClvbaw9C3Wi"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "duration_ms": 122530,
+      "name": "BOT",
+      "url": "https://open.spotify.com/track/3fd1UJwCkgGhAojjavHEjg"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "VARA BRAZIL",
         "url": "https://open.spotify.com/album/66V6JjhgUiN9iJchsWjsP4"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/6lu7h9TW9L94lAevaJbyvy"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -361,39 +393,39 @@
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2vzmCj951NdHbnPgaK0SQn"
+        "name": "Boca",
+        "url": "https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB"
       },
       "artists": [
         {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
         }
       ],
-      "duration_ms": 196236,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/0X2G0m6hIXc0CohTLM92MJ"
+      "duration_ms": 124500,
+      "name": "Boca",
+      "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "BOT",
-        "url": "https://open.spotify.com/album/65uYKKP0h8KClvbaw9C3Wi"
+        "name": "N-a Fost Sa Fie",
+        "url": "https://open.spotify.com/album/7xkkpxo4ICoEGzMns1LzyR"
       },
       "artists": [
         {
-          "name": "MADATORRICELLI",
-          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 122530,
-      "name": "BOT",
-      "url": "https://open.spotify.com/track/3fd1UJwCkgGhAojjavHEjg"
+      "duration_ms": 157689,
+      "name": "N-a Fost Sa Fie",
+      "url": "https://open.spotify.com/track/70nrQY5rQX1XMNkzsKz8my"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "PETER PARKER",
         "url": "https://open.spotify.com/album/5U5cXqaCC6UkBfmIIwulFq"
@@ -409,7 +441,27 @@
       "url": "https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Damelo",
+        "url": "https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Mr. Juve",
+          "url": "https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "Damelo",
+      "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "STIU CA TI-E DOR",
         "url": "https://open.spotify.com/album/7pheGPrr4n6NfTPbb2sqij"
@@ -437,27 +489,59 @@
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Damelo",
-        "url": "https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW"
+        "name": "Insula Iubirii",
+        "url": "https://open.spotify.com/album/363US891SWFZUQzMfuqd2w"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Daiana",
+          "url": "https://open.spotify.com/artist/7vMxy91m8tkUli37Cmwets"
         },
         {
-          "name": "Mr. Juve",
-          "url": "https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8"
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 157693,
-      "name": "Damelo",
-      "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
+      "duration_ms": 181626,
+      "name": "Insula Iubirii",
+      "url": "https://open.spotify.com/track/0fFZDVMwx6JzhWbZiG7aCX"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/34ix1fTu06Q7gGv4pNRgO1"
+      },
+      "artists": [
+        {
+          "name": "TONTZO INDIANU",
+          "url": "https://open.spotify.com/artist/3JeTZ0h5kGcqoUzKT1Gf6G"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/3HWS3HVkirA39KnT84Io5g"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "A la turca",
+        "url": "https://open.spotify.com/album/6PZU2pZR9RhAW8VeFni1iW"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 149220,
+      "name": "A la turca",
+      "url": "https://open.spotify.com/track/3UD1yaINhRa0gV6kTSU26e"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "SHEGONDIE",
         "url": "https://open.spotify.com/album/4FRhrtYsMh8KRw37FsKxdH"
@@ -477,55 +561,75 @@
       "url": "https://open.spotify.com/track/4YOfOwu17u9I36mazMcXSR"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "A la turca",
-        "url": "https://open.spotify.com/album/6PZU2pZR9RhAW8VeFni1iW"
+        "name": "Z PRINT",
+        "url": "https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
         }
       ],
-      "duration_ms": 149220,
-      "name": "A la turca",
-      "url": "https://open.spotify.com/track/3UD1yaINhRa0gV6kTSU26e"
+      "duration_ms": 198000,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/4Hnz28zV4yVyc2J7U3ZR0x"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "N-a Fost Sa Fie",
-        "url": "https://open.spotify.com/album/7xkkpxo4ICoEGzMns1LzyR"
+        "name": "Ma Suni Noaptea",
+        "url": "https://open.spotify.com/album/19iAGMazWIIS3DFfDNvCaT"
       },
       "artists": [
         {
           "name": "Bogdan DLP",
           "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "BOB",
+          "url": "https://open.spotify.com/artist/6iI6dJM2djVzT4xFEGymMU"
         }
       ],
-      "duration_ms": 157689,
-      "name": "N-a Fost Sa Fie",
-      "url": "https://open.spotify.com/track/70nrQY5rQX1XMNkzsKz8my"
+      "duration_ms": 209523,
+      "name": "Ma Suni Noaptea",
+      "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Boca",
-        "url": "https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB"
+        "name": "Z PRINT",
+        "url": "https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso"
       },
       "artists": [
         {
-          "name": "Ursaru",
-          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
         }
       ],
-      "duration_ms": 124500,
-      "name": "Boca",
-      "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
+      "duration_ms": 142000,
+      "name": "sexyZ",
+      "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Iart\u0103-m\u0103",
+        "url": "https://open.spotify.com/album/0xPDON6uqIGMSSIoBqI2X8"
+      },
+      "artists": [
+        {
+          "name": "Adrian Norocel",
+          "url": "https://open.spotify.com/artist/3f9Hi0GeiHT8XF7OCBGPpU"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "Iart\u0103-m\u0103",
+      "url": "https://open.spotify.com/track/7votX46q6Osc7afmHgLIIZ"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Minora",
         "url": "https://open.spotify.com/album/24xaav8ErzwgkCSZFZudJX"
@@ -541,23 +645,43 @@
       "url": "https://open.spotify.com/track/6M0nZw1Rts7bdmx7i4Pv6f"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/5p6AZ32KREWZeOYiiUJl8S"
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 187636,
-      "name": "BITE ME",
-      "url": "https://open.spotify.com/track/3uB6d7ozw7E2GLlD43yiTE"
+      "duration_ms": 165269,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Fara numar",
+        "url": "https://open.spotify.com/album/5tHBUxFBBBj1Rjyb9EqOYs"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Fara numar",
+      "url": "https://open.spotify.com/track/0nBMyMNhA8LxFM0BoUcgD2"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Ce Te-as Suna",
         "url": "https://open.spotify.com/album/3ABAsh0MkHFdmZClm95xod"
@@ -577,30 +701,26 @@
       "url": "https://open.spotify.com/track/2yKgHHs4dWDd69H0rK1lqN"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/5EX0l5lvETJgJQg6DNwRb8"
+        "name": "Z PRINT",
+        "url": "https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso"
       },
       "artists": [
         {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        },
-        {
-          "name": "Florin Cercel",
-          "url": "https://open.spotify.com/artist/7ytY1ayTCI2l2tiSPjks8z"
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
         }
       ],
-      "duration_ms": 171878,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/6wZGcl9qrUvlzrX1S1aci4"
+      "duration_ms": 142000,
+      "name": "FARMACISTA",
+      "url": "https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "FLAWLE$$ - EP",
-        "url": "https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY"
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/5p6AZ32KREWZeOYiiUJl8S"
       },
       "artists": [
         {
@@ -608,92 +728,12 @@
           "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 103384,
-      "name": "BELLY DANCE",
-      "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
+      "duration_ms": 187636,
+      "name": "BITE ME",
+      "url": "https://open.spotify.com/track/3uB6d7ozw7E2GLlD43yiTE"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4gYjYUEqs9Npy57LS2zhRA"
-      },
-      "artists": [
-        {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 143505,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Z CLASS",
-        "url": "https://open.spotify.com/album/1RIkS7qJEXc9po7PQ664nf"
-      },
-      "artists": [
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        },
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        },
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        },
-        {
-          "name": "Sapte",
-          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
-        }
-      ],
-      "duration_ms": 217099,
-      "name": "VIZZZCOL",
-      "url": "https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "El chapo",
-        "url": "https://open.spotify.com/album/1IXu9RGZI6pwjWRlOi2Acq"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "El chapo",
-      "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Brasileiro",
-      "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
@@ -713,7 +753,7 @@
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Regele (From Buzz House: The Movie 2)",
         "url": "https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk"
@@ -741,47 +781,39 @@
       "url": "https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
+        "name": "Daca Iubesti O Tiganca",
+        "url": "https://open.spotify.com/album/7LuhrPxOYZZ2qrlLqUQYEd"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Katarina",
-          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
+          "name": "Florin Salam",
+          "url": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
         }
       ],
-      "duration_ms": 169787,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
+      "duration_ms": 201558,
+      "name": "Daca Iubesti O Tiganca",
+      "url": "https://open.spotify.com/track/2bLKqViiiOcKrI8msQKoJr"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Ma Suni Noaptea",
-        "url": "https://open.spotify.com/album/19iAGMazWIIS3DFfDNvCaT"
+        "name": "E Wow",
+        "url": "https://open.spotify.com/album/67eXAShAWEv7IX5LTvBhlp"
       },
       "artists": [
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        },
-        {
-          "name": "BOB",
-          "url": "https://open.spotify.com/artist/6iI6dJM2djVzT4xFEGymMU"
+          "name": "Adrian Norocel",
+          "url": "https://open.spotify.com/artist/3f9Hi0GeiHT8XF7OCBGPpU"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Ma Suni Noaptea",
-      "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
+      "duration_ms": 157674,
+      "name": "E Wow",
+      "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
         "name": "Pic\u0103tura De Cerneal\u0103",
         "url": "https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI"
@@ -801,114 +833,42 @@
       "url": "https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "E Wow",
-        "url": "https://open.spotify.com/album/67eXAShAWEv7IX5LTvBhlp"
+        "name": "Fetele din mahala",
+        "url": "https://open.spotify.com/album/2X1XyoM3iH3LaOa8LPGbQO"
       },
       "artists": [
         {
-          "name": "Adrian Norocel",
-          "url": "https://open.spotify.com/artist/3f9Hi0GeiHT8XF7OCBGPpU"
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
         }
       ],
-      "duration_ms": 157674,
-      "name": "E Wow",
-      "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
+      "duration_ms": 201000,
+      "name": "Fetele din mahala",
+      "url": "https://open.spotify.com/track/0U6hUt9szpEQgKFmkMYW5L"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Z PRINT",
-        "url": "https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso"
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7"
       },
       "artists": [
         {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
         }
       ],
-      "duration_ms": 142000,
-      "name": "sexyZ",
-      "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
+      "duration_ms": 158400,
+      "name": "Brasileiro",
+      "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
     },
     {
-      "added_at": "2025-11-12 14:02:40",
+      "added_at": "2025-11-13 13:49:02",
       "album": {
-        "name": "Afacere",
-        "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "Afacere",
-      "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Daca Iubesti O Tiganca",
-        "url": "https://open.spotify.com/album/7LuhrPxOYZZ2qrlLqUQYEd"
-      },
-      "artists": [
-        {
-          "name": "Florin Salam",
-          "url": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
-        }
-      ],
-      "duration_ms": 201558,
-      "name": "Daca Iubesti O Tiganca",
-      "url": "https://open.spotify.com/track/2bLKqViiiOcKrI8msQKoJr"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 111157,
-      "name": "LV Sandals",
-      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "Vreau",
-        "url": "https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Vreau",
-      "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
-    },
-    {
-      "added_at": "2025-11-12 14:02:40",
-      "album": {
-        "name": "LUCIFER",
-        "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
       },
       "artists": [
         {
@@ -916,13 +876,41 @@
           "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         },
         {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+          "name": "Katarina",
+          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
         }
       ],
-      "duration_ms": 150000,
-      "name": "MAZDA",
-      "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
+      "duration_ms": 169787,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
+    },
+    {
+      "added_at": "2025-11-13 13:49:02",
+      "album": {
+        "name": "Z CLASS",
+        "url": "https://open.spotify.com/album/1RIkS7qJEXc9po7PQ664nf"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Sapte",
+          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
+        }
+      ],
+      "duration_ms": 217099,
+      "name": "VIZZZCOL",
+      "url": "https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly"
     }
   ],
   "unique_name": "Top 50 - Romania",

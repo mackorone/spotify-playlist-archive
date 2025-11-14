@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Cinza",
+        "url": "https://open.spotify.com/album/4tAmRm5zP6Hwenp85jGsQe"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212839,
+      "name": "Cinza",
+      "url": "https://open.spotify.com/track/0lpRtMzXMfPNc1kf2Mri1T"
+    },
+    {
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
       },
@@ -1801,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+    },
+    {
+      "album": {
         "name": "work in progress",
         "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
       },
@@ -1909,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "D\u00favida",
+        "url": "https://open.spotify.com/album/4g1OKym86JNJTPhMXGi0rK"
+      },
+      "artists": [
+        {
+          "name": "VSP AST",
+          "url": "https://open.spotify.com/artist/2LtB4GaHY6qw7FRGhu2YVi"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138270,
+      "name": "D\u00favida",
+      "url": "https://open.spotify.com/track/4pYwujZp2Jh1O3loYDPKIf"
+    },
+    {
+      "album": {
         "name": "Merda e Ouro",
         "url": "https://open.spotify.com/album/1GflbIHaVw0M3yHJUfChLX"
       },
@@ -2010,7 +2064,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 175448,
       "name": "Elefante na Sala",
       "url": "https://open.spotify.com/track/0JHdDFIPfNYTnG2FmAOUV9"
@@ -2806,6 +2860,24 @@
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "Hula Girl",
+      "url": "https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk"
     },
     {
       "album": {
@@ -4282,7 +4354,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 245853,
       "name": "Nem Tudo \u00c9 M\u00e1goa",
       "url": "https://open.spotify.com/track/3Y0Dkfti4ZODVf0NhyfEFD"
@@ -5529,6 +5601,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Legendary Tigerman",
+          "url": "https://open.spotify.com/artist/5SBxPdsbk4oY1Ue8ojNpTg"
+        },
+        {
+          "name": "Sara Badalo",
+          "url": "https://open.spotify.com/artist/4Kt4ruLF470HwV1ZoY3tUS"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205354,
+      "name": "She's A Hellcat (feat. Sara Badalo)",
+      "url": "https://open.spotify.com/track/3uA2BfIElHx8iN1Z2CWXfg"
+    },
+    {
+      "album": {
         "name": "I Love You So F***ing Much",
         "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
       },
@@ -6390,7 +6484,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 294773,
       "name": "This is the Killer Speaking",
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
@@ -6430,7 +6524,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176826,
       "name": "Tie you down",
       "url": "https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L"
@@ -6710,7 +6804,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"

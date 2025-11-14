@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Uma edição especial de EQUAL Portugal, com a co\-curadoria única de Mariana Pereira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,579 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,578 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Tua ou de Mais Ninguém](https://open.spotify.com/track/0mwRAQkY6POLxGA0PZwcoz) | [Tatiana Duarte](https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT) | [Tua ou de Mais Ninguém](https://open.spotify.com/album/0713IGq29NJqWg9jpWqIce) | 3:15 |
 | 50 | [Alma Gêmea](https://open.spotify.com/track/2n4trzqp3MgR13Apn2Qbs4) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Alma Gêmea](https://open.spotify.com/album/0XBqAvhrB0qktBcHDgIRs6) | 2:41 |
 
-Snapshot ID: `AAAAACg2PZ8XnIps/XmBrmje2yBGIJGy`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

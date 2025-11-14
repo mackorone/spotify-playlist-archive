@@ -15445,6 +15445,24 @@
     },
     {
       "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220156,
+      "name": "cu\u00eddate",
+      "url": "https://open.spotify.com/track/5D7hSm0LjrDq1OcDtXpKbE"
+    },
+    {
+      "album": {
         "name": "BBB3",
         "url": "https://open.spotify.com/album/2GB0I4GCOrXqfuQEg2hZo1"
       },
@@ -17302,7 +17320,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 180000,
       "name": "DESEO",
       "url": "https://open.spotify.com/track/7kfgRQbmicsoQyKJOl02xY"
@@ -21338,7 +21356,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 184239,
       "name": "ENAMORARSE PARA QUE",
       "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
@@ -22939,6 +22957,24 @@
     },
     {
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223095,
+      "name": "Falling Forever",
+      "url": "https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1"
+    },
+    {
+      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -23236,7 +23272,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -47370,6 +47406,28 @@
       "duration_ms": 166956,
       "name": "Otra Nota",
       "url": "https://open.spotify.com/track/5eNnDaOfCivugB1sGkxxer"
+    },
+    {
+      "album": {
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/3A94joRrxJGsoaZxqh1WDg"
+      },
+      "artists": [
+        {
+          "name": "Ober",
+          "url": "https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC"
+        },
+        {
+          "name": "Svmu",
+          "url": "https://open.spotify.com/artist/3WdKXqEP5ZhWazZ0Lrj23F"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Otra Nota",
+      "url": "https://open.spotify.com/track/7phk727SUfUgbRuzXhOnd5"
     },
     {
       "album": {

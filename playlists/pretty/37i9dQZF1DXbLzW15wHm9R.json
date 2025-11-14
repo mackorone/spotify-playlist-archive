@@ -1,13 +1,29 @@
 {
-  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Springsteen: Deliver Me from Nowhere",
-  "num_followers": 160969,
+  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Wuthering Heights",
+  "num_followers": 160984,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAydRSGGTZDpdRwZlWd/pxtTpiL7",
+  "snapshot_id": "AAAAAIAYPae0ucRk41qsaVSOa1eKXPtP",
   "tracks": [
+    {
+      "added_at": "2025-11-13 17:29:28",
+      "album": {
+        "name": "Chains of Love",
+        "url": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Chains of Love",
+      "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
+    },
     {
       "added_at": "2025-10-26 03:15:15",
       "album": {
@@ -23,26 +39,6 @@
       "duration_ms": 151474,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/6GNukfGiG3qtFHAQOYMisy"
-    },
-    {
-      "added_at": "2025-11-10 17:40:39",
-      "album": {
-        "name": "House featuring John Cale",
-        "url": "https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 197593,
-      "name": "House featuring John Cale",
-      "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
     },
     {
       "added_at": "2025-07-16 16:05:37",
@@ -63,6 +59,22 @@
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Bite My Tongue (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/681qv0Au08NIjJwh72luYf"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 218699,
+      "name": "Bite My Tongue - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp"
     },
     {
       "added_at": "2025-10-31 04:00:41",
@@ -113,6 +125,26 @@
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
     },
     {
+      "added_at": "2025-11-10 17:40:39",
+      "album": {
+        "name": "House featuring John Cale",
+        "url": "https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 197593,
+      "name": "House featuring John Cale",
+      "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
+    },
+    {
       "added_at": "2025-09-17 17:19:09",
       "album": {
         "name": "BRAT",
@@ -127,22 +159,6 @@
       "duration_ms": 203482,
       "name": "Everything is romantic",
       "url": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc"
-    },
-    {
-      "added_at": "2025-10-31 04:00:41",
-      "album": {
-        "name": "Bite My Tongue (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/681qv0Au08NIjJwh72luYf"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 218699,
-      "name": "Bite My Tongue - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp"
     },
     {
       "added_at": "2025-09-22 16:48:38",
@@ -651,26 +667,6 @@
       "duration_ms": 232782,
       "name": "Coming Around Again",
       "url": "https://open.spotify.com/track/70SnbMZXxFVMPCEEXRaJdd"
-    },
-    {
-      "added_at": "2025-07-16 16:05:37",
-      "album": {
-        "name": "You Found Me",
-        "url": "https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 253601,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P"
     },
     {
       "added_at": "2025-08-08 16:15:12",

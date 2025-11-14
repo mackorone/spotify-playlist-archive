@@ -1010,6 +1010,32 @@
     {
       "album": {
         "name": "Assim Tocam os MEUS TAMBORES",
+        "url": "https://open.spotify.com/album/2eawgQvAxZ5Laen9KDuRaX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/0Uj3yVCMQpeErRbuJVEele"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/3W98HNZqVI7pcoPrziE4b8"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128468,
+      "name": "MALUNGOFORTE.",
+      "url": "https://open.spotify.com/track/0sqjWru1AOoQ86CgONUqKM"
+    },
+    {
+      "album": {
+        "name": "Assim Tocam os MEUS TAMBORES",
         "url": "https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP"
       },
       "artists": [
@@ -1028,7 +1054,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 128468,
       "name": "MALUNGOFORTE.",
       "url": "https://open.spotify.com/track/2v3z1JTUBw1UpsLRa3H6Cm"

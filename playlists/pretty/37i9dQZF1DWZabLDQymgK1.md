@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,646 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,649 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 17 | [Washing Up \- Tiga Mix](https://open.spotify.com/track/44ivsSXs37MFy88D4eCU3p) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/4rr8wQDnciFctXhLcq7bZI) | 5:33 |
 | 18 | [Where's Jason's K](https://open.spotify.com/track/5nUfbXGXSULNLxJyndR5iB) | [Syclops](https://open.spotify.com/artist/1DoyIKYcf1Pw2tMFFy0oEi) | [I've Got My Eye on You](https://open.spotify.com/album/23cDF6i36IrMJmfDZojPgp) | 6:39 |
 | 19 | [Shades of Jae](https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Black Mahogani](https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6) | 6:55 |
-| 20 | [Nini \- Claude Monnet Remix](https://open.spotify.com/track/1HvnSNUGVzGdiWknoN568h) | [Clarisse Muvemba](https://open.spotify.com/artist/3VhZAwL3pwSfh1YgrPB9wr), [Sumo](https://open.spotify.com/artist/68hlYvUTBm1WJXhpO6re7X) | [Nini](https://open.spotify.com/album/6uGbxYqV6n3Nzudd28Ol3A) | 8:13 |
+| 20 | [Nini \- Claude Monnet Remix](https://open.spotify.com/track/1HvnSNUGVzGdiWknoN568h) | [Sumo](https://open.spotify.com/artist/68hlYvUTBm1WJXhpO6re7X), [Clarisse Muvemba](https://open.spotify.com/artist/3VhZAwL3pwSfh1YgrPB9wr), [Claude Monnet](https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo) | [Nini](https://open.spotify.com/album/6uGbxYqV6n3Nzudd28Ol3A) | 8:13 |
 | 21 | [Another Excuse \- Dfa Remix](https://open.spotify.com/track/733gHaYR1w0B46dUEENvGx) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Nite Versions](https://open.spotify.com/album/5ftdUoPzoh1y5bIroXw68G) | 8:00 |
 | 22 | [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0UuI04fLX0AFGIVqwzTZwZ) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Perspex Sex \(Remixes\)](https://open.spotify.com/album/0nF7cu31srje4db7gbv3wH) | 8:00 |
 | 23 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |

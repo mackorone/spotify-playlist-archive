@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Kelsea Ballerini",
+  "description": "The cream of today's country crop. Cover: Waylon Wyatt",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -791,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Gooseneck Party",
+        "url": "https://open.spotify.com/album/5ppTk9ksMUCGmPvbvhENLZ"
+      },
+      "artists": [
+        {
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+        },
+        {
+          "name": "Piper Butcher",
+          "url": "https://open.spotify.com/artist/43AU8Hi9juJbA4UDNnmBps"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300053,
+      "name": "Air It Out",
+      "url": "https://open.spotify.com/track/42OELB5rmKntxc07V0273S"
+    },
+    {
+      "album": {
         "name": "All We Have Is Who We Are",
         "url": "https://open.spotify.com/album/07liJD0KdzzjazcIyaqq6K"
       },
@@ -1261,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "ace",
+        "url": "https://open.spotify.com/album/1qV1UBoBOubbEoNetigs3Z"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174748,
+      "name": "baby blues",
+      "url": "https://open.spotify.com/track/0gx2NKeIy2YCc1UaXkJmYI"
+    },
+    {
+      "album": {
         "name": "Baby Daddy's Weekend",
         "url": "https://open.spotify.com/album/7uwBOtieYh0NBjJco1GsuH"
       },
@@ -1290,7 +1330,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 213062,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
@@ -2425,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Both Sides of the Blade",
+        "url": "https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209115,
+      "name": "Both Sides of the Blade",
+      "url": "https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK"
+    },
+    {
+      "album": {
         "name": "Bottom Of It",
         "url": "https://open.spotify.com/album/2EyPgamG50VNLOgAot4T95"
       },
@@ -2834,7 +2892,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 218810,
       "name": "Call For You",
       "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
@@ -4594,7 +4652,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 163608,
       "name": "Devil Ain't Done",
       "url": "https://open.spotify.com/track/5mv5HTiMbXN9TJFN79W9UH"
@@ -4720,7 +4778,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 256627,
       "name": "Dog Years",
       "url": "https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9"
@@ -5197,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136746,
+      "name": "Emerald City",
+      "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+    },
+    {
+      "album": {
         "name": "End Up With Me",
         "url": "https://open.spotify.com/album/4csq2ZqjjGKrJGj9798iXf"
       },
@@ -5298,7 +5374,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 196100,
       "name": "Everything She Does",
       "url": "https://open.spotify.com/track/0WXwVx2Ni5yimjV9gunwpV"
@@ -5916,6 +5992,24 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202674,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
     },
     {
       "album": {
@@ -7971,6 +8065,24 @@
     },
     {
       "album": {
+        "name": "Holdin' You, Lovin' You",
+        "url": "https://open.spotify.com/album/40lQgSC5YEFKeTahWOBTJV"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277997,
+      "name": "Holdin' You, Lovin' You",
+      "url": "https://open.spotify.com/track/6NXsiICwYqbiFlpRjeeMZs"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
       },
@@ -8022,7 +8134,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 149669,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
@@ -8228,7 +8340,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 235727,
       "name": "How Far Does A Goodbye Go",
       "url": "https://open.spotify.com/track/17U2M7HB14yGe9QSAmbyyB"
@@ -9138,6 +9250,24 @@
       "duration_ms": 165611,
       "name": "In Case You Missed It",
       "url": "https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ"
+    },
+    {
+      "album": {
+        "name": "In Her Eyes",
+        "url": "https://open.spotify.com/album/19lxkHo1TPb0GE2wWVYsef"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276123,
+      "name": "In Her Eyes",
+      "url": "https://open.spotify.com/track/2N9yl3vL0lYCihFI4EjiQ2"
     },
     {
       "album": {
@@ -11184,7 +11314,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 246231,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/0agNRCX4jPTixnICS7Y5rq"
@@ -12023,6 +12153,24 @@
     },
     {
       "album": {
+        "name": "Night N' Day",
+        "url": "https://open.spotify.com/album/1WH0bp0oV0xRNoZgYcAoih"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182195,
+      "name": "Night N' Day",
+      "url": "https://open.spotify.com/track/1xGT0LYGX1GBGm3fQP2fAM"
+    },
+    {
+      "album": {
         "name": "Night Needs You",
         "url": "https://open.spotify.com/album/0b0b4BY7NwWDG2XxOA5BkL"
       },
@@ -12424,7 +12572,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 252698,
       "name": "Ocean Blue",
       "url": "https://open.spotify.com/track/4grEtMm9JQX92vKMAHR65o"
@@ -12806,7 +12954,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 229371,
       "name": "Only Bible",
       "url": "https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie"
@@ -13102,7 +13250,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 225261,
       "name": "Parking Lot Prayers",
       "url": "https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl"
@@ -13344,7 +13492,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 242578,
       "name": "Pretty Little Liar",
       "url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
@@ -17050,7 +17198,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 189366,
       "name": "The Thing About Us",
       "url": "https://open.spotify.com/track/6iv02GFYLyihjmLKnDgtWM"
@@ -17653,6 +17801,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 15",
+      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
+    },
+    {
+      "album": {
         "name": "Train",
         "url": "https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj"
       },
@@ -17664,7 +17830,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 237546,
       "name": "Train",
       "url": "https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb"

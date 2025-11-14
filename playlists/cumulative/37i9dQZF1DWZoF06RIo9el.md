@@ -2,7 +2,7 @@
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de octubre 2025\. Cover: ROSALÍA
+> Lo mejor de noviembre 2025\. Cover: ROSALÍA
 
 1,335 songs - 2 day 22 hr 56 min
 

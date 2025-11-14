@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=ZT9AqBbPT9G5ll5jf4WxSw>Lawrence Oyor</a>
 
-460 songs - 1 day 16 hr 18 min
+461 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 | 2023-08-11 | 2024-10-18 |
 | [Messiah](https://open.spotify.com/track/408SouH6qikkfmpyVN0Aqa) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn](https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe) | 4:06 | 2018-10-01 | 2022-07-29 |
 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 | 2018-10-01 | 2023-04-01 |
+| [Methodist Medley](https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG) | [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [A NEW DAWN](https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6) | 8:55 | 2025-11-14 |  |
 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 | 2018-10-01 | 2023-04-01 |
 | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz) | 5:20 | 2018-10-01 | 2022-07-29 |
 | [Mimo \(feat\. Sola Allyson\)](https://open.spotify.com/track/5aLpw7VX35DeXZID3Drv4B) | [Fountain Of Praise](https://open.spotify.com/artist/4Xy5Yn2jebbHnzG4OhkRjr) | [Refresh](https://open.spotify.com/album/0YUeVP08TIvAJr72DLfue8) | 18:22 | 2018-10-01 | 2022-04-15 |
@@ -324,7 +325,7 @@
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-06-09 | 2023-06-23 |
 | [Overdose](https://open.spotify.com/track/0oU05VhUd1HCUi516jZdIG) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [A mose](https://open.spotify.com/artist/01bQLjy2Y6N10bDEJsQGEb) | [Overdose](https://open.spotify.com/album/7jWmVpXUDxch6dO9DkP1tu) | 3:09 | 2023-05-05 | 2023-06-02 |
 | [Owo Oluwa](https://open.spotify.com/track/2kNnK2WiuTPHnlgiQpoUjF) | [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [P.Daniel Olawande](https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL) | [Owo Oluwa](https://open.spotify.com/album/5I9E24YUXBhLdwVDspX4oj) | 7:43 | 2023-06-16 | 2023-06-23 |
-| [Owo Oluwa](https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s) | [P.Daniel Olawande](https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL) | [Owo Oluwa](https://open.spotify.com/album/27JyI1SfX9raMik8gMmTHu) | 6:10 | 2023-06-09 |  |
+| [Owo Oluwa](https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s) | [P.Daniel Olawande](https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL) | [Owo Oluwa](https://open.spotify.com/album/27JyI1SfX9raMik8gMmTHu) | 6:10 | 2023-06-09 | 2025-11-14 |
 | [Owo Oluwa \(Hand of God\)](https://open.spotify.com/track/4jYs0g8a2CuDDbThfP2kId) | [Tomiwa Immanuel](https://open.spotify.com/artist/0GUnMx8SjB8qtB0BBfIgSZ) | [Owo Oluwa \(Hand of God\)](https://open.spotify.com/album/2skoc27TmSzYducGDp8smg) | 7:39 | 2023-05-19 | 2023-06-23 |
 | [Oxygen](https://open.spotify.com/track/6VqHvmJlPrh7Fv3lQgxwga) | [Mcmuzik](https://open.spotify.com/artist/4HaXYGwMsB25MF1XiLexzD) | [Oxygen](https://open.spotify.com/album/7mUTqa2aMGBaEK2Y8n1Nt5) | 3:03 | 2023-12-31 | 2024-01-04 |
 | [Pole Pole](https://open.spotify.com/track/36KpEwMZI8ZC59o1bp13Ai) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [POLE POLE](https://open.spotify.com/album/3VtEo5wRsLOOUhzcBmntLD) | 3:28 | 2023-05-05 | 2023-06-23 |

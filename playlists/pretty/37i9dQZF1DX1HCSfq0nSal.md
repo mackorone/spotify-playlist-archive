@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. De La Rose, Yan Block, Hades66 & Ñengo Flow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,501,530 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,501,474 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 21 | [Unfollow](https://open.spotify.com/track/6XmgziZuWHy5wbBVVbE4uv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Underwater](https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y) | 2:52 |
 | 22 | [Revolú](https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Revolú](https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O) | 3:20 |
 | 23 | [GANGTEL](https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [GANGTEL](https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW) | 2:56 |
-| 24 | [QUITATELOTO \(feat\. Kris R., Young Fatty, Bad Milk, Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [EXTRADITABLESSD](https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V) | 5:03 |
+| 24 | [QUITATELOTO \(feat\. Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [EXTRADITABLESSD](https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V) | 5:03 |
 | 25 | [Scat Pack](https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Scat Pack](https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx) | 4:13 |
 | 26 | [Prettygyal](https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB) | [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez), [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N) | [Prettygyal](https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG) | 2:23 |
 | 27 | [SUERTE](https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [SUERTE](https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz) | 3:13 |

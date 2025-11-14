@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Bogueto bufando
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,987 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,093 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 13 | [Veo Veo](https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Veo Veo](https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G) | 2:51 |
 | 14 | [Fantasy](https://open.spotify.com/track/0Q0uzK3mWsOrRrscnTBa9P) | [Neisan](https://open.spotify.com/artist/0WwYuArR76kC6JxhmwzRNG), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Fantasy](https://open.spotify.com/album/3CYYfj346yUlUfAaBJdflU) | 2:56 |
 | 15 | [Si se Da](https://open.spotify.com/track/3bFX8E8OmN3ekrnmAGm1AX) | [Josezo](https://open.spotify.com/artist/1X5BDWwXmqw2TD79jQdzsc), [Blade Iniestra](https://open.spotify.com/artist/3QTxLfkxWcRKFZZaYhvDPo), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Si se Da](https://open.spotify.com/album/54VGFEG3l6Qt6klH6WOG9N) | 2:55 |
-| 16 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
+| 16 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/3z7QUVADpoCVx35hfXIVNR), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
 | 17 | [REGGAETONIcA](https://open.spotify.com/track/4pjAe97HAyP7vn1X5kDHY5) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Tennessee Beats](https://open.spotify.com/artist/15Q7fFJ6GvBeEY1F4BiBir) | [REGGAETONIcA](https://open.spotify.com/album/21z63Vb86QzHmf1PZURJaj) | 2:02 |
 | 18 | [Ñera y Bellaka](https://open.spotify.com/track/3sQgaOWeaBHkkwxzL5UFel) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Itzel Olvera](https://open.spotify.com/artist/61NkXLT0aUhjCs1QUJGvgo) | [Ñera y Bellaka](https://open.spotify.com/album/6Viv3CAfBFztHuIzfjQFW3) | 2:23 |
 | 19 | [La Culpable](https://open.spotify.com/track/76KExy3Vc2733su3bjqTXB) | [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO) | [La Culpable](https://open.spotify.com/album/61sNNOnomNYSXv2oCWGQzJ) | 3:25 |

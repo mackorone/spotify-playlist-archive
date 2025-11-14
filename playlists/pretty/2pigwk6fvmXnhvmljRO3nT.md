@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,764 songs - 20 day 1 hr 11 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,766 songs - 20 day 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7772,5 +7772,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7762 | [If I love you again](https://open.spotify.com/track/2V0guOUbsHtxPIvYQweQju) | [Do Wonkyung](https://open.spotify.com/artist/7M6R2iQ29hundnuq5zbDhh) | [If I love you again](https://open.spotify.com/album/2cxPA0OUYNo5bGjCsHG7J6) | 4:05 |
 | 7763 | [If the Rain Stops](https://open.spotify.com/track/0gpMY6fWiKBmI2Ci4PlXe4) | [Do Wonkyung](https://open.spotify.com/artist/7M6R2iQ29hundnuq5zbDhh) | [If This Rain That Drop in My Spirit Stops...](https://open.spotify.com/album/5aDPZYi4XWdUMykwNPQrfN) | 3:31 |
 | 7764 | [what if we?](https://open.spotify.com/track/1b4EDa9QUbZEmORq0F3oLh) | [Emi Choi](https://open.spotify.com/artist/7CBR3nH5wFYRbmNAuxZdcU) | [what if we?](https://open.spotify.com/album/6jtXB46SlB5Lb6UGrBeUfe) | 3:27 |
+| 7765 | [\(Why Do\) I Have to Get Up Tomorrow](https://open.spotify.com/track/0nwFLPwetTfIn7yZ4rt1A8) | [thquib](https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm) | [Deep Morning](https://open.spotify.com/album/1ZsCg7SUvQoiHUkEb6ioGC) | 2:12 |
+| 7766 | [I Just Love the 50s!!!](https://open.spotify.com/track/1At66VMSGx03JwOrHEGMXj) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt\. 2](https://open.spotify.com/album/7pmuSRFBvY0D0tce5dpqdY) | 1:17 |
 
-Snapshot ID: `AAAJZzcMItrARUilaa5TEqzwUnBlrcyc`
+Snapshot ID: `AAAJaR/koqFUJUdWpevC65fIw2sT7nxR`

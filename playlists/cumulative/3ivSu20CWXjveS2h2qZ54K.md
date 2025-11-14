@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,964 songs - 13 day 18 hr 21 min
+5,965 songs - 13 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2461,6 +2461,7 @@
 | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz) | 2:42 | 2024-09-27 | 2024-10-05 |
 | [I Love To Dance](https://open.spotify.com/track/3IbT4cFEQYLz1P9MFnRmYu) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Beep Beep Repeat](https://open.spotify.com/album/5UpFCX4FXDQ6WhKIVRYBVY) | 1:59 | 2024-04-26 | 2024-05-10 |
 | [I Love To Get High](https://open.spotify.com/track/3ipK3ana1IW92d89Srhptu) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 2:38 | 2025-07-18 | 2025-07-26 |
+| [I Love You](https://open.spotify.com/track/0QynngeQX5Ww1WAOxasFgC) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [I Love You](https://open.spotify.com/album/5QLRmqFImJmDZlxFgqg2ky) | 4:09 | 2025-11-13 |  |
 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 | 2025-09-12 | 2025-09-20 |
 | [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 | 2025-10-03 | 2025-10-11 |
 | [I Never Dream About Trains](https://open.spotify.com/track/4u8JZMG1h659W4DIFz9PQB) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [I Never Dream About Trains](https://open.spotify.com/album/0S0QvMi2Kiu33RfIayLnsW) | 5:31 | 2025-08-07 | 2025-08-16 |

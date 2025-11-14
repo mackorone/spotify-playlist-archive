@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-195 songs - 12 hr 23 min
+195 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Lay Me Down](https://open.spotify.com/track/03ZJa3pFVufC4ZiIHzi6jc) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/03QD54RAeTky8OoxIUxHxs) | 3:36 | 2021-08-18 | 2022-03-09 |
 | [Leather and Lace \(with Don Henley\)](https://open.spotify.com/track/2npStoMbQxG1LcIeF4PZrj) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 3:49 | 2021-08-18 |  |
 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 | 2021-08-18 |  |
-| [Leaving, On a Jet Plane \- "Greatest Hits" Version](https://open.spotify.com/track/3D8dwH690MXQRhtIZTSS9c) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [John Denver's Greatest Hits](https://open.spotify.com/album/4zn2Kj85Hew0USyxc4TJEX) | 4:05 | 2021-08-18 |  |
+| [Leaving, On a Jet Plane \- "Greatest Hits" Version](https://open.spotify.com/track/3D8dwH690MXQRhtIZTSS9c) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [John Denver's Greatest Hits](https://open.spotify.com/album/4zn2Kj85Hew0USyxc4TJEX) | 4:08 | 2021-08-18 |  |
 | [Little Boxes](https://open.spotify.com/track/4VJrTc5QPr13zgkwxaTjjN) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [Headlines and Footnotes: A Collection of Topical Songs](https://open.spotify.com/album/1ggnnzHVxJFuTDIY78ZF1R) | 1:54 | 2021-08-18 |  |
 | [Love At The Five & Dime](https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [The Last Of The True Believers](https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t) | 4:39 | 2021-08-18 |  |
 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/72DefuF22C6aPKrWhRFCBS) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:42 | 2021-08-18 |  |

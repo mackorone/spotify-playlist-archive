@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat! Cover: Csinszka
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,262 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,263 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [TOUCH SOMEBODY](https://open.spotify.com/track/7tbPQ931BWN2j6861w1XKe) | [Anna Kornis](https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n) | [FOREIGN GIRL IN YOUR ROOM](https://open.spotify.com/album/2SWphLG9i3etow1cF3yCZX) | 2:36 |
 | 50 | [Self Love](https://open.spotify.com/track/6sTUkoHDiS7XKqw7omh6bl) | [Karola](https://open.spotify.com/artist/5zm8RkAvafvF2A6c5tdzXi) | [Self Love](https://open.spotify.com/album/3MKNgD6gtCMPgmpd2zTMnB) | 3:22 |
 
-Snapshot ID: `AAAAAGXx49ZOVp68RqenyZApKcxVQiv1`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

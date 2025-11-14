@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Fúria, Muse Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,314 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,310 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |
 | 50 | [BrusaDaNike e GShock](https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [SHAK](https://open.spotify.com/artist/3U28JqFKDrXW0WHFN6ieGL), [VCR Slim](https://open.spotify.com/artist/17yxCujICJdjk64A1J7NAd) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 3:06 |
 
-Snapshot ID: `AAAAAHdo26jjsgyhS4ok2gJ8RWMprG01`
+Snapshot ID: `AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR`

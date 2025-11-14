@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: TINI
 
-481 songs - 23 hr 55 min
+483 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [ALGO DENTRO DE MI](https://open.spotify.com/track/6aluIZnGjH3O5eyhWBlPl6) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [ALGO DENTRO DE MI](https://open.spotify.com/album/4521RW6Yo4YGV3IgMUEcRE) | 2:25 | 2024-01-19 | 2024-02-17 |
 | [alguien como tú](https://open.spotify.com/track/0xmqY23pIPnEI7jydmC5SY) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:08 | 2024-05-10 | 2024-09-14 |
 | [Alguien Como Yo](https://open.spotify.com/track/7JpxGqgHVu4pH9qFkJvD2C) | [Morena](https://open.spotify.com/artist/5aLdbUjX00uHsIQrciD85d) | [Alguien Como Yo](https://open.spotify.com/album/7vT1zEA2wPspFqq0t8Kfud) | 2:24 | 2025-02-21 | 2025-06-27 |
+| [algún día](https://open.spotify.com/track/66v7Rcc25aSprVOwBzqmdZ) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [algún día](https://open.spotify.com/album/000oBFIq4QNMY8ZV5o0z4c) | 3:11 | 2025-11-13 |  |
 | [Altar](https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Altar](https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF) | 3:13 | 2023-12-01 | 2023-12-16 |
 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 | 2024-02-09 | 2024-05-25 |
 | [Angelito](https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Angelito](https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o) | 2:10 | 2025-01-17 |  |
@@ -170,6 +171,7 @@
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-27 | 2024-04-19 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-26 | 2024-06-11 |
 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-05-12 | 2023-10-06 |
+| [fumamos una ZAZA](https://open.spotify.com/track/4BWBRxmV4KvvSCN358tXRe) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [fumamos una ZAZA](https://open.spotify.com/album/6n8FfZNTd1H8jBQ5UQGDDb) | 2:05 | 2025-11-13 |  |
 | [Fxcking noche de mi vida](https://open.spotify.com/track/5cj4tFJIGd6k0FX7JdZekY) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Valentina Zenere](https://open.spotify.com/artist/2EGULZLiEdWLH1Y6LQGqtX), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Fxcking noche de mi vida](https://open.spotify.com/album/1M1lYFgR6xx0QH5qlyEoSR) | 2:48 | 2023-10-05 | 2023-10-28 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-10-10 |
 | [GITANA](https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb) | [ENEZ 4R](https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [GITANA](https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6) | 2:53 | 2023-12-08 | 2024-02-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143375,
+  "num_followers": 143364,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -972,7 +972,7 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 218626,
+      "duration_ms": 219296,
       "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
       "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
     },
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
+        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
+        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Grand Ole Opry",
+          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
+        }
+      ],
+      "duration_ms": 287938,
+      "name": "Tennessee Whiskey (Live on the Grand Ole Opry, October 29th, 2016)",
+      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
+    },
+    {
+      "added_at": "2025-11-07 05:00:47",
+      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
       },
@@ -1623,22 +1643,18 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
-        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
+        "name": "Knives Of New Orleans (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/2lN838yEt48mCd38i5uPGP"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Grand Ole Opry",
-          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 287938,
-      "name": "Tennessee Whiskey (Live on the Grand Ole Opry, October 29th, 2016)",
-      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
+      "duration_ms": 315346,
+      "name": "Knives Of New Orleans - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/4pcdKxD2GPku26pdCYEHKt"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -1695,18 +1711,18 @@
     {
       "added_at": "2025-11-07 05:00:47",
       "album": {
-        "name": "Knives Of New Orleans (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/2lN838yEt48mCd38i5uPGP"
+        "name": "Me and My Kind (Live)",
+        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 315346,
-      "name": "Knives Of New Orleans - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/4pcdKxD2GPku26pdCYEHKt"
+      "duration_ms": 163013,
+      "name": "Me and My Kind - Live",
+      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
     },
     {
       "added_at": "2025-11-07 05:00:47",
@@ -1723,22 +1739,6 @@
       "duration_ms": 196173,
       "name": "Written in the Sand - Live",
       "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
-    },
-    {
-      "added_at": "2025-11-07 05:00:47",
-      "album": {
-        "name": "Me and My Kind (Live)",
-        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Me and My Kind - Live",
-      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
     },
     {
       "added_at": "2025-11-07 05:00:47",

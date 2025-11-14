@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. ALT BLK ERA
+> welcome to our universe ft\. Poppy
 
-1,223 songs - 2 day 12 hr 9 min
+1,224 songs - 2 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Breakhearts](https://open.spotify.com/track/1c1Vw5n3oNvUk4AhsohBqC) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Breakhearts](https://open.spotify.com/album/19dbRtvQvOC2bd7YDNT1pH) | 1:50 | 2022-08-27 | 2022-09-02 |
 | [brkdwn](https://open.spotify.com/track/17Ag5tNS39vOxvygMVlnJU) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 | 2023-01-21 | 2023-03-31 |
 | [BROKE THE LIGHT](https://open.spotify.com/track/5Wj7k4nW3fNiO8KU1Q1XdY) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [GREED BETWEEN THE LINES](https://open.spotify.com/album/62xHSwQplVIsGotSCoVUkV) | 3:01 | 2025-10-03 |  |
+| [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 | 2025-11-14 |  |
 | [BUBBLEGUM](https://open.spotify.com/track/1h1YtwDu2DOYxFaJQbNRYj) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Live Laugh Love](https://open.spotify.com/album/4zOkgUkqLbQCK0POFJ3L7S) | 2:04 | 2022-11-18 | 2023-01-20 |
 | [BUBBLEGUM](https://open.spotify.com/track/30CvotPyRWWK2HHo1vbVBS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [BUBBLEGUM](https://open.spotify.com/album/30Tfy5w2spNJk5BKVsxr9l) | 2:04 | 2022-10-13 | 2022-11-18 |
 | [buckshot boy](https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR) | [Onlyfriend](https://open.spotify.com/artist/03zKAbmkkWhUzjUSmJZGVE) | [buckshot boy](https://open.spotify.com/album/6eB0sUv4yuNNWzXFv11A8J) | 2:18 | 2021-12-27 | 2022-01-19 |
@@ -684,7 +685,7 @@
 | [lock](https://open.spotify.com/track/6uyLlMgGbTpZ8cOpdWlzVl) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [lock](https://open.spotify.com/album/265AleMWrh4uPL0IQuPdQ1) | 2:13 | 2024-01-26 | 2024-05-10 |
 | [Lonely](https://open.spotify.com/track/0Yw8ULkkEHOL97vp5minac) | [Macca Wiles](https://open.spotify.com/artist/7CkWoeaDeH2dRdiOxILlS3), [Cokasian](https://open.spotify.com/artist/6cjECcpo0k8pwn7twpd4ge) | [Lonely](https://open.spotify.com/album/6ksVIFkPxJ4IH6WBuKddPI) | 2:52 | 2024-07-04 | 2024-09-06 |
 | [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
-| [LOOKING AT US](https://open.spotify.com/track/3Jvl3Qm630HlA7FTGiaNeA) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [LOOKING AT US](https://open.spotify.com/album/3W3HGFUgwbNPvwuVjernmk) | 3:22 | 2025-06-20 |  |
+| [LOOKING AT US](https://open.spotify.com/track/3Jvl3Qm630HlA7FTGiaNeA) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [LOOKING AT US](https://open.spotify.com/album/3W3HGFUgwbNPvwuVjernmk) | 3:22 | 2025-06-20 | 2025-11-14 |
 | [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 | 2024-02-09 |
 | [Lose My Cool](https://open.spotify.com/track/1UEbyNXgbFfJHNUTkCxOiS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:09 | 2024-05-16 | 2024-08-09 |
 | [Loser](https://open.spotify.com/track/3plgchkBsHc0D4prjUZLm4) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Loser](https://open.spotify.com/album/7jBMjMzRHGQHh3YJnk4x7c) | 2:07 | 2025-05-01 |  |

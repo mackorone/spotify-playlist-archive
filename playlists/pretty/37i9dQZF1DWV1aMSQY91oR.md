@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest in hip\-hop, updated weekly\. Cover: Smiley & Roy Woods
+> We'll be back next week with the latest in hip\-hop\. Cover: Smiley & Roy Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,039 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,040 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 58 | [MADNESS](https://open.spotify.com/track/3fl7ZQRkWR2g67FCrALEax) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [MADNESS](https://open.spotify.com/album/3I9anOSoWAweRc2jub7wdl) | 2:29 |
 | 59 | [Lil Yeah](https://open.spotify.com/track/2bhDotccp2XaAT06VUd63g) | [Jace](https://open.spotify.com/artist/0vaKiuLwFJLVU664A8GTjE), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Eastside Jace](https://open.spotify.com/album/4tCbkETQMoR8CTxk4ca564) | 2:33 |
 
-Snapshot ID: `AAAAAPNnzxi6V73184ma5YdbjPCgKBVy`
+Snapshot ID: `AAAAAJUsXqm9QqG/2yhIu5aq4Mnjm/HC`

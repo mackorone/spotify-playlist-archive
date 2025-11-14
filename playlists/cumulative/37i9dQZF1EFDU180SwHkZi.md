@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-140 songs - 6 hr 35 min
+142 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Can I Be Ur Friend?](https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Can I Be Ur Friend?](https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr) | 3:37 | 2025-07-03 |  |
 | [Celebrate \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/3brKEfW31fBGZZqRdmGzie) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 1:59 | 2025-07-17 |  |
 | [chalo](https://open.spotify.com/track/56suLLcdkGhJJqTWS5Rv9x) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [chalo](https://open.spotify.com/album/5bvBVax9mBgWZ8y2iLpa50) | 1:11 | 2025-07-03 |  |
+| [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 | 2025-11-13 |  |
 | [CLEO](https://open.spotify.com/track/6K7f7IQm4shmQVtvizFTFw) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [CLEO](https://open.spotify.com/album/2gRjWGznX1WuVOynDvsrXS) | 2:38 | 2025-07-03 |  |
 | [Comfortable](https://open.spotify.com/track/2wpbd3TMjF3zuJhSwln1iX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Comfortable](https://open.spotify.com/album/4IyNzsMpD1ztwKGEgQjsxC) | 2:26 | 2025-07-03 |  |
 | [Control](https://open.spotify.com/track/5NH6GqeHO5Zi4bJpPfnwPs) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Control](https://open.spotify.com/album/6QRfFKXgzfBmVcdrUq6L9u) | 2:33 | 2025-07-03 |  |
@@ -63,6 +64,7 @@
 | [Grind](https://open.spotify.com/track/7dIL3FxyYzQRWlZCylR0Sm) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Grind](https://open.spotify.com/album/0jt5FKielQ2WdIXmbsi0j7) | 2:20 | 2025-07-03 |  |
 | [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 | 2025-07-03 |  |
 | [Hands Off](https://open.spotify.com/track/5zGDlUluNxFDfFlBJBrlIW) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Blue Hour](https://open.spotify.com/album/5NEUJFulV4aYueCDES6bWl) | 3:08 | 2025-07-03 |  |
+| [Haule Haule](https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Haule Haule](https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys) | 4:03 | 2025-11-13 |  |
 | [Hell of A Ride](https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Aniket Mangrulkar](https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:28 | 2025-07-03 |  |
 | [Higher Love \(feat\. Natania and Subhi\) \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Higher Love \(feat\. Natania and Subhi\) \[from the Smurfs Movie Soundtrack\]](https://open.spotify.com/album/4AitGOdoQPQZGcpiGXMHAq) | 2:56 | 2025-07-03 |  |
 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 | 2025-07-03 |  |

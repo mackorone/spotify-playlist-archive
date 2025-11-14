@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday🔥 Ryan Castro is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,131 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,096 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [Wo Oh \(with Yandel\)](https://open.spotify.com/track/2ZwBSCAcYirfZmtLMTg4O4) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Underwater](https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y) | 2:40 |
 | 20 | [LOKENECESITAS](https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LOKENECESITAS](https://open.spotify.com/album/4m9XAqcQFEEmZM9F3ePRhM) | 3:20 |
 
-Snapshot ID: `AAAAABRJ/pG9hNjL1Lh0+tJYoEisaRTx`
+Snapshot ID: `AAAAANKp/tZlMhVtNpUEDi1XGqYCKp49`

@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA"
@@ -5819,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "Bis zum Morgen (Original)",
+        "url": "https://open.spotify.com/album/4DZeyRitbY2jMo8YbeqSHu"
+      },
+      "artists": [
+        {
+          "name": "LyricDreamGirl25",
+          "url": "https://open.spotify.com/artist/6jUv5H0X41ieqB0GQ7M2XY"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208439,
+      "name": "Bis zum Morgen (Original)",
+      "url": "https://open.spotify.com/track/6YxMjmrDnKIUIWmgpLLjwY"
+    },
+    {
+      "album": {
         "name": "Bisschen Liebe",
         "url": "https://open.spotify.com/album/4nHUmRt1kb0C2ei31Qplal"
       },
@@ -6084,7 +6102,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 138955,
       "name": "blackout blackout",
       "url": "https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ"
@@ -6182,6 +6200,24 @@
       "duration_ms": 169459,
       "name": "Blauer Ballon",
       "url": "https://open.spotify.com/track/3aeRQ9xGSLAUg1R7CZ5QKv"
+    },
+    {
+      "album": {
+        "name": "The Singer and the Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100746,
+      "name": "Bless the Telephone",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     },
     {
       "album": {
@@ -8276,7 +8312,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 139908,
       "name": "Chabos wissen wer der Babo ist",
       "url": "https://open.spotify.com/track/3SXal1NK2pGOsWFTHihsCG"
@@ -8294,7 +8330,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 139908,
       "name": "Chabos wissen wer der Babo ist",
       "url": "https://open.spotify.com/track/55M8uEwBvW9VuPjPZJsGnA"
@@ -11771,6 +11807,24 @@
     },
     {
       "album": {
+        "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/7BhADQhRXAejqKcPRxiVbB"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192839,
+      "name": "Don't Tread On Me",
+      "url": "https://open.spotify.com/track/6HBXV39czD5H6T13VbJSQZ"
+    },
+    {
+      "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99"
       },
@@ -14004,7 +14058,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 269919,
       "name": "Eyl\u00fclzede",
       "url": "https://open.spotify.com/track/3N2dY8tyTp7XGhsTSigaxT"
@@ -24552,7 +24606,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 207680,
       "name": "Lass die Affen aus'm Zoo",
       "url": "https://open.spotify.com/track/6QNgcN2uHhXJG4RWDPyQQF"
@@ -24574,7 +24628,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 207680,
       "name": "Lass die Affen aus'm Zoo",
       "url": "https://open.spotify.com/track/7ioPN2yphRIkekJ4wkpstl"
@@ -35078,7 +35132,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 241693,
       "name": "Pussy Palace",
       "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"

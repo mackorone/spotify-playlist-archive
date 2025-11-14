@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Royal 44\)
 
-1,684 songs - 3 day 18 hr 3 min
+1,685 songs - 3 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 | 2022-02-23 | 2022-07-02 |
 | [Fix up \(Feat\. Koonta\)](https://open.spotify.com/track/6hrPBBKARnlBXxMt74nI17) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Fix up \(Feat\. Koonta\)](https://open.spotify.com/album/33Kga5D5fPfXFPR2XqxzKX) | 2:46 | 2023-01-20 | 2023-03-01 |
 | [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY) | 2:47 | 2024-07-16 | 2024-11-28 |
+| [Flaunt It](https://open.spotify.com/track/4okfE89XctMbbLqf2dxB57) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Flaunt It](https://open.spotify.com/album/3HrgBPjUiDasVVSmzuN4JL) | 3:19 | 2025-11-14 |  |
 | [Flick \(Feat\. BE′O, HAON\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/18FgZS3SkPGifWyVGYO9Gh) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [SHOW ME THE MONEY 11 Episode 2](https://open.spotify.com/album/2MypmCpJHMyUOKcnWsByC0) | 4:20 | 2022-12-11 | 2023-07-18 |
 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2021-12-21 | 2022-04-20 |
 | [Flight mode](https://open.spotify.com/track/10TDHFYW4XLrHio080E12c) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [THURSDAYCLUB MIXTAPE](https://open.spotify.com/album/3L3r5YkZngwkCu96WNcYKT) | 3:12 | 2024-07-30 | 2024-11-07 |

@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Billy Choi
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Arvin 曾傲棐
 
-281 songs - 16 hr 20 min
+282 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/track/1lY6aCnPSoLbwpukEk9l57) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/album/6AMjxEmzxMtlDomTbD13dg) | 4:02 | 2023-09-15 | 2024-03-29 |
 | [莊](https://open.spotify.com/track/3EzQ6PZT9eMDKUxsxwFDVt) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 2:50 | 2022-12-29 | 2023-04-14 |
 | [蒲公英](https://open.spotify.com/track/2S0sJRxltYnCSTy0KSg13U) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [蒲公英](https://open.spotify.com/album/7dKHoxpKBtF1uzrE4Gulki) | 2:51 | 2025-11-06 |  |
+| [蝦餃](https://open.spotify.com/track/1uMWzyraEQ8VUSydUGinRg) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [蝦餃](https://open.spotify.com/album/6AlEjUxrtWT94hu7WVDLFj) | 3:58 | 2025-11-13 |  |
 | [角度 \(feat\. ZAIN\)](https://open.spotify.com/track/1fEOejvs3lGYCkdTmicb8s) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 4:29 | 2022-12-29 | 2023-04-14 |
 | [記錄抹煞](https://open.spotify.com/track/1GDjTboNanc5XvtopYWKXE) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [記錄抹煞](https://open.spotify.com/album/6Nfko3JCMNzALtuKtQzde9) | 4:25 | 2025-03-27 |  |
 | [讓我一個人過](https://open.spotify.com/track/0W9UnXy23gylvfBvm0Fs3t) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [讓我一個人過](https://open.spotify.com/album/1H7mGKTxclL94I9tJtxuoU) | 3:30 | 2023-10-26 | 2024-03-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die Playlist zur Wasserpfeife. Cover: Jazeek x Luciano",
+  "description": "Die Playlist zur Wasserpfeife. Cover: Jazeek",
   "name": "Shisha Club",
   "tracks": [
     {
@@ -3307,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
+    },
+    {
+      "album": {
         "name": "iceolator",
         "url": "https://open.spotify.com/album/1JbPOVuXx2XrtuhWxewiCu"
       },
@@ -4452,6 +4474,24 @@
       "duration_ms": 142608,
       "name": "Malaga",
       "url": "https://open.spotify.com/track/7wc5sF6gVT8KCeamMlcMWf"
+    },
+    {
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
     },
     {
       "album": {
@@ -6024,7 +6064,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 140178,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
@@ -7914,7 +7954,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 133403,
       "name": "Zieh Zieh",
       "url": "https://open.spotify.com/track/5BsS41PRBAXs7EibiFdvPp"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
+  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! Cover: bongor",
   "name": "Most Men\u0151",
   "tracks": [
     {
@@ -7287,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "STARBOY",
+        "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "STARBOY",
+      "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
+    },
+    {
+      "album": {
         "name": "STILO",
         "url": "https://open.spotify.com/album/7FSzwfoHLpRd87hK4KzQYK"
       },
@@ -8348,7 +8366,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 130909,
       "name": "Ugyan\u00fagy",
       "url": "https://open.spotify.com/track/4t1QpatMEGoIFQvtHHPlXK"

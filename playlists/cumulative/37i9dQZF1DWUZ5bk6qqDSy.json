@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 208000,
       "name": "30,000 Feet Air",
       "url": "https://open.spotify.com/track/1em5BWekmSTC4eNEJ0jsMD"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 180000,
       "name": "36,201 feet",
       "url": "https://open.spotify.com/track/2i28I5oI7HrkYxX1zS91AK"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 181114,
       "name": "Beyond White Noise",
       "url": "https://open.spotify.com/track/6BSHFyKbY8UtRzraHpbrBp"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 129763,
       "name": "Cabin Noise Focus",
       "url": "https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 122618,
       "name": "Cabination Noise",
       "url": "https://open.spotify.com/track/0BHUIuLE8ZqojV6LqswBgS"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 136736,
       "name": "Cloud White Noise",
       "url": "https://open.spotify.com/track/1pKDDWvQp4HiyEzsVuSHTT"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 175500,
       "name": "Digital Waves",
       "url": "https://open.spotify.com/track/6DDLnwNKKt5jRjghysaLem"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 177500,
       "name": "Doze Off",
       "url": "https://open.spotify.com/track/4pU7rgTDiVrCGwFhM4u3Rm"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 168500,
       "name": "Doze Off - Seamless",
       "url": "https://open.spotify.com/track/1L3BdJ2gxTUFHfaWF1Vtwl"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 159027,
       "name": "Dreams & Calmness",
       "url": "https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 185085,
       "name": "Echoes From Nowhere",
       "url": "https://open.spotify.com/track/5mGPuajka7C75r5sFwbN10"
@@ -1532,6 +1532,24 @@
       "duration_ms": 141194,
       "name": "Electric White Noise",
       "url": "https://open.spotify.com/track/0t3XIvAYQrLMziJJuANG72"
+    },
+    {
+      "album": {
+        "name": "Enchanting White Noise",
+        "url": "https://open.spotify.com/album/5mwfcdEV691Ykx4J8sq7Li"
+      },
+      "artists": [
+        {
+          "name": "Soundverb",
+          "url": "https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205305,
+      "name": "Enchanting White Noise",
+      "url": "https://open.spotify.com/track/0gfgDSsaWrRAGCdzj04fuX"
     },
     {
       "album": {
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 161999,
       "name": "Every Night White Noise",
       "url": "https://open.spotify.com/track/5nMbf1TCIXxtgWjcCT7pzs"
@@ -1715,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Fearless White Noise",
+        "url": "https://open.spotify.com/album/10YXL492yC39BXXZ2P5Dpu"
+      },
+      "artists": [
+        {
+          "name": "Aeoluzzz",
+          "url": "https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225419,
+      "name": "Fearless White Noise",
+      "url": "https://open.spotify.com/track/1wlFGiBgSb2sQNcZtgvU1r"
+    },
+    {
+      "album": {
         "name": "Feathery White Noise",
         "url": "https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1"
       },
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 173720,
       "name": "Feathery White Noise",
       "url": "https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx"
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 99925,
       "name": "Focus On Noise",
       "url": "https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE"
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 141177,
       "name": "Fuori Zona",
       "url": "https://open.spotify.com/track/7efOZRH7Zu4oCvQwZ8ppIq"
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 141480,
       "name": "FX Noise",
       "url": "https://open.spotify.com/track/0r07HUVhRRaku5uI7sXCUF"
@@ -1996,7 +2032,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 171500,
       "name": "Gentle White",
       "url": "https://open.spotify.com/track/0fYBdMaoVYP9cNopoEN9yg"
@@ -2122,7 +2158,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "Harmonious",
       "url": "https://open.spotify.com/track/1wUzoaQgii2QrgnqlcRPAC"
@@ -2252,6 +2288,24 @@
       "duration_ms": 187081,
       "name": "Hemelse Witte Ruis",
       "url": "https://open.spotify.com/track/3nRv6eO0ZxOnwr8n62QTvH"
+    },
+    {
+      "album": {
+        "name": "Hidden White Noise",
+        "url": "https://open.spotify.com/album/4Us3RZCfT12St37UTjKm7c"
+      },
+      "artists": [
+        {
+          "name": "White Noise Android",
+          "url": "https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219411,
+      "name": "Hidden White Noise",
+      "url": "https://open.spotify.com/track/01nZ6Dd6lEw9Q2Z8FTnqIf"
     },
     {
       "album": {
@@ -2572,7 +2626,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 144166,
       "name": "In White Atmosphere",
       "url": "https://open.spotify.com/track/5TVNQWqTMdJxg4H5LxrzW1"
@@ -2626,7 +2680,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 120979,
       "name": "Ipnotizzato Dal Rumore Bianco",
       "url": "https://open.spotify.com/track/47MRiOYDPxibheDghy2Hum"
@@ -2770,7 +2824,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 133021,
       "name": "Lost In Noise",
       "url": "https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl"
@@ -3184,7 +3238,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "moon reflection white noise",
       "url": "https://open.spotify.com/track/0yLOvc7uYLtk4nk0N6vpqu"
@@ -3418,7 +3472,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 184000,
       "name": "Noise Enclosure (White Noise)",
       "url": "https://open.spotify.com/track/4EtZ3hraFrVStln3OtkN2V"
@@ -3472,7 +3526,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 175655,
       "name": "Noise Of Oblivion",
       "url": "https://open.spotify.com/track/2XTA9a28XN283re5xt9DB7"
@@ -3562,7 +3616,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 168250,
       "name": "Noise Soothness",
       "url": "https://open.spotify.com/track/0VDzbWxYjg6WfEEX2gihFI"
@@ -3724,7 +3778,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 143930,
       "name": "Office Canceling Noise",
       "url": "https://open.spotify.com/track/2oFm8HbzGMCRnOozyIonRB"
@@ -3760,7 +3814,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 193000,
       "name": "Only White Noise",
       "url": "https://open.spotify.com/track/6JGPa5e2e85YSioo0Sy5Re"
@@ -3976,7 +4030,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 128250,
       "name": "Pillow State of Mind",
       "url": "https://open.spotify.com/track/16LjD9K8Nv7slf267kbQJV"
@@ -4034,6 +4088,24 @@
       "duration_ms": 337339,
       "name": "Porcelain Beauty Sleep",
       "url": "https://open.spotify.com/track/1L3KAfZdvqDREejuysnji9"
+    },
+    {
+      "album": {
+        "name": "Priceless White Noise",
+        "url": "https://open.spotify.com/album/2UNqPOWgKSLRvSxeBiotwb"
+      },
+      "artists": [
+        {
+          "name": "ZNoize",
+          "url": "https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228031,
+      "name": "Priceless White Noise",
+      "url": "https://open.spotify.com/track/198ccToP7ZpJUUUjOURLS1"
     },
     {
       "album": {
@@ -4354,7 +4426,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 136719,
       "name": "Rumore Bianco",
       "url": "https://open.spotify.com/track/6FrJELq39kHa0lllsUgyS4"
@@ -4390,7 +4462,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 148471,
       "name": "Rumore Pesante Del Sonno",
       "url": "https://open.spotify.com/track/3jBtGFrRvQDDSrwtQsWZHD"
@@ -4498,7 +4570,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 123180,
       "name": "Sequencialidade",
       "url": "https://open.spotify.com/track/3yooJ67GPIoD8ntFvMfZ3g"
@@ -4732,7 +4804,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 138645,
       "name": "Sleep White Noise",
       "url": "https://open.spotify.com/track/5pU4E6MACvOJPc6eTn4GPg"
@@ -4804,7 +4876,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Sleeping Shades",
       "url": "https://open.spotify.com/track/2TKQ2Ia0YvoBKE0LZWnBiU"
@@ -4840,7 +4912,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Sleeping Winds",
       "url": "https://open.spotify.com/track/1HY5hiKQhtp0rBqeclaakw"
@@ -4876,7 +4948,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 149924,
       "name": "Sleepy Bedroom Noise",
       "url": "https://open.spotify.com/track/1F0Xl6fZ1RPGtXpDl67O6w"
@@ -5200,7 +5272,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 153780,
       "name": "Soothing Field Noise",
       "url": "https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV"
@@ -5272,7 +5344,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 174500,
       "name": "Sound Asleep",
       "url": "https://open.spotify.com/track/5kcLGL8xKMpuLw1hoMfxD4"
@@ -5366,6 +5438,24 @@
       "duration_ms": 175933,
       "name": "Spaceful White",
       "url": "https://open.spotify.com/track/1n4kT38WJy4bLKajINLIbi"
+    },
+    {
+      "album": {
+        "name": "Starlight White Noise",
+        "url": "https://open.spotify.com/album/6eNAi8rQ09viBDe1FwMM4Z"
+      },
+      "artists": [
+        {
+          "name": "Scientists of Noise",
+          "url": "https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213228,
+      "name": "Starlight White Noise",
+      "url": "https://open.spotify.com/track/5JECXI57idQq8HRu9qCvAU"
     },
     {
       "album": {
@@ -5578,7 +5668,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 192153,
       "name": "The Dark White Noise",
       "url": "https://open.spotify.com/track/0Se7OnifRxYPVsimoV1Yyb"
@@ -5614,7 +5704,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 188500,
       "name": "The Deep White",
       "url": "https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu"
@@ -5776,7 +5866,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 169644,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/6CbPp21JO1ZFFVkP9vism2"
@@ -5798,6 +5888,24 @@
       "duration_ms": 178000,
       "name": "Tunnel Noise",
       "url": "https://open.spotify.com/track/0KNJrBUU6A93gsBlPo9F7Q"
+    },
+    {
+      "album": {
+        "name": "Variations On White Noise",
+        "url": "https://open.spotify.com/album/2fTeF1ocHYKFRtcN5ZuOm1"
+      },
+      "artists": [
+        {
+          "name": "Feedback Loops 1994",
+          "url": "https://open.spotify.com/artist/7l00V143Y1CgzTtVOnKcbt"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Variations On White Noise",
+      "url": "https://open.spotify.com/track/2oyfOnDg5Nysv4wGdcFLgK"
     },
     {
       "album": {
@@ -6071,6 +6179,24 @@
     },
     {
       "album": {
+        "name": "White Cloud Somnolence",
+        "url": "https://open.spotify.com/album/6wRm3c0JGhuDVAQbEnG4pG"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Parachuter",
+          "url": "https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "White Cloud Somnolence",
+      "url": "https://open.spotify.com/track/09r45kX1QtF7N1aaFDhSzM"
+    },
+    {
+      "album": {
         "name": "White Cotton Noise",
         "url": "https://open.spotify.com/album/01tdvOvnpHI8HPMG2LsVAu"
       },
@@ -6208,7 +6334,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 144909,
       "name": "White Noise - 14400 Hz Gain - Q 1.60",
       "url": "https://open.spotify.com/track/0iBZq0JWdp5oE5R2lpoqi3"
@@ -6406,7 +6532,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 133306,
       "name": "White Noise - Highway Buzz",
       "url": "https://open.spotify.com/track/1aYbS5oTaPvdx3SFGaNdoK"
@@ -6604,7 +6730,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 123081,
       "name": "White Noise 594 Hz",
       "url": "https://open.spotify.com/track/1mkBAifqSB5Cyu4ZicSJoK"
@@ -6640,7 +6766,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "White Noise asleep on my feet",
       "url": "https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD"
@@ -6856,7 +6982,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 140451,
       "name": "White Noise Dreams",
       "url": "https://open.spotify.com/track/20BI2mW4dmSdRuICaicI0t"
@@ -7007,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "White Noise for Deep Focus",
+        "url": "https://open.spotify.com/album/4LmrpY3Vdv4LkmMDmKzbdz"
+      },
+      "artists": [
+        {
+          "name": "Librarical Nature",
+          "url": "https://open.spotify.com/artist/7hxI1aGCZDImZ8oRzudkbT"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143994,
+      "name": "White Noise for Deep Focus",
+      "url": "https://open.spotify.com/track/310c9S3sVZJOAhNRsEtk4Q"
+    },
+    {
+      "album": {
         "name": "White Noise For Sleep",
         "url": "https://open.spotify.com/album/1LpKenrktP6cudR4B61Ilv"
       },
@@ -7072,7 +7216,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 174799,
       "name": "White Noise for the Dreamers",
       "url": "https://open.spotify.com/track/1mCMRPk1BSqTAAq4mLn5Qx"
@@ -7090,7 +7234,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 238693,
       "name": "White Noise for Tranquility",
       "url": "https://open.spotify.com/track/2Kw1Ri1K3eItC6QTMRt84d"
@@ -7126,7 +7270,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 161286,
       "name": "white noise hall",
       "url": "https://open.spotify.com/track/040R2K1gn128MwftR0bdyJ"
@@ -7216,7 +7360,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 125220,
       "name": "White Noise in der Grotte",
       "url": "https://open.spotify.com/track/2Qh0vgdqdOr0g5C1ysGMzg"
@@ -7414,7 +7558,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 135964,
       "name": "White Noise Low Frequency",
       "url": "https://open.spotify.com/track/0M8XcBsYL0Gm8ewxTPYXzQ"
@@ -7450,7 +7594,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 179691,
       "name": "White Noise Lullaby",
       "url": "https://open.spotify.com/track/6sEeaMuuF5xx6xHGMUWdot"
@@ -7522,7 +7666,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 173871,
       "name": "White Noise Rauschen",
       "url": "https://open.spotify.com/track/4HbdRcLLnUHgBVBDVRD14M"
@@ -7558,7 +7702,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 198818,
       "name": "White Noise Retreat",
       "url": "https://open.spotify.com/track/38LDKVgDA7DlB4eMuB8rxF"
@@ -7648,7 +7792,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 123702,
       "name": "White Noise Shade 4",
       "url": "https://open.spotify.com/track/5SJZH9cW2v3SrF3Pher2oP"
@@ -7684,10 +7828,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 151828,
       "name": "White Noise Slumber",
       "url": "https://open.spotify.com/track/1sM1cTedFQCsxzLIm5oJYb"
+    },
+    {
+      "album": {
+        "name": "White Noise Smiles",
+        "url": "https://open.spotify.com/album/18LFht5ln4MzfZrZeopsvM"
+      },
+      "artists": [
+        {
+          "name": "Ilkley Rvr",
+          "url": "https://open.spotify.com/artist/03XL5jHJbnEGr0KeTmAOSo"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192766,
+      "name": "White Noise Smiles",
+      "url": "https://open.spotify.com/track/3j3gz0VrefYhOxezG9IOE9"
     },
     {
       "album": {
@@ -7702,7 +7864,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 162515,
       "name": "White Noise Soul",
       "url": "https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY"
@@ -8008,7 +8170,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 128659,
       "name": "White Serenity",
       "url": "https://open.spotify.com/track/7dD3etWhKwTaEwy0VinwAY"
@@ -8080,7 +8242,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 174933,
       "name": "White Storm",
       "url": "https://open.spotify.com/track/2gOKJx09WDhxgZWfYSWIIG"
@@ -8116,7 +8278,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 198500,
       "name": "Whiteosphere",
       "url": "https://open.spotify.com/track/52O3MLLIHlQ4FDItAOsEDt"

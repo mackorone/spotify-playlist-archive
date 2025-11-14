@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Alex Ferreira en portada.",
-  "num_followers": 154,
+  "num_followers": 161,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Las De Infante",
-        "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
-      },
-      "artists": [
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 157473,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/5o0NpJ8lJqcdiIIpeZPP6u"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Las De Infante",
+        "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
+      },
+      "artists": [
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 157473,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/5o0NpJ8lJqcdiIIpeZPP6u"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Embeces",
-        "url": "https://open.spotify.com/album/5wrbLnLCWcfkNGKwlT1P2k"
-      },
-      "artists": [
-        {
-          "name": "Meme del Real",
-          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Embeces",
-      "url": "https://open.spotify.com/track/3tfFRiUe2e6FQ6oNNisspM"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Tofu",
         "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 164866,
       "name": "Popango",
       "url": "https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Embeces",
+        "url": "https://open.spotify.com/album/5wrbLnLCWcfkNGKwlT1P2k"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Embeces",
+      "url": "https://open.spotify.com/track/3tfFRiUe2e6FQ6oNNisspM"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Dejar llegar",
-        "url": "https://open.spotify.com/album/5ehJ63uoMptTAfac9cvPDn"
-      },
-      "artists": [
-        {
-          "name": "Grecia Vallejo",
-          "url": "https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI"
-        }
-      ],
-      "duration_ms": 187205,
-      "name": "Dejar llegar",
-      "url": "https://open.spotify.com/track/5drbZ0eBIGweQplzN97Vlp"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/7aNC4dqtdKAUgbioBibkFV"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 177098,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/6J5CJS1fFVJRlkVil5t9Z0"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Dejar llegar",
+        "url": "https://open.spotify.com/album/5ehJ63uoMptTAfac9cvPDn"
+      },
+      "artists": [
+        {
+          "name": "Grecia Vallejo",
+          "url": "https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI"
+        }
+      ],
+      "duration_ms": 187205,
+      "name": "Dejar llegar",
+      "url": "https://open.spotify.com/track/5drbZ0eBIGweQplzN97Vlp"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "La Peli",
-        "url": "https://open.spotify.com/album/1kYigrzcZBifp9q9TliUdv"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 189627,
-      "name": "La Peli",
-      "url": "https://open.spotify.com/track/4S9B5SAwJhR3mm2SIUitoq"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Cuesti\u00f3n de Fe",
         "url": "https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 143671,
       "name": "Cuesti\u00f3n de Fe",
       "url": "https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "La Peli",
+        "url": "https://open.spotify.com/album/1kYigrzcZBifp9q9TliUdv"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 189627,
+      "name": "La Peli",
+      "url": "https://open.spotify.com/track/4S9B5SAwJhR3mm2SIUitoq"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/2OHUQeAUQzD7XJV4brIs1A"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163217,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/2mrgI05Xvxm8QG5RxFMHSC"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "desahogo",
         "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 189583,
       "name": "desahogo",
       "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/2OHUQeAUQzD7XJV4brIs1A"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163217,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/2mrgI05Xvxm8QG5RxFMHSC"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
-        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
+      },
+      "artists": [
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Buenos Aires",
+      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "Natalia Lafourcade Live at Carnegie Hall",
         "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
       },
@@ -1163,6 +1179,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "par\u00eds",
+        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "par\u00eds",
+      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "Hubo Algo",
         "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
       },
@@ -1179,38 +1211,6 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Buenos Aires",
-        "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
-      },
-      "artists": [
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Buenos Aires",
-      "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "par\u00eds",
-        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "par\u00eds",
-      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Papalote",
-        "url": "https://open.spotify.com/album/1qZF0H7ybTqldbTHRjdBhK"
+        "name": "Algo Mejor",
+        "url": "https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 316411,
-      "name": "Papalote",
-      "url": "https://open.spotify.com/track/1o5I8ktLXeSqs56ao4bvrT"
+      "duration_ms": 153746,
+      "name": "Algo Mejor",
+      "url": "https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF"
     }
   ],
   "unique_name": "Pop Folk",

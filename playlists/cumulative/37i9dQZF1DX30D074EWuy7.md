@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Il Mago del Gelato 🍉
 
-547 songs - 1 day 16 hr 54 min
+548 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Blackbird](https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP) | [Federico Bosio](https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1) | [Blackbird](https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ) | 2:26 | 2023-01-30 | 2025-06-04 |
 | [Blackbird](https://open.spotify.com/track/4P4WaI1tnvFx8ipOBvsyJl) | [Petra Magoni](https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s), [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f) | [Musica Nuda](https://open.spotify.com/album/7fm5MAOxNAcS6FjlbFpzM9) | 1:56 | 2023-06-04 | 2023-09-18 |
 | [Blue Room](https://open.spotify.com/track/02U4H3RvIptfhh4xMWtuqo) | [Bo!led](https://open.spotify.com/artist/0K3YAo5FxYuA2ZW2L3Hdzs) | [Different, Us](https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw) | 4:58 | 2022-11-02 | 2022-12-06 |
+| [blue somalia](https://open.spotify.com/track/2dtAl6nfqYGSPEgM5KET7D) | [HODO](https://open.spotify.com/artist/17URq7moFpGsENg5F3HlMe) | [blue somalia](https://open.spotify.com/album/3BGiUNOINj9njAugM6gHLu) | 4:20 | 2025-11-13 |  |
 | [Blue Tangos](https://open.spotify.com/track/4CTxJoPFfI8okvF8nPdiD6) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Un gelato al limon \(Dischi D'Oro\)](https://open.spotify.com/album/3iuH9w9SQFXICFswmaoX8y) | 4:08 | 2022-09-30 | 2022-11-03 |
 | [Blue Xmas \(To Whom It May Concern\)](https://open.spotify.com/track/4xaYrhNS7U8tc7baaWdT8Z) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Complete Columbia Studio Recordings](https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz) | 2:39 | 2023-12-05 | 2024-03-29 |
 | [Boccuccia di rosa](https://open.spotify.com/track/0PQri3VpY3GpU43AS15yvM) | [Nicola Arigliano](https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD) | [Carina](https://open.spotify.com/album/75kGDr36AtwMLXbOg2pV7O) | 2:53 | 2023-06-04 | 2023-09-18 |
@@ -218,7 +219,7 @@
 | [How Do We Know We're Alive](https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM) | 3:51 | 2024-04-26 | 2025-05-05 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 3:51 | 2022-11-02 | 2022-12-06 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/2ZU2uV7bH48wu7auFnw2Qy) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [How Do We Know We're Alive](https://open.spotify.com/album/3DaFZoTxOJxdxvFFbO2qZy) | 3:51 | 2022-11-07 | 2022-11-14 |
-| [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 | 2024-03-28 |  |
+| [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 | 2024-03-28 | 2025-11-14 |
 | [Howls](https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Afrobeat Makers, Vol\. 3 \(The Tony Allen Experiments\)](https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI) | 4:01 | 2022-11-02 |  |
 | [Hula Om](https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz) | [Raul Lovisoni](https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48), [Francesco Messina](https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj) | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB) | 9:26 | 2022-09-30 |  |
 | [Hypermnesia \- \(Album Version\)](https://open.spotify.com/track/2kuj7UgWG37nOOSpvdfybm) | [Kidd Mojo](https://open.spotify.com/artist/6YD6OHFh82LSUzmnbmpwFR) | [Dionysia](https://open.spotify.com/album/5vZuXWCLv1U3uBL6Es50OX) | 2:53 | 2022-11-02 | 2022-12-06 |

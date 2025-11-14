@@ -4,7 +4,7 @@
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-58 songs - 3 hr 18 min
+59 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [It’s Beginning to Look a Lot Like Christmas \(Arr\. by Tom Rainey\)](https://open.spotify.com/track/54ubrW5dIowPKy7Ul18Zj1) | [Meredith Willson](https://open.spotify.com/artist/1n55BzpMYv8IRkyM1UZXMY), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [Christmas with Aled and Russell](https://open.spotify.com/album/31u3wajeTYW7AKa4MjU6x0) | 3:12 | 2023-12-08 | 2024-04-19 |
 | [I‘ll Be Home For Christmas](https://open.spotify.com/track/5wgp8xL7P45KlJNwksfzR0) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 3:09 | 2023-12-08 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/0RA9kOSvozVP6tCnnO17i7) | [Jester Hairston](https://open.spotify.com/artist/3tgxh3cqdCA5UvqwuNYWWl), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [Lee Holdridge](https://open.spotify.com/artist/5fYFaGbNGtEW9Ip1oCMHyH), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O) | [Christmas with Plácido Domingo](https://open.spotify.com/album/483g6Ss0TRspF1YekSIDRa) | 2:30 | 2023-12-08 |  |
+| [O Holy Night](https://open.spotify.com/track/7vUNAnwqyXltVW22aPOxPo) | [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Libera Boys Choir](https://open.spotify.com/artist/01GaB2c6sxYztDuahM22Oq) | [One Voice At Christmas](https://open.spotify.com/album/3iUdj01da7x8CWOtgT1FIU) | 3:46 | 2025-11-13 |  |
 | [O Holy Night \(feat\. Kristin Chenoweth\)](https://open.spotify.com/track/1xJeuKstR2pL6HooY4muox) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Musical Gifts from Joshua Bell and Friends](https://open.spotify.com/album/0YOdrzckghjEdWcBvXRLd8) | 3:05 | 2023-12-08 |  |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/7AtTnzg4X7b4Y31HwZQvZU) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wintersong](https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ) | 3:50 | 2023-12-08 |  |
 | [Once Upon A December](https://open.spotify.com/track/2lJy16Du9G5fzhlmR3IAoT) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together At Christmas](https://open.spotify.com/album/1iVkt1eJVa6QnMVvVgn6al) | 2:50 | 2023-12-08 |  |

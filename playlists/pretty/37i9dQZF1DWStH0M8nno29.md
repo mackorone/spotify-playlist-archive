@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWStH0M8nno29.md) - [plain]
 
 > The perfect party mix with your favourite 00s, 10s and 20s hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,285 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,319 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

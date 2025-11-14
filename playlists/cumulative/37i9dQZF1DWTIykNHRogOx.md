@@ -2,12 +2,13 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Clara Luciani
+> Les  meilleures nouveautés de la chanson française avec Solann
 
-244 songs - 13 hr 33 min
+246 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [15 ans](https://open.spotify.com/track/52LD9mh7vjHBReZRbAc9Wu) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [15 ans](https://open.spotify.com/album/6tXdxLvzz6UupjarlpmHCG) | 3:24 | 2025-11-13 |  |
 | [15 octobre](https://open.spotify.com/track/0cCYUTsihAYCk7SnD4XPea) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nathy Cabrera](https://open.spotify.com/artist/2JkrRVDBIWv1iKcjKzzSSE) | [Le Disque Bleu](https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD) | 3:51 | 2025-10-16 |  |
 | [30 ans](https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8) | [SAVANAH](https://open.spotify.com/artist/6aUqiHjCzli8kjq6vb2VdD) | [30 ans](https://open.spotify.com/album/5WmLXhrqUxqE66lP65lUgh) | 4:03 | 2025-04-10 | 2025-09-05 |
 | [Abracadabra](https://open.spotify.com/track/0ft0eRy0NXU4CI5vJIbpyD) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Abracadabra](https://open.spotify.com/album/5aREOKUXQYYfrZmVYxdHvr) | 2:35 | 2024-11-07 | 2025-03-14 |
@@ -61,7 +62,7 @@
 | [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-28 | 2025-04-25 |
 | [Ex æquo](https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/465QdjgM6b3VJQo8CgGfPz) | 3:57 | 2025-02-20 | 2025-07-11 |
 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 | 2024-08-29 | 2025-01-17 |
-| [facilement](https://open.spotify.com/track/4uf3w3CXmwSA2sK6pLH82s) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:41 | 2025-06-12 |  |
+| [facilement](https://open.spotify.com/track/4uf3w3CXmwSA2sK6pLH82s) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:41 | 2025-06-12 | 2025-11-14 |
 | [Famille](https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m) | 3:15 | 2025-01-30 | 2025-04-04 |
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-10 | 2025-01-10 |
 | [Fille lacrymale](https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD) | 2:40 | 2025-01-09 | 2025-05-30 |
@@ -83,7 +84,7 @@
 | [j'aime pas les goodbye](https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [j'aime pas les goodbye](https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs) | 2:03 | 2025-10-02 |  |
 | [J'connais des gens](https://open.spotify.com/track/4ypetAUhCL7Y3Y433EBnm2) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [J'connais des gens](https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ) | 2:15 | 2024-06-27 | 2024-09-20 |
 | [J'sais pas](https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [J'sais pas](https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh) | 3:31 | 2024-06-27 | 2024-12-06 |
-| [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 | 2024-11-07 |  |
+| [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 | 2024-11-07 | 2025-11-14 |
 | [Jardin d'hiver](https://open.spotify.com/track/34yhqKcMxXHF2ijH3mDtCI) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Jardin d'hiver](https://open.spotify.com/album/6QbLl6S6aVnJFELwqdw1gR) | 2:58 | 2024-06-27 | 2024-09-27 |
 | [Je dis merci](https://open.spotify.com/track/6cxrdRDk7FvkPwkSJioki2) | [Barbagallo](https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz) | [Garde\-fou](https://open.spotify.com/album/0ORI6rd9cPbzdCKx5lTRWD) | 3:36 | 2024-08-22 | 2024-11-15 |
 | [Je n'oublierai pas](https://open.spotify.com/track/2ReVppZGCdRbZOnzOTmjKR) | [Pierre Grizzli](https://open.spotify.com/artist/1UTisf1dDz0qF73iQQ1Eg3) | [Je n'oublierai pas](https://open.spotify.com/album/0gON1xyluuxSY9alXQtxGm) | 3:00 | 2024-06-27 | 2024-07-19 |
@@ -102,6 +103,7 @@
 | [La béatitude](https://open.spotify.com/track/5BlUOZzmAhdksyj5YOmGBU) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [La béatitude](https://open.spotify.com/album/4xap6Pd9mCEwTvtqCAe5s4) | 3:47 | 2025-09-04 |  |
 | [La fresque](https://open.spotify.com/track/2eelhSfH6dy2EpAkidvsmE) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/24fO1cCmRAxui3fxi3hKCh) | 2:58 | 2025-03-13 | 2025-05-16 |
 | [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 | 2024-09-26 | 2025-01-10 |
+| [La lune](https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [](https://open.spotify.com/album/null) | 3:49 | 2025-11-13 |  |
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 | 2025-09-12 |
 | [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 | 2025-10-17 |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |

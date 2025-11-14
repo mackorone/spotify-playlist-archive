@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-157 songs - 10 hr 35 min
+158 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [El Buque Con Mas Potencia](https://open.spotify.com/track/0g31ngzmsfUgvAjE1e0nQ4) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:41 | 2023-03-03 | 2024-04-19 |
 | [El Camión del Amor](https://open.spotify.com/track/17mzvXFTqCIePOiqGVz7Tk) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [La Banda Ranchera Femenina de Chile](https://open.spotify.com/album/3Nmtvl4Y9aY50xATCoMVdX) | 2:54 | 2024-06-12 | 2025-10-09 |
 | [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 | 2023-10-05 |  |
+| [El Cocho](https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Cocho](https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl) | 3:15 | 2025-09-18 |  |
 | [El Corrido Del R\-15](https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO) | [La Descendencia Chilena](https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n) | [El Corrido Del R\-15](https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA) | 3:24 | 2023-03-03 | 2024-11-25 |
 | [El Hijo Ausente](https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [El Hijo Ausente](https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq) | 2:58 | 2023-10-05 | 2024-12-07 |
 | [El Intruso](https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH) | [El Intruso](https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz) | 3:25 | 2023-09-15 |  |
@@ -117,7 +118,7 @@
 | [No Te Creas Tan Importante](https://open.spotify.com/track/1xew4s5581HZOaES46OSTN) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre en Tu Corazón](https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R) | 5:11 | 2023-03-03 |  |
 | [Ojitos rojos](https://open.spotify.com/track/0NuvBFFPymRqHndt0gjYo3) | [Los Tremendos Rancheros](https://open.spotify.com/artist/2bbtoUWNv9uzGrkgXAKl9g) | [Ojitos rojos](https://open.spotify.com/album/5QX2UEQ2CINNfDZbsHeguK) | 3:08 | 2023-10-05 | 2024-04-19 |
 | [Ojitos rojos](https://open.spotify.com/track/0t2jtmpU4jw9si5fXFZyKO) | [Los Tremendos Rancheros](https://open.spotify.com/artist/2bbtoUWNv9uzGrkgXAKl9g) | [Ojitos rojos](https://open.spotify.com/album/0p3k4ozpaJa2466pdd6eRj) | 3:08 | 2023-09-08 | 2024-10-15 |
-| [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 | 2023-03-03 |  |
+| [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 | 2023-03-03 | 2025-11-14 |
 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 | 2023-03-03 | 2024-08-24 |
 | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu) | 7:36 | 2023-03-03 | 2024-04-19 |
 | [Pecado de Amor](https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:16 | 2023-10-05 |  |

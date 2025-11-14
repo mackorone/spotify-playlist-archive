@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,134 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,142 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 5 | [A Real Lady \(feat\. Beenzino, GRAY, Zion.T\)](https://open.spotify.com/track/0XUkedMnKr7SNDJlDPHviO) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [A Real Lady](https://open.spotify.com/album/4v6fOO14Ey32paA36VWPwE) | 3:09 |
 | 6 | [Paris \(feat\. Jisun\)](https://open.spotify.com/track/1CjVSDqhTehDvMeKjSIWGm) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:39 |
 | 7 | [소외된 모두, 왼발을 한 보 앞으로!](https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:20 |
-| 8 | [Feel so good](https://open.spotify.com/track/0Xz8GGkDorpyPfeJmzjZHw) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [GAEKO ATTIC\`s 1st PIECE](https://open.spotify.com/album/4uBjYfzTlE9MrdsgYL7Ljz) | 4:02 |
+| 8 | [Feel so good](https://open.spotify.com/track/0Xz8GGkDorpyPfeJmzjZHw) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [GAEKO ATTIC\`s 1st PIECE](https://open.spotify.com/album/4uBjYfzTlE9MrdsgYL7Ljz) | 4:01 |
 | 9 | [Resume Pt.2](https://open.spotify.com/track/5sA1HmiHPAUpAC5blsGeDp) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:39 |
 | 10 | [불한당가 \(with 나찰, 피타입 & MC 메타\)](https://open.spotify.com/track/7a733QhzAN4jdckPKCbD82) | [NUCK](https://open.spotify.com/artist/7hdPhJPPkVZc5sJNVjLMGu), [Nachal](https://open.spotify.com/artist/2c1eCH3EjDdOuCdMv2goXQ), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 4:23 |
 | 11 | [평화의 날](https://open.spotify.com/track/0JccxO232uQwz6Rl7TIjNQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:38 |

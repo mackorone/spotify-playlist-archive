@@ -1,15 +1,35 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mavokali",
-  "num_followers": 7847,
+  "num_followers": 7867,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIv/mq/KbABnFtfwTIUJKoLGg3e",
+  "snapshot_id": "AAAAAO0VW/IGKE6fzocDFRdfjrvkzhTF",
   "tracks": [
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Wezi",
+        "url": "https://open.spotify.com/album/47kpUKtAt0sDQKYeXuZX1Y"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "duration_ms": 205771,
+      "name": "Wezi",
+      "url": "https://open.spotify.com/track/4XvNC3l6dPpns7aGn1SbJL"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Baby Mpya",
         "url": "https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh"
@@ -29,7 +49,23 @@
       "url": "https://open.spotify.com/track/2xGY29EZ31aTDvlDEd1Gt9"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "GUGO",
+        "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "duration_ms": 137806,
+      "name": "GUGO",
+      "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Ganda",
         "url": "https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8"
@@ -49,39 +85,7 @@
       "url": "https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "GUGO",
-        "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
-      },
-      "artists": [
-        {
-          "name": "Mavokali",
-          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "GUGO",
-      "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Nyumba Ndogo",
-        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Nyumba Ndogo",
-      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Rudi Tena",
         "url": "https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa"
@@ -109,7 +113,23 @@
       "url": "https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Nyumba Ndogo",
+        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Nyumba Ndogo",
+      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Room Number 3",
         "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Mapenzi Hisia (feat. Jetty Mc, Vanillah, Baddest 47 & Jay Combat)",
         "url": "https://open.spotify.com/album/7h3Jhk5AvX06EqybrzWmm3"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/5AOLHEODPUTgPJSxs5DceH"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "A DAY TO REMEMBER",
         "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Afande",
         "url": "https://open.spotify.com/album/4iSOmAXNWk8IrQDpUeeZ5z"
@@ -197,23 +217,7 @@
       "url": "https://open.spotify.com/track/3hn0RXmU65ko4Z0nHbpTTl"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Gharama",
-        "url": "https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz"
-      },
-      "artists": [
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Gharama",
-      "url": "https://open.spotify.com/track/6cn01Swy0waWynPq386WBp"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Kumaanisha",
         "url": "https://open.spotify.com/album/02ZhLZurEes9v5vagfGyJf"
@@ -237,7 +241,23 @@
       "url": "https://open.spotify.com/track/0IUs3wdZqecx0kbMYalDGN"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Gharama",
+        "url": "https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Gharama",
+      "url": "https://open.spotify.com/track/6cn01Swy0waWynPq386WBp"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Nitafanyaje",
         "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Madanga Ya Mke Wangu",
         "url": "https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD"
@@ -273,7 +293,23 @@
       "url": "https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Tekenya",
+        "url": "https://open.spotify.com/album/6gGp1a5nNNIKd69GC1Dqri"
+      },
+      "artists": [
+        {
+          "name": "Suma Mnazaleti",
+          "url": "https://open.spotify.com/artist/6Sl6OqPFz3KsevvP0mdh1U"
+        }
+      ],
+      "duration_ms": 155427,
+      "name": "Tekenya",
+      "url": "https://open.spotify.com/track/0xkJ1All5gjXD071yRrOQr"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Peace And Money",
         "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
@@ -293,43 +329,23 @@
       "url": "https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "Tekenya",
-        "url": "https://open.spotify.com/album/6gGp1a5nNNIKd69GC1Dqri"
+        "name": "Ungewezaje",
+        "url": "https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW"
       },
       "artists": [
         {
-          "name": "Suma Mnazaleti",
-          "url": "https://open.spotify.com/artist/6Sl6OqPFz3KsevvP0mdh1U"
+          "name": "Dogo Paten",
+          "url": "https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9"
         }
       ],
-      "duration_ms": 155427,
-      "name": "Tekenya",
-      "url": "https://open.spotify.com/track/0xkJ1All5gjXD071yRrOQr"
+      "duration_ms": 165287,
+      "name": "Ungewezaje",
+      "url": "https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Nakuja (Remix)",
-        "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Nakuja - Remix",
-      "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Staki Mazoea",
         "url": "https://open.spotify.com/album/2CaJyxnM3Ar6i0lMiu8eV7"
@@ -357,39 +373,27 @@
       "url": "https://open.spotify.com/track/51nUxYujKieQPIfSWmIQR7"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "Ungewezaje",
-        "url": "https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW"
+        "name": "Nakuja (Remix)",
+        "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
       },
       "artists": [
         {
-          "name": "Dogo Paten",
-          "url": "https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9"
-        }
-      ],
-      "duration_ms": 165287,
-      "name": "Ungewezaje",
-      "url": "https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Naoa",
-        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
-      },
-      "artists": [
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        },
         {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
         }
       ],
-      "duration_ms": 237898,
-      "name": "Naoa",
-      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+      "duration_ms": 245202,
+      "name": "Nakuja - Remix",
+      "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Simu Yangu",
         "url": "https://open.spotify.com/album/0mZCFdHM7dpKsjMTMWEUe3"
@@ -413,7 +417,7 @@
       "url": "https://open.spotify.com/track/6Ro93g64VXVn4KKVog8zDn"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
@@ -429,7 +433,23 @@
       "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Naoa",
+        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Naoa",
+      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Shemeji Yako",
         "url": "https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Bado Sijasikia",
         "url": "https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Wivu Remix (feat. Baddest 47, Jay Combat & Ibraah)",
         "url": "https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa"
@@ -497,7 +517,23 @@
       "url": "https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
+      },
+      "artists": [
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        }
+      ],
+      "duration_ms": 228806,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Jina",
         "url": "https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8"
@@ -517,23 +553,7 @@
       "url": "https://open.spotify.com/track/1J4zRKJxkMEa0iiPFX4ujG"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Toilet",
-        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
-      },
-      "artists": [
-        {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
-        }
-      ],
-      "duration_ms": 228806,
-      "name": "Toilet",
-      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Kuachana Shingapi (Remix)",
         "url": "https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/5gKUYTxKDcw08D6maJRRNa"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/7vOENBJoWOGIeDs4VLRMMA"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Pita Huku",
         "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Nampakia Mkongo",
         "url": "https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX"
@@ -633,7 +653,55 @@
       "url": "https://open.spotify.com/track/4JMUGR4012eENHnulffTeN"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Twende Beach",
+        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
+      },
+      "artists": [
+        {
+          "name": "Mkataba Mc",
+          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
+        }
+      ],
+      "duration_ms": 250055,
+      "name": "Twende Beach",
+      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "Weeeweeeeeeee",
+        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Weeeweeeeeeee",
+      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
+      "album": {
+        "name": "We Nani",
+        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "We Nani",
+      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
+    },
+    {
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Mamu Remix",
         "url": "https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK"
@@ -653,55 +721,7 @@
       "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Twende Beach",
-        "url": "https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M"
-      },
-      "artists": [
-        {
-          "name": "Mkataba Mc",
-          "url": "https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3"
-        }
-      ],
-      "duration_ms": 250055,
-      "name": "Twende Beach",
-      "url": "https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Weeeweeeeeeee",
-        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
-      },
-      "artists": [
-        {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Weeeweeeeeeee",
-      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "We Nani",
-        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 254258,
-      "name": "We Nani",
-      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Tisheti Yangu",
         "url": "https://open.spotify.com/album/6sZB5jceGSqVR78JEoRiBy"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/1WaC2LufvvoGNDCZ75Ozej"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Ex Arudiwi",
         "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Hainaga Ushemeji",
         "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
@@ -753,23 +773,7 @@
       "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
-      "album": {
-        "name": "Maokoto",
-        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
-      },
-      "artists": [
-        {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Maokoto",
-      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
-    },
-    {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Ujaulamba",
         "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
@@ -785,23 +789,23 @@
       "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
-        "name": "HASSANI",
-        "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
       },
       "artists": [
         {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
         }
       ],
-      "duration_ms": 153740,
-      "name": "HASSANI",
-      "url": "https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak"
+      "duration_ms": 154838,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Wanijue",
         "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Matunzo",
         "url": "https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Twende",
         "url": "https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU"
@@ -849,7 +853,7 @@
       "url": "https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Kafubaa",
         "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
@@ -869,7 +873,7 @@
       "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Kama Ujui Utajua",
         "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
@@ -889,7 +893,7 @@
       "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Hujanikomoa",
         "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
@@ -905,7 +909,7 @@
       "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Sawa Nitaacha",
         "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
@@ -921,7 +925,7 @@
       "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
@@ -941,7 +945,7 @@
       "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Nikizipata",
         "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
@@ -957,7 +961,7 @@
       "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Sina Stress",
         "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
@@ -973,7 +977,7 @@
       "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Umekopwa",
         "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
@@ -993,7 +997,7 @@
       "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "BELIEVE",
         "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
@@ -1009,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
@@ -1029,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Nalimwaga",
         "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
@@ -1049,7 +1053,7 @@
       "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Niaminishe",
         "url": "https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka"
@@ -1065,7 +1069,7 @@
       "url": "https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
@@ -1085,7 +1089,7 @@
       "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Stress",
         "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
@@ -1101,7 +1105,7 @@
       "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Sina",
         "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
@@ -1121,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Dua",
         "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
@@ -1137,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
         "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
@@ -1161,7 +1165,7 @@
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Dar Es Salaam",
         "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
@@ -1177,7 +1181,7 @@
       "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Lipa",
         "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
@@ -1197,7 +1201,7 @@
       "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Cheusi Cheupe (feat. Meja Kunta)",
         "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
@@ -1217,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Shobo",
         "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
@@ -1233,7 +1237,7 @@
       "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Njoo Tucheze",
         "url": "https://open.spotify.com/album/4AZvGCzFqDHkZYwnogJRSN"
@@ -1253,7 +1257,7 @@
       "url": "https://open.spotify.com/track/2F6hSRLaOfpVQIP9NFNhEA"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Chura",
         "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
@@ -1269,7 +1273,7 @@
       "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Si Unajua? Remix",
         "url": "https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW"
@@ -1289,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Kijumbe",
         "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
@@ -1305,7 +1309,7 @@
       "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Pisi",
         "url": "https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq"
@@ -1321,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Natafuta Hela",
         "url": "https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp"
@@ -1345,7 +1349,7 @@
       "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Maisha Yetu Usela",
         "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
@@ -1365,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Shemeji",
         "url": "https://open.spotify.com/album/47v6siumRINvjj2CzonVxx"
@@ -1381,7 +1385,7 @@
       "url": "https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Kizimkazi",
         "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
@@ -1397,7 +1401,7 @@
       "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     },
     {
-      "added_at": "2025-11-06 23:59:03",
+      "added_at": "2025-11-13 23:59:09",
       "album": {
         "name": "Honey Wangu",
         "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"

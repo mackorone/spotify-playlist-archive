@@ -2,7 +2,7 @@
 
 ### [Reggaetón Chileno](https://open.spotify.com/playlist/37i9dQZF1DX5hIsIIk6w1F)
 
-> Este Flow tiene otro Flow\. Foto: Benja Valencia.
+> Este Flow tiene otro Flow\. Foto: Kidd Voodoo & cía.
 
 1,025 songs - 2 day 6 hr 37 min
 

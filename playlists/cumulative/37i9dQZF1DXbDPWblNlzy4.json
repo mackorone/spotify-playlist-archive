@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Cuando Ser\u00e1",
+        "url": "https://open.spotify.com/album/2QxzI2B1jLILTDC4yPtpaG"
+      },
+      "artists": [
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Cuando Ser\u00e1",
+      "url": "https://open.spotify.com/track/5UWfxgqEHjkJPrYKpO20jy"
+    },
+    {
+      "album": {
         "name": "Cuando Te Dejan De Querer",
         "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
       },
@@ -3974,6 +3992,24 @@
       "duration_ms": 190105,
       "name": "Golpes Contra Las Paredes",
       "url": "https://open.spotify.com/track/4pbOoaHqU4xaxqgjNZQunP"
+    },
+    {
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/7xHrrovWnL4xpFsNx9m3Al"
+      },
+      "artists": [
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178168,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3WN3NDopqbJbYugYds7cQ8"
     },
     {
       "album": {
@@ -6390,7 +6426,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 178187,
       "name": "Nadie se muere de un mal de amor",
       "url": "https://open.spotify.com/track/6zbWrAhDcbbBBhdTjMlNNJ"
@@ -7866,7 +7902,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 180572,
       "name": "Q.E.P.D.",
       "url": "https://open.spotify.com/track/4eOuNXs59t1ISTPLgoqviY"

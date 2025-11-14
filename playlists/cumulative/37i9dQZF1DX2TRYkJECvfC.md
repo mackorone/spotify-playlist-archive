@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-652 songs - 2 day 5 hr 44 min
+653 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [Tears](https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Tears](https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt) | 3:57 | 2023-09-08 |  |
 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 | 2022-10-28 | 2024-08-10 |
 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 | 2023-11-17 | 2024-04-19 |
-| [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 |  |
+| [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 | 2025-11-14 |
 | [The Lights \- HANA Remix](https://open.spotify.com/track/7bwi46wM1XxbR6iGNfFFWV) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [The Lights \(HANA Remix\)](https://open.spotify.com/album/2ciw6n34rRHIFd7GvUEhRc) | 3:08 | 2025-09-05 |  |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [The Melody \(Henrik Schwarz Remix\)](https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM) | 7:41 | 2021-12-08 | 2024-04-13 |
 | [the mirror](https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [the mirror](https://open.spotify.com/album/1TEjpHuMWHgpxmE1MPzCFX) | 8:54 | 2021-12-08 | 2022-11-21 |
@@ -592,6 +592,7 @@
 | [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 | 2023-11-10 |  |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2021-12-08 |  |
 | [This Life](https://open.spotify.com/track/444vT3ohxrihxUqD8hEyLl) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Mawimbi](https://open.spotify.com/album/4yX07wB5aU4jIe90XCm7KE) | 2:55 | 2025-05-23 |  |
+| [Thousand Eyes](https://open.spotify.com/track/4LUPt50fnmLE7cppxatHZS) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Thousand Eyes](https://open.spotify.com/album/1r37pTndrgbZxF86mXbkMm) | 4:02 | 2025-11-07 |  |
 | [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 | 2025-09-12 |  |
 | [Tidal Wave](https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Tidal Wave](https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu) | 3:48 | 2025-09-05 |  |
 | [Tiyami](https://open.spotify.com/track/12tfRcDDjbZs8xrXrVpdjF) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Laska](https://open.spotify.com/artist/4nxZFyKthDfXuL8o7K2TsW) | [Tiyami](https://open.spotify.com/album/5Mlu5D0ryziQnvnWLthf4d) | 6:01 | 2025-07-18 |  |

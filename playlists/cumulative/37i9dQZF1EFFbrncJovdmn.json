@@ -100,6 +100,24 @@
     {
       "album": {
         "name": "D2F",
+        "url": "https://open.spotify.com/album/0gY6Bvqmt9LA1VafJkFLPo"
+      },
+      "artists": [
+        {
+          "name": "Lost Girl",
+          "url": "https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "D2F",
+      "url": "https://open.spotify.com/track/70ySCop6QCjP0TBUgXEn0r"
+    },
+    {
+      "album": {
+        "name": "D2F",
         "url": "https://open.spotify.com/album/5ohf9THvmzADgCFKwTn1PY"
       },
       "artists": [
@@ -110,7 +128,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 192048,
       "name": "D2F",
       "url": "https://open.spotify.com/track/6tCvZKWqRtKYgXiKUWhSSk"

@@ -824,12 +824,12 @@
       },
       "artists": [
         {
-          "name": "Ochiko",
-          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
-        },
-        {
           "name": "Fathermoh",
           "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
         }
       ],
       "date_added": "2025-10-23",
@@ -1240,6 +1240,24 @@
       "duration_ms": 159168,
       "name": "Step On It",
       "url": "https://open.spotify.com/track/5iuHaDidtsMXlNnChEzhGf"
+    },
+    {
+      "album": {
+        "name": "Tamu",
+        "url": "https://open.spotify.com/album/6nqNjfAqrnPMNpdhwMQvmT"
+      },
+      "artists": [
+        {
+          "name": "Iyanii",
+          "url": "https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142210,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/3sHSigMkhROnRI1Q8kxRTU"
     },
     {
       "album": {

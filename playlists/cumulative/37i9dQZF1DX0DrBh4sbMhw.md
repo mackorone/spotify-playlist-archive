@@ -4,7 +4,7 @@
 
 > ang lalim
 
-278 songs - 17 hr 8 min
+279 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-12-03 | 2025-01-03 |
 | [Aftertaste](https://open.spotify.com/track/356cHgniK3jX5vdyTw5bxj) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Aftertaste](https://open.spotify.com/album/4A4p0x3lcjeCXog13ypREc) | 3:32 | 2023-10-18 | 2024-11-05 |
 | [Ako Ang Iyong Lagi](https://open.spotify.com/track/6VVfotOnpdJJBNGLsg9FXG) | [Earl Generao](https://open.spotify.com/artist/37gpPWUw01BXkRl4zg8hkk) | [Ako Ang Iyong Lagi](https://open.spotify.com/album/2TRJ3kk13uLslcK78UuceY) | 5:14 | 2023-10-18 | 2024-11-05 |
+| [akong ako](https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2) | [dana paulene](https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA) | [akong ako](https://open.spotify.com/album/4PP76TdEXfunxuGXh9MkL5) | 3:29 | 2025-11-13 |  |
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-10-18 |  |
 | [Ang Pag\-ibig](https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Pag\-ibig](https://open.spotify.com/album/7lheyrZDUh2R6N2mBWXnqP) | 4:47 | 2023-10-18 | 2024-11-18 |
 | [ashes & rust](https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent iii](https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3) | 4:02 | 2024-11-04 | 2024-12-04 |
@@ -79,7 +80,7 @@
 | [Entablado](https://open.spotify.com/track/4LlcehDkplP0BIimgnUBHY) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Entablado](https://open.spotify.com/album/7G31hhcREMlt0NW3Tt4Uhb) | 3:23 | 2023-10-18 | 2024-11-05 |
 | [Fall Back](https://open.spotify.com/track/7vXsGpLRJXsXzv8OtLbIvT) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Fall Back](https://open.spotify.com/album/6fdWFfg1kgRm9EQf0SsOki) | 3:02 | 2025-03-03 | 2025-04-15 |
 | [favorite lesson](https://open.spotify.com/track/4sclvawl5PVjt5oXRcPbF2) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [favorite lesson](https://open.spotify.com/album/4c6mzbbKDCZWc4WUbTHqKG) | 3:25 | 2023-10-18 | 2024-11-05 |
-| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 |  |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 | 2025-11-14 |
 | [gabay](https://open.spotify.com/track/7JiQIPsBtzU8MjWw0g9isG) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [gabay](https://open.spotify.com/album/7D6n1U40yTbKpbBNN1zuKb) | 3:30 | 2023-10-18 | 2024-11-05 |
 | [Gabriel](https://open.spotify.com/track/2xc2MkE3KzL7Bp0tCglMYG) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gabriel](https://open.spotify.com/album/7Cx9zjpHJnfuOqZ7e5afjh) | 2:48 | 2024-10-24 | 2024-11-05 |
 | [Ginanun Lang](https://open.spotify.com/track/7mZ6itQWKDWZ6q9eP9YkH8) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Ginanun Lang](https://open.spotify.com/album/5L247ssRY8wCZRYIrrSCAe) | 2:59 | 2023-10-18 | 2024-11-05 |

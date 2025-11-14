@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 
 > Les talents préférés de vos enfants, découverts à la télé!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,053 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,055 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 | 11 | [Alors chut](https://open.spotify.com/track/2guzixPNeSdHaSI4LobeRZ) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Alors chut](https://open.spotify.com/album/5h1nCc3UltPqDDTVNCUA7U) | 2:21 |
 | 12 | [Problème](https://open.spotify.com/track/3DWD7Rpv6Dey73U4k8Jdkr) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Plus loin qu'un rêve](https://open.spotify.com/album/1QrTaItGnJv79BBNoaJthE) | 2:46 |
 | 13 | [Le bleu lumière](https://open.spotify.com/track/4QR3jOfoQsKfQo5oZpJpvX) | [Kids Love Disney](https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX), [Lévanah Solomon](https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc) | [Kids Love Disney](https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA) | 3:02 |
-| 14 | [Ce mur qui nous sépare \- de la série TV "Miraculous"](https://open.spotify.com/track/2YF9TdhTuz5NsV3PHAguYN) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Ce mur qui nous sépare \(de la série TV "Miraculous"\)](https://open.spotify.com/album/7ih29Ga5PuH0avOjbVnN3c) | 4:02 |
+| 14 | [Ce mur qui nous sépare \- de la série TV "Miraculous"](https://open.spotify.com/track/2YF9TdhTuz5NsV3PHAguYN) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Ce mur qui nous sépare \(de la série TV "Miraculous"\)](https://open.spotify.com/album/7ih29Ga5PuH0avOjbVnN3c) | 4:00 |
 | 15 | [Héros](https://open.spotify.com/track/6Z7ZDpJB6FEWRFJwYMLZWN) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Héros](https://open.spotify.com/album/51ptXg91XTsGv8hkLzovO8) | 2:22 |
 | 16 | [Summer Summer](https://open.spotify.com/track/4pKg6d1ygOGHJ7DiGz0cgB) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Summer Summer](https://open.spotify.com/album/0BrQFKNupSCyVWqd3CouY7) | 2:20 |
 | 17 | [Qui dit mieux ?](https://open.spotify.com/track/0GvZFuvOSzCRn6X0463HIn) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie \(Edition Collector\)](https://open.spotify.com/album/0Pvh8RvoASsQlhd3YI0ivh) | 2:54 |

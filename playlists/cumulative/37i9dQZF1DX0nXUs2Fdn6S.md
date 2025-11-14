@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-93 songs - 5 hr 9 min
+94 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bhayanak Atma](https://open.spotify.com/track/3niyBBBg3177KzOKDwxVzH) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Bhayanak Atma](https://open.spotify.com/album/16pdgGrQ5x2CfLxzckL0GS) | 3:30 | 2023-10-20 | 2024-04-19 |
 | [Bhayanak Atma](https://open.spotify.com/track/3IgxCj017H9u8VFHa1U0vk) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Gagan Mudgal](https://open.spotify.com/artist/4faYoMlqyHUk7oGpbK2nNo) | [Raja Baja](https://open.spotify.com/album/73FHD2aQaTd9ksekm6tD4S) | 3:30 | 2024-02-05 |  |
 | [Bin Bataye](https://open.spotify.com/track/3FG79ZhBtwQoy4sVkXVIhE) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Ragasuram](https://open.spotify.com/artist/5TOAOQvO0N5gjNZMse9P60), [Saurabh Tripathi](https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36) | [Bin Bataye](https://open.spotify.com/album/0SEa6MorRu0A4XC9jJlt1G) | 2:41 | 2023-10-20 |  |
+| [Bombay Acid](https://open.spotify.com/track/6LCqeqxI8ezqTpQWQSWirk) | [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2), [Kunal Merchant](https://open.spotify.com/artist/3dnfx7aJ7P7yMP6JuujdjB), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Bombay Acid](https://open.spotify.com/album/4V920KjSGo0PCU9UebEuGC) | 3:09 | 2025-11-13 |  |
 | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3) | 3:18 | 2023-10-20 |  |
 | [Castles \- Bomb Bay Remix](https://open.spotify.com/track/1O3JyvdH3vAg1zB3UyE0Ui) | [Anish Sood](https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Bomb Bay](https://open.spotify.com/artist/7xsYqVqZED2jeOTZESZ6Q8) | [Castles \(Bomb Bay Remix\)](https://open.spotify.com/album/4bZy5z0O8qFP0B2E5QST2P) | 3:37 | 2024-02-05 |  |
 | [Castles \- Bomb Bay Remix](https://open.spotify.com/track/7xasn2JEKs7Qf36NeK1Ztu) | [Anish Sood](https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Bomb Bay](https://open.spotify.com/artist/7xsYqVqZED2jeOTZESZ6Q8) | [Castles \(Bomb Bay Remix\)](https://open.spotify.com/album/0EcQPZjTUdW0Ta8sa18l8j) | 3:37 | 2023-10-20 | 2024-04-19 |

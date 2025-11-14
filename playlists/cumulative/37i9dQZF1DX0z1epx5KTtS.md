@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Roseline Layo
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Bebi Philip
 
-259 songs - 14 hr 15 min
+260 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 | 2023-01-12 |  |
 | [Chicoter pour fracasser](https://open.spotify.com/track/5a0YN4NfIbOhatuIiQ4aaa) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Chicoter pour fracasser](https://open.spotify.com/album/0tycWd8QCUDH8rnQkt7Gxa) | 2:40 | 2025-04-10 | 2025-06-13 |
 | [CHINOISERIE](https://open.spotify.com/track/5kH3FDNKaeiABMm8lUlIWq) | [Tiss Wayne](https://open.spotify.com/artist/43Y4Pvwr65cBA0lQAXpm8i), [Shibing](https://open.spotify.com/artist/3rCAxoz1sVyzTxlJThlnWH), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [CHINOISERIE](https://open.spotify.com/album/79ss8yAYY3VfYKJn3Nm8wD) | 2:38 | 2023-05-18 | 2024-03-29 |
-| [Choketo](https://open.spotify.com/track/4CrLIuucY8jynYTWhz4U6Z) | [RK MERLY](https://open.spotify.com/artist/5zbxK01VEEqCPDOxoUnVxU), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Choketo](https://open.spotify.com/album/31gqISXbdTnN0pzuaKCwyg) | 2:23 | 2025-09-04 |  |
+| [Choketo](https://open.spotify.com/track/4CrLIuucY8jynYTWhz4U6Z) | [RK MERLY](https://open.spotify.com/artist/5zbxK01VEEqCPDOxoUnVxU), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Choketo](https://open.spotify.com/album/31gqISXbdTnN0pzuaKCwyg) | 2:23 | 2025-09-04 | 2025-11-14 |
 | [Commando](https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Commando](https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd) | 2:52 | 2023-01-26 | 2023-07-07 |
 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 | 2023-07-06 | 2023-09-29 |
 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 | 2023-12-21 | 2025-05-30 |
@@ -233,6 +233,7 @@
 | [Tala n'dilé](https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/1N7LMMxLFkvp58rh2X9PFa) | [Tala n'dilé](https://open.spotify.com/album/1Z8uKJAU7A0kwrVTuhtzKS) | 3:53 | 2022-07-28 | 2023-01-06 |
 | [Taper créer](https://open.spotify.com/track/1ZPME9JuSBEOhVaer4B1tS) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Azazou Satelite](https://open.spotify.com/artist/4IvJKBoOsYWf433rkicglV), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Taper créer](https://open.spotify.com/album/2iuajfWtOwWWEe29NqiXiY) | 2:59 | 2024-11-14 | 2025-03-07 |
 | [Taper dedans](https://open.spotify.com/track/1shncRrvTSTQtK8hgGFL7m) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Taper dedans](https://open.spotify.com/album/6h8Pa5WVQy0SkwVHw6DDxP) | 2:40 | 2023-12-14 | 2024-04-05 |
+| [Taper Dedans](https://open.spotify.com/track/5ZL0TuUEiQAxOXmQOe2VX3) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Taper Dedans](https://open.spotify.com/album/5LDXH3W3AhhePbIBFTUmbN) | 3:08 | 2025-11-13 |  |
 | [Taper Dedans](https://open.spotify.com/track/0WAFqSYnTHOyOeIGPMK8vI) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Taper Dedans](https://open.spotify.com/album/401kSHadSYFgokogNYt1yD) | 2:31 | 2025-04-17 |  |
 | [Tchayeh](https://open.spotify.com/track/6DXBVqs3KRJtdp4XxJxLRk) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Tchayeh](https://open.spotify.com/album/15ILd1c6laBM0aiS7s1lHF) | 2:56 | 2024-07-25 | 2024-11-08 |
 | [Tchokoroba](https://open.spotify.com/track/2JkqP8VfGQNXXWdNJcnHsO) | [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Tchokoroba](https://open.spotify.com/album/2jLzAMi7FjfcUbgOYXHv6I) | 2:46 | 2025-02-06 | 2025-04-04 |

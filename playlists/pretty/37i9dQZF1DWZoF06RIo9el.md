@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de octubre 2025\. Cover: ROSALÍA
+> Lo mejor de noviembre 2025\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,711 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,760 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Sin Un Corazón](https://open.spotify.com/track/11dmPQp1lS3QcCKlFl7ean) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sin Un Corazón](https://open.spotify.com/album/1mPnNkfHCM1vX1G4ryTveL) | 4:37 |
 | 50 | [Perlas Negras](https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:23 |
 
-Snapshot ID: `AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv`
+Snapshot ID: `AAAAAMJj6JaYH8kwvpcEkuesUusrsKso`

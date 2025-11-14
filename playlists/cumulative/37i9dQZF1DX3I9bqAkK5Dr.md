@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Manisha Eerabathini
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath Kiran Goparaaju
 
 425 songs - 1 day 1 hr 30 min
 
@@ -100,7 +100,7 @@
 | [Godavari](https://open.spotify.com/track/676ILrTLxsKAuy7jWp0nSw) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [Godavari](https://open.spotify.com/album/0dVhWTvZkTlKtRUvnpp1ZS) | 3:07 | 2023-11-07 | 2024-01-23 |
 | [Godavari](https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [Godavari](https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC) | 3:07 | 2023-11-07 | 2024-01-20 |
 | [Gola Gole](https://open.spotify.com/track/0oendWWefLEn9Uo2pI4lpN) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Darshana Menon](https://open.spotify.com/artist/1wHsncgyVkVzF2H8gEdOCF) | [Gola Gole](https://open.spotify.com/album/6LeQn8ByEjDwDGxJMHWGxk) | 2:59 | 2024-07-19 | 2024-09-19 |
-| [Gujjari Gujjari](https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE) | [Singer Prabha](https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo), [Singer Swamy](https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM), [Naveen Ja](https://open.spotify.com/artist/3mYh9viWxcMMFV9x5dK79z) | [Gujjari Gujjari](https://open.spotify.com/album/4LP4EasH1Mvihh2XQ0ZTAn) | 4:16 | 2025-10-10 |  |
+| [Gujjari Gujjari](https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE) | [Singer Prabha](https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo), [Naveen Ja](https://open.spotify.com/artist/3mYh9viWxcMMFV9x5dK79z), [Singer Swamy](https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM) | [Gujjari Gujjari](https://open.spotify.com/album/4LP4EasH1Mvihh2XQ0ZTAn) | 4:16 | 2025-10-10 |  |
 | [Gundellona](https://open.spotify.com/track/1idzeolbseB5V2HeH6kmBW) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Gundellona](https://open.spotify.com/album/3wj51Fk9iR2ki1aCsKpmBj) | 2:59 | 2023-10-09 | 2024-01-07 |
 | [Gundellona](https://open.spotify.com/track/5VYwur3njNtvcrHQdTcueq) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Gundellona](https://open.spotify.com/album/4hSn5VGsNoq9FamiZbdC0W) | 2:59 | 2023-10-09 | 2024-01-19 |
 | [Harini](https://open.spotify.com/track/0Ay0o0e6n75gg7GyvdmnBI) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/3SJtaDClZXTAX3teBnln3M) | 3:56 | 2023-05-22 | 2024-01-11 |

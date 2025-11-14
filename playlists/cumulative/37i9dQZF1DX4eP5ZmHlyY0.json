@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: YEONJUN",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover:BOYNEXTDOOR",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -724,6 +724,24 @@
       "duration_ms": 195293,
       "name": "BA BA BYE",
       "url": "https://open.spotify.com/track/142pVQPToEYbjWwxpJMpM0"
+    },
+    {
+      "album": {
+        "name": "baby blue",
+        "url": "https://open.spotify.com/album/2GRdKh2u9tleGC5gGWV8lx"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196976,
+      "name": "baby blue",
+      "url": "https://open.spotify.com/track/2iUv18ruokAyhWk9w0CTYy"
     },
     {
       "album": {
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 206480,
       "name": "CRZY",
       "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
@@ -3284,6 +3302,24 @@
     {
       "album": {
         "name": "<Eight Eleven>",
+        "url": "https://open.spotify.com/album/6N0KvZuXQQVp1K8LJmuoMA"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Eight Eleven",
+      "url": "https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D"
+    },
+    {
+      "album": {
+        "name": "<Eight Eleven>",
         "url": "https://open.spotify.com/album/5qs8gsNwXL8oeBfIrEFbwd"
       },
       "artists": [
@@ -3294,7 +3330,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 141000,
       "name": "Eight Eleven",
       "url": "https://open.spotify.com/track/7wBIqYptstEtFGMgwOp4KF"
@@ -3554,6 +3590,24 @@
       "duration_ms": 190000,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/2FrtsVTFPEvH77oKfFHgfV"
+    },
+    {
+      "album": {
+        "name": "Fallen Superstar",
+        "url": "https://open.spotify.com/album/0VKcbuqSJKDWr5O9NhZPh5"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Fallen Superstar",
+      "url": "https://open.spotify.com/track/4cIL0R9GS1XEqZqEyDvxCn"
     },
     {
       "album": {
@@ -7718,7 +7772,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 180000,
       "name": "N the Front",
       "url": "https://open.spotify.com/track/1RIyqzVoYqADXfAWjWNFz8"
@@ -11310,7 +11364,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 148000,
       "name": "TAKE A SHOT",
       "url": "https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz"
@@ -12710,6 +12764,24 @@
       "duration_ms": 196666,
       "name": "Wild Boy",
       "url": "https://open.spotify.com/track/34HpTZsNQmU3EuI465OYJH"
+    },
+    {
+      "album": {
+        "name": "Winter Glow",
+        "url": "https://open.spotify.com/album/1RA3eji976ew2JbDhWPsfR"
+      },
+      "artists": [
+        {
+          "name": "BALLISTIK BOYZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193633,
+      "name": "Winter Glow",
+      "url": "https://open.spotify.com/track/2eBzmT9iYwFKNQlXQvR7p3"
     },
     {
       "album": {

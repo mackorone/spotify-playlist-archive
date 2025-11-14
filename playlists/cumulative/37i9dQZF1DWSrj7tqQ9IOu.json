@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Pomme",
-  "name": "Made in France",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : BLOWSOM",
+  "name": "Indie France",
   "tracks": [
     {
       "album": {
@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Briller dans la nuit",
+        "url": "https://open.spotify.com/album/22qXFaLpU2yxUOOS5Z6Nev"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170901,
+      "name": "Briller dans la nuit",
+      "url": "https://open.spotify.com/track/60raG6S56xV1mTgNdIJHg1"
+    },
+    {
+      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 160465,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/3keQNqUZlDH9pT7GNFHJl4"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 240661,
       "name": "chrysalis",
       "url": "https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb"
@@ -3447,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "En cin\u00e9mascope",
+        "url": "https://open.spotify.com/album/3uhAv6JR2PBIL4xcexammd"
+      },
+      "artists": [
+        {
+          "name": "Mahault",
+          "url": "https://open.spotify.com/artist/11ZX7oUNAnIemOqIOPQHsc"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267935,
+      "name": "En cin\u00e9mascope",
+      "url": "https://open.spotify.com/track/63aHzUIv1ecjf1NlV4txiL"
+    },
+    {
+      "album": {
         "name": "Sign In - EP",
         "url": "https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG"
       },
@@ -3950,6 +3986,24 @@
       "duration_ms": 196825,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/53B6IvshpFAGEQSbRZJXRZ"
+    },
+    {
+      "album": {
+        "name": "FLEMME",
+        "url": "https://open.spotify.com/album/179KOwuoogAJN7nKByOBha"
+      },
+      "artists": [
+        {
+          "name": "SALYA",
+          "url": "https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147608,
+      "name": "FLEMME",
+      "url": "https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1"
     },
     {
       "album": {
@@ -4847,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166401,
+      "name": "heureux",
+      "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
+    },
+    {
+      "album": {
         "name": "Hey Boy",
         "url": "https://open.spotify.com/album/1KnLWdAOEeuSF4wGSdbas0"
       },
@@ -5174,7 +5246,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 164500,
       "name": "Hopes",
       "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
@@ -6230,7 +6302,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 245739,
       "name": "L'homme \u00e0 la rivi\u00e8re",
       "url": "https://open.spotify.com/track/6QuZZAr8mMz9JDTm4rSRtd"
@@ -7099,6 +7171,28 @@
     },
     {
       "album": {
+        "name": "Les hommes c'est pas des mecs bien",
+        "url": "https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197547,
+      "name": "Les hommes c'est pas des mecs bien",
+      "url": "https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W"
+    },
+    {
+      "album": {
         "name": "Les hommes tristes",
         "url": "https://open.spotify.com/album/3WGJ5liCJcXJbz5GulsdwQ"
       },
@@ -7302,6 +7396,24 @@
       "duration_ms": 150656,
       "name": "Lisbon",
       "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "Lonestar",
+      "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
     },
     {
       "album": {
@@ -8654,7 +8766,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 248765,
       "name": "Never Let You Down",
       "url": "https://open.spotify.com/track/5x5BxIUiCw9K5AJG1umOTE"
@@ -12894,7 +13006,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 188774,
       "name": "Une jolie fille",
       "url": "https://open.spotify.com/track/64syxbGEBZBe81dKa3sydi"

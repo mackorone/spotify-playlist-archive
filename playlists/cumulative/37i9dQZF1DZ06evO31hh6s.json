@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 216877,
       "name": "At the Tillzop",
       "url": "https://open.spotify.com/track/6DwllECrIiuX5Cpl1b7jTf"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 219333,
       "name": "Beat It Up",
       "url": "https://open.spotify.com/track/6WoRYINphbByhLmS5nfRVF"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 152973,
       "name": "God Said It",
       "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 205000,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/1nLGGdsWhyarkUVxox1Yaa"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 246550,
       "name": "How You Feel (feat. Kari Epps)",
       "url": "https://open.spotify.com/track/0PxFm2UljjnyLeASgsVmb9"
@@ -1305,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "Purpose",
+        "url": "https://open.spotify.com/album/0LoLLKMlLm2nO0lcSVJWp8"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196992,
+      "name": "Life Iz Good",
+      "url": "https://open.spotify.com/track/0wBmxPvIZ9PMwFiXfyG8UZ"
+    },
+    {
+      "album": {
         "name": "Life Of A Outlaw (feat. Big Caz)",
         "url": "https://open.spotify.com/album/0WE6teZXTig9bgcN9y6zaw"
       },
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 239832,
       "name": "Life Of A Outlaw (feat. Big Caz)",
       "url": "https://open.spotify.com/track/2JJzp1LxtowaM2IV8jxYC8"
@@ -1478,7 +1500,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 288880,
       "name": "Man Up",
       "url": "https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO"
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 198922,
       "name": "Son of God",
       "url": "https://open.spotify.com/track/2w9UDH6xXAxWPXkICnbF2m"
@@ -2318,7 +2340,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 236195,
       "name": "Talkin My Talk",
       "url": "https://open.spotify.com/track/6Xl4jUCOQ7aFvarkHMsgou"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > When America needed hope, they delivered\. Listen to the music co\-curated by the cast of The Six Triple Eight, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,208 likes - 28 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,229 likes - 28 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jonathan Taylor
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Jimmy Butler
 
 858 songs - 1 day 19 hr 51 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Cover: Ernia",
+  "description": "Punchline, storytelling, rap italiano. Cover: Nitro",
   "name": "Liricisti",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 200500,
       "name": "Autoritratto",
       "url": "https://open.spotify.com/track/2WWzG3tZPmUQXCGHTblSku"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 155454,
       "name": "BIN LADEN (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/3c4LGoWQBZ2o11Ihp5WnzM"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 119597,
       "name": "CARTE IN TAVOLA",
       "url": "https://open.spotify.com/track/31cmPjGugy94lCiJfHmJER"
@@ -2029,6 +2029,36 @@
     },
     {
       "album": {
+        "name": "Incubi",
+        "url": "https://open.spotify.com/album/10SKT9rzO48WQRmzzmjstN"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Low Kidd",
+          "url": "https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204751,
+      "name": "DELLAMORTE DELLAMORE (feat. Salmo & Sally Cruz)",
+      "url": "https://open.spotify.com/track/6UbCKZweTOFGyRZLDV2oRo"
+    },
+    {
+      "album": {
         "name": "Dentro di me",
         "url": "https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if"
       },
@@ -2204,6 +2234,24 @@
       "duration_ms": 211321,
       "name": "Due principi (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4"
+    },
+    {
+      "album": {
+        "name": "Due Tute",
+        "url": "https://open.spotify.com/album/4N5ETrbay69XvMNIvrKXtY"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162002,
+      "name": "Due Tute",
+      "url": "https://open.spotify.com/track/2kFvcaMNHCkFuMBLOwS8J1"
     },
     {
       "album": {
@@ -2776,7 +2824,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 146077,
       "name": "HO VISTO (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/5xmpAGQciuznNyNLIu1CKl"
@@ -2876,6 +2924,24 @@
       "duration_ms": 150749,
       "name": "IL BUIO NELLE MANI",
       "url": "https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1"
+    },
+    {
+      "album": {
+        "name": "Le Macchine Non Possono Pregare",
+        "url": "https://open.spotify.com/album/4HijuqBapkXYI5NnxyDrdi"
+      },
+      "artists": [
+        {
+          "name": "Anastasio",
+          "url": "https://open.spotify.com/artist/0QJ3p787u7KD0ZhD5vzrCA"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84798,
+      "name": "Il dolore delle macchine",
+      "url": "https://open.spotify.com/track/2GCLiTXjU3629fqAjBl3vK"
     },
     {
       "album": {
@@ -3310,7 +3376,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 160975,
       "name": "l'ultima infedelt\u00e0.",
       "url": "https://open.spotify.com/track/4Ti43eDvf3xvRsNOSw8Mrq"
@@ -3374,7 +3440,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 207474,
       "name": "L'unica amica leale",
       "url": "https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI"
@@ -4220,7 +4286,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 151680,
       "name": "Mio Padre",
       "url": "https://open.spotify.com/track/1xlxFayQQt55fsQj8ENMS8"
@@ -5242,7 +5308,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 138378,
       "name": "Polvere Da Sparo",
       "url": "https://open.spotify.com/track/6WKbL69QIF2bc65ZJk31ED"
@@ -6651,6 +6717,24 @@
     },
     {
       "album": {
+        "name": "Incubi",
+        "url": "https://open.spotify.com/album/10SKT9rzO48WQRmzzmjstN"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201407,
+      "name": "VIPERE",
+      "url": "https://open.spotify.com/track/15VSJQqICRNsDSMEhMFjrU"
+    },
+    {
+      "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
@@ -6760,6 +6844,24 @@
       "duration_ms": 228253,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/4mjXa1nq3XVm72wYeVS1Uw"
+    },
+    {
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/10KgFFVy2vVXp5fNjFebrS"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142588,
+      "name": "We Shine",
+      "url": "https://open.spotify.com/track/5ZK6qPtcnSOMIzpbuotWd8"
     },
     {
       "album": {

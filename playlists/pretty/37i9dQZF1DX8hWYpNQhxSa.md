@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©遠藤達哉／集英社・SPY×FAMILY製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,657 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,675 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
 | 2 | [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 |
 | 3 | [STRIX（Season 3）](https://open.spotify.com/track/71XfTNHc9JP7uI95RnXrNs) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 1:13 |
-| 4 | [オペレーション〈ポッドキャスト〉Season 3 \#3　出演：江口拓也、種﨑敦美](https://open.spotify.com/episode/1EbUOvkzgc9se1v187weR1) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/show/0UbkIsQGHB3e0WdLfATYJk) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/album/0UbkIsQGHB3e0WdLfATYJk) | 30:46 |
+| 4 | [ \#3:ロイド×アーニャ 父と娘の回！ロイド過去編のアフレコの裏側](https://open.spotify.com/episode/1EbUOvkzgc9se1v187weR1) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/show/0UbkIsQGHB3e0WdLfATYJk) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/album/0UbkIsQGHB3e0WdLfATYJk) | 30:46 |
 | 5 | [sunset（Season 3）](https://open.spotify.com/track/0RTmaxpEvVnRXgae6gQirL) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 1:56 |
 | 6 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 |
 | 7 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |

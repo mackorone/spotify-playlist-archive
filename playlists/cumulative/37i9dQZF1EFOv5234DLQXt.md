@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 9 hr 46 min
+142 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 | 2024-01-29 |  |
 | [Claroscuro \- Remasterizado 2007](https://open.spotify.com/track/7JKYhH7ptVeyErBUbvUpZF) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 4:04 | 2025-04-01 |  |
 | [Colores Santos](https://open.spotify.com/track/2LYvMb6o96pR6BDwBP5ghm) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:48 | 2024-01-29 |  |
-| [Convoy \- Cover](https://open.spotify.com/track/0KdHqF8l0XyDU4b6jb93l8) | [Malabares](https://open.spotify.com/artist/73IbUkj1P6fbxKRWWZdtRe) | [Esperando Algún Domingo Que Nos Calme](https://open.spotify.com/album/62KGWVge47U7DcusxyuUCu) | 2:53 | 2024-01-29 |  |
+| [Convoy \- Cover](https://open.spotify.com/track/0KdHqF8l0XyDU4b6jb93l8) | [Malabares](https://open.spotify.com/artist/73IbUkj1P6fbxKRWWZdtRe) | [Esperando Algún Domingo Que Nos Calme](https://open.spotify.com/album/62KGWVge47U7DcusxyuUCu) | 2:53 | 2024-01-29 | 2025-11-14 |
+| [Convoy \- Cover](https://open.spotify.com/track/3QtXvlNoMqRzzqNlTcBkCp) | [Malabares](https://open.spotify.com/artist/73IbUkj1P6fbxKRWWZdtRe) | [Esperando Algún Domingo Que Nos Calme](https://open.spotify.com/album/1R1dFPRpIex99KTp1DRoTr) | 2:53 | 2025-11-13 |  |
 | [Corazón Delator \- Remasterizado 2007](https://open.spotify.com/track/2zaZ81JI8KbYaL7210BB0U) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:12 | 2024-01-29 |  |
 | [Cosas Imposibles](https://open.spotify.com/track/7be5IEj6GYti0jauRKODoG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 5:05 | 2024-01-29 |  |
 | [Cozumel](https://open.spotify.com/track/6oOpxuEO2GqJTH1ahsMfI3) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 3:37 | 2024-01-29 |  |
@@ -92,9 +93,11 @@
 | [Ni Un Segundo \- Remasterizado 2007](https://open.spotify.com/track/5uwyngLJd6sTOYRic4tH8x) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:27 | 2024-01-29 |  |
 | [No Existes](https://open.spotify.com/track/1b0ukKuDnUYd8Bwu4NyJh3) | [Timmy O'Tool](https://open.spotify.com/artist/1xqWCLWfpLPFtASqT4xNmc) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 | 2024-01-29 | 2025-04-02 |
 | [No Existes \- Remasterizado 2007](https://open.spotify.com/track/6MIDQPurdLJgq5Tg6wM6xy) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:43 | 2025-04-01 |  |
-| [Nuestra Fe](https://open.spotify.com/track/4F2Po6tDXcT6ejGUB8dpuX) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 | 2024-01-29 |  |
+| [Nuestra Fe](https://open.spotify.com/track/4BxFW3hrrKtyEjnOZHNjF5) | [Ultrageno](https://open.spotify.com/artist/7qKuBEnpS8ZyOZcObaiDnk) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/1GlQhRVwRBM8kDvXGvmDk8) | 2:57 | 2025-11-13 |  |
+| [Nuestra Fe](https://open.spotify.com/track/4F2Po6tDXcT6ejGUB8dpuX) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 | 2024-01-29 | 2025-11-14 |
 | [Observándonos \(Satélites\) \- Remasterizado 2007](https://open.spotify.com/track/2M1EWNXyKRnWHuoU2hk7Rq) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:06 | 2024-01-29 |  |
-| [Ojo de la Tormenta \- Homenaje a Soda Stereo](https://open.spotify.com/track/4EC78sKFDaSzfQtH3brrHg) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Ojo de la Tormenta \(Homenaje a Soda Stereo\)](https://open.spotify.com/album/1RdIDQn7L0iIATbndVzfD2) | 4:07 | 2024-01-29 |  |
+| [Ojo de la Tormenta \(Homenaje a Soda Stereo\)](https://open.spotify.com/track/0jSH9FMltEPs44DvHpgqOp) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Ojo de la Tormenta \(Homenaje a Soda Stereo\)](https://open.spotify.com/album/0xqZHBWFbpUuudvmd1FxVo) | 4:07 | 2025-11-13 |  |
+| [Ojo de la Tormenta \- Homenaje a Soda Stereo](https://open.spotify.com/track/4EC78sKFDaSzfQtH3brrHg) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Ojo de la Tormenta \(Homenaje a Soda Stereo\)](https://open.spotify.com/album/1RdIDQn7L0iIATbndVzfD2) | 4:07 | 2024-01-29 | 2025-11-14 |
 | [Otra Piel](https://open.spotify.com/track/0f8UKGM3m5ZdxgF46vaikm) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 4:40 | 2024-01-29 |  |
 | [Paseando Por Roma \- Remasterizado 2007](https://open.spotify.com/track/7Dk43uYcLammTOb4kS7Q9g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:34 | 2024-03-22 |  |
 | [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:31 | 2024-01-29 |  |

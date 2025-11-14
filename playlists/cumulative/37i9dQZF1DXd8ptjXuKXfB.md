@@ -2,9 +2,9 @@
 
 ### [Most Menő](https://open.spotify.com/playlist/37i9dQZF1DXd8ptjXuKXfB)
 
-> Cool és trendi dalok Magyarországon!
+> Cool és trendi dalok Magyarországon! Cover: bongor
 
-451 songs - 22 hr 25 min
+452 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Soul Survivor](https://open.spotify.com/track/12bZjnzjuJoyRslVC4BmxU) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/7q5LBgCP11FX8gYFVBMqi3) | 4:40 | 2025-06-02 | 2025-09-30 |
 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 | 2024-07-01 | 2024-09-24 |
 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 | 2025-04-14 | 2025-05-06 |
+| [STARBOY](https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [STARBOY](https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE) | 2:36 | 2025-11-13 |  |
 | [STILO](https://open.spotify.com/track/0upO0ySIpKcl2zzVr9Mjtm) | [Sztatik](https://open.spotify.com/artist/2xbwJhTfvV3AVdlfPc6iWF) | [STILO](https://open.spotify.com/album/7FSzwfoHLpRd87hK4KzQYK) | 2:17 | 2024-07-08 | 2024-07-16 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-07-01 | 2025-03-11 |
 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 | 2024-07-01 | 2025-08-06 |
@@ -418,7 +419,7 @@
 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 | 2025-05-05 | 2025-11-04 |
 | [Túlbonyolítod](https://open.spotify.com/track/2NzAWa8gsp9J3Ep0biCvu3) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [Túlbonyolítod](https://open.spotify.com/album/56DN5ajAIdxQtY8n1KWXsP) | 2:54 | 2025-03-17 | 2025-03-25 |
 | [Türelem](https://open.spotify.com/track/3hDp960JpO0UJzne9A5nEA) | [Atka](https://open.spotify.com/artist/4WgDaRJ6Bf8rjN7kav2gBV), [Valter](https://open.spotify.com/artist/3g7HTvu3GHHLLFxF1B9Esy) | [Türelem](https://open.spotify.com/album/1D3zOKx9bImw1ep4bLGBci) | 3:02 | 2025-01-27 | 2025-02-04 |
-| [Ugyanúgy](https://open.spotify.com/track/4t1QpatMEGoIFQvtHHPlXK) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Ugyanúgy](https://open.spotify.com/album/4nmgzHcdHaHc1VZ2ahJn7X) | 2:10 | 2025-11-10 |  |
+| [Ugyanúgy](https://open.spotify.com/track/4t1QpatMEGoIFQvtHHPlXK) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Ugyanúgy](https://open.spotify.com/album/4nmgzHcdHaHc1VZ2ahJn7X) | 2:10 | 2025-11-10 | 2025-11-14 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-22 |  |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-07-01 | 2024-09-03 |
 | [Utolsó falat](https://open.spotify.com/track/2Tzd61QVNykma51A51e3Ya) | [Curtis](https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E), [Siza](https://open.spotify.com/artist/6ao0cg7WJF02PyQWZidt29) | [Utolsó falat](https://open.spotify.com/album/1vcXiBFOyr6Whzy9CThiSd) | 2:34 | 2025-02-10 | 2025-02-18 |

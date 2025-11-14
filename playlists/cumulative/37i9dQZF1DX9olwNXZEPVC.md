@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-123 songs - 4 hr 52 min
+127 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Love Me Like This](https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:08 | 2024-01-15 |  |
 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-24 | 2023-06-07 |
 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 | 2023-03-24 | 2024-04-19 |
+| [Maru is a Puppy](https://open.spotify.com/track/4jN7CjfuAltgcjeL4G8ovZ) | [HAEWON](https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no) | [Maru is a Puppy \(Original Soundtrack\)](https://open.spotify.com/album/1QyJwCDeSwkN5UHEqCgsTB) | 3:03 | 2025-11-13 |  |
 | [Message from NMIXX \- HAEWON & SULLYOON](https://open.spotify.com/track/0kiAGYtQWpMUWe6e858fod) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:21 | 2023-07-03 |  |
 | [Message from NMIXX \- HAEWON & SULLYOON](https://open.spotify.com/track/5FCKW0hOhAUbcZpqfZvBR7) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:21 | 2022-11-24 | 2023-08-07 |
 | [Message from NMIXX \- JINNI & BAE](https://open.spotify.com/track/1Hycz3SSWy2z8v4yyL5tzN) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:18 | 2022-11-24 | 2023-08-06 |
@@ -78,6 +79,8 @@
 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/1fpcnt5kVcYIyYZRHCm13K) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:13 | 2022-11-24 | 2023-08-06 |
 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/75VQXvyQQdZ5GsxpqB9CVv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:13 | 2023-07-03 |  |
 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-09-01 |  |
+| [MEXE \(feat\. Cobrah & NMIXX\)](https://open.spotify.com/track/3ndTI268AwL7PKYLoED1I2) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE \(Remix\)](https://open.spotify.com/album/0QBSKm7MWMs4zOBR3YkTm3) | 2:10 | 2025-11-13 |  |
+| [MEXE \(feat\. NMIXX\) \- Miss Tacacá & LOFIHOUSEBOY Remix](https://open.spotify.com/track/6UZRp8FJsWWznIm8ZNel8h) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Miss Tacacá](https://open.spotify.com/artist/40e73C7eRwuY2FAXCmtKcS), [LOFIHOUSEBOY](https://open.spotify.com/artist/1A7biIyW7QBmOxe0MiYsM9), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE \(Remix\)](https://open.spotify.com/album/0QBSKm7MWMs4zOBR3YkTm3) | 2:39 | 2025-11-13 |  |
 | [Moving On](https://open.spotify.com/track/0SnYOVoJPIH7BxSc0KumBI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:30 | 2024-10-08 |  |
 | [My Gosh](https://open.spotify.com/track/34UmtfADjmo12Jek6LpzQe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:36 | 2023-03-24 | 2024-04-19 |
 | [My Gosh](https://open.spotify.com/track/77I6NcjXgtKX2s2qdDITYJ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:36 | 2023-03-24 | 2023-06-08 |
@@ -123,6 +126,7 @@
 | [Thank you for waiting us!](https://open.spotify.com/track/28V8wFi1vHWkqmlzYqOTWQ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 | 2022-11-24 | 2023-08-06 |
 | [Thank you for waiting us!](https://open.spotify.com/track/66Nedi5HluuBBCKMC5ykWe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 | 2023-07-03 |  |
 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 | 2023-02-16 |  |
+| [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 OST Part.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 | 2025-11-13 |  |
 | [XOXO](https://open.spotify.com/track/5jJgfoe8qJ59Dtp5nWmVVX) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:42 | 2024-01-15 |  |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-03-24 | 2024-04-19 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |

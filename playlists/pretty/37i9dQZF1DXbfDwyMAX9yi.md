@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 
 > Our favorite subject? Their chemistry\. Listen to the music from Seasons 1 & 2 of Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,123 likes - 61 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,744 likes - 61 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 | 34 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 |
 | 35 | [Acoustic](https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 2:52 |
 | 36 | [Tidal Wave](https://open.spotify.com/track/7JMUnS7j5CiN1BWVnOVTMD) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own](https://open.spotify.com/album/4ie8Q4bJY7v7AQnsZgCSD5) | 3:17 |
-| 37 | [Go Solo \(feat\. Tom Rosenthal\)](https://open.spotify.com/track/6vhOyWiOnO7EzxnXBllmkQ) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Go Solo \(feat\. Tom Rosenthal\)](https://open.spotify.com/album/29KSwHY8sPhFCcUVRNWzNm) | 3:12 |
+| 37 | [Go Solo \(feat\. Tom Rosenthal\)](https://open.spotify.com/track/6vhOyWiOnO7EzxnXBllmkQ) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Go Solo \(feat\. Tom Rosenthal\)](https://open.spotify.com/album/29KSwHY8sPhFCcUVRNWzNm) | 3:11 |
 | 38 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 39 | [Brave](https://open.spotify.com/track/4wt36rVlPalOn7JxrkNp6J) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Outside the Lines](https://open.spotify.com/album/7aEnxBfMJA7qgqlKg6RyYZ) | 4:07 |
 | 40 | [Every High](https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High](https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl) | 3:33 |

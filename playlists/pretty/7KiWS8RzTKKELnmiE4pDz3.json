@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfMUPCBh6ornPEe4OpAyVnInBLGL31",
+  "snapshot_id": "AAAfMmDUN1m9gR7VJ+qIXdhKymGzCyf1",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -6427,6 +6427,26 @@
       "duration_ms": 280790,
       "name": "Sweet Lady",
       "url": "https://open.spotify.com/track/6VBuV3fk37EGAqFbDVQjHv"
+    },
+    {
+      "added_at": "2025-11-14 02:24:49",
+      "album": {
+        "name": "Malcolm Todd",
+        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Bleed (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu"
     }
   ],
   "unique_name": "main ",

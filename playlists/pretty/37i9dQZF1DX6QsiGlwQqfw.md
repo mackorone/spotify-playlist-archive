@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,376 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,389 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 15 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 | 16 | [Raga Tilak Kamod](https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7) | [Gajanan Madhav Karnad](https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:15 |
 | 17 | [Raga Hansadhwani](https://open.spotify.com/track/2w0uDN6Md0sDw3Tt44d1PY) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 14:40 |
-| 18 | [Raga Bhimpalasi \- Gat in Rupak Tala](https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Aditya Kalyanpur](https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ) | [Melodies at Dusk](https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S) | 13:54 |
-| 19 | [Raga Mishra Khamal: Thumri in Teentaal](https://open.spotify.com/track/6jli7CztvkqT31IxYGtHPe) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND), [Dilshad Khan](https://open.spotify.com/artist/2MGldsFMFcnboBIAD1okNS), [Anita Narayan](https://open.spotify.com/artist/5d8UIfE4DtivsTxqjNn1K9) | [Pt\. Ram Narayan: Sarangee Wadan](https://open.spotify.com/album/73xpfGlBt3y7UHe0YKPLI1) | 9:45 |
+| 18 | [Raga Mishra Khamal: Thumri in Teentaal](https://open.spotify.com/track/6jli7CztvkqT31IxYGtHPe) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND), [Dilshad Khan](https://open.spotify.com/artist/2MGldsFMFcnboBIAD1okNS), [Anita Narayan](https://open.spotify.com/artist/5d8UIfE4DtivsTxqjNn1K9) | [Pt\. Ram Narayan: Sarangee Wadan](https://open.spotify.com/album/73xpfGlBt3y7UHe0YKPLI1) | 9:45 |
+| 19 | [Raga Bhimpalasi \- Gat in Rupak Tala](https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Aditya Kalyanpur](https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ) | [Melodies at Dusk](https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S) | 13:54 |
 | 20 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 |
 | 21 | [Raga Shudh Nat](https://open.spotify.com/track/1owwIPlqMsGKfmtJjop4s5) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:10 |
 | 22 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |

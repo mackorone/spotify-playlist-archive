@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 147248,
+  "num_followers": 147270,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAADOKEiYxwgHP6GC/ZgveVi6",
+  "snapshot_id": "aRPOAAAAAAANGJ9C8aLNKLMJWVUg3CLe",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortitude",
-        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 396634,
-      "name": "New Found",
-      "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 144786,
       "name": "From Mars",
       "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 396634,
+      "name": "New Found",
+      "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
     },
     {
       "added_at": null,

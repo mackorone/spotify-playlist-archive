@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-464 songs - 1 day 3 hr 10 min
+466 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Allting som vi har](https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Allting som vi har](https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY) | 3:12 | 2025-04-24 | 2025-08-09 |
 | [Andetag \(Man måste leva nu\)](https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2) | [Milly](https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j) | [Andetag \(Man måste leva nu\)](https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o) | 3:35 | 2025-05-22 |  |
 | [Andra Människor](https://open.spotify.com/track/0dDYfyfGJuvitw2nD1gsv5) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Andra Människor](https://open.spotify.com/album/2dIu1oVslVt4jnqgcArKNL) | 2:42 | 2025-03-13 | 2025-03-21 |
-| [Anita \- Live](https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Sliperiet Sessions \(Live\)](https://open.spotify.com/album/2tcTCKeOyGH9psxxoQrvGe) | 4:35 | 2025-11-06 |  |
+| [Anita \- Live](https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Sliperiet Sessions \(Live\)](https://open.spotify.com/album/2tcTCKeOyGH9psxxoQrvGe) | 4:35 | 2025-11-06 | 2025-11-14 |
 | [Ansiktenas mystik](https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr), [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Frostvikskören](https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA) | [Ansiktenas mystik](https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ) | 3:20 | 2025-04-24 | 2025-06-20 |
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-14 |
 | [Arvet](https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Anna Ahnlund](https://open.spotify.com/artist/3QgJNRjR0Qtw1qjmGTnRa5) | [Arvet](https://open.spotify.com/album/0REVRXEkjLpYMMMAJFGcaF) | 5:47 | 2025-09-11 | 2025-10-15 |
@@ -51,7 +51,7 @@
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
 | [Besvärjelse \(jag kommer älska dig då\)](https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Lånat](https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A) | 4:17 | 2025-06-05 |  |
 | [Blinka lilla stjärna](https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Blinka lilla stjärna](https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2) | 3:35 | 2024-12-12 | 2025-01-05 |
-| [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 |  |
+| [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 | 2025-11-14 |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 | 2025-01-17 |
 | [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 | 2025-09-25 |
@@ -350,6 +350,7 @@
 | [Siljans strand](https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Siljans strand / Midsommarvisa](https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw) | 3:46 | 2024-06-27 | 2024-09-13 |
 | [Silverregn](https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Silverregn / Återvänd till mig](https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95) | 5:54 | 2025-01-23 | 2025-09-17 |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-05-30 |
+| [Sjung Sjung](https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM) | [Lili & Susie](https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK) | [Sjung Sjung](https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh) | 3:13 | 2025-11-13 |  |
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 | 2025-05-16 |
 | [Skönheten och odjuret](https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Linus Wahlgren](https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q) | [Skönheten och odjuret](https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO) | 3:00 | 2025-09-11 | 2025-11-07 |
 | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt) | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe) | 4:31 | 2025-05-19 | 2025-06-03 |
@@ -463,6 +464,7 @@
 | [WIND BLOW](https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [WIND BLOW](https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR) | 3:25 | 2025-01-09 | 2025-05-16 |
 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 | 2024-10-10 | 2025-04-25 |
 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-27 | 2025-04-11 |
+| [You](https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [You](https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt) | 4:48 | 2025-11-13 |  |
 | [You](https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX) | [Sofi Bonde](https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6) | [You](https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9) | 3:44 | 2024-08-22 | 2024-10-13 |
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 | 2025-05-02 |
 | [You´ve Already Won](https://open.spotify.com/track/1e3N0rkz3eG9fiMauj9Y4S) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Little Human](https://open.spotify.com/album/5Hh92QEAAnv8dU71AAVm1M) | 5:30 | 2025-07-17 | 2025-08-06 |

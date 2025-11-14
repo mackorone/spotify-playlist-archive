@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Pallaso",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Sheebah",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -518,7 +518,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 128705,
       "name": "Attention!",
       "url": "https://open.spotify.com/track/4BAXXRS4kmH9YcpngRZVjh"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 172040,
       "name": "Batuleke",
       "url": "https://open.spotify.com/track/5d5iWYfRMFmxSqU3d9BS9K"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 157263,
       "name": "If",
       "url": "https://open.spotify.com/track/1Zll7L6elylq8kZPfL2dLa"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176248,
       "name": "Itemo Kwe",
       "url": "https://open.spotify.com/track/51b9aNRpVKAt40HUdverJc"
@@ -4994,7 +4994,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 193802,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/3vVFiTSK0A3HU11HOwRSpt"
@@ -6631,6 +6631,24 @@
     },
     {
       "album": {
+        "name": "Nyweera",
+        "url": "https://open.spotify.com/album/3fjpmzYRV1dh2XNXdYIxuX"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Nyweera",
+      "url": "https://open.spotify.com/track/32fgnccnW2GGN0Sh5tu2cz"
+    },
+    {
+      "album": {
         "name": "Nzikiriza",
         "url": "https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq"
       },
@@ -7441,6 +7459,28 @@
     },
     {
       "album": {
+        "name": "Pullover",
+        "url": "https://open.spotify.com/album/5fdCwcwGyEvo58jQNDr76Q"
+      },
+      "artists": [
+        {
+          "name": "\u015aK",
+          "url": "https://open.spotify.com/artist/6O83Zi8S4tQ7lZXVkKjLmF"
+        },
+        {
+          "name": "Ole Jiggy",
+          "url": "https://open.spotify.com/artist/2JIUGq2D2BEbTCuRiLcBwS"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185182,
+      "name": "Pullover",
+      "url": "https://open.spotify.com/track/3lfnpygSEIOPJu072UbKoA"
+    },
+    {
+      "album": {
         "name": "Q'lalea",
         "url": "https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu"
       },
@@ -7792,7 +7832,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 259200,
       "name": "Salary II - Remix",
       "url": "https://open.spotify.com/track/7mjtXNuGWyq98NgKVnqSlY"
@@ -8934,7 +8974,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 182970,
       "name": "The Best",
       "url": "https://open.spotify.com/track/2tGDYQXjZwZaiEVl8jTHkm"
@@ -9128,6 +9168,28 @@
       "duration_ms": 186666,
       "name": "Toora Love",
       "url": "https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm"
+    },
+    {
+      "album": {
+        "name": "Totta",
+        "url": "https://open.spotify.com/album/2Hij9Q3rJ0YR3SBnFoCeVW"
+      },
+      "artists": [
+        {
+          "name": "Kataleya & Kandle Music",
+          "url": "https://open.spotify.com/artist/420Sfph97HABRumpR1TVTu"
+        },
+        {
+          "name": "Tracy Melon",
+          "url": "https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "Totta",
+      "url": "https://open.spotify.com/track/0T3rnnZnmL3kR2MfM5QWuM"
     },
     {
       "album": {
@@ -9732,7 +9794,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 162098,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/5djyZsH0sWChNbfhMw1icd"

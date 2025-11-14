@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Igo",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: FANKA",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 138240,
       "name": "Do ko\u0144ca",
       "url": "https://open.spotify.com/track/2HjgcowHbpJYcMSh6al8Pa"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 166274,
       "name": "Drzazga w Sercu",
       "url": "https://open.spotify.com/track/2vTTzHHvAJDyF5vtJYKZP5"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 162985,
       "name": "Ja\u015bniepanie",
       "url": "https://open.spotify.com/track/3DwhTJ3HghkmKpk7KXeEnk"
@@ -4252,7 +4252,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176000,
       "name": "Jeden dzie\u0144 (podaruj)",
       "url": "https://open.spotify.com/track/0LSIMLQIlnB3gHCQShV9RY"
@@ -5683,6 +5683,28 @@
     },
     {
       "album": {
+        "name": "Mamy to",
+        "url": "https://open.spotify.com/album/0Z6Hzq9lMx1HrGKTuJMWSh"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146263,
+      "name": "Mamy to",
+      "url": "https://open.spotify.com/track/7D8zCMrLhHUgSHZjejT9Uz"
+    },
+    {
+      "album": {
         "name": "mario",
         "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
       },
@@ -6138,7 +6160,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 150000,
       "name": "Mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
@@ -6344,7 +6366,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 176335,
       "name": "morze dalej zimne",
       "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
@@ -6522,6 +6544,24 @@
       "duration_ms": 186206,
       "name": "Na cz\u0119\u015bci pierwsze",
       "url": "https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV"
+    },
+    {
+      "album": {
+        "name": "Na deser",
+        "url": "https://open.spotify.com/album/5DUjGPhPxfgVuV5FpScO7o"
+      },
+      "artists": [
+        {
+          "name": "Julia \u017bugaj",
+          "url": "https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Na deser",
+      "url": "https://open.spotify.com/track/4isqRmwYEAghKiPznLwGq4"
     },
     {
       "album": {
@@ -7943,6 +7983,32 @@
     },
     {
       "album": {
+        "name": "Obejmuj\u0119 noce",
+        "url": "https://open.spotify.com/album/6uhc5vkbLJIr217Z9mxDXB"
+      },
+      "artists": [
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        },
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "Obejmuj\u0119 noce",
+      "url": "https://open.spotify.com/track/1X3saW7eGrSLRVbEIWwFsh"
+    },
+    {
+      "album": {
         "name": "Ob\u0142\u0119d",
         "url": "https://open.spotify.com/album/2XwXYiM4iwFDjLaDuUtj9R"
       },
@@ -8528,6 +8594,24 @@
       "duration_ms": 168552,
       "name": "Papierowe serca",
       "url": "https://open.spotify.com/track/5bF0mUdaVqfS4JVMSXzuX5"
+    },
+    {
+      "album": {
+        "name": "PARASOL",
+        "url": "https://open.spotify.com/album/47KbLjzaPABLhEuqmy3VwT"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "PARASOL",
+      "url": "https://open.spotify.com/track/6ChJ0FFpq1pjn3uulbSmrx"
     },
     {
       "album": {
@@ -10149,6 +10233,28 @@
     },
     {
       "album": {
+        "name": "Selavie",
+        "url": "https://open.spotify.com/album/1it328lbXQ1jFw952cyQQN"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151925,
+      "name": "Selavie",
+      "url": "https://open.spotify.com/track/0aFEj7St3LyFpuoT1cY23L"
+    },
+    {
+      "album": {
         "name": "SEN",
         "url": "https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS"
       },
@@ -10866,7 +10972,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 210912,
       "name": "Tak musia\u0142o by\u0107",
       "url": "https://open.spotify.com/track/6pCP3lsx0VlSWM8GrymUy3"
@@ -11279,6 +11385,24 @@
     },
     {
       "album": {
+        "name": "My\u015bli Rozdarte",
+        "url": "https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156815,
+      "name": "Te\u017c Tak Masz",
+      "url": "https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY"
+    },
+    {
+      "album": {
         "name": "To bardzo ziemskie",
         "url": "https://open.spotify.com/album/6IArcoYPAQQ8Z5mmklTw0h"
       },
@@ -11640,7 +11764,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 187953,
       "name": "Tylko noc (feat. Ania D\u0105browska)",
       "url": "https://open.spotify.com/track/1U53LQBf7VqYGUe67eeV8V"
@@ -11720,6 +11844,24 @@
       "duration_ms": 198400,
       "name": "Udawaj do rana",
       "url": "https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6"
+    },
+    {
+      "album": {
+        "name": "Radio Edit",
+        "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
+      },
+      "artists": [
+        {
+          "name": "Kuba Badach",
+          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235637,
+      "name": "Uk\u0142ad otwarty",
+      "url": "https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid"
     },
     {
       "album": {
@@ -12358,6 +12500,24 @@
       "duration_ms": 156037,
       "name": "Wracam",
       "url": "https://open.spotify.com/track/4Rq2KHHSBZ6uajWbGdHYSg"
+    },
+    {
+      "album": {
+        "name": "Wracam sam",
+        "url": "https://open.spotify.com/album/4QduYS3SZR1JDYx1sylfd8"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Wracam sam",
+      "url": "https://open.spotify.com/track/2uU5g11Rw5mQoVzOdYcwkF"
     },
     {
       "album": {
@@ -13740,10 +13900,28 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 171093,
       "name": "\u015awiat\u0142o",
       "url": "https://open.spotify.com/track/4JstfIokwiPbk8uce2aQgb"
+    },
+    {
+      "album": {
+        "name": "Spektrum uczu\u0107",
+        "url": "https://open.spotify.com/album/5UaBEg5wbwohA7Kulzyfrr"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123203,
+      "name": "\u017bycie, u\u017cywki, kariera",
+      "url": "https://open.spotify.com/track/4ZA0UrTvbVchyZUN3pXNfc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,081 songs - 1 day 22 hr 50 min
+1,082 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Love is wicked](https://open.spotify.com/track/43NykyiKURBnbz5Hx3gfmF) | [Ødyssey](https://open.spotify.com/artist/6qLB9SoM25z2JDFBcgvJ8G) | [Love is wicked](https://open.spotify.com/album/7znvftRH6Ei7OdlnJ5b38v) | 2:48 | 2024-04-12 | 2024-07-05 |
 | [Love Me A Little](https://open.spotify.com/track/7yRzZjRJJfCBcZvRlEDde1) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Love Me A Little](https://open.spotify.com/album/6PcfMt7xi2UL2evpivNvsa) | 2:30 | 2024-08-18 |  |
 | [Love Me Now](https://open.spotify.com/track/0ewWPAcC3bRQ5sfYFEfx0o) | [Wavey](https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz) | [Love Me Now](https://open.spotify.com/album/6xyzAwtq47kPGmwQNfrn5E) | 2:17 | 2025-10-03 |  |
+| [Love Somebody](https://open.spotify.com/track/5q8ZnnChehX5vV9D59ccw0) | [Brenda](https://open.spotify.com/artist/2N7wwvscWyr5WhyRBxFSR0), [Jaker](https://open.spotify.com/artist/1OiylLVpVrT0ToNcZBZaZY) | [Love Somebody](https://open.spotify.com/album/2Oqtkuq0djI4y1UlVdUmpf) | 2:17 | 2025-11-13 |  |
 | [Love Somebody](https://open.spotify.com/track/6XZrUzHnQiZ2KJKc7EoNN2) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Love Somebody](https://open.spotify.com/album/30LcoBrPsW88NRoRokLO0m) | 2:41 | 2025-08-03 |  |
 | [Love Someone](https://open.spotify.com/track/1qbqxjmfX0elpgITU0u4YH) | [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3) | [Love Someone](https://open.spotify.com/album/2g7BUpvyNjavxoReZBc9OD) | 2:38 | 2024-07-25 |  |
 | [Love To Lose](https://open.spotify.com/track/7oBKRZ8km1jtHCbovQIt2A) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [John Von Dusk](https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [Love To Lose](https://open.spotify.com/album/0yi6y4Mr6y0lQ4nN5wi8s6) | 2:23 | 2025-01-25 | 2025-06-03 |

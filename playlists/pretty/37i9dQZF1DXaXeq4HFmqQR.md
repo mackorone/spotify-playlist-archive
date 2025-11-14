@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,827 likes - 59 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,826 likes - 59 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 12 | [Yo nunca sé nada de ti](https://open.spotify.com/track/4W2bjanGESJ8jq0pSnCKKH) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Yo nunca sé nada de ti](https://open.spotify.com/album/0peqjJrv5gh8Y46EuQsQTl) | 1:10 |
 | 13 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2BfBdNashU8O8pt5375t1v) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Cuando Respiro en Tu Boca](https://open.spotify.com/album/5YsQw7HZfWd6YnC7WtnbkU) | 3:23 |
 | 14 | [Proverbios](https://open.spotify.com/track/4NjSjZlZ5CjKkJC5eqC012) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 4:00 |
-| 15 | [ay tentación](https://open.spotify.com/track/6pzKIxbePOgnaCNkbkXp0b) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/4zE3mGOaW9cu62NxmMslEI) | 3:31 |
-| 16 | [Antes de que apague el sol](https://open.spotify.com/track/49IVg5yJ31j90VaSqXP8yx) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [DOPAMINA](https://open.spotify.com/album/1Kw16YfS5WXfoRKU4QLoRD) | 3:49 |
+| 15 | [Antes de que apague el sol](https://open.spotify.com/track/49IVg5yJ31j90VaSqXP8yx) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [DOPAMINA](https://open.spotify.com/album/1Kw16YfS5WXfoRKU4QLoRD) | 3:49 |
+| 16 | [ay tentación](https://open.spotify.com/track/6pzKIxbePOgnaCNkbkXp0b) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/4zE3mGOaW9cu62NxmMslEI) | 3:31 |
 | 17 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 |
 | 18 | [Color de Rosa ✿](https://open.spotify.com/track/4C23Imuml0iFxTWSSbYSeX) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Cómo Enamorarse con el Corazón Partío](https://open.spotify.com/album/2HoYvQucdu79TEF25BekcW) | 3:20 |
 | 19 | [Cuándo y Dónde](https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Luz Elena Mendoza](https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv) | [Cuándo y Dónde](https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf) | 3:14 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 44 | [Mentí \- Acústica](https://open.spotify.com/track/65Er3QDAJ1rfoZUShScTPB) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:00 |
 | 45 | [Encuentro Fortuna](https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [CASA](https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp) | 2:58 |
 | 46 | [Me Derretí](https://open.spotify.com/track/5tIj66UBfX28higolWDBWS) | [Amanitas](https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR) | [Todo Es Circular](https://open.spotify.com/album/0tXaJ5PMJLlCVtbasU3WbT) | 3:41 |
-| 47 | [La Historia](https://open.spotify.com/track/74xLAFi1oGs9XA6XwZT1Bl) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La historia](https://open.spotify.com/album/34wh1HcP270JvkRnK2ZVeS) | 3:13 |
-| 48 | [Suave Brisa](https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 5:15 |
+| 47 | [Suave Brisa](https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 5:15 |
+| 48 | [La Historia](https://open.spotify.com/track/74xLAFi1oGs9XA6XwZT1Bl) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La historia](https://open.spotify.com/album/34wh1HcP270JvkRnK2ZVeS) | 3:13 |
 | 49 | [Una Vez](https://open.spotify.com/track/4iOB0xlUdZvf6fnK0gvfv0) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [ÀIYÉ](https://open.spotify.com/artist/3VumMgwS5pfXHC7vfek7Bu) | [Una Vez](https://open.spotify.com/album/1BjF19Mu1Lr4RguO7aWcja) | 3:11 |
 | 50 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
 | 51 | [En el Jardín](https://open.spotify.com/track/4uDSLVnSyxBJm1V1e5yJZS) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [En el Jardín](https://open.spotify.com/album/4G54bwh6J63pqGRdPTjehY) | 2:54 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 58 | [Vital](https://open.spotify.com/track/3yryakFXVMb3pEzriB7vgm) | [Paz Quintana](https://open.spotify.com/artist/6KqJXtmKvduINRUUk74bBT) | [Vital](https://open.spotify.com/album/0eI4IUvAragR1mQTu8pDVf) | 4:16 |
 | 59 | [Sin miedo a estar solos](https://open.spotify.com/track/4wTWN6bYeH65z1jteMaBRA) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Terracota](https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ) | 3:25 |
 
-Snapshot ID: `AAAAAISagTlFP7ATtEPdv8JX6ji3GYpR`
+Snapshot ID: `AAAAANDJztCE/EmfREyo6kEFEqn5Hp9I`

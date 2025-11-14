@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Eloff",
-  "num_followers": 137096,
+  "num_followers": 137136,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-11-10 08:54:35",
       "album": {
+        "name": "Piekniek Vir Twee",
+        "url": "https://open.spotify.com/album/4cBLgMiHPVdnF9UkRpkBBH"
+      },
+      "artists": [
+        {
+          "name": "Twee",
+          "url": "https://open.spotify.com/artist/2NMYjNoIZYEfAGICUHwaGG"
+        }
+      ],
+      "duration_ms": 218430,
+      "name": "Ek Sweer",
+      "url": "https://open.spotify.com/track/6jA89tKOtMVp6cN6shxyS5"
+    },
+    {
+      "added_at": "2025-11-10 08:54:35",
+      "album": {
         "name": "Francois Van Coke",
         "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 246401,
       "name": "Toe Vind Ek Jou",
       "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
-    },
-    {
-      "added_at": "2025-11-10 08:54:35",
-      "album": {
-        "name": "Piekniek Vir Twee",
-        "url": "https://open.spotify.com/album/4cBLgMiHPVdnF9UkRpkBBH"
-      },
-      "artists": [
-        {
-          "name": "Twee",
-          "url": "https://open.spotify.com/artist/2NMYjNoIZYEfAGICUHwaGG"
-        }
-      ],
-      "duration_ms": 218430,
-      "name": "Ek Sweer",
-      "url": "https://open.spotify.com/track/6jA89tKOtMVp6cN6shxyS5"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
     },
     {
+      "added_at": "2025-11-10 08:54:35",
+      "album": {
+        "name": "Net Geleen",
+        "url": "https://open.spotify.com/album/7eQNFAWf2HSr2RHK7wbhnK"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Sonop-Blom",
+      "url": "https://open.spotify.com/track/5knddE6reVlRTbrR62HJEd"
+    },
+    {
       "added_at": "2025-10-30 22:00:14",
       "album": {
         "name": "Wat Kan 'n Man Dan Doen",
@@ -1033,20 +1049,20 @@
       "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
     },
     {
-      "added_at": "2025-11-10 08:54:35",
+      "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Net Geleen",
-        "url": "https://open.spotify.com/album/7eQNFAWf2HSr2RHK7wbhnK"
+        "name": "Dik Stukke",
+        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
       },
       "artists": [
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
         }
       ],
-      "duration_ms": 189733,
-      "name": "Sonop-Blom",
-      "url": "https://open.spotify.com/track/5knddE6reVlRTbrR62HJEd"
+      "duration_ms": 187611,
+      "name": "Dik Stukke",
+      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1067,22 +1083,6 @@
       "duration_ms": 192676,
       "name": "Shut Up & Soen My",
       "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "Dik Stukke",
-        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 187611,
-      "name": "Dik Stukke",
-      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Meisie wat kan Vasdans",
-        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 199593,
-      "name": "Meisie wat kan Vasdans",
-      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Carina",
         "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 196208,
       "name": "Carina",
       "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Meisie wat kan Vasdans",
+        "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 199593,
+      "name": "Meisie wat kan Vasdans",
+      "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Net Dans",
-        "url": "https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf"
+        "name": "Ek Sal Nie Bang Wees Nie",
+        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
       },
       "artists": [
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
         }
       ],
-      "duration_ms": 228473,
-      "name": "Net Dans",
-      "url": "https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD"
+      "duration_ms": 284640,
+      "name": "Ek Sal Nie Bang Wees Nie",
+      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Ek Sal Nie Bang Wees Nie",
-        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Ek Sal Nie Bang Wees Nie",
-      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Help 'n Bietjie",
         "url": "https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 198000,
       "name": "Help 'n Bietjie",
       "url": "https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Net Dans",
+        "url": "https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 228473,
+      "name": "Net Dans",
+      "url": "https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD"
     },
     {
       "added_at": "2025-10-30 22:00:14",

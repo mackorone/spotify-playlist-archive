@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: LUUKHANYO
+> The best in South African and international R&B\. Cover: Summer Walker
 
-611 songs - 1 day 8 hr 52 min
+613 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Call On Me](https://open.spotify.com/track/2kgNITUV31PEoqmPMQYSki) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [Call On Me](https://open.spotify.com/album/2T7V33cGCPtJh9NFeJ8eEA) | 2:29 | 2023-10-12 | 2024-03-22 |
 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 | 2025-06-27 | 2025-10-19 |
 | [Can't Wait](https://open.spotify.com/track/3uDZc1Mzf7smj1KuaY5YSG) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Can't Wait](https://open.spotify.com/album/2ksZnUmEKvKxXFEYdLhENa) | 3:37 | 2025-04-24 | 2025-07-01 |
+| [Cards on the table](https://open.spotify.com/track/6bOuVvo4LiQmxPyIlhmDpd) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Cards on the table](https://open.spotify.com/album/1SdgSWCuazR5C3VkYJL6zq) | 2:41 | 2025-11-13 |  |
 | [Care For Me](https://open.spotify.com/track/3gIxyaHGSpYXLAkkNrKKI0) | [Fiji Mageba](https://open.spotify.com/artist/6G2TipihRm2uODVF7RXQIn), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [My View](https://open.spotify.com/album/1EM6BItRvrfQjeEvaQ5s2W) | 1:35 | 2023-10-12 | 2023-10-20 |
 | [CATCH ME](https://open.spotify.com/track/77sOagZT4DSsXJpsmjOu9p) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [HEARTBREAK HOTEL](https://open.spotify.com/album/5mHX0g8QrHMGlqC0CB2Xt5) | 3:00 | 2024-03-14 | 2024-09-12 |
 | [Chance On Me](https://open.spotify.com/track/29oGxEonYfzcToe8ebsG8t) | [Dato Seiko](https://open.spotify.com/artist/34jz5y6fUn79rbgNdpkAUz), [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Chance On Me](https://open.spotify.com/album/2e7TQAmpZGLv3PP9wUGx3G) | 3:54 | 2024-05-31 | 2024-09-03 |
@@ -206,6 +207,7 @@
 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 | 2025-04-24 |  |
 | [Gimme That](https://open.spotify.com/track/1mZgGbjHRXz0PbHAMAXZFM) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Gimme That](https://open.spotify.com/album/20eUVqxK9iITuO84gvl9o5) | 4:04 | 2024-03-07 | 2024-07-12 |
 | [Give It To You](https://open.spotify.com/track/2bS9CrkNAxPYqcxkyUXACP) | [DRAGG](https://open.spotify.com/artist/5oO3WKJ7dtDv1qGzaCwQmc), [Tania DeBarros](https://open.spotify.com/artist/5wSqOP0wgh4LIcrWinLXWE) | [Give It To You](https://open.spotify.com/album/4oQGwgVPCLbzvkFTl4AhyP) | 2:53 | 2024-01-12 | 2024-02-09 |
+| [Give Me A Reason \(with Bryson Tiller\)](https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [](https://open.spotify.com/album/null) | 2:48 | 2025-11-13 |  |
 | [Glacier](https://open.spotify.com/track/0wume6ldVXgvM2UXEqmuq5) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [Glacier](https://open.spotify.com/album/0FjTADewP64C74FmQ3vfwM) | 3:58 | 2024-09-02 | 2024-09-12 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-12 | 2024-01-26 |
 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 | 2024-04-12 | 2024-08-31 |
@@ -526,7 +528,7 @@
 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 | 2025-05-01 | 2025-09-26 |
 | [Sweet Nothing](https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Sweet Nothing](https://open.spotify.com/album/0NbNpeeNiN6lr2O3I6C7y8) | 1:28 | 2023-10-12 | 2024-01-26 |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2024-05-16 | 2024-08-31 |
-| [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-20 |  |
+| [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-20 | 2025-11-14 |
 | [SYMPHONY](https://open.spotify.com/track/3Zbn9QI4ErtDqBrhQGudMy) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [The Decompress \(Solace Edition\)](https://open.spotify.com/album/2sc5qvyUNxiAIqtc6sqy6w) | 2:48 | 2024-11-11 | 2025-04-25 |
 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 | 2024-06-13 | 2024-09-03 |
 | [TAKE IT SLOW](https://open.spotify.com/track/13M2mmd8I4O9fDGAdyxcHk) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [LOVE LETTERS](https://open.spotify.com/album/0MDMXbXsB0P15a8piifP7W) | 2:58 | 2024-09-02 | 2024-09-12 |
@@ -543,7 +545,7 @@
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-23 | 2024-09-03 |
 | [Tender](https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Tender](https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2) | 3:03 | 2023-10-12 | 2024-01-26 |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2024-02-08 | 2024-04-26 |
-| [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 | 2025-11-07 |  |
+| [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 | 2025-11-07 | 2025-11-14 |
 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-10 |  |
 | [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 | 2024-06-27 | 2024-09-03 |
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-12 | 2024-03-01 |

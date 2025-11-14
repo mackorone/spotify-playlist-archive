@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Van Sophie, Monsta",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Guga",
   "name": "Seda",
   "tracks": [
     {
@@ -5021,6 +5021,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224100,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL"
+    },
+    {
+      "album": {
         "name": "Eu At\u00e9 Percebo",
         "url": "https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77"
       },
@@ -7968,7 +7986,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 197511,
       "name": "longe.com",
       "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
@@ -9791,6 +9809,28 @@
     },
     {
       "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253085,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb"
+    },
+    {
+      "album": {
         "name": "Nosso Som",
         "url": "https://open.spotify.com/album/6sK5Lo6qAW5wqsegG2hTPK"
       },
@@ -11168,7 +11208,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-14",
       "duration_ms": 174428,
       "name": "Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"

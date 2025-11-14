@@ -1,12 +1,12 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 1191,
+  "num_followers": 1190,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRJ8gAAAAADb9x6EYkFBhI++MgBdySYy",
+  "snapshot_id": "aRPOAAAAAAD6of/+grJCR0Tjo/v2YcBG",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comfortably Numb",
-        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 379103,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 93783,
-      "name": "The Ramp",
-      "url": "https://open.spotify.com/track/3hsSx5Z8sMl58BPznytEzg"
+      "duration_ms": 226339,
+      "name": "In The Well",
+      "url": "https://open.spotify.com/track/2hTev3gNF2oVhtB2MRFQX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 379103,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 218533,
       "name": "Two Heads",
       "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only You Say It",
-        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 200932,
-      "name": "Only You Say It",
-      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
     },
     {
       "added_at": null,
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 226339,
-      "name": "In The Well",
-      "url": "https://open.spotify.com/track/2hTev3gNF2oVhtB2MRFQX9"
+      "duration_ms": 93783,
+      "name": "The Ramp",
+      "url": "https://open.spotify.com/track/3hsSx5Z8sMl58BPznytEzg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only You Say It",
+        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 200932,
+      "name": "Only You Say It",
+      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
     },
     {
       "added_at": null,
