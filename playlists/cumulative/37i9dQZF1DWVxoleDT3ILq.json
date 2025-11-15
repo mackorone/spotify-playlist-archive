@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Vicente Cifuentes",
+  "description": "Todo el sonido indie de Chile. Foto: Bocho & Riola",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -1122,6 +1122,28 @@
       "duration_ms": 174540,
       "name": "B\u00e9same Lento",
       "url": "https://open.spotify.com/track/3wH2qmBQMzjfZmrP0n01hJ"
+    },
+    {
+      "album": {
+        "name": "Cad\u00e1ver Exquisito",
+        "url": "https://open.spotify.com/album/0ZL1tWkONIMUu7CjuQ3HEe"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263611,
+      "name": "Cad\u00e1ver Exquisito",
+      "url": "https://open.spotify.com/track/7HGBuWb3BK8Jrm8P41JqY0"
     },
     {
       "album": {
@@ -10175,6 +10197,24 @@
     },
     {
       "album": {
+        "name": "Verme (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2vJuwueCrc3WwsLAlOFc7X"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184052,
+      "name": "Verme - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1GAE341bT1bLmXRM18jDez"
+    },
+    {
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/0nc4VKUR3tWPFt1K7WJwIm"
       },
@@ -10484,6 +10524,32 @@
       "duration_ms": 156000,
       "name": "y las flores? (en bruto 1/2)",
       "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
+    },
+    {
+      "album": {
+        "name": "Y Nunca Volver\u00e1",
+        "url": "https://open.spotify.com/album/5TYYit4UtzwyLZV4bfP6Lv"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+        },
+        {
+          "name": "Sebas Collarte",
+          "url": "https://open.spotify.com/artist/00LXIEIH3G9E4NaduFkuyQ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156847,
+      "name": "Y Nunca Volver\u00e1",
+      "url": "https://open.spotify.com/track/6rRoFIoqhUtvAAwtVyAral"
     },
     {
       "album": {

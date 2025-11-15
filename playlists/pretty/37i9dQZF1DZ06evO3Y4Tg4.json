@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 253643,
+  "num_followers": 253705,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADuuMZ7h+O/YOgNB3FpkhXy",
+  "snapshot_id": "aRUfgAAAAADzuIFSOjFGO419J0hQzn2m",
   "tracks": [
     {
       "added_at": null,
@@ -314,15 +314,11 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 271898,
-      "name": "Selfish (feat. James Blake)",
-      "url": "https://open.spotify.com/track/4lhOzoYujY5YD3anyw68hp"
+      "duration_ms": 277765,
+      "name": "The Boy Who Played the Harp",
+      "url": "https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN"
     },
     {
       "added_at": null,
@@ -394,11 +390,15 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 277765,
-      "name": "The Boy Who Played the Harp",
-      "url": "https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN"
+      "duration_ms": 271898,
+      "name": "Selfish (feat. James Blake)",
+      "url": "https://open.spotify.com/track/4lhOzoYujY5YD3anyw68hp"
     },
     {
       "added_at": null,

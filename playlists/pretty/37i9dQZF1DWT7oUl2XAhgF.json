@@ -1,13 +1,61 @@
 {
   "description": "A new take on a classic sound. Cover: Sekou",
-  "num_followers": 378755,
+  "num_followers": 378880,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJb395mMC9GGOHcWRw0sFIQAurCI",
+  "snapshot_id": "AAAAAECHIrSwVvt1ehNaI7Ph9aGVGLA8",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "Dreaming / What About Me?",
+        "url": "https://open.spotify.com/album/2vgae29PUqVE30peZS7IK2"
+      },
+      "artists": [
+        {
+          "name": "Taylor Williams",
+          "url": "https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "What About Me?",
+      "url": "https://open.spotify.com/track/6Oro2FQdBJd8BOtGEFbyel"
+    },
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 264124,
+      "name": "Day To Night",
+      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
+    },
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "Who's That?",
+        "url": "https://open.spotify.com/album/6MZMjfXMFWhC4OdCtjDMje"
+      },
+      "artists": [
+        {
+          "name": "Brother Wallace",
+          "url": "https://open.spotify.com/artist/1Obi4nLN1WU3jho5LoPV5Z"
+        }
+      ],
+      "duration_ms": 168356,
+      "name": "Who's That?",
+      "url": "https://open.spotify.com/track/1k3BQsoJIzyBLVcvaix8gb"
+    },
     {
       "added_at": "2025-10-24 04:00:03",
       "album": {
@@ -75,6 +123,22 @@
       "duration_ms": 183874,
       "name": "Things Gotta Change",
       "url": "https://open.spotify.com/track/5aOeaLKF1v0CEDv7GRxsJv"
+    },
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "In Orbit",
+        "url": "https://open.spotify.com/album/5leolC7OvoQGbX1Hn1UxYe"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 160938,
+      "name": "In Orbit",
+      "url": "https://open.spotify.com/track/2kIf597NUWIpU5oDUpl0Rl"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -163,22 +227,6 @@
       "duration_ms": 215880,
       "name": "Tired of Missing You - Radio Edit",
       "url": "https://open.spotify.com/track/0exhPe2ST90UidadzvLeiT"
-    },
-    {
-      "added_at": "2025-10-10 04:00:20",
-      "album": {
-        "name": "Never Love",
-        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 210203,
-      "name": "Never Love",
-      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
     },
     {
       "added_at": "2025-10-03 04:00:47",
@@ -873,26 +921,6 @@
       "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
     },
     {
-      "added_at": "2025-05-02 13:46:06",
-      "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/5qKeXbW7HY6yxXHBZmW5EP"
-      },
-      "artists": [
-        {
-          "name": "Taylor Williams",
-          "url": "https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F"
-        },
-        {
-          "name": "Leroi Conroy",
-          "url": "https://open.spotify.com/artist/2PByfnZrAVQUWdsUwZDQUw"
-        }
-      ],
-      "duration_ms": 170386,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/0scJw0FWIuCIYmy1oyhVud"
-    },
-    {
       "added_at": "2025-04-25 04:00:41",
       "album": {
         "name": "Good To Be Here",
@@ -1569,22 +1597,6 @@
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Mom Of Mine",
-        "url": "https://open.spotify.com/album/3yLcGl1XWkFgvyxos4d0iN"
-      },
-      "artists": [
-        {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
-        }
-      ],
-      "duration_ms": 187456,
-      "name": "Mom Of Mine",
-      "url": "https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Defence EP",
@@ -1631,42 +1643,6 @@
       "duration_ms": 219256,
       "name": "Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "In Limbo",
-        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Ironsides",
-          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "In Limbo",
-      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT"
-      },
-      "artists": [
-        {
-          "name": "Joseph Lawrence",
-          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
-        }
-      ],
-      "duration_ms": 164568,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf"
     },
     {
       "added_at": "2024-03-29 04:01:00",

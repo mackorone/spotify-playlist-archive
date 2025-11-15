@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Metrik
 
-1,080 songs - 2 day 15 hr 40 min
+1,081 songs - 2 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [One More Time](https://open.spotify.com/track/1gewxLCOFAUMimCaClzZEc) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [One More Time](https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM) | 3:25 | 2025-03-14 | 2025-07-18 |
 | [One More Time](https://open.spotify.com/track/2j19fCLE6ZJFIfTyURMmbj) | [Drumsound & Bassline Smith](https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh) | [One More Time](https://open.spotify.com/album/3MMlRKvRjdexYHISdzMe8w) | 3:28 | 2024-08-08 | 2025-01-31 |
 | [One Wish](https://open.spotify.com/track/3hUeXYbGUmF3WLd2dlOdBd) | [Brookes Brothers](https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6), [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [One Wish](https://open.spotify.com/album/6Nk0QDeEEQk9n4li58rIu2) | 2:48 | 2024-11-29 | 2025-03-14 |
+| [Only One](https://open.spotify.com/track/2UUMfNa3jCx5eeHav0IpPe) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Ascension](https://open.spotify.com/album/1AzxHSUa7SbJHC9Q6qYnrk) | 3:22 | 2025-11-14 |  |
 | [Only One](https://open.spotify.com/track/4ZVuzneHQe4sAdX7akCtQy) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Fever / Only One](https://open.spotify.com/album/5JxEXODcM20EdpYuEtyghS) | 4:23 | 2022-08-24 | 2022-09-02 |
 | [Only You](https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Only You](https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i) | 3:29 | 2022-12-02 | 2023-09-08 |
 | [ONLY YOU](https://open.spotify.com/track/0e6Yv9ix0JZUSjhJfszFpt) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [ONLY YOU](https://open.spotify.com/album/1vzqgsY6UC697Hc9YZcO1g) | 2:28 | 2025-09-11 |  |
@@ -794,7 +795,7 @@
 | [Round To Ya Speaker](https://open.spotify.com/track/2KriMN9ZBNzSVYG7geNFs7) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Round To Ya Speaker](https://open.spotify.com/album/2Kxv5sZ3hrzF9xmXMlim3U) | 3:06 | 2023-09-08 | 2023-12-08 |
 | [Rowdy \(BLAOW!\)](https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Rowdy \(BLAOW!\)](https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i) | 2:23 | 2025-08-14 |  |
 | [Rude Girl](https://open.spotify.com/track/6mBHV3DGl88Gi9UPZm5J14) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0), [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Rude Girl](https://open.spotify.com/album/1ZyvQdn4aJM6uqt1rnOfJP) | 3:50 | 2022-04-08 | 2022-04-21 |
-| [RUDEBOI](https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq) | [RUDEBOI](https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj) | 3:24 | 2025-08-28 |  |
+| [RUDEBOI](https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq) | [RUDEBOI](https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj) | 3:24 | 2025-08-28 | 2025-11-15 |
 | [Run \(Part 2\)](https://open.spotify.com/track/4fHA7LND4vwqDmTGeJ4pw2) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 2\)](https://open.spotify.com/album/5OtPOcB7CqVhiXujPZuNuK) | 2:29 | 2024-04-12 | 2024-11-01 |
 | [Run From You](https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Run From You](https://open.spotify.com/album/5EY4emNooAmEsHDquKD104) | 2:47 | 2023-12-01 | 2024-06-21 |
 | [Run Sound](https://open.spotify.com/track/5NJQNKmSMsZgkAE6QjOYS5) | [Yemi](https://open.spotify.com/artist/21ujgB2lJW9NT1D46pWuDj) | [Run Sound](https://open.spotify.com/album/1Ad4UI9JleYLNNtT7xcWVu) | 5:05 | 2022-07-07 | 2022-09-02 |

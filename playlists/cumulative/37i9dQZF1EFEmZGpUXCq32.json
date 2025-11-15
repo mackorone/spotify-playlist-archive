@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171596,
+      "name": "RATHER BE",
+      "url": "https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e"
+    },
+    {
+      "album": {
         "name": "Eternal Echoes",
         "url": "https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb"
       },

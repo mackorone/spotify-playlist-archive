@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Vicente Cifuentes
+> Todo el sonido indie de Chile\. Foto: Bocho & Riola
 
-552 songs - 1 day 9 hr 1 min
+555 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Buscamos \(Deluxe\)](https://open.spotify.com/track/2aDKwkrIalbfjDofSjL9Ya) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos \(Deluxe\)](https://open.spotify.com/album/7KxIgITgIEWpIybYb4nAD3) | 4:03 | 2025-07-02 | 2025-07-19 |
 | [Buscar la Luz](https://open.spotify.com/track/2jL1b5zab3ssJCw0fQcdKM) | [Don't Chase the Lizard](https://open.spotify.com/artist/0uC3fovB5pLGi48M5N3NEl) | [Buscar la Luz](https://open.spotify.com/album/2CM4kksvNIaHEuyOV1IERt) | 3:57 | 2022-04-15 | 2022-07-28 |
 | [Bésame Lento](https://open.spotify.com/track/3wH2qmBQMzjfZmrP0n01hJ) | [Problemas en París](https://open.spotify.com/artist/69TnVoKdyNcBHkkXPdkT94) | [Bésame Lento](https://open.spotify.com/album/0uqbYyRb1mAM55Rgwi6CvO) | 2:54 | 2024-12-06 |  |
+| [Cadáver Exquisito](https://open.spotify.com/track/7HGBuWb3BK8Jrm8P41JqY0) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Cadáver Exquisito](https://open.spotify.com/album/0ZL1tWkONIMUu7CjuQ3HEe) | 4:23 | 2025-11-14 |  |
 | [Cae la Noche](https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2), [Exe](https://open.spotify.com/artist/3GmyHz0dg5CbySGx3j9lOd) | [Cae la Noche](https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR) | 3:10 | 2022-10-28 | 2024-08-24 |
 | [Caer](https://open.spotify.com/track/3zjMO8cxIokdbEPWf7zU1Y) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Caer](https://open.spotify.com/album/6IG8ERwXo9fBFdpUKfSiKV) | 3:47 | 2022-04-15 | 2022-07-26 |
 | [Caliope](https://open.spotify.com/track/7npPZabH0RxwxDrHyosMmt) | [Solución Violeta](https://open.spotify.com/artist/2OsFVQeJTSaO3BcwFC8GXe) | [Caliope](https://open.spotify.com/album/49t7J5Pe7Lro9n9sN9NRmv) | 3:38 | 2022-04-15 | 2022-07-25 |
@@ -531,6 +532,7 @@
 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 | 2023-03-31 | 2023-09-30 |
 | [Venus](https://open.spotify.com/track/485YGGmmfVXoURU9WePNPk) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/3O1CEge2yagoOo3ufClQ8n) | 4:00 | 2022-07-22 | 2022-12-10 |
 | [Venus](https://open.spotify.com/track/76SsQhqJ5VaHoQLvWgaB3x) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/5dMNce8X1rbwCsLL2Vmnn2) | 4:00 | 2022-04-15 | 2022-07-28 |
+| [Verme \- Acústica](https://open.spotify.com/track/1GAE341bT1bLmXRM18jDez) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Verme \(Acústica\)](https://open.spotify.com/album/2vJuwueCrc3WwsLAlOFc7X) | 3:04 | 2025-11-14 |  |
 | [Verte](https://open.spotify.com/track/2aQCNOBuD81IsgT3goC56A) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP), [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Verte](https://open.spotify.com/album/0nc4VKUR3tWPFt1K7WJwIm) | 3:45 | 2023-08-11 | 2024-08-17 |
 | [Viajar](https://open.spotify.com/track/4b0ZUkdR9I3gzheXwGpNum) | [Planeta Audaz](https://open.spotify.com/artist/3ujqpR2peYwssiN7McMIW7) | [Viajar](https://open.spotify.com/album/5IiLPLPLVjRNspfw2mvj24) | 3:38 | 2022-07-29 | 2022-08-13 |
 | [Viaje al Kilómetro Cero](https://open.spotify.com/track/2U4LnZ1NRQVrs2omVcpY2M) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Aurora](https://open.spotify.com/album/4YL39TFWCRRMd9R7fijYoc) | 4:21 | 2023-12-07 | 2024-06-08 |
@@ -547,6 +549,7 @@
 | [Vía Contemplativa](https://open.spotify.com/track/2EdsfzRhbmOZVN9g8WY09R) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:56 | 2022-10-14 | 2023-01-28 |
 | [XAT \- Juanita La O Remix](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-04-15 | 2025-02-15 |
 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-04 | 2024-04-06 |
+| [Y Nunca Volverá](https://open.spotify.com/track/6rRoFIoqhUtvAAwtVyAral) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Sebas Collarte](https://open.spotify.com/artist/00LXIEIH3G9E4NaduFkuyQ) | [Y Nunca Volverá](https://open.spotify.com/album/5TYYit4UtzwyLZV4bfP6Lv) | 2:36 | 2025-11-14 |  |
 | [Y Vuelve a Pensar en Ti](https://open.spotify.com/track/1l8LkNw2Mh0eLLlaab7Xij) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Y Vuelve a Pensar en Ti](https://open.spotify.com/album/0DJWl4maPeqSR4QmiDCeWW) | 4:40 | 2022-04-15 | 2022-07-20 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-04-15 | 2023-05-01 |
 | [Ya No Te Quiero](https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Ya No Te Quiero](https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy) | 3:17 | 2023-01-06 |  |

@@ -7719,8 +7719,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Informaci\u00f3n S\u00edsmica",
+        "url": "https://open.spotify.com/album/5XkSt6ckJGQP2sQgN8yAnO"
       },
       "artists": [
         {
@@ -20667,8 +20667,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Punto Nemo",
+        "url": "https://open.spotify.com/album/20O5TdSq7FwwD74rbak0sk"
       },
       "artists": [
         {
@@ -46490,12 +46490,16 @@
         {
           "name": "Proux",
           "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
+        },
+        {
+          "name": "JKRNDA",
+          "url": "https://open.spotify.com/artist/3HaNVNrs7ScUtOpBnxuxSU"
         }
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192000,
+      "duration_ms": 191538,
       "name": "Formas de volver a casa",
       "url": "https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI"
     },

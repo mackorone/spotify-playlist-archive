@@ -4,7 +4,7 @@
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: Cobuz & Bustta, Beéle
 
-82 songs - 4 hr 34 min
+83 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 | 2024-05-10 | 2025-01-18 |
 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 | 2025-01-17 |  |
 | [Choir Roads](https://open.spotify.com/track/6VOLVcWyy5Rf0vSPYYN4JT) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Tálita](https://open.spotify.com/artist/18OPt8obRRChUWsZjRVqUx) | [Choir Roads](https://open.spotify.com/album/6R2CCusiNwKkFUj8HoHOYi) | 3:17 | 2023-08-18 |  |
+| [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 |  |
 | [Dale](https://open.spotify.com/track/4jMTSIsfNucOQmnake770S) | [DJ Goozo](https://open.spotify.com/artist/5tnFFb9eJcPTwYReZWR8Zj), [Massianello](https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7), [Di Dross](https://open.spotify.com/artist/1T4m9H4LGqdpXISE3VVEZ7) | [Dale](https://open.spotify.com/album/2NYGDO7TsqBv1IeuVVD3Tb) | 3:33 | 2023-08-18 |  |
 | [DANCING](https://open.spotify.com/track/3ZYm4CJkAxsW623k2rlgbK) | [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI), [Kof](https://open.spotify.com/artist/32udpvcxCMsZ86JrmFD59a), [STÖRIE MUSIC](https://open.spotify.com/artist/3QMx1pN3uOTn188FWNHVwf) | [DANCING](https://open.spotify.com/album/46NAb5G474W5PKKw8Gz9ZM) | 2:14 | 2023-08-18 |  |
 | [Dancing](https://open.spotify.com/track/4uRx9FjP15Z4Yiy6P0Z4lN) | [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI), [Kof](https://open.spotify.com/artist/32udpvcxCMsZ86JrmFD59a), [STÖRIE MUSIC](https://open.spotify.com/artist/3QMx1pN3uOTn188FWNHVwf) | [Dancing](https://open.spotify.com/album/49q4hEuHz3TbmMpAbLm0Xb) | 2:14 | 2023-08-18 | 2024-04-19 |
@@ -55,7 +56,7 @@
 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 | 2024-05-10 |  |
 | [Morenito](https://open.spotify.com/track/5C4lyumkhkQsNPTfqID2gk) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY) | [Morenito](https://open.spotify.com/album/5medqeaiGFGL8kW9gKMiGO) | 3:10 | 2023-08-18 | 2024-04-19 |
 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 | 2023-08-18 |  |
-| [neon lover](https://open.spotify.com/track/6YaQ2f40fCn5xBySaXHDQg) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [neon lover](https://open.spotify.com/album/2HICIGI5RJRALblqaBIhHV) | 3:58 | 2023-08-18 |  |
+| [neon lover](https://open.spotify.com/track/6YaQ2f40fCn5xBySaXHDQg) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [neon lover](https://open.spotify.com/album/2HICIGI5RJRALblqaBIhHV) | 3:58 | 2023-08-18 | 2025-11-15 |
 | [Neverita](https://open.spotify.com/track/2xms7bVgVIszeNtYCV9LVm) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Neverita](https://open.spotify.com/album/7efd1iBzVfBeVvtwh1C7hL) | 3:34 | 2023-08-18 |  |
 | [Neón](https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Neón](https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9) | 3:16 | 2023-08-18 |  |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2023-08-18 |  |

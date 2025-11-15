@@ -786,7 +786,7 @@
 | [Your Kiss Tastes Like Poison](https://open.spotify.com/track/1vNywMGtUHuU0WBpouyNO7) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f) | [Analog Tapes](https://open.spotify.com/album/0yHtaaDVLW9DOpzM9nWrs1) | 2:40 | 2023-06-12 | 2023-06-26 |
 | [yupyupyup!](https://open.spotify.com/track/36dyTYh7Yqr3mXLjwaXM76) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [yupyupyup!](https://open.spotify.com/album/7tpUVeVU3i2FgYLhTwfYud) | 1:24 | 2023-12-16 | 2024-03-09 |
 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 | 2023-06-12 |  |
-| [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2023-06-12 |  |
+| [Судно \(Борис Рыжий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2023-06-12 |  |
 | [Ты и Я \- TikTok Remix](https://open.spotify.com/track/22sQjY9bOaw2ZaIvD0WXZY) | [Mooney Tunes](https://open.spotify.com/artist/6E0mkX5e82a2mza83653qh), [yeanix](https://open.spotify.com/artist/6tqRPlUavLUI398ZRw7M6e) | [Ты и Я \(TikTok Remix\)](https://open.spotify.com/album/7JGf5iNkvRJXWztNIKLXVm) | 3:02 | 2023-06-12 |  |
 
 \*This playlist was first scraped on 2023-06-15. Prior content cannot be recovered.

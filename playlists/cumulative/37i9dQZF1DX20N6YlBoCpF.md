@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Tasha, Brendan Peyper, Robbie Wessels, CHARLIZE BERG en meer!
 
-2,187 songs - 5 day 1 hr 34 min
+2,188 songs - 5 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -978,6 +978,7 @@
 | [Katryn](https://open.spotify.com/track/0cNvN35zCMzzhQMXaXPuG7) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw) | [Katryn](https://open.spotify.com/album/6sON5ohKeZacsrdHehrj65) | 2:53 | 2024-03-07 | 2024-04-05 |
 | [Katryn](https://open.spotify.com/track/6EpiwZ97F7a1QGJjrFgNQa) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Katryn](https://open.spotify.com/album/4JV0GUHV7tdrkWoIudqof8) | 3:51 | 2024-05-02 | 2024-06-01 |
 | [Kattekaia](https://open.spotify.com/track/2TLXLqMSAwVQS7J45J9IZW) | [Petronel Baard](https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG) | [Kattekaia](https://open.spotify.com/album/1UwK1XQMRSgV1WHblMB7UP) | 3:52 | 2025-11-06 | 2025-11-14 |
+| [Kaya](https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [TV TYD](https://open.spotify.com/album/45FgzSHsqjuC02qD71Ar6a) | 3:24 | 2025-11-13 |  |
 | [Keer op Keer](https://open.spotify.com/track/1hagUIwns5JCrteLuWoDvf) | [NIKOTIEN](https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0) | [Keer op Keer](https://open.spotify.com/album/1KjsBhJdZjGOOLDJARpRnL) | 3:26 | 2025-05-29 | 2025-06-13 |
 | [Keer Op Keer](https://open.spotify.com/track/1j8Pra1QdScblXgxvGM2wi) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Keer Op Keer](https://open.spotify.com/album/0YATePNMQT8qM58CoaSwBe) | 3:57 | 2024-05-09 | 2024-07-05 |
 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 | 2025-06-12 | 2025-07-04 |
@@ -1075,6 +1076,7 @@
 | [Kwagga Karnaval](https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kwagga Karnaval](https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc) | 3:30 | 2023-08-24 | 2023-12-01 |
 | [Kwart Voor Agt](https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu) | [Lliam Meredith](https://open.spotify.com/artist/4sPxPaCiavoNQIVjvXqJG9) | [Kwart Voor Agt](https://open.spotify.com/album/4xBSzNEi7mGjeLmZd3GGAN) | 2:29 | 2023-11-23 | 2023-12-08 |
 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 | 2025-02-06 | 2025-05-23 |
+| [Kyk My In Die Oë](https://open.spotify.com/track/5wQjfLLz7V8iMkPxozbf2b) | [Vanja Oosthuizen](https://open.spotify.com/artist/02szBJDh5o7O7UyrK1olDj) | [Kyk My In Die Oë](https://open.spotify.com/album/5DjtBm3Edyr3oJPpAs0oIv) | 3:27 | 2025-11-14 |  |
 | [Kyk na my](https://open.spotify.com/track/5Mk0k7yeXSQoHIDE5JOFdz) | [Carlissa](https://open.spotify.com/artist/4DnxYe01g800MpVYYvN74l) | [Kyk na my](https://open.spotify.com/album/0siJeyRAGAQuFKrfGkXPcv) | 3:09 | 2023-08-24 | 2023-09-08 |
 | [Kyk Na My Hart](https://open.spotify.com/track/0MK6DC0tKJlRC2P938mn72) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Na My Hart](https://open.spotify.com/album/5YQ1Mb9vlbQcNlfIfxIygq) | 2:47 | 2022-12-27 | 2023-01-02 |
 | [Kyk Noord](https://open.spotify.com/track/5lGcJ5skCclQrGdIpPYcYp) | [Calista Jacobs](https://open.spotify.com/artist/1MtTKEOFP83JEQ7MwIUDBs) | [Kyk Noord](https://open.spotify.com/album/0dVxyMtCleT8dNGtLJjWqY) | 3:54 | 2025-10-23 | 2025-10-31 |
@@ -1921,7 +1923,6 @@
 | [Tot Die Hane Kraai](https://open.spotify.com/track/6ZRJXfdin2BvNaNNJv4zaE) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Tot Die Hane Kraai](https://open.spotify.com/album/4eTLxQIXhAXmmaU06cC30y) | 3:28 | 2025-04-24 | 2025-07-25 |
 | [Tot Tyd My Red](https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Tot Tyd My Red](https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C) | 3:54 | 2024-07-18 | 2024-07-27 |
 | [Totsiens](https://open.spotify.com/track/6BhA6x3RdgId5E8vrWGNHG) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Totsiens](https://open.spotify.com/album/5EFwOSXHsxpFAvSdXorPyw) | 2:44 | 2025-11-13 |  |
-| [Track 1](https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Transkei](https://open.spotify.com/track/2o9jYylPOF7mOAF54iMwno) | [Sarel Kleinhans](https://open.spotify.com/artist/1nruqwJit4t0rxlbF0wjBv) | [Transkei](https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm) | 3:27 | 2022-12-01 | 2023-02-17 |
 | [Trap Diep](https://open.spotify.com/track/1rVH54VvvAFeTKmdTJlH2Y) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Trap Diep](https://open.spotify.com/album/21CUAZLgw6FlkkzJAQPt9l) | 2:57 | 2025-09-25 |  |
 | [Treffers vir Tannies](https://open.spotify.com/track/7BlZyyyaCjZeuRNRdb98ig) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf), [SAMPAULE](https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8) | [Treffers vir Tannies](https://open.spotify.com/album/0NbLj5sQbqOqQEyLVoCbhp) | 3:42 | 2023-09-21 | 2023-10-07 |

@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/6qwfIbsIAWRYseqzehOWUa"
+      },
+      "artists": [
+        {
+          "name": "Hagen Feetly",
+          "url": "https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306885,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/3cxmCRKwyEkcsteeW4LYrO"
+    },
+    {
+      "album": {
         "name": "The Pledge",
         "url": "https://open.spotify.com/album/0P5y0hMzOkHwcxjhBIAnHQ"
       },

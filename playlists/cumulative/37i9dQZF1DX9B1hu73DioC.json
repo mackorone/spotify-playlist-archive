@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192546,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX"
+    },
+    {
+      "album": {
         "name": "Average Guy (Blame)",
         "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
       },
@@ -4204,7 +4222,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 199403,
       "name": "DANCING WITHOUT MOVING",
       "url": "https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1"
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
@@ -5534,6 +5552,28 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
     },
     {
       "album": {
@@ -6060,6 +6100,28 @@
       "duration_ms": 158000,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL"
+    },
+    {
+      "album": {
+        "name": "Fool Moon (Cruised) / Swan AAA +1",
+        "url": "https://open.spotify.com/album/5ukVoKIQuNe467KeCeYk01"
+      },
+      "artists": [
+        {
+          "name": "Crash Richard",
+          "url": "https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF"
+        },
+        {
+          "name": "Kosta G",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Fool Moon (Cruised) Feat. PWNT",
+      "url": "https://open.spotify.com/track/5EvRDvtQFIAsbr6ucVD4mM"
     },
     {
       "album": {
@@ -9392,7 +9454,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 224287,
       "name": "Kneel",
       "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
@@ -9599,7 +9661,7 @@
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 256480,
+      "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     },
@@ -15142,7 +15204,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 249813,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
@@ -18070,6 +18132,24 @@
       "duration_ms": 228000,
       "name": "White Jeans",
       "url": "https://open.spotify.com/track/3XRYirzvskaVLlGS9s4lJd"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
       "album": {

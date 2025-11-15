@@ -14807,6 +14807,28 @@
     },
     {
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/1AzxHSUa7SbJHC9Q6qYnrk"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202379,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/2UUMfNa3jCx5eeHav0IpPe"
+    },
+    {
+      "album": {
         "name": "Fever / Only One",
         "url": "https://open.spotify.com/album/5JxEXODcM20EdpYuEtyghS"
       },
@@ -17232,7 +17254,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 204342,
       "name": "RUDEBOI",
       "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"

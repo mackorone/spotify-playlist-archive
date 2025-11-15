@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-867 songs - 1 day 17 hr 55 min
+869 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Alpha Lupi](https://open.spotify.com/track/1cL02nUAGcbSZFE8rJuK4I) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Alpha Lupi](https://open.spotify.com/album/7JwcCMKHFkPslad9qn6yy1) | 3:16 | 2024-05-04 | 2025-03-06 |
 | [Altai](https://open.spotify.com/track/2Vd91FjcKOHXn8kiFv0gnV) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Altai](https://open.spotify.com/album/3xbZExB6U4whgGNV1OP5LW) | 3:17 | 2023-03-23 | 2024-02-09 |
 | [Alternate](https://open.spotify.com/track/2MhNUKofEWVAGA3CdiL6i7) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Alternate](https://open.spotify.com/album/0gItWf24uY8fPX9aGss4kT) | 3:15 | 2025-06-12 | 2025-06-26 |
-| [Altitude](https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Altitude](https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j) | 3:02 | 2024-08-30 |  |
+| [Altitude](https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Altitude](https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j) | 3:02 | 2024-08-30 | 2025-11-15 |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2023-03-23 | 2024-02-09 |
 | [Ancient Calm](https://open.spotify.com/track/61Nh3AZTeyO41688TfNmw7) | [Gabriel Carter](https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr) | [Ancient Calm](https://open.spotify.com/album/39muA5z5ivtLfO1qOnzOlI) | 2:50 | 2024-02-08 | 2024-08-17 |
 | [Anheral Motions](https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Anheral Motions](https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0) | 2:56 | 2025-04-23 |  |
@@ -141,6 +141,7 @@
 | [Cassiopeia](https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh) | [Elysian Lotus](https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w) | [Cassiopeia](https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6) | 2:55 | 2024-03-20 | 2025-03-04 |
 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 | 2023-03-23 | 2024-01-18 |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2023-03-23 | 2024-02-09 |
+| [Celestia](https://open.spotify.com/track/1KL3vXV6GaClrlhNkt1TR9) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Celestia](https://open.spotify.com/album/7HoO3mUB1L6mRK5BP6kidR) | 2:44 | 2025-11-12 |  |
 | [Celestial Bliss](https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Celestial Bliss](https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1) | 2:36 | 2024-10-14 | 2025-03-28 |
 | [Celestial Drift](https://open.spotify.com/track/7tShTLflfkgBxjMEFs6N8l) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Celestial Drift](https://open.spotify.com/album/4xgtSnUGTIyIPA7oZQsCWX) | 3:00 | 2024-01-17 | 2024-03-07 |
 | [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 | 2025-02-04 |  |
@@ -296,7 +297,7 @@
 | [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-20 | 2025-03-20 |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2023-03-23 | 2024-02-09 |
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2023-03-23 | 2024-01-18 |
-| [Evergreen](https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Evergreen](https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT) | 2:57 | 2025-01-22 |  |
+| [Evergreen](https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Evergreen](https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT) | 2:57 | 2025-01-22 | 2025-11-15 |
 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 | 2023-03-23 | 2024-02-09 |
 | [Existing](https://open.spotify.com/track/74uFbc3D8QpxBn5CObGShi) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Existing](https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq) | 2:48 | 2024-06-18 | 2025-01-27 |
 | [Expand](https://open.spotify.com/track/1jNIpsh1YfqUWNYmn6ajio) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Expand](https://open.spotify.com/album/24ILC50IPCP0rTdG8p5PLH) | 3:02 | 2024-03-06 | 2024-03-21 |
@@ -457,6 +458,7 @@
 | [Lost Love](https://open.spotify.com/track/7tA9WVX94fVUUu4IJIY89u) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Lost Love](https://open.spotify.com/album/0LZxDPJn8HdgZKFuN0O77l) | 3:07 | 2023-03-23 | 2024-03-21 |
 | [Love and Light](https://open.spotify.com/track/4KHtSL1CTl3mLQUmeS0FzZ) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Love and Light](https://open.spotify.com/album/0BEXzf1T4SsA7dwfY1gLRz) | 2:52 | 2024-06-18 | 2025-02-09 |
 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 | 2023-03-23 | 2023-05-06 |
+| [Lueur Douce](https://open.spotify.com/track/2sVWZpQoXINyHwERzoR7Xi) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Lueur Douce](https://open.spotify.com/album/4wmfSjubmk2BXI6kJmJqmA) | 2:57 | 2025-11-12 |  |
 | [Lumination](https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Lumination](https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l) | 3:27 | 2024-05-04 | 2024-06-19 |
 | [Luminescence](https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Luminescence](https://open.spotify.com/album/3TvEUPEaYRKxhQW4A7sAWu) | 2:45 | 2025-04-23 |  |
 | [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 | 2025-05-10 |

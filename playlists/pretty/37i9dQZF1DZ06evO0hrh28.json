@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 255964,
+  "num_followers": 256014,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAAAPCghbEDnHKBpYLD4zfGby",
+  "snapshot_id": "aRUfgAAAAAAJN2Cm9bX2eCXp4ppnSaXR",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+        "name": "Maldita Noche (En Vivo Estadio V\u00e9lez)",
+        "url": "https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH"
       },
       "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+      "duration_ms": 210265,
+      "name": "Maldita Noche - En Vivo Estadio V\u00e9lez",
+      "url": "https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita Noche (En Vivo Estadio V\u00e9lez)",
-        "url": "https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH"
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
       },
       "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 210265,
-      "name": "Maldita Noche - En Vivo Estadio V\u00e9lez",
-      "url": "https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg"
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": null,

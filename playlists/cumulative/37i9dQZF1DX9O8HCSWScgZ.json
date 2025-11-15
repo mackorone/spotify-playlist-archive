@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "better now",
+        "url": "https://open.spotify.com/album/3KD6OsBHPM4rdgOoC8Mvqf"
+      },
+      "artists": [
+        {
+          "name": "someday",
+          "url": "https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv"
+        },
+        {
+          "name": "luvlke",
+          "url": "https://open.spotify.com/artist/0WJ5QJgC73ewvwBJxWaOL5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123243,
+      "name": "better now",
+      "url": "https://open.spotify.com/track/2ByqEThv5LxOa8RFQvbYaO"
+    },
+    {
+      "album": {
         "name": "Big Fish",
         "url": "https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT"
       },
@@ -551,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/3ijTFD3sB9h3JpvMIgEvg1"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8",
+          "url": "https://open.spotify.com/artist/7bT0YuIs8yW2B9Ey8Ybawu"
+        },
+        {
+          "name": "Hilaria",
+          "url": "https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/4CRhSBDTG5VQHbwYtVVDYe"
+    },
+    {
+      "album": {
         "name": "Ends",
         "url": "https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc"
       },
@@ -677,6 +721,28 @@
     },
     {
       "album": {
+        "name": "Flyby",
+        "url": "https://open.spotify.com/album/4ZfTRNGlBaIXEH5k7koxdn"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Flyby",
+      "url": "https://open.spotify.com/track/7hvKs1QExyqoHT0efd3yIG"
+    },
+    {
+      "album": {
         "name": "flying on the clouds",
         "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
       },
@@ -688,7 +754,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 145687,
       "name": "flying on the clouds",
       "url": "https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4"
@@ -706,7 +772,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 151578,
       "name": "fragile",
       "url": "https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV"
@@ -1281,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/4lAPtfrcpeNTRoU2Fsd1YU"
+      },
+      "artists": [
+        {
+          "name": "Golden Mist",
+          "url": "https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115714,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/6dLitvcM1cVRQV1vN2jxGM"
+    },
+    {
+      "album": {
         "name": "mirror maze",
         "url": "https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp"
       },
@@ -1364,7 +1448,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 143360,
       "name": "nightvision",
       "url": "https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d"
@@ -1764,7 +1848,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 163214,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx"

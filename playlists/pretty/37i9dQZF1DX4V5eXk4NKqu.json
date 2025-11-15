@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Buscabulla.",
-  "num_followers": 168196,
+  "num_followers": 168197,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
-        "name": "palacio <3",
-        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "palacio <3",
-      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 195928,
       "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
+        "name": "palacio <3",
+        "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "palacio <3",
+      "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
     },
     {
       "added_at": "2025-07-16 15:57:28",
@@ -771,42 +771,6 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
-        "name": "Life Is A Movie",
-        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Life Is A Movie",
-      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
-        "name": "VISTO",
-        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "VISTO",
-      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
         "name": "2mil horas",
         "url": "https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC"
       },
@@ -827,6 +791,22 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
+        "name": "Life Is A Movie",
+        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Life Is A Movie",
+      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 98210,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
+        "name": "VISTO",
+        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "VISTO",
+      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
     },
     {
       "added_at": "2025-07-16 15:57:28",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
-        "name": "Amor Artificial",
-        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Amor Artificial",
-      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
         "name": "ALGO ESPECIAL",
         "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 205067,
       "name": "ALGO ESPECIAL",
       "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
+        "name": "Amor Artificial",
+        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Amor Artificial",
+      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
     },
     {
       "added_at": "2025-07-16 15:57:28",

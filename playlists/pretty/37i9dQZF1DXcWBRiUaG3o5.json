@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1155166,
+  "num_followers": 1155015,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Build A Problem",
         "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "All Night Pharmacy",
-        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
-      },
-      "artists": [
-        {
-          "name": "Nathan Reich",
-          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "The Dream Song",
-      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 234546,
       "name": "Bare",
       "url": "https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "All Night Pharmacy",
+        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
+      },
+      "artists": [
+        {
+          "name": "Nathan Reich",
+          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "The Dream Song",
+      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -812,7 +812,7 @@
           "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 205821,
+      "duration_ms": 205482,
       "name": "White Frost (Acoustic)",
       "url": "https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie"
     },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Fire Escape",
         "url": "https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 210201,
       "name": "I Knew This Would Be Love",
       "url": "https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
     },
     {
       "added_at": "2024-08-23 15:12:14",

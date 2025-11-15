@@ -4700,7 +4700,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/5tIJb0C5rIbiDijHl41byE"
@@ -5058,7 +5058,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT"
@@ -7133,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "Why Her Not Me",
+        "url": "https://open.spotify.com/album/73P9jhn4cPX1ddI656iuKU"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Why Her Not Me",
+      "url": "https://open.spotify.com/track/3EUNU0AxinNe1sLh18cCUU"
+    },
+    {
+      "album": {
         "name": "Why Her Not Me - EP",
         "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
       },
@@ -7148,24 +7166,6 @@
       "duration_ms": 230640,
       "name": "Why Her Not Me",
       "url": "https://open.spotify.com/track/6xsoOjRcLB8gvjtmsQrIyq"
-    },
-    {
-      "album": {
-        "name": "Why Her Not Me",
-        "url": "https://open.spotify.com/album/73P9jhn4cPX1ddI656iuKU"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231333,
-      "name": "Why Her Not Me",
-      "url": "https://open.spotify.com/track/3EUNU0AxinNe1sLh18cCUU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-242 songs - 16 hr 55 min
+243 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Shake It \- 45](https://open.spotify.com/track/5qenhYD4ynkEEHDDwqBiEG) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 2:56 | 2020-10-30 | 2023-07-01 |
 | [Show Me](https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 4:13 | 2021-05-21 | 2024-04-19 |
 | [Show Me](https://open.spotify.com/track/2k0omPPfQU1clxnAVaUdO6) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Show Me](https://open.spotify.com/album/5I2q3XVg8rKwCLkQ0Tr4dE) | 4:13 | 2021-05-21 |  |
+| [So Funky](https://open.spotify.com/track/5QT2nznaYjxScKUJb6zMbW) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [So Funky](https://open.spotify.com/album/1JYyeZzas3aHm7NYbVaw3h) | 2:57 | 2025-11-14 |  |
 | [Something Better](https://open.spotify.com/track/0Rnq5ID0HHry0ElpjSWVPd) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Something Better](https://open.spotify.com/album/2cYWDvl2JOTinMn9A33vOj) | 4:27 | 2024-11-15 |  |
 | [Something To Do](https://open.spotify.com/track/6ZFuCHvdJbiuPrc5FTQ4Kz) | [IGBO](https://open.spotify.com/artist/7IPimpFl8df3dGRlhuKKpm) | [Something To Do](https://open.spotify.com/album/55upOKzoEcsGP1HTHD3uqF) | 4:48 | 2020-10-30 | 2022-04-09 |
 | [Soul of a Man](https://open.spotify.com/track/5mfBEBAREEg17GJ6ghJp6Z) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE) | [Music!Music!Music!](https://open.spotify.com/album/0FshnWVFxPSa0vJ9g6uo9L) | 4:49 | 2020-10-30 | 2022-04-09 |
@@ -247,7 +248,7 @@
 | [You Can Make It](https://open.spotify.com/track/04fsxHTjiYVX0B7Ybk1N2e) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj), [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [You Can Make It](https://open.spotify.com/album/0BfA48bRpjxdeqpTAH1x9l) | 3:41 | 2022-04-08 |  |
 | [You Got It](https://open.spotify.com/track/7l1rhOa9zn0Ivip8lB9m6z) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [You Got It](https://open.spotify.com/album/1eiLDvpJGJzZTNBMQgVeh1) | 2:46 | 2023-01-27 |  |
 | [You'll Be Sorry](https://open.spotify.com/track/35kDqdxX71QMxGN9TfN8Ze) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Kate McQuaide](https://open.spotify.com/artist/4LWeARGZqgnbwcLbOe2NUX) | [You'll Be Sorry](https://open.spotify.com/album/5TOVbHHY3iU7oukVDTAgD2) | 3:30 | 2020-10-30 |  |
-| [You've Got To Change](https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Berlin Sessions](https://open.spotify.com/album/0IDJHvzYJdJ95VtHUOKhqg) | 3:58 | 2020-10-30 |  |
+| [You've Got To Change](https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Berlin Sessions](https://open.spotify.com/album/0IDJHvzYJdJ95VtHUOKhqg) | 3:58 | 2020-10-30 | 2025-11-15 |
 | [Your Touch](https://open.spotify.com/track/7irxgIZPujseydOU1F9DGr) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ) | [Your Touch](https://open.spotify.com/album/0stnWhCCa90eJjTPGqVhXf) | 2:48 | 2020-10-30 | 2022-04-09 |
 | [Zodiac](https://open.spotify.com/track/7hoem34FJzzQWkAb58Tlkz) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Zodiac](https://open.spotify.com/album/02rS1XRazioI44nYLe3HtG) | 4:11 | 2021-10-15 |  |
 

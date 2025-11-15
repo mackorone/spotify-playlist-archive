@@ -1,12 +1,12 @@
 {
   "description": "Uma playlist de pura alma pop! Foto: NAPA, Jovem Dionisio",
-  "num_followers": 121391,
+  "num_followers": 121428,
   "original_name": "Pop PT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHf7ksQdhMe8PX+feDeYLWSH93yu",
+  "snapshot_id": "AAAAAGB0n2/ZKKEdlma7ODOxd8SrIUkf",
   "tracks": [
     {
       "added_at": "2025-11-14 00:00:22",
@@ -223,6 +223,26 @@
       "duration_ms": 203833,
       "name": "Quanto Tempo Tem",
       "url": "https://open.spotify.com/track/2Ydka52H6YTx151H9uB9Lf"
+    },
+    {
+      "added_at": "2025-11-14 15:33:23",
+      "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z"
+      },
+      "artists": [
+        {
+          "name": "ZARKO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y"
+        }
+      ],
+      "duration_ms": 154177,
+      "name": "1,2,3",
+      "url": "https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su"
     },
     {
       "added_at": "2025-11-14 00:00:22",
@@ -999,22 +1019,6 @@
       "duration_ms": 160600,
       "name": "Desliza",
       "url": "https://open.spotify.com/track/5CYWaMpBev0t7JgscBAeYv"
-    },
-    {
-      "added_at": "2025-11-14 00:00:22",
-      "album": {
-        "name": "Hora de Ponta",
-        "url": "https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5"
-      },
-      "artists": [
-        {
-          "name": "\u00c1TOA",
-          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
-        }
-      ],
-      "duration_ms": 196030,
-      "name": "Hora de Ponta",
-      "url": "https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6"
     },
     {
       "added_at": "2025-11-14 00:00:22",

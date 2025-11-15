@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, avec Blynk de Montréal, QC.
+> Your guide to R&B in Canada, featuring Nonso Amadi from Toronto, ON.
 
-1,505 songs - 3 day 6 hr 24 min
+1,509 songs - 3 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [B.I.T.S](https://open.spotify.com/track/5uEvNZqN8zMkVh1uVum6OM) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9) | [B.I.T.S](https://open.spotify.com/album/4mzk2FikzbYaxjsAqdfK8D) | 3:21 | 2023-09-29 | 2023-11-18 |
 | [B.O.T.B.](https://open.spotify.com/track/4vfURYHZJEmlSYqZtFGdFn) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [B.O.T.B.](https://open.spotify.com/album/0pUJmYE4ea0TElFKq2ocBv) | 3:36 | 2023-09-22 | 2023-12-02 |
 | [Baby Mother](https://open.spotify.com/track/6ORFADv7mmOJ0Ko2VcfD1F) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Stuart Brignell](https://open.spotify.com/artist/4EWsTyHQ5GG3EoffwiXiRd) | [Baby Mother](https://open.spotify.com/album/7ayBY19uK7nYo1I8p3TFW0) | 4:35 | 2022-04-29 | 2022-06-25 |
+| [Baby Too Soon](https://open.spotify.com/track/5PAyRHVOC4dtgBjElnIYQ6) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [Baby Too Soon](https://open.spotify.com/album/7GLvLUYbOOJRcX1fEdmthW) | 2:37 | 2025-11-14 |  |
 | [Bach in Town](https://open.spotify.com/track/4snrlQfRoPlsXzvMNEixMB) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 3:29 | 2024-10-18 | 2024-12-07 |
 | [Bach To The Future](https://open.spotify.com/track/0CTa7Tzm3xKUtirAV2AOAR) | [Kyla Charter](https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9) | [Bach To The Future](https://open.spotify.com/album/07yiAwV5iuadm9PdRv44sw) | 2:41 | 2022-04-08 | 2022-05-14 |
 | [Back 2 You](https://open.spotify.com/track/5CbsmW5XvsBFlQEW9EthlU) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Back 2 You](https://open.spotify.com/album/6XzFYeKIsoDOdgjaAVhA66) | 2:46 | 2022-11-04 | 2023-02-11 |
@@ -363,6 +364,7 @@
 | [Drive All Night](https://open.spotify.com/track/4uQLsq21yvPaSNxTaTo2ou) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Deluxe\)](https://open.spotify.com/album/47IMZpndaX6Nl0yEKJWWCi) | 2:49 | 2023-02-24 | 2023-07-01 |
 | [Drive Me Crazy](https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7) | [Myles Lloyd](https://open.spotify.com/artist/41wsIjMll6Pp0RfsQURfTx) | [Drive Me Crazy](https://open.spotify.com/album/5cvwR7gP8SrzyOsrdvILr2) | 2:42 | 2024-11-08 | 2025-08-02 |
 | [Drop a Pin](https://open.spotify.com/track/50IS042GxssjkvKHunpTez) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Drop a Pin](https://open.spotify.com/album/2Gi5FxlL1VtrR39EmexM7F) | 3:16 | 2022-12-02 | 2023-01-14 |
+| [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 | 2025-11-14 |  |
 | [drownin.](https://open.spotify.com/track/6IAe0sByd4DMbX3rtrKxhJ) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9) | [faces.](https://open.spotify.com/album/0jsCY2oslPxNsaeZfg924D) | 3:23 | 2025-11-07 |  |
 | [Décisions](https://open.spotify.com/track/1IsmN3SzljfqVt3bdAP2Ig) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Softboy Actif 2](https://open.spotify.com/album/5GqYqD32BN1tPAH7GMN1CF) | 3:01 | 2025-11-07 |  |
 | [DÍGANLE](https://open.spotify.com/track/5tQ4Ji3zMSxy6K5F49Is71) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [DÍGANLE](https://open.spotify.com/album/1LygIM3IHShbCLPsO11W1K) | 2:00 | 2024-06-14 | 2024-08-17 |
@@ -672,6 +674,7 @@
 | [KALEIDOSCOPE LOVE](https://open.spotify.com/track/5WBYxYTFuXzDJ8vAc73aTU) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [KALEIDOSCOPE LOVE](https://open.spotify.com/album/4QxUyo9XuqpSJKCjt7Gnia) | 2:36 | 2024-02-09 | 2024-03-16 |
 | [Kauai](https://open.spotify.com/track/1eBtqzkwNl4vzpqkclynDw) | [Makadi](https://open.spotify.com/artist/1rEQ6P5WQcRxmHkH9d43Ld) | [BRGNDY](https://open.spotify.com/album/7815yHEIOhqzMytNCPelra) | 2:36 | 2022-07-01 | 2022-11-12 |
 | [Keep From Falling](https://open.spotify.com/track/2J1iMDApDGF5akWEl1spZQ) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Keep From Falling](https://open.spotify.com/album/2XrROypIe8YTa9kWrFBIaB) | 3:56 | 2023-03-24 | 2023-05-06 |
+| [Keep Tryin](https://open.spotify.com/track/2xgOt4NSJaydG1TftMsA7N) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Keep Tryin](https://open.spotify.com/album/0HMPePWQ4J5vv4Ki3FTt9r) | 2:24 | 2025-11-14 |  |
 | [Keepin' It Kool](https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Kendra Dias](https://open.spotify.com/artist/4ntiWr0UeyP1duNqALGosf) | [Keepin' It Kool](https://open.spotify.com/album/0Q0b78qSFigP7oulHLChl6) | 5:25 | 2024-03-29 | 2024-05-18 |
 | [Kemets got the blue](https://open.spotify.com/track/7q9gJns0is7XYIH3MSSud6) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Pivot//](https://open.spotify.com/album/1kbR6MjNV3oGo4dfr7mx8S) | 2:34 | 2024-09-13 | 2024-11-30 |
 | [KEOTR](https://open.spotify.com/track/3O1dNljC70IRWbUvoOOfCD) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [KEOTR](https://open.spotify.com/album/4OnFgdo3RXbRUXOOFXVxEr) | 2:58 | 2024-02-23 | 2024-06-08 |
@@ -1087,6 +1090,7 @@
 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 | 2022-06-03 | 2022-08-20 |
 | [River](https://open.spotify.com/track/3aRb3DdyPXf48WAY11I51p) | [Tendavillage](https://open.spotify.com/artist/1nOm8sUi8M1dyIAJ8B5SRc) | [River](https://open.spotify.com/album/40QSveX5LnrGmdiFZuVbyB) | 4:54 | 2023-05-19 | 2023-06-17 |
 | [RN Interlude](https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF) | [July](https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5) | [RN Interlude](https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP) | 2:26 | 2022-07-08 | 2023-07-15 |
+| [ROCK & SLIDE](https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [FRIENDS](https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS) | 2:38 | 2025-11-14 |  |
 | [Room](https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [EGO](https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ) | 2:52 | 2022-11-11 | 2023-05-27 |
 | [ROOM SERVICE](https://open.spotify.com/track/7wedmrpvuQP7k15akC0cNk) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Suite 96 \(Side A\)](https://open.spotify.com/album/5qC3HhQcxno1tkVDe9ttyg) | 3:02 | 2025-02-28 | 2025-03-29 |
 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-10-24 |  |

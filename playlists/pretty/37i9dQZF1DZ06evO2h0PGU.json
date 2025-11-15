@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 53000,
+  "num_followers": 53004,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAAD5abpANkQGqCxeXH7bMWr4",
+  "snapshot_id": "aRUfgAAAAAA28QuSqQnHGBGhoh230zq3",
   "tracks": [
     {
       "added_at": null,
@@ -116,7 +116,7 @@
       "added_at": null,
       "album": {
         "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
       "artists": [
         {
@@ -126,7 +126,7 @@
       ],
       "duration_ms": 187133,
       "name": "Gold Lion",
-      "url": "https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn"
+      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 197759,
       "name": "Thirteen - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
     },
     {
       "added_at": null,

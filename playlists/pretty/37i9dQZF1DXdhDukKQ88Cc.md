@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,018 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,014 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bobler](https://open.spotify.com/track/6zoMh03Bp5aAJhnb46ej03) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [](https://open.spotify.com/album/null) | 3:16 |
+| 1 | [Bobler](https://open.spotify.com/track/6zoMh03Bp5aAJhnb46ej03) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Menneskelige Tendenser](https://open.spotify.com/album/7wb25FsDjGO0sL1BTNqVHd) | 3:16 |
 | 2 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 |
 | 3 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 |
 | 4 | [Casablanca](https://open.spotify.com/track/6RhsEGklWBop341obhrBge) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Casablanca](https://open.spotify.com/album/0OtdCJ3w2ExSin2HkSKsav) | 2:12 |

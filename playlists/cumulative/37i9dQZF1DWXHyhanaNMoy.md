@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes! Cover: Jonna Fraser ✨
+> Motion & good vibes! Cover: Kish ✨
 
 1,565 songs - 2 day 21 hr 34 min
 
@@ -518,7 +518,7 @@
 | [Friss](https://open.spotify.com/track/26y8MJMucjn9jzCE7mHSKK) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Friss](https://open.spotify.com/album/3MENOTYTL5jvwQcEuqW3ag) | 2:23 | 2025-04-24 | 2025-07-18 |
 | [Froes](https://open.spotify.com/track/16vhRLbW2MMJYDOX9NDLXi) | [Trustt](https://open.spotify.com/artist/3HplK5nx2MVxmtMReCJkEL), [JayEliano](https://open.spotify.com/artist/1cKw3DLJk6yhRbSjsiv0Re) | [Froes](https://open.spotify.com/album/2I1EFFEBTwp4eiHPTu21Yt) | 2:04 | 2023-10-12 | 2023-10-31 |
 | [Fuck Jou Love](https://open.spotify.com/track/5d3EKdI5sTJxWFqIETLIDU) | [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [C.SMOKE](https://open.spotify.com/artist/1xeyFlAHIrORp2L0HamXb6) | [Fuck Jou Love](https://open.spotify.com/album/3gtIeyYviiL4O4FEAp3VOu) | 2:52 | 2022-09-29 | 2022-11-18 |
-| [FUMBLE](https://open.spotify.com/track/4QxbPvizMQHohfmtQHPjuD) | [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV), [Soundflow](https://open.spotify.com/artist/2HchjR72C2cvgNCswW0blD), [Skandal](https://open.spotify.com/artist/7KU29jxfjiy1NmItvKPHaE) | [FUMBLE](https://open.spotify.com/album/3o671uX2wV84CvPwSRkwXb) | 2:49 | 2025-11-06 |  |
+| [FUMBLE](https://open.spotify.com/track/4QxbPvizMQHohfmtQHPjuD) | [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV), [Soundflow](https://open.spotify.com/artist/2HchjR72C2cvgNCswW0blD), [Skandal](https://open.spotify.com/artist/7KU29jxfjiy1NmItvKPHaE) | [FUMBLE](https://open.spotify.com/album/3o671uX2wV84CvPwSRkwXb) | 2:49 | 2025-11-06 | 2025-11-15 |
 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 | 2024-12-05 | 2025-01-10 |
 | [Fyah Bun Dem](https://open.spotify.com/track/2OyMfnMRIime36z9iFbioI) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Travon John](https://open.spotify.com/artist/2VM6HZlcBPRoyj8O2N233m) | [Fyah Bun Dem](https://open.spotify.com/album/3XkzDjqSo0VuyRttQCsbw6) | 2:29 | 2025-05-29 | 2025-07-18 |
 | [FÊTE](https://open.spotify.com/track/0bcg2JI4EvnFxSUrHG4I3o) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa) | [FÊTE](https://open.spotify.com/album/5uqjckfbiL1I2l3SJITs6v) | 2:25 | 2023-10-19 | 2023-12-01 |

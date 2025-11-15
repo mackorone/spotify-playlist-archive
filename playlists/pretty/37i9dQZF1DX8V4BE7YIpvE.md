@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,171 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,272 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 99 | [Primatology](https://open.spotify.com/track/3te4nCqa852HkboUhdSL9g) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Filtered Smiles](https://open.spotify.com/album/5Pm1OsfYv0mKcgVQgg1ANb) | 2:35 |
 | 100 | [Afterimage](https://open.spotify.com/track/3m0yVxfMU7W7Mv7XGMThmy) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Afterimage](https://open.spotify.com/album/5qpJu0DYHr0jl9oWmBVJ8W) | 4:50 |
 
-Snapshot ID: `AAAAAHrGhjZT/50uNy+vyJ/l18Xf8Qzu`
+Snapshot ID: `AAAAAPfSUIvD9T82Wc0hZ8o3x2TG3hp8`

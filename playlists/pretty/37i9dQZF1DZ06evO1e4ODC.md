@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,820 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,838 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Con Manos Vacías \- En Vivo](https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Con Manos Vacías](https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO) | 7:06 |
 | 50 | [Al Estar Ante Ti \- En Vivo](https://open.spotify.com/track/6VME9YhmZh1lnqliUGnx5y) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Alejandro Del Bosque](https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h) | [Te Daré Lo Mejor \(En Vivo\)](https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc) | 6:00 |
 
-Snapshot ID: `aRPOAAAAAAC21GHCWVHsmV6u7PxKb42s`
+Snapshot ID: `aRUfgAAAAACkh1JGl34mrmSEMxNX5IMa`

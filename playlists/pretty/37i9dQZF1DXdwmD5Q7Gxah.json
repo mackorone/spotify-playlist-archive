@@ -1,12 +1,12 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/this-year-the-fall-season-is-in-bloom\">October newsletter w/ Audrey Hobert is live \ud83e\udebf</a> Cover: Charli xcx & John Cale",
-  "num_followers": 1186983,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/smerz-daniel-caesar-and-the-dawn\">November newsletter w/ Daniel Caesar & Smerz is live \ud83d\udcff</a> Cover: Charli xcx & John Cale",
+  "num_followers": 1187000,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZe8Q3AzcP/u1Zo9oNtNLxCa8+D",
+  "snapshot_id": "AAAAAEozP7fMfyLblqLBYjCv5XylBIQl",
   "tracks": [
     {
       "added_at": "2025-11-13 18:51:46",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
     },
     {
+      "added_at": "2025-11-14 17:12:00",
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/66447TJUyw3jjyePECdqJY"
+    },
+    {
       "added_at": "2025-11-07 03:15:20",
       "album": {
         "name": "Beck n Call",
@@ -163,8 +179,8 @@
     {
       "added_at": "2025-11-14 03:28:25",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Electric Hour",
+        "url": "https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF"
       },
       "artists": [
         {
@@ -648,7 +664,7 @@
           "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 256480,
+      "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     },

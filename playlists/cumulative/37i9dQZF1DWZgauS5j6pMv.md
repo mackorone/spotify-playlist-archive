@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-492 songs - 1 day 4 hr 44 min
+493 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 | 2022-04-08 | 2023-04-29 |
 | [Don't Leave Me on Read](https://open.spotify.com/track/11diXJtSS2XZUimNMl6Wgo) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP) | [Don't Leave Me on Read](https://open.spotify.com/album/7jUwZ8HVfJOIQJ35PfWgqZ) | 3:48 | 2020-11-20 | 2022-04-09 |
 | [Don't Rain On My Parade](https://open.spotify.com/track/7BypZ2B3bsVf2hwqAHqGJe) | [Third Reprise](https://open.spotify.com/artist/2rz5Ap6y8CRp402RQwpRNn), [Henry Platt](https://open.spotify.com/artist/4vh79MMca4x1g4R0D5Q0rR) | [Don't Rain On My Parade](https://open.spotify.com/album/0427oVyapui4sWqFB0Idkz) | 4:23 | 2024-10-18 |  |
-| [Don't Worry 'Bout It](https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Don't Worry 'Bout It](https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv) | 2:48 | 2023-07-07 |  |
+| [Don't Worry 'Bout It](https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Don't Worry 'Bout It](https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv) | 2:48 | 2023-07-07 | 2025-11-15 |
 | [Dont Forget Me](https://open.spotify.com/track/4oRBLRvLW8ogr6mzijdw9P) | [Quentin Moore](https://open.spotify.com/artist/7h9BUsveZ8CIGsau1PFGlU) | [Ride With You](https://open.spotify.com/album/6t5aIR2XnVAcuVzc3buaZB) | 4:41 | 2025-10-24 |  |
 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib) | 3:23 | 2022-09-02 | 2022-10-21 |
 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/7Fk2ITEI0s2Y6oiust9UKl) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/7zsHBrfvL0hk321iiagyAD) | 3:23 | 2022-09-02 | 2023-04-29 |
@@ -208,6 +208,7 @@
 | [How You Feel](https://open.spotify.com/track/5IFAFA7xKr665r4KguLmkn) | [Clemont](https://open.spotify.com/artist/7cPTjkKAoxXlCj5YJT5Q1V), [Holy Mattress Money](https://open.spotify.com/artist/6QCd5jmXOjrOBVzxSiLGqc) | [How You Feel](https://open.spotify.com/album/4GZWHjtORDvk3u7hIGzbkq) | 4:09 | 2023-07-07 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-06-18 | 2022-01-29 |
 | [Humpty Dumpty](https://open.spotify.com/track/4hpVZXbR64gA01UCwFifdT) | [Tendavillage](https://open.spotify.com/artist/1nOm8sUi8M1dyIAJ8B5SRc) | [Humpty Dumpty](https://open.spotify.com/album/2tgHFkodm0ydkaJPgrd51k) | 2:50 | 2022-11-25 | 2023-06-10 |
+| [Hypnotic Night](https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV) | [Alissia](https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Hypnotic Night](https://open.spotify.com/album/1JNKtfVGZwigUkReb77vym) | 3:37 | 2025-11-14 |  |
 | [Hypnotized](https://open.spotify.com/track/6UhaAf6u6qMEh7IOdzGk9y) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Hypnotized](https://open.spotify.com/album/2K4CWu6QQfBqK6W4tW4oCA) | 3:50 | 2025-05-16 |  |
 | [I Ain't Perfect](https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [FALL](https://open.spotify.com/album/7z0evm6hjFVuDzigZkB33b) | 3:18 | 2022-09-30 | 2022-11-26 |
 | [I Can’t Party](https://open.spotify.com/track/00oQQmRQTVONwfEnoSxG97) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB) | 2:25 | 2023-04-28 | 2023-05-14 |

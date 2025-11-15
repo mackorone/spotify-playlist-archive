@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 67526,
+  "num_followers": 67555,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Unity (Affinity)",
-        "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Rosey Chan",
-          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
-        }
-      ],
-      "duration_ms": 123008,
-      "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
-      "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach, J.S.: Das Wohltemperierte Klavier",
         "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 77093,
       "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
       "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Unity (Affinity)",
+        "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
+      "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -803,34 +803,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
-        "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
-        },
-        {
-          "name": "Columbia Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
-        },
-        {
-          "name": "Vladimir Golschmann",
-          "url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
-        }
-      ],
-      "duration_ms": 481160,
-      "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
-      "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -855,6 +827,34 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
+        "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        },
+        {
+          "name": "Vladimir Golschmann",
+          "url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
+        }
+      ],
+      "duration_ms": 481160,
+      "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
+      "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
     },
     {
       "added_at": "2025-01-24 04:00:20",

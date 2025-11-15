@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto:Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,026 likes - 48 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,186 likes - 48 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 47 | [Pura Adoração](https://open.spotify.com/track/6fN5zFU8wJnfxpUGlitEHI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Pura Adoração](https://open.spotify.com/album/121bKIrYqSFlTxNLtyVZqL) | 5:45 |
 | 48 | [BAILE DE MÁSCARAS](https://open.spotify.com/track/6SHC773RxGrSvTttmvhjXj) | [Gui Neris](https://open.spotify.com/artist/3b0kljAJUuDkWnCg12DGKo) | [SAI DO CHÃO](https://open.spotify.com/album/50U61DNRIMJDFnB9mpyaoz) | 2:36 |
 
-Snapshot ID: `AAAAAKRCky0C84Ptj28Gc4sptsgbKWYZ`
+Snapshot ID: `AAAAAOM0b4eXbhYacN/OSPdHdj99gDi1`

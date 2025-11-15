@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Roxy Dekker
 
-1,138 songs - 2 day 6 hr 21 min
+1,140 songs - 2 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,7 +635,7 @@
 | [Liefde Deel Ik Niet](https://open.spotify.com/track/155ZntbO4KNJIpyM8BQWFW) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Liefde Deel Ik Niet](https://open.spotify.com/album/1ujiVqwTFZbJiWVPamwbld) | 2:50 | 2024-10-24 | 2025-01-24 |
 | [Liefde Doet Pijn](https://open.spotify.com/track/0dz6WOXIwroUc8fJs2DX3h) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [El Colombolandés](https://open.spotify.com/album/5kpYP9HhhizwdRuWI3cVR9) | 3:34 | 2024-05-30 | 2024-07-05 |
 | [Liefde Maakt Blind](https://open.spotify.com/track/2O7T7IQ7mwNIIyp4zdSMb7) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Liefde Maakt Blind](https://open.spotify.com/album/5VIxDz4HWkGoson19nG93o) | 2:45 | 2025-10-30 |  |
-| [Liefde Onderschat](https://open.spotify.com/track/4ZtkwczmUma3DLweeCjKx3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [](https://open.spotify.com/album/null) | 3:19 | 2025-11-13 |  |
+| [Liefde Onderschat](https://open.spotify.com/track/4ZtkwczmUma3DLweeCjKx3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Liefde Onderschat](https://open.spotify.com/album/3wA2OYYRZZj9cRs3pkaYzB) | 3:19 | 2025-11-13 |  |
 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 | 2025-02-27 | 2025-05-23 |
 | [Lievelingsliedje](https://open.spotify.com/track/09loqVGwx6dKiEorjoV2uR) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Lievelingsliedje](https://open.spotify.com/album/3eNerPUqbQDSzJSb21cP76) | 1:51 | 2024-10-24 | 2025-01-17 |
 | [Liever Alleen](https://open.spotify.com/track/2fumi15cc9DlAbRK7JH25g) | [Denise Kroes](https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6) | [Liever Alleen](https://open.spotify.com/album/1ob5HedmuqybnqU3Cuxnqf) | 2:22 | 2025-04-11 | 2025-07-18 |
@@ -669,6 +669,7 @@
 | [Marathon](https://open.spotify.com/track/6Q2rqIUFhHAoGDpcv7JQeY) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Marathon](https://open.spotify.com/album/5VHOkYdgZW38bN4O5k7UgJ) | 2:38 | 2025-06-19 | 2025-10-29 |
 | [masker](https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [ik ben soms bang in het donker](https://open.spotify.com/album/2lWHBuyE13th6358dardao) | 3:09 | 2024-06-20 | 2024-08-02 |
 | [Masker](https://open.spotify.com/track/2l9d5KO0xnO01fYAfHHlLO) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Masker](https://open.spotify.com/album/150BHLMTbugmwMxSnDdepw) | 3:01 | 2023-05-18 | 2023-06-30 |
+| [MAXIMAAL](https://open.spotify.com/track/5iCQpTzPYPLzuE8IieY2yE) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [MAXIMAAL](https://open.spotify.com/album/4p3yfT7bwha4i8kwT8EKrk) | 2:30 | 2025-11-13 |  |
 | [Medeplichtig](https://open.spotify.com/track/1M19j4iqQyyWK1IzfY5Cod) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Medeplichtig](https://open.spotify.com/album/52Rv3uBuWFbr6NAfSDufny) | 2:46 | 2023-11-23 | 2024-02-09 |
 | [Medicijn](https://open.spotify.com/track/0nae6Bd35vznbEiW8iSYx5) | [Angelina](https://open.spotify.com/artist/4HokvO6BXMZXdhMf1ypvpD) | [Medicijn](https://open.spotify.com/album/5eTAbe193Jpb5mtz6J0kgF) | 2:56 | 2023-12-08 | 2024-03-08 |
 | [Meer Dan Houden Van](https://open.spotify.com/track/2QqlSISqOfa1trHc6dHeKg) | [Nick Kruit](https://open.spotify.com/artist/1mgurMrzrP5f9Z9q3UwJVl) | [Meer Dan Houden Van](https://open.spotify.com/album/6b8AtSaC6xQRrE64gKKz8a) | 2:46 | 2025-05-08 | 2025-08-08 |
@@ -810,9 +811,11 @@
 | [Paranoia](https://open.spotify.com/track/4h272DTgerbGSLboHdYefP) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Paranoia](https://open.spotify.com/album/1R3bFpMH3ySvkMArLrwFox) | 3:14 | 2024-04-25 | 2024-06-28 |
 | [Paraplu](https://open.spotify.com/track/1Mgx2NK4bNC1ulidw7JATx) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Paraplu](https://open.spotify.com/album/7BX3w6BBAz9Q0qlTuyHmtJ) | 3:22 | 2025-08-07 | 2025-09-05 |
 | [Parfum](https://open.spotify.com/track/5fqAohRCfxIzqw5IuUtBiS) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online/Offline](https://open.spotify.com/album/75jQXhlYruuc9JkLZBIVax) | 2:42 | 2023-02-23 | 2023-05-26 |
+| [Paris, Texas](https://open.spotify.com/track/6wckDJ8EqudZePpq6jk9rB) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Paris, Texas](https://open.spotify.com/album/1oBS2LLFZDo9eKnb66jffn) | 3:50 | 2025-11-14 |  |
 | [Parler Français](https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh) | 2:34 | 2024-05-16 | 2024-08-30 |
 | [Pas Nu Ik Ons Ken](https://open.spotify.com/track/3ArIRZp6Hc5yhhHWEAgCDD) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Pas Nu Ik Ons Ken](https://open.spotify.com/album/3NOQNnOJcm9Sg1klAGbBNI) | 3:20 | 2023-08-03 | 2023-09-01 |
 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 | 2024-03-07 | 2024-05-17 |
+| [Pauze](https://open.spotify.com/track/6AWDTrLLcEZDFn0qHKwzMW) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Pauze](https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI) | 2:32 | 2025-11-14 |  |
 | [Perfect](https://open.spotify.com/track/5II9sxBAPumEcpYQ3azCcT) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [Perfect](https://open.spotify.com/album/1PyesUCvtqfk5Jq4jSoq6D) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Perfect Voor Mij](https://open.spotify.com/track/5pkPQQaYEoHbSnVQoVbXs6) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Perfect Voor Mij](https://open.spotify.com/album/0jUWx66cMwXl4l7gDDgZIS) | 3:00 | 2024-12-12 | 2025-03-14 |
 | [Plaatje](https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Plaatje](https://open.spotify.com/album/68NmDfErCwLSWNbsIkHo5Q) | 2:32 | 2023-06-29 | 2023-09-22 |
@@ -960,7 +963,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 |  |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 7](https://open.spotify.com/track/5iCQpTzPYPLzuE8IieY2yE) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |
 | [Tranquilo](https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Tranquilo](https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx) | 2:36 | 2023-05-11 | 2023-08-25 |

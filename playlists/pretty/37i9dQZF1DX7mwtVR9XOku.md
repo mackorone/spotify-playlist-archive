@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,167 likes - 71 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,182 likes - 71 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 |
-| 2 | [Together At Last](https://open.spotify.com/track/2xEVhZew6VihAm4buanz2P) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Jobim Ffrench](https://open.spotify.com/artist/2AToteRrIWDjK7akp8XDEG) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:11 |
+| 2 | [Together At Last](https://open.spotify.com/track/2xEVhZew6VihAm4buanz2P) | [Jobim Ffrench](https://open.spotify.com/artist/2AToteRrIWDjK7akp8XDEG), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:11 |
 | 3 | [Luminous](https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Luminous](https://open.spotify.com/album/1qGM1wYNdT4fG81hXrdz6s) | 4:43 |
 | 4 | [Reef](https://open.spotify.com/track/14E2KOXyzozxKQHu2bh1VW) | [Antonymes](https://open.spotify.com/artist/1FXNgc8dxBxW9XQzQBWUj7) | [Reef](https://open.spotify.com/album/3MjhtNO02yct2msRjP5g0O) | 4:11 |
 | 5 | [Quietly Quietly](https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Quietly Quietly](https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4) | 3:22 |

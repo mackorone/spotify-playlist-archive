@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Papa, Skinny e Yugi, Nitro, Astro, 22Simba, Hash e IvanBi e molti altri.
 
-6,389 songs - 11 day 19 hr 19 min
+6,389 songs - 11 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5509,6 +5509,7 @@
 | [STATIC](https://open.spotify.com/track/7yTbKTjjiFRgnWNOaqhRvn) | [RLZ](https://open.spotify.com/artist/5fgkdcD8niDUUjiNK2GOtz) | [STATIC](https://open.spotify.com/album/6OQH7NPjO9jY6yKcw8TYkz) | 2:16 | 2024-05-09 | 2024-05-24 |
 | [Stato D'animo](https://open.spotify.com/track/5jQZaWWQjFGYsh4B4Wznv1) | [hmizo](https://open.spotify.com/artist/364qkrUT2TKnSW6YmIfeai) | [Stato D'animo](https://open.spotify.com/album/56JKhetbsxVc4OhzhZFkRh) | 2:46 | 2023-05-18 | 2023-06-02 |
 | [Statt ferm](https://open.spotify.com/track/6yPNbFCaMfEhoCYGgOrg5x) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [NENNO](https://open.spotify.com/artist/7IADlwb8drI8AC1fpbvbla), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [Statt ferm](https://open.spotify.com/album/68nhHDerY9JEnrIk2j5NoG) | 2:14 | 2024-02-15 | 2024-03-08 |
+| [STATUA \(ATTUORN 'O CUORP TUOIJ\)](https://open.spotify.com/track/2oi7DDyAP8FjaY2bxWJRqp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [NICOLA SICILIANO](https://open.spotify.com/album/5RVxm9pSvD21EB4LYwsJHc) | 2:34 | 2025-11-14 |  |
 | [STAVAMO A ZERO](https://open.spotify.com/track/3yRNOoALoBvmwqVzureAXR) | [La Flèche](https://open.spotify.com/artist/64FfdZrhEAVBq0fdEaoO7r), [Wave Off](https://open.spotify.com/artist/41Q55j3xgGxmeb1CHnK8gY), [SABRI DERO](https://open.spotify.com/artist/6WdkL2tDPviFRoZxZjmUME) | [STAVAMO A ZERO](https://open.spotify.com/album/7LOyKUp6ixUOiVzl1HIX2s) | 2:42 | 2025-05-01 | 2025-05-23 |
 | [stavo per perdermi](https://open.spotify.com/track/5OkNpAGC1pTGWxbwqWxrwM) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [stavo per perdermi](https://open.spotify.com/album/7aVrplK8KFqjse9iZqhdKw) | 3:49 | 2024-04-04 | 2024-04-19 |
 | [STAY](https://open.spotify.com/track/2hwaaTpYiddKeKZURCtrUI) | [Buebos](https://open.spotify.com/artist/07LM93qC8fgy0vnkibOQcS) | [STAY](https://open.spotify.com/album/1Mj1NwdI9aSy91z7WUTCbE) | 2:40 | 2024-05-09 | 2024-06-01 |
@@ -5824,7 +5825,6 @@
 | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/track/4kiqhvWcwNRsVqVvJgRnMw) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/album/5PFZTJevhf66nTd6R1Pewz) | 2:44 | 2023-11-09 | 2023-11-24 |
 | [Tra mille persone](https://open.spotify.com/track/2Gantu0FQ1kyP5OHvYJkKc) | [Delli](https://open.spotify.com/artist/5vQaJMLa7BBGVaXifSZMOK) | [Tra mille persone](https://open.spotify.com/album/6G3fdSuABfdDBkNzTRgjBN) | 1:44 | 2024-03-28 | 2024-04-12 |
 | [TRACCIA COMMERCIALE](https://open.spotify.com/track/08eFX7mEvVLquXy65TyhR0) | [loui](https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA) | [TRACCIA COMMERCIALE](https://open.spotify.com/album/0K0W1s7p3YdSmiaWy7gDeO) | 2:41 | 2025-07-03 | 2025-07-25 |
-| [Track 5](https://open.spotify.com/track/2oi7DDyAP8FjaY2bxWJRqp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-14 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-11-08 |
 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 | 2024-07-26 | 2024-09-06 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-22 | 2022-10-25 |

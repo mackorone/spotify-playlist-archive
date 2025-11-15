@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- NAALAYAK\n",
+  "description": "Hindi hai, Indie hai! Cover- Dikshant\n",
   "name": "hIndies",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 253846,
       "name": "Aaja",
       "url": "https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ"
+    },
+    {
+      "album": {
+        "name": "Aakhri Baat",
+        "url": "https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Aakhri Baat",
+      "url": "https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je"
     },
     {
       "album": {
@@ -5270,7 +5288,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 174773,
       "name": "Tere Gaon",
       "url": "https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9"

@@ -1867,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285148,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
+    },
+    {
+      "album": {
         "name": "Cemal\u0131m",
         "url": "https://open.spotify.com/album/7aCBkw9nDEr3gadb0yjzjc"
       },
@@ -10266,7 +10288,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 187722,
       "name": "With You",
       "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"

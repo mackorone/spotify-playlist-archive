@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,142 songs - 2 day 23 hr 31 min
+1,148 songs - 2 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Broke](https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Broke](https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI) | 2:02 | 2024-02-02 | 2025-04-11 |
 | [Broken and Blind](https://open.spotify.com/track/2zdylxNiFAcTatmAjLwLTV) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/6A3vvzSppa4vR5xWwmqCWp) | 3:12 | 2025-10-10 |  |
 | [Broken Rib](https://open.spotify.com/track/6TlRQW8iwz7MDTzy4jkscn) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [Broken Rib](https://open.spotify.com/album/3b4QmOl6mBMYMLSoVGb1e3) | 3:07 | 2025-05-16 |  |
+| [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 | 2025-11-14 |  |
 | [Burn](https://open.spotify.com/track/5RFD19vL1hkcOGLFk7pgB9) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Burn](https://open.spotify.com/album/6yNbiRz8eb5yucmK0UFf0c) | 3:06 | 2025-09-19 |  |
 | [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-08-30 | 2025-04-11 |
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 | 2023-07-15 |
@@ -192,6 +193,7 @@
 | [Collider](https://open.spotify.com/track/6IlKPlDPBvx11UFTfdaxOt) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Collider](https://open.spotify.com/album/5U6toqNWDTsxJiYhn1ZUVy) | 3:41 | 2023-08-25 | 2024-02-03 |
 | [Come Hell or High Water](https://open.spotify.com/track/1GSblkbCQSZqMQ34v09fjT) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Come Hell or High Water](https://open.spotify.com/album/5LRfZzTWHyvgnEy3uPyFiS) | 3:47 | 2023-06-23 | 2024-02-03 |
 | [Coming Down](https://open.spotify.com/track/0QKePbwi7LoHpfQfKLSmYa) | [Sun Dont Shine](https://open.spotify.com/artist/4awV9U3zAkWcSsaNsClKPU) | [Coming Down](https://open.spotify.com/album/2RUfk66sEcwR7eelrCKApt) | 4:06 | 2025-06-27 |  |
+| [Commander of Pain](https://open.spotify.com/track/66wTyS8P8hbXbLl07LIenU) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Commander of Pain](https://open.spotify.com/album/6SvPikanz42fybjKeg5LCD) | 4:45 | 2025-11-14 |  |
 | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-02-21 |  |
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-02 | 2023-07-15 |
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-18 | 2023-07-15 |
@@ -427,6 +429,7 @@
 | [Heart of Darkness](https://open.spotify.com/track/6qzoZnjgXpyBELRglVqRZ5) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [You'll Know It Was Me](https://open.spotify.com/album/3bFFAIHUILPJmF8l24oGhf) | 2:28 | 2025-02-14 |  |
 | [Heart Reformer](https://open.spotify.com/track/4bSTKeCvyLnXwsDc1Aw452) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Heart Reformer](https://open.spotify.com/album/04b6r0OaKUICdRbIacCRPa) | 3:26 | 2022-08-26 | 2023-07-15 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-27 | 2025-04-11 |
+| [Heavy, Why?](https://open.spotify.com/track/6QTpBulBNvADBWTakGfpPA) | [Blackwater Holylight](https://open.spotify.com/artist/2fqEhs5dZBrDLUqHvWRtBc) | [Heavy, Why?](https://open.spotify.com/album/6xZBRKCZPdxTAnZFQoZoXf) | 4:02 | 2025-11-14 |  |
 | [Hell's Half Acre](https://open.spotify.com/track/5UQIePOpp3Sltpk85Ynilv) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Maniac](https://open.spotify.com/album/3eQj46K9ZQmQyUL1WVo6Gn) | 3:44 | 2022-08-12 | 2023-07-15 |
 | [Hellfire](https://open.spotify.com/track/1MjbvBUJannZpWRTqyCiwC) | [Haunted Shores](https://open.spotify.com/artist/6Zebs0nwJt4EUs36wgFisx) | [Hellfire](https://open.spotify.com/album/5joI436sP5dtjw8k5Z83iK) | 4:21 | 2022-01-14 | 2023-07-15 |
 | [HELLMUSTFEARME](https://open.spotify.com/track/1mOQdl0iEBPjEyqw4H8E26) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [HELLMUSTFEARME](https://open.spotify.com/album/2WxWKL4eED34t8758N0RLN) | 3:07 | 2025-05-02 |  |
@@ -455,6 +458,7 @@
 | [Hysterics](https://open.spotify.com/track/75w7La8hnnsSeq9CDCBT89) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Hysterics](https://open.spotify.com/album/1cBEmj03uPsuMgywV43rDt) | 2:10 | 2023-04-21 | 2024-02-03 |
 | [I Am A Cursed One](https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED \(The Complete Edition\)](https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE) | 3:21 | 2025-06-06 |  |
 | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/track/7wWWl81H2Tr3Ix3yPIOl6P) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd) | 3:14 | 2025-02-28 |  |
+| [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 | 2025-11-14 |  |
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 | 2023-07-15 |
 | [I Feel Everything](https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [I Feel Everything](https://open.spotify.com/album/2ocVKzxMyOPFzVRLl7b15B) | 2:55 | 2025-05-23 |  |
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 | 2023-07-15 |
@@ -625,6 +629,7 @@
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-01 | 2023-07-15 |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2022-09-16 | 2023-07-15 |
 | [New Reality](https://open.spotify.com/track/5Mz72qEJk1btZmPCasmS7Z) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [New Reality](https://open.spotify.com/album/6KPHDHJ2nRjyGHwICBkorf) | 4:41 | 2022-03-18 | 2023-07-15 |
+| [New Religion](https://open.spotify.com/track/5ItheWnN7f9EVs7OQ2Bvq1) | [Return to Dust](https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS) | [New Religion](https://open.spotify.com/album/5DDs6pTK33l5LT0198WmM5) | 3:11 | 2025-11-14 |  |
 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-07 | 2025-04-11 |
 | [Next To Bleed](https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Next To Bleed](https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU) | 1:54 | 2025-01-17 |  |
 | [Night Flight](https://open.spotify.com/track/2Y0SPSerR77eRSbHDM2Rim) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Night Flight](https://open.spotify.com/album/1v5HmQMkleI2DILizLGfiV) | 3:57 | 2023-05-26 | 2024-02-03 |
@@ -963,6 +968,7 @@
 | [The Grey](https://open.spotify.com/track/7KqOpWKmzXLEcqwVy7P0td) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [The Grey](https://open.spotify.com/album/5Rzc2I5iMMQGs0Pqp8vFsZ) | 6:07 | 2023-08-18 | 2024-02-03 |
 | [The Half Rising Man](https://open.spotify.com/track/6tammuqjdqFjxYCg4eY9u8) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [Plague God](https://open.spotify.com/album/5z0ali2A2jp4RI70VlvBfr) | 8:10 | 2022-03-25 | 2023-07-15 |
 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 | 2022-02-04 | 2023-07-15 |
+| [The Impossible End](https://open.spotify.com/track/6CvuCeQJO6g0O7qVgsIBTx) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Highly Irresponsible \(Deluxe Edition\)](https://open.spotify.com/album/0kaN8nCGNLApQ08I3uCrmB) | 3:09 | 2025-11-14 |  |
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2023-07-15 |
 | [The Killing Womb](https://open.spotify.com/track/6qwS9hKwhVJe2yMxkwMgiQ) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/5ZeUTOPb4LwQFSV4jOj2cs) | 2:32 | 2022-01-07 | 2023-07-15 |
 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-10 |  |

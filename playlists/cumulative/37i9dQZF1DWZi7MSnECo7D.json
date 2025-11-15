@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Flerte Flamingo",
+  "description": "M\u00fasica brasileira fora da curva. Foto: clara bicho",
   "name": "alt BR",
   "tracks": [
     {
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 198600,
       "name": "Brincos",
       "url": "https://open.spotify.com/track/09aOFoKFKVsNDilKuN374R"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 276374,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/1Y719gj1Qa2pIR9FNXhkNi"
@@ -6528,7 +6528,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 194272,
       "name": "Insustent\u00e1vel",
       "url": "https://open.spotify.com/track/62eBR7NYcCr1mxMv8CvQmE"
@@ -8281,6 +8281,28 @@
     },
     {
       "album": {
+        "name": "Ponto de Curva",
+        "url": "https://open.spotify.com/album/2xAybcPWULyLWadPfOR8D8"
+      },
+      "artists": [
+        {
+          "name": "Trabalhos Espaciais Manuais",
+          "url": "https://open.spotify.com/artist/4RSRiccbutyX0OVVc4py7Z"
+        },
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224260,
+      "name": "Miragem de Iara Pt 2",
+      "url": "https://open.spotify.com/track/0Ip1Zgw7x1GS8WxDoR9uQL"
+    },
+    {
+      "album": {
         "name": "OUTRO VOLUME",
         "url": "https://open.spotify.com/album/3j9Dw9lvea8ZfdinhW1s0C"
       },
@@ -9300,7 +9322,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 175258,
       "name": "N\u00e3o pense",
       "url": "https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r"
@@ -9452,6 +9474,28 @@
       "duration_ms": 294529,
       "name": "N\u00e9voas",
       "url": "https://open.spotify.com/track/3UkGVb1conf74SG0dXXwVz"
+    },
+    {
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/6NZtFcCJfsPAloYzETIgHl"
+      },
+      "artists": [
+        {
+          "name": "Thiago Corr\u00eaa",
+          "url": "https://open.spotify.com/artist/4jGemzKOyB5XcLM9AVQjkG"
+        },
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/1VQtdb1sHsB2wglv7wKTQB"
     },
     {
       "album": {
@@ -10332,7 +10376,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 166923,
       "name": "Parati",
       "url": "https://open.spotify.com/track/2e8onQDnzxYTUpm7GeSLyK"
@@ -10416,6 +10460,28 @@
       "duration_ms": 292835,
       "name": "Pax, Patz, Paz",
       "url": "https://open.spotify.com/track/3KgFZWHQIHZv8c8TC0WJHf"
+    },
+    {
+      "album": {
+        "name": "Terno Rei ilumina Sonast\u00e9rio",
+        "url": "https://open.spotify.com/album/0NDOAD5l5L49dHicoe8zDd"
+      },
+      "artists": [
+        {
+          "name": "Terno Rei",
+          "url": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221312,
+      "name": "Peito",
+      "url": "https://open.spotify.com/track/0lpXOaa0AyPQbKMUFaAuNb"
     },
     {
       "album": {
@@ -13096,7 +13162,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 187500,
       "name": "Talvez",
       "url": "https://open.spotify.com/track/6KE4fIyig09bMdKdLMZjZl"
@@ -13234,6 +13300,24 @@
       "duration_ms": 198720,
       "name": "TELA DE CINEMA",
       "url": "https://open.spotify.com/track/5Y0xSeJalkj96H5pp1ae0h"
+    },
+    {
+      "album": {
+        "name": "Telejornal Animal",
+        "url": "https://open.spotify.com/album/0g9meJjVpasnyuWqdoeWCH"
+      },
+      "artists": [
+        {
+          "name": "clara bicho",
+          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Telejornal Animal",
+      "url": "https://open.spotify.com/track/74FqY7lGAMYPdz2Wogl5GY"
     },
     {
       "album": {
@@ -13408,6 +13492,24 @@
       "duration_ms": 188500,
       "name": "Teto Preto",
       "url": "https://open.spotify.com/track/46LK7vXBSKu00IWu7A0dpA"
+    },
+    {
+      "album": {
+        "name": "Teto Preto",
+        "url": "https://open.spotify.com/album/2yIoEX7Z4IaSgjhvkm6hvd"
+      },
+      "artists": [
+        {
+          "name": "lllucas",
+          "url": "https://open.spotify.com/artist/7rOl5baPcwONOCw9JSD6f7"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178176,
+      "name": "Teto Preto",
+      "url": "https://open.spotify.com/track/1QNCgY1JdzW8jlj5dbOn9w"
     },
     {
       "album": {
@@ -13765,6 +13867,32 @@
     },
     {
       "album": {
+        "name": "3:4",
+        "url": "https://open.spotify.com/album/0ZJ7Sg004VHjtNPeIIpPCp"
+      },
+      "artists": [
+        {
+          "name": "ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue"
+        },
+        {
+          "name": "Kristal Werner",
+          "url": "https://open.spotify.com/artist/2attj72mDzqGW51nnkdpuc"
+        },
+        {
+          "name": "Conrado Knorrec",
+          "url": "https://open.spotify.com/artist/23r0RGiPLFHO6unp40e2YO"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179642,
+      "name": "TOKYO 284",
+      "url": "https://open.spotify.com/track/7heaGkmHaYnrFdZ6HYGmmY"
+    },
+    {
+      "album": {
         "name": "Mania 2000",
         "url": "https://open.spotify.com/album/3vAgUo1miPIbN2EBRlZbEm"
       },
@@ -13844,6 +13972,24 @@
       "duration_ms": 169562,
       "name": "Trago",
       "url": "https://open.spotify.com/track/5CugcQd5Dw8bIP9htahvik"
+    },
+    {
+      "album": {
+        "name": "me chame como quiser",
+        "url": "https://open.spotify.com/album/7jHexgvU6fY0ipOv4WG4VM"
+      },
+      "artists": [
+        {
+          "name": "jumorelo",
+          "url": "https://open.spotify.com/artist/7CYZ5Kt40GBP9sQEFOeyUK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183719,
+      "name": "tralha",
+      "url": "https://open.spotify.com/track/6ZQ2w20nB6WXeySZirfl8G"
     },
     {
       "album": {
@@ -15168,7 +15314,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 280163,
       "name": "Voc\u00ea vai me escutar",
       "url": "https://open.spotify.com/track/4RA9sd4OLjmVBZkXsE6h6g"

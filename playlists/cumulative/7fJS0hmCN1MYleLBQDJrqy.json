@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163520,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
+    },
+    {
+      "album": {
         "name": "Lotje",
         "url": "https://open.spotify.com/album/2EZYI8AVfZxCzzKuRKCfS1"
       },
@@ -1305,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Mijn Paleis",
+        "url": "https://open.spotify.com/album/61F8vApSj10IHFzoLeegii"
+      },
+      "artists": [
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135866,
+      "name": "Mijn Paleis",
+      "url": "https://open.spotify.com/track/1VJsrEqXGWi9tF4Ng4QR6c"
+    },
+    {
+      "album": {
         "name": "Mijntje",
         "url": "https://open.spotify.com/album/1NhlRAt4HUgo79YdrhZG0v"
       },
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 214383,
       "name": "Noodgeval",
       "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 218724,
       "name": "Zomer",
       "url": "https://open.spotify.com/track/4LWSh6ywiwlEpPytH5bstM"

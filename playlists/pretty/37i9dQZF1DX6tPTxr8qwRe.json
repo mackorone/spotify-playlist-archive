@@ -1,13 +1,65 @@
 {
-  "description": "sweet. sharp. unbothered - ivri on the cover",
-  "num_followers": 425807,
+  "description": "sweet. sharp. unbothered - Johnny Huynh & Jessica Baio on the cover",
+  "num_followers": 425817,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABuRDBQZOjMkyMWOP2QrChHoSwdY",
+  "snapshot_id": "AAAAAPYP040m3B3T4tuD8cu3a7MjxIQG",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:30",
+      "album": {
+        "name": "ALL I SAW WAS YOU (feat. Jessica Baio)",
+        "url": "https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        },
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "ALL I SAW WAS YOU (feat. Jessica Baio)",
+      "url": "https://open.spotify.com/track/4wheipzDTRRuxDeTfjeeDE"
+    },
+    {
+      "added_at": "2025-11-07 05:39:31",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
+    },
+    {
+      "added_at": "2025-11-14 05:00:30",
+      "album": {
+        "name": "avoidant little b <3",
+        "url": "https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 148017,
+      "name": "avoidant little b <3",
+      "url": "https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R"
+    },
     {
       "added_at": "2025-11-07 05:39:31",
       "album": {
@@ -55,22 +107,6 @@
       "duration_ms": 115952,
       "name": "Predator",
       "url": "https://open.spotify.com/track/4Yw8f14VJifM5loeSSKlW0"
-    },
-    {
-      "added_at": "2025-11-07 05:39:31",
-      "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -335,22 +371,6 @@
       "duration_ms": 144065,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/7uutv2dzY248zl2O2ngiie"
-    },
-    {
-      "added_at": "2025-10-03 04:00:56",
-      "album": {
-        "name": "LOST MY FAITH",
-        "url": "https://open.spotify.com/album/3R5ihdUWbNmrEm2HhdBZTg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "LOST MY FAITH",
-      "url": "https://open.spotify.com/track/6PvbkS7336PSRVODceZeWr"
     },
     {
       "added_at": "2025-10-03 04:00:56",
@@ -807,22 +827,6 @@
       "duration_ms": 140152,
       "name": "Crucify Me",
       "url": "https://open.spotify.com/track/6CRtl0zQVr5LxmFCVIqnjZ"
-    },
-    {
-      "added_at": "2025-08-29 04:00:41",
-      "album": {
-        "name": "Fucked Up",
-        "url": "https://open.spotify.com/album/4IezSWdndaPtytfAk9k3IK"
-      },
-      "artists": [
-        {
-          "name": "MOTHERMARY",
-          "url": "https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA"
-        }
-      ],
-      "duration_ms": 237168,
-      "name": "Fucked Up",
-      "url": "https://open.spotify.com/track/5uVWnUw7jHcpT91Ox2vDIU"
     }
   ],
   "unique_name": "SALT",

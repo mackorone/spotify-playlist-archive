@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Gallowine",
+        "url": "https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249026,
+      "name": "Gallowine",
+      "url": "https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0"
+    },
+    {
+      "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/6GVgayqdZeufp9XifBtnIf"
       },

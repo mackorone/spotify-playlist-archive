@@ -4,7 +4,7 @@
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-528 songs - 1 day 7 hr 34 min
+529 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [La Yarará](https://open.spotify.com/track/4rpNuGWK8BQSzjQyN5mrP8) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [La Yarará](https://open.spotify.com/album/6evf1MP8swNffomGu9hw9o) | 3:20 | 2021-10-20 | 2022-04-16 |
 | [Laberinto](https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [David Palacio](https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k) | [Piratas, Pero Románticos \(Con Ritmos Chidos\)](https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr) | 3:20 | 2022-09-30 | 2022-11-08 |
 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 | 2022-02-25 |  |
-| [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 | 2022-09-03 |  |
+| [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 | 2022-09-03 | 2025-11-15 |
 | [Le Soleil Descend](https://open.spotify.com/track/0mDNjIWcWqU3bgF8fiGnOW) | [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Le Soleil Descend](https://open.spotify.com/album/5GmeUeefieul7OH3nrFaKN) | 4:08 | 2021-10-20 | 2022-07-29 |
 | [Lento](https://open.spotify.com/track/3hkjx8O2hidtvTYjHLwC4d) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Tierra](https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J) | 2:35 | 2021-10-20 | 2022-07-29 |
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2021-10-20 |  |
@@ -288,6 +288,7 @@
 | [Lovin' You \- Re\-Mix](https://open.spotify.com/track/5fbdjJkJbiKhmbhp8Z7uOt) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Lilliana De Los Reyes](https://open.spotify.com/artist/1DX1GXLfSp6njcWzDZSTRk), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Jimmy De Martini](https://open.spotify.com/artist/4TXZLWV8slZFv0SVURBssW) | [Lovin' You](https://open.spotify.com/album/7N2pF82NJYPJGHQEOqv3a1) | 7:00 | 2021-10-20 | 2022-05-26 |
 | [Luna Completa](https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Luna Completa](https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ) | 4:48 | 2021-10-20 |  |
 | [Luna de Plata \- Versión Latina](https://open.spotify.com/track/2kQHVqfTIO5SyWswMK57LW) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Luna de Plata \(Versión Latina\)](https://open.spotify.com/album/12JSUaQHliJdddn5XcsLSN) | 4:41 | 2021-10-20 | 2022-08-12 |
+| [MAKING ME FEEL ALIVE](https://open.spotify.com/track/4FUp0wQARTlhIyj1QNCsxh) | [Dav Julca](https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2) | [MAKING ME FEEL ALIVE](https://open.spotify.com/album/3xqt1aZ20iVxuZnz8NTm8v) | 2:48 | 2025-11-14 |  |
 | [Malibu](https://open.spotify.com/track/4M741Ru3lGDY3GWY01WBoU) | [Ritmo Machine](https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw) | [Malibu](https://open.spotify.com/album/0LFLrXTwicezm8KkIfNvtT) | 3:26 | 2023-03-31 | 2023-05-09 |
 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 | 2021-11-12 | 2023-03-25 |
 | [Mambeado](https://open.spotify.com/track/1qbt0lhWF7LGtPFA4DxXjt) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Fuerte Y Caliente](https://open.spotify.com/album/1kuQaIG6KmIRjcbB32bVc8) | 3:40 | 2021-10-20 | 2024-04-19 |

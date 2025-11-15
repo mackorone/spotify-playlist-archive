@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: AR Paisley",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Savv4x",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -8129,6 +8129,24 @@
     },
     {
       "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/4vv47D1bpDXLT4seN4sjSH"
+      },
+      "artists": [
+        {
+          "name": "Savv4x",
+          "url": "https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/1QGXSqp8BGECdbr3frlOZV"
+    },
+    {
+      "album": {
         "name": "Conversations'",
         "url": "https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL"
       },
@@ -8354,7 +8372,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 130115,
       "name": "Creep",
       "url": "https://open.spotify.com/track/18K2IixA6vPlMariBILxrH"
@@ -19818,7 +19836,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 176687,
       "name": "Lemon Cherry",
       "url": "https://open.spotify.com/track/6wkohFcztTm7u92TkF6aHG"
@@ -26602,6 +26620,28 @@
       "duration_ms": 174402,
       "name": "Out The Mud",
       "url": "https://open.spotify.com/track/1lCv4PEfi5Rp441o4OwWBh"
+    },
+    {
+      "album": {
+        "name": "The Perfect Blue",
+        "url": "https://open.spotify.com/album/5oFNCUF7KpN1TOdnmNWloI"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "Out The Mud",
+      "url": "https://open.spotify.com/track/5Y2AxK81YH7WDwYVV7ilsA"
     },
     {
       "album": {
@@ -34184,7 +34224,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 195968,
       "name": "Sunshine.",
       "url": "https://open.spotify.com/track/2ErztdSxaFFDRt6VaHNcRS"

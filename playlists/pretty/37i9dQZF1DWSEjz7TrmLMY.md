@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > I❤️CHUGGIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,888 likes - 26 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,909 likes - 26 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

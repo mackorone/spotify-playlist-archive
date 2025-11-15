@@ -4,7 +4,7 @@
 
 > My enemy nah sapa
 
-796 songs - 1 day 13 hr 56 min
+797 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Sometimes i feel lost](https://open.spotify.com/track/5BRtcFXl51K0cAxXRmlL7x) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [Sometimes i feel lost](https://open.spotify.com/album/5MN6j3Rnw7ZEn0Ssud09kE) | 3:12 | 2025-11-14 |  |
 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 | 2025-05-16 | 2025-08-09 |
 | [Space Roof](https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [Space Roof](https://open.spotify.com/album/7oCvqhcoi5BuXuVZSukM9R) | 3:49 | 2023-11-24 | 2023-11-28 |
+| [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 |  |
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2021-10-08 | 2023-02-04 |
 | [Stagnant](https://open.spotify.com/track/3t61rWlR2c09hiAywYqXYd) | [Phydazpeng](https://open.spotify.com/artist/6dI7y76l8GJSx17rb8V6gW), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stagnant](https://open.spotify.com/album/2gJmTVEbbIJ6WLp2hN1qap) | 3:23 | 2023-01-19 | 2023-01-28 |
 | [Stairway To Heaven](https://open.spotify.com/track/5VoLZIgMrpuRolQq2NstSE) | [Sammy Brank](https://open.spotify.com/artist/3udnkgI4ra78cNGskSR3hT) | [Stairway To Heaven](https://open.spotify.com/album/3YdCtl5IpyPsAX4byq8DUZ) | 2:53 | 2024-07-26 | 2024-10-08 |

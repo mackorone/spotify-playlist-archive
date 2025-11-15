@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Izza Gara
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,425 likes - 130 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,436 likes - 130 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 6](https://open.spotify.com/track/0j9DOnRVUkL5pHbcF5hc7h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Superbia](https://open.spotify.com/track/0j9DOnRVUkL5pHbcF5hc7h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SUPERBIA HARDCORE](https://open.spotify.com/album/06mSUqyBywp1dbsEgO9srC) | 2:17 |
 | 2 | [On The Hill](https://open.spotify.com/track/6F6epPWaMJbgtHEM5z99ui) | [Bendetta](https://open.spotify.com/artist/4IKcPlwjvCjgTE7BGrOEwc) | [On The Hill](https://open.spotify.com/album/5wwG4TOlZKjes821erEKpe) | 2:43 |
 | 3 | [Hope Is the Greatest Fuel](https://open.spotify.com/track/1KbKmr7nD74Y4p9zy88Qoi) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Hope Is the Greatest Fuel](https://open.spotify.com/album/6jDG6jOD4AiuwVlDAhLyOz) | 3:06 |
 | 4 | [Shine On](https://open.spotify.com/track/0JojCx3UF51N2VzBwklM4g) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Shine On](https://open.spotify.com/album/6eaZMG3uMmPgE6NpwmjZmr) | 3:45 |
 | 5 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
 | 6 | [Mind, Soul, Body](https://open.spotify.com/track/7DVkmKZHjLkdxRPRKg9YCI) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Mind, Soul, Body](https://open.spotify.com/album/6KZzCMroT7kr3s8sRlwyrF) | 3:18 |
-| 7 | [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [](https://open.spotify.com/album/null) | 2:54 |
+| 7 | [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Feelings You Don't Say Out Loud](https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP) | 2:54 |
 | 8 | [Over You](https://open.spotify.com/track/5Y6haMzLdn7wCyStXJNStG) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [Over You](https://open.spotify.com/album/4q2QsmcyEa9Qbzl6oRoEK9) | 2:16 |
 | 9 | [Calling Out](https://open.spotify.com/track/2gvg4D8EEJkjLUo2KHDj1T) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Calling Out](https://open.spotify.com/album/48B63B5ywfmjrcV7wC89wE) | 2:38 |
 | 10 | [Persephone](https://open.spotify.com/track/4DAupbSn7g2hNCGSMm3pDN) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Persephone](https://open.spotify.com/album/2V26TeL0Gxj0n3eh7cOQMD) | 3:25 |
 | 11 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 |
 | 12 | [WHY IS MORE NEVER ENOUGH](https://open.spotify.com/track/2v0idK8TRVZG6iFVu3rg5n) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [could’ve been quiet, but here we are](https://open.spotify.com/album/1tgZ9Jrto6DYPVwBQ2GQ34) | 3:15 |
 | 13 | [what if home is somebody](https://open.spotify.com/track/5TUNKnsECRCtKUpdWscqvZ) | [MAGLY](https://open.spotify.com/artist/3bVunlWHUpBqbav70P6Dbu) | [what if home is somebody](https://open.spotify.com/album/3bcBT7yzxds1LsF2Juq700) | 3:19 |
-| 14 | [Friends](https://open.spotify.com/track/4sWF8ElV8gWsBba3Ic0Rs9) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [](https://open.spotify.com/album/null) | 3:53 |
-| 15 | [Track 5](https://open.spotify.com/track/3c81KeK36oulZzW8esU9uJ) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Friends](https://open.spotify.com/track/4sWF8ElV8gWsBba3Ic0Rs9) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Friends](https://open.spotify.com/album/3IkTC7IDpzggqbdB1zYBrd) | 3:53 |
+| 15 | [Don't Break](https://open.spotify.com/track/3c81KeK36oulZzW8esU9uJ) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [PERSPECTIVES](https://open.spotify.com/album/4Z8NL5HNpN8K7PRU5CmrzO) | 3:26 |
 | 16 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 |
 | 17 | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/track/14J9XLdZtxyzJrmwfjPaw0) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe) | 3:27 |
 | 18 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 129 | [23](https://open.spotify.com/track/45Hv0rhZyzEhUnoCAkEywK) | [Anni II](https://open.spotify.com/artist/6c9h8a6rq1IF6XZuurv6xX) | [23](https://open.spotify.com/album/7u9HEFKw7cBJzDVJy5BNQo) | 4:21 |
 | 130 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 |
 
-Snapshot ID: `AAAAANfjyY+10451F+lE/XN3tbER64Xo`
+Snapshot ID: `AAAAAHxe51L0IRMuDCRkg/60pT6a8Q56`

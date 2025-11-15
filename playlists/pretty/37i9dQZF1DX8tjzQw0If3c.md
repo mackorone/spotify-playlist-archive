@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: lovlaine
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,149 likes - 94 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,150 likes - 94 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [](https://open.spotify.com/album/null) | 3:34 |
+| 1 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 3:34 |
 | 2 | [AMBANI MONEY](https://open.spotify.com/track/0FbFG2Oe58DgtBmVGVZJoR) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [AMBANI MONEY](https://open.spotify.com/album/700iQlRgavSFq8H3JMqxIj) | 2:47 |
 | 3 | [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 |
 | 4 | [Menjadi Dewasa](https://open.spotify.com/track/4nhzCMML73Im5AAhWzAviK) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Menjadi Dewasa](https://open.spotify.com/album/1U1XHck0TGcN7cpPnlzOUd) | 4:15 |
 | 5 | [Cari](https://open.spotify.com/track/2Mw6tQcNyvdcieWTBGzwpt) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari](https://open.spotify.com/album/6WjIcxK3PneU3eze5r2hPP) | 2:55 |
 | 6 | [ECHOES](https://open.spotify.com/track/3dkbzt0PpWHHq1hCRgbc7N) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [ECHOES](https://open.spotify.com/album/0yj6MHkeUuy7XwB3sOEsYi) | 3:18 |
-| 7 | [wander](https://open.spotify.com/track/6USFWI02tq5E3Cs5J9qqxS) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [](https://open.spotify.com/album/null) | 4:43 |
+| 7 | [wander](https://open.spotify.com/track/6USFWI02tq5E3Cs5J9qqxS) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 4:43 |
 | 8 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 |
 | 9 | [Dendam](https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Dendam](https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn) | 3:39 |
 | 10 | [THE HILLS](https://open.spotify.com/track/7ekI4xr14wQ0dxuxtR82em) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:15 |

@@ -4,7 +4,7 @@
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-483 songs - 1 day 5 hr 45 min
+484 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Procession](https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Liminal](https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS) | 3:20 | 2025-11-06 |  |
 | [Que llueva \`\`\`](https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Que llueva \`\`\`](https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr) | 4:28 | 2024-05-10 |  |
 | [Quiessence](https://open.spotify.com/track/5oyqKEXVxjJirSH5pNPeGS) | [Barry Walker Jr.](https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z), [Rob Smith](https://open.spotify.com/artist/29WMj2Uqud9UD3oLvbBuS0), [Jason Willmon](https://open.spotify.com/artist/3D5FmrONwuqaNSUZq5mkqm) | [Quiessence, Leaving Lower Big Basin & A Trip Into Town](https://open.spotify.com/album/6nf2vavXHAJlkygEMJSBKX) | 2:36 | 2025-11-06 |  |
+| [Rainbow Road](https://open.spotify.com/track/4dYZJ2jXXGykSRBoOMqFb2) | [Anushka Chkheidze](https://open.spotify.com/artist/67m6HVMSpQbjioHGsdmXWs), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Uncontrollable Thoughts](https://open.spotify.com/album/0S1WyQ30mE2eiqbwUIa2do) | 5:11 | 2025-11-06 |  |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-16 | 2024-04-19 |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-16 | 2022-07-25 |
 | [Rainy Forest](https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : ihaveaface](https://open.spotify.com/album/00PBc4QeFLiSjV9jT52YQj) | 2:00 | 2021-10-16 | 2024-02-05 |
@@ -385,7 +386,7 @@
 | [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2QNMea9rsz01sxiNPErdwd) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/61XTYqp8mi8ULHA6huHRAN) | 2:40 | 2021-10-16 | 2024-04-19 |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2021-10-16 | 2024-04-19 |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Sometimes He's In My Dreams](https://open.spotify.com/album/4pZGZPG7oUqZm2vjHZsnhl) | 3:46 | 2021-10-16 | 2024-09-05 |
-| [sometimes it's scary but it's still just you and me \- Leaving Laurel Revisit](https://open.spotify.com/track/31lP9IdMFuGZlHKepkACPc) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it's scary but it's still just you and me \(Leaving Laurel Revisit\)](https://open.spotify.com/album/7GSjuvfO5zE5BOLn8uRPYz) | 4:22 | 2025-05-14 |  |
+| [sometimes it's scary but it's still just you and me \- Leaving Laurel Revisit](https://open.spotify.com/track/31lP9IdMFuGZlHKepkACPc) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it's scary but it's still just you and me \(Leaving Laurel Revisit\)](https://open.spotify.com/album/7GSjuvfO5zE5BOLn8uRPYz) | 4:22 | 2025-05-14 | 2025-11-15 |
 | [Sonhar](https://open.spotify.com/track/19PpurkVR6rp1eKQHKUL91) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [CLOUDS](https://open.spotify.com/album/5pCLg77KnRu9BplaSEB7sb) | 4:52 | 2025-05-14 | 2025-11-07 |
 | [Soulitude](https://open.spotify.com/track/29SEL6NwWVOC1m8Gl4wiFm) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Soulitude](https://open.spotify.com/album/6x7Faj3evo1L651zJyxydS) | 2:02 | 2021-10-16 | 2024-10-24 |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-10-16 | 2024-09-05 |

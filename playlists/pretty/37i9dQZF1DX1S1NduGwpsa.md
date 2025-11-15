@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Celeste
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,642 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,673 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [](https://open.spotify.com/album/null) | 4:50 |
+| 1 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy) | 4:50 |
 | 2 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 3 | [Chasing Shadows](https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Chasing Shadows](https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg) | 4:34 |
 | 4 | [Amazone Blues](https://open.spotify.com/track/1ohcAmZl6D4BtaQ1TjQDoQ) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Hermon Mehari](https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT), [Emmanuel Borghi](https://open.spotify.com/artist/2zQxEBrtaCkbyrUVBcxRPk), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Healing Songs](https://open.spotify.com/album/5htGZT3fLKOMEPMLI5Gi4y) | 5:56 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 13 | [Cato Keto](https://open.spotify.com/track/1HPJAgazdyuIIzjQ3GB7kz) | [L'Equipe Lab](https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y) | [Fête de la Lune](https://open.spotify.com/album/1AJLwsfJNSl7X0pgGX3pmi) | 2:51 |
 | 14 | [deja vu \(feat\. Joe la panic\)](https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Joe la panic](https://open.spotify.com/artist/0WrQRK1aus4QQQlPTGOcat) | [deja vu](https://open.spotify.com/album/6ubPusS1bjeVnXteMzh4qE) | 2:43 |
 | 15 | [More Understanding Than A Man](https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy) | [Flore Benguigui & The Sensible Notes](https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6) | [More Understanding Than A Man](https://open.spotify.com/album/22j385vgy0DNPeUTGKzgkE) | 3:51 |
-| 16 | [Minor Blues Redux](https://open.spotify.com/track/4CoxOtljview88zweWSqQI) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [](https://open.spotify.com/album/null) | 5:24 |
+| 16 | [Minor Blues Redux](https://open.spotify.com/track/4CoxOtljview88zweWSqQI) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Songbook](https://open.spotify.com/album/4QcMPMeiiIgC6vejghEAUl) | 5:24 |
 | 17 | [Une fleur et des papillons](https://open.spotify.com/track/4rvum1zXHabR4tPwPKrKsn) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Une fleur et des papillons](https://open.spotify.com/album/1WkF9RmVuybqBDiWkPhuKn) | 5:32 |
 | 18 | [Clockwork](https://open.spotify.com/track/5ySpopJq4R7WBcfdI7NG8g) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time \(Standard Edition\)](https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG) | 2:30 |
 | 19 | [Merci Biguine](https://open.spotify.com/track/5nOnspLIl5HEKxSPJPDOEM) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [The Getdown](https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF) | 4:04 |

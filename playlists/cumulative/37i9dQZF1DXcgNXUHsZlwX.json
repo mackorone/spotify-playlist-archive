@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Good Call",
+        "url": "https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241653,
+      "name": "Good Call",
+      "url": "https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU"
+    },
+    {
+      "album": {
         "name": "Mitshuap",
         "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
@@ -5506,7 +5524,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 198928,
       "name": "Ma chanson Natashquan",
       "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 223733,
       "name": "Post Mortem",
       "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
@@ -9630,6 +9648,24 @@
       "duration_ms": 228522,
       "name": "Y'a un vent qui me ramene",
       "url": "https://open.spotify.com/track/6rnHABZ9tb7BKy5kaGjOuI"
+    },
+    {
+      "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "album": {

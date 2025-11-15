@@ -6706,7 +6706,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 142952,
       "name": "Beijo Beija-Flor",
       "url": "https://open.spotify.com/track/7obLUtc7Q3mXPt1LvHyE86"
@@ -7136,7 +7136,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 154455,
       "name": "Biff pas d'love",
       "url": "https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp"
@@ -10532,7 +10532,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 183813,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
@@ -16600,7 +16600,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -29028,7 +29028,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 137840,
       "name": "KYKY2BONDY",
       "url": "https://open.spotify.com/track/3e2dR2180mZlz7dIrXZVi6"
@@ -34108,7 +34108,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 225400,
       "name": "Mem\u00f3ria",
       "url": "https://open.spotify.com/track/4ukpy7Q6QmrB7ttNMSAcG2"
@@ -40636,7 +40636,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 156927,
       "name": "Parfum",
       "url": "https://open.spotify.com/track/5bdPefR3nuMMAvCAAMdWDY"
@@ -47172,6 +47172,36 @@
       "duration_ms": 140760,
       "name": "Sexo, Violencia y Llantas",
       "url": "https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA"
+    },
+    {
+      "album": {
+        "name": "SEXTA",
+        "url": "https://open.spotify.com/album/43H7RlVVjrGrVQ2nz3v2bz"
+      },
+      "artists": [
+        {
+          "name": "Briz the Batchlor",
+          "url": "https://open.spotify.com/artist/2Bs56rqa2KZQv8wpuaSNpL"
+        },
+        {
+          "name": "Sunce",
+          "url": "https://open.spotify.com/artist/1OE3aeBD9Q7igKyUO4UCF9"
+        },
+        {
+          "name": "TripleOG809",
+          "url": "https://open.spotify.com/artist/4LfOcBhqlw9SHgaFPr0mno"
+        },
+        {
+          "name": "Lupus.674",
+          "url": "https://open.spotify.com/artist/2vOjlpGBSLGwizm63u1mkX"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144812,
+      "name": "SEXTA",
+      "url": "https://open.spotify.com/track/5o15CMXiMtagO5ugDvZnaE"
     },
     {
       "album": {

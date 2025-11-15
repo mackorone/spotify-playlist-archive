@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Danny Félix
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,529 likes - 94 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,617 likes - 94 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 | 93 | [QUIERO SABER DE TI \- En Vivo](https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:18 |
 | 94 | [Esta Libertad](https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Intentare Olvidarte](https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN) | 2:41 |
 
-Snapshot ID: `AAAAAHIS2UZWkw1KC15+sW2EzLAOJ9k/`
+Snapshot ID: `AAAAAO9ribt0oJVu0LUCYistdPixTn4S`

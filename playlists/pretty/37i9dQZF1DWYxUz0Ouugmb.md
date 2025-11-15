@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,918 likes - 45 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,921 likes - 45 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [](https://open.spotify.com/album/null) | 3:08 |
+| 1 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Cara Mencintai](https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB) | 3:08 |
 | 2 | [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 |
 | 3 | [Mungkin](https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 4:03 |
 | 4 | [Terima Kasih](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 3:44 |

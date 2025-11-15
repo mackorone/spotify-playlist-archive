@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Orelsan
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,706 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,875 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ailleurs](https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:12 |
 | 2 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
-| 3 | [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 |
+| 3 | [Mille fois](https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Mille fois](https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU) | 2:53 |
 | 4 | [KALISTA \(Eke\-ke\-ke\-ke\)](https://open.spotify.com/track/4E2sPamzFvyDbZecdcX4Ik) | [Celestal](https://open.spotify.com/artist/2AEpvZkBjqbmEiojWgZmub), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [KALISTA \(Eke\-ke\-ke\-ke\)](https://open.spotify.com/album/5eNJdyQRNeMt8ROwAVYluX) | 2:21 |
-| 5 | [Mille fois](https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Mille fois](https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU) | 2:53 |
-| 6 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
+| 5 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
+| 6 | [Pom Pom Pom](https://open.spotify.com/track/6SPyKWcqwlXpUXGZUI8Atl) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Sergio Alejandro](https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX), [Jango Jack](https://open.spotify.com/artist/1R1ZaDpOyunIdJ6oAssW8H) | [Pom Pom Pom](https://open.spotify.com/album/0xHa6kFqBfU2gVEDspJO4w) | 2:38 |
 | 7 | [Cry For You](https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5) | [Cry For You](https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE) | 2:41 |
-| 8 | [Pom Pom Pom](https://open.spotify.com/track/6SPyKWcqwlXpUXGZUI8Atl) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Sergio Alejandro](https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX), [Jango Jack](https://open.spotify.com/artist/1R1ZaDpOyunIdJ6oAssW8H) | [Pom Pom Pom](https://open.spotify.com/album/0xHa6kFqBfU2gVEDspJO4w) | 2:38 |
+| 8 | [Bachata](https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:20 |
 | 9 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 10 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
 | 11 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 | 12 | [GARANTIE](https://open.spotify.com/track/6lfZOG3tO57nv6HSFShsrq) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [GARANTIE](https://open.spotify.com/album/5S7saNtEfQRpsRn3BkvRU1) | 2:32 |
 | 13 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 |
-| 14 | [Bachata](https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:20 |
+| 14 | [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 |
 | 15 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 |
 | 16 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 |
 | 17 | [Run \(feat\. Ragdoll\)](https://open.spotify.com/track/35t8pOqxELRbWS7ODsyc7p) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Ragdoll](https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl) | [Run \(feat\. Ragdoll\)](https://open.spotify.com/album/7fjndSdcSBxsoB4CWZMOpe) | 2:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 40 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:34 |
 
-Snapshot ID: `AAAAAM6MXelAQLTxUBv5OPW3h9a3cClA`
+Snapshot ID: `AAAAACpqp30LiwMZS8OOW5fwdnTnwsAc`

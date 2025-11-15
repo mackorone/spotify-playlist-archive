@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-573 songs - 1 day 23 hr 33 min
+574 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,8 @@
 | [ABRIR MONTE](https://open.spotify.com/track/7npn0mfuaUUNcrrVBsOEib) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 5:12 | 2025-01-17 |  |
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 | 2024-08-29 |
 | [Affiliate](https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv), [Dryft](https://open.spotify.com/artist/15XyOjcwHR1BLzZDpcja9f) | [Acquiesce](https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx) | 4:08 | 2021-12-26 | 2023-04-30 |
-| [Afrodisia](https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Afrodisia](https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT) | 9:00 | 2025-04-18 |  |
-| [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 | 2025-04-11 | 2025-11-08 |
+| [Afrodisia](https://open.spotify.com/track/6xD2aDniPCEYLB3zi5GE3i) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Afrodisia](https://open.spotify.com/album/0Bcq3HvI1e6pCiXj3RRlUT) | 9:00 | 2025-04-18 | 2025-11-15 |
+| [After the Rain](https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [After the Rain](https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp) | 9:00 | 2025-04-11 |  |
 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 | 2022-03-25 | 2024-07-05 |
 | [Agalma V](https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 7:30 | 2022-08-19 | 2023-08-12 |
 | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/track/6NwJpEnFkWdCYst3iBYCcn) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Agalma V \(ft\. Kali Malone\)](https://open.spotify.com/album/0mbSK7lbwq2Rgfv352bAQv) | 7:30 | 2021-12-26 | 2022-07-24 |
@@ -153,6 +153,7 @@
 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-18 | 2024-09-07 |
 | [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 |  |
 | [Cycles](https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 4:11 | 2023-05-05 | 2025-01-15 |
+| [D.I.S.](https://open.spotify.com/track/3az9Ir2Qd2JBHxT9wfGLoV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [D.I.S.](https://open.spotify.com/album/3GKiNeF8efgPVOIijAeCZn) | 3:32 | 2025-11-14 |  |
 | [daltabaix](https://open.spotify.com/track/4oT3HoWaRhOLkxmVFbeDbH) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/6MbMttWnGjUDCwdfjEQf31) | 4:40 | 2022-01-23 | 2023-08-12 |
 | [Daze](https://open.spotify.com/track/2S8Qc0lIVObqMrymPz5WP8) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 5:16 | 2025-05-12 |  |
 | [Daze](https://open.spotify.com/track/2tyRXA96lFPp4OmNM28j2c) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Daze](https://open.spotify.com/album/0g3fRlZjgYil54x0iWo798) | 5:16 | 2025-03-14 | 2025-05-26 |
@@ -225,7 +226,7 @@
 | [Fragments of a Slipstream Dream](https://open.spotify.com/track/5CBzjF1ViRgLUsGM1YUXen) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [Fragments of a Slipstream Dream](https://open.spotify.com/album/4ouqoYQ6RjKHULRnfIbl56) | 5:13 | 2025-04-11 | 2025-08-30 |
 | [Frames](https://open.spotify.com/track/78Njj9j4LsV2aMvJnka8FG) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 4:27 | 2025-01-24 |  |
 | [Frekm, Pt\. 1](https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Meaning's Edge](https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh) | 6:45 | 2025-01-24 |  |
-| [Fuggire](https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Lirica Ucraina](https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb) | 3:21 | 2025-02-21 |  |
+| [Fuggire](https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Lirica Ucraina](https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb) | 3:21 | 2025-02-21 | 2025-11-15 |
 | [Full Moon](https://open.spotify.com/track/5ktpSEIJoMmz5AtfzVeqBb) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Ekizikiza Mubwengula](https://open.spotify.com/album/05f58iMP9KoPbeiGAzaz4i) | 2:22 | 2021-12-26 | 2022-01-14 |
 | [Gamla Drömmars Stad](https://open.spotify.com/track/5KmxT1EsPt2E01PTHlROb3) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Dag Rosenqvist](https://open.spotify.com/artist/48wweWXKBVt3B0FdyYNprj), [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui) | [Stadsbilder](https://open.spotify.com/album/32dQ6VGcKlWLwD0tJwhM2d) | 4:18 | 2022-01-07 | 2023-05-10 |
 | [Geist](https://open.spotify.com/track/7nrNnm2eb1cv14RoLz2E9r) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:13 | 2025-01-14 | 2025-10-08 |

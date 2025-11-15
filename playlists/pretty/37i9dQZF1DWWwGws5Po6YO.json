@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Malibu",
-  "num_followers": 133261,
+  "num_followers": 133297,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Redwood Resonance",
         "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 332000,
       "name": "Redwood Resonance",
       "url": "https://open.spotify.com/track/4yyZnLXwIcoAILsFL3OaHr"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Watson",
-          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
-        }
-      ],
-      "duration_ms": 80968,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -643,26 +627,6 @@
       "duration_ms": 231624,
       "name": "Pale Interior",
       "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Suosan",
-      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -687,6 +651,42 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "duration_ms": 80968,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Suosan",
+      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Continuum 1",
         "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "My Light, My Massage Parlor",
-        "url": "https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 311521,
-      "name": "Wormhold Music",
-      "url": "https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Impossible Light",
         "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 350968,
       "name": "Endocrine Disruptor",
       "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "My Light, My Massage Parlor",
+        "url": "https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 311521,
+      "name": "Wormhold Music",
+      "url": "https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 226613,
       "name": "Amare",
       "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "become the sky",
-        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
       "artists": [
         {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
         }
       ],
-      "duration_ms": 183192,
-      "name": "Holding Moments",
-      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+        "name": "become the sky",
+        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
       },
       "artists": [
         {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
       ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
+      "duration_ms": 183192,
+      "name": "Holding Moments",
+      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Esperance",
-        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Esperance",
-      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 185834,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Esperance",
+        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Esperance",
+      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Silence (K Theory Flip)",
         "url": "https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 158571,
       "name": "Silence - K Theory Flip",
       "url": "https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "let\u2019s walk down to the swamp together",
-        "url": "https://open.spotify.com/album/17clCx63LzpWSIhW08dikI"
-      },
-      "artists": [
-        {
-          "name": "Okkyung Lee",
-          "url": "https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "let\u2019s walk down to the swamp together",
-      "url": "https://open.spotify.com/track/4IwCet2b9lJHU5UsXN1Zx5"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Big Majestic",
+        "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
+      },
+      "artists": [
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "Big Majestic",
+      "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "PLEASE COME TO ME",
         "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
       },
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Big Majestic",
-        "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
+        "name": "let\u2019s walk down to the swamp together",
+        "url": "https://open.spotify.com/album/17clCx63LzpWSIhW08dikI"
       },
       "artists": [
         {
-          "name": "Ellen Reid",
-          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+          "name": "Okkyung Lee",
+          "url": "https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ"
         }
       ],
-      "duration_ms": 290250,
-      "name": "Big Majestic",
-      "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
+      "duration_ms": 250000,
+      "name": "let\u2019s walk down to the swamp together",
+      "url": "https://open.spotify.com/track/4IwCet2b9lJHU5UsXN1Zx5"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Keep Pulling Me In",
         "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 372430,
       "name": "Keep Pulling Me In",
       "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Marina`s Song",
         "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 303828,
       "name": "Marina`s Song",
       "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2025-11-06 10:55:12",

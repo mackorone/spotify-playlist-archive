@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/7mRPMtB3ivdGhb60WKFpyA"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/4ozNmVoyTVIiXQBjN2xDVC"
+    },
+    {
+      "album": {
         "name": "Cloud",
         "url": "https://open.spotify.com/album/6ZhosGhIGeloPI8TTrOcNv"
       },
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 159000,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/4fOdK6DLy3VcpagzcI2KBt"
@@ -14229,6 +14247,24 @@
     },
     {
       "album": {
+        "name": "<sAvioR>",
+        "url": "https://open.spotify.com/album/2rhmlezB7fEfmR6dVEKofA"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "sAvioR",
+      "url": "https://open.spotify.com/track/0PzdmnKzqWQs1zrCK0PpIW"
+    },
+    {
+      "album": {
         "name": "SAVIOR",
         "url": "https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB"
       },
@@ -18344,7 +18380,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 184000,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo"

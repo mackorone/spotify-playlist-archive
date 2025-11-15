@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-214 songs - 14 hr 46 min
+215 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 | 2019-06-09 |  |
 | [But Beautiful](https://open.spotify.com/track/1wIpio4Lb8FHbn0BDVQFTZ) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:31 | 2019-05-26\* | 2022-11-13 |
 | [But Beautiful](https://open.spotify.com/track/0V10xxY5LSSknHll0y5TYO) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/3XQQdLH50xIKm7uCDbUxRo) | 3:55 | 2023-11-22 | 2024-04-19 |
-| [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 | 2021-05-08 |  |
+| [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 | 2021-05-08 | 2025-11-15 |
 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 | 2022-05-02 |  |
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2019-05-26\* | 2022-07-29 |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-06-22 | 2022-08-11 |
@@ -153,6 +153,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-06-22 | 2023-08-25 |
 | [Never Say Yes](https://open.spotify.com/track/2Ka8P81G57GuTFg6dP22qN) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Never Say Yes](https://open.spotify.com/album/670e77IHq9uXEBiaPh4fQZ) | 3:32 | 2025-01-31 | 2025-05-17 |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2019-05-26\* |  |
+| [Nobody But You](https://open.spotify.com/track/6aQfv6U5oO42qIdpMCieov) | [Abigail Flowers](https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1) | [Only a Dream](https://open.spotify.com/album/5AUVNVfDNiGbZhhHXxZSZg) | 2:50 | 2025-11-14 |  |
 | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/track/4JEC2RIrXV1owJNVKanIAT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 2:42 | 2022-06-22 | 2024-04-19 |
 | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ) | 2:42 | 2019-05-26\* | 2025-08-17 |
 | [Once Again Looking For Love](https://open.spotify.com/track/15co0IfqPYN3UvUX47Arhq) | [Irma Neumüller](https://open.spotify.com/artist/12IgqUh5ZWPutziu3KFq4w), [Stefan Wingefors](https://open.spotify.com/artist/1liam8bwvvXaHhAtjBBBC4), [Bo Nygårds](https://open.spotify.com/artist/3BBzllaBTkBElB3EAIevP7), [Albin Halvordsson](https://open.spotify.com/artist/3275AaFKPyK0QCVLYHraMv), [Johan Löfcrantz Ramsay](https://open.spotify.com/artist/4KjT6YrRSQlJcj6YJuRZuy) | [Once Again Looking For Love](https://open.spotify.com/album/2vBgUSyNzqaIs8ZJPCpQeM) | 6:03 | 2024-01-31 | 2024-07-20 |

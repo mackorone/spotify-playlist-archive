@@ -4,7 +4,7 @@
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-103 songs - 6 hr 48 min
+104 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,9 +95,10 @@
 | [渇愛エチュード](https://open.spotify.com/track/7MZI0HKNF9NctM01RT2c9V) | [susumu.](https://open.spotify.com/artist/1MNhL3vOZZu1179Z031OF5) | [渇愛エチュード](https://open.spotify.com/album/4KBFxaLgn0QSSPPiH9qITh) | 2:51 | 2025-10-26 |  |
 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-26 |  |
 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 | 2025-10-26 |  |
+| [異端児の城](https://open.spotify.com/track/64ZRvElUnHdkcjySVsX4rk) | [青谷明日香](https://open.spotify.com/artist/6MXdbO6f1sqI1ydzjYXzqc) | [異端児の城](https://open.spotify.com/album/2SHkvrALTXkcKePleotFA2) | 3:43 | 2025-11-14 |  |
 | [白日](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:36 | 2025-10-26 |  |
 | [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 | 2025-10-26 | 2025-10-30 |
-| [真実](https://open.spotify.com/track/2iRYzIJmIrANFCcJpGsu1V) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [I believe](https://open.spotify.com/album/7tZXe8kZRmMhG8G9FAlt1X) | 4:26 | 2025-10-29 |  |
+| [真実](https://open.spotify.com/track/2iRYzIJmIrANFCcJpGsu1V) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [I believe](https://open.spotify.com/album/7tZXe8kZRmMhG8G9FAlt1X) | 4:26 | 2025-10-29 | 2025-11-15 |
 | [秒針を噛む](https://open.spotify.com/track/4HgsPAX3MmMgIT60hJ4W4U) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 4:20 | 2025-10-26 |  |
 | [空](https://open.spotify.com/track/298ROhlpzNNOujR3q9XkP0) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/1ukg4OCTuWIJpBsbACk7Kp) | 3:39 | 2025-10-26 |  |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2025-10-26 |  |

@@ -1,15 +1,79 @@
 {
   "description": "A collection of best Prog Rock tracks. Cover: Dream Theater",
-  "num_followers": 122496,
+  "num_followers": 122556,
   "original_name": "Prog Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs",
+  "snapshot_id": "AAAAAEZ65InNip/W+lz6kuYLmuUh8ePK",
   "tracks": [
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Fly on a Windshield (Live in London 2024)",
+        "url": "https://open.spotify.com/album/0uep9cjuo49UHXoDR9mCaK"
+      },
+      "artists": [
+        {
+          "name": "Steve Hackett",
+          "url": "https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ"
+        }
+      ],
+      "duration_ms": 522802,
+      "name": "Fly on a Windshield - Live in London 2024",
+      "url": "https://open.spotify.com/track/6YUMnfV7PhtCdf6YVZq4Wl"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Luck and Strange (Live from the Luck and Strange Concerts)",
+        "url": "https://open.spotify.com/album/227rKW6kgGlCYTUExnEn7n"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "duration_ms": 355986,
+      "name": "Luck and Strange - Live from the Luck and Strange Concerts",
+      "url": "https://open.spotify.com/track/0HI5R2TXzruCnEZ53Mzstv"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "One of These Days (Live at Pompeii - MCMLXXII - 2025 Mix)",
+        "url": "https://open.spotify.com/album/5PtbJkcRsrP4ExckBuH91L"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 355875,
+      "name": "One of These Days - Live at Pompeii - MCMLXXII - 2025 Mix",
+      "url": "https://open.spotify.com/track/10q3BFCZ61K1rvMZAYvqYi"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Crosswind",
+        "url": "https://open.spotify.com/album/5EJhgG3arKi7lDDTj2qUam"
+      },
+      "artists": [
+        {
+          "name": "The Arbitrary",
+          "url": "https://open.spotify.com/artist/2a4UGVfNuNA24qJkBO5KTe"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Crosswind",
+      "url": "https://open.spotify.com/track/1WO4ijmnb5NqgLFPLnkCNd"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Sorrow (Live from the Luck and Strange Concerts)",
         "url": "https://open.spotify.com/album/6CNt3uh8gRZHJTObUvFtLL"
@@ -25,7 +89,7 @@
       "url": "https://open.spotify.com/track/0mp50P0Hoocl3MNMfsE0CK"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Lilac",
         "url": "https://open.spotify.com/album/2bx6qA19Jk5JbHyAzXLYno"
@@ -41,7 +105,7 @@
       "url": "https://open.spotify.com/track/0jsdJ36JFwadIMScIewxj5"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Synaesthesia",
         "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
@@ -57,7 +121,23 @@
       "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "The Long Goodbye",
+        "url": "https://open.spotify.com/album/04qrGX5HIteDnpUN2JaISK"
+      },
+      "artists": [
+        {
+          "name": "Galahad",
+          "url": "https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI"
+        }
+      ],
+      "duration_ms": 379853,
+      "name": "Behind the Veil of a Smile",
+      "url": "https://open.spotify.com/track/38j95SnduEqEJ12BqISkSk"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "You All Look The Same To Me (2024 Remastered Deluxe Edition)",
         "url": "https://open.spotify.com/album/10CW95eCsMDFh2xg8WMDGl"
@@ -73,7 +153,159 @@
       "url": "https://open.spotify.com/track/0mpRiv2dG8CcFgc76c1Zyy"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Wish You Were Here (Live from the Luck and Strange Concerts)",
+        "url": "https://open.spotify.com/album/5TiQGHUkNPIalX2lCqjhpo"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "duration_ms": 326786,
+      "name": "Wish You Were Here - Live from the Luck and Strange Concerts",
+      "url": "https://open.spotify.com/track/2kV7mDLMhKGvRxDGP0uSV0"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "The Machine Song (Demo #2, Revisited)",
+        "url": "https://open.spotify.com/album/61uCwr4g5nbYHdPsurI9yW"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 331813,
+      "name": "The Machine Song - Demo #2, Revisited",
+      "url": "https://open.spotify.com/track/2VshWryIlWedkCLdOWcMim"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "The Luck and Strange Concerts",
+        "url": "https://open.spotify.com/album/5HZzlB0LevBulZoKZtf4hH"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "duration_ms": 532906,
+      "name": "Comfortably Numb - Live from the Luck and Strange Concerts",
+      "url": "https://open.spotify.com/track/3c4qTWBG92uSqz8oCftVGl"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Still Living In The Past",
+        "url": "https://open.spotify.com/album/5W0Fw1viLlgKZXbOwSl6uZ"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "Locomotive Breath - 2025 Remix",
+      "url": "https://open.spotify.com/track/4h5BnE4ZoAtuWIJlXOmCfp"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Timeless Wavelength (Live St. Louis '80)",
+        "url": "https://open.spotify.com/album/3bxoGlqP1WUueGljS0hQKr"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 736371,
+      "name": "Xanadu - Live",
+      "url": "https://open.spotify.com/track/5eYZSdejWvrS6xSTiuZXp0"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Live - Perpetual Change",
+        "url": "https://open.spotify.com/album/1gxwSe4Od90oVy1Nrb5uCN"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        },
+        {
+          "name": "The Band Geeks",
+          "url": "https://open.spotify.com/artist/5rSLeWi6nL5nfMNFa1vReS"
+        }
+      ],
+      "duration_ms": 522000,
+      "name": "Roundabout - Live",
+      "url": "https://open.spotify.com/track/3usJZrHBrHFrPs7ut6xZ2e"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "ENZyclopedia: Volumes One & Two",
+        "url": "https://open.spotify.com/album/1VxPbvo4IhKDhnKceHJjxm"
+      },
+      "artists": [
+        {
+          "name": "Split Enz",
+          "url": "https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL"
+        }
+      ],
+      "duration_ms": 301512,
+      "name": "Spellbound - 2025 Remaster",
+      "url": "https://open.spotify.com/track/68TLFBg6OBAPmfxbJhq1i5"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Between Two Points (Live from the Luck and Strange Concerts)",
+        "url": "https://open.spotify.com/album/5vfvkP9cyY3tHfYH9zS8kd"
+      },
+      "artists": [
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        },
+        {
+          "name": "Romany Gilmour",
+          "url": "https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Between Two Points - Live from the Luck and Strange Concerts",
+      "url": "https://open.spotify.com/track/0V7zjdDdp9nZ7foEkwk3zC"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Be Merciful",
+        "url": "https://open.spotify.com/album/5kSHNOAIo4njdJCEoqsE3i"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 233525,
+      "name": "Be Merciful",
+      "url": "https://open.spotify.com/track/1rCjtzlTrHw27XmhbS3hvL"
+    },
+    {
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "An Evening of Atonement (Live)",
         "url": "https://open.spotify.com/album/1zumICMOuKhpVVHiZ5p2mB"
@@ -89,7 +321,7 @@
       "url": "https://open.spotify.com/track/5aRfuppwQkA1sAIUxBOpRy"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Out There",
         "url": "https://open.spotify.com/album/4k0e36eltQ5TIZVvAe23iH"
@@ -105,7 +337,7 @@
       "url": "https://open.spotify.com/track/2E75heqp1Kq4LbbgVSazGC"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Cruel Betrayal (Wondastation Remix)",
         "url": "https://open.spotify.com/album/1SxpPkIYPZCLpzUJKASpWI"
@@ -125,7 +357,7 @@
       "url": "https://open.spotify.com/track/65SW3hJeGG4kjjoV6DrR3w"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Gent\u014d",
         "url": "https://open.spotify.com/album/5ov1TW2liRti5KefILtn5H"
@@ -149,91 +381,59 @@
       "url": "https://open.spotify.com/track/1BubFQ5eSq00uhfgVwztxN"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
-        "name": "Wish You Were Here (Live from the Luck and Strange Concerts)",
-        "url": "https://open.spotify.com/album/5TiQGHUkNPIalX2lCqjhpo"
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/0MukNPVx40QGmyERRH7GsC"
       },
       "artists": [
         {
-          "name": "David Gilmour",
-          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+          "name": "Split Enz",
+          "url": "https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL"
         }
       ],
-      "duration_ms": 326786,
-      "name": "Wish You Were Here - Live from the Luck and Strange Concerts",
-      "url": "https://open.spotify.com/track/2kV7mDLMhKGvRxDGP0uSV0"
+      "duration_ms": 242813,
+      "name": "Late Last Night",
+      "url": "https://open.spotify.com/track/6UTGHpoGCDgmuv5pmXKNyl"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
-        "name": "The Machine Song (Demo #2, Revisited)",
-        "url": "https://open.spotify.com/album/61uCwr4g5nbYHdPsurI9yW"
+        "name": "Fanny Again, Or",
+        "url": "https://open.spotify.com/album/0SccEOd2CUxPck3gERl3LW"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "Motorpsycho",
+          "url": "https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T"
         }
       ],
-      "duration_ms": 331813,
-      "name": "The Machine Song - Demo #2, Revisited",
-      "url": "https://open.spotify.com/track/2VshWryIlWedkCLdOWcMim"
+      "duration_ms": 199413,
+      "name": "Fanny Again, Or",
+      "url": "https://open.spotify.com/track/1LsOyeeBeGWx51XHOeFqNV"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
-        "name": "Still Living In The Past",
-        "url": "https://open.spotify.com/album/5W0Fw1viLlgKZXbOwSl6uZ"
+        "name": "Triangulation",
+        "url": "https://open.spotify.com/album/56G7p9w4Ob1AQMq8ltWqRE"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "Locomotive Breath - 2025 Remix",
-      "url": "https://open.spotify.com/track/4h5BnE4ZoAtuWIJlXOmCfp"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Timeless Wavelength (Live St. Louis '80)",
-        "url": "https://open.spotify.com/album/3bxoGlqP1WUueGljS0hQKr"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 736371,
-      "name": "Xanadu - Live",
-      "url": "https://open.spotify.com/track/5eYZSdejWvrS6xSTiuZXp0"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Live - Perpetual Change",
-        "url": "https://open.spotify.com/album/1gxwSe4Od90oVy1Nrb5uCN"
-      },
-      "artists": [
-        {
-          "name": "Jon Anderson",
-          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+          "name": "Steve Morse Band",
+          "url": "https://open.spotify.com/artist/4RvfPm4uzNgEzeAxBOAQZK"
         },
         {
-          "name": "The Band Geeks",
-          "url": "https://open.spotify.com/artist/5rSLeWi6nL5nfMNFa1vReS"
+          "name": "John Petrucci",
+          "url": "https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1"
         }
       ],
-      "duration_ms": 522000,
-      "name": "Roundabout - Live",
-      "url": "https://open.spotify.com/track/3usJZrHBrHFrPs7ut6xZ2e"
+      "duration_ms": 290642,
+      "name": "Triangulation (feat. John Petrucci)",
+      "url": "https://open.spotify.com/track/2MoGL0GCj3NiaAZB9a5pHi"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "World Maker",
         "url": "https://open.spotify.com/album/7tGc2evOdokppX63rGDLKG"
@@ -253,7 +453,7 @@
       "url": "https://open.spotify.com/track/3kFRl34x3xi9WRf730DAnD"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Love Weapon",
         "url": "https://open.spotify.com/album/4XbIcl1VoAf9T8OTWkYdfv"
@@ -269,7 +469,7 @@
       "url": "https://open.spotify.com/track/0YWKzSTSpRTjdQp1Wmym4M"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Parasomnia",
         "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
@@ -285,7 +485,7 @@
       "url": "https://open.spotify.com/track/68D2W6r8x6vcdzHCPVmw04"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Have a Cigar (Live From Prague May 2023)",
         "url": "https://open.spotify.com/album/05vEKdjSlt1pE4sZNw0W3L"
@@ -301,31 +501,27 @@
       "url": "https://open.spotify.com/track/1fJvOYN7pWDl9rYYm6p3Oy"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/0m3Sa8b0aZB3pxW7h1ty8e"
+        "name": "Stella Mortua (feat. The Norwegian Radio Orchestra)",
+        "url": "https://open.spotify.com/album/2d13jKnvrPAYN1TUslDXxZ"
       },
       "artists": [
         {
-          "name": "Bioscope",
-          "url": "https://open.spotify.com/artist/19bDPhXhRA80y2TODx2sgE"
+          "name": "Einar Solberg",
+          "url": "https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv"
         },
         {
-          "name": "Steve Rothery",
-          "url": "https://open.spotify.com/artist/6kbARQcqwoyi5CHsrRoxqb"
-        },
-        {
-          "name": "Thorsten Quaeschning",
-          "url": "https://open.spotify.com/artist/6m30SHWcbXdvehkhZkgla5"
+          "name": "The Norwegian Radio Orchestra",
+          "url": "https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02"
         }
       ],
-      "duration_ms": 295407,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/5w5qpnef365DLgxknZmuoH"
+      "duration_ms": 328481,
+      "name": "Stella Mortua (feat. The Norwegian Radio Orchestra)",
+      "url": "https://open.spotify.com/track/4LafhzaaGoLtxDpYZWCpuS"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "PAINTER",
         "url": "https://open.spotify.com/album/5VYKCk3uGKXAQUZkRbGzr0"
@@ -341,7 +537,7 @@
       "url": "https://open.spotify.com/track/2I5zfaP0LkdMHpgy9lH1sk"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "The Overview",
         "url": "https://open.spotify.com/album/3xOcExpIWzroZldcdc212q"
@@ -357,7 +553,7 @@
       "url": "https://open.spotify.com/track/1hiuFbjNa7Q0x41EHUfC80"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "And You And I (Live)",
         "url": "https://open.spotify.com/album/7dNEhTtxWmtHJNTWc1Liux"
@@ -377,7 +573,7 @@
       "url": "https://open.spotify.com/track/5ayqc9RuUdYUUunKUaL4b8"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Man vs Machine",
         "url": "https://open.spotify.com/album/5JOB2GWBD1cx3Fyhw1EoN0"
@@ -405,23 +601,7 @@
       "url": "https://open.spotify.com/track/4gAYTBgH5aa3z1tGAgq0N7"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "The Luck and Strange Concerts",
-        "url": "https://open.spotify.com/album/5HZzlB0LevBulZoKZtf4hH"
-      },
-      "artists": [
-        {
-          "name": "David Gilmour",
-          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
-        }
-      ],
-      "duration_ms": 532906,
-      "name": "Comfortably Numb - Live from the Luck and Strange Concerts",
-      "url": "https://open.spotify.com/track/3c4qTWBG92uSqz8oCftVGl"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/2kMFPbsdhNCRi49gnMOEat"
@@ -437,7 +617,7 @@
       "url": "https://open.spotify.com/track/4go6kd7l2gQhfQg8yVPUcP"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
@@ -453,7 +633,7 @@
       "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Harridan",
         "url": "https://open.spotify.com/album/3vjYPAzHWD2jB3SeIpoAp0"
@@ -469,7 +649,7 @@
       "url": "https://open.spotify.com/track/2ixHZTXZwFkPGauOYTLQrW"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Erase (Live in the Netherlands)",
         "url": "https://open.spotify.com/album/7AVTKolMCoUGqK4PYa7xRo"
@@ -485,7 +665,7 @@
       "url": "https://open.spotify.com/track/6q2WRXcHzScmvvvNIx20Zv"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/6oLjcbgkrpJjZmPeJwOkZc"
@@ -501,7 +681,7 @@
       "url": "https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Freya Arctic Jam",
         "url": "https://open.spotify.com/album/22aRQppnLVN2GY2UPlDl9h"
@@ -521,7 +701,7 @@
       "url": "https://open.spotify.com/track/0HPegp1poSfXVlBzwsI4aK"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Live at the Factory in Deep Ellum",
         "url": "https://open.spotify.com/album/5ego3KkRnlTNUJNbfsYSDQ"
@@ -537,7 +717,7 @@
       "url": "https://open.spotify.com/track/2N0rwlgJPmNoYhciIhtTkU"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Across the Universe (Recorded 2015)",
         "url": "https://open.spotify.com/album/2cwpEdpvD4OtntITIM1nYd"
@@ -553,7 +733,7 @@
       "url": "https://open.spotify.com/track/3wHje5G2q5mR6flX1SX0XI"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/624DVzlyuym7yCeLqv582q"
@@ -569,7 +749,7 @@
       "url": "https://open.spotify.com/track/0OkM9jbbx0eNsl9HuYOe5W"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/56wRI2u3cxOM6CHEG9S9kY"
@@ -585,7 +765,7 @@
       "url": "https://open.spotify.com/track/00gHK05ITKDT2c40WJDevj"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Scissorgames",
         "url": "https://open.spotify.com/album/6u0FWnutWcGPGKIxkUN602"
@@ -601,27 +781,7 @@
       "url": "https://open.spotify.com/track/365QftlsJom5yjCPY20Mco"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Between Two Points (Live from the Luck and Strange Concerts)",
-        "url": "https://open.spotify.com/album/5vfvkP9cyY3tHfYH9zS8kd"
-      },
-      "artists": [
-        {
-          "name": "David Gilmour",
-          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
-        },
-        {
-          "name": "Romany Gilmour",
-          "url": "https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Between Two Points - Live from the Luck and Strange Concerts",
-      "url": "https://open.spotify.com/track/0V7zjdDdp9nZ7foEkwk3zC"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Return Of The Ellington",
         "url": "https://open.spotify.com/album/0Bm3jXwKOJZkawHIwsm34N"
@@ -637,7 +797,7 @@
       "url": "https://open.spotify.com/track/5lkokZ1j4iAdjI2a244LCj"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Midnight Messiah",
         "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
@@ -653,7 +813,7 @@
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2ZZktLwzbKzwP1bUeZVY1J"
@@ -669,7 +829,7 @@
       "url": "https://open.spotify.com/track/2ljBBCf7uUJTHbKXC9McL9"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Machines and Men",
         "url": "https://open.spotify.com/album/55CrAJlqsxryfW0wiscp4v"
@@ -685,23 +845,7 @@
       "url": "https://open.spotify.com/track/1lr87YIenNN9zdmQDACsUj"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Luck and Strange (Live from the Luck and Strange Concerts)",
-        "url": "https://open.spotify.com/album/227rKW6kgGlCYTUExnEn7n"
-      },
-      "artists": [
-        {
-          "name": "David Gilmour",
-          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
-        }
-      ],
-      "duration_ms": 355986,
-      "name": "Luck and Strange - Live from the Luck and Strange Concerts",
-      "url": "https://open.spotify.com/track/0HI5R2TXzruCnEZ53Mzstv"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "We Are Strangers",
         "url": "https://open.spotify.com/album/0HRqD6cl1l53YoRtqQJzBP"
@@ -717,7 +861,7 @@
       "url": "https://open.spotify.com/track/4FgwIKyMlMdl9heil6lN1n"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "I Can't Stay Here Anymore",
         "url": "https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR"
@@ -733,7 +877,7 @@
       "url": "https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Afterlight Awakening",
         "url": "https://open.spotify.com/album/0Hsg5kFMmlAQrVo7uL6mCf"
@@ -753,7 +897,7 @@
       "url": "https://open.spotify.com/track/2JbWuBBbIjxDD1OGqtkbNi"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "I Advance Masked (2024 David Singleton Mix)",
         "url": "https://open.spotify.com/album/69ydZnZCdZCScE1RwkdGuX"
@@ -773,7 +917,7 @@
       "url": "https://open.spotify.com/track/0ytOSfX9eriHBvPPg6OpFY"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/2bK1IwLjERGqKgYU80kAgg"
@@ -789,7 +933,7 @@
       "url": "https://open.spotify.com/track/6aPyXwx65BjLN5ySlYxywT"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Eldur",
         "url": "https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN"
@@ -805,7 +949,7 @@
       "url": "https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Our Final Song (feat. Robert Soeterboek, Marcela Bovio & Peter Daltrey) [No Narration]",
         "url": "https://open.spotify.com/album/4cBzDLEg12jP83dmxzF3PT"
@@ -833,7 +977,7 @@
       "url": "https://open.spotify.com/track/09YYm1sDqmGtyuFSYNqkrh"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Between Dogs & Wolves",
         "url": "https://open.spotify.com/album/5rAGH2Abd1SuHktkPTZMUk"
@@ -849,7 +993,7 @@
       "url": "https://open.spotify.com/track/1bcUWnL1Lh7AmHlNS6ufke"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "A Hollywood Story",
         "url": "https://open.spotify.com/album/4ine6ALlKclAoonnoQgRDC"
@@ -865,7 +1009,7 @@
       "url": "https://open.spotify.com/track/7jlq346eeBH0VSypzupaZk"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Spacekeeper",
         "url": "https://open.spotify.com/album/4txYyPHeF5JsBZP5oZ8Se5"
@@ -881,7 +1025,7 @@
       "url": "https://open.spotify.com/track/05zG6HcLop4aepPQGuNby9"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Philosopher",
         "url": "https://open.spotify.com/album/4V0MG8wrHXkywg8LNIOHz0"
@@ -901,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2YVcCNQB3TI5YWI36AhXms"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "An Evening Of Yes Music Plus (Live, Shoreline Amphitheatre, California, 1989) [2025 Remaster]",
         "url": "https://open.spotify.com/album/2YTsxE5iBfQUff95KuOy3j"
@@ -917,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5hnfi1rWf003uNGG4JN1KK"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Friend Of A Phantom",
         "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
@@ -933,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0CDjBgs0c464Z550EpiQp1"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "There Is No Space For Us",
         "url": "https://open.spotify.com/album/5SehN27m83krzTq07ZiCjL"
@@ -949,23 +1093,7 @@
       "url": "https://open.spotify.com/track/2V76h80EjxB0Gsn8CnOk8b"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Violent World",
-        "url": "https://open.spotify.com/album/7rUpSAipb6IQ1ogVjxT9Lh"
-      },
-      "artists": [
-        {
-          "name": "Jason Bieler And The Baron Von Bielski Orchestra",
-          "url": "https://open.spotify.com/artist/47biWYcWFwHFOUMWES43Kt"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Violent World",
-      "url": "https://open.spotify.com/track/7MvtamcRuvoKTTI7EH6599"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Roses from the Deep",
         "url": "https://open.spotify.com/album/7a6GERsb9QWlRKSmcB0JiD"
@@ -981,7 +1109,7 @@
       "url": "https://open.spotify.com/track/5Qv3gqhjXOZd9AFbR7ywXr"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "In the Valley of the Sun (Writing Session)",
         "url": "https://open.spotify.com/album/10Xu3FhFGW6u1Ya5UYMzRK"
@@ -997,23 +1125,7 @@
       "url": "https://open.spotify.com/track/5FQNDI7mJiKvrs1mELqe1o"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "The Long Goodbye",
-        "url": "https://open.spotify.com/album/04qrGX5HIteDnpUN2JaISK"
-      },
-      "artists": [
-        {
-          "name": "Galahad",
-          "url": "https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI"
-        }
-      ],
-      "duration_ms": 379853,
-      "name": "Behind the Veil of a Smile",
-      "url": "https://open.spotify.com/track/38j95SnduEqEJ12BqISkSk"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/5mJr0qZDx87Ttsys8QuPsg"
@@ -1029,23 +1141,7 @@
       "url": "https://open.spotify.com/track/1IfI2uz0lCvV587vHFrLBU"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Crosswind",
-        "url": "https://open.spotify.com/album/5EJhgG3arKi7lDDTj2qUam"
-      },
-      "artists": [
-        {
-          "name": "The Arbitrary",
-          "url": "https://open.spotify.com/artist/2a4UGVfNuNA24qJkBO5KTe"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Crosswind",
-      "url": "https://open.spotify.com/track/1WO4ijmnb5NqgLFPLnkCNd"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Build And Destroy",
         "url": "https://open.spotify.com/album/5pftDdyVIpfChLLsaGpJ8N"
@@ -1061,7 +1157,7 @@
       "url": "https://open.spotify.com/track/37lctHJGpnrzHPluCe48S8"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Electric Sunrise (Live)",
         "url": "https://open.spotify.com/album/1jepuf2P0uiq6eS1kejRnq"
@@ -1077,7 +1173,7 @@
       "url": "https://open.spotify.com/track/7JmzH90kC4elhN7g8XBkDI"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Barstool Warrior (Live \u00e0 Paris 2024)",
         "url": "https://open.spotify.com/album/0qg4JmGjYxDuaT9tFyRSY5"
@@ -1093,7 +1189,7 @@
       "url": "https://open.spotify.com/track/7eX9xqI399U6128qSY0SDU"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Invisible Monster",
         "url": "https://open.spotify.com/album/1p1GZyBV8zsBEW9I0LBQX7"
@@ -1109,7 +1205,7 @@
       "url": "https://open.spotify.com/track/6l2ql6PfoDuaTtcjjPYGFL"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Mute",
         "url": "https://open.spotify.com/album/0Cq2paWUeXiHpIA41wu4gk"
@@ -1125,7 +1221,7 @@
       "url": "https://open.spotify.com/track/0RS3WRyOOtXyDVmZ9GjsqK"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Do Angels Sing Like Rain?",
         "url": "https://open.spotify.com/album/4srkbHQAppZckPsJdnfcuL"
@@ -1141,23 +1237,7 @@
       "url": "https://open.spotify.com/track/0u3s6lOQUPphFLrDCuLZU4"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Fly on a Windshield (Live in London 2024)",
-        "url": "https://open.spotify.com/album/0uep9cjuo49UHXoDR9mCaK"
-      },
-      "artists": [
-        {
-          "name": "Steve Hackett",
-          "url": "https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ"
-        }
-      ],
-      "duration_ms": 522802,
-      "name": "Fly on a Windshield - Live in London 2024",
-      "url": "https://open.spotify.com/track/6YUMnfV7PhtCdf6YVZq4Wl"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Ritual II",
         "url": "https://open.spotify.com/album/2S09TwPSoiA10qVzbKGmMy"
@@ -1173,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3MGQnKDJyguIA7EV8m56oX"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "Frostbite",
         "url": "https://open.spotify.com/album/5s4MhpGN9Kqul0nG26zshb"
@@ -1197,43 +1277,7 @@
       "url": "https://open.spotify.com/track/1xWJy7RRWLdnoEwySFGYYf"
     },
     {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "One of These Days (Live at Pompeii - MCMLXXII - 2025 Mix)",
-        "url": "https://open.spotify.com/album/5PtbJkcRsrP4ExckBuH91L"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 355875,
-      "name": "One of These Days - Live at Pompeii - MCMLXXII - 2025 Mix",
-      "url": "https://open.spotify.com/track/10q3BFCZ61K1rvMZAYvqYi"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Frankenstein 1984",
-        "url": "https://open.spotify.com/album/6TkH7hjTutAGOp2Gd04kL0"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "The Edgar Winter Group",
-          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
-        }
-      ],
-      "duration_ms": 296341,
-      "name": "Frankenstein 1984 - Human Version",
-      "url": "https://open.spotify.com/track/7hK8iVmY1BYcDxf4yZRcUY"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
+      "added_at": "2025-11-14 05:00:23",
       "album": {
         "name": "The 5th Law",
         "url": "https://open.spotify.com/album/1npulGf5kCQoe7x7GGrEoD"
@@ -1247,58 +1291,6 @@
       "duration_ms": 121730,
       "name": "The 5th Law",
       "url": "https://open.spotify.com/track/2KMZ1xgGefGnO3WnMC5G6o"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/6NzzZ4GAYMcWeFuiT9GvPd"
-      },
-      "artists": [
-        {
-          "name": "Atomic Rooster",
-          "url": "https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/3ovNq4FsRGSyIZvRMpNSsk"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "TexUS (feat. Eric Johnson)",
-        "url": "https://open.spotify.com/album/39qzby2V7bxoBT6mzzQs10"
-      },
-      "artists": [
-        {
-          "name": "Steve Morse Band",
-          "url": "https://open.spotify.com/artist/4RvfPm4uzNgEzeAxBOAQZK"
-        },
-        {
-          "name": "Eric Johnson",
-          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
-        }
-      ],
-      "duration_ms": 241490,
-      "name": "TexUS (feat. Eric Johnson)",
-      "url": "https://open.spotify.com/track/73cdpgxk2PWsu3iKsYQH0x"
-    },
-    {
-      "added_at": "2025-10-24 04:00:20",
-      "album": {
-        "name": "Songs No One Will Hear (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5S8Vnhh6bP5gq6Ft43Dat8"
-      },
-      "artists": [
-        {
-          "name": "Arjen Anthony Lucassen",
-          "url": "https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5"
-        }
-      ],
-      "duration_ms": 187776,
-      "name": "Shaggathon",
-      "url": "https://open.spotify.com/track/0fROX4SJcbuM2gzjali8I8"
     }
   ],
   "unique_name": "Prog Rock",

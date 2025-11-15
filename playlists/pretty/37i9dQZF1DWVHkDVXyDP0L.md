@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Dick Move
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,453 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,458 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 22 | [OUT OF PATIENCE](https://open.spotify.com/track/1Wqbrtm5eHsjmcnsf6umUh) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Blasé Vengeance](https://open.spotify.com/album/1xzzNu8p2E0n0DYEcupurm) | 3:05 |
 | 23 | [Always](https://open.spotify.com/track/1tFM3FFCJRrkknAc5ffcDl) | [Paint](https://open.spotify.com/artist/4ohEeJGX3pShqjUeWFCeJJ) | [Forever and Always](https://open.spotify.com/album/5kAHRNHzhhBJ5zAHb9vRL1) | 2:50 |
 | 24 | [How I'm Feeling](https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [How I'm Feeling](https://open.spotify.com/album/5UFejVMGISqKdcE8jikgyd) | 2:56 |
-| 25 | [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [](https://open.spotify.com/album/null) | 3:11 |
-| 26 | [YOU WANTED YOU BACK](https://open.spotify.com/track/7j21glYanSStULyf6v2tL5) | [ixaras](https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ) | [](https://open.spotify.com/album/null) | 3:17 |
+| 25 | [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [All That We Know](https://open.spotify.com/album/2IEKZcBQyuVhHxiDfvUvfb) | 3:11 |
+| 26 | [YOU WANTED YOU BACK](https://open.spotify.com/track/7j21glYanSStULyf6v2tL5) | [ixaras](https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ) | [WHAT IS AND WHAT ISN'T](https://open.spotify.com/album/07DEkEFRGyvcfWT8eXg5YQ) | 3:17 |
 | 27 | [Make My Mind Up](https://open.spotify.com/track/6Y8QaIWaE5gBmpmw1lmK9D) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Make My Mind Up](https://open.spotify.com/album/03VAGqO2P3qjhga99wXn2s) | 3:18 |
 | 28 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [HighSchool](https://open.spotify.com/album/3AkpBHPOvTPlxXPEhmNp1b) | 3:51 |
 | 29 | [Burning Up](https://open.spotify.com/track/6KWiyZvFVhxeZcZNi0AVnv) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [Burning Up](https://open.spotify.com/album/5YRugobEW4k70jcSy7uVnO) | 2:56 |

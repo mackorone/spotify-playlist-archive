@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Bavé  ✨
 
-2,140 songs - 4 day 19 hr 52 min
+2,140 songs - 4 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,7 +670,7 @@
 | [flooding colors](https://open.spotify.com/track/1TOzhmcJwkvspQekRDurZo) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [flooding colors](https://open.spotify.com/album/49cWz4e0g3V6ATxO4l3b1q) | 3:14 | 2025-01-23 | 2025-03-14 |
 | [Flowers](https://open.spotify.com/track/5qLrPj4UgxfXDQ8eMCrepp) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flowers](https://open.spotify.com/album/7bPgpfTm8qpumS9b1QTmLM) | 4:09 | 2023-10-26 | 2024-02-23 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-13 | 2023-06-02 |
-| [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [](https://open.spotify.com/album/null) | 3:28 | 2025-11-13 |  |
+| [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 | 2025-11-13 |  |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-15 | 2024-04-15 |
 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 | 2024-05-09 |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-01-26 | 2023-04-14 |
@@ -812,7 +812,7 @@
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2023-12-08 | 2023-12-15 |
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-10-28 | 2022-11-11 |
 | [Happy If I Stay Around](https://open.spotify.com/track/5eCjIjTusv9z6zTbFgsSO8) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Happy If I Stay Around](https://open.spotify.com/album/6yDA8QPkos5D3Kq7WtlFhS) | 2:30 | 2023-05-11 | 2023-06-30 |
-| [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [](https://open.spotify.com/album/null) | 3:34 | 2025-11-13 |  |
+| [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-11-13 |  |
 | [Harsh Love](https://open.spotify.com/track/6kdHY97UbXDdxfExPF45su) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Close To The Knife](https://open.spotify.com/album/3av2n4bZhUwbSL54kdV0th) | 3:29 | 2025-05-29 | 2025-09-12 |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/0Bz6Ih38mhIR3ZnzB1TYDV) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky \(feat\. underscores\)](https://open.spotify.com/album/6PIdDhgeQGjq2B01RP0m23) | 3:53 | 2024-10-17 | 2025-01-17 |
 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 | 2025-02-27 | 2025-05-23 |
@@ -1777,6 +1777,7 @@
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-10-28 | 2022-11-11 |
 | [sunshine\~](https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [sunshine\~](https://open.spotify.com/album/68xXHDSi3oAj6OMzz2Ln5K) | 1:49 | 2024-09-12 | 2024-10-04 |
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 | 2023-10-13 |
+| [Superbia](https://open.spotify.com/track/0j9DOnRVUkL5pHbcF5hc7h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SUPERBIA HARDCORE](https://open.spotify.com/album/06mSUqyBywp1dbsEgO9srC) | 2:17 | 2025-11-13 |  |
 | [Supercharged](https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Supercharged](https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2) | 2:19 | 2023-03-09 | 2023-04-07 |
 | [supernova](https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [supernova](https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq) | 1:30 | 2022-10-28 | 2022-11-18 |
 | [supernova](https://open.spotify.com/track/270BRCqU0rVqTrh72GuoNu) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 1:30 | 2022-11-17 | 2022-12-09 |
@@ -1934,7 +1935,6 @@
 | [Tough Love](https://open.spotify.com/track/0jeU42hx3LbPJAytAQEEPV) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Kick Off](https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo) | 4:16 | 2024-01-11 | 2024-04-19 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-11-18 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-08-07 |  |
-| [Track 6](https://open.spotify.com/track/0j9DOnRVUkL5pHbcF5hc7h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-06 |  |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-06 | 2024-08-02 |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 | 2025-06-20 |

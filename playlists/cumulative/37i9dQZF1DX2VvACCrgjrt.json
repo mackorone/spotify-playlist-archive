@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "2 Attached",
+        "url": "https://open.spotify.com/album/2i70x6kpNmQ0XYT5LEarfl"
+      },
+      "artists": [
+        {
+          "name": "Sam F",
+          "url": "https://open.spotify.com/artist/7KCdHGc5N4oYz2Ekg3CRdb"
+        },
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/6k1PUqfJwVvqumfOUCPPzh"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128977,
+      "name": "2 Attached",
+      "url": "https://open.spotify.com/track/5JvOJVaGlj7yFqlr9TVCZl"
+    },
+    {
+      "album": {
         "name": "2077",
         "url": "https://open.spotify.com/album/3VUqlLwfhgY1UDR2UFGGvc"
       },
@@ -2278,7 +2300,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 166874,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/18fUxrPwBTPPLXIJPggK5o"
@@ -2464,6 +2486,28 @@
       "duration_ms": 220119,
       "name": "Best Shot",
       "url": "https://open.spotify.com/track/0bNsRYvrZokG8s7rfK3LS4"
+    },
+    {
+      "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Jack August",
+          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200353,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
     },
     {
       "album": {
@@ -4486,7 +4530,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 195071,
       "name": "Choose Violence",
       "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
@@ -5695,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "Deeper Ecstasy",
+        "url": "https://open.spotify.com/album/4uXPLEryEVi8q87JozxMvV"
+      },
+      "artists": [
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Deeper Ecstasy",
+      "url": "https://open.spotify.com/track/1blZzyA1hlcGBtJ7YIZhEQ"
+    },
+    {
+      "album": {
         "name": "Deeper Underground",
         "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
@@ -6800,7 +6862,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 182272,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
@@ -7106,7 +7168,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 169846,
       "name": "EVERYBODY",
       "url": "https://open.spotify.com/track/1B71kS6emETgShqiQ9JI23"
@@ -7482,6 +7544,24 @@
       "duration_ms": 161503,
       "name": "Feel (Real Love)",
       "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
+    },
+    {
+      "album": {
+        "name": "Feel Da Beat",
+        "url": "https://open.spotify.com/album/271gqubAE5hTSAQBWqiavh"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Feel Da Beat",
+      "url": "https://open.spotify.com/track/49OuNS6cGZrDLputzkeNOh"
     },
     {
       "album": {
@@ -7862,6 +7942,24 @@
       "duration_ms": 172320,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/0UTfh9gvdC7H1dAzBc0GE4"
+    },
+    {
+      "album": {
+        "name": "Flip That",
+        "url": "https://open.spotify.com/album/6GHUsL4RXhTj0OM2WnvbJq"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Flip That",
+      "url": "https://open.spotify.com/track/7wkhEeYUkntSTyTBHkNgC4"
     },
     {
       "album": {
@@ -9192,7 +9290,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
@@ -9214,6 +9312,28 @@
       "duration_ms": 141904,
       "name": "Go Off",
       "url": "https://open.spotify.com/track/6iLZESyrmUOojSQtSsWm9R"
+    },
+    {
+      "album": {
+        "name": "Go Stupid",
+        "url": "https://open.spotify.com/album/1n8qRn3BqESQRCcRHtQzSm"
+      },
+      "artists": [
+        {
+          "name": "Merger",
+          "url": "https://open.spotify.com/artist/6ibRf7SDr5Vj50Wny4XCV7"
+        },
+        {
+          "name": "DJ Cognito",
+          "url": "https://open.spotify.com/artist/1Hq0aXnXSnCygpxKxxmzPi"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123636,
+      "name": "Go Stupid",
+      "url": "https://open.spotify.com/track/6RR38VIf6I6io3tZXVmKF7"
     },
     {
       "album": {
@@ -10718,7 +10838,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
@@ -12757,6 +12877,24 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/1DUm4jqxEuziygBJgn5bX1"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/60vSMUTV1JtBk4Juh8nyfV"
+    },
+    {
+      "album": {
         "name": "Like Before",
         "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
       },
@@ -13443,6 +13581,28 @@
     },
     {
       "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171380,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
+    },
+    {
+      "album": {
         "name": "Make U Sick",
         "url": "https://open.spotify.com/album/2HDGZrwuzUgSWX1yjYfItq"
       },
@@ -14070,7 +14230,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 165245,
       "name": "Move",
       "url": "https://open.spotify.com/track/3kHV9AjyWEDky2hsGDG9xE"
@@ -14636,7 +14796,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 227076,
       "name": "Need No Light",
       "url": "https://open.spotify.com/track/3i8jRKmCBM3PhmO4i1pevE"
@@ -15878,6 +16038,24 @@
       "duration_ms": 217500,
       "name": "ODB",
       "url": "https://open.spotify.com/track/7lHynUn1w2C6Bv3hgYajK7"
+    },
+    {
+      "album": {
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "album": {
@@ -24200,7 +24378,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"

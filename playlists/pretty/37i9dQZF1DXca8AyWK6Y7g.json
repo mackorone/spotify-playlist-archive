@@ -1,13 +1,29 @@
 {
-  "description": "It's new girlgroup time with 3Quency",
-  "num_followers": 1567758,
+  "description": "hello diva! with Mikayla Geier on the cover",
+  "num_followers": 1567614,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDrJatCUgetq5IZhsG7lcvIkXaR",
+  "snapshot_id": "AAAAAIBO7gUJat4sG5i1oP/6RgLHb4MO",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:24",
+      "album": {
+        "name": "diva",
+        "url": "https://open.spotify.com/album/4eXW7vxt1U6IZavAfbyLTo"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 159153,
+      "name": "diva",
+      "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
+    },
     {
       "added_at": "2025-11-07 05:00:58",
       "album": {
@@ -73,6 +89,22 @@
       "url": "https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt"
     },
     {
+      "added_at": "2025-11-14 14:21:39",
+      "album": {
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 238319,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
+    },
+    {
       "added_at": "2025-07-25 04:01:01",
       "album": {
         "name": "12 to 12",
@@ -87,6 +119,22 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-11-14 14:21:39",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2025-11-08 19:20:05",
@@ -105,6 +153,22 @@
       "url": "https://open.spotify.com/track/1EzqvVdQJh0QgimQMmCGoB"
     },
     {
+      "added_at": "2025-11-14 14:21:39",
+      "album": {
+        "name": "avoidant little b <3",
+        "url": "https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 148017,
+      "name": "avoidant little b <3",
+      "url": "https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R"
+    },
+    {
       "added_at": "2025-10-17 04:01:00",
       "album": {
         "name": "So Sad So Hot",
@@ -119,6 +183,22 @@
       "duration_ms": 171014,
       "name": "So Sad So Hot",
       "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+    },
+    {
+      "added_at": "2025-11-14 14:21:39",
+      "album": {
+        "name": "Mean To Me",
+        "url": "https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 124913,
+      "name": "Mean To Me",
+      "url": "https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD"
     },
     {
       "added_at": "2025-11-07 05:00:58",
@@ -553,22 +633,6 @@
       "url": "https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5"
     },
     {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "diva",
-        "url": "https://open.spotify.com/album/4eXW7vxt1U6IZavAfbyLTo"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 159153,
-      "name": "diva",
-      "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
-    },
-    {
       "added_at": "2025-10-03 04:00:48",
       "album": {
         "name": "The Things",
@@ -699,22 +763,6 @@
       "duration_ms": 175290,
       "name": "hot shit",
       "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 166873,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K"
     },
     {
       "added_at": "2025-09-05 04:57:49",
@@ -895,22 +943,6 @@
       "duration_ms": 218613,
       "name": "I'll Be Here When You're Back",
       "url": "https://open.spotify.com/track/3pNcgvbucJFDBUPqWsDS6b"
-    },
-    {
-      "added_at": "2025-08-22 04:32:11",
-      "album": {
-        "name": "dirty shirley / no thoughts",
-        "url": "https://open.spotify.com/album/5gDIcJCHbtgTgPR30MsfDk"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 136119,
-      "name": "dirty shirley",
-      "url": "https://open.spotify.com/track/6kMRCc9RQCseorIJFn0sJn"
     },
     {
       "added_at": "2025-09-26 04:00:24",
@@ -1409,22 +1441,6 @@
       "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
     },
     {
-      "added_at": "2025-08-01 00:00:22",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 192260,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72"
-    },
-    {
       "added_at": "2025-08-17 03:37:41",
       "album": {
         "name": "How To Live",
@@ -1551,22 +1567,6 @@
       "duration_ms": 167124,
       "name": "BIG",
       "url": "https://open.spotify.com/track/2jKeQXeZ8tdT9zYebSmRgn"
-    },
-    {
-      "added_at": "2025-07-04 04:00:38",
-      "album": {
-        "name": "autonomy",
-        "url": "https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 156368,
-      "name": "Sugar, baby",
-      "url": "https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5"
     },
     {
       "added_at": "2024-08-23 04:37:51",

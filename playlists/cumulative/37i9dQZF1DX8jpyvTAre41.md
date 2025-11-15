@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Jutes
 
-1,484 songs - 3 day 11 hr 17 min
+1,484 songs - 3 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [BITTER](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 | 2024-12-20 | 2025-03-29 |
 | [Bitter Melon](https://open.spotify.com/track/5VAGx9L6hdAk6PgVWpmX13) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/3V1jYsGINylmb0rvweOfna) | 6:09 | 2024-03-15 | 2024-04-13 |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-05-10 | 2024-06-08 |
-| [BLACK HONEY](https://open.spotify.com/track/4k7xlAymPBgxqJSdMgHfJX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [](https://open.spotify.com/album/null) | 4:28 | 2025-11-14 |  |
+| [BLACK HONEY](https://open.spotify.com/track/4k7xlAymPBgxqJSdMgHfJX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [SONIC TRASH](https://open.spotify.com/album/65DiMasUEEVfLXwNgeoYok) | 4:28 | 2025-11-14 |  |
 | [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-17 | 2022-06-25 |
 | [Black Summer](https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:52 | 2022-04-01 | 2022-08-20 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 | 2022-04-02 |
@@ -175,6 +175,7 @@
 | [Blow Up](https://open.spotify.com/track/15QRTlfRG3ml7JcPBrhOv3) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Future Lovers](https://open.spotify.com/album/3K7DCfTlYqTxV5UXJqUyr4) | 3:14 | 2021-12-31 | 2022-03-12 |
 | [Blue Kite](https://open.spotify.com/track/3mmPVTmjCRIa7p7cA8lDTh) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Blue Kite](https://open.spotify.com/album/22RNSXaulZOIgT9aA8XaTu) | 6:11 | 2024-05-17 | 2024-05-25 |
 | [Blue Sky Mystery \(feat\. Filter\)](https://open.spotify.com/track/72gBNYH0KolUEsjBC6RZeU) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Blue Sky Mystery \(feat\. Filter\)](https://open.spotify.com/album/6gUkP7xvWusAPr1VmHPGJB) | 3:14 | 2025-08-01 | 2025-09-26 |
+| [blue transitions](https://open.spotify.com/track/6Ia5jX0vqOF8aPez5RHbyr) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [blue transitions](https://open.spotify.com/album/2IznBygnqa7eG0woRJBjhM) | 4:16 | 2025-11-14 |  |
 | [Blueprint](https://open.spotify.com/track/7IfI7jyQqMl1yRrZ9KlNpJ) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Glitch: Lvl 1](https://open.spotify.com/album/3guAqxZJEr79KX9qELtC8k) | 2:48 | 2024-07-12 | 2024-07-27 |
 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-11-11 | 2022-12-24 |
 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3heq3nQ3JMqOFXBwuuLyFb) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:43 | 2022-02-25 | 2022-05-07 |
@@ -262,7 +263,7 @@
 | [City Of The Dead](https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:53 | 2022-12-05 | 2023-01-06 |
 | [Clearview](https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Clearview](https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg) | 2:44 | 2021-12-31 | 2022-01-29 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-23 | 2025-07-12 |
-| [Close Enough](https://open.spotify.com/track/1Jd2lA1OFZ3FLx0tuuNE4U) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [](https://open.spotify.com/album/null) | 3:07 | 2025-11-14 |  |
+| [Close Enough](https://open.spotify.com/track/1Jd2lA1OFZ3FLx0tuuNE4U) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [The Thinning Veil](https://open.spotify.com/album/10uDYKhWbVtVxLl3u3dzSQ) | 3:07 | 2025-11-14 |  |
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2022-04-02 |
 | [cold](https://open.spotify.com/track/0D6eRmVzg4fDshEz6cOSDn) | [never easy](https://open.spotify.com/artist/3Qr5Z948M0BpkrKDFTRwv1) | [cold](https://open.spotify.com/album/54Jc6dF9Xde9TUEr9l3NNC) | 3:37 | 2025-04-04 | 2025-08-02 |
 | [Cold Caller](https://open.spotify.com/track/5QKbilwxACHAIJMNGjt6rX) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Cold Caller](https://open.spotify.com/album/6cu9qXzpFVNGU8ARlfqvH2) | 3:05 | 2024-07-05 | 2024-11-16 |
@@ -1006,7 +1007,7 @@
 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 | 2024-03-15 | 2024-05-03 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-24 | 2024-05-11 |
 | [Politicking](https://open.spotify.com/track/5QgF5mYqbdF4R7veZjLQVl) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Politicking](https://open.spotify.com/album/70IcDDLyhTjBt413hAz51P) | 3:06 | 2024-05-24 | 2024-06-08 |
-| [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [](https://open.spotify.com/album/null) | 4:00 | 2025-11-14 |  |
+| [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Ripe Fruit Rots and Falls](https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW) | 4:00 | 2025-11-14 |  |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-03 | 2023-09-23 |
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 | 2022-04-02 |
 | [Power To Undo](https://open.spotify.com/track/0DgGr62ntCpgmjV2yDTOtI) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Power To Undo](https://open.spotify.com/album/7AdwPPWvFmeAdO56JB0Itk) | 2:50 | 2024-02-09 | 2024-03-23 |
@@ -1330,7 +1331,6 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 | 2024-10-19 |
 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 | 2024-07-12 | 2024-11-23 |
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 | 2025-09-19 |
-| [Track 5](https://open.spotify.com/track/6Ia5jX0vqOF8aPez5RHbyr) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-14 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Tree Of Life](https://open.spotify.com/track/3WBecJY7EJ8KWZikPhP7Rf) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Serene Demon](https://open.spotify.com/album/5HKW5i8WLnIoXapKVE5O2F) | 3:08 | 2025-02-14 | 2025-06-21 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-21 | 2025-06-28 |
@@ -1431,7 +1431,7 @@
 | [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 | 2023-12-08 | 2024-03-30 |
 | [When The Fire is Hot](https://open.spotify.com/track/5UPL6le13wwd6fy0mZDq6C) | [Helix](https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG) | [When The Fire is Hot](https://open.spotify.com/album/4EP8Ogo588fO0h8NCOgnZu) | 4:18 | 2025-10-03 |  |
 | [When You Stop](https://open.spotify.com/track/4lu7jm5pq8H9kOYrJkXR9b) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Remember Never Before](https://open.spotify.com/album/72uKcGYgxFDS0suNyqq2LU) | 3:20 | 2023-01-20 | 2023-04-09 |
-| [When You're Gone](https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [](https://open.spotify.com/album/null) | 3:36 | 2025-11-14 |  |
+| [When You're Gone](https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Flowers](https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc) | 3:36 | 2025-11-14 |  |
 | [Where the Flowers Never Grow](https://open.spotify.com/track/4cFI7k2rfpnxNKxUhHmANB) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Where The Flowers Never Grow](https://open.spotify.com/album/44cgztHaaoJh5taG0n0PG0) | 4:24 | 2025-08-22 | 2025-10-18 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-01-16 | 2022-04-16 |
 | [White Buffalo](https://open.spotify.com/track/1OuhXoDx2sIChuNiB3hovd) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [White Buffalo](https://open.spotify.com/album/5wTKkCOqwJa9EQXCj5kM8P) | 3:51 | 2021-12-31 | 2022-07-29 |

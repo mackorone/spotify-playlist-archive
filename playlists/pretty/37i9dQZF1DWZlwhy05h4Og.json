@@ -1,13 +1,45 @@
 {
-  "description": "The sweetest bops. Cover: Hearts2Hearts",
-  "num_followers": 67048,
+  "description": "The sweetest bops. Cover: GIRLSET",
+  "num_followers": 67097,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALNKqn+u2Smlxb+agw887Jl15vNW",
+  "snapshot_id": "AAAAAMYaihhkGgHG/DVPS3TC3O54HBUD",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "duration_ms": 143593,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
+    },
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
+        "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
+    },
     {
       "added_at": "2025-10-24 04:00:06",
       "album": {
@@ -43,6 +75,22 @@
       "duration_ms": 171226,
       "name": "SPAGHETTI (English ver.)",
       "url": "https://open.spotify.com/track/6xndk83L8mJQ4sKdGfP4ie"
+    },
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "CAPPUCCINO",
+        "url": "https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "CAPPUCCINO",
+      "url": "https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk"
     },
     {
       "added_at": "2025-11-07 05:00:31",
@@ -93,22 +141,6 @@
       "url": "https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv"
     },
     {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
       "added_at": "2025-10-10 23:53:10",
       "album": {
         "name": "WE GO UP",
@@ -123,6 +155,26 @@
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
+    },
+    {
+      "added_at": "2025-11-14 05:00:25",
+      "album": {
+        "name": "M.I.A (VALORANT Game Changers Version)",
+        "url": "https://open.spotify.com/album/4w96kbeZiq2Q2n8dDAVi4K"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "duration_ms": 129587,
+      "name": "M.I.A - VALORANT Game Changers Version",
+      "url": "https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -247,6 +299,22 @@
       "duration_ms": 147566,
       "name": "Soap (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
       "added_at": "2025-07-02 03:40:34",
@@ -413,22 +481,6 @@
       "url": "https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM"
     },
     {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
       "added_at": "2025-05-02 04:00:32",
       "album": {
         "name": "Day & Night",
@@ -443,22 +495,6 @@
       "duration_ms": 152813,
       "name": "Pookie",
       "url": "https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF"
-    },
-    {
-      "added_at": "2025-08-29 04:00:34",
-      "album": {
-        "name": "If He Wanted To He Would",
-        "url": "https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 197875,
-      "name": "If He Wanted To He Would",
-      "url": "https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7"
     },
     {
       "added_at": "2025-06-24 00:01:48",
@@ -491,38 +527,6 @@
       "duration_ms": 166373,
       "name": "POISON IVY",
       "url": "https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0"
-    },
-    {
-      "added_at": "2025-05-16 04:00:33",
-      "album": {
-        "name": "MY EYES OPEN VVIDE",
-        "url": "https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 195835,
-      "name": "DROP TOP",
-      "url": "https://open.spotify.com/track/2QmoGPYjajOOCtiv3wQseI"
-    },
-    {
-      "added_at": "2025-05-09 04:00:04",
-      "album": {
-        "name": "Pinky Swear?",
-        "url": "https://open.spotify.com/album/5U36itC7v2erjq9Gwh97PB"
-      },
-      "artists": [
-        {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
-        }
-      ],
-      "duration_ms": 131467,
-      "name": "Pinky Swear?",
-      "url": "https://open.spotify.com/track/4Yvu5lwTuoxmesv3oizLRa"
     },
     {
       "added_at": "2025-07-02 03:40:34",

@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Del Water Gap
+> a little indie, a little pop, soda featuring The Aces
 
-1,486 songs - 3 day 2 hr 6 min
+1,489 songs - 3 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Catching Feelings](https://open.spotify.com/track/0sFO6b53HyYK3PUi41H93d) | [LOWBORN](https://open.spotify.com/artist/0tAM9QPUwdBLBPbtOzJD09) | [Catching Feelings](https://open.spotify.com/album/0ZCt0jWZtI1JZUJ84cLoyC) | 2:47 | 2022-03-25 | 2022-05-28 |
 | [cats can surf](https://open.spotify.com/track/3WUBOD1vDawuuHFlnUXjmV) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [cats can surf](https://open.spotify.com/album/4PWFmTNCil8STXVDlLXNsu) | 2:44 | 2025-03-21 | 2025-06-07 |
 | [caught in the middle](https://open.spotify.com/track/2E3lTYTdrC38kF4z11tnaH) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes 1](https://open.spotify.com/album/0OvGSbaiPDVpC6d01KO2pI) | 2:36 | 2024-12-13 | 2025-03-01 |
-| [Chai Tea Baby](https://open.spotify.com/track/0zqZ20VAvECtD6DTS46Ua2) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Chai Tea Baby](https://open.spotify.com/album/6qDq4aAGp4REOdcQralrTX) | 2:39 | 2025-08-08 |  |
+| [Chai Tea Baby](https://open.spotify.com/track/0zqZ20VAvECtD6DTS46Ua2) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Chai Tea Baby](https://open.spotify.com/album/6qDq4aAGp4REOdcQralrTX) | 2:39 | 2025-08-08 | 2025-11-15 |
 | [Chameleon Lover](https://open.spotify.com/track/0HmRwEiMZhcNssbJ6g9crf) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Chameleon Lover](https://open.spotify.com/album/3s1TqGIRD59nGuxmx2tUfO) | 2:28 | 2024-10-11 | 2025-01-25 |
 | [CHAMPAGNE](https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [CHAMPAGNE](https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs) | 3:00 | 2022-04-29 | 2022-07-23 |
 | [Chandeliers](https://open.spotify.com/track/0QTuRoeQshkYmyPhqkGAqw) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Employee of the Year](https://open.spotify.com/album/2SMRHpF5UV9gEs3YbOC5ix) | 3:02 | 2024-10-18 | 2025-01-25 |
@@ -411,6 +411,7 @@
 | [Ever After \(feat\. eaJ\)](https://open.spotify.com/track/0MnSQChsBB4y4ARVbIGN70) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Ever After \(feat\. eaJ\)](https://open.spotify.com/album/1gPsYiuE31zrJBdNqCP78s) | 2:46 | 2025-09-05 |  |
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 | 2022-12-03 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 | 2024-06-29 |
+| [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 | 2025-11-14 |  |
 | [Everything Anything](https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Everything Anything](https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk) | 3:21 | 2025-07-18 | 2025-10-04 |
 | [everything but you](https://open.spotify.com/track/4U4m8333fohDh60ZCzesrN) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/3GBpUVoecA1RTPDzb7zMOF) | 2:57 | 2024-09-06 | 2024-11-26 |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 | 2024-02-10 |
@@ -1178,6 +1179,7 @@
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-29 | 2022-02-26 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-05 | 2024-04-28 |
 | [Spoil My Night](https://open.spotify.com/track/0fERVAjuA2g2XBONBC5dey) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG) | [Spoil My Night](https://open.spotify.com/album/5LJrdT0sSUEKE6hDHDYYEQ) | 3:59 | 2025-07-18 | 2025-09-21 |
+| [Square One](https://open.spotify.com/track/4Z2PgAbOS261znlbkp6M4T) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Square One](https://open.spotify.com/album/2gpplpkQfk4si2JdU4TGUI) | 3:00 | 2025-11-14 |  |
 | [stacy's song](https://open.spotify.com/track/2612sZ6C1AhcvasbJlQCjC) | [Jiwon](https://open.spotify.com/artist/4LyqJpHI1a45aZHIkVRBSQ), [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K) | [stacy's song](https://open.spotify.com/album/29LFtpTS5iYd1KZvhRwmpT) | 2:22 | 2024-11-25 | 2025-01-25 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2023-03-04 |
 | [Stargirl](https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Stargirl](https://open.spotify.com/album/61RHJE3TKzvkgRtozvA9oE) | 2:53 | 2023-04-21 | 2023-07-22 |
@@ -1259,7 +1261,7 @@
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-12 | 2024-09-14 |
 | [TALK](https://open.spotify.com/track/6Kq3k4yZdiwfxvYRBy4Qpv) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [songs to drive to](https://open.spotify.com/album/2XIykPMdAG9JRZ8xWqS7Eu) | 2:53 | 2025-03-07 | 2025-05-17 |
 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-02-28 | 2025-06-28 |
-| [TALK TO ME](https://open.spotify.com/track/7m0GDXRGF3UlFxJ989v6VH) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [TALK TO ME](https://open.spotify.com/album/1ZGnMpAYWjIS5LIHGs9Yib) | 2:38 | 2025-08-08 |  |
+| [TALK TO ME](https://open.spotify.com/track/7m0GDXRGF3UlFxJ989v6VH) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [TALK TO ME](https://open.spotify.com/album/1ZGnMpAYWjIS5LIHGs9Yib) | 2:38 | 2025-08-08 | 2025-11-15 |
 | [Talk to You](https://open.spotify.com/track/6nBeIPYpvl8XYnLarrpFqb) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Talk to You](https://open.spotify.com/album/0vOzCiEnmb6tFYeDCPfHDb) | 3:02 | 2024-03-29 | 2024-06-01 |
 | [talking to yourself](https://open.spotify.com/track/15v3hWfg1p3gfjMZ3wJ4WA) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [you only call when you want something](https://open.spotify.com/album/0BuooxaM5TypVtfhdyAA14) | 2:38 | 2021-10-29 | 2022-01-08 |
 | [Tan Lines](https://open.spotify.com/track/2tPxcjGZOp7y9LHe1mtydD) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Tan Lines](https://open.spotify.com/album/2TR6Q1fYO8603EYrYFM8uy) | 2:29 | 2025-08-15 |  |
@@ -1268,7 +1270,7 @@
 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 | 2025-06-13 | 2025-08-30 |
 | [Tears in the Moonlight](https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Tears in the Moonlight](https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu) | 2:59 | 2023-05-19 | 2023-07-29 |
 | [Tease Me](https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Tease Me](https://open.spotify.com/album/4czLQcxHpCy7NlD0YZabS5) | 2:42 | 2024-06-07 | 2024-08-10 |
-| [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-31 |  |
+| [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-31 | 2025-11-15 |
 | [Telephoning from Safari](https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Telephoning from Safari](https://open.spotify.com/album/3ZuSJqiZI3trIcISJxm0iY) | 3:23 | 2025-08-29 |  |
 | [Tell Her](https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Tell Her](https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I) | 3:12 | 2023-12-01 | 2024-02-10 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-27 | 2023-03-25 |
@@ -1436,6 +1438,7 @@
 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 | 2024-04-12 | 2024-06-01 |
 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 | 2024-09-20 | 2025-02-08 |
 | [When The World Was Mine](https://open.spotify.com/track/5J7sG7gQgUWnY3SpIIW8an) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [When The World Was Mine](https://open.spotify.com/album/4iUGtfrvaY2d42BloFOE9M) | 3:30 | 2021-10-29 | 2021-12-25 |
+| [Where Did You Go?](https://open.spotify.com/track/5vtgw0pMPr8eue3CLcfeQC) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Where Did You Go?](https://open.spotify.com/album/6fWj5aZpuvjVEIIdTaNDNi) | 3:26 | 2025-11-14 |  |
 | [where do we go from here](https://open.spotify.com/track/0biM005Th79TJk8JLIC2ah) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [where do we go from here](https://open.spotify.com/album/7MespBHLF05tMB6zYdwpkU) | 2:33 | 2024-10-18 | 2025-01-25 |
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-08-19 | 2022-09-03 |
 | [WHERE I WANNA BE FOUND](https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc) | 2:59 | 2022-07-19 | 2022-08-09 |

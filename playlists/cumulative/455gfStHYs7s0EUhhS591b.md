@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-232 songs - 13 hr 38 min
+233 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Disconnected](https://open.spotify.com/track/4LYaFcMoIwqRtaDCED5DJM) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Disconnected](https://open.spotify.com/album/52o5ZbStGF7H2ikwU447l8) | 4:36 | 2025-07-18 |  |
 | [Divine](https://open.spotify.com/track/3HFQRcE25gUw5jiGrJPsRc) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Divine](https://open.spotify.com/album/5XPhK0D2fEjX3oK3GPgalf) | 2:17 | 2025-06-19 |  |
 | [Dove \(I'll Be Loving You\) \- Sisco Lounge Mix](https://open.spotify.com/track/1sANVDQN4yXQkHg9xyvace) | [Moony](https://open.spotify.com/artist/1FXHK05nyBt3fmMYfQljRi) | [Chill Executive Officer \(CEO\), Vol\. 8 \[Selected by Maykel Piron\]](https://open.spotify.com/album/2GWbdANbXBXg9uFBf6fAnc) | 3:27 | 2025-07-18 |  |
+| [Drifting](https://open.spotify.com/track/3cxmCRKwyEkcsteeW4LYrO) | [Hagen Feetly](https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC) | [Drifting](https://open.spotify.com/album/6qwfIbsIAWRYseqzehOWUa) | 5:06 | 2025-11-14 |  |
 | [Eames](https://open.spotify.com/track/3BDnZHzFLyDhaugnfEu4Fu) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [The Pledge](https://open.spotify.com/album/0P5y0hMzOkHwcxjhBIAnHQ) | 3:47 | 2025-06-19 |  |
 | [Emily](https://open.spotify.com/track/3Movbir7QapGfu3tykEfeY) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:16 | 2025-07-18 |  |
 | [Empty Floor](https://open.spotify.com/track/4CrDai0clHlKcgizJJThV6) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Empty Floor](https://open.spotify.com/album/3jFy01RRSWMAOKWUY6nmlG) | 3:38 | 2025-07-18 |  |

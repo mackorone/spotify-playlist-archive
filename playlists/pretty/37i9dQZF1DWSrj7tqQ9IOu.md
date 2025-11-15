@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : BLOWSOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,538 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,522 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 7 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
 | 8 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 |
 | 9 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
-| 10 | [heureux](https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [](https://open.spotify.com/album/null) | 2:46 |
+| 10 | [heureux](https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk) | 2:46 |
 | 11 | [Real Things](https://open.spotify.com/track/4WxrR0mZvJKpNzBzvECSbe) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Real Things](https://open.spotify.com/album/0UKpVTyplpmfnubeifSgnl) | 2:43 |
 | 12 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 |
-| 13 | [Lonestar](https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [](https://open.spotify.com/album/null) | 2:53 |
+| 13 | [Lonestar](https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations \(Outtakes Edition\)](https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq) | 2:53 |
 | 14 | [Endors toi](https://open.spotify.com/track/6WrJ29z9yQF99ojbiEK527) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Ouin Ouin Ouin \(Deluxe Edition\)](https://open.spotify.com/album/5xGO8AfxpGvV3R2fQKIQ0C) | 2:53 |
 | 15 | [FLEMME](https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [FLEMME](https://open.spotify.com/album/179KOwuoogAJN7nKByOBha) | 2:27 |
 | 16 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 |

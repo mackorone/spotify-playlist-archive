@@ -1,13 +1,73 @@
 {
-  "description": "New jazz for open minds. Cover: Aaron Parks",
-  "num_followers": 949950,
+  "description": "New jazz for open minds. Cover: Theo Croker",
+  "num_followers": 949957,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBt1iu/sI9ReXrpWOlJv+ofDCLv",
+  "snapshot_id": "AAAAAEOknWucaU7vQ3dQ81EWPPYBo8lO",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:34:19",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1OjLx8J4i6GhNLBIJztwnC"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "A Prayer for Peace",
+      "url": "https://open.spotify.com/track/5R3e5tMI5Ugr2HCzH90hpx"
+    },
+    {
+      "added_at": "2025-11-14 05:34:19",
+      "album": {
+        "name": "sMiLes",
+        "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 174023,
+      "name": "SHouLd I sMiLe?",
+      "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
+    },
+    {
+      "added_at": "2025-11-14 05:34:19",
+      "album": {
+        "name": "In The Age Of Data",
+        "url": "https://open.spotify.com/album/4M0EzsBZuTnzq7tcE9Ezty"
+      },
+      "artists": [
+        {
+          "name": "Move 78",
+          "url": "https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr"
+        },
+        {
+          "name": "Monica Mussungo",
+          "url": "https://open.spotify.com/artist/1keDfNbTVduTl02p1NxfkU"
+        }
+      ],
+      "duration_ms": 163199,
+      "name": "Dusty But Digital pt.3 - Dusty But Digital",
+      "url": "https://open.spotify.com/track/15ccg03xENvbgTdtw2OBfs"
+    },
     {
       "added_at": "2025-11-07 16:37:26",
       "album": {
@@ -105,6 +165,30 @@
       "url": "https://open.spotify.com/track/5hm3jK67IElspYxdAvB0wu"
     },
     {
+      "added_at": "2025-11-14 05:37:52",
+      "album": {
+        "name": "Dream Manifest (Deluxe)",
+        "url": "https://open.spotify.com/album/2uDCxHtu7bhQpShfCYKFVs"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 161763,
+      "name": "sound(e)scape",
+      "url": "https://open.spotify.com/track/1L7JoVsDMBVNLGUxeDczCV"
+    },
+    {
       "added_at": "2025-11-07 16:37:26",
       "album": {
         "name": "Kindred",
@@ -175,30 +259,6 @@
       "duration_ms": 238875,
       "name": "Curumim",
       "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
-    },
-    {
-      "added_at": "2025-10-24 04:00:21",
-      "album": {
-        "name": "Dream Manifest (Deluxe)",
-        "url": "https://open.spotify.com/album/2uDCxHtu7bhQpShfCYKFVs"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Natureboy Flako",
-          "url": "https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH"
-        },
-        {
-          "name": "Dirg Gerner",
-          "url": "https://open.spotify.com/artist/50tYM3PrjzqoNUWfQoZSRi"
-        }
-      ],
-      "duration_ms": 200662,
-      "name": "eyes wide open (noema)",
-      "url": "https://open.spotify.com/track/3qOaqv0ohk5t5LHQorLNqL"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -1703,62 +1763,6 @@
       "duration_ms": 413929,
       "name": "How I Became a Madman",
       "url": "https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a"
-    },
-    {
-      "added_at": "2025-05-02 04:00:27",
-      "album": {
-        "name": "No Breakfast",
-        "url": "https://open.spotify.com/album/6TrvnZ4GkrYObGBKc2MFT7"
-      },
-      "artists": [
-        {
-          "name": "Chris McCarthy",
-          "url": "https://open.spotify.com/artist/6QKrf1lY7kAGshQ5TTuFNA"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        },
-        {
-          "name": "Sam Minaie",
-          "url": "https://open.spotify.com/artist/6pvnnah17JiBN5Nd3LMJdg"
-        },
-        {
-          "name": "Eden Bareket",
-          "url": "https://open.spotify.com/artist/1EcP38IqWiEcLWWiOAOFEb"
-        },
-        {
-          "name": "Steven Crammer",
-          "url": "https://open.spotify.com/artist/2STEeXQOz58eFViKu2u03Q"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "No Breakfast",
-      "url": "https://open.spotify.com/track/0Ksmp4GMe5ehiB5M9hlZkE"
-    },
-    {
-      "added_at": "2025-05-09 04:00:03",
-      "album": {
-        "name": "B\u00e9tiyata",
-        "url": "https://open.spotify.com/album/3RKl4Y0SKPeFwGyAOQnWmo"
-      },
-      "artists": [
-        {
-          "name": "Ali Boulo Santo Cissoko",
-          "url": "https://open.spotify.com/artist/4jp4JVkC3nGJdbT94yVI9t"
-        },
-        {
-          "name": "Volker Goetze",
-          "url": "https://open.spotify.com/artist/4Po5wr0Ul3royQBHA8oZdm"
-        },
-        {
-          "name": "Mino Cinelu",
-          "url": "https://open.spotify.com/artist/3u5p7C1CVuJEjLJ1LGlHzj"
-        }
-      ],
-      "duration_ms": 333800,
-      "name": "B\u00e9tiyata",
-      "url": "https://open.spotify.com/track/4z238fG0L0ovQkX897cMaY"
     },
     {
       "added_at": "2025-05-09 04:00:03",

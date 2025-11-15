@@ -77,6 +77,36 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO"
+      },
+      "artists": [
+        {
+          "name": "Parker Jack",
+          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
+        },
+        {
+          "name": "Eon Zero",
+          "url": "https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98"
+        },
+        {
+          "name": "HunnaV",
+          "url": "https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH"
+        },
+        {
+          "name": "Jake Luke",
+          "url": "https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206523,
+      "name": "911",
+      "url": "https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j"
+    },
+    {
+      "album": {
         "name": "Still Lost 2",
         "url": "https://open.spotify.com/album/3e91QRkfMkbIDBwH4X7n8s"
       },
@@ -1540,6 +1570,24 @@
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
+    },
+    {
+      "album": {
+        "name": "i won't live forever",
+        "url": "https://open.spotify.com/album/031A1BdfESmR6Yimo5YwOt"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100409,
+      "name": "i won't live forever",
+      "url": "https://open.spotify.com/track/7BOTAsFUDxqriXuhoddUm7"
     },
     {
       "album": {

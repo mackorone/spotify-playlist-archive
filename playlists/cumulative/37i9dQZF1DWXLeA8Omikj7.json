@@ -6734,7 +6734,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -10856,7 +10856,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 278325,
       "name": "Love",
       "url": "https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX"
@@ -14438,7 +14438,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 132631,
       "name": "rainbow song",
       "url": "https://open.spotify.com/track/2y7z3SBPKKfROdIy68k8nV"
@@ -14688,6 +14688,28 @@
       "duration_ms": 210046,
       "name": "Requiem for Vega",
       "url": "https://open.spotify.com/track/2ipxQSBcvB28gbFThM3zI5"
+    },
+    {
+      "album": {
+        "name": "Libration",
+        "url": "https://open.spotify.com/album/179J6K90Pzd6LbtcRvvX6B"
+      },
+      "artists": [
+        {
+          "name": "Substance",
+          "url": "https://open.spotify.com/artist/3H2oruOrcztEmskMPzdV43"
+        },
+        {
+          "name": "Vainqueur",
+          "url": "https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551053,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/0QJbWNtbx7IHfhuY4PNbK8"
     },
     {
       "album": {

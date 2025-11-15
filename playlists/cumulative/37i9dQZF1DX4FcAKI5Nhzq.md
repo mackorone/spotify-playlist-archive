@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
 
-1,502 songs - 3 day 8 hr 45 min
+1,503 songs - 3 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1105,6 +1105,7 @@
 | [RUSH \(ft\. BOBBY\)](https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:14 | 2024-06-23 | 2024-08-31 |
 | [Rush Hour](https://open.spotify.com/track/2eEVS8HGd0xpmsUOCuVIzI) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Rush Hour](https://open.spotify.com/album/5D4f8ca3u8RKEqdpgcgext) | 3:48 | 2021-06-09 | 2021-09-18 |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-24 | 2022-11-19 |
+| [S.O.S](https://open.spotify.com/track/7ra9R2MTje9hNjsrFvHAZG) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [S.O.S](https://open.spotify.com/album/5Tma3Xm7axkreEplv4SGUK) | 3:16 | 2025-11-14 |  |
 | [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-18 | 2024-08-03 |
 | [Sacrifice](https://open.spotify.com/track/7sbNbeqpYvXJW38ILRObkm) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fame](https://open.spotify.com/album/75CKaNcbDZ7su55IJexkdS) | 3:14 | 2020-10-13\* | 2021-01-11 |
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-21 | 2023-10-21 |

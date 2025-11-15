@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-463 songs - 1 day 8 hr 48 min
+464 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Humanicide](https://open.spotify.com/track/7KmMhTk07elK9dxu49Owi2) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Humanicide](https://open.spotify.com/album/46AMs0qxmBYUagBy5Dw1Tm) | 5:42 | 2022-07-13 | 2024-04-19 |
 | [Humanoid](https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Humanoid](https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD) | 4:35 | 2024-03-08 |  |
 | [I Am in Command](https://open.spotify.com/track/7AU53yFVENz1sAt3LBldLi) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Never, Neverland](https://open.spotify.com/album/68MPcAtxmP35jvEd4kHxtn) | 3:34 | 2025-05-02 |  |
+| [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 | 2025-11-14 |  |
 | [I DON'T CARE](https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8) | [Rebellix](https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O) | [I DON'T CARE](https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B) | 3:13 | 2025-11-07 |  |
 | [I Sever](https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Cycle of Suffering](https://open.spotify.com/album/667otcFavTltYttK0VqcVm) | 5:08 | 2022-07-13 | 2024-04-19 |
 | [I Sever](https://open.spotify.com/track/5a8lCmvaBHjwSqpxH75pLz) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [I Sever](https://open.spotify.com/album/0PzccQNvgYHMXKmMm5QtIi) | 5:08 | 2021-12-17 | 2022-07-28 |
@@ -376,7 +377,7 @@
 | [Start the Fire](https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [The Dark](https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ) | 3:45 | 2022-07-13 |  |
 | [State of Apathy](https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [State of Apathy](https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj) | 3:46 | 2021-12-17 | 2025-05-25 |
 | [Step by Step](https://open.spotify.com/track/3tWkJ2zLklnSF8qDBzTOHX) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Twisted Into Form](https://open.spotify.com/album/06cQQ47KHUZf6bAuflpbb0) | 4:52 | 2022-07-13 |  |
-| [Strike Back](https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU) | [The Lightbringer of Sweden](https://open.spotify.com/artist/6u53rgRUxnjgX8gyyqRsml) | [Strike Back](https://open.spotify.com/album/02Yfyh4R4ONJGNoWGOBTRv) | 5:37 | 2022-03-10 |  |
+| [Strike Back](https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU) | [The Lightbringer of Sweden](https://open.spotify.com/artist/6u53rgRUxnjgX8gyyqRsml) | [Strike Back](https://open.spotify.com/album/02Yfyh4R4ONJGNoWGOBTRv) | 5:37 | 2022-03-10 | 2025-11-15 |
 | [Strike Fast Strike Hard](https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist](https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj) | 4:38 | 2022-07-13 | 2022-12-16 |
 | [Strike Fast Strike Hard](https://open.spotify.com/track/5mo4VR1zQNyBZrlmUmPmLM) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist \(Japan Edition\)](https://open.spotify.com/album/5yU62Qq0DLgL490IugUO9q) | 4:38 | 2021-12-17 | 2022-07-29 |
 | [Strike of the Beast](https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:57 | 2022-07-13 |  |

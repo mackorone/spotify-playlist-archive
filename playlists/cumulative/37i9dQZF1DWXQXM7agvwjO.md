@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: IV OF SPADES \(Philippines\)
 
-2,317 songs - 5 day 20 hr 15 min
+2,317 songs - 5 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [ANDA KATAKAN](https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv) | 2:59 | 2023-04-27 | 2023-04-30 |
 | [ANDA KATAKAN](https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/5PWCeX696MJg6QerDf3UMw) | 2:59 | 2023-04-27 | 2023-05-05 |
 | [Ang$a](https://open.spotify.com/track/4u16zGIdHrOkMyJOInkF6y) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Oranye](https://open.spotify.com/album/2Y9GAh9rRYsw1PiS6FDJcy) | 2:47 | 2022-11-17 | 2023-02-10 |
+| [ANGEL](https://open.spotify.com/track/65x7gYcm3Hvv2B9x7F9QDw) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY](https://open.spotify.com/album/61ztlk3IamUgahgX4VPisJ) | 3:58 | 2025-11-13 |  |
 | [angel near you](https://open.spotify.com/track/3pd4Qxuu12CipI2v6Yi6EH) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4trT0CMDYW2pVx7t2hIg51) | 5:13 | 2024-11-29 | 2025-01-24 |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 | 2023-07-21 |
@@ -1878,7 +1879,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [Track 8](https://open.spotify.com/track/65x7gYcm3Hvv2B9x7F9QDw) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2024-07-25 | 2024-09-06 |

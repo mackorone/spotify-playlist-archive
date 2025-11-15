@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,405 likes - 78 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,634 likes - 78 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
-| 2 | [Orange Colored Sky](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
+| 2 | [Orange Colored Sky \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
 | 3 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
 | 4 | [It's a Man](https://open.spotify.com/track/5w4EuviPUa4vSH52EYNqJ5) | [Betty Hutton](https://open.spotify.com/artist/6JcWhUd6K5suazlrWsMgGZ) | [The Best of the RCA Years](https://open.spotify.com/album/6zbf4btsxNqgWUHaXP0MhJ) | 2:24 |
 | 5 | [Blue Moon \- 1999 Remastered](https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered / Expanded Edition\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:51 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 | 38 | [Bossa Angela](https://open.spotify.com/track/0NwZwOv6F8JnBiN63h2AIR) | [Roland Kovac Rhythm & Strings](https://open.spotify.com/artist/5Uf62D8i84n1XpQZSmub9z) | [Transpacific Strings](https://open.spotify.com/album/0N32KCf1hRCxgKpz0E1dME) | 2:35 |
 | 39 | [You're Everything](https://open.spotify.com/track/1ybQufdDyL85qUWoJC8ARx) | [The Danleers](https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv) | [Presenting The Danleers](https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R) | 2:16 |
 | 40 | [Oktoberfest](https://open.spotify.com/track/4jA2jqjj6YYsbWbidt824G) | [Douglas Wood](https://open.spotify.com/artist/75zIglWGO0KAH5EkTrjvk4) | [Travel Vol\. I](https://open.spotify.com/album/77Rg1icNN2z72zk0Lunkx2) | 1:00 |
-| 41 | [I Don't Want To See Tomorrow](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
+| 41 | [I Don't Want To See Tomorrow \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
 | 42 | [We Three \(My Echo, My Shadow, And Me\)](https://open.spotify.com/track/43a4zqUZL1vHH93EKBFkLj) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:18 |
 | 43 | [A Wonderful Guy](https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Tex Beneke And His Music In The Miller Mood](https://open.spotify.com/album/4zdNQI5E1pd4boIpyhAImH) | 1:55 |
 | 44 | [Love Me As Though There Were No Tomorrow](https://open.spotify.com/track/1mPNQGFWnoZpE4ntPOPYt5) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Anthology](https://open.spotify.com/album/11Ur2WlNRW740VE0sUe9Bj) | 2:35 |

@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yndling
 
-208 songs - 12 hr 10 min
+210 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
 | [Emo Regulation](https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:23 | 2025-05-15 |  |
 | [Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Encyclopedia](https://open.spotify.com/album/0lVbdzWLuKqLtBU2uRaY0Q) | 2:18 | 2025-03-13 |  |
+| [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 | 2025-11-14 |  |
 | [Ether](https://open.spotify.com/track/5KL7fD7g08Yagmi89FUfTi) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [100%WET](https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc) | 4:32 | 2025-06-26 |  |
 | [Ethereal Security Guard](https://open.spotify.com/track/07gwWQtFu0O7QWIQbHORmp) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Ethereal Security Guard](https://open.spotify.com/album/2DM184JFwecL8z2s8F2moi) | 6:36 | 2025-05-22 |  |
 | [Exit Vendor](https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:04 | 2025-09-19 |  |
@@ -108,11 +109,11 @@
 | [In Iowa](https://open.spotify.com/track/0AZQmLHntlwyjpUEpcfj5B) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [In Iowa / My City](https://open.spotify.com/album/7Ia6smPy2YtgHahtB8OtF2) | 4:08 | 2025-10-10 |  |
 | [Intangible](https://open.spotify.com/track/5pL2gkDSOm5iEPLqZ7d8p8) | [Baby In Vain](https://open.spotify.com/artist/20khGbiJWINJJibuMzT8yr) | [Afterlife](https://open.spotify.com/album/2fUyFlZitgarYBNLIOhg47) | 3:16 | 2025-03-31 |  |
 | [Intentions](https://open.spotify.com/track/4wqfSOT2MTlVwfrDvXyXWP) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Acopia](https://open.spotify.com/album/4GPuQErhhqHW8xVgOVyhjb) | 2:47 | 2025-03-13 | 2025-08-09 |
-| [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 | 2025-03-13 |  |
+| [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 | 2025-03-13 | 2025-11-15 |
 | [it was then that i](https://open.spotify.com/track/72B17CydCsTvYGPUKas0Jb) | [feeo](https://open.spotify.com/artist/03aiitie1Nvoq2vvHF3kLR) | [it was then that i](https://open.spotify.com/album/25fXVyzDNeTcamLuAABhvq) | 3:44 | 2025-05-15 |  |
 | [King Jester](https://open.spotify.com/track/2vJm5QcDnbQCUnvoT8472L) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [Strangers on screen](https://open.spotify.com/album/1pBdWZDRHKYxp2NDOFY6wX) | 2:53 | 2025-03-13 |  |
 | [Knives Out](https://open.spotify.com/track/4w6O6rFcLEKNEOMBRt8b80) | [True Blue](https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW) | [Star Witness](https://open.spotify.com/album/7MK7820WaDHXhYpEwDWGmr) | 2:46 | 2025-10-17 |  |
-| [Kokiri](https://open.spotify.com/track/0nCkxEw2KadeAPrkqdwTKB) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Kokiri](https://open.spotify.com/album/1eLzhDC1eCVfMbvO1ietaE) | 4:37 | 2025-03-13 |  |
+| [Kokiri](https://open.spotify.com/track/0nCkxEw2KadeAPrkqdwTKB) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Kokiri](https://open.spotify.com/album/1eLzhDC1eCVfMbvO1ietaE) | 4:37 | 2025-03-13 | 2025-11-15 |
 | [L.O.V.E](https://open.spotify.com/track/2tscMbvEl8Zur5gyYwf7bC) | [Soho Rezanejad](https://open.spotify.com/artist/5gEoe0kGMZJytho1bf9PfE) | [L.O.V.E](https://open.spotify.com/album/0w55PPsZ6PnKpFDkWsBRma) | 4:04 | 2025-03-13 | 2025-08-09 |
 | [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-01 |  |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2025-03-13 |  |
@@ -149,6 +150,7 @@
 | [Please](https://open.spotify.com/track/4w1Cw49H99UkcQxArleOu4) | [Felt Out](https://open.spotify.com/artist/44tHklTOiPRFr70wX7iXDd) | [Please](https://open.spotify.com/album/65ZJRrU3TD812tnVp6yU48) | 3:05 | 2025-06-26 |  |
 | [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 2:22 | 2025-05-08 |  |
 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-05 |  |
+| [Projections \- Colle Remix](https://open.spotify.com/track/1DmvR4odW4niugUweTiw8q) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd), [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Projections \(Colle Remix\)](https://open.spotify.com/album/2aDOh93pOT8VkThc8UGn07) | 4:29 | 2025-11-14 |  |
 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-07 |  |
 | [Qw4nt0hmW3b](https://open.spotify.com/track/33hWWAHK22EVzZ7Lyry51z) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt), [E/T](https://open.spotify.com/artist/546bJduW9d8xAi9Wc3nWC9) | [Supernatural](https://open.spotify.com/album/17n8tO0Sm5ahYvvVqONHBr) | 6:51 | 2025-07-11 |  |
 | [Real Life](https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Real Life](https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX) | 3:30 | 2025-08-08 |  |
@@ -215,6 +217,6 @@
 | [You're on the Loose](https://open.spotify.com/track/77P729eyk6EgyXQJV22hpu) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [You're on the Loose](https://open.spotify.com/album/7An52a3iEFGZPKQE3NCDSy) | 4:37 | 2025-06-06 |  |
 | [Your House](https://open.spotify.com/track/246PgD6sKyx5qKGAg11PvC) | [Coined](https://open.spotify.com/artist/0au9S2IIAu2bbXGbKfQ7Tc), [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Your House](https://open.spotify.com/album/0RpisJnciJ1zJ9cMhci6zL) | 2:58 | 2025-03-31 |  |
 | [YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [YSL](https://open.spotify.com/album/0Kj9BfyMD0zK43pZloXTaB) | 2:34 | 2025-03-13 | 2025-10-18 |
-| [YZOBEL](https://open.spotify.com/track/1eM523xDxp1mHQiTA7kmFB) | [Gyeongsu](https://open.spotify.com/artist/5WxULI3e8qgnKwMauQduCD), [Croche](https://open.spotify.com/artist/22I9JgE3OUvUWkYGuXbH2z) | [SLIT](https://open.spotify.com/album/0zX7226sj8C09ggxKE3NKZ) | 3:02 | 2025-03-13 |  |
+| [YZOBEL](https://open.spotify.com/track/1eM523xDxp1mHQiTA7kmFB) | [Gyeongsu](https://open.spotify.com/artist/5WxULI3e8qgnKwMauQduCD), [Croche](https://open.spotify.com/artist/22I9JgE3OUvUWkYGuXbH2z) | [SLIT](https://open.spotify.com/album/0zX7226sj8C09ggxKE3NKZ) | 3:02 | 2025-03-13 | 2025-11-15 |
 
 \*This playlist was first scraped on 2025-03-14. Prior content cannot be recovered.

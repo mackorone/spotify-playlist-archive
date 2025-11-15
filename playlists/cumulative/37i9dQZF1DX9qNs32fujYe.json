@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 144000,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
@@ -7378,7 +7378,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 242133,
       "name": "Hands of Sin",
       "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
@@ -7602,7 +7602,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 181043,
       "name": "Headstones",
       "url": "https://open.spotify.com/track/4nHFfSDh3pX9uBr86FLVwf"
@@ -8548,6 +8548,24 @@
       "duration_ms": 263560,
       "name": "I Don't Believe In Love - Remastered 2003",
       "url": "https://open.spotify.com/track/3p9GbXMy1f9Efhdfj0QNBG"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189915,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
     },
     {
       "album": {
@@ -14032,7 +14050,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 263786,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"

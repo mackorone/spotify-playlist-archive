@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23354,
+  "num_followers": 23359,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADVVdACWvL+59LYMh9iAOWv",
+  "snapshot_id": "aRUfgAAAAAAX6h09HgkHr/9Fh3oojtyP",
   "tracks": [
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
       "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Kiss Me Like You Miss Me",
-      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
+      "duration_ms": 155400,
+      "name": "Wetin Be Love",
+      "url": "https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS"
     },
     {
       "added_at": null,
@@ -431,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
       "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Wetin Be Love",
-      "url": "https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS"
+      "duration_ms": 173333,
+      "name": "Kiss Me Like You Miss Me",
+      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
     },
     {
       "added_at": null,

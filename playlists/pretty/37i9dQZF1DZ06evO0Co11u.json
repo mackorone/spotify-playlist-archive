@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 195657,
+  "num_followers": 195668,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADnMcXRHmJSNOES9rJFEfvm",
+  "snapshot_id": "aRUfgAAAAACreVhVGztIVa5H0DB2GGT/",
   "tracks": [
     {
       "added_at": null,
@@ -642,15 +642,11 @@
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sy Oliver & His Orchestra",
-          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
         }
       ],
-      "duration_ms": 190133,
-      "name": "Cold Cold Heart",
-      "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
+      "duration_ms": 204333,
+      "name": "(When We Are Dancin') I Get Ideas - Single Version",
+      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
     },
     {
       "added_at": null,
@@ -710,11 +706,15 @@
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver & His Orchestra",
+          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
         }
       ],
-      "duration_ms": 204333,
-      "name": "(When We Are Dancin') I Get Ideas - Single Version",
-      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
+      "duration_ms": 190133,
+      "name": "Cold Cold Heart",
+      "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Decca Singles 1935-1946",
+        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 190976,
+      "name": "The Frim Fram Sauce",
+      "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satchmo Sings",
         "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 119026,
       "name": "Give Me Your Kisses",
       "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Decca Singles 1935-1946",
-        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 190976,
-      "name": "The Frim Fram Sauce",
-      "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
     },
     {
       "added_at": null,

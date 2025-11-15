@@ -3763,6 +3763,36 @@
     },
     {
       "album": {
+        "name": "Jhootha (From \"ikk kudi\")",
+        "url": "https://open.spotify.com/album/7Je4y4Pk5IinRaDkiZWnsu"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Vicky sandhu",
+          "url": "https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Jhootha (From \"ikk kudi\")",
+      "url": "https://open.spotify.com/track/31LPL74frT797Y4a2oNBFj"
+    },
+    {
+      "album": {
         "name": "Jind UK",
         "url": "https://open.spotify.com/album/62SjnTARvhQrOMxmUwxR9m"
       },
@@ -7328,7 +7358,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 190000,
       "name": "Taras",
       "url": "https://open.spotify.com/track/1ps9pw2DHeDvP1xH1r6XX4"

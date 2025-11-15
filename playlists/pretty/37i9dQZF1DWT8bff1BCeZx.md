@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,005 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,024 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 20 | [Synergy](https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Synergy](https://open.spotify.com/album/4xc8SyumGUd12gji9kpWuo) | 2:44 |
 | 21 | [Infinity](https://open.spotify.com/track/4m6skbhTVYDH4VAix5VhD8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Infinity](https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48) | 3:41 |
 | 22 | [Wayekhona](https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wayekhona](https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV) | 4:00 |
-| 23 | [Track 3](https://open.spotify.com/track/7AvuYiR2BFdr18GMyM3d5b) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [](https://open.spotify.com/album/null) | 0:00 |
+| 23 | [I Testify](https://open.spotify.com/track/7AvuYiR2BFdr18GMyM3d5b) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [I Testify](https://open.spotify.com/album/58BPhnWSytQrC4U7RcXMjm) | 5:17 |
 | 24 | [Be Magnified](https://open.spotify.com/track/7m6fLplCGhM9Fr70QK1SNS) | [Grace Harmony Music](https://open.spotify.com/artist/6PgIs6bIhbqNgSxRC8b3X0) | [Victory](https://open.spotify.com/album/43MDovT1Q1WWqDxnJD8Wwn) | 3:24 |
 | 25 | [Shout Hallelujah \- Live](https://open.spotify.com/track/5PRG0uNyKb6bMlva3nfvDQ) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Shout Hallelujah \(Live\)](https://open.spotify.com/album/5gVj5yYNkyVBHDso4SyRYJ) | 3:47 |
 | 26 | [Ire](https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [YATO](https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE) | 3:45 |

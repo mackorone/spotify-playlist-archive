@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/73Ny0Q4lPlVfgSCAJCA8JW.md) - [plain]
 
 > 
 
-[hooknoa000](https://open.spotify.com/user/hooknoa000) - 1 like - 17 songs - 51 min 15 sec
+[hooknoa000](https://open.spotify.com/user/hooknoa000) - 1 like - 17 songs - 51 min 16 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/73Ny0Q4lPlVfgSCAJCA8JW.md) - [plain]
 | 13 | [Dust Bowl Dance](https://open.spotify.com/track/2QIt8RWdk5ZJneKTt4sZnK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:43 |
 | 14 | [There Is a War](https://open.spotify.com/track/5bPDYLggBz5xEvJJW5SUy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 2:59 |
 | 15 | [Solidarity Forever](https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:54 |
-| 16 | [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:07 |
+| 16 | [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:08 |
 | 17 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 |
 
 Snapshot ID: `AAAAEkRdvzT2bZOXkeXtqvyt8cLv1F2C`

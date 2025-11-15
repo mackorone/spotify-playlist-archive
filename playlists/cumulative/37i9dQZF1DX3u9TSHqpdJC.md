@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music from new, independent artists\.  Cover: Gyubin\. Artwork by Paola Saliby
+> The best new pop music from new, independent artists\.  Cover: ili\. Artwork by Paola Saliby
 
-4,302 songs - 9 day 3 hr 10 min
+4,303 songs - 9 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2444,6 +2444,7 @@
 | [Me\-ting](https://open.spotify.com/track/00ZedWImN6cQNX3cE2QiEh) | [DIAMANTINA](https://open.spotify.com/artist/4idCEB985EJ4q58EnpF1hp) | [Me\-ting](https://open.spotify.com/album/3x5G6rzxBm7BHVebAkefEE) | 2:57 | 2023-08-30 | 2023-10-12 |
 | [Meadow](https://open.spotify.com/track/2HJbmKz5If0PHmOle6jr5B) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Meadow](https://open.spotify.com/album/4XsjnIzDjD2Mf9ofduC15K) | 3:21 | 2023-06-07 | 2023-07-20 |
 | [Mean Girls](https://open.spotify.com/track/2ZpBIOupyST17KoZB3A2FX) | [Caleigh](https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1) | [Mean Girls](https://open.spotify.com/album/65njqIK7i22Nx4ltLuJG9D) | 3:02 | 2024-01-10 | 2024-03-07 |
+| [Mean To Me](https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Mean To Me](https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA) | 2:04 | 2025-11-14 |  |
 | [Meant 4 u](https://open.spotify.com/track/6WaelsqiK0obqcmaSup3nS) | [Kierra the Goddess](https://open.spotify.com/artist/1Rm4i7p3cZu98ijRCgGDPI) | [Meant 4 u](https://open.spotify.com/album/7jfQ51q2jmIwFFSCXSBU8G) | 3:40 | 2022-04-13 | 2022-05-12 |
 | [Meant Something](https://open.spotify.com/track/7a8HnIpj0Xet1LoCvRg0Kc) | [Ida Just](https://open.spotify.com/artist/7KICnQh8EuqczQ4YQTjQbQ) | [Meant Something](https://open.spotify.com/album/7mU07gu6TAEqDMLvTZCujB) | 3:01 | 2025-06-11 | 2025-08-14 |
 | [Meant to be](https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [Meant to be](https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8) | 2:39 | 2021-04-08 | 2021-05-13 |
@@ -3141,7 +3142,7 @@
 | [Riptides](https://open.spotify.com/track/1Q5uObiF2oDd2twHfrWkyo) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [Riptides](https://open.spotify.com/album/35cAoLzarmlGmEUw56xlNs) | 3:18 | 2021-10-28 | 2021-12-01 |
 | [Risky](https://open.spotify.com/track/2m6impWnt3BTPW5hUpXDGD) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Risky](https://open.spotify.com/album/1PPHXJ5LxH3wdPAuOpkODv) | 3:06 | 2023-09-20 | 2023-10-26 |
 | [Rituals](https://open.spotify.com/track/659qvpJqsHveuxFlYgQ8cE) | [Kazi Jay](https://open.spotify.com/artist/1eodbrSFcfte0fixcwxFoJ) | [Rituals](https://open.spotify.com/album/17HcieOyLcBdlfExjwkhY7) | 2:52 | 2022-02-02 | 2022-03-24 |
-| [Rivers](https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx) | [Sophia Grover](https://open.spotify.com/artist/1NXqzuT9GyKPFAW9PPGMzR) | [Rivers](https://open.spotify.com/album/4ftnZsIKHNl3g8toERQmoe) | 4:15 | 2025-08-06 |  |
+| [Rivers](https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx) | [Sophia Grover](https://open.spotify.com/artist/1NXqzuT9GyKPFAW9PPGMzR) | [Rivers](https://open.spotify.com/album/4ftnZsIKHNl3g8toERQmoe) | 4:15 | 2025-08-06 | 2025-11-15 |
 | [Robitussin](https://open.spotify.com/track/6sbSGzDHj2832Ns1laCw9s) | [brady](https://open.spotify.com/artist/7nq9mnjjuDB4dYxMOFUTy4) | [Robitussin](https://open.spotify.com/album/6FLVebqD8yRFJxBRgF0asH) | 3:03 | 2023-04-12 | 2023-06-01 |
 | [Rockabye](https://open.spotify.com/track/5PeQaXUiOaU5xN6SxQv6OX) | [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Rockabye](https://open.spotify.com/album/5z5y0rjhxu3ft3pEychFLQ) | 2:09 | 2023-03-01 | 2023-04-20 |
 | [Rocket Science](https://open.spotify.com/track/2o3pfn5RI5anPcKJ4LI7hA) | [Haley Gold](https://open.spotify.com/artist/6O9lZQoUyrZVY1dVJ0NlG9) | [Rocket Science](https://open.spotify.com/album/6MWK0X2Bn7xIpKIt3YNYhc) | 3:05 | 2022-05-25 | 2022-07-07 |

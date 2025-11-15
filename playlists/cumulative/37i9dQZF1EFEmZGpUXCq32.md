@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 7 hr 31 min
+109 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Parenthesis](https://open.spotify.com/track/404r5PaCnSAgwsc82Lmy8j) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:11 | 2024-05-01 |  |
 | [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 | 2024-05-01 |  |
 | [Prayer](https://open.spotify.com/track/1ctOqrmjxmJTy8nZhJxFq5) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Bishop Carlton Pearson](https://open.spotify.com/artist/6rXCRf0IiimPocIkaVPaSE) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 1:56 | 2024-05-01 |  |
+| [RATHER BE](https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:51 | 2025-11-14 |  |
 | [Revolution](https://open.spotify.com/track/4t1K5CR5k4nCnx7gavm3cP) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 3:19 | 2025-08-06 |  |
 | [Rise](https://open.spotify.com/track/6J9f6gb2Yqwzrzca4cZy7i) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Rise](https://open.spotify.com/album/4TnL5ML7n7N7NJtkbozZtD) | 4:34 | 2024-05-01 |  |
 | [Round N Round](https://open.spotify.com/track/4aYpNLWSGWcI2nuS16ajNx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:07 | 2024-05-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊 \(Patrick Brasca\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,801 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,816 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 17 | [彩虹 \- 滾石撞樂隊2 \(原唱:梁靜茹\)](https://open.spotify.com/track/0FWi5X1ouSMs0sozulyqqi) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [滾石撞樂隊2 \- 彩虹](https://open.spotify.com/album/3Li3rQxiS8gomSbxrp8oe4) | 4:21 |
 | 18 | [新不了情 \- 滾石撞樂隊2 \(原唱:萬芳\)](https://open.spotify.com/track/3Ue54BzmJG4AAV7rkHSTt5) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [滾石撞樂隊2 \- 新不了情](https://open.spotify.com/album/7aH93cWq0iq2qD0FFQ5IXU) | 5:51 |
 | 19 | [一夜一夜一夜](https://open.spotify.com/track/3djgonrherZ9t3Wwih6n0Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一夜一夜一夜](https://open.spotify.com/album/509hTNcF5mythficxIwadm) | 4:01 |
-| 20 | [可以是朋友](https://open.spotify.com/track/4LnGoiqCHE2PY7vNJ84rAM) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [蕭景鴻 阿弟](https://open.spotify.com/artist/6zPThS6v1EdVWmVMNQqlTr) | [可以是朋友](https://open.spotify.com/album/05Y6CnOKdIjygsQdUZ8wFW) | 4:22 |
+| 20 | [可以是朋友](https://open.spotify.com/track/4LnGoiqCHE2PY7vNJ84rAM) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [蕭景鴻 \(阿弟\)](https://open.spotify.com/artist/6zPThS6v1EdVWmVMNQqlTr) | [可以是朋友](https://open.spotify.com/album/05Y6CnOKdIjygsQdUZ8wFW) | 4:22 |
 | 21 | [腐朽的心還在凌晨四點](https://open.spotify.com/track/4BFBwkKwBRq9IGhdQnl2zJ) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [腐朽的心還在凌晨四點](https://open.spotify.com/album/7CV8ZbIF2V2apQrebUTCoN) | 2:48 |
 | 22 | [homerun 全壘打](https://open.spotify.com/track/5q5cJEemPYhnkVvs7OEQk8) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [homerun 全壘打](https://open.spotify.com/album/3QsvNtcb3rYM13EJwGUAqg) | 2:52 |
 | 23 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |

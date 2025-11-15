@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-514 songs - 1 day 0 hr 40 min
+516 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 | 2022-10-21 | 2023-06-17 |
 | [Chance](https://open.spotify.com/track/6DL7uKksy8EONZ3eYKfsua) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Chance](https://open.spotify.com/album/5MKSoxil3WWzlkV7YeI8UB) | 2:00 | 2024-05-10 | 2025-04-27 |
 | [Chase Me](https://open.spotify.com/track/7r1BShTewnDTXf64CZixQT) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Chase Me](https://open.spotify.com/album/3BJXM7HyRTmBrTzl2zCkmt) | 2:56 | 2023-03-31 | 2023-05-27 |
+| [Chasing Echoes](https://open.spotify.com/track/2TgM993dmVzwys2XXlVA93) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Melissa Grace](https://open.spotify.com/artist/7bQLH0u3C9lR2gZQaQ8owM) | [Chasing Echoes](https://open.spotify.com/album/2czfZBAy2eLbi29bxjdR9j) | 2:48 | 2025-11-14 |  |
 | [Check This \(with Kuhlosul\)](https://open.spotify.com/track/0hSMYFjDOvzULFrOtmC3s6) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm) | [Check This \(with Kuhlosul\)](https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k) | 2:40 | 2022-10-17 | 2023-04-09 |
 | [Check This \(with Kuhlosul\) \- Leotrix Remix](https://open.spotify.com/track/4uc21oNVTZCDVihzjra8oM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 3:08 | 2023-07-31 | 2023-12-14 |
 | [Choppas](https://open.spotify.com/track/53KC0vl1WMkoMYrJkqwygf) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL) | [Choppas](https://open.spotify.com/album/2tL2mYx1by5C0Vne9ilN5Q) | 2:58 | 2023-12-08 | 2025-04-27 |
@@ -377,6 +378,7 @@
 | [Pill](https://open.spotify.com/track/5qa0Vd1RbFfryPALhL1d3x) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill](https://open.spotify.com/album/2xmmJIoFBCPvhtAIKfgoPm) | 2:09 | 2022-05-06 | 2022-08-13 |
 | [Play With You](https://open.spotify.com/track/5RKUtMvMl1VhCVDHg20fP4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Play With You](https://open.spotify.com/album/79U6oOr7Qhoizl1CIyOkpE) | 3:03 | 2023-07-13 | 2025-04-27 |
 | [Playground](https://open.spotify.com/track/2ik3fTroPHOoEhEmTHCjMi) | [Benix](https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr) | [Playground](https://open.spotify.com/album/7ipy8yJGLtF5B52X8rXn5Y) | 2:44 | 2023-11-22 | 2025-04-27 |
+| [Please Don't Go](https://open.spotify.com/track/4elhFAQrCQOTM7kYh9lHf8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [Please Don't Go](https://open.spotify.com/album/3kpHWt3UFFr6xGZoP9h9KR) | 2:24 | 2025-11-14 |  |
 | [Please Don't Go](https://open.spotify.com/track/2Hc2qBnB8rUrpFy80b8eby) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Please Don't Go](https://open.spotify.com/album/7a6GG1brPwSupamjLGahQS) | 2:17 | 2025-10-24 |  |
 | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP) | 3:09 | 2022-05-06 | 2023-02-18 |
 | [Poison \(feat\. CERES\)](https://open.spotify.com/track/5qjyiw8igGbkVmkPsvN22F) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Poison \(feat\. CERES\)](https://open.spotify.com/album/6fZ3oqdKX8vOS7z1BnBNfd) | 2:09 | 2024-09-13 | 2025-04-27 |

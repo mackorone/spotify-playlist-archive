@@ -4,7 +4,7 @@
 
 > Des chansons pour sensibiliser vos enfants à la défense de l'environnement
 
-53 songs - 2 hr 50 min
+53 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Le Pouvoir des fleurs](https://open.spotify.com/track/1mKsdZPfIoAiELi3fHFkVm) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs) | [Tout le bonheur du monde](https://open.spotify.com/album/2EP8Vum6V1W0BzLNmBR7t3) | 3:19 | 2021-04-28 |  |
 | [Les enfants du monde](https://open.spotify.com/track/2IexiB7WMQt8c15MPsZaHA) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Green Team](https://open.spotify.com/album/0ZrX1TCsORaOOQT7pTPnhn) | 3:49 | 2021-04-28 |  |
 | [Les enfants du monde](https://open.spotify.com/track/3Kbrdxgjg0Gj9WT34g6OFN) | [Green Team](https://open.spotify.com/artist/23nbQGS6wDP84uCupbOlCX), [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Les enfants du monde](https://open.spotify.com/album/6Jwm5fgoMYPgKxRx2YFJrM) | 3:50 | 2021-04-28 | 2024-04-19 |
-| [Les lionnes](https://open.spotify.com/track/3Pih25uLecFBvRd5lV7HkR) | [Les Enfants de la Terre](https://open.spotify.com/artist/1TsOqqM28A1fhxqtI9P9BK), [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Les Enfants de la Terre chantent Yannick Noah](https://open.spotify.com/album/5aFVq48na0zIenhA8ma4ey) | 3:11 | 2021-04-28 |  |
+| [Les lionnes](https://open.spotify.com/track/3Pih25uLecFBvRd5lV7HkR) | [Les Enfants de la Terre](https://open.spotify.com/artist/1TsOqqM28A1fhxqtI9P9BK), [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Les Enfants de la Terre chantent Yannick Noah](https://open.spotify.com/album/5aFVq48na0zIenhA8ma4ey) | 3:09 | 2021-04-28 |  |
 | [Madame Nature \(with Tété\)](https://open.spotify.com/track/30T3aNUu8OCa0BtSS3G8GS) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Enfantillages 3](https://open.spotify.com/album/77kv2o5PJeW3mim1yWPiMA) | 3:51 | 2021-04-28 |  |
 | [Mama Africa \(feat\. Angélique Kidjo et Youssou Ndour\)](https://open.spotify.com/track/27N8TFqYeZhdrgFITRJncP) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Forever United](https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ) | 2:49 | 2021-04-28 |  |
 | [Monsieur Toulmonde](https://open.spotify.com/track/6mqiu6m2kuXtgTioLthLFJ) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS) | [Enfantillages](https://open.spotify.com/album/1xhy7WWxO28XoPKuFlnxSZ) | 2:44 | 2021-04-28 |  |

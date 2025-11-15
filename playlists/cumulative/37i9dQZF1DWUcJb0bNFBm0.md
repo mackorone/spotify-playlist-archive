@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-309 songs - 21 hr 15 min
+313 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Eternal Wailing](https://open.spotify.com/track/3YV2i4ICZUUYFWMvB3Ojkm) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Stephania Shakila](https://open.spotify.com/artist/6M6v6KDBvjtweSnL3i6uSK) | [Behind Closed Doors](https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X) | 6:53 | 2025-10-23 |  |
 | [Evangeline](https://open.spotify.com/track/2LAwnmnutCpNjuWAVrO7HW) | [Slowwves](https://open.spotify.com/artist/7efZWwJdYjmy1Xu1wLtEbg), [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Perfect Evasion](https://open.spotify.com/album/0Jru9ZNJuqVDFWuRzFRGa9) | 6:03 | 2025-06-06 | 2025-10-10 |
 | [every breath](https://open.spotify.com/track/1u7iJzDUnxz1AQxhBER9y5) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [every breath](https://open.spotify.com/album/0bYqHYcVjNyJfwfRze6ieE) | 5:11 | 2025-07-31 | 2025-10-10 |
-| [Eyes](https://open.spotify.com/track/2TxuvmICxloBzsmDx3oMDf) | [Unruly Posers](https://open.spotify.com/artist/7kObB4tWUnB01KWqXEMewM) | [Eyes](https://open.spotify.com/album/7qm0yUkMURYUzfcbdqMwlD) | 4:00 | 2025-04-18 |  |
+| [Eyes](https://open.spotify.com/track/2TxuvmICxloBzsmDx3oMDf) | [Unruly Posers](https://open.spotify.com/artist/7kObB4tWUnB01KWqXEMewM) | [Eyes](https://open.spotify.com/album/7qm0yUkMURYUzfcbdqMwlD) | 4:00 | 2025-04-18 | 2025-11-15 |
 | [Fading](https://open.spotify.com/track/3EUbcTDN7japhhDGsDvlZP) | [Thread Needle](https://open.spotify.com/artist/3czEitwqO6z78ZUNlHlp77) | [Fading](https://open.spotify.com/album/3hzIziLoqcCrFwg1oBnfrV) | 4:33 | 2024-06-27 | 2024-12-05 |
 | [Fading](https://open.spotify.com/track/1Vl7oJHZWzyQYROZAwqo29) | [Withered Whispers](https://open.spotify.com/artist/3uG0BjYEeeRvTRm75rWJD7) | [Fading](https://open.spotify.com/album/4Squ5XKPXdotAv4zTCzYse) | 3:31 | 2025-03-21 |  |
 | [Faith](https://open.spotify.com/track/1PI1AYbn0QXlFSrfxHMoyK) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs of The Hazy Memories](https://open.spotify.com/album/4mlgz1lwErzQAyjgPa57t1) | 3:04 | 2025-01-23 | 2025-10-10 |
@@ -126,6 +126,7 @@
 | [iki](https://open.spotify.com/track/5Oo3gErzLysjVSb2rNOwgo) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Lux](https://open.spotify.com/album/3G2sTBcS9qUSI21k3TDQim) | 4:27 | 2025-01-16 | 2025-02-14 |
 | [Imagination and Creation](https://open.spotify.com/track/4W8OK7sBpV2VIUUsQmh45L) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Eunoia](https://open.spotify.com/album/0ENNpHzXuTcJ2rOHQuEzTx) | 3:47 | 2024-10-10 | 2024-11-08 |
 | [In Motion](https://open.spotify.com/track/66Lw5v5MQQtV4Fy7GIQR63) | [In Inertia](https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt) | [In Motion](https://open.spotify.com/album/4Y6DGBMiczxvUtPpG9UEj6) | 5:14 | 2025-01-16 | 2025-10-24 |
+| [In My Head](https://open.spotify.com/track/5MNqHwNYDBkKVtqViQnmaP) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [In My Head / Her](https://open.spotify.com/album/4fBvWh0PM82batrTtlk7XW) | 3:22 | 2025-11-14 |  |
 | [in my room, gazing into book page](https://open.spotify.com/track/3DTe8VyiArCO6ljEgrklQF) | [bioneunnal](https://open.spotify.com/artist/54o61nZtHnVCnPLtI8B0Cf) | [books, cats, and memories](https://open.spotify.com/album/3ed2oWIfFAqL0ejszqbb5W) | 2:38 | 2024-10-10 | 2024-12-05 |
 | [In the End of the World \(I Love You\)](https://open.spotify.com/track/3CcENn2midZIlsOmie5Nvq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [In the End of the World \(I Love You\)](https://open.spotify.com/album/1aRkkaRkSJucjtsBwCLW5S) | 3:40 | 2025-01-16 | 2025-10-24 |
 | [Irene](https://open.spotify.com/track/3kch4XBCUYiCBNIZzsxYr5) | [HUSH](https://open.spotify.com/artist/1AEMtlWO4qP2j3SndDRvMB) | [Irene](https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi) | 7:10 | 2024-06-27 | 2025-02-21 |
@@ -148,6 +149,7 @@
 | [Leave](https://open.spotify.com/track/6YENNctHxnfa4U2AXD8h8Q) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fade](https://open.spotify.com/album/3tBmyjfGvGRPPZV32BeGF7) | 4:01 | 2024-06-27 | 2025-10-24 |
 | [Lily](https://open.spotify.com/track/66sSLulLtyGjwt33C4XE2n) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Lily](https://open.spotify.com/album/1elWcJyr9tqhnpt8uZXUFR) | 4:27 | 2024-06-27 | 2024-08-09 |
 | [Limbo](https://open.spotify.com/track/3agLVs0D9DJl1v8ICi0MV9) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Limbo](https://open.spotify.com/album/5Ep7CnoV1wVY3nHgIFgt5i) | 4:43 | 2025-10-09 |  |
+| [LOADED](https://open.spotify.com/track/0JZKXCCxYAYCGDp6fmsphk) | [Toots](https://open.spotify.com/artist/2vG7Gc8oR9AEARU3bPzsiZ) | [LOADED](https://open.spotify.com/album/3FmM1iLuGGigRjAmWKutUl) | 2:42 | 2025-11-14 |  |
 | [Long](https://open.spotify.com/track/2B6Uvr3mQ3wNITGva2vWjx) | [sci fye](https://open.spotify.com/artist/4S6QDVpc6TqC8aamndP5Q2) | [2092](https://open.spotify.com/album/0ZetqEqgoZjiQWIokOWFzb) | 4:25 | 2025-10-23 |  |
 | [Long Goodbye](https://open.spotify.com/track/3sSO66ktjkZ8u6cEFsuJ4p) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 5:04 | 2024-12-04 | 2025-02-08 |
 | [Lost](https://open.spotify.com/track/3Op63ZmpzYIpF92J3y5m9u) | [My Violainé Morning](https://open.spotify.com/artist/7fAZaqZKCfkyMnZpNLb2bR) | [Lost](https://open.spotify.com/album/5bQBMuWP3fq8UERgeq3oAB) | 6:25 | 2024-06-27 | 2025-10-10 |
@@ -169,7 +171,7 @@
 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-06-27 | 2024-12-05 |
 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 | 2024-12-04 | 2025-05-02 |
 | [My Beautiful Girl](https://open.spotify.com/track/5SwTvNlpZS0pBznjHiyEyY) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Rarely Do I Dream](https://open.spotify.com/album/3Wxbhy7dIYmU99V4ZQYvHS) | 2:14 | 2025-10-09 |  |
-| [My Heart Feels So Sad](https://open.spotify.com/track/6Q2E6GaQgZrqQye7yC9mW2) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [My Heart Feels So Sad](https://open.spotify.com/album/3EMWdATBJndDFqZClmd5kP) | 5:27 | 2025-02-20 |  |
+| [My Heart Feels So Sad](https://open.spotify.com/track/6Q2E6GaQgZrqQye7yC9mW2) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [My Heart Feels So Sad](https://open.spotify.com/album/3EMWdATBJndDFqZClmd5kP) | 5:27 | 2025-02-20 | 2025-11-15 |
 | [n e a r](https://open.spotify.com/track/224stW1Dr20xqS0HSq6NVL) | [The Earth Earth](https://open.spotify.com/artist/4dbb5ZNqbO2NW0JeFYjvSj) | [n e a r](https://open.spotify.com/album/7k28zino1r6GZ6b3p6j6fH) | 6:03 | 2024-06-27 | 2024-08-09 |
 | [Nanjung](https://open.spotify.com/track/4cpFpsTAoS1EgV5ztYtVTu) | [Ingar](https://open.spotify.com/artist/4GFcXWDJ60btiDRJ332luR) | [Nanjung](https://open.spotify.com/album/4qGR6mTKJqZ0oqUkDqVSTC) | 4:18 | 2024-06-27 | 2025-07-25 |
 | [Never Forget](https://open.spotify.com/track/60OeY7NzwVLBaQm8sGnad9) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Never Forget](https://open.spotify.com/album/56ZEqUHU1HvBoN3oOxF4Sq) | 4:07 | 2024-09-26 | 2024-12-05 |
@@ -213,6 +215,7 @@
 | [Pudar](https://open.spotify.com/track/6UlVDJKmiqJ29Ut5lutkpX) | [eyesun](https://open.spotify.com/artist/29PELbih4pFV1CfXeHfrXF) | [Feel Something](https://open.spotify.com/album/0TW6qkK2DLqtiDBDceTTyv) | 5:28 | 2024-06-27 | 2024-12-05 |
 | [Purest Tears of Middle\-Aged Loser](https://open.spotify.com/track/5Krq7b6qE84seOkF7TWIC9) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Purest Tears of Middle\-Aged Loser](https://open.spotify.com/album/398zPRYelEvVNjC6M7xrzU) | 7:23 | 2025-04-03 | 2025-10-10 |
 | [Realize](https://open.spotify.com/track/7qVKgHJDWENFmqtnvr6Tzq) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fault](https://open.spotify.com/album/4vl7hn0TDJg3GJPeAOGFhS) | 3:55 | 2024-06-27 | 2024-08-09 |
+| [retrograde](https://open.spotify.com/track/6PCP233czm2r4cFnsuN1lR) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [you are not real](https://open.spotify.com/album/6NVZkMmV3yMg8bHLV57sSB) | 4:12 | 2025-11-14 |  |
 | [Reunion Song](https://open.spotify.com/track/0vfSaylAxEZV172XA5RfdV) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Reunion Song](https://open.spotify.com/album/2M2r0MC6PNElnzIjq8GINA) | 3:50 | 2024-10-17 | 2024-12-05 |
 | [Rhinoceros \- Remastered 2011](https://open.spotify.com/track/1nT1WwzjraW3Iu8Pa8wXEi) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 6:30 | 2025-10-09 |  |
 | [Rhythm Zero](https://open.spotify.com/track/0dknXr1zTEA69doNENzam7) | [Kognes Park](https://open.spotify.com/artist/5nTF0UCjFrt9cJ3AHC8xX3) | [Kognes Park](https://open.spotify.com/album/7DlCjdy48gJ1lkCNaypwiD) | 3:20 | 2024-06-27 | 2025-08-01 |
@@ -264,7 +267,7 @@
 | [The River Runs slowly](https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg) | [Ferri\-Chrome](https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy) | [The River Runs slowly](https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT) | 2:38 | 2024-08-05 | 2024-12-05 |
 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 | 2024-06-27 | 2024-08-09 |
 | [thorns](https://open.spotify.com/track/5xJnY016OyIUAMsLIDhfO4) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [xona](https://open.spotify.com/artist/0pn2qAOiJ6u8E9gY7vO6WZ) | [thorns](https://open.spotify.com/album/3TuSeBroII1uKr01YkltRA) | 2:35 | 2025-04-03 |  |
-| [Tired](https://open.spotify.com/track/1D3B2JlVierm8SoKsSxQ8s) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Tired](https://open.spotify.com/album/5rA3SyvNJjX4R2GUF6OWdX) | 2:41 | 2025-05-09 |  |
+| [Tired](https://open.spotify.com/track/1D3B2JlVierm8SoKsSxQ8s) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Tired](https://open.spotify.com/album/5rA3SyvNJjX4R2GUF6OWdX) | 2:41 | 2025-05-09 | 2025-11-15 |
 | [To My Love](https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/594eWfeyQ02c9MLYI9iLuK) | [Tears in Rain（就像泪水消逝在雨中）](https://open.spotify.com/album/6nlLIph5HfbYSJ9UquhqVM) | 4:36 | 2024-06-27 | 2024-12-05 |
 | [To My Love](https://open.spotify.com/track/7FULpfn4MQlvqZHqDO1hYj) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/2mRvIBsxvP5BcxNWM9MfcR) | [Tears in Rain](https://open.spotify.com/album/0IzZfuIqvh3eiGo88D9J9r) | 4:36 | 2024-12-04 | 2025-08-01 |
 | [To Rage \- Middle Farm Session](https://open.spotify.com/track/5MiULLcKAT4UffR0PPB4w3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Middle Farm Session](https://open.spotify.com/album/0Ykr9wHAv3YTnDCyJtXDaJ) | 4:53 | 2025-10-09 |  |
@@ -310,6 +313,7 @@
 | [幸福の培養](https://open.spotify.com/track/4MgFKwyW9pzNIZBzv6woPP) | [kinoue64](https://open.spotify.com/artist/1m3xhZ4CN3hm4F3lK8Rw5C) | [幸福の培養](https://open.spotify.com/album/5gtgznEYDKC80pT91UQN0I) | 2:55 | 2025-07-04 | 2025-10-02 |
 | [情人！](https://open.spotify.com/track/3FpBnK9vduKWb48YCXc9c8) | [河豚子](https://open.spotify.com/artist/4tZVnilXcr5CaAgaVVW2be) | [天堂不過就是我們的海](https://open.spotify.com/album/5fNNz4UYiGJ1Ge3mFlaE3D) | 3:33 | 2024-06-27 | 2025-10-10 |
 | [愛について](https://open.spotify.com/track/1R26bjS5hoUbec99Zq8w06) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 5:28 | 2025-10-09 | 2025-10-24 |
+| [我们不要明天](https://open.spotify.com/track/7lYKn1QSdd1jVUxwXSBCJt) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [我们不要明天](https://open.spotify.com/album/4c81pIR173aGMMA8f7vBzT) | 3:58 | 2025-11-14 |  |
 | [春の嵐](https://open.spotify.com/track/1mkL4IjxvqX9vnC7gv2NX3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 4:37 | 2025-10-09 | 2025-10-24 |
 | [最初の天使](https://open.spotify.com/track/3p9LwJEPqgy4xO0YPzel4V) | [ミレー](https://open.spotify.com/artist/5ksX7EDcPMxGNLDdoYnIlN) | [ブルー、燃えて](https://open.spotify.com/album/2ZVGLo7bZhWhsNOGO28Tkr) | 4:15 | 2024-08-15 | 2024-10-11 |
 | [未来地図2025](https://open.spotify.com/track/6Qfk45ywstJmxMJjqWDSuy) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 6:02 | 2025-10-09 | 2025-10-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,007 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,017 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [LOCA](https://open.spotify.com/track/41zwSinD6HrblQGEb493tl) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [LOCA](https://open.spotify.com/album/6D8P8uefM8gtGFRcPK44SW) | 3:32 |
 | 79 | [Fade Blue \(11pm\)](https://open.spotify.com/track/6MqbcgkeYKBqWxgQkEVtoN) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Fade Blue \(11pm\)](https://open.spotify.com/album/6WjNXKqWiFExl1vtgLnH2j) | 2:39 |
 
-Snapshot ID: `AAAAAGwR6xivCZR3M3bX/Ui7sLz+1+Ws`
+Snapshot ID: `AAAAAOCKKVvNQghXNyD9ChmvuIJnBNox`

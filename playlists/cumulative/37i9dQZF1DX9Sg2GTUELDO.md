@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: 秋彤 Claudia Ng
 
-603 songs - 1 day 11 hr 50 min
+604 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [討好式戀愛](https://open.spotify.com/track/5bqnlcRLN5IudbbFbYfIWz) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [討好式戀愛](https://open.spotify.com/album/12YLTrOgEHGysZIYb5bpvl) | 3:44 | 2024-06-27 | 2025-09-12 |
 | [說好的未來](https://open.spotify.com/track/3kDOAPunKnEPfFIFTlXVxA) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [說好的未來](https://open.spotify.com/album/2C4T0p54qL3v5Tgojcleg7) | 3:41 | 2024-06-27 | 2025-09-12 |
 | [說走就走](https://open.spotify.com/track/1KwWRZ8WwJ2odetEB5Lw2Q) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [說走就走](https://open.spotify.com/album/3KtFzTu5eLYskzCnYNkcOT) | 3:38 | 2024-06-27 | 2025-09-12 |
+| [請勿打擾](https://open.spotify.com/track/7twG2CRpGRXfsaOagX74zR) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [請勿打擾](https://open.spotify.com/album/5BxQn7C8EmSKxNPq1fdoac) | 3:27 | 2025-11-13 |  |
 | [請勿打擾模式](https://open.spotify.com/track/3eUcu4O8TfSSkBuXHRfh89) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [請勿打擾模式](https://open.spotify.com/album/1JdhSjpvG3483VbfmWX9PJ) | 2:41 | 2024-06-27 | 2025-09-12 |
 | [講呀講呀](https://open.spotify.com/track/7M0jGlVo2B0lrFK5ZKQCei) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [講呀講呀](https://open.spotify.com/album/4jwvzdl0meLahunGaF8RxJ) | 3:30 | 2024-06-27 | 2025-09-12 |
 | [講呀講呀 \- lofi remix](https://open.spotify.com/track/5vvmYOtUQx3R5vnS1EvbST) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [講呀講呀 \(lofi remix\)](https://open.spotify.com/album/5vcVmxsXA24qEA9bApPaeJ) | 3:32 | 2024-07-04 | 2025-09-12 |

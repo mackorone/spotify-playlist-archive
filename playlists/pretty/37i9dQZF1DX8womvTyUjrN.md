@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: ISADORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,788 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,928 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 59 | [Siempre Lo Mismo](https://open.spotify.com/track/0mmcVE9a4QJrgaAsyXdcuZ) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Siempre Lo Mismo](https://open.spotify.com/album/0asXGmwf95NCLkA5iETAbq) | 3:40 |
 | 60 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
 
-Snapshot ID: `AAAAAOVoeeWUI9quk5biWIBxPkCW1sJ0`
+Snapshot ID: `AAAAAINHpQGcLkFdqra//f63fPg4MEnj`

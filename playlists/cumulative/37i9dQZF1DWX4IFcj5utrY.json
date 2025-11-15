@@ -24965,6 +24965,28 @@
     },
     {
       "album": {
+        "name": "From The Hill",
+        "url": "https://open.spotify.com/album/4fH1Vj7ZXEPgiEpjH0dEl2"
+      },
+      "artists": [
+        {
+          "name": "Charles Webster",
+          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508474,
+      "name": "Soweto Sunrise",
+      "url": "https://open.spotify.com/track/1G2FFft1JdnT5N5nvkIkit"
+    },
+    {
+      "album": {
         "name": "Spheres",
         "url": "https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly"
       },
@@ -27818,24 +27840,6 @@
       "duration_ms": 373437,
       "name": "Touch - Extended Mix",
       "url": "https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Charles Webster",
-          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
-        }
-      ],
-      "date_added": "2025-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 13",
-      "url": "https://open.spotify.com/track/1G2FFft1JdnT5N5nvkIkit"
     },
     {
       "album": {

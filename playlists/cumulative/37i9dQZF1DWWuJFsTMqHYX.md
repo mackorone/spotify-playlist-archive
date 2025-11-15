@@ -4,7 +4,7 @@
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-127 songs - 9 hr 39 min
+128 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Imajghane](https://open.spotify.com/track/2ft6iPo2uVkxcEeBPGeHdg) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW) | 4:13 | 2022-03-07 | 2022-07-29 |
 | [Imajghane \(The Tuareg People\)](https://open.spotify.com/track/1KtFpAThSWUa9bP5a1XsVf) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY) | 4:13 | 2023-08-16 | 2023-11-06 |
 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 | 2022-03-07 |  |
-| [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 | 2022-03-07 |  |
+| [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 | 2022-03-07 | 2025-11-15 |
 | [Iswegh Attay](https://open.spotify.com/track/4EJTgs1tHQ3GP4E4meZh1m) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili](https://open.spotify.com/album/7ngXpyICKRYfFHDPD3shHl) | 5:36 | 2022-03-07 | 2022-07-29 |
 | [Iswegh Attay](https://open.spotify.com/track/3NUEM2icOuUn3WGOgsxDq7) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Kyp Malone](https://open.spotify.com/artist/2ppllDLrUVkJMtMXptA8GS) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 5:34 | 2023-07-07 | 2023-07-15 |
 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib) | 6:07 | 2022-03-07 | 2022-07-29 |
@@ -124,6 +124,7 @@
 | [Taxi Brousse](https://open.spotify.com/track/2IqeH9eUGHoK9HNgdirYZL) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3MA](https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6) | 1:28 | 2023-03-23 | 2024-01-29 |
 | [Taxi Brousse](https://open.spotify.com/track/67MvBcAEhyKnyNdT1A54wi) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 1:28 | 2024-02-26 | 2025-08-24 |
 | [Tazidert](https://open.spotify.com/track/28KVcCkqUTaMyAS132L2jC) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Tazidert](https://open.spotify.com/album/2UKhdMdLW0DzHIs36zTaHu) | 4:56 | 2023-05-12 | 2023-08-08 |
+| [Tellalt](https://open.spotify.com/track/2ghykYX3U82Iijvmw0dZVf) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Tellalt](https://open.spotify.com/album/0lTJ5slI5iXHKZFP919sxq) | 3:20 | 2025-11-13 |  |
 | [Timtar \(Memories\)](https://open.spotify.com/track/5TT9Gy9rToJrKcOepuWN47) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/1qgTFlnlo0dMsx27C9BMGw) | 4:53 | 2022-03-07 | 2022-07-29 |
 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 | 2022-03-07 |  |
 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 | 2022-09-01 | 2023-08-15 |

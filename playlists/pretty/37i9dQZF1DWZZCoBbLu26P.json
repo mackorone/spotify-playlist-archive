@@ -107,22 +107,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "I'm That Bitch",
-        "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 12",
-          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "I'm That Bitch",
-      "url": "https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 224430,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "I'm That Bitch",
+        "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 12",
+          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "I'm That Bitch",
+      "url": "https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -179,8 +179,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "The Blonde & Pink Albums",
-        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
+        "name": "One Stone",
+        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
       },
       "artists": [
         {
@@ -188,29 +188,9 @@
           "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
         }
       ],
-      "duration_ms": 156696,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Break Up Bye Bye (Frock Destroyers Version)",
-        "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race UK",
-          "url": "https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc"
-        },
-        {
-          "name": "Frock Destroyers",
-          "url": "https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1"
-        }
-      ],
-      "duration_ms": 151825,
-      "name": "Break Up Bye Bye - Frock Destroyers Version",
-      "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
+      "duration_ms": 185744,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -235,6 +215,26 @@
       "duration_ms": 197422,
       "name": "Queens Everywhere - Cast Version",
       "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Break Up Bye Bye (Frock Destroyers Version)",
+        "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race UK",
+          "url": "https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc"
+        },
+        {
+          "name": "Frock Destroyers",
+          "url": "https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1"
+        }
+      ],
+      "duration_ms": 151825,
+      "name": "Break Up Bye Bye - Frock Destroyers Version",
+      "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -271,8 +271,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "One Stone",
-        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
+        "name": "The Blonde & Pink Albums",
+        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
         }
       ],
-      "duration_ms": 185744,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
+      "duration_ms": 156696,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Everybody Hates Linux",
         "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Everyone Is A Little Bit Gay",
-        "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
-      },
-      "artists": [
-        {
-          "name": "Ash Gordon",
-          "url": "https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF"
-        },
-        {
-          "name": "Alaska Thunderfuck",
-          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
-        }
-      ],
-      "duration_ms": 190603,
-      "name": "Everyone Is A Little Bit Gay",
-      "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Arrogant",
         "url": "https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 222159,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Everyone Is A Little Bit Gay",
+        "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
+      },
+      "artists": [
+        {
+          "name": "Ash Gordon",
+          "url": "https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF"
+        },
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        }
+      ],
+      "duration_ms": 190603,
+      "name": "Everyone Is A Little Bit Gay",
+      "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -911,22 +911,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
       },
       "artists": [
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
         }
       ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -959,6 +955,26 @@
       "duration_ms": 209603,
       "name": "Zubi Zubi Zubi",
       "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "PUMPKIN TITS - Single",
-        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
-      },
-      "artists": [
-        {
-          "name": "JIMBO the Drag Clown",
-          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
-        }
-      ],
-      "duration_ms": 176215,
-      "name": "PUMPKIN TITS",
-      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
       },
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Sweet T",
-        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
+        "name": "PUMPKIN TITS - Single",
+        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
       },
       "artists": [
         {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+          "name": "JIMBO the Drag Clown",
+          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
         }
       ],
-      "duration_ms": 275175,
-      "name": "Ohh Lala Lala",
-      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
+      "duration_ms": 176215,
+      "name": "PUMPKIN TITS",
+      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+        "name": "Sweet T",
+        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
       },
       "artists": [
         {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
         }
       ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
+      "duration_ms": 275175,
+      "name": "Ohh Lala Lala",
+      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
-      },
-      "artists": [
-        {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
-        }
-      ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Diamond Crowned Queen",
         "url": "https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 231932,
       "name": "Diamond Crowned Queen - Original",
       "url": "https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
       },
       "artists": [
         {
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1307,8 +1307,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
       },
       "artists": [
         {
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Till Death Do Us Party",
+        "url": "https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ"
+      },
+      "artists": [
+        {
+          "name": "Adore Delano",
+          "url": "https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87"
+        }
+      ],
+      "duration_ms": 222833,
+      "name": "I Adore U",
+      "url": "https://open.spotify.com/track/3OJ34PxLlQZX8l6Ku0tyTF"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Straight Outta Oz (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb"
       },
@@ -1403,30 +1419,6 @@
       "duration_ms": 201904,
       "name": "Low",
       "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Rye Rye vs. Filthy Fidgets",
-        "url": "https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc"
-      },
-      "artists": [
-        {
-          "name": "Rye Rye",
-          "url": "https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu"
-        },
-        {
-          "name": "Filthy Fidgets",
-          "url": "https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h"
-        },
-        {
-          "name": "Spank Rock",
-          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
-        }
-      ],
-      "duration_ms": 235530,
-      "name": "Work Mommi Work (feat. Spankrock)",
-      "url": "https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3"
     }
   ],
   "unique_name": "FIERCE",

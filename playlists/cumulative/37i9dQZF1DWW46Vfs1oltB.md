@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Royal 44\)
 
-1,685 songs - 3 day 18 hr 6 min
+1,686 songs - 3 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Ballin \(Feat\. Kid Milli, NO:EL, Ksmartboi, Swings\)](https://open.spotify.com/track/39k6Kd9PcgJMkc4DRRztuq) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [ksmartboi](https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Ballin](https://open.spotify.com/album/2UwETKmYuXkHwGmcwshk4r) | 5:20 | 2025-01-30 | 2025-06-12 |
 | [Bang Thang \(Feat\. Roh Yun Ha\)](https://open.spotify.com/track/61xmwYE5xoRiR1XtOFOGPr) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Trapstar Lifestyle](https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY) | 2:47 | 2024-04-05 | 2024-04-12 |
 | [Banghak](https://open.spotify.com/track/5QOUI4w7POVYMbT9jbMi9L) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Banghak](https://open.spotify.com/album/1bWWELesiJqVeN4shefqbG) | 3:25 | 2022-12-20 | 2022-12-28 |
+| [BANGING! \(Feat\. Dynamicduo\)](https://open.spotify.com/track/4UQZhXSoEnuRXZHDRml5zl) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [BANGING!](https://open.spotify.com/album/6tP3fsEnK5xnhsttWPXclb) | 2:52 | 2025-11-14 |  |
 | [BAPPI](https://open.spotify.com/track/40HVYe95Yx00Kux7pFzlaJ) | [untitled\_cokeboy](https://open.spotify.com/artist/3YNtRUsP6JnyNTi53LS8Vf), [YS Block](https://open.spotify.com/artist/2aAPX4v8MAh1oPWiDKfBM2), [OaKTong](https://open.spotify.com/artist/2R481E6QRSnWhuNi3X79mR), [SEMEIK](https://open.spotify.com/artist/39Is829y7m6mNSMYzeCowW), [ZIG ZAG](https://open.spotify.com/artist/6DBWOrPxcTe0nPTHjAJ0Yu), [EGON](https://open.spotify.com/artist/2N13HotgnP2x1eYRu5GhlW) | [P2P 1st single](https://open.spotify.com/album/7FtJKZpjDzPOCNd47ymOqM) | 4:35 | 2022-11-07 | 2022-11-17 |
 | [Bassister \(Feat\. Kid Milli\)](https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS) | [Kimmy gone](https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [SPAZ](https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT) | 2:49 | 2025-09-17 |  |
 | [BASTARD \(feat\. CHANGMO\)](https://open.spotify.com/track/1EPw2pYx7WRlVMmLp3GHFP) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [HAONOAH](https://open.spotify.com/album/3zKXeD35Qw9HV3FvNs3oAn) | 2:57 | 2024-05-05 | 2025-01-25 |

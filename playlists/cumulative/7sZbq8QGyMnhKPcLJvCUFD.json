@@ -5543,6 +5543,28 @@
     },
     {
       "album": {
+        "name": "flowers in my head",
+        "url": "https://open.spotify.com/album/6op4ENwyqG53kJ33wzOqgk"
+      },
+      "artists": [
+        {
+          "name": "DIECXLD",
+          "url": "https://open.spotify.com/artist/0yex2PnkC4hyIoA1FMz1Df"
+        },
+        {
+          "name": "Prod. 94",
+          "url": "https://open.spotify.com/artist/76aDH2U2OFw00wOWvhK6pk"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125647,
+      "name": "flowers in my head",
+      "url": "https://open.spotify.com/track/4nk2uUQA7cuQhpAzh3WkbZ"
+    },
+    {
+      "album": {
         "name": "Flutter",
         "url": "https://open.spotify.com/album/5LrOkZ1rrpRyeM9Tbd3wJ6"
       },

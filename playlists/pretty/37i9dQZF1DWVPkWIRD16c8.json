@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 240406,
+  "num_followers": 240505,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 415133,
+      "name": "Never Would Have Made It",
+      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
         "name": "NOTHING ELSE",
         "url": "https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 118000,
       "name": "NOTHING ELSE",
       "url": "https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 415133,
-      "name": "Never Would Have Made It",
-      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "trustfall",
         "url": "https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 148363,
       "name": "OOWEE",
       "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        }
-      ],
-      "duration_ms": 249640,
-      "name": "Oceans (Where Feet May Fail) - Radio Version",
-      "url": "https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Always Summertime",
-        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Always Summertime",
-      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
+      "duration_ms": 249640,
+      "name": "Oceans (Where Feet May Fail) - Radio Version",
+      "url": "https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1067,6 +1051,22 @@
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/2GkNgHBlPQsh1t1GEVeLYr"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "Always Summertime",
+        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Always Summertime",
+      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Summer '24",
-        "url": "https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "Again And Again",
         "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
+        "name": "Summer '24",
+        "url": "https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt"
       },
       "artists": [
         {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
         }
       ],
-      "duration_ms": 213717,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+      "duration_ms": 138947,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1231,6 +1215,22 @@
       "duration_ms": 231151,
       "name": "Everything_",
       "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 213717,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
     },
     {
       "added_at": "2025-09-14 08:34:45",

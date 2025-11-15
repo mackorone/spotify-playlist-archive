@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13530,
+  "num_followers": 13534,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADOpAlZpywCKOhIXTZtoWvz",
+  "snapshot_id": "aRUfgAAAAADhkoX2k8p20n9r2ywNNlh6",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "lo q yo por ti",
         "url": "https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj"
       },
@@ -383,26 +399,6 @@
       "duration_ms": 173421,
       "name": "lo q yo por ti",
       "url": "https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u307e\u305f\u540c\u3058\u65e5",
-        "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 145705,
-      "name": "\u307e\u305f\u540c\u3058\u65e5",
-      "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+        "name": "\u307e\u305f\u540c\u3058\u65e5",
+        "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
       },
       "artists": [
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+      "duration_ms": 145705,
+      "name": "\u307e\u305f\u540c\u3058\u65e5",
+      "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 138866,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Things will be fine (Bratty Remix)",
         "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 200000,
       "name": "Things will be fine - Bratty Remix",
       "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 138866,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 155880,
-      "name": "Before Seeing Green",
-      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
+      "duration_ms": 177906,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 177906,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ"
+      "duration_ms": 155880,
+      "name": "Before Seeing Green",
+      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
     }
   ],
   "unique_name": "This Is Bratty",

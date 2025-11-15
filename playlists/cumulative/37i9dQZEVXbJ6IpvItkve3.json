@@ -15017,6 +15017,32 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05dd \u05d8\u05d5\u05d1 \u05d4\u05d0\u05d1\u05d9 2",
+        "url": "https://open.spotify.com/album/5o7E8eXdJOMiEGG07OFHIM"
+      },
+      "artists": [
+        {
+          "name": "Tamir Bar",
+          "url": "https://open.spotify.com/artist/1UpRHyPDQSJ3qKmRb45d1L"
+        },
+        {
+          "name": "\u05e9\u05dd \u05d8\u05d5\u05d1 \u05d4\u05d0\u05d1\u05d9",
+          "url": "https://open.spotify.com/artist/5eqZ0thqANZTXbAXqt0MY2"
+        },
+        {
+          "name": "\u05d3\u05e0\u05d9\u05d0\u05dc \u05d7\u05df",
+          "url": "https://open.spotify.com/artist/7qNG0sK1UWaKjPnXnSJd5a"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188020,
+      "name": "\u05d4\u05d0\u05d1\u05d9",
+      "url": "https://open.spotify.com/track/0hliYGBRdUfadM7y9mUkGe"
+    },
+    {
+      "album": {
         "name": "\u05d9\u05e6\u05d7\u05e7",
         "url": "https://open.spotify.com/album/0dl2TPbvZpVrl5SLazIx8q"
       },
@@ -16932,7 +16958,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 160642,
       "name": "\u05d8\u05e7\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf"
@@ -20360,7 +20386,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 204078,
       "name": "\u05de\u05e2\u05e8\u05d1 \u05e8\u05d0\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/0h8eZd7eqwZISaz9bkj1zV"
@@ -23584,7 +23610,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 178409,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
       "url": "https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe"
@@ -23602,7 +23628,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05e2\u05dd \u05d4\u05db\u05d0\u05d1",
       "url": "https://open.spotify.com/track/4ra4WsUIRDxIQ6p0l5t276"
@@ -24902,7 +24928,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 117230,
       "name": "\u05ea\u05d4\u05d9\u05d4 \u05d1\u05e0\u05d0\u05d3\u05dd",
       "url": "https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp"

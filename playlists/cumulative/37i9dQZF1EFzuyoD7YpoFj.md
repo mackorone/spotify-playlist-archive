@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-631 songs - 1 day 10 hr 6 min
+632 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Kiss Me, Kate](https://open.spotify.com/track/26opGuN3ZdAVST2RRqWio2) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:54 | 2025-06-27 |  |
 | [Kiss Me, Kate \- Act 1 Finale](https://open.spotify.com/track/7JuOfsmhR55Y9gxHCQHt40) | [Will Chase](https://open.spotify.com/artist/1xMUrRkfPwUuGgCIXqxO8B), [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [The Kiss Me Kate 2019 Broadway Company](https://open.spotify.com/artist/0jigujFMzkZ5TUBJvUiGbk) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 2:26 | 2025-06-27 |  |
 | [Kix](https://open.spotify.com/track/2fOr1nExb2DCxierltnBJy) | [The Real Tuesday Weld](https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2) | [The London Book Of The Dead](https://open.spotify.com/album/2y6JJsZJBYgtMGl7xNTCcH) | 3:00 | 2024-07-24 |  |
-| [Ladies In Waiting](https://open.spotify.com/track/78zOinQvrTKJowX5ZtZGni) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:33 | 2024-07-24 |  |
+| [Ladies In Waiting](https://open.spotify.com/track/78zOinQvrTKJowX5ZtZGni) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:33 | 2024-07-24 | 2025-11-15 |
+| [Ladies In Waiting \- 2025 Remaster](https://open.spotify.com/track/5ufXPyfmxk5mLRP3dDU1Dx) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:32 | 2025-11-14 |  |
 | [Lay This Body Down / I Want to Go Home](https://open.spotify.com/track/4fDzzK2vsRDS0NR5Jr1cQM) | [Cile Turner](https://open.spotify.com/artist/1BI7On628H7NSL36U65FpO) | [Makin' Glory](https://open.spotify.com/album/4Jl5SSawC1ikw6sgBqm9sD) | 3:21 | 2024-07-24 | 2025-06-28 |
 | [Le Noël des petits Santons \- Remasterisé en 2018](https://open.spotify.com/track/4WwozU71N41RbmZkLESU5m) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [C'est la belle nuit de Noël \(Remasterisé en 2018\)](https://open.spotify.com/album/2w76BNDmiXLnfYbsDjEbJe) | 3:11 | 2024-07-24 | 2025-07-10 |
 | [Learnin' The Blues](https://open.spotify.com/track/0o4RY6TciAfnJh9fhEime2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 3:01 | 2024-07-24 | 2025-06-28 |

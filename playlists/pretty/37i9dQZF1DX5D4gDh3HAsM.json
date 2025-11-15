@@ -1,13 +1,33 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 620866,
+  "num_followers": 621119,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKixQv5uA5M4rEgI2nDrqVhexMCg",
+  "snapshot_id": "AAAAABqwQd8ullDWX6SecNR8+PfG29LK",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:20",
+      "album": {
+        "name": "Christmas isn\u2019t Christmas without you",
+        "url": "https://open.spotify.com/album/2LPOQ1mBTkdSujjNbTeXI4"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        },
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 195340,
+      "name": "Christmas isn\u2019t Christmas without you",
+      "url": "https://open.spotify.com/track/4We6RiOruyHTQM1qDOVTjz"
+    },
     {
       "added_at": "2025-10-17 04:00:34",
       "album": {
@@ -25,26 +45,6 @@
       "url": "https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE"
     },
     {
-      "added_at": "2025-10-24 04:00:02",
-      "album": {
-        "name": "a cozy christmas",
-        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        },
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 137307,
-      "name": "cozy you (christmas) (feat. Hohnen Ford)",
-      "url": "https://open.spotify.com/track/3Oe541ImMxBs9REZXDNouY"
-    },
-    {
       "added_at": "2025-10-10 14:39:28",
       "album": {
         "name": "A Joyful Holiday",
@@ -59,6 +59,22 @@
       "duration_ms": 206026,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
+    },
+    {
+      "added_at": "2025-11-14 05:00:20",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/6amqkrUiXL6INWYtO64oeq"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 292773,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1ucrWudcEalcwSKlzjXUSy"
     },
     {
       "added_at": "2025-10-10 14:39:28",
@@ -93,6 +109,26 @@
       "url": "https://open.spotify.com/track/6z5z0g5iouMvwYmhzsmAqI"
     },
     {
+      "added_at": "2025-10-24 04:00:02",
+      "album": {
+        "name": "a cozy christmas",
+        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        },
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 137307,
+      "name": "cozy you (christmas) (feat. Hohnen Ford)",
+      "url": "https://open.spotify.com/track/3Oe541ImMxBs9REZXDNouY"
+    },
+    {
       "added_at": "2025-10-31 04:00:33",
       "album": {
         "name": "My Favorite Things",
@@ -107,6 +143,26 @@
       "duration_ms": 137466,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/5UtrHFB3p5mHYaq4x8m5AR"
+    },
+    {
+      "added_at": "2025-11-14 05:00:20",
+      "album": {
+        "name": "The Christmas Blues",
+        "url": "https://open.spotify.com/album/38thiVhrqcTTaSSlA7UYRX"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Dan Chmielinski",
+          "url": "https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD"
+        }
+      ],
+      "duration_ms": 108007,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/0rqpRtYIiK08re0L4wGqKO"
     },
     {
       "added_at": "2025-11-07 05:00:35",
@@ -1219,22 +1275,6 @@
     {
       "added_at": "2025-10-10 14:39:28",
       "album": {
-        "name": "A Joyful Noise, Pt. 2",
-        "url": "https://open.spotify.com/album/6R449altWLdyP4ABAuDpcC"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 201469,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0hgt4MXj18Frxs8sYEBVo2"
-    },
-    {
-      "added_at": "2025-10-10 14:39:28",
-      "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
@@ -1407,22 +1447,6 @@
     {
       "added_at": "2025-10-10 14:39:28",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
-    },
-    {
-      "added_at": "2025-10-10 14:39:28",
-      "album": {
         "name": "Christmas Cookin'",
         "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
       },
@@ -1491,22 +1515,6 @@
       "duration_ms": 299040,
       "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
       "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
-    },
-    {
-      "added_at": "2025-10-10 14:39:28",
-      "album": {
-        "name": "Christmas Is Coming (2022 Stereo Mix)",
-        "url": "https://open.spotify.com/album/4fCX1f8zki8U4kUHRfcuUP"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 205410,
-      "name": "Christmas Is Coming - 2022 Mix",
-      "url": "https://open.spotify.com/track/2iMeTjonLEIV8lx07EFpSo"
     },
     {
       "added_at": "2025-10-10 14:39:28",

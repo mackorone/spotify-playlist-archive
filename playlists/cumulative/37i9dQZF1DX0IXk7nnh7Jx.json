@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nJames Paek",
+  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nDell Mac",
   "name": "Indie Spirit",
   "tracks": [
     {
@@ -306,6 +306,24 @@
       "duration_ms": 161684,
       "name": "Against The Cosmic Powers",
       "url": "https://open.spotify.com/track/1vIfI3Oy2OvXG3KWkSWBHy"
+    },
+    {
+      "album": {
+        "name": "All Because",
+        "url": "https://open.spotify.com/album/1htlLuIrbPnynzNNVYT5vx"
+      },
+      "artists": [
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151272,
+      "name": "All Because",
+      "url": "https://open.spotify.com/track/16PbsJ1W3fqZ1cYnTj45AC"
     },
     {
       "album": {
@@ -2173,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Courage and Kindness",
+        "url": "https://open.spotify.com/album/4L0sn5Gs0bHSeka0VxB7Gi"
+      },
+      "artists": [
+        {
+          "name": "PKYB",
+          "url": "https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291568,
+      "name": "Courage and Kindness",
+      "url": "https://open.spotify.com/track/52oheoooNF94nepzcVfuuo"
+    },
+    {
+      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb"
       },
@@ -2238,7 +2274,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 225096,
       "name": "Dancing In The Kitchen",
       "url": "https://open.spotify.com/track/4eL3zrcO4bcHRoa04TYltA"
@@ -2337,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1bHidv1Abpcmq6Vbhsfy4u"
+      },
+      "artists": [
+        {
+          "name": "RAY.",
+          "url": "https://open.spotify.com/artist/1t82DTNNEduLLrmoRWiMZU"
+        },
+        {
+          "name": "Seth & Rachel Enos",
+          "url": "https://open.spotify.com/artist/3aIj1RVykNBsuenDAKWDax"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1V5g3PIB0cjdZABax9yfo6"
+    },
+    {
+      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
       },
@@ -2352,6 +2410,24 @@
       "duration_ms": 141049,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
+    },
+    {
+      "album": {
+        "name": "Death (Is Not The End)",
+        "url": "https://open.spotify.com/album/6CNFqKr8C3RNofGYLqT6i2"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259019,
+      "name": "Death (Is Not The End)",
+      "url": "https://open.spotify.com/track/6JUUlSkhEzQiEM6Yj3Kfqu"
     },
     {
       "album": {
@@ -2718,7 +2794,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 186879,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/7Dh6Y9VSzvLPqhTKdn2pw6"
@@ -3318,7 +3394,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 174720,
       "name": "Fears",
       "url": "https://open.spotify.com/track/4GISarNMg64gdQmXrpN0t1"
@@ -3445,6 +3521,32 @@
     },
     {
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/68SxWy5mGyQz0Jn9Spx0Nu"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/1mwVr4ixbRTPzsrYP4Di9g"
+    },
+    {
+      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/6yMRfivaE9J89s9gvS4Mfi"
       },
@@ -3518,6 +3620,24 @@
       "duration_ms": 161239,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/64YfDCp4toUdVT4yByYVil"
+    },
+    {
+      "album": {
+        "name": "Focus (String Version)",
+        "url": "https://open.spotify.com/album/08ca5WMPc6Nq0ulAim0Yvp"
+      },
+      "artists": [
+        {
+          "name": "Leah McFall",
+          "url": "https://open.spotify.com/artist/0TPCAiL47d77TFdFLqsjCw"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191050,
+      "name": "Focus - String Version",
+      "url": "https://open.spotify.com/track/2eJU8M6w3hvFk7FDERASGv"
     },
     {
       "album": {
@@ -4006,7 +4126,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 265566,
       "name": "Go With Me",
       "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
@@ -4104,7 +4224,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 145414,
       "name": "god, why?",
       "url": "https://open.spotify.com/track/5y1L8tM4F1ah1v6GOFbfI6"
@@ -5561,6 +5681,24 @@
     },
     {
       "album": {
+        "name": "I CAN'T RUN FROM YOU",
+        "url": "https://open.spotify.com/album/5Faf8oekrbRRas2kLcp6Rz"
+      },
+      "artists": [
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "I CAN'T RUN FROM YOU",
+      "url": "https://open.spotify.com/track/0vbEWuitYM94qXYxlDBkeN"
+    },
+    {
+      "album": {
         "name": "I Could Sing Of Your Love Forever",
         "url": "https://open.spotify.com/album/6CheSffpHQycPIZ4YwnWRj"
       },
@@ -5758,6 +5896,28 @@
       "duration_ms": 265597,
       "name": "I Know You Jesus",
       "url": "https://open.spotify.com/track/5PraVoeO6Kj776FJGDBO6K"
+    },
+    {
+      "album": {
+        "name": "i love You",
+        "url": "https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        },
+        {
+          "name": "Olivia Stern",
+          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188463,
+      "name": "i love You",
+      "url": "https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO"
     },
     {
       "album": {
@@ -6470,6 +6630,24 @@
       "duration_ms": 162470,
       "name": "Jesus Is Why",
       "url": "https://open.spotify.com/track/2kU1Z4SoJYH18cGGTfdkyY"
+    },
+    {
+      "album": {
+        "name": "Jesus, I Love You",
+        "url": "https://open.spotify.com/album/5gdQjXEqdPWLQItWqbEIWV"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jesus, I Love You",
+      "url": "https://open.spotify.com/track/64rfngBqWNhYU4ghX0nSGd"
     },
     {
       "album": {
@@ -8607,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "Love Like Raindrops Made of Light",
+        "url": "https://open.spotify.com/album/6EwSzxPcvgqlgHngQ0x2SU"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320241,
+      "name": "Nothing Impossible",
+      "url": "https://open.spotify.com/track/5QxYahCQ0yc7AX7EQQc5d6"
+    },
+    {
+      "album": {
         "name": "BOATS",
         "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
       },
@@ -9604,7 +9800,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 101463,
       "name": "Psalm 23",
       "url": "https://open.spotify.com/track/7qpKDscKmNkX41e3hvdJYE"
@@ -10006,6 +10202,24 @@
       "duration_ms": 166632,
       "name": "Right With You",
       "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
+    },
+    {
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/0MLUT0CCIWlFQvJU02Q5yK"
+      },
+      "artists": [
+        {
+          "name": "Alex Groh",
+          "url": "https://open.spotify.com/artist/1dWWG0eXto2UPnwzarb2ma"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160001,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/2rhFMXnsPI4StcEBuzKvag"
     },
     {
       "album": {
@@ -11083,6 +11297,24 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/5vM0ubp8Z4ID1BemFQvak1"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/7jqM7vs0H9BclTriFLiznu"
+    },
+    {
+      "album": {
         "name": "START AGAIN",
         "url": "https://open.spotify.com/album/5JSKAiL91po3N9ondgSFY1"
       },
@@ -11316,6 +11548,24 @@
       "duration_ms": 304192,
       "name": "Stir A Passion",
       "url": "https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt"
+    },
+    {
+      "album": {
+        "name": "stop talking to AI talk to God",
+        "url": "https://open.spotify.com/album/3yRa3qg0XurFwvlbUWxNiE"
+      },
+      "artists": [
+        {
+          "name": "svn4vr",
+          "url": "https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116912,
+      "name": "stop talking to AI talk to God",
+      "url": "https://open.spotify.com/track/5hcMhP7JjmUnpFhdSrOoaq"
     },
     {
       "album": {
@@ -11824,7 +12074,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 146526,
       "name": "take the reins",
       "url": "https://open.spotify.com/track/2szuqnteaYamAD0QKedrNf"
@@ -12766,7 +13016,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 133000,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1ur7RmCSXoO5JCQnnr0TQY"
@@ -12958,6 +13208,24 @@
       "duration_ms": 195317,
       "name": "Un Dia",
       "url": "https://open.spotify.com/track/3B9d4ZOgxxDIqKgjY7UbAg"
+    },
+    {
+      "album": {
+        "name": "Unlike Anything Else",
+        "url": "https://open.spotify.com/album/4o51hE5KQFS9j86RbcsFWI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137274,
+      "name": "Unlike Anything Else",
+      "url": "https://open.spotify.com/track/0Trizx3u37AblSR9b7QknM"
     },
     {
       "album": {
@@ -13860,7 +14128,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 174480,
       "name": "With Me",
       "url": "https://open.spotify.com/track/7K4ApFh45VQuqSxBDOBBZm"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Mini Skirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,551 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,561 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 |
 | 2 | [Executive Function](https://open.spotify.com/track/5LrBYOI6AaS8zumfUqaygO) | [screensaver](https://open.spotify.com/artist/38UP3ZGUai10OtCaC0dV33) | [Three Lens Approach](https://open.spotify.com/album/5bH15xU8bX8E7YN29EpCnk) | 3:46 |
-| 3 | [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [](https://open.spotify.com/album/null) | 3:11 |
+| 3 | [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [All That We Know](https://open.spotify.com/album/2IEKZcBQyuVhHxiDfvUvfb) | 3:11 |
 | 4 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 |
 | 5 | [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 |
 | 6 | [FIG TREE](https://open.spotify.com/track/5Gc96BrAvQwVPHSTNAuM9o) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [FIG TREE](https://open.spotify.com/album/4xgAG3Mzt6qHU1lqo7ZoJN) | 2:52 |

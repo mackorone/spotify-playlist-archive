@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- ivri on the cover
+> sweet\. sharp\. unbothered \- Johnny Huynh & Jessica Baio on the cover
 
-1,018 songs - 1 day 23 hr 0 min
+1,020 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-10-28 | 2023-04-01 |
 | [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-04-01 | 2022-07-09 |
 | [All Black Mansion](https://open.spotify.com/track/5Gj8WfSRNAxRsiJXYuwo1H) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [A Haunted House](https://open.spotify.com/album/0V5HTTrz4k7Ryiy4iOZJxF) | 3:06 | 2024-10-04 | 2025-01-25 |
+| [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/track/4wheipzDTRRuxDeTfjeeDE) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp) | 3:05 | 2025-11-14 |  |
 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 | 2024-09-20 | 2025-01-25 |
 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 | 2024-04-12 | 2024-06-29 |
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-07-02 |
@@ -57,6 +58,7 @@
 | [Army](https://open.spotify.com/track/2iDHXVlRmTG5Yuo2Z6yYDT) | [LEW](https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS) | [Army](https://open.spotify.com/album/1TSAkrsWaBByYUvbzM6Lo1) | 2:48 | 2024-09-06 | 2024-10-19 |
 | [ASPHALT RODEO](https://open.spotify.com/track/2u0NrSifafd4x4kO5NrSx8) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ASPHALT RODEO](https://open.spotify.com/album/6pH7vizaLhjOBNXQJvo8EK) | 2:38 | 2024-04-26 | 2024-06-29 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-18 | 2023-08-26 |
+| [avoidant little b <3](https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [avoidant little b <3](https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ) | 2:28 | 2025-11-14 |  |
 | [B!TCH](https://open.spotify.com/track/2Nyv7f1EPb0orOAV358ipT) | [NIKI DEMAR](https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5) | [RUINED MY LIFE](https://open.spotify.com/album/3IN651OP5lN22mIlzqj9lt) | 2:59 | 2023-07-07 | 2023-12-16 |
 | [BABY DON'T BURN](https://open.spotify.com/track/73VT1cKHeq36m5Dt6N80jw) | [Kaila Hoy](https://open.spotify.com/artist/00BLADJUNhttdvRqZVfhBK), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [BABY DON'T BURN](https://open.spotify.com/album/2xjJcyNIXd42pFDjKmk3qu) | 3:03 | 2023-05-26 | 2023-08-05 |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-03-28 | 2022-04-02 |
@@ -327,7 +329,7 @@
 | [Fuck Friday](https://open.spotify.com/track/42S8a0eCTdw2qYuK8oXB4Z) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Fuck Friday](https://open.spotify.com/album/7f3vjO34MfUj4o0WPuIpz1) | 3:08 | 2022-07-08 | 2022-07-16 |
 | [FUCK MY EXES](https://open.spotify.com/track/03xqIbvagvjf3K75qqL0fC) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [FUCK MY EXES](https://open.spotify.com/album/0HkYxUI2kqixf8MgY8fUhi) | 2:50 | 2022-03-11 | 2022-08-06 |
 | [Fuck Your Labels](https://open.spotify.com/track/6Y8TZ2mDCfVYE8O9VdGpaW) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Fuck Your Labels](https://open.spotify.com/album/1YNFjA7p3DvzILGOjW0mGW) | 2:57 | 2022-01-14 | 2022-03-18 |
-| [Fucked Up](https://open.spotify.com/track/5uVWnUw7jHcpT91Ox2vDIU) | [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Fucked Up](https://open.spotify.com/album/4IezSWdndaPtytfAk9k3IK) | 3:57 | 2025-08-29 |  |
+| [Fucked Up](https://open.spotify.com/track/5uVWnUw7jHcpT91Ox2vDIU) | [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Fucked Up](https://open.spotify.com/album/4IezSWdndaPtytfAk9k3IK) | 3:57 | 2025-08-29 | 2025-11-15 |
 | [FUN!](https://open.spotify.com/track/1DVLGLhhXSm1MPZiigTNiG) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [FUN!](https://open.spotify.com/album/2ImyXJhAD3HhSa94s4j9bA) | 3:22 | 2025-02-21 | 2025-05-03 |
 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 | 2023-05-19 | 2023-08-19 |
 | [furr](https://open.spotify.com/track/6uolpfkjKzZsqtbNrwprTY) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [furr](https://open.spotify.com/album/0dSp75sPALNDn3NnWIixvY) | 3:06 | 2025-02-21 | 2025-04-19 |
@@ -556,7 +558,7 @@
 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-07-01 | 2022-07-29 |
 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 | 2022-07-01 | 2022-09-24 |
 | [Losing Sleep](https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Losing Sleep](https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd) | 2:42 | 2022-10-14 | 2022-11-12 |
-| [LOST MY FAITH](https://open.spotify.com/track/6PvbkS7336PSRVODceZeWr) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LOST MY FAITH](https://open.spotify.com/album/3R5ihdUWbNmrEm2HhdBZTg) | 3:11 | 2025-10-03 |  |
+| [LOST MY FAITH](https://open.spotify.com/track/6PvbkS7336PSRVODceZeWr) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LOST MY FAITH](https://open.spotify.com/album/3R5ihdUWbNmrEm2HhdBZTg) | 3:11 | 2025-10-03 | 2025-11-15 |
 | [Love Always Knocks Me Out](https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Love Always Knocks Me Out](https://open.spotify.com/album/2PzM429yMvxxpcUpPfoCfr) | 2:52 | 2024-08-16 | 2024-11-16 |
 | [LOVE AND WAR](https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [LOVE AND WAR](https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok) | 2:40 | 2022-09-02 | 2022-11-26 |
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2023-09-08 | 2023-10-14 |

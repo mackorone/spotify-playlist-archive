@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,202 likes - 102 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,201 likes - 102 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Muskegaan](https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Poison EP](https://open.spotify.com/album/5SijqkYbzz8HmoHYrGtYc9) | 6:14 |
 | 2 | [Parte del Juego](https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Parte del Juego](https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH) | 3:30 |
 | 3 | [Paradiso \- Radio Edit](https://open.spotify.com/track/1PSAEH5HKR35xGAy0dV6KF) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp), [Marvio \(AR\)](https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Paradiso](https://open.spotify.com/album/6bFHz7BXHgLrX0fHR0d5eM) | 3:39 |
 | 4 | [Bars Attacks](https://open.spotify.com/track/3VOSdXmn0X57ajzbQceMxr) | [Sol Porro](https://open.spotify.com/artist/1TLxSIoXyqq9myZRDw5LjG) | [Bars Attacks](https://open.spotify.com/album/7wl5P8XUr2YT90ggnzshiX) | 4:15 |

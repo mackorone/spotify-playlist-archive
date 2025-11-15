@@ -6,27 +6,91 @@
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOb1JVqio0uGLOAEwryCE5tyjuAnZi",
+  "snapshot_id": "AAAOdjY+djBfzZ+N1bK34x22A84LLjL5",
   "tracks": [
     {
-      "added_at": "2025-11-10 14:51:32",
+      "added_at": "2025-11-14 12:51:48",
       "album": {
-        "name": "Acid Stroll",
-        "url": "https://open.spotify.com/album/3OBOz2z7dYA7ns38Vt9yPJ"
+        "name": "Ratibor Numida",
+        "url": "https://open.spotify.com/album/0S4LIXDbPhu24t6ViTUlzu"
       },
       "artists": [
         {
-          "name": "Tin Man",
-          "url": "https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK"
-        },
-        {
-          "name": "John Tejada",
-          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+          "name": "Robag Wruhme",
+          "url": "https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI"
         }
       ],
-      "duration_ms": 468892,
-      "name": "Acid Stroll",
-      "url": "https://open.spotify.com/track/5zfhMQUQY5we5KLZLS1jY7"
+      "duration_ms": 344857,
+      "name": "Ratibor Numida",
+      "url": "https://open.spotify.com/track/3wW5NcpvMSd6z0BCihPcNn"
+    },
+    {
+      "added_at": "2025-11-14 12:52:09",
+      "album": {
+        "name": "standard living",
+        "url": "https://open.spotify.com/album/5lWzKkdM567LkxDcW33eKG"
+      },
+      "artists": [
+        {
+          "name": "Lil_art_hoe",
+          "url": "https://open.spotify.com/artist/4PjEmD7ivRqkZPd1Y1xwqM"
+        }
+      ],
+      "duration_ms": 280887,
+      "name": "standard living (dub mix)",
+      "url": "https://open.spotify.com/track/6vzuZuBGCmekndxCoa90Zi"
+    },
+    {
+      "added_at": "2025-11-14 12:52:29",
+      "album": {
+        "name": "sorry i thought you were someone else",
+        "url": "https://open.spotify.com/album/0YZxeIodssGSgizXecwho8"
+      },
+      "artists": [
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "duration_ms": 396333,
+      "name": "someone else",
+      "url": "https://open.spotify.com/track/1rflVTDHR7rb19adgwGY00"
+    },
+    {
+      "added_at": "2025-11-14 12:52:48",
+      "album": {
+        "name": "Music For Disk Jockeys Pt.1",
+        "url": "https://open.spotify.com/album/3PicDcCAbLqBUAQDI92WAH"
+      },
+      "artists": [
+        {
+          "name": "ASA MOTO",
+          "url": "https://open.spotify.com/artist/0zRfSoVzQ7hRt9y3yUFoqw"
+        }
+      ],
+      "duration_ms": 337569,
+      "name": "MJ Complex",
+      "url": "https://open.spotify.com/track/51kNSHHTrxG29OvdOhmBCn"
+    },
+    {
+      "added_at": "2025-11-14 12:53:05",
+      "album": {
+        "name": "Acid Reaction",
+        "url": "https://open.spotify.com/album/6G14aJO4twX6zrqim3UT4b"
+      },
+      "artists": [
+        {
+          "name": "Rude Futures",
+          "url": "https://open.spotify.com/artist/4ETvQtI4YJrhWVeV0uuClE"
+        },
+        {
+          "name": "Danilo Plessow",
+          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
+        }
+      ],
+      "duration_ms": 416345,
+      "name": "Acid Reaction - The Journey Mix",
+      "url": "https://open.spotify.com/track/2xdaHoOjxttYW1wLJyhCSq"
     },
     {
       "added_at": "2025-11-10 14:51:53",
@@ -351,6 +415,26 @@
       "duration_ms": 836579,
       "name": "Naked Hunger - Spoken Word Mix",
       "url": "https://open.spotify.com/track/2219xSxD0rfZRrrJVeqf0n"
+    },
+    {
+      "added_at": "2025-11-10 14:51:32",
+      "album": {
+        "name": "Acid Stroll",
+        "url": "https://open.spotify.com/album/3OBOz2z7dYA7ns38Vt9yPJ"
+      },
+      "artists": [
+        {
+          "name": "Tin Man",
+          "url": "https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK"
+        },
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        }
+      ],
+      "duration_ms": 468892,
+      "name": "Acid Stroll",
+      "url": "https://open.spotify.com/track/5zfhMQUQY5we5KLZLS1jY7"
     },
     {
       "added_at": "2025-10-27 14:15:48",

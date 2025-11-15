@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 237013,
       "name": "C\u00e2dencia",
       "url": "https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D"
@@ -1236,6 +1236,28 @@
       "duration_ms": 198660,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ"
+    },
+    {
+      "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/6ubPusS1bjeVnXteMzh4qE"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        },
+        {
+          "name": "Joe la panic",
+          "url": "https://open.spotify.com/artist/0WrQRK1aus4QQQlPTGOcat"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163315,
+      "name": "deja vu (feat. Joe la panic)",
+      "url": "https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD"
     },
     {
       "album": {
@@ -1510,7 +1532,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 193255,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza"
@@ -1758,7 +1780,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 168092,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ"
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 308817,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/077iW8bXbhEG8Mi3Tj4k4Q"
@@ -2752,7 +2774,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 206986,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg"
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 221112,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
@@ -3760,6 +3782,24 @@
       "duration_ms": 196250,
       "name": "Lumi\u00e9re",
       "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+    },
+    {
+      "album": {
+        "name": "Make It Another Old Fashioned, Please",
+        "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172080,
+      "name": "Make It Another Old Fashioned, Please",
+      "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
     },
     {
       "album": {
@@ -4196,7 +4236,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 249453,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu"
@@ -4686,7 +4726,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 216124,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW"
@@ -4905,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258866,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
+    },
+    {
+      "album": {
         "name": "Seconds and Circles",
         "url": "https://open.spotify.com/album/7k4psYXqD38YZviHC2Yyqm"
       },
@@ -4934,7 +4992,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 225419,
       "name": "Sketchbook of Dreams (Radio Edit)",
       "url": "https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt"
@@ -6053,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "This Bitter Earth",
+        "url": "https://open.spotify.com/album/1q22Qcuit37NBCVDPynmCc"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304493,
+      "name": "This Bitter Earth",
+      "url": "https://open.spotify.com/track/6InhBLqk1PRDLHwAuWXaoL"
+    },
+    {
+      "album": {
         "name": "This Foolish Heart Could Love You",
         "url": "https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2"
       },
@@ -6316,7 +6392,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X"
@@ -6370,7 +6446,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
@@ -6896,6 +6972,24 @@
       "duration_ms": 259073,
       "name": "Yesteryear",
       "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
+    },
+    {
+      "album": {
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170070,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
     },
     {
       "album": {

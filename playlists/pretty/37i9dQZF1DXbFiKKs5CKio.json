@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70533,
+  "num_followers": 70545,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Como \u00e9 bom poder dizer eu te amo",
+        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 143305,
+      "name": "Me Amas",
+      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "(Des)conectar",
         "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 200217,
       "name": "(Des)conectar",
       "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Como \u00e9 bom poder dizer eu te amo",
-        "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        }
-      ],
-      "duration_ms": 143305,
-      "name": "Me Amas",
-      "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
     },
     {
       "added_at": "2025-10-24 18:39:08",

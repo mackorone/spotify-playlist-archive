@@ -2,9 +2,9 @@
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: James Hype
+> The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA
 
-373 songs - 19 hr 31 min
+375 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [EX EX EX \(Whoops\)](https://open.spotify.com/track/2RzCQnxjPUTycRgUp1sZCm) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:23 | 2023-10-27 | 2025-01-22 |
 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2024-12-13 |  |
 | [Fade Away](https://open.spotify.com/track/34oeP18McHOZnAyigk6LZl) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Fade Away](https://open.spotify.com/album/19TAs7mYNcz1OMjAQcY0sk) | 2:58 | 2024-02-16 | 2025-01-22 |
+| [FADED](https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [FADED](https://open.spotify.com/album/2MUwWCMAyqzlf0xn3LyH4s) | 3:35 | 2025-11-14 |  |
 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 | 2025-07-11 |  |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-10-09 |  |
 | [Feel](https://open.spotify.com/track/2VhiDHhgFx6hKhgGB6sRLH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 03 + 04](https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW) | 3:15 | 2024-06-14 | 2025-01-22 |
@@ -224,6 +225,7 @@
 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-05-31 | 2025-01-22 |
 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 | 2024-03-08 |  |
 | [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-02-09 | 2024-03-09 |
+| [Nasty](https://open.spotify.com/track/1sKLFVc86oelMYuXvZ4LBg) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Nasty](https://open.spotify.com/album/06npIIgUg1GgZSK7DkKz6U) | 2:54 | 2025-11-14 |  |
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-02-20 | 2024-09-25 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-09 |  |
 | [Neverender \- Kaytranada Remix](https://open.spotify.com/track/1GFz4dKoSUt9aOBeLJFfJh) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Neverender \(Kaytranada Remix\)](https://open.spotify.com/album/7gVfcJ5fuZe3FXSMHPJLpE) | 4:45 | 2024-09-27 |  |

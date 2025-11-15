@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 3007,
+  "num_followers": 3010,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAABVjxeCYkd1P0n5RO9c5y3S",
+  "snapshot_id": "aRUfgAAAAACm19Ti61pzMmowl0TZNMqk",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
+        "name": "Holding on Tight",
+        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
       },
       "artists": [
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 267174,
-      "name": "Forever Summer",
-      "url": "https://open.spotify.com/track/6CncbrtpabSOB378tazFvL"
+      "duration_ms": 208197,
+      "name": "Enough (with Anuhea)",
+      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holding on Tight",
-        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
       },
       "artists": [
-        {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 208197,
-      "name": "Enough (with Anuhea)",
-      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
+      "duration_ms": 267174,
+      "name": "Forever Summer",
+      "url": "https://open.spotify.com/track/6CncbrtpabSOB378tazFvL"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 284680,
       "name": "Right Love, Wrong Time",
       "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
     },
     {
       "added_at": null,

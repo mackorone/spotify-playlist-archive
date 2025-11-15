@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 157949,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3v0UmsFXejrhPlyEP2omVa"
@@ -8190,7 +8190,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 223805,
       "name": "Debi\u00f3 ser as\u00ed",
       "url": "https://open.spotify.com/track/31FDPB097i0iqut2Bb056l"
@@ -23045,6 +23045,28 @@
     },
     {
       "album": {
+        "name": "Nada es lo Mismo",
+        "url": "https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Nada es lo Mismo",
+      "url": "https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL"
+    },
+    {
+      "album": {
         "name": "Nada Nace",
         "url": "https://open.spotify.com/album/2TZKoqWXTe6lggXsP6Chhq"
       },
@@ -24876,7 +24898,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
@@ -29004,7 +29026,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 159665,
       "name": "Resurrecci\u00f3n",
       "url": "https://open.spotify.com/track/4zt8ZHxJ3NyhptyRiXR1W9"
@@ -34964,6 +34986,24 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
     },
     {
       "album": {

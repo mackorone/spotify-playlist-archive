@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Angelica Bove
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,345 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,350 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 |
 | 2 | [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 |
-| 3 | [Maremma Amara \- Dal vivo all'Abbazia di San Galgano](https://open.spotify.com/track/3BPEIciKcPFDSrkCNRK8hu) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [](https://open.spotify.com/album/null) | 1:52 |
+| 3 | [Maremma Amara \- Dal vivo all'Abbazia di San Galgano](https://open.spotify.com/track/3BPEIciKcPFDSrkCNRK8hu) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/4kvNDKM6xqaaaVHytcHgsg) | 1:52 |
 | 4 | [alto il mento](https://open.spotify.com/track/05rRD169lOPFA6fuN4DfBF) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [alto il mento](https://open.spotify.com/album/7lfkSqa0JJmMT3RusY1QTZ) | 3:11 |
 | 5 | [Alpha Centauri](https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Alpha Centauri](https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm) | 4:31 |
 | 6 | [All'Acqua Ghiacciata](https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [All'Acqua Ghiacciata](https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW) | 3:47 |
 | 7 | [Sirene \(con Brunori Sas\) \- Live](https://open.spotify.com/track/3qCKwVEjfFyJvYxLxJbCRU) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/4PtgjgBKGsJLZVjA14WFvU) | 3:33 |
 | 8 | [Telephone Tango](https://open.spotify.com/track/00JmBr4rYb4Iq0cXNHBgK9) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Telephone Tango](https://open.spotify.com/album/3VKZZmGmlbKvRa6Jn0XLZK) | 3:04 |
 | 9 | [Considera Il Mondo](https://open.spotify.com/track/1ajbbXGUEIZNGosWUUuOZG) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Considera Il Mondo](https://open.spotify.com/album/2gaZmYL7jM3NVM7gB6QFqS) | 2:18 |
-| 10 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [](https://open.spotify.com/album/null) | 3:05 |
+| 10 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 |
 | 11 | [ragnatela](https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [ragnatela](https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5) | 3:00 |
 | 12 | [Penso a Te](https://open.spotify.com/track/05O4SIbHxdfsIDOLEOjQX5) | [Labadessa](https://open.spotify.com/artist/5eTXC0KSvFWwTT4hTMqa90) | [Penso a Te](https://open.spotify.com/album/5JHPM8sAGq529CjmhyoYuq) | 2:43 |
 | 13 | [L’amore visto dall’eternità](https://open.spotify.com/track/0hK2IJpduWRoSZc98SH1Kh) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj), [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [L’amore visto dall’eternità](https://open.spotify.com/album/5Q9pl2khtyhaddVY7GYiwA) | 3:05 |

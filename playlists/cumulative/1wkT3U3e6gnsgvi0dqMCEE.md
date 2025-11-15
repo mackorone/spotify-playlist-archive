@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-349 songs - 23 hr 8 min
+352 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Hello Out There](https://open.spotify.com/track/0x1u8snNiyKqfmYmyQg3Kr) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songwriter](https://open.spotify.com/album/4Y58KotkrZ32Nnni8CuXRd) | 3:02 | 2024-06-28 |  |
 | [Helter Skelter \(Second Version \- Take 17\)](https://open.spotify.com/track/0yGQJJivETiLu78pYtd3ql) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Helter Skelter \(Second Version \- Take 17\)](https://open.spotify.com/album/3LgOIvd2pEdCbxqmpqQktL) | 3:38 | 2025-09-19 |  |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-11 |  |
+| [Here Is No Why \- Live In Los Angeles, 2/4/96](https://open.spotify.com/track/1AiJu6ePWKtvlDsuJh01Nh) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Here Is No Why / Geek U.S.A\. \(Live\)](https://open.spotify.com/album/2jO8IYiBlgJv6MgDioqZ8G) | 3:36 | 2025-11-14 |  |
 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2023-10-16 | 2024-05-24 |
 | [Here You Are](https://open.spotify.com/track/7c8J51gkc76prV8VPyU9Tc) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Here You Are](https://open.spotify.com/album/2eQvntbJxbvyJDUEHiVumA) | 3:43 | 2025-09-08 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2024-05-31 |  |
@@ -141,6 +142,7 @@
 | [I Just Fall In Love Again](https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling](https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG) | 2:51 | 2025-04-04 |  |
 | [I Just Fall In Love Again \- Instrumental Version](https://open.spotify.com/track/3M2uTKf3SIdwI1SYU3XrWC) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling \(ANNEversary Deluxe Edition\)](https://open.spotify.com/album/10tmBt046htwWaNiwCDsAx) | 2:46 | 2025-08-22 |  |
 | [I Just Wanna Have Something To Do \- 2024 Remaster](https://open.spotify.com/track/5bGVtLRW7GQs14UnCu8FdE) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [I Just Wanna Have Something To Do / Betcha \(2024 Remaster\)](https://open.spotify.com/album/2aFACqpuUVQt2qXQcbASWG) | 2:25 | 2024-05-23 |  |
+| [I Love Ladies](https://open.spotify.com/track/3rovxBzeIaryiwGpKnQQx1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Black And Blue \(Super Deluxe\)](https://open.spotify.com/album/5wEUIEpxAFSr5fEbQv1fud) | 5:30 | 2025-11-14 |  |
 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 | 2023-10-16 | 2024-05-24 |
 | [I Miss You, Don't Call Me](https://open.spotify.com/track/3xbiVkfxjHIpd1CVEtrJ8R) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:20 | 2024-07-19 |  |
 | [I Predict A Riot \- Big Nurse Remix](https://open.spotify.com/track/5yCGZqZVb7eEON10mBXe0q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt), [Big Nurse](https://open.spotify.com/artist/1Chw1wtks4AFlbUO3HD0uJ) | [I Predict A Riot \(Big Nurse Remix\)](https://open.spotify.com/album/6rcENFfLzXHpXOKro1F30N) | 4:27 | 2025-05-23 |  |
@@ -296,6 +298,7 @@
 | [The Harder They Come \- Remix](https://open.spotify.com/track/0MBxswSDvXheQKJNLkvrI3) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [The Harder They Come: The Remixes](https://open.spotify.com/album/4TPNcqvtgLmayYYq0oGfuR) | 3:37 | 2024-08-16 |  |
 | [The Hurt](https://open.spotify.com/track/0ssyUYzev6ulxNWQcAPk6m) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Foreigner](https://open.spotify.com/album/3tHGLaibgszG59jDPHkw2Q) | 4:19 | 2024-07-26 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2023-10-16 | 2024-05-24 |
+| [The Luck Of The Irish \- Live At The Crisler Arena, Ann Arbor, Michigan](https://open.spotify.com/track/69soP40pssuJ7yfcWyk0xF) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Elephants Memory](https://open.spotify.com/artist/7vlen6lzkmCst6naOmK3Et), [David Peel & The Lower East Side](https://open.spotify.com/artist/22GJv3acSHNKnqVi8GLAIt) | [Power To The People \(Live Jam\)](https://open.spotify.com/album/7nxGGJ2fKc6UIQfe1nNMIa) | 3:27 | 2025-11-14 |  |
 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2024-11-01 |  |
 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2023-10-16 | 2024-05-24 |
 | [The Night Comes Down \- 2024 Mix](https://open.spotify.com/track/7r8TzaVB9vfqOLspvyp7iN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Night Comes Down \(2024 Mix\)](https://open.spotify.com/album/3TBlXIgEhJuCPyZP2jkkiF) | 4:21 | 2024-09-13 |  |

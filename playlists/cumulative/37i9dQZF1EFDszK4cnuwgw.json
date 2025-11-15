@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Thumperz",
+        "url": "https://open.spotify.com/album/0Ol9vmy72Mu3kxy6jXxGsu"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Thumperz",
+      "url": "https://open.spotify.com/track/4FDsvob6F9oSUJ0cRauLTr"
+    },
+    {
+      "album": {
         "name": "Tip The Surgeon",
         "url": "https://open.spotify.com/album/1954wNtuh4T3cUJYOZs0eL"
       },

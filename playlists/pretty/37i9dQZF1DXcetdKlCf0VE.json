@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 29601,
+  "num_followers": 29620,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 714320,
-      "name": "Symphony No. 1 in E Minor, Op. 39: I. Andante, ma non troppo - Allegro energico",
-      "url": "https://open.spotify.com/track/6L8kl9k5Rfi5EvgtajmXkK"
+      "duration_ms": 561176,
+      "name": "Symphony No. 4 in A Minor, Op. 63: IV. Allegro",
+      "url": "https://open.spotify.com/track/09PpcV6zaw0yrFOWStKEY7"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 561176,
-      "name": "Symphony No. 4 in A Minor, Op. 63: IV. Allegro",
-      "url": "https://open.spotify.com/track/09PpcV6zaw0yrFOWStKEY7"
+      "duration_ms": 714320,
+      "name": "Symphony No. 1 in E Minor, Op. 39: I. Andante, ma non troppo - Allegro energico",
+      "url": "https://open.spotify.com/track/6L8kl9k5Rfi5EvgtajmXkK"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -347,50 +347,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 273213,
-      "name": "Rakastava, Op. 14: The Lover",
-      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
-        "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 359293,
-      "name": "Karelia Suite, Op. 11: II. Ballade. Tempo di menuetto \u2013 un poco pi\u00f9 lento",
-      "url": "https://open.spotify.com/track/1ZoPkeWYo5FGDHt9LldyDh"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Sibelius: Symphony No. 4; Finlandia; Luonnotar",
         "url": "https://open.spotify.com/album/0zeqpsvDkcWy7VgvBeHCAH"
       },
@@ -411,6 +367,26 @@
       "duration_ms": 581066,
       "name": "Symphony No. 4 in A Minor, Op. 63: I. Tempo molto moderato, quasi adagio",
       "url": "https://open.spotify.com/track/0XhydK0yl8bGwCFiBJtqlU"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 273213,
+      "name": "Rakastava, Op. 14: The Lover",
+      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -439,6 +415,30 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
+        "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 359293,
+      "name": "Karelia Suite, Op. 11: II. Ballade. Tempo di menuetto \u2013 un poco pi\u00f9 lento",
+      "url": "https://open.spotify.com/track/1ZoPkeWYo5FGDHt9LldyDh"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Sibelius: Essentials",
         "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
       },
@@ -459,26 +459,6 @@
       "duration_ms": 727409,
       "name": "Pohjola's Daughter, Op. 49",
       "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
-        }
-      ],
-      "duration_ms": 374000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
-      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -524,9 +504,9 @@
           "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
         }
       ],
-      "duration_ms": 288000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
-      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
+      "duration_ms": 374000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
+      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -555,6 +535,26 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
+      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Sibelius Piano Works",
         "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 297453,
       "name": "Ten Pieces, Op. 24: Barcarola, Op. 24: No. 10",
       "url": "https://open.spotify.com/track/3DTRA5OK78rKaNPiu6vqdZ"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 477613,
-      "name": "Rakastava, Op. 14: Good Evening... Farewell!",
-      "url": "https://open.spotify.com/track/6xMJI052R1mlEFtT6ej2Va"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -615,6 +595,26 @@
       "duration_ms": 247493,
       "name": "Karelia Suite, Op. 11: I. Intermezzo. Moderato \u2013 Pi\u00f9 moderato",
       "url": "https://open.spotify.com/track/4MVrLDFVe9be8put1dshpc"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 477613,
+      "name": "Rakastava, Op. 14: Good Evening... Farewell!",
+      "url": "https://open.spotify.com/track/6xMJI052R1mlEFtT6ej2Va"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 417000,
-      "name": "Two Serenades, Op. 69: II. Lento assai, Op. 69 No. 2 - In G Minor",
-      "url": "https://open.spotify.com/track/2LtUSaRryjweRz2yOwoWRL"
+      "duration_ms": 396000,
+      "name": "Two Serenades, Op. 69: I. Andante assai, Op. 69 No. 1 - In D Major",
+      "url": "https://open.spotify.com/track/0bk3EI4K9b5y02cIkw2zQQ"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 396000,
-      "name": "Two Serenades, Op. 69: I. Andante assai, Op. 69 No. 1 - In D Major",
-      "url": "https://open.spotify.com/track/0bk3EI4K9b5y02cIkw2zQQ"
+      "duration_ms": 417000,
+      "name": "Two Serenades, Op. 69: II. Lento assai, Op. 69 No. 2 - In G Minor",
+      "url": "https://open.spotify.com/track/2LtUSaRryjweRz2yOwoWRL"
     },
     {
       "added_at": "2025-09-15 14:00:16",

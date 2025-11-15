@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: RnBoi
 
-176 songs - 8 hr 5 min
+177 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Do Na Do](https://open.spotify.com/track/1R0grRbhcI2NKUIdR9HQiP) | [Gathorose](https://open.spotify.com/artist/1YE9jrML8L9IhZyPq90uuZ), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Do Na Do](https://open.spotify.com/album/3NugqkxSLTkDGS8CtO8qlY) | 2:10 | 2025-10-16 | 2025-11-14 |
 | [Doelwit](https://open.spotify.com/track/2WeqHc08zDRF1LJLLCUnFS) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [SDL 0.5](https://open.spotify.com/album/7LOn3yOzaj7KZQU70UgxFI) | 3:45 | 2025-07-17 | 2025-09-12 |
 | [Don't Abide By The Law](https://open.spotify.com/track/4cwhq9ox7UIAXuLELTdUVA) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH), [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Don't Abide By The Law](https://open.spotify.com/album/7IPEDdAXMNXjQ7DRJ9cQqG) | 2:22 | 2025-07-17 | 2025-08-05 |
-| [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [](https://open.spotify.com/album/null) | 2:31 | 2025-11-13 |  |
+| [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 | 2025-11-13 |  |
 | [DYNAMITE](https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [DYNAMITE](https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ) | 2:57 | 2025-08-04 |  |
 | [Fallin'](https://open.spotify.com/track/0pAw3MjPIKGXClESHXwJIW) | [Josivnne](https://open.spotify.com/artist/0Ab2EGJGbzcueKeHr6xV8k) | [Fallin'](https://open.spotify.com/album/6u0FZMIcX4ptK7wEGCyJog) | 2:22 | 2025-10-16 | 2025-11-14 |
 | [Fersteri](https://open.spotify.com/track/45pXZ2l3wGs6WDzoohtx3s) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F) | [88](https://open.spotify.com/album/3UqophSkJ9MIEPdGIucF20) | 3:26 | 2025-09-18 |  |
@@ -105,7 +105,7 @@
 | [Linda](https://open.spotify.com/track/5hswX3BbAnas7QLGuSSRqH) | [Faydon](https://open.spotify.com/artist/7B38UkvovXdPVzCsKel6zg) | [Linda](https://open.spotify.com/album/5Uk5oD7ERsOZ05QpV5i6bH) | 2:37 | 2025-07-17 | 2025-09-19 |
 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 | 2025-08-04 |  |
 | [Love & Beef](https://open.spotify.com/track/05V7EyXgiMRL2CGztYZBFF) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Red Rose Romance](https://open.spotify.com/album/5HMPz9vHbmthIDKiVXdSsO) | 3:13 | 2025-07-17 |  |
-| [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 | 2025-07-17 |  |
+| [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 | 2025-07-17 | 2025-11-15 |
 | [Lovin Lovin](https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Lovin Lovin](https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O) | 2:15 | 2025-10-30 |  |
 | [Low](https://open.spotify.com/track/4M5SBrPQQrSImtg1PCxEe0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [CiCi \(Deluxe\)](https://open.spotify.com/album/6Ty7FKJeL2TyYDccUl9JyC) | 3:30 | 2025-08-28 |  |
 | [Make U Mine](https://open.spotify.com/track/1s45mIvFaG0Ba3LuwxIll5) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Make U Mine](https://open.spotify.com/album/2ofvnah4cdhDkIQvDgBEgz) | 2:13 | 2025-07-17 |  |
@@ -174,6 +174,7 @@
 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 | 2025-07-17 |  |
 | [Vijf Sterren](https://open.spotify.com/track/1Ulc4iSctUDnnobli9AQCB) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Vijf Sterren](https://open.spotify.com/album/6AF40ajjccnLMaS8IBewki) | 3:06 | 2025-10-02 | 2025-11-14 |
 | [Wat Love Is](https://open.spotify.com/track/0W5vnpoyvVi2fIXG4qYD7g) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Wat Love Is](https://open.spotify.com/album/4d2K9x4XkqWwAvHOlb0tva) | 2:22 | 2025-07-17 |  |
+| [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 | 2025-11-14 |  |
 | [Waterkant](https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:02 | 2025-08-07 |  |
 | [Weg Van Je Gaan](https://open.spotify.com/track/2YS6svycx5gDp5S2xZNGAb) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [JFT](https://open.spotify.com/artist/0RiLlPi3La2ar2ybA3Z1po), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [Weg Van Je Gaan](https://open.spotify.com/album/5VsDCGzAYjgjpRNM7itnYP) | 2:29 | 2025-11-13 |  |
 | [Weg Van Jou](https://open.spotify.com/track/0XnePMTynrwmAVlEVLgjLH) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [BACK2STEP Vol\. 1](https://open.spotify.com/album/1Ksw5xdfrutkRqxKRLQNAJ) | 2:18 | 2025-10-02 |  |

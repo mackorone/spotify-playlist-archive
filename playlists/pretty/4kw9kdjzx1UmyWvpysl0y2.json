@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUz5GwOD3wLHK+DLVE+FP6R1Snqcie",
+  "snapshot_id": "AAAU0IxL/E+z4xde4N/c2KX6BRKAsFmN",
   "tracks": [
+    {
+      "added_at": "2025-11-14 16:20:41",
+      "album": {
+        "name": "The Speaker",
+        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "The Speaker",
+      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
+    },
     {
       "added_at": "2025-11-13 14:36:30",
       "album": {

@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Kelly Khumalo
 
-722 songs - 2 day 3 hr 26 min
+723 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Dikeledi](https://open.spotify.com/track/0j7TOSVjcDskEsbTKsXMHl) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Karabo](https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc) | 3:47 | 2022-01-13 | 2022-09-16 |
 | [Dilika \(feat\. Ze2 and Vernotile\)](https://open.spotify.com/track/4wS2q6xZmNhkQVNHrRdQFn) | [MBzet](https://open.spotify.com/artist/2cyRBCjNeRLJTudAyD12aM), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn), [Ze2](https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF) | [Dilika \(feat\. Ze2 and Vernotile\)](https://open.spotify.com/album/4HlXyQno7wf18yG01OgKqJ) | 4:39 | 2022-07-14 | 2022-08-19 |
 | [Dilikajele](https://open.spotify.com/track/6UaixHxytkgIWgCSRiV6lu) | [Siphesihle Skhakhane](https://open.spotify.com/artist/4bmPuA56Cb2xJYmB8u3ji3), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [The Moon](https://open.spotify.com/artist/0xJbmjfiVl342AWEo1Ejz1) | [Dilikajele](https://open.spotify.com/album/7hPYzccCBmseUpYf9vW6Iz) | 4:43 | 2022-03-03 | 2022-09-02 |
+| [Dithapelo](https://open.spotify.com/track/4KV4VcZa7EkORRpKvQFrMD) | [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i), [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9) | [Dithapelo](https://open.spotify.com/album/0tIHP5qsfQrfxI5Z5kunWz) | 5:13 | 2025-11-14 |  |
 | [Dogon](https://open.spotify.com/track/0xLXC9BvVkZxwcgWPPoaFf) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 4:46 | 2024-05-09 | 2024-08-02 |
 | [Dream About You](https://open.spotify.com/track/05lM7Ep8UESoe3LV5yrew5) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Dream About You](https://open.spotify.com/album/01feIntmkFDFp5WXym3hHs) | 3:20 | 2021-07-01 | 2023-06-23 |
 | [dream about you](https://open.spotify.com/track/4d1KlYbovwaUlpP5yjXvgL) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [dream about you](https://open.spotify.com/album/0Grz9An4utW2oAod9pYBvz) | 3:20 | 2021-07-01 | 2022-07-29 |

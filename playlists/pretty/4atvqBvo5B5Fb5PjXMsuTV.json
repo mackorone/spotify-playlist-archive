@@ -1,13 +1,141 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Nov 19:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Nov 23:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWF55R4qA8NKmrP7EoRYaYAk8z2Obt",
+  "snapshot_id": "AAAWISWbOjOrTbC/obiWixmj32vCYjII",
   "tracks": [
+    {
+      "added_at": "2025-11-14 09:05:35",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "added_at": "2025-11-14 09:05:35",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150790,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
+    },
+    {
+      "added_at": "2025-11-14 09:05:35",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2025-11-14 09:05:35",
+      "album": {
+        "name": "MONEY AND CLOTHES",
+        "url": "https://open.spotify.com/album/5zP1LFAmi2dYGPFVMMgbKG"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "duration_ms": 138647,
+      "name": "MONEY AND CLOTHES",
+      "url": "https://open.spotify.com/track/3ors9h42aOYWpzblOLhwvo"
+    },
+    {
+      "added_at": "2025-11-14 09:05:35",
+      "album": {
+        "name": "ANY MINUTE NOW",
+        "url": "https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 192255,
+      "name": "ANY MINUTE NOW",
+      "url": "https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs"
+    },
+    {
+      "added_at": "2025-11-14 23:04:47",
+      "album": {
+        "name": "FOREVER (The Full Version)",
+        "url": "https://open.spotify.com/album/1UUnLmP2tjMhtbv5ABFF44"
+      },
+      "artists": [
+        {
+          "name": "AJ Dispirito",
+          "url": "https://open.spotify.com/artist/3GCo22R8vSTHqSP5mYM1E7"
+        }
+      ],
+      "duration_ms": 310122,
+      "name": "FOREVER - The Full Version",
+      "url": "https://open.spotify.com/track/7KkOnVNMwtLheK3oXWcB2b"
+    },
+    {
+      "added_at": "2025-11-14 14:05:37",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "duration_ms": 143593,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
+    },
+    {
+      "added_at": "2025-11-14 19:05:23",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/5dZzEgxDUBsNogwgMfLFww"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "duration_ms": 167747,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/0RUrteb0y55g9GPEGQN86S"
+    },
     {
       "added_at": "2025-11-13 19:05:15",
       "album": {
@@ -103,6 +231,22 @@
       "duration_ms": 147571,
       "name": "Predictable Girl",
       "url": "https://open.spotify.com/track/17lfvOWmFi4k3wJ1Pfu7x3"
+    },
+    {
+      "added_at": "2025-11-14 04:04:58",
+      "album": {
+        "name": "Gallowine",
+        "url": "https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Gallowine",
+      "url": "https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0"
     },
     {
       "added_at": "2025-11-10 14:04:55",
@@ -671,150 +815,6 @@
       "duration_ms": 225816,
       "name": "The Fate of Ophelia - Alone In My Tower Acoustic Version",
       "url": "https://open.spotify.com/track/3Z2nTctPsTsgqqJm5fCSvG"
-    },
-    {
-      "added_at": "2025-11-02 19:04:49",
-      "album": {
-        "name": "love letter",
-        "url": "https://open.spotify.com/album/0VcpnoS9n3IOOOq0iDeTbm"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "love letter",
-      "url": "https://open.spotify.com/track/77OFi8TocjiBJUngLhKdey"
-    },
-    {
-      "added_at": "2025-11-01 23:04:22",
-      "album": {
-        "name": "H.A.P.P.Y",
-        "url": "https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "H.A.P.P.Y",
-      "url": "https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj"
-    },
-    {
-      "added_at": "2025-10-31 09:04:53",
-      "album": {
-        "name": "have to.",
-        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 207023,
-      "name": "have to.",
-      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
-    },
-    {
-      "added_at": "2025-11-03 19:05:42",
-      "album": {
-        "name": "Dead Bodies",
-        "url": "https://open.spotify.com/album/0OktvSnBka1CLuhtxx5b3R"
-      },
-      "artists": [
-        {
-          "name": "Insane Clown Posse",
-          "url": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Dead Bodies",
-      "url": "https://open.spotify.com/track/3kxlRhgKftSWfswDoNYUFr"
-    },
-    {
-      "added_at": "2025-10-31 23:04:30",
-      "album": {
-        "name": "All My Haters",
-        "url": "https://open.spotify.com/album/3dgdV0iEL5hmaUFJZgoVhp"
-      },
-      "artists": [
-        {
-          "name": "Tom MacDonald",
-          "url": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
-        }
-      ],
-      "duration_ms": 195100,
-      "name": "All My Haters",
-      "url": "https://open.spotify.com/track/2i4k6NFbPWiS2OqBc32YIH"
-    },
-    {
-      "added_at": "2025-10-31 23:04:30",
-      "album": {
-        "name": "TANZNEID",
-        "url": "https://open.spotify.com/album/3Tmtkjz1J1wnhNkUAzXi2F"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 185172,
-      "name": "TANZNEID",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
-    },
-    {
-      "added_at": "2025-10-31 04:04:21",
-      "album": {
-        "name": "Unoriginal / Black-Eyed Susan Climb",
-        "url": "https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "Unoriginal",
-      "url": "https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk"
-    },
-    {
-      "added_at": "2025-10-31 09:04:53",
-      "album": {
-        "name": "ANESTHESIA",
-        "url": "https://open.spotify.com/album/6rCf22167H7YNU7y5HGgG7"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 170264,
-      "name": "ANESTHESIA",
-      "url": "https://open.spotify.com/track/1OxmWtMM7HovtufpaCPddM"
-    },
-    {
-      "added_at": "2025-10-31 04:04:21",
-      "album": {
-        "name": "Century",
-        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "Century",
-      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
     }
   ],
   "unique_name": "New Singles Now",

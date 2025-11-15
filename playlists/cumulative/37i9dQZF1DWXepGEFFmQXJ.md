@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Waylon Wyatt
 
-1,075 songs - 2 day 10 hr 55 min
+1,075 songs - 2 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Boots Off](https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 2:41 | 2025-04-10 | 2025-07-04 |
 | [Born To Be Country](https://open.spotify.com/track/6uZchRDY8ZnURdWgyeOBva) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Born To Be Country](https://open.spotify.com/album/2EGzHHxPaBBE3u71Ag61ze) | 3:40 | 2025-10-23 |  |
 | [Both](https://open.spotify.com/track/1qXQM8fJLLcb1Eyus7L4Iu) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Both](https://open.spotify.com/album/7yVvcpH3mUxdGuXuZ629Bj) | 2:59 | 2022-08-05 | 2022-12-16 |
-| [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 | 2025-11-13 |  |
+| [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade \(EP\)](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 | 2025-11-13 |  |
 | [Bottom Of It](https://open.spotify.com/track/6q4TIe9sV117tVe9yIhMIK) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Bottom Of It](https://open.spotify.com/album/2EyPgamG50VNLOgAot4T95) | 2:54 | 2025-05-29 | 2025-08-15 |
 | [Bottomland](https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Bottomland](https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o) | 3:04 | 2025-07-31 | 2025-09-19 |
 | [Boys From The Country](https://open.spotify.com/track/0YUwaYndRLPuFfMLNleRDk) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Boys From The Country](https://open.spotify.com/album/0o1OWTIV5TM3nOaKuiuYNA) | 2:54 | 2024-10-31 | 2025-01-17 |
@@ -289,7 +289,7 @@
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-03-02 | 2023-09-15 |
 | [Easy To Love](https://open.spotify.com/track/0sxoEtpGZKcelKPU3xQyAF) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Easy To Love](https://open.spotify.com/album/4fIAnqinLU9HISWz9PeCqf) | 2:18 | 2024-04-18 | 2024-07-12 |
 | [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-24 | 2025-09-27 |
-| [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [](https://open.spotify.com/album/null) | 2:16 | 2025-11-13 |  |
+| [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 | 2025-11-13 |  |
 | [End Up With Me](https://open.spotify.com/track/4UOIb7ID8WEfWRwETcsrXK) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [End Up With Me](https://open.spotify.com/album/4csq2ZqjjGKrJGj9798iXf) | 2:43 | 2023-04-27 | 2023-06-30 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-09-08 | 2023-02-17 |
 | [Everything](https://open.spotify.com/track/045YT1MAfeRSbtAxA2Vkyo) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Everything](https://open.spotify.com/album/4InMmBXbvnfYt2fXckBIax) | 2:38 | 2024-02-29 | 2024-06-14 |
@@ -732,6 +732,7 @@
 | [Pretty Doesn't Make You Good](https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Pretty Doesn't Make You Good](https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN) | 2:53 | 2023-05-18 | 2023-07-07 |
 | [Pretty Little Liar](https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Pretty Little Liar](https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um) | 4:02 | 2025-10-09 | 2025-11-14 |
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-05-25 | 2023-09-22 |
+| [Problem](https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:34 | 2025-11-13 |  |
 | [Prodigal Daughter \(feat\. Molly Tuttle\)](https://open.spotify.com/track/2mNoj9OifJiGe7aC35paQX) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Prodigal Daughter](https://open.spotify.com/album/1voXBL0YbqcFfskir9BoUp) | 3:26 | 2025-02-20 | 2025-03-28 |
 | [Purple Gas](https://open.spotify.com/track/51K4qVFCpF05rJ0OWPiRTr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/4A94UmQeBwXQ0adzXgCS1i) | 3:00 | 2024-06-07 | 2024-07-05 |
 | [Purple Gas](https://open.spotify.com/track/6iXgIXqpqn13pbw0ZUhf0E) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:00 | 2024-07-04 | 2024-07-27 |
@@ -960,7 +961,6 @@
 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 | 2025-05-08 | 2025-07-11 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-18 | 2024-04-05 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-03-21 |
-| [Track 15](https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-11-14 |
 | [Train of Thought](https://open.spotify.com/track/5tIsdN7zL2cRjpujyTvlpy) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Train of Thought](https://open.spotify.com/album/4kFXUiQZPAjH7cXzvtVj1d) | 3:02 | 2024-08-29 | 2024-12-06 |
 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 | 2023-05-04 | 2023-10-06 |

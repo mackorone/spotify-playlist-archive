@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-452 songs - 1 day 2 hr 0 min
+453 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 | 2023-09-04 |  |
 | [Set You Free](https://open.spotify.com/track/2qKdc7t4aM7yPFvZLosJE3) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Set You Free](https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU) | 3:21 | 2021-12-17 | 2022-05-02 |
 | [Shut up and Dance](https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i) | [Anchor + Bell](https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t) | [Shut up and Dance](https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0) | 2:56 | 2021-12-17 | 2022-12-30 |
-| [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 | 2021-12-17 |  |
+| [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 | 2021-12-17 | 2025-11-15 |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:36 | 2021-12-24 | 2023-10-17 |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-03-25 |  |
 | [Slow Burn](https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Kacey Musgraves](https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl) | 3:37 | 2021-12-17 | 2022-04-25 |
@@ -429,6 +429,7 @@
 | [We Can't Stop \(feat\. Bea Miller\)](https://open.spotify.com/track/2PVU8zHILp6jK4Q7W6rkz8) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Collaborations, Vol\. 2](https://open.spotify.com/album/7b6ysbFfaxitbyERtugMcy) | 3:42 | 2021-12-31 | 2022-01-04 |
 | [What's Going On](https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Blue State](https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA) | 2:49 | 2021-12-17 | 2023-10-17 |
 | [What's My Name? \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1FiThvXpukBsuiBHVx1tOf) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Spotify Singles](https://open.spotify.com/album/4U9Z2CNRkgjTbupyX2OXUN) | 3:00 | 2022-03-25 | 2022-04-21 |
+| [When the Party's Over](https://open.spotify.com/track/24cC5w4hHsIWxzCeRowVkV) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [When the Party's Over](https://open.spotify.com/album/0mQvScekQkBp9YPSwVPUTs) | 3:39 | 2025-11-14 |  |
 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 | 2021-12-17 | 2022-12-30 |
 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2021-12-17 | 2023-10-17 |
 | [When You Love Someone](https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [When You Love Someone](https://open.spotify.com/album/2zC9v0aYykenekxCJD9DRd) | 3:45 | 2022-03-25 | 2022-12-30 |

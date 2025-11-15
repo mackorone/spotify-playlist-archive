@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 
 > sólo para skatos
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,931 likes - 104 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,083 likes - 104 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 | 103 | [MARIHUANA](https://open.spotify.com/track/1Qg3rJq74kzcumHYrK2rEr) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [SEX\-TEX](https://open.spotify.com/album/75J4zinpVSTBEi74HiUxeS) | 2:33 |
 | 104 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/7JTzj9gEIpvjWv9Jc3ph9B) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/1bgHm9Y97Th2cUuWhCJ5ip) | 4:11 |
 
-Snapshot ID: `AAAAAETBy63okkwddTsbQ5I++IXtGLCB`
+Snapshot ID: `AAAAAM5v5NTYx11JQsOoTOh+6dkSvGxn`

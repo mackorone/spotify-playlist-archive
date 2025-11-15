@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. La Pocima Norte\u00f1a en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Grupo Retro en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 188778,
       "name": "365",
       "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
+      "album": {
+        "name": "7 Summers",
+        "url": "https://open.spotify.com/album/5qhT9b53MkBUYPEwd4zg7e"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Brio Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168836,
+      "name": "7 Summers",
+      "url": "https://open.spotify.com/track/1DmnKFVTzHBNdgDcK1WExB"
     },
     {
       "album": {
@@ -168,6 +186,28 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "album": {
+        "name": "Adi\u00f3s Amor",
+        "url": "https://open.spotify.com/album/63GPLux8eZQ35CyG5DQdlA"
+      },
+      "artists": [
+        {
+          "name": "La Cultura Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL"
+        },
+        {
+          "name": "El G\u00fcero",
+          "url": "https://open.spotify.com/artist/6JDib7haM1yswrFLK3v9w5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217088,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/5zu84HaMQLhdh24qch1POd"
     },
     {
       "album": {
@@ -419,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Relincho Vibes",
+        "url": "https://open.spotify.com/album/4yAx2i2NdsJoIzjFmIikRu"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Relincho",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210522,
+      "name": "Atlantico",
+      "url": "https://open.spotify.com/track/6FZZU0B5LsQpNLxLzwEPGm"
+    },
+    {
+      "album": {
         "name": "Aunque me Dejes en Visto",
         "url": "https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3"
       },
@@ -434,6 +492,36 @@
       "duration_ms": 157323,
       "name": "Aunque me Dejes en Visto",
       "url": "https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf"
+    },
+    {
+      "album": {
+        "name": "Polkas Para Bailar Pegaditos",
+        "url": "https://open.spotify.com/album/5iiWFSlFC3XsTeBGjkr3f7"
+      },
+      "artists": [
+        {
+          "name": "Nortenas Con Sax",
+          "url": "https://open.spotify.com/artist/59q7OdflCKW20lfVNlJtAl"
+        },
+        {
+          "name": "Huapangos Norte\u00f1os",
+          "url": "https://open.spotify.com/artist/0XHTTSq3SmUuIiAb89aklQ"
+        },
+        {
+          "name": "Salcido Norte",
+          "url": "https://open.spotify.com/artist/50m1RdltEd8INnGw3YykZQ"
+        },
+        {
+          "name": "La Fiera De Chihuahua",
+          "url": "https://open.spotify.com/artist/7yq29ENLvnAT2QfoqxZc9x"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104880,
+      "name": "Bailando Bajo El Sol (Polkas Para Bailar Pegaditos)",
+      "url": "https://open.spotify.com/track/3zTWl7ZJwAnmfA8Lxt6sFK"
     },
     {
       "album": {
@@ -1370,7 +1458,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 261328,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/7AvXV9JRhgXP59baffs4h2"
@@ -1714,7 +1802,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 133648,
       "name": "En Otro Abril",
       "url": "https://open.spotify.com/track/72r9FrTMGEdwEGhDV2gVe7"
@@ -2252,7 +2340,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 184778,
       "name": "La Cuestion",
       "url": "https://open.spotify.com/track/3h998Vo7Tzow32zbb6rIv9"
@@ -2531,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Labios Hermosos",
+        "url": "https://open.spotify.com/album/5F4obhWeHe6O9UnA5kyb9v"
+      },
+      "artists": [
+        {
+          "name": "Los de la Marka",
+          "url": "https://open.spotify.com/artist/0p6PG9EBHMF1JmPda9dg9y"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152466,
+      "name": "Labios Hermosos",
+      "url": "https://open.spotify.com/track/1Gvj1YKDBi3zT3aHe4B1QD"
+    },
+    {
+      "album": {
         "name": "Lagunas",
         "url": "https://open.spotify.com/album/5iWhcvEHOYzm5UZDY8xUrJ"
       },
@@ -2596,7 +2702,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 152496,
       "name": "Lindo Nayarit",
       "url": "https://open.spotify.com/track/2RbyArpREjBMzb0GF0Rytf"
@@ -2708,7 +2814,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 160992,
       "name": "Lo Que Yo Necesitaba",
       "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
@@ -2932,6 +3038,24 @@
       "duration_ms": 132434,
       "name": "Mentira Que Me Quieres Mucho",
       "url": "https://open.spotify.com/track/3bR1WblcmJj11Vh8DoNuB4"
+    },
+    {
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/39dbaHMa1NJNz0SiPpqKJB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Retro",
+          "url": "https://open.spotify.com/artist/0aniQgRAsJgSI1bWuZxv95"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147335,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/13pQjTi19twBPiwqkQiSTV"
     },
     {
       "album": {
@@ -3355,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "No Se Me Hizo",
+        "url": "https://open.spotify.com/album/1cfWhbn5LsruTU3fLH2x3g"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135469,
+      "name": "No Se Me Hizo",
+      "url": "https://open.spotify.com/track/1ndXS6PX7UUjzmSlQN63sp"
+    },
+    {
+      "album": {
         "name": "No S\u00e9 Con Qu\u00e9 Intenci\u00f3n",
         "url": "https://open.spotify.com/album/767CKX0QDOyBxyBpi5WpQK"
       },
@@ -3402,7 +3544,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 136252,
       "name": "Nota De Voz",
       "url": "https://open.spotify.com/track/4xVJUwEJEudLxEwkqz4705"
@@ -3492,7 +3634,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 213658,
       "name": "Otra Pregunta",
       "url": "https://open.spotify.com/track/2Bivo1aEB5zxCEyhqTCCHr"
@@ -4431,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "Te Esperar\u00e9",
+        "url": "https://open.spotify.com/album/0gl7I5dYte5Cc0aS7vudJ7"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Pemo Gonzalez Y Su Via Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4ErgrGxkCqG5zJoTkohHRB"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177450,
+      "name": "Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/2PZqA00hq6ze4lXsZcbyix"
+    },
+    {
+      "album": {
         "name": "Te Hice Mal",
         "url": "https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS"
       },
@@ -4464,6 +4628,32 @@
       "duration_ms": 192426,
       "name": "Te Lo Ten\u00eda Que Decir",
       "url": "https://open.spotify.com/track/5dG6WgOei9AoxkGhZwX3Bv"
+    },
+    {
+      "album": {
+        "name": "Te Metiste en Mi Cama",
+        "url": "https://open.spotify.com/album/21suFpZJ5iQnk2u5RksYD9"
+      },
+      "artists": [
+        {
+          "name": "Alfonzin Garc\u00eda \"Dj Alfonzin\"",
+          "url": "https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf"
+        },
+        {
+          "name": "Angel Fresnillo",
+          "url": "https://open.spotify.com/artist/0dtptikafKpAGHpTs0iS9R"
+        },
+        {
+          "name": "La Inspiraci\u00f3n Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/2bDa5OoR8RxoP9sVhkNYon"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222583,
+      "name": "Te Metiste en Mi Cama",
+      "url": "https://open.spotify.com/track/0ZEYOuktxSxpmJrKeqBRbt"
     },
     {
       "album": {
@@ -4800,7 +4990,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 232203,
       "name": "Vale La Pena el Placer",
       "url": "https://open.spotify.com/track/77Sl92BrLLUHjfMscFyomB"

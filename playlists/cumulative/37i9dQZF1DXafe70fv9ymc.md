@@ -4,7 +4,7 @@
 
 > NSFW
 
-174 songs - 8 hr 41 min
+174 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Rhythm & Blues](https://open.spotify.com/track/6MatF34mUyDaaf9diQgCDA) | [Dr.Ish](https://open.spotify.com/artist/4NPYdsxHeTKjVyM1gzme77), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Rhythm & Blues](https://open.spotify.com/album/4MJf04FlpbTj1y1luauTee) | 3:16 | 2025-07-04 | 2025-11-14 |
 | [Rising](https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn) | [David Docade](https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF) | [Rising](https://open.spotify.com/album/7ilXy7MALlKATu0LlvrKQq) | 3:15 | 2024-03-15 | 2024-10-05 |
 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 | 2024-09-13 |
+| [ROCK & SLIDE](https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [FRIENDS](https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS) | 2:38 | 2025-11-14 |  |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2024-02-09 | 2024-03-29 |
 | [Rum & Butter](https://open.spotify.com/track/1UVy3p0uQqnWi9kndjhNCC) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 4:25 | 2024-02-09 | 2024-04-26 |
 | [SA RO](https://open.spotify.com/track/1vgu72yPGBz3gOFD3SXaVA) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [Bala](https://open.spotify.com/artist/5Ec31Oisu03xyaUlt2FGla) | [SA RO](https://open.spotify.com/album/2UBOv8lqdU5fY0ouPtErN5) | 2:49 | 2025-10-17 |  |
@@ -163,7 +164,6 @@
 | [Timeless](https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Timeless](https://open.spotify.com/album/4805JZGMvu1ZqzmPnbOl2R) | 3:25 | 2024-11-08 | 2025-05-17 |
 | [Tori](https://open.spotify.com/track/47fXJB2c9hfyZ1svQxEntJ) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Never Too Late](https://open.spotify.com/album/7iuyoC6Q8PY7dnX7tzYzXg) | 3:22 | 2025-03-21 |  |
 | [Toxic Trends](https://open.spotify.com/track/1pPquaWmcvzLtO0nffSsLV) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Toxic Trends](https://open.spotify.com/album/0V3g6AqzVtFF7OFQSdqRrL) | 3:32 | 2024-05-31 | 2024-08-02 |
-| [Track 3](https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-14 |  |
 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 | 2025-04-04 |  |
 | [TSD](https://open.spotify.com/track/2PBG7vBts21Uh5XYycmh4K) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [GJtheCaesar](https://open.spotify.com/artist/4DSV4Nfs3clNUejSLIWdSb) | [TSD](https://open.spotify.com/album/2d5foQBUlfViM3QnVenzzG) | 3:38 | 2025-08-01 |  |
 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 | 2024-10-05 |

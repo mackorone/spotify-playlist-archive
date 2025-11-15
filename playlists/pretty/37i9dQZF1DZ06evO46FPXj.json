@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 8195,
+  "num_followers": 8200,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAAAWZ1hsGp4z7IBhF+a0WVXV",
+  "snapshot_id": "aRUfgAAAAAALPvwR0wRjBzl0/n1/8IOJ",
   "tracks": [
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+        "name": "Quaristice.Quadrange.ep.ae",
+        "url": "https://open.spotify.com/album/4sdrE1wszmZUWIgH1PzGNU"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 321580,
-      "name": "Vose In",
-      "url": "https://open.spotify.com/track/6MYEvB2nXSUZtzpAUXek0U"
+      "duration_ms": 246934,
+      "name": "Perlence Suns",
+      "url": "https://open.spotify.com/track/34v4euyzXrKagV44iVyRCK"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quaristice.Quadrange.ep.ae",
-        "url": "https://open.spotify.com/album/4sdrE1wszmZUWIgH1PzGNU"
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 246934,
-      "name": "Perlence Suns",
-      "url": "https://open.spotify.com/track/34v4euyzXrKagV44iVyRCK"
+      "duration_ms": 321580,
+      "name": "Vose In",
+      "url": "https://open.spotify.com/track/6MYEvB2nXSUZtzpAUXek0U"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 434553,
-      "name": "Sim Gishel",
-      "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chiastic Slide",
         "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 537263,
       "name": "Cipater",
       "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 434553,
+      "name": "Sim Gishel",
+      "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"
     }
   ],
   "unique_name": "This Is Autechre",

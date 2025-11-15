@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 9787,
+  "num_followers": 9789,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAAACNGh9Y8nwc59e1rxj84Go",
+  "snapshot_id": "aRUfgAAAAACXE4EkQ4mHbJDYsoEyjT8k",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "*86",
+        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 196186,
+      "name": "Se Fue Con Otro",
+      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Vas a Acordar de Mi",
         "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 264480,
       "name": "Dinero - En Vivo",
       "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "*86",
-        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 196186,
-      "name": "Se Fue Con Otro",
-      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Haces Volar",
+        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Teor\u00eda de Caos",
+      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 107160,
       "name": "El Gato Con Botas",
       "url": "https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Haces Volar",
-        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Teor\u00eda de Caos",
-      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
     }
   ],
   "unique_name": "This Is Tex Tex",

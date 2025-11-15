@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,860 likes - 117 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,899 likes - 117 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 59 | [Reminiscence](https://open.spotify.com/track/02yvSF783YP2YcEzsDsEIc) | [Dr Jess Duckworth](https://open.spotify.com/artist/0Y4Qbtyn0qQ5m4SJDrZw2L) | [The Piano Doctor](https://open.spotify.com/album/6DlV0rb2mkWOu1PuSnDIDH) | 2:06 |
 | 60 | [Flower Duet \- Goldmund Rework](https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Scott Moore](https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E), [Emily Pisaturo](https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm) | [Flower Duet \(Goldmund Rework\)](https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY) | 2:47 |
 | 61 | [Rhapsody on a Theme of Paganini, Op\. 43: Variation No\. 18 Andante cantabile](https://open.spotify.com/track/419qlOGNXoyICx4jO0hqaj) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Rachmaninov Variations](https://open.spotify.com/album/7lj4fT2SzKOFw8rvSrVivF) | 2:54 |
-| 62 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 |
+| 62 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 |
 | 63 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 |
 | 64 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
 | 65 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 |

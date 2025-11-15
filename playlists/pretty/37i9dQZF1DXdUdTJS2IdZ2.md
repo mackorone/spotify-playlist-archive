@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: gels
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,111 likes - 92 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,113 likes - 92 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 2 | [A Little More Time](https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [A Little More Time](https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa) | 4:00 |
 | 3 | [一字一言](https://open.spotify.com/track/1BeeVM8QlB94Z59d9iQM1H) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [一字一言](https://open.spotify.com/album/436NzTXvcEqLynqLF8e9DA) | 3:22 |
 | 4 | [messy](https://open.spotify.com/track/2KbfdK6PJ8zyIJlteQ0cpL) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [messy](https://open.spotify.com/album/3RJdAhgVY8B77K9YBduQ3i) | 2:41 |
-| 5 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [](https://open.spotify.com/album/null) | 3:34 |
+| 5 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 3:34 |
 | 6 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 |
 | 7 | [请不要离开我](https://open.spotify.com/track/53uSYZ40nrUi49fEHyOFrf) | [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [请不要离开我](https://open.spotify.com/album/72J68TprkbVid0yaw5EcpC) | 4:17 |
 | 8 | [Ada Apa Di Sana](https://open.spotify.com/track/5PHdC78MpFHGP0ixttW9oR) | [Bani Rae](https://open.spotify.com/artist/0nrykdtTQqFaCLYPPZOzG7) | [Ada Apa Di Sana](https://open.spotify.com/album/2e9aNGjqDllWqy3LNSmMFm) | 3:16 |
-| 9 | [wander](https://open.spotify.com/track/6USFWI02tq5E3Cs5J9qqxS) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [](https://open.spotify.com/album/null) | 4:43 |
+| 9 | [wander](https://open.spotify.com/track/6USFWI02tq5E3Cs5J9qqxS) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 4:43 |
 | 10 | [WANNA KISS](https://open.spotify.com/track/25Pk2WIxD61QXrSuakeazD) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [WANNA KISS](https://open.spotify.com/album/4S8kMFCG4YIxkNkYXgQWtr) | 2:33 |
 | 11 | [Midsummer Mansion](https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [the gates](https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu) | 4:22 |
 | 12 | [聽你](https://open.spotify.com/track/6uLt2hCnQhjcB4RBOa9NjA) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [交叉路口 Junctions](https://open.spotify.com/album/6shAWWZ2xrAjXgVPk11KZI) | 3:51 |

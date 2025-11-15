@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Amber Broos & Portex
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,585 likes - 89 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,597 likes - 89 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 9 | [Let Me Love You](https://open.spotify.com/track/2Kq88ecbX0ZnuVbt8aqe4M) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [GREATOREX](https://open.spotify.com/artist/6JxRVVFIVnyl9BRIZHGqIU) | [Let Me Love You](https://open.spotify.com/album/1BrMfezHBHv5aa5GchQblk) | 3:06 |
 | 10 | [Higher Off The Ground](https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Higher Off The Ground](https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a) | 3:05 |
 | 11 | [Rudeboy Riddim](https://open.spotify.com/track/3Z6kbgsBPnqT0pv2PxpXd8) | [The Funkmoore Brothers](https://open.spotify.com/artist/35z0CJjJp4Ws7yNyCj50wp) | [Rudeboy Riddim](https://open.spotify.com/album/1voB0adnJjN8Z2osmmxECg) | 3:46 |
-| 12 | [Dangerous](https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Dangerous](https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF) | 3:51 |
+| 12 | [Dangerous](https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Dangerous](https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF) | 3:51 |
 | 13 | [Destination Unknown \(Calabria\)](https://open.spotify.com/track/1ku9Yr6cmIHh0CKE5RX5yu) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Destination Unknown \(Calabria\)](https://open.spotify.com/album/2tgpE75wpRrNeqadjZf9Mm) | 2:22 |
 | 14 | [God In You](https://open.spotify.com/track/5MMEBxm1mliJlMZnydNYMA) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [God In You](https://open.spotify.com/album/4s8AliMdTeyAh5HgXqgsJw) | 5:37 |
 | 15 | [Verità](https://open.spotify.com/track/3hR79nIAbPCkskNHrEgJoS) | [Luna & Lenthe](https://open.spotify.com/artist/5QNRJW51rDBkAOmrWlXLVg) | [Verità](https://open.spotify.com/album/34CJgdzQ4ioDk83ruddwlm) | 3:28 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 22 | [You Gonna Want Me \(I Know\)](https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [You Gonna Want Me \(I Know\)](https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN) | 3:12 |
 | 23 | [Ticket](https://open.spotify.com/track/1c6EaTufDorSoUk1xx7fXq) | [Soubeiran](https://open.spotify.com/artist/67FwmaxZpKVnuwP9moY06z) | [Ticket](https://open.spotify.com/album/1fIamecqVi6Lmh2cpDzaRV) | 2:40 |
 | 24 | [You're The Voice \- Happy Hardcore Refix](https://open.spotify.com/track/2jPdAjlrLTj27jneAiQFNL) | [Mental Theo](https://open.spotify.com/artist/3dOyTnBq9jKfRXJlJlddQq), [Rob Q](https://open.spotify.com/artist/7lZzMpyxGzbyNF3tkhAoLD), [Maycke](https://open.spotify.com/artist/28Ah2NfKynR3Z0Rbx5GwHQ) | [You're The Voice \(Happy Hardcore Refix\)](https://open.spotify.com/album/5A4vwwJ0JtyusVzdNfX7V6) | 5:01 |
-| 25 | [Someone To You](https://open.spotify.com/track/2YpdRJtjTjXo2HncRpPeAu) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ) | [](https://open.spotify.com/album/null) | 2:52 |
+| 25 | [Someone To You](https://open.spotify.com/track/2YpdRJtjTjXo2HncRpPeAu) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ) | [Someone To You](https://open.spotify.com/album/5gOxJ0MqPsV7VmbgA5ldMf) | 2:52 |
 | 26 | [With Your Love](https://open.spotify.com/track/3T1CFsOfNi9Dy9cMtjNdEQ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [With Your Love](https://open.spotify.com/album/6HjOkGo6xdNpBJSTa4FlDK) | 3:02 |
 | 27 | [Clap Back](https://open.spotify.com/track/2YRpePKbVq4Z595N1GN1uB) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Clap Back](https://open.spotify.com/album/1KlATNwvXbSLVdyC1rPSgt) | 3:03 |
 | 28 | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/track/4ywSPmMyzUSQgV3A6wJXC4) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lift Me Up \(feat\. Jem Cooke\)](https://open.spotify.com/album/5At3eeGWQpjatIMzDi6esm) | 2:55 |

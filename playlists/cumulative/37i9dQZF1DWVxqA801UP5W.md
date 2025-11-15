@@ -4,7 +4,7 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: David Guetta, Teddy Swims, Tones & I
 
-153 songs - 8 hr 9 min
+154 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,8 +153,9 @@
 | [Wait So Long \- RE\\MIND Remix](https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX) | [Wait So Long \(RE\\MIND Remix\)](https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0) | 4:49 | 2025-08-11 | 2025-09-28 |
 | [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 | 2025-08-11 |  |
 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-24 |  |
-| [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 2:45 | 2024-06-12 |  |
+| [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 2:45 | 2024-06-12 | 2025-11-15 |
 | [Where Are You Now \- Kungs Remix](https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Where Are You Now \(Remix Pack\)](https://open.spotify.com/album/6lEVcSBDsn0YgGjUxGO1dX) | 3:12 | 2022-06-20 | 2024-07-20 |
+| [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 | 2025-11-14 |  |
 | [Wish You The Best \- JM∆C Remix](https://open.spotify.com/track/0EodQ8rugtFtKwr91Uw93T) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [JMΔC](https://open.spotify.com/artist/0PCcwe894ViQfIf5OOv4rJ) | [Wish You The Best EP](https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE) | 2:56 | 2023-09-04 | 2024-03-29 |
 | [Wonder \- Surf Mesa Remix](https://open.spotify.com/track/6V7E9bDZaKUfFcfiScXaCc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:18 | 2022-06-20 | 2023-04-11 |
 | [WOW \- Imanbek Remix](https://open.spotify.com/track/07dzaQfXNcQPVm149RGlMg) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [WOW \(Imanbek Remix\)](https://open.spotify.com/album/0c04EkrQHr79i4rU53qTRQ) | 3:07 | 2022-06-20 | 2023-04-13 |

@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a> 💪💥
 
-448 songs - 1 day 0 hr 5 min
+449 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/album/01xr9so8umOVL5bwL82noG) | 3:02 | 2023-10-24 | 2024-03-02 |
 | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/track/6jtNk2zqbiZ9S7l6Gcp78A) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [2 MUCH \(feat\. 24hrs\)](https://open.spotify.com/album/5NsU3AvjQswUoFEkuqSCSw) | 3:02 | 2022-07-22 | 2023-11-04 |
 | [2 The Brain](https://open.spotify.com/track/1sR0NZ42EGY6bW2lidiC45) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [2 The Brain](https://open.spotify.com/album/7fVwQzo8mG4GlPAhHn5ElW) | 3:25 | 2021-11-19 | 2022-01-08 |
+| [2Fast2Stop](https://open.spotify.com/track/4x0GsIPniJfuqrlW0oyjpM) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [2Fast2Stop](https://open.spotify.com/album/5QaaEX4Uaiy6UE6cnp0Fth) | 3:22 | 2025-11-14 |  |
 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 | 2024-05-10 |  |
 | [Adrenaline](https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Adrenaline](https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj) | 2:35 | 2025-11-07 |  |
 | [AETHER \- Hex Cougar Remix](https://open.spotify.com/track/0JT6aP58HKQ80VrXSVD8cK) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [AETHER \(Hex Cougar Remix\)](https://open.spotify.com/album/6lEL2qnKiGsbpvDEtcc9lN) | 4:03 | 2021-11-19 | 2022-01-08 |
@@ -347,7 +348,7 @@
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
 | [Seizure](https://open.spotify.com/track/5wqPpv0nROPAMg7h7R0wA8) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Seizure](https://open.spotify.com/album/4OFTlIf1lE1QToK9Ckrzla) | 2:51 | 2022-07-08 | 2023-03-18 |
 | [select@](https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:44 | 2025-01-17 |  |
-| [Set Me Free](https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Set Me Free](https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX) | 3:01 | 2025-01-17 |  |
+| [Set Me Free](https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Set Me Free](https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX) | 3:01 | 2025-01-17 | 2025-11-15 |
 | [Shake](https://open.spotify.com/track/1jRgrTBpB8GIB99bYjnDL3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Shake](https://open.spotify.com/album/6apexIQhAgroK41Kt6FOjd) | 3:14 | 2021-11-19 | 2022-01-08 |
 | [Shake It Off](https://open.spotify.com/track/2uXp1P1jPrjiVkKafgqYPW) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Shake It Off](https://open.spotify.com/album/0GzWA2pdhCEj2xvymykNOZ) | 2:17 | 2025-04-18 | 2025-04-29 |
 | [Sharp Shooter](https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80) | 3:43 | 2023-05-26 | 2023-08-19 |

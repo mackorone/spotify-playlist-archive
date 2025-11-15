@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130364,
+  "num_followers": 130361,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
-        "name": "\u4e0d\u4f54\u5730\u65b9",
-        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 279444,
-      "name": "\u4e0d\u4f54\u5730\u65b9",
-      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
-    },
-    {
-      "added_at": "2025-11-13 16:00:25",
-      "album": {
         "name": "\u5982\u679c\u4e0d\u662f\u6211\u7684 (\u96fb\u5f71\u300a\u5973\u5b69\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/2D3KOGicdefBP8iPlOW9F5"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 218072,
       "name": "\u5982\u679c\u4e0d\u662f\u6211\u7684 - \u96fb\u5f71\u300a\u5973\u5b69\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/1BicVGrtJTih4Vlqg8o9I0"
+    },
+    {
+      "added_at": "2025-11-13 16:00:25",
+      "album": {
+        "name": "\u4e0d\u4f54\u5730\u65b9",
+        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 279444,
+      "name": "\u4e0d\u4f54\u5730\u65b9",
+      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
     },
     {
       "added_at": "2025-11-13 16:00:25",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
-        "name": "Hai Cheng",
-        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
-      },
-      "artists": [
-        {
-          "name": "THE 8",
-          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Hai Cheng",
-      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
-    },
-    {
-      "added_at": "2025-11-13 16:00:25",
-      "album": {
         "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
         "url": "https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 235750,
       "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
       "url": "https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5"
+    },
+    {
+      "added_at": "2025-11-13 16:00:25",
+      "album": {
+        "name": "Hai Cheng",
+        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
+      },
+      "artists": [
+        {
+          "name": "THE 8",
+          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Hai Cheng",
+      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
     },
     {
       "added_at": "2025-11-13 16:00:25",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-11-13 16:00:25",
       "album": {
+        "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
+        "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
+      },
+      "artists": [
+        {
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
+      "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
+    },
+    {
+      "added_at": "2025-11-13 16:00:25",
+      "album": {
         "name": "Same Stories, Different Narratives",
         "url": "https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 272424,
       "name": "\u5fc3\u81df\u7684\u53f3\u908a / Right Side of My Heart (feat. \u9b4f\u5982\u8431)",
       "url": "https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54"
-    },
-    {
-      "added_at": "2025-11-13 16:00:25",
-      "album": {
-        "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
-        "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
-      "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
     },
     {
       "added_at": "2025-11-13 16:00:25",

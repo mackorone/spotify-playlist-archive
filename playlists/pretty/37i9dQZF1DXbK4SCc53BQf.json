@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 105057,
+  "num_followers": 105067,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-10-24 09:07:26",
       "album": {
-        "name": "Van God",
-        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        }
-      ],
-      "duration_ms": 257385,
-      "name": "Van God",
-      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
-    },
-    {
-      "added_at": "2025-10-24 09:07:26",
-      "album": {
         "name": "Abr\u00e1zame M\u00e1s",
         "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 172560,
       "name": "Abr\u00e1zame M\u00e1s",
       "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
+    },
+    {
+      "added_at": "2025-10-24 09:07:26",
+      "album": {
+        "name": "Van God",
+        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "duration_ms": 257385,
+      "name": "Van God",
+      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
     },
     {
       "added_at": "2025-10-24 09:07:26",
@@ -779,34 +779,6 @@
     {
       "added_at": "2025-10-24 09:07:26",
       "album": {
-        "name": "Tus Planes",
-        "url": "https://open.spotify.com/album/6HXnKD6egQWcHc3MbPfJPk"
-      },
-      "artists": [
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        },
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Samuel lonzoy",
-          "url": "https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO"
-        },
-        {
-          "name": "Dabid Thomas",
-          "url": "https://open.spotify.com/artist/6KoIvIn6MdHInLfcWc2MG9"
-        }
-      ],
-      "duration_ms": 170898,
-      "name": "Tus Planes",
-      "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
-    },
-    {
-      "added_at": "2025-10-24 09:07:26",
-      "album": {
         "name": "Alegria Latina",
         "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
       },
@@ -839,6 +811,34 @@
       "duration_ms": 224156,
       "name": "Esta Fiesta",
       "url": "https://open.spotify.com/track/1E9HwdcZoZ9NZGf2gPM8u2"
+    },
+    {
+      "added_at": "2025-10-24 09:07:26",
+      "album": {
+        "name": "Tus Planes",
+        "url": "https://open.spotify.com/album/6HXnKD6egQWcHc3MbPfJPk"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Samuel lonzoy",
+          "url": "https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO"
+        },
+        {
+          "name": "Dabid Thomas",
+          "url": "https://open.spotify.com/artist/6KoIvIn6MdHInLfcWc2MG9"
+        }
+      ],
+      "duration_ms": 170898,
+      "name": "Tus Planes",
+      "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
     },
     {
       "added_at": "2025-10-24 09:07:26",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-10-24 09:07:26",
       "album": {
+        "name": "La Verdad EP",
+        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 182474,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2025-10-24 09:07:26",
+      "album": {
         "name": "Moroco",
         "url": "https://open.spotify.com/album/5uZrx5mJ4O218GB3Or1Tx4"
       },
@@ -1035,22 +1055,22 @@
     {
       "added_at": "2025-10-24 09:07:26",
       "album": {
-        "name": "La Verdad EP",
-        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
+        "name": "Siempre Has Sido Fiel",
+        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
       },
       "artists": [
         {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
         },
         {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "Kaelyn Reese",
+          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
         }
       ],
-      "duration_ms": 182474,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+      "duration_ms": 171764,
+      "name": "Siempre Has Sido Fiel",
+      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
     },
     {
       "added_at": "2025-10-24 09:07:26",
@@ -1071,26 +1091,6 @@
       "duration_ms": 209837,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
-    },
-    {
-      "added_at": "2025-10-24 09:07:26",
-      "album": {
-        "name": "Siempre Has Sido Fiel",
-        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Kaelyn Reese",
-          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Siempre Has Sido Fiel",
-      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
     },
     {
       "added_at": "2025-10-24 09:07:26",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2025-10-24 09:07:26",
       "album": {
-        "name": "Agarra La Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
+        "name": "Adorar A Dios",
+        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
       },
       "artists": [
         {
-          "name": "Banda Punto de Encuentro",
-          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "El Swing Divino",
+          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
         }
       ],
-      "duration_ms": 191447,
-      "name": "Agarra La Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
+      "duration_ms": 195133,
+      "name": "Nos Vamos A Gozar",
+      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
     },
     {
       "added_at": "2025-10-24 09:07:26",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2025-10-24 09:07:26",
       "album": {
-        "name": "Adorar A Dios",
-        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
+        "name": "Agarra La Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
       },
       "artists": [
         {
-          "name": "El Swing Divino",
-          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
+          "name": "Banda Punto de Encuentro",
+          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Nos Vamos A Gozar",
-      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
+      "duration_ms": 191447,
+      "name": "Agarra La Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
     },
     {
       "added_at": "2025-10-24 09:07:26",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-10-24 09:07:26",
       "album": {
+        "name": "Album 35th Aniversario",
+        "url": "https://open.spotify.com/album/2EaNU6CUvJo9hn60ymsETU"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "La Recompensa",
+      "url": "https://open.spotify.com/track/02UFxcfHhdKiPQi0YTB4Cz"
+    },
+    {
+      "added_at": "2025-10-24 09:07:26",
+      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/7J4irmLEusLkjIZJWOign4"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 211000,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/58EYT5eV7H7VL46V9O2TNM"
-    },
-    {
-      "added_at": "2025-10-24 09:07:26",
-      "album": {
-        "name": "Album 35th Aniversario",
-        "url": "https://open.spotify.com/album/2EaNU6CUvJo9hn60ymsETU"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "La Recompensa",
-      "url": "https://open.spotify.com/track/02UFxcfHhdKiPQi0YTB4Cz"
     },
     {
       "added_at": "2025-10-24 09:07:26",

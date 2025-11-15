@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Tommaso Paradiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,865 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,858 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 42 | [ragnatela](https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [ragnatela](https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5) | 3:00 |
 | 43 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 |
 | 44 | [OCCHIAIE](https://open.spotify.com/track/1raoPjIsysUxxINP4QB2ZA) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [OCCHIAIE](https://open.spotify.com/album/46IQNcVUpKaKW25X6CL5fN) | 2:53 |
-| 45 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [](https://open.spotify.com/album/null) | 3:05 |
+| 45 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 |
 | 46 | [colpo di tosse](https://open.spotify.com/track/2npEqmXQJIjNXi1OvpJaFJ) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:09 |
 | 47 | [Sentirsi Soli \(con Calcutta\)](https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 3:05 |
 | 48 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 |

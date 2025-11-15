@@ -2579,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Santa is a DJ",
+        "url": "https://open.spotify.com/album/3B7supMx2ocq11Mv7KVt9q"
+      },
+      "artists": [
+        {
+          "name": "chy deep",
+          "url": "https://open.spotify.com/artist/3Rgn1N6FniSgfTz9sqnuXp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165405,
+      "name": "Santa is a DJ",
+      "url": "https://open.spotify.com/track/5NqNZW52JViBdq6qySq2nq"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4"
       },
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 241875,
       "name": "Tropical Holiday",
       "url": "https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu"

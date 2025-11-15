@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter w/ Audrey Hobert is live 🪿</a> Cover: Charli xcx & John Cale
+> <a href="https://loremandfriends.substack.com/p/smerz\-daniel\-caesar\-and\-the\-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: Charli xcx & John Cale
 
-3,627 songs - 8 day 6 hr 25 min
+3,628 songs - 8 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-08-02 | 2020-01-10 |
 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 | 2025-10-18 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-02-06 | 2021-03-19 |
+| [Candle](https://open.spotify.com/track/66447TJUyw3jjyePECdqJY) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Candle](https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2) | 3:06 | 2025-11-14 |  |
 | [Candy](https://open.spotify.com/track/1G6LCMsx0HPSrWXgSVzHKB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Candy](https://open.spotify.com/album/5NaAAxoTOC3eTwmVMHrxtK) | 3:51 | 2019-07-30\* | 2020-02-05 |
 | [Candy](https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:54 | 2024-04-26 | 2024-11-15 |
 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 | 2023-09-08 | 2023-10-11 |
@@ -2697,7 +2698,7 @@
 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-10-20 | 2024-03-28 |
 | [Sensitive](https://open.spotify.com/track/1XbyfNSAe9UHBjn22YJ7Ys) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Sensitive](https://open.spotify.com/album/4Wml9i3C4GlRNbdj99rRmX) | 2:47 | 2021-02-19 | 2021-04-16 |
 | [sent you flowers.](https://open.spotify.com/track/4rvikymmhww79w4fIiXm6J) | [adobee.](https://open.spotify.com/artist/3ag2JXWElKqKiJsU9pe7Rs), [Roy Blair](https://open.spotify.com/artist/2bg4TKwooGY8KpfMAwVUng), [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [sent you flowers.](https://open.spotify.com/album/7nsjMzKUllwqFFUm7gyHyl) | 2:01 | 2020-01-10 | 2020-01-14 |
-| [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [](https://open.spotify.com/album/null) | 3:54 | 2025-11-14 |  |
+| [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 | 2025-11-14 |  |
 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 | 2023-11-10 | 2024-02-22 |
 | [Sepsis](https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:46 | 2023-08-04 | 2023-08-16 |
 | [september](https://open.spotify.com/track/6JU5xmZEqXxw2sukVDCcba) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [september](https://open.spotify.com/album/5NG3pro4O1omnF9nTdxptQ) | 3:02 | 2022-06-17 | 2022-07-01 |

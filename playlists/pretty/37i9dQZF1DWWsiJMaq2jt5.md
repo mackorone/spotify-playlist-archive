@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2v295z585SM68pluEKXKSM">Kayah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,823 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,829 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 54 | [zjawa](https://open.spotify.com/track/4DsM3C7wBH7XAdqgVi0n2c) | [szkarłatność](https://open.spotify.com/artist/46h5BHRMGyNpkiCmT4JZbC) | [zjawa](https://open.spotify.com/album/7eNPwFSH7DeFqCDWQOQ12T) | 3:16 |
 | 55 | [Przejdzie Ci](https://open.spotify.com/track/5pYFaDwW3dH5DkkYA1raHc) | [Ania Sama](https://open.spotify.com/artist/17oe8xKBz8afGmdC911RZ4) | [Przejdzie Ci](https://open.spotify.com/album/1VXdZ4KynhHFp6g0jrd1he) | 2:41 |
 
-Snapshot ID: `AAAAAF8B/CATuYk0HEOALiYhVDwFTHHw`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

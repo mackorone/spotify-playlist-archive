@@ -4,7 +4,7 @@
 
 > und macht laune
 
-322 songs - 14 hr 58 min
+323 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 | 2023-08-18 | 2023-10-10 |
 | [Everytime We Touch](https://open.spotify.com/track/2iANaOu9ypAYmuiHf1QoIa) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Everytime We Touch](https://open.spotify.com/album/75jf8Uf0t4ZWYdNZO5qOfU) | 2:43 | 2025-10-09 | 2025-10-17 |
 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 | 2023-07-28 |  |
-| [Explodiert](https://open.spotify.com/track/6TwxfbWv60uq6SoskPJM8i) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Explodiert](https://open.spotify.com/album/6oT5hbuwAZBggkH8WlzyFb) | 2:38 | 2025-02-27 |  |
+| [Explodiert](https://open.spotify.com/track/6TwxfbWv60uq6SoskPJM8i) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Explodiert](https://open.spotify.com/album/6oT5hbuwAZBggkH8WlzyFb) | 2:38 | 2025-02-27 | 2025-11-15 |
 | [Fast Cars & Superstars](https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa) | [Cristian Marchi](https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW), [Reverend Haus](https://open.spotify.com/artist/3mm99b8u85c3cbeel8FDAJ) | [Fast Cars & Superstars](https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR) | 1:58 | 2025-03-10 |  |
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-28 | 2025-09-14 |
 | [Feels Like \(La La La\)](https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Feels Like \(La La La\)](https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn) | 2:48 | 2024-02-01 | 2024-03-07 |
@@ -258,6 +258,7 @@
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-25 | 2023-10-18 |
 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 | 2023-08-18 | 2024-05-11 |
 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2024-02-16 | 2025-07-29 |
+| [Schwör auf Bass](https://open.spotify.com/track/3X0RrUEha3BLxiL3uNoVFd) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [$ONO$ CLIQ](https://open.spotify.com/artist/2p0GGGDaJg2xsfwSFBfxWI) | [Schwör auf Bass](https://open.spotify.com/album/3NJq5vt04deu9FKSR7Oyt8) | 2:11 | 2025-11-14 |  |
 | [Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Themba](https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Secco Maracuja \(feat\. Themba\)](https://open.spotify.com/album/0U9DOcHfw3mKkWbh7TCtCH) | 2:39 | 2023-07-21 | 2023-09-08 |
 | [Sehnsucht](https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ) | 2:32 | 2023-07-21 | 2025-07-02 |
 | [Semers Sirenen](https://open.spotify.com/track/5Hcp4HSrACxWkqoMx6eaBc) | [Mara Menace](https://open.spotify.com/artist/0gHeuBqqupAKjuSTsutl0g), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Semers Sirenen](https://open.spotify.com/album/5ES7185TkLyhAuiLOdvnGb) | 6:18 | 2023-12-28 | 2024-01-02 |

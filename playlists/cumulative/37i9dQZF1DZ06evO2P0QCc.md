@@ -4,7 +4,7 @@
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 34 min
+91 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 | 2024-02-15 |  |
 | [Luna](https://open.spotify.com/track/0coZWcSFpUwrkimzmiUfVM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:08 | 2023-01-14 | 2024-11-03 |
 | [Luna \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Luna \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW) | 5:21 | 2024-11-04 |  |
+| [Mala Copa](https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:39 | 2025-11-15 |  |
 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2023-01-14 |  |
 | [Me Estoy Enamorando \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/7HXcDZtdxoG2MwH8mJ03gh) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Me Estoy Enamorando \(Sonando desde el Auditorio Nacional\)](https://open.spotify.com/album/7uOVn6vtCUGhz89nvD9nL4) | 3:50 | 2025-09-28 | 2025-10-25 |
 | [My Girl](https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 2:52 | 2023-01-14 |  |
@@ -85,7 +86,7 @@
 | [Soy Soledad](https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lng Sht](https://open.spotify.com/artist/7quTxXHwjedVPXjeTbnXmN) | [Soy Soledad](https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8) | 3:28 | 2023-01-14 | 2025-08-19 |
 | [Tan Grande](https://open.spotify.com/track/64KFKG9Wb7nY3PFNbTa0Wm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Tan Grande](https://open.spotify.com/album/3OMP46WlIEONRAwGym5Rcv) | 2:50 | 2023-01-14 | 2023-09-10 |
 | [Taxi driver](https://open.spotify.com/track/4DALnqsoxNqnomaniIhV1J) | [Shandon](https://open.spotify.com/artist/0Oi4nBngFfBMbLBIyrqQFn), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Best Of 25 Years On The Road](https://open.spotify.com/album/5G8yBKYcfpEkF3SZmRhdaQ) | 2:15 | 2023-01-14 | 2023-03-14 |
-| [Te Faltó Corazón \- Versión Bolero](https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:27 | 2023-09-15 |  |
+| [Te Faltó Corazón \- Versión Bolero](https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:27 | 2023-09-15 | 2025-11-15 |
 | [Te Fuiste](https://open.spotify.com/track/4PPbyWTRR5L9KonF6jqwOs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 2:28 | 2023-01-14 | 2023-08-08 |
 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 | 2023-01-14 |  |
 | [Te He Prometido \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/5T3mQQfht90nVR50uq294L) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Te He Prometido \(Sonando desde el Auditorio Nacional\)](https://open.spotify.com/album/4hCMqhAHf1FoV7PD7BhZRe) | 2:56 | 2025-08-16 | 2025-09-12 |

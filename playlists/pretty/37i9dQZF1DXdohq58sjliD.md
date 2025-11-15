@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain]
 
 > Twenty years\. Two people\. Listen to the music from and inspired by One Day, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,680 likes - 82 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,696 likes - 82 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

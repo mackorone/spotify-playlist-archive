@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-513 songs - 1 day 8 hr 29 min
+515 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,9 @@
 | [Albatross](https://open.spotify.com/track/6IpolXK6gnVn0c6ilWI2QX) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Albatross](https://open.spotify.com/album/4w4oqNyTpCFFZOQ92mbGn5) | 3:26 | 2024-05-10 | 2024-05-25 |
 | [All Hell For A Basement](https://open.spotify.com/track/221OWzoN7cDlxo5fenxawk) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Brothers And Sisters, Are You Ready?](https://open.spotify.com/album/3frowGksCCfhu5gdxQI7J2) | 4:00 | 2022-05-02 | 2022-07-29 |
 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 | 2023-05-18 | 2024-04-19 |
-| [All Is Well](https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [All Is Well](https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka) | 3:15 | 2025-09-05 |  |
+| [All Is Well](https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [All Is Well](https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka) | 3:15 | 2025-09-05 | 2025-11-15 |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2024-04-19 | 2024-07-06 |
-| [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 | 2025-09-05 |  |
+| [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 | 2025-09-05 | 2025-11-15 |
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 | 2025-08-22 |
 | [American Psycho](https://open.spotify.com/track/43Uo8TI07snIf8GaS43F7U) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/5WZLwoDpwywF00FzAhJGQC) | 3:24 | 2022-05-02 | 2022-07-29 |
 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 | 2022-05-02 | 2023-02-07 |
@@ -343,6 +343,7 @@
 | [Repeat](https://open.spotify.com/track/2dEfLths5RiTYBF2hEquOc) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Repeat / After This / Certain Father / Hold](https://open.spotify.com/album/2RK1vrihmzCjTUw7BvWgSH) | 4:30 | 2024-04-19 | 2024-05-03 |
 | [Resurrection](https://open.spotify.com/track/5dZtB0CbdSo0r0SDQTZ9Oq) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Machine Punch Through: The Singles Collection](https://open.spotify.com/album/48qfe5GUaW0l0UoKQisehK) | 4:00 | 2022-05-02 | 2022-06-10 |
 | [Ride](https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:49 | 2024-04-19 |  |
+| [Right Hand Man](https://open.spotify.com/track/7y55jveNYMyVqBQNRUdZme) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Right Hand Man](https://open.spotify.com/album/7M2wRKrfmi8pyjrqdFR8Ih) | 3:25 | 2025-11-14 |  |
 | [Ripple Effect](https://open.spotify.com/track/1M7qITm14RSN4md3l9ZPIS) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Hôtel de Ville](https://open.spotify.com/album/4tSyMoAffvFeEEzIG3cJ5E) | 3:22 | 2022-09-10 | 2022-09-15 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-09-10 | 2022-09-15 |
 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 | 2024-04-19 |  |
@@ -372,6 +373,7 @@
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-19 |  |
 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 | 2022-05-02 | 2023-05-19 |
 | [Silver](https://open.spotify.com/track/4VFHfPzSlpvTrLkGYwl921) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA) | 4:15 | 2022-05-02 | 2022-07-08 |
+| [Silver KG](https://open.spotify.com/track/2wirE8KUOJ2cuSK9jE7fRd) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders \(Deluxe\)](https://open.spotify.com/album/5UdubCTBDo5bcT5La0agOb) | 2:18 | 2025-11-14 |  |
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-01-12 | 2024-04-19 |
 | [Sinking Like A Sunset](https://open.spotify.com/track/25uc621mjv2Qh02hwYxUvM) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5PMU9v49i3qHuJEb9RVSmU) | 5:46 | 2022-05-02 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 3:51 | 2023-09-29 | 2023-12-08 |

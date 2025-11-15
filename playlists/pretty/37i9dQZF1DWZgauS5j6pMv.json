@@ -1,13 +1,37 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 347967,
+  "num_followers": 347991,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5AHWQk/C0E3lTOQLDnAzwb5x5n",
+  "snapshot_id": "AAAAAEuk4iWXQ/NotZdTYs/RU/4/wyiv",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "Hypnotic Night",
+        "url": "https://open.spotify.com/album/1JNKtfVGZwigUkReb77vym"
+      },
+      "artists": [
+        {
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 217105,
+      "name": "Hypnotic Night",
+      "url": "https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV"
+    },
     {
       "added_at": "2025-11-07 05:00:41",
       "album": {
@@ -1347,22 +1371,6 @@
       "duration_ms": 249926,
       "name": "How You Feel",
       "url": "https://open.spotify.com/track/5IFAFA7xKr665r4KguLmkn"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Don't Worry 'Bout It",
-        "url": "https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Don't Worry 'Bout It",
-      "url": "https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx"
     },
     {
       "added_at": "2024-04-12 04:01:00",

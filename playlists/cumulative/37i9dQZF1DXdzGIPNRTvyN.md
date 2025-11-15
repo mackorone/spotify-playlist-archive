@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-369 songs - 17 hr 28 min
+371 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-01-24 | 2024-11-29 |
 | [Casuarina Calm](https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Casuarina Calm](https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9) | 2:55 | 2023-07-28 |  |
 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 | 2023-03-03 | 2025-02-11 |
+| [Celestial Rain](https://open.spotify.com/track/1IpcYkKpZAO6yJWgKsn2XN) | [Pure Purposes](https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY) | [Celestial Rain](https://open.spotify.com/album/460QKUqdTezlgttDkMwMtT) | 2:48 | 2025-10-24 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-01-24 | 2024-04-02 |
 | [Choir of Clouds](https://open.spotify.com/track/74Kx7ng4EeQZC5tdh34z5F) | [The Peace Within](https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i) | [Choir of Clouds](https://open.spotify.com/album/2nsuKSa1NLfyaikTpmlpIy) | 2:53 | 2025-04-29 | 2025-07-02 |
 | [Circular](https://open.spotify.com/track/3Mt19LG4M02KsJGqNkqgnL) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Circular](https://open.spotify.com/album/3YAXcOJ0uBYgmYMb6ylpSp) | 3:26 | 2023-12-18 |  |
@@ -67,6 +68,7 @@
 | [Clarity](https://open.spotify.com/track/06H8kGJm3IIGOUXacNVWLi) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Clarity](https://open.spotify.com/album/3Hfd3gaDa5zt0gqmZZzyqQ) | 2:57 | 2023-12-18 | 2025-04-30 |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2023-12-18 | 2025-04-02 |
 | [Close To Nature](https://open.spotify.com/track/70EsGjutJDUTtPuERSHOlv) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Close To Nature](https://open.spotify.com/album/1mMXcypi1O7IqShfiy4oFC) | 2:52 | 2025-07-01 |  |
+| [Close to Water](https://open.spotify.com/track/2z5g5z7QdMvp34pu7jH1D2) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Close to Water](https://open.spotify.com/album/3f5uu2xXDX2yEkN5BTYKXO) | 2:58 | 2025-10-24 |  |
 | [Close Your Eyes](https://open.spotify.com/track/2bwDS1XzL0yNHyMEZxbRsI) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Close Your Eyes](https://open.spotify.com/album/40951TFlj3CPsvl1Xtx8Wa) | 3:16 | 2023-03-13 | 2024-12-05 |
 | [Columbine](https://open.spotify.com/track/3rz7MWh1x9HIw8D4pXAFJy) | [L'air](https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd) | [Columbine](https://open.spotify.com/album/1T2627bpX1w6NDCGk86amb) | 2:50 | 2024-06-03 | 2024-10-04 |
 | [Conscious Jorney](https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Conscious Jorney](https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3) | 2:43 | 2023-04-24 | 2025-04-02 |
@@ -276,7 +278,7 @@
 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 |  |
 | [Quiet Stars](https://open.spotify.com/track/7h3QYG1cPw7onxrDxnaYEI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Quiet Stars](https://open.spotify.com/album/6kheDSIxcjPBu2No01PQmH) | 2:02 | 2023-04-24 |  |
 | [Quiet Water](https://open.spotify.com/track/6Sed7lQ9q1Iu87ew0WQlLl) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Quiet Water](https://open.spotify.com/album/1mqXXd4yMsXMPvHnbhkkzx) | 3:23 | 2023-12-18 |  |
-| [Rain Dew](https://open.spotify.com/track/2muRqaytFxVDmrdAPsHNmi) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Rain Dew](https://open.spotify.com/album/0eN4xGek46r1K2sv123tvP) | 2:48 | 2024-07-16 |  |
+| [Rain Dew](https://open.spotify.com/track/2muRqaytFxVDmrdAPsHNmi) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Rain Dew](https://open.spotify.com/album/0eN4xGek46r1K2sv123tvP) | 2:48 | 2024-07-16 | 2025-11-15 |
 | [Rain Journey](https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Rain Journey](https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf) | 3:12 | 2024-04-01 |  |
 | [Rain Therapy](https://open.spotify.com/track/05i3bG4mz8nD21c2roVStX) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Rain Therapy](https://open.spotify.com/album/6Q2V4aSZrco28N0df5OMe7) | 2:23 | 2025-03-14 |  |
 | [Recovery](https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Recovery](https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F) | 3:12 | 2023-10-26 | 2024-07-17 |
@@ -287,7 +289,7 @@
 | [Restituere](https://open.spotify.com/track/7lavIExZm0TRGe8Cco9d4h) | [Takiyo](https://open.spotify.com/artist/0NZ4KsYEIFxpEP7Go3gvI1) | [Restituere](https://open.spotify.com/album/3xca1inY0KAcdo2SpqpydC) | 2:51 | 2024-04-01 |  |
 | [Restore](https://open.spotify.com/track/3k8YRCxJEjGNLQUpLMhm31) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Restore](https://open.spotify.com/album/17pKoNnfW6k4AdvpEgLtgk) | 3:14 | 2025-02-10 |  |
 | [Retrograde](https://open.spotify.com/track/545OJfzJ8JSXsp9maoiuIB) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Retrograde](https://open.spotify.com/album/4tqFubjBcNsN4EL8EgaZE4) | 2:48 | 2024-03-01 |  |
-| [Reverie](https://open.spotify.com/track/1FqAtrmpCR97Eg0GJHufaV) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Reverie](https://open.spotify.com/album/4bu1PMgzPwk8mkmheIJe2v) | 3:03 | 2024-07-16 |  |
+| [Reverie](https://open.spotify.com/track/1FqAtrmpCR97Eg0GJHufaV) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Reverie](https://open.spotify.com/album/4bu1PMgzPwk8mkmheIJe2v) | 3:03 | 2024-07-16 | 2025-11-15 |
 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 | 2023-01-24 | 2024-07-17 |
 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 |  |
 | [River Hymn](https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [River Hymn](https://open.spotify.com/album/1JeUE7z5MzGdlRVSeWcMLv) | 2:56 | 2024-03-05 | 2025-07-02 |

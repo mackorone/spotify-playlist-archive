@@ -183,6 +183,36 @@
     },
     {
       "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342626,
+      "name": "Boreas",
+      "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
+    },
+    {
+      "album": {
         "name": "Brahms: Double Concerto, Op. 102 & Clarinet Quintet, Op. 115",
         "url": "https://open.spotify.com/album/7sWossih935oGlyNqT9Mgv"
       },
@@ -348,7 +378,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 206586,
       "name": "Chi mai",
       "url": "https://open.spotify.com/track/4NyVobuooQ1CGec0vSGE5K"

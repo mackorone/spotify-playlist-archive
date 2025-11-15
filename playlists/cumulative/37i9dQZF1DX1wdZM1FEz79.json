@@ -4807,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu"
+      },
+      "artists": [
+        {
+          "name": "Son Hyeeun",
+          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
+    },
+    {
+      "album": {
         "name": "joe",
         "url": "https://open.spotify.com/album/0zNgEt5hOx9QdyteuMjw7G"
       },
@@ -7466,7 +7484,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 224189,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"

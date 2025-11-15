@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAAAoFiZFGCRWsq9Ma/zNOfpO",
+  "snapshot_id": "aRUfgAAAAAAPBY0hNm2/au7NHj2IJCA7",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightales",
-        "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
-      },
-      "artists": [
-        {
-          "name": "Redfield",
-          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "Nightales",
-      "url": "https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 221427,
       "name": "For Love",
       "url": "https://open.spotify.com/track/5AuS594msbacnVERxzdk7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightales",
+        "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
+      },
+      "artists": [
+        {
+          "name": "Redfield",
+          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 195384,
+      "name": "Nightales",
+      "url": "https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Release I Need (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Release I Need (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/380Y40ZOSIWlIWEWjalnkQ"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 149786,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/704qdWVSyxrFhoGTB0QWag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Release I Need (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Release I Need (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Yes",
-        "url": "https://open.spotify.com/album/5w2EftFnoXlJf6LCTa3hdf"
-      },
-      "artists": [
-        {
-          "name": "Krystal Roxx",
-          "url": "https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 210303,
-      "name": "Say Yes - Radio Edit",
-      "url": "https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 179012,
       "name": "Can U Handle It",
       "url": "https://open.spotify.com/track/0JcsxWMvZYbUhksIHScFB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/5w2EftFnoXlJf6LCTa3hdf"
+      },
+      "artists": [
+        {
+          "name": "Krystal Roxx",
+          "url": "https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 210303,
+      "name": "Say Yes - Radio Edit",
+      "url": "https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from The Belair Lip Bombs
+> Explore all things indie rock right now\. Featuring music from mercury
 
-2,067 songs - 4 day 20 hr 56 min
+2,073 songs - 4 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [A.P.C.'s](https://open.spotify.com/track/3ioSmKkBscDzLiQ8HFRyYL) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [A.P.C.'s](https://open.spotify.com/album/0CKzLhTqCYXlTXkErHCeNl) | 3:38 | 2022-06-10 | 2022-07-16 |
 | [aahdjk](https://open.spotify.com/track/2MTHVXbxTps51ayzTRZ9oU) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [aahdjk](https://open.spotify.com/album/0OxUPZM0Up32kbvSe65Zts) | 2:51 | 2023-07-28 | 2023-09-09 |
 | [Abigail](https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Abigail](https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5) | 3:07 | 2024-10-25 | 2025-03-08 |
+| [Above That Water](https://open.spotify.com/track/61Or34KavtarmygSGHNPL4) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Steadyrock Dreamstate](https://open.spotify.com/album/69v92vhgBDdsuMjOYK1UDN) | 3:01 | 2025-11-14 |  |
 | [Achilles And](https://open.spotify.com/track/74yoALVa8n1cOi4zdAZQ0t) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Achilles And](https://open.spotify.com/album/17WDuxWOOaKgoJIDbR4gd4) | 4:14 | 2025-05-23 | 2025-09-20 |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-03 | 2023-03-04 |
 | [Ada](https://open.spotify.com/track/2vDQzwgwucNg6Iyts3okJ8) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Ada](https://open.spotify.com/album/6ZnjyMbIWQmCiQMVMRf4tF) | 2:39 | 2021-08-27 | 2022-06-09 |
@@ -203,6 +204,7 @@
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-06-28 | 2024-11-16 |
 | [Ben Franklin](https://open.spotify.com/track/5epwtR5dDDRzxdD7AGorzX) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ben Franklin](https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O) | 3:01 | 2021-10-22 | 2022-04-12 |
 | [Bend](https://open.spotify.com/track/1a8q6gXy8Dl5pSEWG69foi) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bend](https://open.spotify.com/album/78irEHjKQcrTg6wszSyY83) | 3:50 | 2023-12-01 | 2024-01-20 |
+| [Berlin TV Tower](https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Another Picture](https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp) | 3:16 | 2025-11-14 |  |
 | [best friend](https://open.spotify.com/track/3CuMLuNAPPl1jNrOuSImuU) | [Small Forward](https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh) | [best friend](https://open.spotify.com/album/1PoLUKiOuc1DLqoYyTz3Zx) | 2:59 | 2023-10-06 | 2024-02-10 |
 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 | 2023-04-07 | 2023-05-20 |
 | [Best of It](https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Best of It](https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v) | 2:08 | 2022-10-21 | 2022-10-29 |
@@ -818,6 +820,7 @@
 | [Heartthrob](https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Heartthrob](https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP) | 3:13 | 2025-05-02 | 2025-09-20 |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-07-19 | 2022-05-26 |
 | [HEAVEN](https://open.spotify.com/track/4oYnD8T0DQKbwXzsXbGC0Z) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [HEAVEN](https://open.spotify.com/album/5Ktg5akKwCg1uP0XJ9nthC) | 4:18 | 2024-07-12 | 2024-10-05 |
+| [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 | 2025-11-14 |  |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-23 | 2025-01-11 |
 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 | 2022-11-11 | 2022-12-18 |
 | [Hell Of A Ride](https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/41DyNXpwpfDghWXGM6TMC3) | 2:59 | 2023-07-07 | 2023-11-18 |
@@ -871,6 +874,7 @@
 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 | 2024-05-17 | 2024-07-19 |
 | [howling @ the moon](https://open.spotify.com/track/2BxiLfiKCxyOqG7FMXWlm2) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [howling @ the moon](https://open.spotify.com/album/3dkTnNmHYTOZKET3JN7EI5) | 1:43 | 2022-12-02 | 2022-12-08 |
 | [Hug From a Dinosaur](https://open.spotify.com/track/5wUVDoL5SjetHRlehOOxQJ) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Hug From a Dinosaur](https://open.spotify.com/album/6IE9ttJcBA7lltBVY0unsY) | 3:18 | 2021-06-18 | 2022-04-18 |
+| [Hula Girl](https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)](https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv) | 4:04 | 2025-11-14 |  |
 | [Hunt You Down](https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:32 | 2024-01-19 | 2024-03-02 |
 | [Huperzine Dreams](https://open.spotify.com/track/3BhFoNMOqS7QZ3vhvxXlAj) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Huperzine Dreams](https://open.spotify.com/album/2bZCSjKfyQKZ3bP3z8eQ25) | 3:17 | 2024-03-29 | 2024-06-22 |
 | [Hurting Kind](https://open.spotify.com/track/3uppnQKDEQkNUqRSSEXKfM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Hurting Kind](https://open.spotify.com/album/0q9OGda1zYFeTDKqEfa4HR) | 3:40 | 2021-06-25 | 2022-06-11 |
@@ -1306,6 +1310,7 @@
 | [Nobody More](https://open.spotify.com/track/2H921QdeSvA1bBLVTA5ljH) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Nobody More](https://open.spotify.com/album/1vXsXI0kvOtyJ1DZQeqZf1) | 2:55 | 2021-08-13 | 2022-02-05 |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-16 | 2024-11-23 |
 | [Not Enough](https://open.spotify.com/track/1RiLntZOALVZfwFnsC3JlF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:44 | 2023-01-27 | 2023-04-09 |
+| [Not Sacred](https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky \(Deluxe\)](https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5) | 3:46 | 2025-11-14 |  |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-30 | 2024-04-13 |
 | [Not Sure How This Ends](https://open.spotify.com/track/41In7wBGR95EZbSjqVAQy0) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Not Sure How This Ends](https://open.spotify.com/album/2uc7M2vFAjY3jNovTI7YAu) | 4:05 | 2022-06-17 | 2022-07-30 |
 | [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-04-01 | 2022-04-05 |
@@ -1416,6 +1421,7 @@
 | [Pool House](https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:29 | 2022-03-04 | 2022-06-11 |
 | [Poor Things \(feat\. Ben Kweller\)](https://open.spotify.com/track/0G5bjovI6eG4dUzMozaw6L) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Poor Things \(feat\. Ben Kweller\)](https://open.spotify.com/album/2yBpDeK30wB65LDQzAqlU9) | 3:30 | 2025-09-19 |  |
 | [poppin](https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [poppin](https://open.spotify.com/album/2Z5ksNiLa2fNEi7zWWt7Z5) | 3:49 | 2021-10-02 | 2022-02-09 |
+| [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Ripe Fruit Rots and Falls](https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW) | 4:00 | 2025-11-14 |  |
 | [Portrait](https://open.spotify.com/track/373VRQ3zCZuABm0SSZ8OY4) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Portrait](https://open.spotify.com/album/7pB0gcQfxapoGF6Deslljs) | 3:02 | 2023-12-29 | 2024-03-02 |
 | [Portrait](https://open.spotify.com/track/0jN6VtQl7aeukpU3pcPuYH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Portrait](https://open.spotify.com/album/3gXFRkeKBkmuwMqUerFdyy) | 3:02 | 2023-12-29 | 2024-01-26 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-12 | 2023-08-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover: Raga",
+  "description": "Best of Desi Hip-Hop! Cover: Emiway Bantai",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 234000,
       "name": "Age of Aquarius - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/7rgN24T40e5mMBUXiKNmLn"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 196930,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/6mrMRoMoW7lubrjce5bjJ1"
@@ -3023,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "FTSTTS",
+        "url": "https://open.spotify.com/album/3MKUHpsO0O5dJjwc8ZG9AL"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189272,
+      "name": "Dubai Company",
+      "url": "https://open.spotify.com/track/7gD3MRqZKj2Fx1eMxdRrjt"
+    },
+    {
+      "album": {
         "name": "Dupatta Drill",
         "url": "https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD"
       },
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 235562,
       "name": "Exes",
       "url": "https://open.spotify.com/track/2hDjH7ZzGAoe5z9cSBDnBu"
@@ -4327,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/3BkxgZiVPDqOqsYMk4ZgCo"
+      },
+      "artists": [
+        {
+          "name": "Shah Rule",
+          "url": "https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196650,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/5xxJVfoIR2FEkgZmCgtn0U"
+    },
+    {
+      "album": {
         "name": "IDK",
         "url": "https://open.spotify.com/album/0YxyQZGWryg9pq0ScnRLh0"
       },
@@ -4968,6 +5004,32 @@
       "duration_ms": 168571,
       "name": "Kheench Maari",
       "url": "https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd"
+    },
+    {
+      "album": {
+        "name": "Khelesi",
+        "url": "https://open.spotify.com/album/1zyNnlfKylU19YRRUfAQVc"
+      },
+      "artists": [
+        {
+          "name": "Lonekat",
+          "url": "https://open.spotify.com/artist/7iKFLjQHYD1FKmd2IzUsuX"
+        },
+        {
+          "name": "Faizan",
+          "url": "https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x"
+        },
+        {
+          "name": "Aman Gupta",
+          "url": "https://open.spotify.com/artist/7d94ndaOh8IqcOsiH1vq9S"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Khelesi",
+      "url": "https://open.spotify.com/track/5MlS0H6R0QvTFxvhXcTVVo"
     },
     {
       "album": {

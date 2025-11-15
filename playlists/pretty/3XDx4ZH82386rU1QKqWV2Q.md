@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,016,818 likes - 125 songs - 5 hr 24 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,016,737 likes - 125 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 80 | [Blind Drive](https://open.spotify.com/track/0nyGQbo1AeXDdLbVRTXeAf) | [Neon Witch](https://open.spotify.com/artist/5Lcd7SM3ngbUDVJpzhY46O) | [Mirror of the Night](https://open.spotify.com/album/4DDHwOUaikAICvAp2TgAio) | 3:37 |
 | 81 | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/track/3BkpvJpaE7LCrrCiusfhsj) | [Cupid Ruszo](https://open.spotify.com/artist/4ra8KaHMx0jp4rI5RICw3n) | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/album/6TQlpFMlpJgc7jw7cexz5R) | 2:17 |
 | 82 | [Blow With The Hoe](https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Blow With The Hoe](https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk) | 1:31 |
-| 83 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 |
+| 83 | [Судно \(Борис Рыжий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 |
 | 84 | [NIGHT CITY](https://open.spotify.com/track/3YaLFZ52OqM3iNwQvnxThf) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4), [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [NIGHT CITY](https://open.spotify.com/album/2gOgXmUqCOBquQnOagcgDU) | 1:56 |
 | 85 | [Wicked](https://open.spotify.com/track/1fW1gnetRpDioNhA3MDWfc) | [Klown](https://open.spotify.com/artist/55hBReDi6B5vYMvwxBKaFu) | [Wicked](https://open.spotify.com/album/77WA14mkRtfnoXW2ERYyUw) | 3:27 |
 | 86 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |

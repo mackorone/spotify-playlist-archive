@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Asim Azhar, JANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,201 likes - 94 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,334 likes - 94 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 93 | [Ranjha](https://open.spotify.com/track/7xbKboQNFZR3A4unBPmYaJ) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Ranjha](https://open.spotify.com/album/4qC2NrokZ3iEVMJOdcuXFX) | 2:46 |
 | 94 | [MF Gabhru!](https://open.spotify.com/track/5KLohKNLMLibqnG0FdmbvX) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:20 |
 
-Snapshot ID: `AAAAAAST/TC64N4Vx08gRtcLoPP/ybh2`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

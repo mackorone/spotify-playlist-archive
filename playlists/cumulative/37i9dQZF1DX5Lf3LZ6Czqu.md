@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-151 songs - 11 hr 29 min
+152 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Abbot Kinney](https://open.spotify.com/track/39bETklNLbxywBZOTFTkYj) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Abbot Kinney](https://open.spotify.com/album/44FKxAgwdWEYEshZ4sAMKx) | 3:13 | 2021-05-04 |  |
 | [Abbot Kinney](https://open.spotify.com/track/6AwKhdLcw7zhE8UZYlZRf6) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Dreamcatcher](https://open.spotify.com/album/4FdVcs2flxUfuNNhEz7Xkj) | 3:13 | 2021-05-04 | 2024-04-19 |
 | [Action Boyz](https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo) | [Guardian Spirits of the Quantum Multiverse](https://open.spotify.com/album/5BX8DiVw5Um6m93W6ZvuO5) | 3:08 | 2022-06-10 |  |
-| [Alchemy](https://open.spotify.com/track/3WfjYZbJiVpdjPdeduMLFX) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine](https://open.spotify.com/album/5Xxlrt2y3fLjmZM3gutv0E) | 5:06 | 2021-05-04 |  |
+| [Alchemy](https://open.spotify.com/track/3WfjYZbJiVpdjPdeduMLFX) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine](https://open.spotify.com/album/5Xxlrt2y3fLjmZM3gutv0E) | 5:06 | 2021-05-04 | 2025-11-15 |
 | [Alive and Living](https://open.spotify.com/track/3cgbytw3M9Lse9wwdPiuBu) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [Alive and Living](https://open.spotify.com/album/0G9yeCMh4JauJK82odWRq9) | 3:36 | 2022-07-29 |  |
 | [Android](https://open.spotify.com/track/1Fu3mNtJYa8wroSw6AsuCd) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas) | [Dark Matter](https://open.spotify.com/album/7iSbgvQqfpMRA83dc8nUTl) | 5:47 | 2021-05-04 | 2022-10-12 |
 | [Antisocialmedia](https://open.spotify.com/track/0fDrAO5XentyidBRliT6o4) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:48 | 2021-05-04 |  |
@@ -144,6 +144,7 @@
 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 | 2021-05-04 | 2024-01-05 |
 | [Time After Time](https://open.spotify.com/track/2UmvWFtLg7iEefyhOqdhbD) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Can I Tell You Something?](https://open.spotify.com/album/7vjM1OqfUbiFxXWEfmtodA) | 5:38 | 2024-07-19 | 2024-12-14 |
 | [Together](https://open.spotify.com/track/23R5kepMliUvCaq5hsug04) | [Sterfry](https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK), [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Together](https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4) | 2:47 | 2022-11-11 |  |
+| [Triangulation \(feat\. John Petrucci\)](https://open.spotify.com/track/2MoGL0GCj3NiaAZB9a5pHi) | [Steve Morse Band](https://open.spotify.com/artist/4RvfPm4uzNgEzeAxBOAQZK), [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Triangulation](https://open.spotify.com/album/56G7p9w4Ob1AQMq8ltWqRE) | 4:50 | 2025-11-14 |  |
 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 | 2021-05-04 |  |
 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 | 2021-05-04 | 2024-04-19 |
 | [U R the 1!](https://open.spotify.com/track/7lfmDk9ZLPJHSFtmjpDdc5) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [U R the 1!](https://open.spotify.com/album/0uTLJAXgXuNa2WvZSb9cf9) | 3:36 | 2023-01-27 | 2023-03-18 |

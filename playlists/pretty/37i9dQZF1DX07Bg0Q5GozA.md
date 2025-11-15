@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Robyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,567 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,599 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 5 | [Someone Else is Calling](https://open.spotify.com/track/4z2RUWtRja1oXP9KyE599Q) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Hips & Lips](https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q) | [Someone Else Is Calling](https://open.spotify.com/album/7nwvtVqd8zTrE231FC9dCN) | 5:22 |
 | 6 | [Fallen Cloud](https://open.spotify.com/track/2eYz2ZEoHun4Lepj7nBM3S) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Fallen Cloud](https://open.spotify.com/album/6MonCuHwaHWT2dXu5PwMOK) | 4:36 |
 | 7 | [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 |
-| 8 | [Losing](https://open.spotify.com/track/1oABrqtcWkHoUkvbRoZSwj) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [](https://open.spotify.com/album/null) | 4:18 |
+| 8 | [Losing](https://open.spotify.com/track/1oABrqtcWkHoUkvbRoZSwj) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Countless Feelings But So Few Words](https://open.spotify.com/album/0D7DpeX32sayINlBIiAmk6) | 4:18 |
 | 9 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 10 | [Smash](https://open.spotify.com/track/2b3tQEW0ikhW3aZ0TZhpmB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Smash](https://open.spotify.com/album/4XRDTdYBlSa1skS7ZewQ5x) | 3:16 |
 | 11 | [Golden Cage \- Fred Falke Remix](https://open.spotify.com/track/19XDBETDLZ2JwCUSjzN8DL) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Golden Cage \(Fred Falke Remix\)](https://open.spotify.com/album/6vwpM5BFTKL6R6bVWzr2g1) | 8:18 |
 | 12 | [Hongkong House](https://open.spotify.com/track/3JhZn4t8tXyS8kXQRwh7me) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg), [Liu’s Family](https://open.spotify.com/artist/04MXqZRJfWq0DwSe3s0sTW) | [Hongkong House](https://open.spotify.com/album/4GxSsB6TWmHpJ7alQ58tGT) | 3:05 |
-| 13 | [CONTROL](https://open.spotify.com/track/6fFjBfWBsvqwOAqMeJo3zh) | [Aaron Ahrends](https://open.spotify.com/artist/5LYOADaXOeHCQIbjJAYEFn) | [](https://open.spotify.com/album/null) | 5:26 |
+| 13 | [CONTROL](https://open.spotify.com/track/6fFjBfWBsvqwOAqMeJo3zh) | [Aaron Ahrends](https://open.spotify.com/artist/5LYOADaXOeHCQIbjJAYEFn) | [CONTROL](https://open.spotify.com/album/1ek2oxyyfLQ4FE8hJ3SGHD) | 5:26 |
 | 14 | [Sirens](https://open.spotify.com/track/7qswPWI3L8gFJ9xVYm9Po8) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Sirens](https://open.spotify.com/album/4sP9Ns0mNNH64XDWRIylTp) | 3:22 |
 | 15 | [Hypnosis](https://open.spotify.com/track/03JGl2Yz9dBE2XSUuVgAgk) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Hypnosis](https://open.spotify.com/album/6ubqFqjORrgU1hLvhRwecV) | 3:54 |
 | 16 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |

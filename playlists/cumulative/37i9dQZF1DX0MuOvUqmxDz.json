@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the Holiday Season with your favorite country artists. Cover: Jordan Davis",
+  "description": "Celebrate the Holiday Season with your favorite country artists. Cover: Luke Bryan and Ella Langley",
   "name": "Country Christmas",
   "tracks": [
     {
@@ -1486,6 +1486,24 @@
       "duration_ms": 219339,
       "name": "Counting Down Christmas",
       "url": "https://open.spotify.com/track/1UfxYzE8v24SXw4uo96gz3"
+    },
+    {
+      "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1CHaVLVHPxDrrVANgwxsts"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230299,
+      "name": "Counting Down The Days",
+      "url": "https://open.spotify.com/track/7cbOw6mnOjWKnvLWifQEjA"
     },
     {
       "album": {
@@ -6272,6 +6290,28 @@
       "duration_ms": 159826,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/5rIyyxoU1LzraNmFu5FpdR"
+    },
+    {
+      "album": {
+        "name": "Luke Bryan Christmas",
+        "url": "https://open.spotify.com/album/02AYiUqhYmz5cyH83yfGfI"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129894,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2NvEi1sJUw2YrIoInhQ1Ug"
     },
     {
       "album": {

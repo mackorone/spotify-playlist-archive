@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-495 songs - 1 day 10 hr 56 min
+496 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Karakai](https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Karakai](https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w) | 4:02 | 2022-10-20 | 2024-04-19 |
 | [kid feat\. Yuga](https://open.spotify.com/track/7GMbDO1vB3nbUrPXnYeqkA) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:13 | 2022-10-20 | 2022-11-09 |
 | [Kimi to Watashi no Uta \(featuring LIBERA\)](https://open.spotify.com/track/4lyt57nzowtyz4NvQ3Dhq5) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE), [LIBERA](https://open.spotify.com/artist/0wHSkXXRiwrmE9MzF8e4sK) | [Kimi to Watashi no Uta \(featuring LIBERA\)](https://open.spotify.com/album/5RWz3Rndy12YnYjxsiXlx4) | 5:01 | 2024-01-10 | 2024-01-17 |
+| [kiss](https://open.spotify.com/track/3qUdY6w3ovJI9juqsqEXOg) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [kiss](https://open.spotify.com/album/1ceWSCpDoeJNHCnsR2RJyB) | 5:21 | 2025-11-11 |  |
 | [Kita wing \-CLASSIC\-](https://open.spotify.com/track/0bIsJCMtFLe7VcOFJukUJ8) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [50th Anniversary Special A Tribute of Hayashi Tetsuji \- Saudade \-](https://open.spotify.com/album/1IL41vFj4phgdUsajpKFa1) | 6:22 | 2023-11-07 | 2023-12-13 |
 | [kyokou](https://open.spotify.com/track/6bc4C84YxaMQNJw3O2AlUr) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 4:38 | 2023-04-20 | 2023-05-31 |
 | [La Lune](https://open.spotify.com/track/5bn0m1qjFbmYAI0imnwFPL) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [La Lune](https://open.spotify.com/album/2DwIjTWuPaPwlbsZMaegPX) | 2:13 | 2023-07-18 | 2023-08-09 |
@@ -427,7 +428,7 @@
 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 | 2022-12-21 |
 | [景色一空](https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu) | 4:47 | 2023-10-10 | 2023-12-02 |
 | [曇り空でも \- feat.YeYe](https://open.spotify.com/track/1rh048LB1i4bytO960UOel) | [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [曇り空でも \(feat.YeYe\)](https://open.spotify.com/album/6obthFh30xTNrUocZM4tNO) | 4:23 | 2023-05-16 | 2023-05-24 |
-| [最後のニュース \- Remastered 2018](https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [ハンサムボーイ](https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz) | 3:55 | 2022-11-08 |  |
+| [最後のニュース \- Remastered 2018](https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [ハンサムボーイ](https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz) | 3:55 | 2022-11-08 | 2025-11-15 |
 | [月の丘](https://open.spotify.com/track/3J0dvsc85QwHPtGQG4JSWJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [月の丘](https://open.spotify.com/album/4jQS8RDkLzyD2VYBTa8pJk) | 3:26 | 2024-03-05 | 2024-10-13 |
 | [朝には星を辿って](https://open.spotify.com/track/7yPccSzxiiibmQZ9CSTX0B) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [スタジオ地図 Music Journey Vol\. 2 \- 高木正勝 うたの時間](https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4) | 6:32 | 2025-05-22 | 2025-06-15 |
 | [朝まだき](https://open.spotify.com/track/2nOOogBHzumPaaacgXt0jQ) | [haruyoi](https://open.spotify.com/artist/2yS0IP11ovUxJixmToidBi) | [朝まだき](https://open.spotify.com/album/0BxMvFnUEqIcleuLcJnHzb) | 4:56 | 2023-10-10 | 2023-10-25 |

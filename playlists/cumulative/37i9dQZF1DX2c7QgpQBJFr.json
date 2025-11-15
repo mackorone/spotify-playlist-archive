@@ -13135,6 +13135,24 @@
     },
     {
       "album": {
+        "name": "polo nord",
+        "url": "https://open.spotify.com/album/0wTgMtjebc3ntZ0GcV9cae"
+      },
+      "artists": [
+        {
+          "name": "Henna",
+          "url": "https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171198,
+      "name": "polo nord",
+      "url": "https://open.spotify.com/track/7fPHIMchStMkHnxFzmEXVx"
+    },
+    {
+      "album": {
         "name": "Polvere",
         "url": "https://open.spotify.com/album/59DvlwV0AP3itvkMtmZwiR"
       },
@@ -13457,8 +13475,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Opopomoz",
+        "url": "https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd"
       },
       "artists": [
         {
@@ -16924,24 +16942,6 @@
       "duration_ms": 200454,
       "name": "tra le braccia",
       "url": "https://open.spotify.com/track/6uNfJzQST5zbyHxsnLiwEJ"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Henna",
-          "url": "https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX"
-        }
-      ],
-      "date_added": "2025-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7fPHIMchStMkHnxFzmEXVx"
     },
     {
       "album": {

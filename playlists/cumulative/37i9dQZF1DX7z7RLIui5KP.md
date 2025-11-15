@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Proudly Kenyan gems made for the entire family\. Cover: Iyaani
+> Proudly Kenyan gems made for the entire family\. Cover: Tuku Kantu
 
-64 songs - 3 hr 36 min
+66 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Anyango](https://open.spotify.com/track/0SE8y9q6WAsXagEir0NGZL) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Mbak Ndalo](https://open.spotify.com/album/2UKBLrYqHmrxgS5p3oWXGZ) | 5:53 | 2025-10-23 |  |
 | [Asali Mbichi](https://open.spotify.com/track/322gkQbDgQKstkJBCDIHo8) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Asali Mbichi](https://open.spotify.com/album/62onFHsinkH7RuIfFjkmfy) | 3:34 | 2025-10-23 | 2025-10-31 |
 | [Assurance](https://open.spotify.com/track/0HsFZY1LLvBI20qMtjj9j9) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Assurance](https://open.spotify.com/album/0CxUqb2AxCQTJH3bOce04X) | 4:20 | 2025-10-23 |  |
+| [Baddies Need Love](https://open.spotify.com/track/7gEYreobjtjh6FPgnQcBfa) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baddies Need Love](https://open.spotify.com/album/0I4LwuokRzpfG7garp91AK) | 4:12 | 2025-11-14 |  |
 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 | 2025-10-23 | 2025-11-07 |
 | [Bella](https://open.spotify.com/track/0bWWIJFEb2ISeN8Co41rUu) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Bella](https://open.spotify.com/album/2eGMuxWWgotUG05hPGvf5m) | 3:58 | 2025-10-23 |  |
 | [Catchi Yoh Whine](https://open.spotify.com/track/1H8bWAkucKINTrOaovslR9) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Catchi Yoh Whine](https://open.spotify.com/album/2LzuFCeZ43aPCo37S3lYZ5) | 2:30 | 2025-10-23 |  |
@@ -54,11 +55,12 @@
 | [Niangalie](https://open.spotify.com/track/4r7vOzZFoGWxKPCd3XD95S) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Niangalie](https://open.spotify.com/album/6gNGKlPgPNgxnqeF8An26m) | 3:49 | 2025-10-23 |  |
 | [Non Stop \(feat\. Maandy\)](https://open.spotify.com/track/4t2lAWxeQkzK2Hr9MrzjV6) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Non Stop \(feat\. Maandy\)](https://open.spotify.com/album/6u6ZfmnjXdkMq0LyFjAy3v) | 3:21 | 2025-10-23 |  |
 | [Not For Me](https://open.spotify.com/track/7h6GXhuR6IwsHks2FKSQmv) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Not For Me](https://open.spotify.com/album/5Ol6Rfyp80cIAybEgLxKWa) | 3:20 | 2025-10-23 |  |
-| [Olive\(ia\)](https://open.spotify.com/track/1xm5zaifC3MYTw8049ypZA) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Olive\(ia\)](https://open.spotify.com/album/1zUN2ALJ1OYmPYfES7oVGG) | 3:07 | 2025-10-23 |  |
+| [Olive\(ia\)](https://open.spotify.com/track/1xm5zaifC3MYTw8049ypZA) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Olive\(ia\)](https://open.spotify.com/album/1zUN2ALJ1OYmPYfES7oVGG) | 3:07 | 2025-10-23 | 2025-11-15 |
+| [Only You](https://open.spotify.com/track/5NGf0p8fXnzslsYXgLCDjY) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [The Evolution Within](https://open.spotify.com/album/3JfuNjxR2SLci0xSBAfOAH) | 2:50 | 2025-11-14 |  |
 | [P.I.C\. \(Partner In Crime\)](https://open.spotify.com/track/4mu0ljS8JBtPwCAKr0QUsc) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [P.I.C\. \(Partner In Crime\)](https://open.spotify.com/album/5Y8aBnfXBe9t3KrsUgkazZ) | 2:47 | 2025-10-23 |  |
 | [PAMOJA](https://open.spotify.com/track/5rqPijQRvxY4qeAP3bhfg9) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [PAMOJA](https://open.spotify.com/album/6HRDDTFOsExgX0Jv2oFQT5) | 3:09 | 2025-10-23 |  |
 | [PIA MI NATAKA](https://open.spotify.com/track/2TtisfcyZIyTfilAnhlwpl) | [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [PIA MI NATAKA](https://open.spotify.com/album/2hFiclR4HK5L3sAaKQs2OW) | 3:47 | 2025-10-23 |  |
-| [Pombe Kidogo](https://open.spotify.com/track/6AAbRA7KT6kklXLBrpIatZ) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Rockstar](https://open.spotify.com/album/17yI0MjQVUsqKlx5fkfFaM) | 3:28 | 2025-10-23 |  |
+| [Pombe Kidogo](https://open.spotify.com/track/6AAbRA7KT6kklXLBrpIatZ) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Rockstar](https://open.spotify.com/album/17yI0MjQVUsqKlx5fkfFaM) | 3:28 | 2025-10-23 | 2025-11-15 |
 | [Say Less](https://open.spotify.com/track/4S2o7FjB1gEVmTMn8K4dha) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Say Less](https://open.spotify.com/album/4UkmYiMpl16FcfW88B7TZO) | 3:15 | 2025-10-23 |  |
 | [Show You Off](https://open.spotify.com/track/0hVoZp56yvFRmDYq7B7wsI) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Show You Off](https://open.spotify.com/album/3zWCZabaPKAJ3Ku4lRqPzK) | 3:44 | 2025-10-23 |  |
 | [Sianda](https://open.spotify.com/track/6oWyXVtVgd7UxA4GnUppTR) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Sianda](https://open.spotify.com/album/6l5PRDG1ZSuNHFs36twLbY) | 3:09 | 2025-10-23 |  |

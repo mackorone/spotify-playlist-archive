@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Taves",
-  "num_followers": 109395,
+  "num_followers": 109412,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,26 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+        "name": "Afro G Western",
+        "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
       },
       "artists": [
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
         }
       ],
-      "duration_ms": 151529,
-      "name": "General",
-      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
+      "duration_ms": 223000,
+      "name": "Afro G Western",
+      "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -451,26 +459,18 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
-        "name": "Afro G Western",
-        "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
       },
       "artists": [
         {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "Stevo Atambire",
-          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
-        },
-        {
-          "name": "TSIE",
-          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Afro G Western",
-      "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+      "duration_ms": 151529,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
-        "name": "WONDERFUL",
-        "url": "https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 140751,
-      "name": "WONDERFUL",
-      "url": "https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY"
-    },
-    {
-      "added_at": "2025-11-14 00:01:30",
-      "album": {
         "name": "Painless Melody",
         "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+    },
+    {
+      "added_at": "2025-11-14 00:01:30",
+      "album": {
+        "name": "WONDERFUL",
+        "url": "https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 140751,
+      "name": "WONDERFUL",
+      "url": "https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
+        "name": "Not There Yet",
+        "url": "https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c"
+      },
+      "artists": [
+        {
+          "name": "LULU.",
+          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
+        }
+      ],
+      "duration_ms": 213190,
+      "name": "Not There Yet",
+      "url": "https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz"
+    },
+    {
+      "added_at": "2025-11-14 00:01:30",
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 125581,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
-    },
-    {
-      "added_at": "2025-11-14 00:01:30",
-      "album": {
-        "name": "Not There Yet",
-        "url": "https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c"
-      },
-      "artists": [
-        {
-          "name": "LULU.",
-          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
-        }
-      ],
-      "duration_ms": 213190,
-      "name": "Not There Yet",
-      "url": "https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -1179,18 +1179,22 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
-        "name": "Girlie-Pop!",
-        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
+        "name": "Economy",
+        "url": "https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         }
       ],
-      "duration_ms": 123950,
-      "name": "Girlie-Pop!",
-      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
+      "duration_ms": 237683,
+      "name": "Economy",
+      "url": "https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
-        "name": "Economy",
-        "url": "https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7"
+        "name": "Girlie-Pop!",
+        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
       },
       "artists": [
         {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 237683,
-      "name": "Economy",
-      "url": "https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk"
+      "duration_ms": 123950,
+      "name": "Girlie-Pop!",
+      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
+        "name": "CLUB NOIR",
+        "url": "https://open.spotify.com/album/7zk2IGOMWrJ2xzKxXyFqAj"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 148074,
+      "name": "BESTFRNDS",
+      "url": "https://open.spotify.com/track/2kpYJO7RYhImav7qbK9aoq"
+    },
+    {
+      "added_at": "2025-11-14 00:01:30",
+      "album": {
         "name": "Keep On Loving Me (Biko Biko)",
         "url": "https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 134181,
       "name": "Keep On Loving Me (Biko Biko)",
       "url": "https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks"
-    },
-    {
-      "added_at": "2025-11-14 00:01:30",
-      "album": {
-        "name": "S.M.O.",
-        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 270329,
-      "name": "S.M.O.",
-      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
-        "name": "CLUB NOIR",
-        "url": "https://open.spotify.com/album/7zk2IGOMWrJ2xzKxXyFqAj"
-      },
-      "artists": [
-        {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
-        }
-      ],
-      "duration_ms": 148074,
-      "name": "BESTFRNDS",
-      "url": "https://open.spotify.com/track/2kpYJO7RYhImav7qbK9aoq"
-    },
-    {
-      "added_at": "2025-11-14 00:01:30",
-      "album": {
         "name": "Nobody Badder",
         "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 160359,
       "name": "FEELINGS",
       "url": "https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz"
+    },
+    {
+      "added_at": "2025-11-14 00:01:30",
+      "album": {
+        "name": "S.M.O.",
+        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 270329,
+      "name": "S.M.O.",
+      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-11-14 00:01:30",
       "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
-      },
-      "artists": [
-        {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
-    },
-    {
-      "added_at": "2025-11-14 00:01:30",
-      "album": {
         "name": "Tired Music 2.0",
         "url": "https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp"
       },
@@ -1467,6 +1451,42 @@
       "duration_ms": 133629,
       "name": "Life Was Never Like This",
       "url": "https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6"
+    },
+    {
+      "added_at": "2025-11-14 00:01:30",
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/0eNSPV3zRvoPObxbIu0lrn"
+      },
+      "artists": [
+        {
+          "name": "DOLV GVNG",
+          "url": "https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 101419,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/4oFUe1dYVoxGijTx6Ybbz6"
+    },
+    {
+      "added_at": "2025-11-14 00:01:30",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
     },
     {
       "added_at": "2025-11-14 00:01:30",
@@ -1491,26 +1511,6 @@
       "duration_ms": 167658,
       "name": "Mezebu x 2",
       "url": "https://open.spotify.com/track/1a6n2Rh5xaqCXh9GQLcDq8"
-    },
-    {
-      "added_at": "2025-11-14 00:01:30",
-      "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/0eNSPV3zRvoPObxbIu0lrn"
-      },
-      "artists": [
-        {
-          "name": "DOLV GVNG",
-          "url": "https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 101419,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/4oFUe1dYVoxGijTx6Ybbz6"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

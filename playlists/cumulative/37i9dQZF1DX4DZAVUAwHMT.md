@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 | 2024-03-08 | 2024-03-09 |
-| [$4 Fantasy](https://open.spotify.com/track/1lhpgOcKbzy6kms5A3WCg5) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [](https://open.spotify.com/album/null) | 3:08 | 2025-11-14 |  |
+| [$4 Fantasy](https://open.spotify.com/track/1lhpgOcKbzy6kms5A3WCg5) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [The Parlour](https://open.spotify.com/album/2XObMLdXaVSIKCL6fLjtVs) | 3:08 | 2025-11-14 |  |
 | [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-06-01 | 2023-08-25 |
 | ['Bout To Lose It](https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | ['Bout To Lose It](https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5) | 3:41 | 2025-03-13 | 2025-07-11 |
 | [\(pls\) set me on fire](https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [\(pls\) set me on fire](https://open.spotify.com/album/5Y1o9GddlN87GHzM3NkPdk) | 3:04 | 2023-01-13 | 2023-02-10 |

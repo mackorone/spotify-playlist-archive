@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "Christina",
+        "url": "https://open.spotify.com/album/3vFZrJPu5TyF8fZmMhQPsK"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "Christina",
+      "url": "https://open.spotify.com/track/28fyydFU1TH9vOTjqIy442"
+    },
+    {
+      "album": {
         "name": "chrysalis",
         "url": "https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS"
       },
@@ -2634,6 +2656,28 @@
       "duration_ms": 140000,
       "name": "Lemon Lime",
       "url": "https://open.spotify.com/track/5Wqs17yMH84mkbZPpdBQ6i"
+    },
+    {
+      "album": {
+        "name": "Les hommes c'est pas des mecs bien",
+        "url": "https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197547,
+      "name": "Les hommes c'est pas des mecs bien",
+      "url": "https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W"
     },
     {
       "album": {
@@ -4540,7 +4584,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 168659,
       "name": "Time In The Sun",
       "url": "https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw"
@@ -4806,7 +4850,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"

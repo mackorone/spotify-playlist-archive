@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-261 songs - 13 hr 7 min
+262 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Barrel House Blues](https://open.spotify.com/track/3ZLSDAmqWiFbqe958QFITw) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 2:47 | 2025-01-06 |  |
 | [Barrel House Blues](https://open.spotify.com/track/6GyagXbdWdl3QwDUkqNhFX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:50 | 2022-08-05 | 2022-10-29 |
 | [Barrell House Blues](https://open.spotify.com/track/6yhsjKV9lbtYS9e7aVgUbo) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:50 | 2022-11-30 | 2024-11-22 |
+| [Bessemer Bound Blues](https://open.spotify.com/track/1rfym8MIcFRGbwlPt1NLCw) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:44 | 2025-11-15 |  |
 | [Bessemer Bound Blues](https://open.spotify.com/track/0wkf6necAJHcf886z0a9rg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:50 | 2023-06-12 | 2024-12-20 |
 | [Bessemer Bound Blues: 2](https://open.spotify.com/track/6hVsYp2nQGGZ3yg9IxXYlR) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD C](https://open.spotify.com/album/2yLBLBIzFDd5oZDJRnA3j8) | 2:48 | 2024-04-04 | 2024-07-07 |
 | [Big Boy Blues](https://open.spotify.com/track/5JeFDCfyd6QvlKVFvws7oi) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 2:50 | 2022-08-24 |  |
@@ -257,7 +258,7 @@
 | [Weepin' Woman Blues](https://open.spotify.com/track/3YhzMuULwNwAms6MTbkh0o) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 3:02 | 2023-01-12 | 2023-09-02 |
 | [Weepin' Woman Blues](https://open.spotify.com/track/31l2DS5BeDj7KzLMFaEY1C) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:02 | 2024-01-20 | 2025-06-18 |
 | [Weeping Woman Blues](https://open.spotify.com/track/6HGwng8w97AUDUQYfSHx1X) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD D](https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh) | 3:04 | 2024-12-30 | 2025-01-03 |
-| [Wringin' And Twistin' Blues](https://open.spotify.com/track/5Fuq4Euqqy7AmyPbJqKiiX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:51 | 2024-01-26 |  |
+| [Wringin' And Twistin' Blues](https://open.spotify.com/track/5Fuq4Euqqy7AmyPbJqKiiX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:51 | 2024-01-26 | 2025-11-15 |
 | [Wringing And Twisting](https://open.spotify.com/track/2yl7DtzE5l68YpXLhTTRgS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Essential & Original Southern Blues Collection](https://open.spotify.com/album/45ZFXCjSge4WlTFC6iTH7f) | 2:54 | 2024-01-10 | 2024-01-31 |
 | [Wringing And Twisting Blues](https://open.spotify.com/track/6V6mQY8oZVze9IK8ak1E9k) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:56 | 2025-03-19 | 2025-03-20 |
 | [Wringing And Twisting Blues](https://open.spotify.com/track/70ZHyouhC52SVGHuF0ob7b) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:58 | 2022-10-28 | 2023-07-20 |

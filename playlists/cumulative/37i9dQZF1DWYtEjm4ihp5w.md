@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Draganov
+> Cover: Stormy
 
 451 songs - 23 hr 43 min
 

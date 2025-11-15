@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 158796,
+  "num_followers": 158830,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Echao Pa Lante",
-        "url": "https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG"
-      },
-      "artists": [
-        {
-          "name": "Luifer Cuello",
-          "url": "https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx"
-        },
-        {
-          "name": "Manuel Julian Martinez",
-          "url": "https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z"
-        }
-      ],
-      "duration_ms": 251715,
-      "name": "Chillar A Otra Parte",
-      "url": "https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Imborrable",
         "url": "https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 240613,
       "name": "Imborrable",
       "url": "https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Echao Pa Lante",
+        "url": "https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG"
+      },
+      "artists": [
+        {
+          "name": "Luifer Cuello",
+          "url": "https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx"
+        },
+        {
+          "name": "Manuel Julian Martinez",
+          "url": "https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z"
+        }
+      ],
+      "duration_ms": 251715,
+      "name": "Chillar A Otra Parte",
+      "url": "https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/2FkdSU3LwrQwtyrKxYQHQN"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "40 Vallenatos Poderosos",
         "url": "https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 294746,
       "name": "Paro de Mi Corazon",
       "url": "https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/2FkdSU3LwrQwtyrKxYQHQN"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+      "duration_ms": 308040,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -951,6 +951,42 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+        }
+      ],
+      "duration_ms": 289253,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Mas Cerca De T\u00ed",
+        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 298146,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/0xkSIbrN1wLCjRHSZjpNHv"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -967,18 +1003,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 310306,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -999,22 +1035,6 @@
       "duration_ms": 294546,
       "name": "En Carne Propia",
       "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1043,22 +1063,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/5c3u3mao1N5YWKJcfgX8n3"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/5zpzBnQTkuMcrh6BHUncAm"
       },
@@ -1075,28 +1079,24 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 279560,
-      "name": "Muero por Verla",
-      "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
+      "duration_ms": 262333,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/5c3u3mao1N5YWKJcfgX8n3"
     },
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 308040,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
+      "duration_ms": 306226,
+      "name": "Ella Era Todo",
+      "url": "https://open.spotify.com/track/1MldC2AUalcu3fYRFHalHS"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

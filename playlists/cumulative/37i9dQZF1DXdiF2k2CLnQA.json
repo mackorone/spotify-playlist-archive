@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Always Like This",
+        "url": "https://open.spotify.com/album/0cbuOqkGxcnWQ1gu7VUHN4"
+      },
+      "artists": [
+        {
+          "name": "Sahara Hotnights",
+          "url": "https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200266,
+      "name": "Always Like This",
+      "url": "https://open.spotify.com/track/7ABJbSPIjDJ5yBfpdvJz0l"
+    },
+    {
+      "album": {
         "name": "An Ocean Of Strange Islands",
         "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
       },
@@ -6154,7 +6172,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 213010,
       "name": "The End",
       "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"

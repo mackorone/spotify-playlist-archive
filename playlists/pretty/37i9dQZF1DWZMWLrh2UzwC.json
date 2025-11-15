@@ -1,12 +1,12 @@
 {
   "description": "New music from, Mimifly, Liza Hanim, DIOR \u5927\u7a4e, Lewis Capaldi, Miley Cyrus, and more!",
-  "num_followers": 70762,
+  "num_followers": 70888,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP+RDgpnXgl+eumasHrW56/JAnYM",
+  "snapshot_id": "AAAAAPFIXTSzqIeThWAOMZmvb00xihVl",
   "tracks": [
     {
       "added_at": "2025-11-13 17:00:09",
@@ -27,8 +27,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
       },
       "artists": [
         {
@@ -43,8 +43,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "EVERYONE'S A STAR!",
+        "url": "https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa"
       },
       "artists": [
         {
@@ -227,8 +227,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cara Mencintai",
+        "url": "https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB"
       },
       "artists": [
         {
@@ -371,8 +371,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "off-hours",
+        "url": "https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM"
       },
       "artists": [
         {
@@ -579,8 +579,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "(((((ultraSOUND)))))",
+        "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
       },
       "artists": [
         {
@@ -611,8 +611,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "EUSEXUA Afterglow",
+        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
       },
       "artists": [
         {
@@ -627,8 +627,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
       "artists": [
         {
@@ -759,6 +759,26 @@
       "duration_ms": 148195,
       "name": "\u4e0d\u958b\u5fc3\u5c31\u8df3\u8d77\u4f86 (feat. \u827e\u871c\u8389AMILI) - \u5f71\u96c6\u300a\u76e3\u6240\u7537\u5b50\u56da\u751f\u8a18\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/6mVFyHUDFCcz0VqKEmD1ID"
+    },
+    {
+      "added_at": "2025-11-13 16:00:34",
+      "album": {
+        "name": "\u4e0a\u5834",
+        "url": "https://open.spotify.com/album/17FIINnPKIGNfkbrkhswi9"
+      },
+      "artists": [
+        {
+          "name": "Yan Ting",
+          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
+        },
+        {
+          "name": "SHIGGA SHAY",
+          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "\u4e0a\u5834 (feat. SHIGGA SHAY)",
+      "url": "https://open.spotify.com/track/0o32d8IYQqP56DJtGRjC0D"
     },
     {
       "added_at": "2025-11-13 16:00:34",
@@ -979,6 +999,30 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
+        "name": "CiCi (Deluxe)",
+        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Nice n' Sweet",
+      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "added_at": "2025-11-13 16:00:34",
+      "album": {
         "name": "Janji Dengan Mu",
         "url": "https://open.spotify.com/album/4UuGlvu9EnCNZMDiUXI1zL"
       },
@@ -1095,8 +1139,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "HAPPY ACCIDENTS VOL. 2",
+        "url": "https://open.spotify.com/album/77ccljceESwTy5Mqrg4iFh"
       },
       "artists": [
         {
@@ -1175,8 +1219,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Woman Of Faces",
+        "url": "https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy"
       },
       "artists": [
         {
@@ -1211,6 +1255,26 @@
       "duration_ms": 202508,
       "name": "What Did I Do?",
       "url": "https://open.spotify.com/track/41OSuepFz0K80l8cJ6GEEt"
+    },
+    {
+      "added_at": "2025-11-14 05:00:39",
+      "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "WHO I WAS",
+      "url": "https://open.spotify.com/track/3IogDRfjO5JOOPhDzvppum"
     },
     {
       "added_at": "2025-11-13 16:00:34",
@@ -1443,8 +1507,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
+        "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
       },
       "artists": [
         {
@@ -1511,8 +1575,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "iight bet!",
+        "url": "https://open.spotify.com/album/7eeKZCUXa6fxPOCGaCPqfY"
       },
       "artists": [
         {
@@ -1520,8 +1584,8 @@
           "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 143786,
+      "name": "Pain",
       "url": "https://open.spotify.com/track/2H81TA0vQexPYaFXRAGqjt"
     },
     {
@@ -1543,8 +1607,8 @@
     {
       "added_at": "2025-11-13 16:00:34",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
       },
       "artists": [
         {
@@ -1697,6 +1761,22 @@
       "url": "https://open.spotify.com/track/72znMykhK3rkAY1bMCvwn0"
     },
     {
+      "added_at": "2025-11-14 05:00:39",
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/2mgODRfkCa899nXbN1lgOy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 226804,
+      "name": "Moan",
+      "url": "https://open.spotify.com/track/5hkI0Ms7FNmlD0GjjW2jRv"
+    },
+    {
       "added_at": "2025-11-13 16:00:34",
       "album": {
         "name": "Nothing",
@@ -1727,6 +1807,22 @@
       "duration_ms": 251718,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
+    },
+    {
+      "added_at": "2025-11-14 05:00:39",
+      "album": {
+        "name": "You & Only You",
+        "url": "https://open.spotify.com/album/5IOPSN8dSwBiHeOLgTJH3T"
+      },
+      "artists": [
+        {
+          "name": "andreas owens",
+          "url": "https://open.spotify.com/artist/2tJ0Wcl9h9PPkosJ4piT6k"
+        }
+      ],
+      "duration_ms": 211285,
+      "name": "You & Only You",
+      "url": "https://open.spotify.com/track/08M3AVoizSu1aMze1DzpuD"
     },
     {
       "added_at": "2025-11-13 16:00:34",
@@ -1803,6 +1899,22 @@
       "duration_ms": 159000,
       "name": "Lemonade Fever",
       "url": "https://open.spotify.com/track/66noqwJgmDZKQgnWR34eyt"
+    },
+    {
+      "added_at": "2025-11-13 16:00:34",
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/5Tma3Xm7axkreEplv4SGUK"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/7ra9R2MTje9hNjsrFvHAZG"
     },
     {
       "added_at": "2025-11-13 16:00:34",

@@ -10085,6 +10085,24 @@
     },
     {
       "album": {
+        "name": "\u8acb\u52ff\u6253\u64fe",
+        "url": "https://open.spotify.com/album/5BxQn7C8EmSKxNPq1fdoac"
+      },
+      "artists": [
+        {
+          "name": "Angela Hui",
+          "url": "https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "\u8acb\u52ff\u6253\u64fe",
+      "url": "https://open.spotify.com/track/7twG2CRpGRXfsaOagX74zR"
+    },
+    {
+      "album": {
         "name": "\u8acb\u52ff\u6253\u64fe\u6a21\u5f0f",
         "url": "https://open.spotify.com/album/1JdhSjpvG3483VbfmWX9PJ"
       },

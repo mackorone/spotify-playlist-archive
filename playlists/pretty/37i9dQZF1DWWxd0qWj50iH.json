@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 529107,
+  "num_followers": 529073,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 262871,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "The Florist",
         "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 276466,
       "name": "I Of The Storm",
       "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 262871,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Is It?",
         "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 315040,
       "name": "Days Of Lantana",
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     },
     {
-      "added_at": "2024-07-12 12:20:23",
-      "album": {
-        "name": "my love mine all mine",
-        "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "my love mine all mine",
-      "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Years On",
@@ -1035,6 +1019,38 @@
       "duration_ms": 242906,
       "name": "Years On",
       "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
+    },
+    {
+      "added_at": "2024-07-12 12:20:23",
+      "album": {
+        "name": "my love mine all mine",
+        "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "my love mine all mine",
+      "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1067,22 +1083,6 @@
       "duration_ms": 153241,
       "name": "Spiderwebs",
       "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "All I Need To Hear",
-        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Your Hero Is Not Dead",
         "url": "https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 216933,
       "name": "Love Me In Chapters",
       "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "Sure",
@@ -1455,6 +1439,22 @@
       "duration_ms": 248421,
       "name": "Sure",
       "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Feels Like a Man",
+        "url": "https://open.spotify.com/album/40vbSlfKQuirQV4eSsXwCa"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Feels Like a Man",
+      "url": "https://open.spotify.com/track/5ERafLj5JlAOIIKhPJaLEI"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/74ZR82j0ucverIwnm6yrei"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 208702,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/6Rc8Z7D778SVkwuoFSJvxQ"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Feels Like a Man",
-        "url": "https://open.spotify.com/album/40vbSlfKQuirQV4eSsXwCa"
-      },
-      "artists": [
-        {
-          "name": "Cliffords",
-          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "Feels Like a Man",
-      "url": "https://open.spotify.com/track/5ERafLj5JlAOIIKhPJaLEI"
     },
     {
       "added_at": "2024-05-31 15:25:10",

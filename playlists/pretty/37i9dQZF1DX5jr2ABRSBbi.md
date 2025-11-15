@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechni si ženy z Česka a Slovenska na plný pecky! Playlist byl sestaven ve spolupráci s Blanch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,397 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,398 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 64 | [deja vu](https://open.spotify.com/track/5PlFjZHDhcyjUUZRQCO9uh) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [deja vu](https://open.spotify.com/album/3iRypzqqCo3N96LlXuyvdy) | 3:08 |
 | 65 | [Láska](https://open.spotify.com/track/7AwtpxonqfApov25jhppIq) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [Láska](https://open.spotify.com/album/68NNidfToMcOfXqLcUMNNw) | 3:05 |
 
-Snapshot ID: `AAAAAKKVV5jIP36MzgeE2kwllpzGNn+Y`
+Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`

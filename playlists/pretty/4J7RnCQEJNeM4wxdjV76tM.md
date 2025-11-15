@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain](/playlists/plain/4J7RnCQEJNeM4wxdjV76tM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4J7RnCQEJNeM4wxdjV76tM)
 
-### [aight ](https://open.spotify.com/playlist/4J7RnCQEJNeM4wxdjV76tM)
+### [$$](https://open.spotify.com/playlist/4J7RnCQEJNeM4wxdjV76tM)
 
-> teen years in a playlist
+> old asl
 
 [jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 642 songs - 1 day 11 hr 9 min
 
@@ -651,4 +651,4 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 641 | [The Spell](https://open.spotify.com/track/3DRQ9GriRUPNHiCB0hyRbW) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/0mqQaRXfEzysluMX4J3jqy) | 4:41 |
 | 642 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 |
 
-Snapshot ID: `AAAEQlKaO4RCxS3zeetht3gkvMNYu4ba`
+Snapshot ID: `AAAEReiw/vm1A/TEPzeb3RZJSsUNtoiE`

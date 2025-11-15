@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Paresh Pahuja, Utsavi Jha and other exciting artists.
 
-1,225 songs - 2 day 18 hr 59 min
+1,226 songs - 2 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [Jaise Mein Chaahun](https://open.spotify.com/track/2UxqmUsEvSJfOiwgspj03d) | [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Jaise Mein Chaahun](https://open.spotify.com/album/2k4nJGu6QVuIq36zPERj6I) | 2:46 | 2023-12-15 | 2024-01-27 |
 | [Janamdin](https://open.spotify.com/track/4ngUzKSnbclvmZ6mxCw4Gq) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Janamdin](https://open.spotify.com/album/5q6nuMAdjX2DzYpr7q3CK2) | 2:34 | 2024-10-11 | 2024-11-30 |
 | [Jannat](https://open.spotify.com/track/0qJO8QgG5C8mUyPA827c8R) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Jannat](https://open.spotify.com/album/4Bx8C5p2ElDIYTokkN7Ghz) | 2:33 | 2023-08-04 | 2023-09-09 |
-| [Janoon Na](https://open.spotify.com/track/4dk72fTvUMJplhqfM69MJ2) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Janoon Na](https://open.spotify.com/album/0Wqd6kTDKjW6QArKx3Zttl) | 3:40 | 2025-10-03 |  |
+| [Janoon Na](https://open.spotify.com/track/4dk72fTvUMJplhqfM69MJ2) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Janoon Na](https://open.spotify.com/album/0Wqd6kTDKjW6QArKx3Zttl) | 3:40 | 2025-10-03 | 2025-11-15 |
 | [Jawaab Kya Hai](https://open.spotify.com/track/5fo6VRiygJPlcTbPt6TyFF) | [Himanshu Hansraj](https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi) | [Jawaab Kya Hai](https://open.spotify.com/album/6mox9Wjz02Qb5SQXFyYBR9) | 3:57 | 2024-12-06 | 2025-02-11 |
 | [Jazbaat](https://open.spotify.com/track/1uOhQkgoWGEZ92UygWJnoH) | [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Jazbaat](https://open.spotify.com/album/2UE5Mc9wxgcmYlqEzLXr2A) | 2:42 | 2024-12-20 | 2025-01-25 |
 | [Jee Le](https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:33 | 2025-09-12 |  |
@@ -613,6 +613,7 @@
 | [Kisi Tarah](https://open.spotify.com/track/4jVJH1awgJLzWWv2vKNRwg) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Kisi Tarah](https://open.spotify.com/album/20GlqmFsboHgSZC4KA0rtr) | 2:58 | 2025-01-31 | 2025-02-22 |
 | [Kismet](https://open.spotify.com/track/5uuN0Br13jpilHaV6OTzpK) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Kismet](https://open.spotify.com/album/1kYV2ozbBjtCARj0B5JNM1) | 3:36 | 2024-07-05 | 2024-08-10 |
 | [Kisse](https://open.spotify.com/track/0iK7uwDTeX9riw5J1DaBe6) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Kisse](https://open.spotify.com/album/7dkpnaX8v3uCNDKZ8gWASu) | 2:58 | 2025-07-25 | 2025-08-30 |
+| [Kithe Jawan](https://open.spotify.com/track/4f0PM72QRUVgpNPw6lCGbw) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Kithe Jawan](https://open.spotify.com/album/0uGDPyWdO8IhEJ1Md8xixj) | 2:59 | 2025-11-14 |  |
 | [Kiya Dhara](https://open.spotify.com/track/7LOQN5ZIcfVbLGN1z9UJqa) | [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Kiya Dhara](https://open.spotify.com/album/5LNmi8aUJQXt0IOMFcjIae) | 2:02 | 2024-10-18 | 2024-11-09 |
 | [Kohinoor](https://open.spotify.com/track/1fmPlmof4bVJFWjzvTCjy2) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Kohinoor](https://open.spotify.com/album/1dvgCUkwd38ZacYjSP13NT) | 2:41 | 2025-02-07 | 2025-03-02 |
 | [Koi Aayega](https://open.spotify.com/track/4rAW3JZn2LjEueC8OKVQQV) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI) | [Koi Aayega](https://open.spotify.com/album/1GG363ypMjGaD4Y89Jd0iF) | 3:06 | 2024-10-04 | 2024-11-15 |

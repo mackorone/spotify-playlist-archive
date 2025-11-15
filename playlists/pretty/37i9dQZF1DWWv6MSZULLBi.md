@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Hudson Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,388 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,388 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
 | 2 | [Photograph of a Cyclone](https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 3:28 |
 | 3 | [Daniel's Theme](https://open.spotify.com/track/5vF5orpSWS0qxC0GsPJkq8) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Daniel's Theme](https://open.spotify.com/album/0I7OCGcIxEQSSjv23zIMzr) | 1:42 |
-| 4 | [Track 9](https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Let the Winter Have Me](https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [There's a Place I Go](https://open.spotify.com/album/2WrT9ExSxQAg3nBWPfJBvI) | 3:44 |
 | 5 | [winding down](https://open.spotify.com/track/3kVCAHJ6NUmyjobxsTzB5O) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [winding down](https://open.spotify.com/album/0LWVJ5rTXEyWs67DMQK4mt) | 4:12 |
 | 6 | [Fourteen Hours](https://open.spotify.com/track/0IAG7vs6rImln2cP8Hnlyk) | [My Mercury](https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U) | [Fourteen Hours](https://open.spotify.com/album/5WldiAnlW0tmIibUYmik8f) | 3:29 |
 | 7 | [The Man I'm Supposed To Be](https://open.spotify.com/track/3Kbgwa33bP2XwjjI2f4K5V) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [The Man I'm Supposed to Be](https://open.spotify.com/album/7sZ7r9GjMQqoyFsHyIj9h3) | 3:42 |
-| 8 | [Track 17](https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [The Greatest](https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba), [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [She Told Me Where to Go \(Deluxe Edition\)](https://open.spotify.com/album/3giMjQzltPGQ6I2yf2DxXk) | 2:39 |
 | 9 | [Night Bus](https://open.spotify.com/track/3MLaTl0fF9Z8SI1h6Tqjka) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time \(Deluxe Edition\)](https://open.spotify.com/album/6J6DlLzUKCl3jePjrZiF0S) | 3:53 |
 | 10 | [Pajarito](https://open.spotify.com/track/5gAWalJr8o0koAvUVOKO7S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Pajarito](https://open.spotify.com/album/2LL4R5H9rzRafsw7pCmy71) | 1:40 |
 | 11 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |

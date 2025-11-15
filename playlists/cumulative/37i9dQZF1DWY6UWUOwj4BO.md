@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-148 songs - 7 hr 53 min
+149 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-12-21 | 2024-03-22 |
 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 | 2022-12-21 | 2023-05-15 |
 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 | 2023-03-09 | 2024-06-01 |
-| [Carry Me \- Acoustic Version](https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:24 | 2023-02-21 |  |
+| [Carry Me \- Acoustic Version](https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:24 | 2023-02-21 | 2025-11-15 |
 | [Ce qui me va \- Version acoustique](https://open.spotify.com/track/1yWdlzvYpt5SY1et6TWNDq) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ce qui me va](https://open.spotify.com/album/6GZ2K7dAyHHMbY65archCw) | 3:03 | 2025-05-29 |  |
 | [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 | 2024-02-22 |  |
 | [Cold Heart \- Acoustic](https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cold Heart \(Acoustic\)](https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv) | 3:15 | 2022-12-21 |  |
@@ -136,6 +136,7 @@
 | [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 | 2024-11-22 |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-12-21 |  |
 | [Take On Me \- 2017 Acoustic](https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(2017 Acoustic\)](https://open.spotify.com/album/475VP8QRLP0eQ5wfeyrCS1) | 3:04 | 2024-04-12 | 2024-11-15 |
+| [Tant pis pour elle \- Version Acoustique](https://open.spotify.com/track/67306rh9aCq7snz1aW1tJ0) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle \(Version Acoustique\)](https://open.spotify.com/album/1RKq2hecvg4x2MQBW4fKgP) | 2:32 | 2025-11-14 |  |
 | [Tattoo \- Acoustic](https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo \(Acoustic\)](https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY) | 3:34 | 2023-05-14 |  |
 | [Te Amo \- DJ Youcef Remix – Version Acoustique](https://open.spotify.com/track/5DiKjTMmJfdIROpZXAzLwY) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo \(DJ Youcef Remix – Version Acoustique\)](https://open.spotify.com/album/4we58LKZyy9dtDRIJXeUJs) | 4:18 | 2022-12-21 | 2023-06-03 |
 | [TEXAS HOLD 'EM \- Acoustic Version](https://open.spotify.com/track/1LRHlYrMb8Bn3poC5lixyV) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [TEXAS HOLD 'EM \(Acoustic Version\)](https://open.spotify.com/album/69DFowWwyCZmU9rD4uJZvB) | 3:10 | 2024-05-30 |  |

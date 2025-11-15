@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,057 likes - 189 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,071 likes - 189 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 4 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 5 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
 | 6 | [Modigare](https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Modigare](https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i) | 3:53 |
-| 7 | [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [](https://open.spotify.com/album/null) | 2:21 |
+| 7 | [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:21 |
 | 8 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 |
 | 9 | [okej att dö \(igen\) \- isby sessions](https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [okej att dö \(igen\) \[isby sessions\]](https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC) | 2:54 |
-| 10 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [](https://open.spotify.com/album/null) | 2:54 |
+| 10 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
 | 11 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
 | 12 | [Hazy Eyes](https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Hazy Eyes](https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc) | 3:10 |
 | 13 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 |
-| 14 | [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [](https://open.spotify.com/album/null) | 2:54 |
+| 14 | [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Feelings You Don't Say Out Loud](https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP) | 2:54 |
 | 15 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 |
-| 16 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [](https://open.spotify.com/album/null) | 3:28 |
+| 16 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 |
 | 17 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
 | 18 | [Dream As One \- from Avatar: Fire and Ash](https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Dream As One \(from Avatar: Fire and Ash\)](https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q) | 3:19 |
-| 19 | [Waiting Room](https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [](https://open.spotify.com/album/null) | 3:31 |
+| 19 | [Waiting Room](https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [A Place I Recognise](https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS) | 3:31 |
 | 20 | [Cocaine](https://open.spotify.com/track/0tRPNdNeJnL55hd1faw1W2) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Dandelion](https://open.spotify.com/album/1hrKM25ZbJnGWOnMWpUT7a) | 2:55 |
 | 21 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 22 | [Piece by piece](https://open.spotify.com/track/64zKK20cftPgCiu8VVE74u) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Piece by piece](https://open.spotify.com/album/7BYH3PR4qsCOqGFAiVbO1O) | 3:03 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 26 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 |
 | 27 | [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 |
 | 28 | [lose control](https://open.spotify.com/track/0gPT9v8KyzHZ1MiH2yY9QE) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/4VPYO2mrgxJkSs6LC4zOm4) | 3:02 |
-| 29 | [Track 2](https://open.spotify.com/track/3krZVf9fIPf6Y2aY8anw4I) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [](https://open.spotify.com/album/null) | 0:00 |
+| 29 | [Sugar Rush](https://open.spotify.com/track/3krZVf9fIPf6Y2aY8anw4I) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [The Room](https://open.spotify.com/album/3o3VckqNsLIIwlZkBcR9Yt) | 2:20 |
 | 30 | [Hot Air Balloon](https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Hot Air Balloon](https://open.spotify.com/album/1vXtqt9NfOginaQULdpuCH) | 2:34 |
-| 31 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [](https://open.spotify.com/album/null) | 3:15 |
+| 31 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 |
 | 32 | [She Goes](https://open.spotify.com/track/2Ma85rvlh6V6a66O4AYruD) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [She Goes](https://open.spotify.com/album/0UPsFm6WSOwkWQH8Q0sMKF) | 3:03 |
 | 33 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 |
 | 34 | [Tar mig alltid upp](https://open.spotify.com/track/0wDWPM5nK9CSqEKXwMQTWy) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Tar mig alltid upp](https://open.spotify.com/album/6YYDsbyNPB8G1HbnsOrKpg) | 2:24 |
-| 35 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [](https://open.spotify.com/album/null) | 3:11 |
+| 35 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 |
 | 36 | [Sugar High](https://open.spotify.com/track/4wAijWh2EQSASiQUblhC4h) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Sugar High](https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt) | 2:30 |
 | 37 | [Breakup Glow](https://open.spotify.com/track/2pHKNkog3uAgCdUVutNGL2) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Breakup Glow](https://open.spotify.com/album/01Ma1jjXXMlqJQNXNDjLuh) | 2:43 |
 | 38 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 188 | [Stockholm är för stort](https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Stockholm är för stort](https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk) | 3:05 |
 | 189 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
 
-Snapshot ID: `AAAAAP+3WlkmxcPsQFs1k3292O9GFS6R`
+Snapshot ID: `AAAAAFwu4u5l4hUngT1QEt/Gp9aKCW6D`

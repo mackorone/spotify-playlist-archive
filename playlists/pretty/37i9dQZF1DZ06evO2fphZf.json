@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12453,
+  "num_followers": 12451,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADT+WORNd3bV0shwgICrBCw",
+  "snapshot_id": "aRUfgAAAAABMwTk06cazXteSWrsDVP0h",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "snowing in LA",
+        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "snowing in LA",
+      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mood ring",
-        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 176123,
-      "name": "mood ring",
-      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 137386,
       "name": "no ties",
       "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mood ring",
+        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 176123,
+      "name": "mood ring",
+      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "snowing in LA",
-        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "snowing in LA",
-      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167589,
-      "name": "fresh white tee",
-      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 177049,
       "name": "attention",
       "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167589,
+      "name": "fresh white tee",
+      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
     },
     {
       "added_at": null,
@@ -867,46 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-        "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
+        "name": "wish list",
+        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
       },
       "artists": [
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "YMTK",
-          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-      "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+      "duration_ms": 164571,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: IV OF SPADES \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,537 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,598 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 44 | [No Way Now](https://open.spotify.com/track/4tliFlZ0KKMkhPHneWEZkC) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [No Way Now](https://open.spotify.com/album/51mtVHG6ArBiyWoHZPI1uo) | 5:03 |
 | 45 | [Good Day](https://open.spotify.com/track/0iy5fIvQtdPqJdFYAwE4ay) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 4:13 |
 | 46 | [Hallucination](https://open.spotify.com/track/2kjZ8lSoVz9AGRDAicIOLy) | [LUNACAT](https://open.spotify.com/artist/14bzN6jDizhJPVNoj8drIG) | [Hallucination](https://open.spotify.com/album/4Sab2c0rpeisHyKB7Jl8iI) | 3:43 |
-| 47 | [Track 8](https://open.spotify.com/track/65x7gYcm3Hvv2B9x7F9QDw) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 47 | [ANGEL](https://open.spotify.com/track/65x7gYcm3Hvv2B9x7F9QDw) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY](https://open.spotify.com/album/61ztlk3IamUgahgX4VPisJ) | 3:58 |
 | 48 | [Starfish](https://open.spotify.com/track/5GboUNyrRZi985auGkVqUC) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Starfish](https://open.spotify.com/album/0PV0es0tNhOxWsLE9IxGCA) | 3:07 |
 | 49 | [MIA](https://open.spotify.com/track/09eXUhQEMNokUW7xqZT3YD) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [MIA](https://open.spotify.com/album/6Uz2Mo5S7QfjoGt4bgTXfD) | 2:49 |
 | 50 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Albin Lee Meldau & Arvid Nero .
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,133 likes - 205 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,147 likes - 205 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Min vän och jag](https://open.spotify.com/track/0NPyQAU96LDQ2xLyIPyAg6) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:38 |
 | 2 | [grasp](https://open.spotify.com/track/4fQRbT42z2y47bHLWsQQPi) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [grasp](https://open.spotify.com/album/4me0UD3odsWvE5LscHTBOa) | 4:31 |
-| 3 | [Hula Girl](https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [](https://open.spotify.com/album/null) | 4:04 |
+| 3 | [Hula Girl](https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)](https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv) | 4:04 |
 | 4 | [Over You](https://open.spotify.com/track/5Y6haMzLdn7wCyStXJNStG) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [Over You](https://open.spotify.com/album/4q2QsmcyEa9Qbzl6oRoEK9) | 2:16 |
 | 5 | [November](https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Om du behöver mig](https://open.spotify.com/album/0Df1JBTZ6Qg2V2JN26W9CZ) | 3:48 |
 | 6 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 32 | [I Ögats Ljus](https://open.spotify.com/track/09SFbnSumIiYo69krgCBTH) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [I Ögats Ljus](https://open.spotify.com/album/3nqSFrfKMXWni7kua8Q7Z3) | 5:18 |
 | 33 | [A thousand lies \- Fine EDIT](https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 3:37 |
 | 34 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
-| 35 | [Sanndröm](https://open.spotify.com/track/11l3csleSw6DhM1nx2UsWC) | [Mira Ray](https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul) | [](https://open.spotify.com/album/null) | 3:24 |
+| 35 | [Sanndröm](https://open.spotify.com/track/11l3csleSw6DhM1nx2UsWC) | [Mira Ray](https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul) | [Sanndrömmar](https://open.spotify.com/album/0iPRL0t9b1q5DZtMdw5ghZ) | 3:24 |
 | 36 | [Career Climbing](https://open.spotify.com/track/5bkxmQ4Im03LVDQsX78gdZ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Yume](https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX) | 3:25 |
 | 37 | [Watching Over Me](https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Watching Over Me](https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp) | 2:16 |
 | 38 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 204 | [overthinking](https://open.spotify.com/track/5gv5WYrIhVCUDeXjo60AWb) | [Riley From Earth](https://open.spotify.com/artist/1b3TTtQOOT6oVnL4e8dtF3) | [overthinking](https://open.spotify.com/album/6iSr1R777BVfVQNnpqH9ia) | 2:46 |
 | 205 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 |
 
-Snapshot ID: `AAAAAGGq6//LzynxkL+Ep3LFhhND8Vlb`
+Snapshot ID: `AAAAAAVHaJKAf4UUIXOo+TrTuzRTR1ig`

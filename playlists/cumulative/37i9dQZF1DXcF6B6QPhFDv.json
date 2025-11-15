@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. Cover: Teen Jesus and the Jean Teasers",
+  "description": "Rock never dies. Cover: Blondshell",
   "name": "MARROW",
   "tracks": [
     {
@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Another Picture",
+        "url": "https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Berlin TV Tower",
+      "url": "https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC"
+    },
+    {
+      "album": {
         "name": "Surgery and Pleasure",
         "url": "https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T"
       },
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 242230,
       "name": "Blood",
       "url": "https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8"
@@ -5207,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "Are We All Angels",
+        "url": "https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209972,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/5KYtpMiqtObbbgsevOnFOi"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -5438,7 +5474,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 127211,
       "name": "Flowers & Dirt",
       "url": "https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr"
@@ -10672,6 +10708,24 @@
       "duration_ms": 223100,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272507,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
     },
     {
       "album": {
@@ -18292,7 +18346,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 195306,
       "name": "Townies",
       "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"

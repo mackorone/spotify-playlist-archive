@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 64659,
+  "num_followers": 64679,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADXIiuPG27QEWz3dzCtxhf0",
+  "snapshot_id": "aRUfgAAAAACf46PvDXWi2xFvya4OLRbb",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 224121,
+      "name": "Las Huellas - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -431,42 +447,6 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 224121,
-      "name": "Las Huellas - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voy a Volver",
-        "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 235786,
-      "name": "Voy a Volver",
-      "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
     },
     {
       "added_at": null,
@@ -495,22 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
+        "name": "Voy a Volver",
+        "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
+      "duration_ms": 235786,
+      "name": "Voy a Volver",
+      "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
     },
     {
       "added_at": null,
@@ -531,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruzzicovers",
-        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 219086,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
     },
     {
       "added_at": null,
@@ -563,6 +543,26 @@
       "duration_ms": 275160,
       "name": "Sin Ti No Puede Estar Tan Mal",
       "url": "https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruzzicovers",
+        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 219086,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217168,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARADISO",
         "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 215003,
       "name": "Todo al Rev\u00e9s",
       "url": "https://open.spotify.com/track/3lSmVDh4KW7Qtouy0rklWe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217168,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 23 min
+98 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [PLANETA OUSADIA](https://open.spotify.com/track/38Dkqi7IYUm3DDyt4tfDcf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:32 | 2023-12-13 | 2024-09-29 |
 | [Poesia Acústica 14](https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 14](https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN) | 14:09 | 2023-11-10 |  |
 | [Presente do Céu](https://open.spotify.com/track/2jeJEX0LGu46B3vTthPsrL) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 4:13 | 2023-11-10 | 2023-12-26 |
-| [Presente do Céu](https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Presente do Céu](https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu) | 4:13 | 2023-12-25 |  |
+| [Presente Do Céu](https://open.spotify.com/track/4gk00HdAowVKiQe3JziDOc) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Infinito 2021, Vol.2](https://open.spotify.com/album/7KY9HZqB01IoHhRWyzG5Gj) | 4:13 | 2025-11-15 |  |
+| [Presente do Céu](https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Presente do Céu](https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu) | 4:13 | 2023-12-25 | 2025-11-15 |
 | [Princesa](https://open.spotify.com/track/4ml3bZLHPk89jpRNJMOneQ) | [Flavio Venturini](https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Princesa](https://open.spotify.com/album/7c7C7HRqygt1TsXsg1daKO) | 3:20 | 2025-10-12 | 2025-10-17 |
 | [Programa Favorito \- Ao Vivo](https://open.spotify.com/track/4pw2ElZp6xu4qhRKSNNZ3V) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 3:28 | 2024-09-30 | 2024-10-19 |
 | [PROIBIDONA](https://open.spotify.com/track/0Tqnom8PwHN01ntaY5KDiE) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:35 | 2024-09-30 | 2025-09-01 |

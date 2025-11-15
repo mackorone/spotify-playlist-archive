@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain](/playlists/plain/37i9dQZF1DWXJ45m0qiQQY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJ45m0qiQQY)
 
-### [spooky halloween lofi 👻🎃](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
+### [spooky lofi 👻](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
 
-> chilling beats for haunted halloween vibes
+> chilling beats for haunted vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,042 likes - 100 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,033 likes - 100 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 99 | [elm street](https://open.spotify.com/track/2pWAf8ktMyKob5FU7uqvj1) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [elm street](https://open.spotify.com/album/1X7aEIyyJHzYxBBrlIdOVq) | 1:46 |
 | 100 | [Trick or Treats](https://open.spotify.com/track/090ynlUUvHNeUFv1oOGwp3) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 1:53 |
 
-Snapshot ID: `AAAAAF3M/swlUR82S4n9t7Hxirg8q3lR`
+Snapshot ID: `AAAAAMInBrNa5HQS2IYLa9MJNu/i8fzh`

@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 799963,
+  "num_followers": 800057,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 240895,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 255661,
       "name": "Dear Agony - Aurora Version",
       "url": "https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 240895,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Outlaw Gentlemen & Shady Ladies",
-        "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 290546,
-      "name": "Our Loved Ones",
-      "url": "https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Light Me Up",
         "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 212186,
       "name": "You",
       "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Outlaw Gentlemen & Shady Ladies",
+        "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 290546,
+      "name": "Our Loved Ones",
+      "url": "https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1"
     },
     {
       "added_at": "2024-06-26 02:18:14",

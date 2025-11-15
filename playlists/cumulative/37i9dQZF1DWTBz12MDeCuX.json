@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
@@ -43463,6 +43463,24 @@
     },
     {
       "album": {
+        "name": "Regen",
+        "url": "https://open.spotify.com/album/07FvGpqKYC4jrhG7nyQMBx"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209448,
+      "name": "Regen",
+      "url": "https://open.spotify.com/track/4kL0ehedFQyYGeLxRrlWgR"
+    },
+    {
+      "album": {
         "name": "Regenbogen",
         "url": "https://open.spotify.com/album/5YZFHjD9QeQfXx646H2MQo"
       },
@@ -58559,8 +58577,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
       },
       "artists": [
         {

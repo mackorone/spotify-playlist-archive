@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring wasia project 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,125 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,359 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 119 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 |
 | 120 | [If You Give Me This Chance](https://open.spotify.com/track/4TW9oeKIpucVNwgYAYpFCY) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [If You Give Me This Chance](https://open.spotify.com/album/5NpZs5DFC3xcXQM9AXRkke) | 3:25 |
 
-Snapshot ID: `AAAAABb1vPdyroeLLFab4P+70PL5Sy5R`
+Snapshot ID: `AAAAAO1YYn4G2CwX2/N2W6RMijT07Gvu`

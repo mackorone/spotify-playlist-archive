@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, GDA
 
-3,059 songs - 5 day 22 hr 45 min
+3,060 songs - 5 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [about u](https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1YHRqOs5yxMvHVX69bJuxv) | 3:14 | 2022-11-10 | 2022-12-09 |
 | [About You](https://open.spotify.com/track/5hDjdcUB4Ex143S8BSVsFG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [About You](https://open.spotify.com/album/2Fs0WFILf3bV6D1Ph6iFhm) | 2:40 | 2023-01-12 | 2023-02-03 |
 | [AC MAILAND](https://open.spotify.com/track/5CzDztuZCdeQI2SBO79yiw) | [selfyy](https://open.spotify.com/artist/2M3vX4SeNw3RnzyJtjKoFq) | [AC MAILAND](https://open.spotify.com/album/5OafNf1sosM26tzS0t8WWj) | 2:27 | 2022-12-08 | 2023-01-13 |
-| [ACELERADA](https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [ACELERADA](https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ) | 1:01 | 2025-10-09 |  |
+| [ACELERADA](https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [ACELERADA](https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ) | 1:01 | 2025-10-09 | 2025-11-15 |
 | [Achilles](https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Achilles](https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8) | 2:39 | 2023-07-26 | 2023-08-04 |
 | [Achterbahn fahren](https://open.spotify.com/track/4g0EDV5qO2p3uuSCi6AiIN) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Achterbahn fahren](https://open.spotify.com/album/5zR7IorZF87Fi9qpzhUA1m) | 2:06 | 2025-07-31 | 2025-09-06 |
 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 | 2025-09-25 | 2025-10-10 |
@@ -2171,6 +2171,7 @@
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-03 | 2023-03-18 |
 | [REDE](https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [REDE](https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU) | 1:58 | 2025-11-06 |  |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-18 | 2024-02-09 |
+| [Regen](https://open.spotify.com/track/4kL0ehedFQyYGeLxRrlWgR) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Regen](https://open.spotify.com/album/07FvGpqKYC4jrhG7nyQMBx) | 3:29 | 2025-11-14 |  |
 | [Regenbogen](https://open.spotify.com/track/6FTtryKq4A4j3Ic92Dhvw9) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Regenbogen](https://open.spotify.com/album/5YZFHjD9QeQfXx646H2MQo) | 2:54 | 2023-06-22 | 2023-06-30 |
 | [Regentage](https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Regentage](https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0) | 2:58 | 2025-08-21 | 2025-10-03 |
 | [regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy) | [DANZINGER 99](https://open.spotify.com/artist/2PBBBcDggmGWyvOY9HXmKZ), [DJ<3](https://open.spotify.com/artist/53Sn33Pag8qzwOsIol2a4q) | [regen༺♡✧+++](https://open.spotify.com/album/4WW9UNrTYnjBwabayBkxuW) | 1:27 | 2022-09-29 | 2023-01-13 |
@@ -2923,7 +2924,7 @@
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2024-05-30 | 2024-09-20 |
 | [white tee](https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 2:12 | 2023-06-22 | 2023-07-28 |
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-04-27 | 2023-05-12 |
-| [WHO I WAS](https://open.spotify.com/track/3IogDRfjO5JOOPhDzvppum) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [](https://open.spotify.com/album/null) | 3:00 | 2025-11-13 |  |
+| [WHO I WAS](https://open.spotify.com/track/3IogDRfjO5JOOPhDzvppum) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:00 | 2025-11-13 |  |
 | [WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [WHO'S THAT](https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL) | 2:20 | 2025-06-19 | 2025-07-25 |
 | [why am i here, i feel so alone](https://open.spotify.com/track/0jBaoN25PbNxfbv4sPs6eM) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [why am i here, i feel so alone](https://open.spotify.com/album/0rE8L0frf30RD6TMsdxqDn) | 2:47 | 2022-06-09 | 2022-06-17 |
 | [Why Do You Hate Me](https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [Why Do You Hate Me](https://open.spotify.com/album/2TOSa1BTQF23HlqLjOSltx) | 2:23 | 2023-08-14 | 2024-01-05 |

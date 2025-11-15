@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Joe L Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,862 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,894 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [SANCTIFY ME LORD, AGAIN](https://open.spotify.com/track/43xzXTBZXz9rSw6mNc88S1) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [SANCTIFY ME LORD, AGAIN](https://open.spotify.com/album/0V0Xz6kWb9Ve1Se9X4BAej) | 3:06 |
 | 80 | [Prosper](https://open.spotify.com/track/5d3ORNibUzn5VjhHgTt1pQ) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Prosper](https://open.spotify.com/album/6ZmOIEJLVTp2xlCpE7Vwed) | 2:50 |
 
-Snapshot ID: `AAAAAPLYUR1xXj/UL7bO1s9khJ4vYZ22`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

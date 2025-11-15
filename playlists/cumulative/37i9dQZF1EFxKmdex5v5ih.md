@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-538 songs - 1 day 5 hr 33 min
+539 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,13 +263,14 @@
 | [king of the world, pt\. 3](https://open.spotify.com/track/6fh9K3SyISdYR5DSs0BGwc) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:30 | 2023-06-22 | 2023-12-14 |
 | [King of the World, pt\. 3 \(Cover\)](https://open.spotify.com/track/7j62Innv57slmsngPcq8nr) | [Skyline Blues](https://open.spotify.com/artist/4ySggu9Fy1iAX8IX924j1a) | [Flares and Fireworks](https://open.spotify.com/album/6qb4eGXaNv4l7O5BaQs8Wg) | 1:42 | 2025-05-31 |  |
 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 | 2024-09-04 |  |
+| [Know Somebody](https://open.spotify.com/track/6ApZBFGxh5nfmX82Yir4EW) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 3:25 | 2025-11-14 |  |
 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-31 | 2024-03-25 |
 | [Lead Me On](https://open.spotify.com/track/4627b0SeGkBoYKejSG6XXJ) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:53 | 2024-03-24 |  |
 | [Lead Me On](https://open.spotify.com/track/4Rp2SBHnd68nEBvpKX8sTA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:53 | 2024-05-23 | 2025-01-22 |
 | [Leave Me Alone](https://open.spotify.com/track/2ZJapIiYXKyTiy82xCn6x0) | [Without Shelter](https://open.spotify.com/artist/2HNpxWTZNdh0lkSTquhmie) | [Leave Me Alone](https://open.spotify.com/album/7CtqQG5hfqtjh1MjF81WV5) | 3:32 | 2022-07-09 | 2024-07-27 |
 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 | 2021-12-27 |  |
 | [lemonade](https://open.spotify.com/track/6qF2SapjKCkp3ZOtzh3bBr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:58 | 2025-07-02 |  |
-| [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 |  |
+| [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 | 2025-11-15 |
 | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/track/1roCmBlcpV7LzsmB7pmCyt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/album/30NnJW4urmnnaExzLLMuy6) | 2:49 | 2021-12-27 |  |
 | [Let Me Go](https://open.spotify.com/track/5h7Ehxi8K371hMuw6E7gyQ) | [Michael E.T.](https://open.spotify.com/artist/7H7joGMu2NEACFMbzMqMkf) | [Locked On Vol 2](https://open.spotify.com/album/54Nzi9eQ8TztLiEZCI1Nwf) | 6:01 | 2023-06-22 | 2024-01-31 |
 | [Let You Go](https://open.spotify.com/track/1u9Rbcgc4WLaW2HtienJzK) | [Zee Scott](https://open.spotify.com/artist/7Hx6eIpj0hdYJNZHH8RJAG) | [My Parents' basement](https://open.spotify.com/album/6auFJVznjAnHpi5wrHKRn4) | 4:19 | 2022-12-15 | 2023-06-23 |

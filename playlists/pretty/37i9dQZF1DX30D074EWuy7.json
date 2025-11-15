@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33489,
+  "num_followers": 33501,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "M\u00e9lodies en noir & blanc",
+        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Romano",
+          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
+        }
+      ],
+      "duration_ms": 265526,
+      "name": "Song for Ellis",
+      "url": "https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 186107,
       "name": "Bird\u00b4s Lament",
       "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "M\u00e9lodies en noir & blanc",
-        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Romano",
-          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
-        }
-      ],
-      "duration_ms": 265526,
-      "name": "Song for Ellis",
-      "url": "https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "MADRE",
-        "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
-      },
-      "artists": [
-        {
-          "name": "Go Dugong",
-          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
-        },
-        {
-          "name": "Wash\u00e9",
-          "url": "https://open.spotify.com/artist/5hCgBxDEYftmg8mjEDrvtX"
-        },
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
-      "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "MADRE",
+        "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
+      },
+      "artists": [
+        {
+          "name": "Go Dugong",
+          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
+        },
+        {
+          "name": "Wash\u00e9",
+          "url": "https://open.spotify.com/artist/5hCgBxDEYftmg8mjEDrvtX"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
+      "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "Nidi di Note",
         "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
       },
       "artists": [
         {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
         }
       ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+      "duration_ms": 197200,
+      "name": "Another Day with Another Sun",
+      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1507,22 +1523,6 @@
       "duration_ms": 348375,
       "name": "Here We Gong",
       "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Another Day with Another Sun",
-      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
     },
     {
       "added_at": "2025-11-13 23:01:23",

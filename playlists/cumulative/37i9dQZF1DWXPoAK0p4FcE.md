@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: เรนิษรา
 
-148 songs - 10 hr 17 min
+149 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [ดวงดาว](https://open.spotify.com/track/057fM9Lihc7TEQB26j5OGM) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ดวงดาว](https://open.spotify.com/album/6OR0AK67vjadPL6R5pZaje) | 4:13 | 2025-08-15 | 2025-09-20 |
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |
 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 | 2024-11-01 |  |
-| [ดาวเคราะห์](https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดาวเคราะห์](https://open.spotify.com/album/1kLrFPixDXY499py8uQryD) | 4:00 | 2024-11-28 |  |
+| [ดาวเคราะห์](https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดาวเคราะห์](https://open.spotify.com/album/1kLrFPixDXY499py8uQryD) | 4:00 | 2024-11-28 | 2025-11-15 |
 | [ดึง \(Tension\)](https://open.spotify.com/track/5ScRHC5BJzjzNWbrEHE6TS) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ดึง \(Tension\)](https://open.spotify.com/album/5CvAyfpneNWmsBodEmZ1kX) | 4:04 | 2024-08-16 | 2024-08-31 |
 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 | 2024-06-27 |  |
 | [ตกกะใจทำได้ลง \(Oops.\)](https://open.spotify.com/track/7s9HxP7Oi2S5RpnEdQ3E6v) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ตกกะใจทำได้ลง \(Oops.\)](https://open.spotify.com/album/0X2Zoned5hpJUmS85ntwKp) | 3:14 | 2025-01-23 |  |
@@ -70,6 +70,7 @@
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-06-27 | 2024-11-02 |
 | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/track/39VELAPLYYqNYjKBpkeYJH) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/album/0tbhHsd13yvAyGRFJwXfua) | 4:12 | 2024-08-23 | 2025-08-16 |
 | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/track/7pSHw1T4Xwt4byS6XIcDjA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/album/5vm7a9G3ySZKCOjRi7VWPH) | 3:36 | 2024-06-27 | 2025-03-22 |
+| [ถูกรักโดยไม่ต้องร้องขอ](https://open.spotify.com/track/0sn4QE0IOX8XDYACXVbAJU) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ถูกรักโดยไม่ต้องร้องขอ](https://open.spotify.com/album/5TUxEV56ieRDJ3tGv2DFP8) | 3:44 | 2025-11-14 |  |
 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 | 2024-06-27 | 2024-07-06 |
 | [ทางออก](https://open.spotify.com/track/0JEusAwqhkQfACiLCA5XdU) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ทางออก](https://open.spotify.com/album/5cg2790VNoRAK8pQDjTu3z) | 4:39 | 2025-09-19 | 2025-10-04 |
 | [ทิ้งไว้ที่เดิม](https://open.spotify.com/track/7lNFvY6jDHOPzsU5wfZz4C) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ทิ้งไว้ที่เดิม](https://open.spotify.com/album/40b5fnvDOTrUfugkRNspto) | 3:54 | 2025-03-28 | 2025-08-09 |

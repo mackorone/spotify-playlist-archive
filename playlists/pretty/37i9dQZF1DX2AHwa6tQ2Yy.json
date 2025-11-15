@@ -1,29 +1,13 @@
 {
   "description": "Try a little tenderness. Cover: WILSN",
-  "num_followers": 52775,
+  "num_followers": 52780,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+E8zhJptd3meV9kKcC9Ck26XFb",
+  "snapshot_id": "AAAAAEVv6ZQXRNXw78q+IcjEN9V+Pw/D",
   "tracks": [
-    {
-      "added_at": "2025-10-23 13:00:01",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/6M3b2ludgfBrd8GGNyg72z"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/3Zc22PrRJsAz224ELkB9jr"
-    },
     {
       "added_at": "2025-09-29 00:15:14",
       "album": {
@@ -41,10 +25,10 @@
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
-      "added_at": "2025-10-09 13:00:17",
+      "added_at": "2025-11-14 05:00:22",
       "album": {
-        "name": "Never Love",
-        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
       },
       "artists": [
         {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 210203,
-      "name": "Never Love",
-      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
+      "duration_ms": 264124,
+      "name": "Day To Night",
+      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -77,22 +61,6 @@
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
-      "added_at": "2025-10-16 13:00:02",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 246006,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z"
-    },
-    {
       "added_at": "2025-09-29 00:15:14",
       "album": {
         "name": "Texas Sun",
@@ -113,20 +81,20 @@
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
-      "added_at": "2025-10-02 14:00:18",
+      "added_at": "2025-10-16 13:00:02",
       "album": {
-        "name": "What's On Your Mind",
-        "url": "https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH"
       },
       "artists": [
         {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
         }
       ],
-      "duration_ms": 157213,
-      "name": "What's On Your Mind",
-      "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
+      "duration_ms": 246006,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -143,6 +111,38 @@
       "duration_ms": 206386,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2025-10-02 14:00:18",
+      "album": {
+        "name": "What's On Your Mind",
+        "url": "https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "What's On Your Mind",
+      "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
+    },
+    {
+      "added_at": "2025-10-23 13:00:01",
+      "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
       "added_at": "2025-10-09 13:00:17",
@@ -225,20 +225,20 @@
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
-      "added_at": "2025-10-23 13:00:01",
+      "added_at": "2025-09-29 00:15:14",
       "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -271,22 +271,6 @@
       "duration_ms": 176040,
       "name": "Si Llorar\u00e1s",
       "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
-    },
-    {
-      "added_at": "2025-09-29 00:15:14",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -457,22 +441,6 @@
       "url": "https://open.spotify.com/track/3taMsBBraU23lStSSq3QuH"
     },
     {
-      "added_at": "2025-10-02 14:00:18",
-      "album": {
-        "name": "Just How You Are",
-        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Just How You Are",
-      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
-    },
-    {
       "added_at": "2025-09-29 00:15:14",
       "album": {
         "name": "Oh Honey",
@@ -487,6 +455,22 @@
       "duration_ms": 356200,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
+    },
+    {
+      "added_at": "2025-10-02 14:00:18",
+      "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -709,6 +693,22 @@
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
+      "added_at": "2025-10-09 13:00:17",
+      "album": {
+        "name": "Never Love",
+        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 210203,
+      "name": "Never Love",
+      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
+    },
+    {
       "added_at": "2025-09-29 00:15:14",
       "album": {
         "name": "Never Be Yours",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-09-29 00:15:14",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 231737,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
+      "duration_ms": 327706,
+      "name": "Inner City Blues (Make Me Wanna Holler)",
+      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-09-29 00:15:14",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 327706,
-      "name": "Inner City Blues (Make Me Wanna Holler)",
-      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+      "duration_ms": 231737,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-29 00:15:14",
       "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 200414,
-      "name": "Give Me All Your Love",
-      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
-    },
-    {
-      "added_at": "2025-09-29 00:15:14",
-      "album": {
         "name": "Music and Me",
         "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
       },
@@ -991,22 +975,6 @@
     {
       "added_at": "2025-09-29 00:15:14",
       "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 117976,
-      "name": "I'll Call U Back",
-      "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
-    },
-    {
-      "added_at": "2025-09-29 00:15:14",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -1019,6 +987,22 @@
       "duration_ms": 236120,
       "name": "Almeda",
       "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
+    },
+    {
+      "added_at": "2025-09-29 00:15:14",
+      "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 117976,
+      "name": "I'll Call U Back",
+      "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
     },
     {
       "added_at": "2025-09-29 00:15:14",
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2025-09-29 00:15:14",
       "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "added_at": "2025-09-29 00:15:14",
+      "album": {
         "name": "Buhloone Mindstate",
         "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-09-29 00:15:14",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+        "name": "Very Mercenary",
+        "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "The Herbaliser",
+          "url": "https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w"
         }
       ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+      "duration_ms": 216001,
+      "name": "The Sensual Woman",
+      "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
     }
   ],
   "unique_name": "soulful",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Apache",
+  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Lil Supa",
   "name": "Flow Venezuela",
   "tracks": [
     {
@@ -2493,6 +2493,32 @@
     },
     {
       "album": {
+        "name": "PODER",
+        "url": "https://open.spotify.com/album/1xb2jassC6TgRMCzhEu8q1"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Tru Comers",
+          "url": "https://open.spotify.com/artist/2eA8qotLYMUNzlnjL8blKT"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173257,
+      "name": "PODER",
+      "url": "https://open.spotify.com/track/4AeWD3zh3JlSez7p9ZsnDp"
+    },
+    {
+      "album": {
         "name": "Prend\u00eda",
         "url": "https://open.spotify.com/album/1OyqhJhYzKHNa9su83b4DR"
       },
@@ -3114,7 +3140,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 182117,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/0OgEvHb3pNvg50nbocB0AK"

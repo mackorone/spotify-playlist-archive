@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Charles Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,862 likes - 70 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,932 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 13](https://open.spotify.com/track/1G2FFft1JdnT5N5nvkIkit) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Soweto Sunrise](https://open.spotify.com/track/1G2FFft1JdnT5N5nvkIkit) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [From The Hill](https://open.spotify.com/album/4fH1Vj7ZXEPgiEpjH0dEl2) | 8:28 |
 | 2 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 3 | [Partii \(feat\. SpacePose\)](https://open.spotify.com/track/5DdkXF93YaZC6lB0TrgZQF) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [SpacePose](https://open.spotify.com/artist/3FzuMCbtaezJJqkDWm6A6i) | [Partii \(feat\. SpacePose\)](https://open.spotify.com/album/6EUhiZ9tUjp80kpmfX6Oes) | 5:02 |
 | 4 | [Nomathemba](https://open.spotify.com/track/65XFPPDBgBeJ5BeXZ8Sb1k) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Dominiique](https://open.spotify.com/artist/3RNtAKOtBRnrMYOwtSpoaa) | [Nomathemba](https://open.spotify.com/album/4gbiKMoD8qoRIkXmaYKJlK) | 6:44 |

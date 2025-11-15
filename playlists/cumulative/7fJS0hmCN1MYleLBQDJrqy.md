@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-96 songs - 4 hr 10 min
+98 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,12 +69,14 @@
 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 | 2025-10-10 |  |
 | [Koning](https://open.spotify.com/track/5edpUbDaaTQdGt8uyWNLSP) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Koning](https://open.spotify.com/album/0xATFfVzfsP8sz3PoyJPgS) | 1:58 | 2025-07-18 |  |
 | [Last 2 Leave](https://open.spotify.com/track/5lfuQ9C0UOnmH4tRXrDjIK) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Last 2 Leave](https://open.spotify.com/album/1nOD3LXVd8jdPN7qGsxEmU) | 2:05 | 2025-09-12 |  |
+| [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 | 2025-11-14 |  |
 | [Lotje](https://open.spotify.com/track/7KJ021unkPr4E8Z8waQ5L7) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/2EZYI8AVfZxCzzKuRKCfS1) | 2:46 | 2025-07-18 |  |
 | [Lovin Lovin](https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Lovin Lovin](https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O) | 2:15 | 2025-10-31 |  |
 | [Luchtballon](https://open.spotify.com/track/024pThriWXJRFgGQuixYs7) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luchtballon](https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT) | 2:16 | 2025-07-18 | 2025-11-01 |
+| [Mijn Paleis](https://open.spotify.com/track/1VJsrEqXGWi9tF4Ng4QR6c) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Mijn Paleis](https://open.spotify.com/album/61F8vApSj10IHFzoLeegii) | 2:15 | 2025-11-14 |  |
 | [Mijntje](https://open.spotify.com/track/7G8Sd2g1wVXnmPUxpRitEX) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Mijntje](https://open.spotify.com/album/1NhlRAt4HUgo79YdrhZG0v) | 2:31 | 2025-07-18 | 2025-08-30 |
 | [Misschien \(Kwijt\) \- Freddi Remix](https://open.spotify.com/track/01ZZ9YcEKPWWz4mXP1kwdv) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Freddi](https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR) | [Misschien \(Kwijt\) \[Freddi Remix\]](https://open.spotify.com/album/6KR61gFX8NcpycabvalfAu) | 3:33 | 2025-07-18 |  |
-| [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2025-07-18 |  |
+| [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2025-07-18 | 2025-11-15 |
 | [Okee Shordy](https://open.spotify.com/track/47AUY6Kl6iiuSzZbOgwGF9) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Okee Shordy](https://open.spotify.com/album/3U0lv1cCRjEfiRAplhaqgw) | 2:30 | 2025-07-18 |  |
 | [Online Shoppen](https://open.spotify.com/track/0bVWXDuA0mWeQNmCwKAD2n) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN) | [Online Shoppen](https://open.spotify.com/album/46Xn4GJt5bKXRX5Gc5javf) | 2:50 | 2025-07-18 |  |
 | [Ordinair](https://open.spotify.com/track/033bjiKl7ytbU1W9XRvZD8) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Ordinair](https://open.spotify.com/album/4ZlMuABcza8aefzN5yxfL4) | 2:34 | 2025-11-07 |  |
@@ -103,6 +105,6 @@
 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 | 2025-07-18 |  |
 | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ) | 3:27 | 2025-07-18 |  |
 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 | 2025-07-18 |  |
-| [Zomer](https://open.spotify.com/track/4LWSh6ywiwlEpPytH5bstM) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Zomer](https://open.spotify.com/album/3To7NyeKEzquC5ufnuQNWV) | 3:38 | 2025-07-18 |  |
+| [Zomer](https://open.spotify.com/track/4LWSh6ywiwlEpPytH5bstM) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Zomer](https://open.spotify.com/album/3To7NyeKEzquC5ufnuQNWV) | 3:38 | 2025-07-18 | 2025-11-15 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

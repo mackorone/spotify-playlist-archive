@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 120784,
       "name": "Baddie Baddie",
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
@@ -7652,7 +7652,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
@@ -21047,8 +21047,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "PEPERONCINA",
+        "url": "https://open.spotify.com/album/5j285vtL2LtYJZja0GPABv"
       },
       "artists": [
         {
@@ -22967,8 +22967,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Woman Of Faces",
+        "url": "https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy"
       },
       "artists": [
         {
@@ -27897,6 +27897,24 @@
     },
     {
       "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3o3VckqNsLIIwlZkBcR9Yt"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140346,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/3krZVf9fIPf6Y2aY8anw4I"
+    },
+    {
+      "album": {
         "name": "Suljen Sun Suun",
         "url": "https://open.spotify.com/album/0K0EjlJPZO9vCuPzShXZXg"
       },
@@ -29877,8 +29895,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
       },
       "artists": [
         {
@@ -30792,24 +30810,6 @@
       "duration_ms": 199466,
       "name": "Toyboy",
       "url": "https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
-        }
-      ],
-      "date_added": "2025-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3krZVf9fIPf6Y2aY8anw4I"
     },
     {
       "album": {

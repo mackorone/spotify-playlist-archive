@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,039 songs - 2 day 15 hr 49 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,041 songs - 2 day 15 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 143 | [Cocaine Blues \- Live at Folsom State Prison, Folsom, CA \(1st Show\) \- January 1968](https://open.spotify.com/track/6i8SZ4NIrYeyrbBOoRSC9z) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison \(Legacy Edition\)](https://open.spotify.com/album/6wZ6UMWSAmDOCZ4ErWlqPa) | 2:49 |
 | 144 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 |
 | 145 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
-| 146 | [Orange Colored Sky](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
+| 146 | [Orange Colored Sky \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
 | 147 | [Three of a Perfect Pair](https://open.spotify.com/track/6K77y4p0cJYxQghBxv5lVx) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Three of a Perfect Pair](https://open.spotify.com/album/4eJ3LJl4sHKs3nd8CZ9hq5) | 4:10 |
 | 148 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 |
 | 149 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
@@ -1047,5 +1047,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1037 | [トレセン音頭](https://open.spotify.com/track/4E81zUSY82YJWUBUzUUe2w) | [ナリタブライアン \(CV\. 衣川里佳\)](https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO), [マヤノトップガン \(CV\. 星谷美緒\)](https://open.spotify.com/artist/6Qi7KuRGCkHX22OAEFq3vn), [アドマイヤベガ \(CV\. 咲々木瞳\)](https://open.spotify.com/artist/77jJBS7kai3P7IpnhczBTU), [イナリワン \(CV\. 井上遥乃\)](https://open.spotify.com/artist/7pxU6wxauuxXXdsY05TbZc), [サトノダイヤモンド \(CV\. 立花日菜\)](https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0), [キタサンブラック \(CV\. 矢野妃菜喜\)](https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS), [ヤエノムテキ \(CV\. 日原あゆみ\)](https://open.spotify.com/artist/6Bm8nnruZk1A84SbLmP1Hv), [サクラローレル \(CV\. 真野美月\)](https://open.spotify.com/artist/3wM5MuwDqTFhHYY5T8PHtE), [ナリタトップロード \(CV\. 中村カンナ\)](https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3), [サトノクラウン \(CV\. 鈴代紗弓\)](https://open.spotify.com/artist/1VBUFMoigX0eL9udp7qWaQ), [シュヴァルグラン \(CV\. 夏吉ゆうこ\)](https://open.spotify.com/artist/2xgEy3RyCYHdv0nydyx8G5), [ネオユニヴァース \(CV\. 白石晴香\)](https://open.spotify.com/artist/3LRrriwAWsF3UDLOSjnRqw), [ヒシミラクル \(CV\. 春日さくら\)](https://open.spotify.com/artist/3OqQEYJO94rZPvJ7TpQYvk) | [『ウマ娘 プリティーダービー』WINNING LIVE 13](https://open.spotify.com/album/3254gGtN9czQMevOm1q1RG) | 2:52 |
 | 1038 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 | 1039 | [i hate sundays](https://open.spotify.com/track/3PngDJnjp0Gf8dvL7ufWVg) | [Murr](https://open.spotify.com/artist/3GMY6RVmh6Ud1aKHqKt9Fn) | [The Chameleon](https://open.spotify.com/album/2XZPQXwsIx1hY8jdoHIjzr) | 3:42 |
+| 1040 | [Serpent Lullaby](https://open.spotify.com/track/5L0YAr8FVgUi6QJXlkTqHi) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Serpent Lullaby](https://open.spotify.com/album/1BXIvy3pI9teSxPPntvzwz) | 3:17 |
+| 1041 | [The Moon Will Sing](https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 3:40 |
 
-Snapshot ID: `AAAHuOPxlxmyr+bmkpdrBLxcJ4n+V+oP`
+Snapshot ID: `AAAHu9Ai+nMWlw5Dig8+6ovWP5BrOhsP`

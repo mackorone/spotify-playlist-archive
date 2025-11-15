@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,565 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,578 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 99 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 |
 | 100 | [Boca de Dama](https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Exquisito como el Disgusto](https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP) | 4:23 |
 
-Snapshot ID: `AAAAACXfw12N8AzL5Kn4H9WFVnjUM55G`
+Snapshot ID: `AAAAAKmvEWwjPrnkh8EuRFRHak2S8OCC`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Low G
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,837 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,865 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 18 | [Love Game](https://open.spotify.com/track/0x7rhEP1Tak1guiTYODlic) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Love Game](https://open.spotify.com/album/1vyxo3BO4guXsPYgWoV9gl) | 3:19 |
 | 19 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |
 | 20 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |
-| 21 | [NGƯỜI YÊU CHƯA SINH RA](https://open.spotify.com/track/2ix8KB1Xm7rRGzkh3i8P1d) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv), [Dillan Hoàng Phan](https://open.spotify.com/artist/2VVveD3cVA7Pf61XKeJQDs) | [ANH TRAI "SAY HI" 2025, TẬP 2](https://open.spotify.com/album/69GHmxwa2HTLLQJCe2icok) | 3:54 |
-| 22 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
+| 21 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
+| 22 | [NGƯỜI YÊU CHƯA SINH RA](https://open.spotify.com/track/2ix8KB1Xm7rRGzkh3i8P1d) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv), [Dillan Hoàng Phan](https://open.spotify.com/artist/2VVveD3cVA7Pf61XKeJQDs) | [ANH TRAI "SAY HI" 2025, TẬP 2](https://open.spotify.com/album/69GHmxwa2HTLLQJCe2icok) | 3:54 |
 | 23 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 |
 | 24 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
 | 25 | [Em iu \- Radio Edit](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2Pillz](https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A) | [Em iu \(Radio Edit\)](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 47 | [POLITE](https://open.spotify.com/track/3EfychxMku3sRuso0jkGis) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [POLITE](https://open.spotify.com/album/4hIY0GUjgLZi9jrUneg03c) | 2:40 |
 | 48 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
 | 49 | [TALAGI](https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [WHENITSASUNNIDAY](https://open.spotify.com/artist/3Hw8laObefIk5NMDmXMMsn) | [TALAGI](https://open.spotify.com/album/5jCumbmCqmSAUfPUNqYGgw) | 3:36 |
-| 50 | [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 |
+| 50 | [Chưa Phải Là Yêu](https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z) | [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4) | [Chưa Phải Là Yêu](https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd) | 3:12 |
 
 Snapshot ID: `AAAAAOFvCz1oEqeJOxcPdAC/AWwTyFfi`

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1745656,
+  "num_followers": 1745918,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Underlying Feeling",
+        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Tosun",
+          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
+      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 151621,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Underlying Feeling",
-        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Tosun",
-          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
-      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Put 'Em Up",
-        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
-      },
-      "artists": [
-        {
-          "name": "Edun",
-          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Put `em Up",
-      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Put 'Em Up",
+        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
+      },
+      "artists": [
+        {
+          "name": "Edun",
+          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Put `em Up",
+      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Better Off Alone (Laidback Luke Remix)",
-        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
-      },
-      "artists": [
-        {
-          "name": "Alice DJ",
-          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
-        }
-      ],
-      "duration_ms": 215246,
-      "name": "Better Off Alone - 1999 Original Hit Radio",
-      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 171360,
       "name": "Call On Me - Radio Edit",
       "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Better Off Alone (Laidback Luke Remix)",
+        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
+      },
+      "artists": [
+        {
+          "name": "Alice DJ",
+          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Better Off Alone - 1999 Original Hit Radio",
+      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Exploration of Space",
-        "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Exploration of Space - Radio Edit",
-      "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+        "name": "Exploration of Space",
+        "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
       },
       "artists": [
         {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+      "duration_ms": 216360,
+      "name": "Exploration of Space - Radio Edit",
+      "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1591,6 +1575,70 @@
       "duration_ms": 178613,
       "name": "Heartbroken - Edit",
       "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "I Am The Club Rocker",
+        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Sun Is Up - Play & Win Radio Edit",
+      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
+      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1615,6 +1663,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Pacha Ibiza - The House Collection (2000-2009)",
         "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
@@ -1631,54 +1695,6 @@
       "duration_ms": 281516,
       "name": "Day 'N' Night - Club Mix",
       "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "I Am The Club Rocker",
-        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Sun Is Up - Play & Win Radio Edit",
-      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
-      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Further",
         "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
       },
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Put Your Hands Up For Detroit",
         "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
       },
@@ -1783,22 +1799,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+      "duration_ms": 562573,
+      "name": "A Tear In The Open",
+      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1819,18 +1831,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1855,42 +1867,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
-        }
-      ],
-      "duration_ms": 447080,
-      "name": "Walking On Clouds",
-      "url": "https://open.spotify.com/track/5Dx4wEpUGIdoSPNYoLVrmr"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
       },
@@ -1903,6 +1879,22 @@
       "duration_ms": 254120,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 404320,
+      "name": "Nyana",
+      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1959,22 +1951,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 562573,
-      "name": "A Tear In The Open",
-      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Floorfillers Club Anthems",
         "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
       },
@@ -1991,6 +1967,26 @@
       "duration_ms": 171430,
       "name": "I Found U - Radio Edit",
       "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",

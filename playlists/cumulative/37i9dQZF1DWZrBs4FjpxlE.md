@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-178 songs - 8 hr 47 min
+180 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2025](https://open.spotify.com/track/1JWhuuywKiNooC18mKgQ1p) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [2025](https://open.spotify.com/album/6jadaDoUTBIt9GdXSBHrkB) | 2:18 | 2025-03-28 | 2025-04-12 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2023-08-07 |  |
 | [772 Love](https://open.spotify.com/track/230wNo1dnexltKYQbsW7oD) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [772 Love](https://open.spotify.com/album/1RTMwluKhKL68BpYBdiF6x) | 3:29 | 2024-02-23 |  |
+| [911](https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Eon Zero](https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Jake Luke](https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw) | [911](https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO) | 3:26 | 2025-11-14 |  |
 | [About You](https://open.spotify.com/track/74WKPbLlT4hrlNBj0cmR33) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Still Lost 2](https://open.spotify.com/album/3e91QRkfMkbIDBwH4X7n8s) | 2:53 | 2024-02-23 |  |
 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-08 |  |
 | [after](https://open.spotify.com/track/56MC5t01ksjryLvJuuZypa) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [after](https://open.spotify.com/album/1x4fNH25BgVaDjo0jWaYD7) | 2:25 | 2025-06-27 |  |
@@ -89,6 +90,7 @@
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-08-07 | 2025-11-08 |
 | [I](https://open.spotify.com/track/4ZT9FnbFu1PaBfV3itxiqT) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Shelby](https://open.spotify.com/album/47FalEKu0of8GExDtZBkxT) | 3:01 | 2024-02-23 |  |
 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 | 2023-08-07 |  |
+| [i won't live forever](https://open.spotify.com/track/7BOTAsFUDxqriXuhoddUm7) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [i won't live forever](https://open.spotify.com/album/031A1BdfESmR6Yimo5YwOt) | 1:40 | 2025-11-14 |  |
 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 | 2024-02-23 |  |
 | [If You Want Love](https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:19 | 2024-02-23 |  |
 | [In The Dust](https://open.spotify.com/track/214Zfl2yyjTR17ZVM46UU9) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [In The Dust](https://open.spotify.com/album/33Qr6AywgazuKlBjhgRIC2) | 2:37 | 2025-05-23 | 2025-05-31 |

@@ -3499,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Cynthia",
+        "url": "https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Cynthia",
+      "url": "https://open.spotify.com/track/7wIBlBjYKgEMUfDEFXS61E"
+    },
+    {
+      "album": {
         "name": "Damsel, Damsel",
         "url": "https://open.spotify.com/album/4hLyyEEq15GsBO8yMMLvwJ"
       },
@@ -5348,6 +5366,24 @@
       "duration_ms": 175736,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC"
+    },
+    {
+      "album": {
+        "name": "Triple Shooting Star",
+        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238641,
+      "name": "Fuck Up",
+      "url": "https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT"
     },
     {
       "album": {
@@ -13336,7 +13372,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 144817,
       "name": "Simple Math",
       "url": "https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs"
@@ -16838,7 +16874,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 286749,
       "name": "Who I've Been",
       "url": "https://open.spotify.com/track/4sL7wZTCXvxK075MiMopjk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Hidden Empire
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,351 likes - 90 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,577 likes - 90 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 8 | [Bodyrock](https://open.spotify.com/track/7F3ADDV1t4HgbBE25hTThD) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Bodyrock](https://open.spotify.com/album/18XIDILNhAOLrt04Oz9Sn9) | 3:14 |
 | 9 | [Perfektion](https://open.spotify.com/track/11BoAddQRBeMu39TtxSias) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Perfektion](https://open.spotify.com/album/43lEkF5Oqrl8rcrzPS35pe) | 4:24 |
 | 10 | [Motivation](https://open.spotify.com/track/2i94CfOGQZSnOFIqwtr6ds) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Sisters Cap](https://open.spotify.com/artist/2qqX8GWsa5U8kiVM10bFlp) | [Motivation](https://open.spotify.com/album/5FAt66iyCuoM5IeMmmyylY) | 3:50 |
-| 11 | [Track 3](https://open.spotify.com/track/4qzNbx48h2KEqDtWfte9VQ) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [](https://open.spotify.com/album/null) | 0:00 |
-| 12 | [CHROMA 011 A.L.O.E II](https://open.spotify.com/track/61gCDJBdaNXE4sy9Xl2lvl) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [](https://open.spotify.com/album/null) | 5:42 |
+| 11 | [Silent Chills](https://open.spotify.com/track/4qzNbx48h2KEqDtWfte9VQ) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit \(Deluxe\)](https://open.spotify.com/album/2kcUhQkrJmntQZgbDviH3o) | 2:42 |
+| 12 | [CHROMA 011 A.L.O.E II](https://open.spotify.com/track/61gCDJBdaNXE4sy9Xl2lvl) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 000](https://open.spotify.com/album/0m1epiCLYT58W9XZdGgLK4) | 5:42 |
 | 13 | [In Love Again \- Vocal](https://open.spotify.com/track/5YMrcjheuWjngTyH6nmLsO) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [In Love Again \(Vocal\)](https://open.spotify.com/album/3PKmmAbjVAz6VVsPbpE4Af) | 3:23 |
 | 14 | [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 |
 | 15 | [forever sleepless](https://open.spotify.com/track/3hN0Fgqdcz9BL1M9XeMPA8) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [forever sleepless](https://open.spotify.com/album/6mCxfB5LAqF4UKU8M6pRZU) | 2:39 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 18 | [Busy DJ](https://open.spotify.com/track/3izu8EuDc1x8KrFc4lnXJl) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Busy DJ](https://open.spotify.com/album/5rH3FswBjZhC1zS1rgDGkB) | 3:13 |
 | 19 | [My Love](https://open.spotify.com/track/6W7Cv5aX9TbKgBW52ZwwzV) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [My Love](https://open.spotify.com/album/0b3GrbkbtoCQ2cxgTdqSA8) | 3:23 |
 | 20 | [Watermark](https://open.spotify.com/track/72uuQWQuAek5WAhEqkLUBg) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Watermark](https://open.spotify.com/album/329ElInVCDAJUuEv6PAJqG) | 3:46 |
-| 21 | [Hush](https://open.spotify.com/track/0kYO7Hzb9S67suF3JgK8e1) | [Atric](https://open.spotify.com/artist/5JGnzT3iv4izDNPbH8cUj3), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [](https://open.spotify.com/album/null) | 3:07 |
+| 21 | [Hush](https://open.spotify.com/track/0kYO7Hzb9S67suF3JgK8e1) | [Atric](https://open.spotify.com/artist/5JGnzT3iv4izDNPbH8cUj3), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Hush](https://open.spotify.com/album/1BuPw6CqsjWFwr3rMpvED6) | 3:07 |
 | 22 | [Rude Boy](https://open.spotify.com/track/3B5QlLmaWqznmEHnZF63n9) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Rude Boy](https://open.spotify.com/album/792sED43IyBxqL5mF2I044) | 3:56 |
 | 23 | [Too Much Pressure](https://open.spotify.com/track/51HLPoOIRDSoJWrGq3j1wq) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [Too Much Pressure](https://open.spotify.com/album/0yUbYSzZ1FQ2LxT6agnaOB) | 2:53 |
 | 24 | [The Night Is Ours](https://open.spotify.com/track/7MqiMOxGmypo2ehBHlDrAm) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [The Night Is Ours](https://open.spotify.com/album/3wNy7vNBC75uAMvtsd9Ffj) | 4:26 |

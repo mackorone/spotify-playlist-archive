@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "Infinito 2021, Vol.2",
+        "url": "https://open.spotify.com/album/7KY9HZqB01IoHhRWyzG5Gj"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253932,
+      "name": "Presente Do C\u00e9u",
+      "url": "https://open.spotify.com/track/4gk00HdAowVKiQe3JziDOc"
+    },
+    {
+      "album": {
         "name": "Presente do C\u00e9u",
         "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 253932,
       "name": "Presente do C\u00e9u",
       "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"

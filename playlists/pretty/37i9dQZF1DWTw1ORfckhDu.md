@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi\.  Kannessa Jore & Zpoppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,549 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,547 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 33 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 34 | [Lumikki](https://open.spotify.com/track/4chiuEnr73PDWVKykVejqx) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Lumikki](https://open.spotify.com/album/1wPGUGOwwsd0jPqijrJkhE) | 3:13 |
 | 35 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 |
-| 36 | [Esikuva](https://open.spotify.com/track/0M9aHCy9mp040zf7Xv08ww) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [](https://open.spotify.com/album/null) | 3:15 |
+| 36 | [Esikuva](https://open.spotify.com/track/0M9aHCy9mp040zf7Xv08ww) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Yliajattelija](https://open.spotify.com/album/7mjpBLjv1TEqo85ERLfTXb) | 3:15 |
 | 37 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
 | 38 | [Tehtaan Takuu](https://open.spotify.com/track/0fCPXD3gyyvcGCUDNbWIwf) | [Bulle](https://open.spotify.com/artist/1lXwfUoWuEuKgm6oPTkGQl), [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD), [Taisto Tapulist](https://open.spotify.com/artist/7qg86ebKDwx18tTzUMJyb5) | [Tehtaan Takuu](https://open.spotify.com/album/4eIOlifvxj7isLOfKDgKjX) | 3:20 |
 | 39 | [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 |

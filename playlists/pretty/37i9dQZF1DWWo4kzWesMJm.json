@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 178198,
+  "num_followers": 178213,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,30 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
+        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists": [
+        {
+          "name": "Damien Sargue",
+          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        {
+          "name": "Cyril Niccola\u00ef",
+          "url": "https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm"
+        },
+        {
+          "name": "John Eyzen",
+          "url": "https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
+      "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -399,30 +423,6 @@
       "duration_ms": 218906,
       "name": "Elle me dit",
       "url": "https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
-        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
-        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
-      },
-      "artists": [
-        {
-          "name": "Damien Sargue",
-          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
-        },
-        {
-          "name": "Cyril Niccola\u00ef",
-          "url": "https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm"
-        },
-        {
-          "name": "John Eyzen",
-          "url": "https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
-      "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Chaque seconde (feat. M. Pokora)",
         "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2025-08-19 14:34:26",

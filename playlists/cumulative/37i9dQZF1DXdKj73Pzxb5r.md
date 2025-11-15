@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Manjakani
 
-442 songs - 1 day 4 hr 14 min
+444 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Lagu Untuk Kamu](https://open.spotify.com/track/1cHTsSWfj3GJbfN8kal5Fn) | [Cocolite](https://open.spotify.com/artist/143AiWSohasQDmU3z93zap) | [Lagu Untuk Kamu](https://open.spotify.com/album/2CRrQzp3Ta96FlcWuBOw1i) | 4:54 | 2024-10-24 | 2025-04-26 |
 | [Lala, Lala](https://open.spotify.com/track/4wDgE0ZGGdUFxlCowHoiFz) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Lala, Lala](https://open.spotify.com/album/4AC9kaIY3uJdsFg9Qlb9T0) | 4:09 | 2024-08-29 | 2025-05-09 |
 | [Langgas](https://open.spotify.com/track/5AcTfKB9WHC5h200wOs8nx) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Langgas](https://open.spotify.com/album/2mq35fmgWBZ7LjWPRfMlw3) | 4:29 | 2024-06-27 | 2025-05-17 |
+| [Lapor Mas Wapres](https://open.spotify.com/track/1ottATig7wFOwVe0HOE2N7) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Lapor Mas Wapres](https://open.spotify.com/album/6eZZR65XIidru3G1sFZsGi) | 3:35 | 2025-11-14 |  |
 | [Lara Berlalu](https://open.spotify.com/track/6sGhMnBwwxtMDRsOz5knma) | [Lealona](https://open.spotify.com/artist/2x1DNuXSksxjEjQK8UE3WD) | [Lara Berlalu](https://open.spotify.com/album/1AFcZ66V3yJ9ycbSXd8G7n) | 5:09 | 2025-05-22 | 2025-08-15 |
 | [Last Found Call \- Remastered](https://open.spotify.com/track/69KMNjoulDuypNhuzCArmI) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Last Found Call \(Remastered\)](https://open.spotify.com/album/638pak9HXnV6e9n31LrCJE) | 2:52 | 2025-06-19 | 2025-08-15 |
 | [Lekas](https://open.spotify.com/track/0gO6RgFJZC3UTXJujA68aA) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn) | [Lekas](https://open.spotify.com/album/33Pxh19anFo5M8rwpVTajB) | 4:21 | 2025-01-31 | 2025-05-09 |
@@ -256,6 +257,7 @@
 | [Masih Disini](https://open.spotify.com/track/7MU6c48qVDAyGbswUnCdnD) | [Rayremar](https://open.spotify.com/artist/395biN8y8SqcCeE5iwx4rb) | [Masih Disini](https://open.spotify.com/album/63iHSP1GUZk6FoGq5klhnV) | 3:11 | 2025-08-14 | 2025-10-17 |
 | [May I Make You Happy](https://open.spotify.com/track/7hB72RPGylCAHoLuPvDPs1) | [Kakek & Nenek](https://open.spotify.com/artist/4qEdTwWrqVn6JlblqJInZs) | [May I Make You Happy](https://open.spotify.com/album/1S9RcWfYvSwfJLL40hvHM3) | 3:53 | 2025-04-25 | 2025-07-25 |
 | [Melati](https://open.spotify.com/track/62l2nQqggtXIiljDHLaeEb) | [Frasa](https://open.spotify.com/artist/7yZ9jH9hNvBrVhe7ZANmGh) | [Melati](https://open.spotify.com/album/1EIiz9IOjNshQZ3HAz2ARN) | 2:55 | 2025-10-16 |  |
+| [Melayang](https://open.spotify.com/track/6NDRdNur75SmvumwhjxwJ0) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Melayang](https://open.spotify.com/album/6WhK0cJpAuUm867voRawki) | 5:02 | 2025-11-14 |  |
 | [Memento Mori](https://open.spotify.com/track/6iXifePsg3sAghgVgcQT7z) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Memento Mori](https://open.spotify.com/album/7blLbc1p2xhSBeR6uEdc2D) | 2:56 | 2025-08-21 | 2025-10-24 |
 | [Menangkapnya](https://open.spotify.com/track/4mDUemYFleBBui4BRn6zMH) | [Anggun Priambodo](https://open.spotify.com/artist/77kyYpqO5DJuFfo08h4pDr) | [Menangkapnya](https://open.spotify.com/album/3282OAEwwjOuivGd86Ib57) | 1:33 | 2025-03-14 | 2025-04-26 |
 | [Mencari \- 2009 Mix](https://open.spotify.com/track/4OCiNolqVzkMY3lsuRsmvF) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Mencari \(2009 Mix\)](https://open.spotify.com/album/5Hkt5Yopx1bVPbXiS4Q1pK) | 3:31 | 2025-10-24 |  |

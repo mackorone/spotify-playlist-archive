@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 134200,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/2qjH6wZfR0g11ZiT7KqyRO"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 295440,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217862,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
+    },
+    {
+      "album": {
         "name": "The Beginning of the End",
         "url": "https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM"
       },
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 196666,
       "name": "Your Idol (KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/4VmiSWsMVZ25tbf2HErZtC"

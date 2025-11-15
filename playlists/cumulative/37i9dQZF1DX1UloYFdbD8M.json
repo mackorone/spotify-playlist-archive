@@ -1431,6 +1431,32 @@
     },
     {
       "album": {
+        "name": "Chekavar",
+        "url": "https://open.spotify.com/album/1EbisJutTaEfR2eDA4ubXH"
+      },
+      "artists": [
+        {
+          "name": "Sajeer Koppam",
+          "url": "https://open.spotify.com/artist/7Ea6gI259RLD4aFoAsPtph"
+        },
+        {
+          "name": "Sibu Sukumaran",
+          "url": "https://open.spotify.com/artist/3keNxNmATzwZrIbAl2eyei"
+        },
+        {
+          "name": "Knowthaju",
+          "url": "https://open.spotify.com/artist/1CQz6JsH9Q912PM478G7OB"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210858,
+      "name": "Chekavar",
+      "url": "https://open.spotify.com/track/6csl1tgnQDk87FRAh7j6Sv"
+    },
+    {
+      "album": {
         "name": "AVIAL",
         "url": "https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv"
       },
@@ -4357,6 +4383,28 @@
     },
     {
       "album": {
+        "name": "Madrasa (From \"Saina Music Indie\")",
+        "url": "https://open.spotify.com/album/3KKFD01IQ8XQmGOIEIl4Ew"
+      },
+      "artists": [
+        {
+          "name": "Hazbulla kollam",
+          "url": "https://open.spotify.com/artist/2X1TEs8Yp4Vu7SiWtNp3l4"
+        },
+        {
+          "name": "Ajmal Bin Ashkar",
+          "url": "https://open.spotify.com/artist/2NEWl8yUBc4eebV2Tb6odo"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195517,
+      "name": "Madrasa - From \"Saina Music Indie\"",
+      "url": "https://open.spotify.com/track/2skqHUac0gpqqUMuVjUkrU"
+    },
+    {
+      "album": {
         "name": "Maharani (From \"AYAKTIHIS\")",
         "url": "https://open.spotify.com/album/5V7Cqi80blyOQV1U8MZhCh"
       },
@@ -4520,7 +4568,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 196800,
       "name": "Mallu Funk",
       "url": "https://open.spotify.com/track/2hnKY2EenI3ZBKNlHDoI9H"
@@ -5136,7 +5184,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 159836,
       "name": "My Life My Way",
       "url": "https://open.spotify.com/track/1720fI0KdAg8M0uNmKuQZl"

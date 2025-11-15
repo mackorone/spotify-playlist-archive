@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Oh'laville y Fer Casillas en portada.
 
-200 songs - 11 hr 2 min
+201 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 | 2024-02-09 | 2024-11-16 |
 | [Con la vida al centro](https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Con la vida al centro](https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm) | 2:52 | 2024-06-14 | 2024-12-07 |
 | [CON TU TÍA EN EL CLUB](https://open.spotify.com/track/6l0JFV3Tuhn2eLNvnMZEFM) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [CON TU TÍA EN EL CLUB](https://open.spotify.com/album/6GUaxCCSSh0ObbbzUmXU6I) | 4:24 | 2024-11-22 |  |
+| [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 |  |
 | [Crucemos](https://open.spotify.com/track/1DqxFcAxtVKIA2sWldZYKY) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Crucemos](https://open.spotify.com/album/15pPla93CDLdX0TbVYbXHP) | 3:09 | 2025-08-01 |  |
 | [cruz](https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [cruz](https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U) | 4:04 | 2025-03-28 |  |
 | [Cuando Te Tengo Cerca \- Sesión en Vivo](https://open.spotify.com/track/48lX5TitlRBFfCBx2A8DFE) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Cuando Te Tengo Cerca \(Sesión en Vivo\)](https://open.spotify.com/album/2j6E3OLYfVWhLxxIg6dooN) | 5:30 | 2024-04-12 | 2024-08-03 |
@@ -150,7 +151,7 @@
 | [Ojalá Te Vaya Mal](https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Ojalá Te Vaya Mal](https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98) | 3:00 | 2024-07-19 | 2024-08-24 |
 | [Ojos Secos \(with Cuco\)](https://open.spotify.com/track/0bUG52107oXCTZmYMtTTjO) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ojos Secos \(with Cuco\)](https://open.spotify.com/album/4z3NyqUdK2CiVBjHV0Nwws) | 3:52 | 2025-05-23 |  |
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-04-04 |  |
-| [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 | 2025-08-01 |  |
+| [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 | 2025-08-01 | 2025-11-15 |
 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 | 2023-11-24 | 2024-01-13 |
 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 | 2023-12-01 | 2025-01-25 |
 | [Oveja Negra](https://open.spotify.com/track/5lVHU9YGgzhrzUQzmv71XC) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Carlitosss](https://open.spotify.com/artist/4BnbhKXjvpJBRkC9mmgjxo) | [Oveja Negra](https://open.spotify.com/album/6dIc4l4A7QNGISb3oKhiEp) | 2:55 | 2025-09-26 |  |

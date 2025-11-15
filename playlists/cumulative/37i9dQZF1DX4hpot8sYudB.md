@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-413 songs - 21 hr 34 min
+414 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Brown Noise Soothing Sounds](https://open.spotify.com/track/395nn3mYgKDdImyOp2KNer) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Brown Noise Soothing Sounds](https://open.spotify.com/album/4FbZ6PYbI7veGhoxglIjIc) | 2:58 | 2023-06-28 |  |
 | [Brown Noise Soothing Soundscape](https://open.spotify.com/track/4xaVqe8YrFui2MYYOVKKXZ) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 | 2022-09-08 | 2023-10-27 |
 | [Brown Noise Sounds](https://open.spotify.com/track/6l8lAkm5VnM9K4UTe5KbFZ) | [Relaxed Skies](https://open.spotify.com/artist/7MuuwHQrVsCg68uvZHK35x) | [Brown Noise Sounds](https://open.spotify.com/album/43jEYINkA6K5AMdYapaZN3) | 3:00 | 2022-10-26 |  |
+| [Brown Noise Spa](https://open.spotify.com/track/1T8LPpzZMrX1CepY2m6TRe) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Brown Noise Spa](https://open.spotify.com/album/7dAm9gpkAghN9nuMdSxrfX) | 3:07 | 2025-11-13 |  |
 | [Brown Noise Space Vessel](https://open.spotify.com/track/6lCUMe0Q52bTzACupusgFT) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Unwinding Noise](https://open.spotify.com/album/7bEN377z4nw9351vLVCL3D) | 2:42 | 2022-01-07 | 2023-01-21 |
 | [Brown Noise Stream](https://open.spotify.com/track/1inr8IQFXA1am26upyEnSB) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:36 | 2022-05-20 |  |
 | [Brown Noise Stream](https://open.spotify.com/track/0SMKOwGiMI3gLY6Oe8KB0L) | [Ziem](https://open.spotify.com/artist/6nIgqoE3AfrXQ9QxnoNWwb) | [Brown Noise Stream](https://open.spotify.com/album/3jMDqVidjRUk0CiCYCwsWq) | 1:52 | 2022-12-16 | 2023-06-29 |
@@ -185,7 +186,7 @@
 | [Brown Noise Waterfall](https://open.spotify.com/track/4D8NrgPfpaVDgYL5RGIJ66) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Calm Noise](https://open.spotify.com/album/6ZHA1t28vnQkY5Oj23WsVV) | 2:50 | 2022-01-07 | 2022-06-15 |
 | [Brown Noise Zen](https://open.spotify.com/track/3CTBLZaFX89g0ZJ737a6lF) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Brown Noise Focus](https://open.spotify.com/album/6YwdavdsK0jwik4woVUKL3) | 3:41 | 2022-05-20 | 2023-10-27 |
 | [Brown Noise Zen Zone](https://open.spotify.com/track/7KTxYjX3E5pOyRv3DM6Ija) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Brown Noise Zen Zone](https://open.spotify.com/album/1sIa8ZnR0tExbhdR3yl01J) | 5:02 | 2024-02-09 |  |
-| [Brown Noise, Unbroken](https://open.spotify.com/track/1BxKKGjwLWiqawXnKrsI1A) | [Équipage ambiant](https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU) | [Brown Noise, Unbroken](https://open.spotify.com/album/1UjqJ8k7hb60WsMeSfA7mP) | 3:01 | 2025-11-13 |  |
+| [Brown Noise, Unbroken](https://open.spotify.com/track/1BxKKGjwLWiqawXnKrsI1A) | [Équipage ambiant](https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU) | [Brown Noise, Unbroken](https://open.spotify.com/album/1UjqJ8k7hb60WsMeSfA7mP) | 3:01 | 2025-11-13 | 2025-11-15 |
 | [Brown Oceanic Noise 340 Hz \- Seamless](https://open.spotify.com/track/21d1Gbp9u8SiupUfAImyBL) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum Brown Noise](https://open.spotify.com/album/69iNf6AZ6JpFJUktVcoTdv) | 3:04 | 2022-10-26 |  |
 | [Brown Serene Noise](https://open.spotify.com/track/2dInowJMBWTf85Et1NRyvZ) | [Luke Andersson](https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc) | [Brown Serene Noise](https://open.spotify.com/album/1JUDFLZrPlt4H3k70nuFTR) | 3:09 | 2022-10-26 |  |
 | [Brown Sleep Noise](https://open.spotify.com/track/5UBonaClAZVfzxJNn8nnhh) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Brown Sleep Noise](https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr) | 4:08 | 2022-01-07 | 2024-07-27 |

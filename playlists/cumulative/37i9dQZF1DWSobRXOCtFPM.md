@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-424 songs - 1 day 17 hr 25 min
+425 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Acid Controls My Mind](https://open.spotify.com/track/3beIbVXHEBjHC8MCDsMd20) | [Raho](https://open.spotify.com/artist/0cm6TNMImRKuuwosNtBHge) | [Acid Controls My Mind](https://open.spotify.com/album/3ilUZwHChzFnat06rMpt3d) | 6:00 | 2024-06-03 | 2024-11-21 |
 | [Acid Dip](https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Acid Dip](https://open.spotify.com/album/2tiEFUO4ZykPhvopjijQFR) | 8:14 | 2022-08-15 | 2022-12-01 |
 | [Activate](https://open.spotify.com/track/2OaNFUxX5RcGTzu4WbY0lK) | [Slam](https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO) | [Activate EP](https://open.spotify.com/album/0FEUKiJyvP1kxSuK3fKn6A) | 5:38 | 2023-08-03 | 2024-04-30 |
+| [Acyl Rhythm](https://open.spotify.com/track/2al7ywam5XRJSKFiXWftZE) | [DJ Jock](https://open.spotify.com/artist/59GJRTFK8O0XHSMjx2R2CL) | [ACYL Rhythm](https://open.spotify.com/album/6Y85Um3KG4npIQIQjfMVwp) | 7:07 | 2025-11-14 |  |
 | [Alien Tek](https://open.spotify.com/track/1gNXsxP6jac7aRfOCSkMUb) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Alien Tek](https://open.spotify.com/album/6ZIb6JLvP1ykwCwm2xTdDV) | 5:18 | 2023-06-20 | 2024-02-28 |
 | [All Worlds, All Times \(An On Bast Remix\)](https://open.spotify.com/track/6bo2411ebaDMGG9oJgpmR3) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Music Made for Aliens \(Remixes\)](https://open.spotify.com/album/3ijtQ5yWXBouR3E5jR5KXY) | 6:03 | 2023-06-26 | 2023-12-16 |
 | [Alpha Key](https://open.spotify.com/track/7Ghzvh5lUu6QLPFgZFMvs0) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Alpha Key EP](https://open.spotify.com/album/7qkUI3myHszsg9w1k5uT8e) | 6:07 | 2024-06-03 | 2024-11-21 |
@@ -293,7 +294,7 @@
 | [Poem for the Planet \(feat\. Ursula Rucker\)](https://open.spotify.com/track/6jsEDcynmoH5TtNf8JdH2f) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj) | [Pele](https://open.spotify.com/album/2EEd9SBF36mJwAYJdSInKn) | 11:59 | 2023-02-13 | 2023-06-27 |
 | [Poem for the Planet \(Steve Bug Remix\)](https://open.spotify.com/track/1VKSl8H6jUA0WqaPqtJwl8) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J) | [Poem for the Planet \(Steve Bug Remix\)](https://open.spotify.com/album/2USJTl1pjuQ33ftvtkdbv5) | 9:26 | 2023-06-20 | 2024-02-28 |
 | [Poem for the Planet \- Christopher Coe Remix](https://open.spotify.com/track/6DMyuNVGLIQMdNId0SzG2x) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [ASW Trax Vol\. 1](https://open.spotify.com/album/5nqgzTouLgCVoth2XtQvjS) | 7:18 | 2025-01-24 | 2025-03-14 |
-| [PPPPP \- Head High Remix](https://open.spotify.com/track/1OJUz3e3Sbcuuxrr3GQNyB) | [youANDme](https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG), [Head High](https://open.spotify.com/artist/5VKJLLauOecpruhxPw9qUS) | [PPPPP The Remixes Pt.2](https://open.spotify.com/album/4wFJFn1XZmnhV4dkXtETKX) | 6:33 | 2024-11-20 |  |
+| [PPPPP \- Head High Remix](https://open.spotify.com/track/1OJUz3e3Sbcuuxrr3GQNyB) | [youANDme](https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG), [Head High](https://open.spotify.com/artist/5VKJLLauOecpruhxPw9qUS) | [PPPPP The Remixes Pt.2](https://open.spotify.com/album/4wFJFn1XZmnhV4dkXtETKX) | 6:33 | 2024-11-20 | 2025-11-15 |
 | [Promise](https://open.spotify.com/track/0VRF6S6kqcVZZlTbqbFNAA) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm) | [Generate EP](https://open.spotify.com/album/3VL5m0I2IyfWXwV5s3mhUR) | 4:51 | 2025-07-14 |  |
 | [Prozess Drei](https://open.spotify.com/track/5LnmTw8f1a3xB8zQMVtr2k) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [Prozess Drei](https://open.spotify.com/album/3KTgpQUDLCuaMrPu2ppteu) | 8:12 | 2025-03-13 |  |
 | [Ptolmey](https://open.spotify.com/track/19pDP6VcqQWNaILzyRtyjc) | [Mat Playford](https://open.spotify.com/artist/5hNs2vvPOq8U24ZsZzS7es) | [Solar](https://open.spotify.com/album/7ymTHkrWxZPXaVuZGfz75e) | 4:59 | 2023-02-13 | 2023-06-27 |

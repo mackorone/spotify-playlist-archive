@@ -1,6 +1,6 @@
 {
   "description": "Discover your new favourite artists from Africa. Cover:  Fola",
-  "num_followers": 123127,
+  "num_followers": 123154,
   "original_name": "RADAR Africa ",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,30 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2025-11-14 00:01:30",
+      "album": {
+        "name": "CiCi (Deluxe)",
+        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Nice n' Sweet",
+      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     },
     {
       "added_at": "2025-11-14 00:01:30",

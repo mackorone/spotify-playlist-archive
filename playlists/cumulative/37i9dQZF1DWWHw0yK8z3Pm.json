@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Dans la vall\u00e9e",
+        "url": "https://open.spotify.com/album/7hii4GEWAIshJBXQRwAGbl"
+      },
+      "artists": [
+        {
+          "name": "Thom\u00e9 Young",
+          "url": "https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Dans la vall\u00e9e",
+      "url": "https://open.spotify.com/track/0hozlwGlJCvDx9BTWmKQ3L"
+    },
+    {
+      "album": {
         "name": "Darlin' Baby",
         "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
       },
@@ -5792,7 +5810,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 229200,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/6PAkQjnygwuTV7iDmPtK82"
@@ -6889,8 +6907,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Memories and Empties",
+        "url": "https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr"
       },
       "artists": [
         {
@@ -7572,7 +7590,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 224552,
       "name": "Nomads - Timelines Acoustic",
       "url": "https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw"
@@ -7759,8 +7777,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Appaloosa",
+        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
       },
       "artists": [
         {
@@ -8972,7 +8990,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 220264,
       "name": "Saving Grace",
       "url": "https://open.spotify.com/track/6mj5RahkA04eSwt8exoCH4"
@@ -10007,6 +10025,28 @@
     },
     {
       "album": {
+        "name": "She Told Me Where to Go (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3giMjQzltPGQ6I2yf2DxXk"
+      },
+      "artists": [
+        {
+          "name": "Old Man Luedecke",
+          "url": "https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba"
+        },
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X"
+    },
+    {
+      "album": {
         "name": "Stampede: Vol. 1",
         "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
       },
@@ -10608,24 +10648,6 @@
       "duration_ms": 191946,
       "name": "Tough or Die",
       "url": "https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Old Man Luedecke",
-          "url": "https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba"
-        }
-      ],
-      "date_added": "2025-11-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 17",
-      "url": "https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X"
     },
     {
       "album": {

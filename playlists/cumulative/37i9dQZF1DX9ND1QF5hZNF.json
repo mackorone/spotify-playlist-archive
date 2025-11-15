@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "angel",
+        "url": "https://open.spotify.com/album/7dEuA1Pn0SlnKJ3HljW1ng"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/4Q7raucSnL3OeYoqr3xN4a"
+    },
+    {
+      "album": {
         "name": "anywhere but here",
         "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
       },
@@ -1084,7 +1106,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 182012,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53"
@@ -2166,7 +2188,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 176000,
       "name": "Havana",
       "url": "https://open.spotify.com/track/2TMkbettqxII64hN78QemR"
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 249553,
       "name": "High & Low",
       "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
@@ -2963,6 +2985,28 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/2YoZm5D2Ftq8ptCTqygJBE"
+      },
+      "artists": [
+        {
+          "name": "Noir Glac\u00e9",
+          "url": "https://open.spotify.com/artist/6Ri4FuRv8fj3t0yRM2X0cE"
+        },
+        {
+          "name": "AFRO-T3CK",
+          "url": "https://open.spotify.com/artist/1TeCjZeLjPreWF3SBGDuEO"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159024,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3nRFkoZPAobgPDm7C0c1Lw"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/3qTg1vpgbcb9tsNIEr0LsC"
       },
@@ -3106,7 +3150,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 152784,
       "name": "lo que pase",
       "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
@@ -3922,7 +3966,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 177049,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/731PM3LdGvReQiB1GBQBO9"
@@ -4674,7 +4718,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 194943,
       "name": "Phantasy",
       "url": "https://open.spotify.com/track/2bNzRdSeIOxOM7iZEnwGck"
@@ -5017,6 +5061,32 @@
     },
     {
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lilly",
+          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172261,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N"
+    },
+    {
+      "album": {
         "name": "VOL RETARD\u00c9 DE 42 MN",
         "url": "https://open.spotify.com/album/4o5CfZ2jmq6lvavcacWRlh"
       },
@@ -5262,6 +5332,32 @@
       "duration_ms": 137435,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/1SAQcToek0ed5YQxtrOJgK"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/60T5bvDucFO3Cs4vYDeu90"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        },
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        },
+        {
+          "name": "autrioly",
+          "url": "https://open.spotify.com/artist/2SalqIZD5x6AJLLHEuctcU"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184067,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5yQfJ6p6vJc21677BW8bmE"
     },
     {
       "album": {
@@ -5643,6 +5739,32 @@
     },
     {
       "album": {
+        "name": "Sunsets and Promises",
+        "url": "https://open.spotify.com/album/3zCjtWpkfeEJXLbPfKxYyb"
+      },
+      "artists": [
+        {
+          "name": "Fern\u00f5",
+          "url": "https://open.spotify.com/artist/5mo2nMuShbA4BGg74KfqUX"
+        },
+        {
+          "name": "Pablo Leo",
+          "url": "https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9"
+        },
+        {
+          "name": "Sunny Rae Keller",
+          "url": "https://open.spotify.com/artist/3XtEDTsTkaNWI4xEbpab4f"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sunsets and Promises",
+      "url": "https://open.spotify.com/track/4smxI9q9ROZLuxGNHEj0t3"
+    },
+    {
+      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -5962,6 +6084,28 @@
       "duration_ms": 217377,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+    },
+    {
+      "album": {
+        "name": "THE FUTURE",
+        "url": "https://open.spotify.com/album/7q8nLE8CIcTYzgOqxsjwuw"
+      },
+      "artists": [
+        {
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147541,
+      "name": "THE FUTURE",
+      "url": "https://open.spotify.com/track/0a6J8LAco1q92ts0VZtQz7"
     },
     {
       "album": {

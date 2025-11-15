@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Omagoqa
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,736 likes - 79 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,802 likes - 79 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stop & Go](https://open.spotify.com/track/6j1kyjxp9doRSHS9Q5Sn8u) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [](https://open.spotify.com/album/null) | 5:40 |
-| 2 | [Track 8](https://open.spotify.com/track/7vw1Dp8hFjMhGdGJBUTFbE) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle) | [](https://open.spotify.com/album/null) | 0:00 |
-| 3 | [Track 12](https://open.spotify.com/track/2FoYgDK9pDxy7HmLyYgH0R) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Stop & Go](https://open.spotify.com/track/6j1kyjxp9doRSHS9Q5Sn8u) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [London Drop 3](https://open.spotify.com/album/5nfRkDURjazpINpQAeae92) | 5:40 |
+| 2 | [Thela Wayeka](https://open.spotify.com/track/7vw1Dp8hFjMhGdGJBUTFbE) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Dankie Boi](https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Rhass](https://open.spotify.com/artist/3rzuWqh8AdnNbZtN3wmc8F), [Woza Sjax](https://open.spotify.com/artist/3qUB99K5nzTvZ0xutpZ5jm) | [Langa](https://open.spotify.com/album/4zpFyM6SQc2rSu9aUAsjLu) | 5:41 |
+| 3 | [NgyaGowa](https://open.spotify.com/track/2FoYgDK9pDxy7HmLyYgH0R) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Southside Mixtape](https://open.spotify.com/album/0IaY7EpYoRhsMEo3B5nWBD) | 6:14 |
 | 4 | [Brotherhood](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 4:11 |
 | 5 | [Last Dance](https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt) | [Afro Tech Boyz](https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB) | [Last Dance](https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky) | 5:07 |
 | 6 | [Gqom industry](https://open.spotify.com/track/2I5gX9ItztL04cna3F3ZcM) | [Static Que](https://open.spotify.com/artist/3LQEFxgxnrUpomMBEO7mrQ), [Licious](https://open.spotify.com/artist/5CBC06FD1wKSlSExfXzD9M) | [Gqom after Gqom](https://open.spotify.com/album/42i6smnnPvXWpzrlslwDR3) | 5:26 |

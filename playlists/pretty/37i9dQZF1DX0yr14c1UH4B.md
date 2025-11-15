@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > The ultimate songbook ⏳ feat\. Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,294 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,292 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [](https://open.spotify.com/album/null) | 2:54 |
+| 1 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
 | 2 | [Back to Life](https://open.spotify.com/track/2qUJ7W5pTgFltOc5Xgj14Q) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [The Wonder Years](https://open.spotify.com/album/6NVM9P4sWImd52vyt1Icx0) | 3:15 |
 | 3 | [Boyfriend](https://open.spotify.com/track/4BTJx4a85WdIvtF6EbMVrr) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [To Be Needed At All](https://open.spotify.com/album/7AicQh8rXbOWMHhIFHG6Oc) | 3:15 |
 | 4 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 |
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 6 | [the minute you're gone](https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the minute you're gone](https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6) | 3:03 |
 | 7 | [Thank Me Later](https://open.spotify.com/track/5OFMcyrZZ6AWT5cjouH5lk) | [Jordan Rawson](https://open.spotify.com/artist/4l5BhyCy5VoMHqheBrYf2U) | [Thank Me Later](https://open.spotify.com/album/0oxxb3CLGo9cLHvnuvSEOF) | 2:46 |
 | 8 | [Woven](https://open.spotify.com/track/5faq5yGNX96s9iuegnbx4s) | [Georgia Parker](https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf) | [Woven](https://open.spotify.com/album/2WBhfiA9MP6QerSC7w9Z92) | 2:58 |
-| 9 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [](https://open.spotify.com/album/null) | 4:50 |
+| 9 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy) | 4:50 |
 | 10 | [Please Don't Hate Me](https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Please Don't Hate Me](https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd) | 3:34 |
 | 11 | [Float](https://open.spotify.com/track/5GsqueLF0J7tOZgD9uvF0O) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Float](https://open.spotify.com/album/77tBOZdYCkiAF699JS8mk7) | 1:58 |
 | 12 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
-| 13 | [Oh My Days](https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [](https://open.spotify.com/album/null) | 3:33 |
+| 13 | [Oh My Days](https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Appaloosa](https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2) | 3:33 |
 | 14 | [Look How Far We've Come](https://open.spotify.com/track/1R1ptgguwwlGHIY2tmSx8s) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Metanoia](https://open.spotify.com/album/04g6zwCy7vtgIlcd7L1x9R) | 3:04 |
 | 15 | [Birds In Winter](https://open.spotify.com/track/3IGLaSrdNEP1BgOZlBqlpG) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Birds in Winter](https://open.spotify.com/album/1useWQKXXlEHdTwOeZwBLK) | 4:17 |
 | 16 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |

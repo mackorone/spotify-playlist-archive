@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Hudson Freeman
 
-1,416 songs - 3 day 13 hr 1 min
+1,416 songs - 3 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Let It Go](https://open.spotify.com/track/0eIrSjlA3j1rCNcFNh6Ipl) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Let It Go](https://open.spotify.com/album/6uh2IXCgoBx14okaNQfcCV) | 2:33 | 2023-03-31 | 2023-04-29 |
 | [Let it Hiss](https://open.spotify.com/track/0aowiz2GDHqnEQOtqr0TFl) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Let it Hiss](https://open.spotify.com/album/6JONwoqGXhWQxFGG5fyWgh) | 5:01 | 2025-06-13 | 2025-08-22 |
 | [Let Me Drown](https://open.spotify.com/track/62hBYWGwzo2fb4THTsNnKA) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:19 | 2022-05-13 | 2022-08-27 |
+| [Let the Winter Have Me](https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [There's a Place I Go](https://open.spotify.com/album/2WrT9ExSxQAg3nBWPfJBvI) | 3:44 | 2025-11-14 |  |
 | [Let Things Go](https://open.spotify.com/track/2g7TUO62UQ5rHBAKbdz0Dd) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Let Things Go](https://open.spotify.com/album/58lNKQfn5OHWQCraTu6BFC) | 3:00 | 2025-02-21 | 2025-04-12 |
 | [Letting Go](https://open.spotify.com/track/6SmgLOxqcRtC6dbZqxkcuB) | [GLDMTH](https://open.spotify.com/artist/5XJso5hUb5gsZQvDiengNA) | [GLDMTH](https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo) | 4:43 | 2022-09-23 | 2023-03-04 |
 | [Life I Wanted](https://open.spotify.com/track/3So7Hy4evTP8sqkrVftZQy) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Life I Wanted](https://open.spotify.com/album/7MTvwzmvpmcgMRNUkxxn97) | 2:53 | 2025-04-04 | 2025-07-29 |
@@ -1209,6 +1210,7 @@
 | [The Gates of Malpasso](https://open.spotify.com/track/1eiVfoJTvk3jKBALLWu245) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [The Gates of Malpasso](https://open.spotify.com/album/5uLSTlh9P2sl48qZKz631y) | 2:26 | 2025-01-17 | 2025-03-01 |
 | [The Ghost of Me](https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [The Ghost of Me](https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo) | 3:13 | 2022-08-26 | 2022-10-08 |
 | [The Grass Is Blue \(Everywhere I Go\)](https://open.spotify.com/track/4p6Sc3OEUAuXCL7k5HxcAw) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [The Grass Is Blue \(Everywhere I Go\)](https://open.spotify.com/album/6s3HJVBe2YwIu9FWfODu2Z) | 3:30 | 2025-04-21 | 2025-08-02 |
+| [The Greatest](https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba), [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [She Told Me Where to Go \(Deluxe Edition\)](https://open.spotify.com/album/3giMjQzltPGQ6I2yf2DxXk) | 2:39 | 2025-11-14 |  |
 | [The Hills of Aberfeldy](https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:15 | 2023-05-05 | 2023-12-02 |
 | [The Hopefuls](https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [The Diary of Living](https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r) | 3:25 | 2025-05-02 | 2025-08-15 |
 | [The Internet](https://open.spotify.com/track/6klvlmgyFdIrybxjP0d9VA) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [The Internet](https://open.spotify.com/album/2X1Yunm84msi4BMVzSNKFG) | 3:08 | 2024-01-12 | 2024-03-30 |
@@ -1275,8 +1277,6 @@
 | [Touch the Void](https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Touch the Void](https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb) | 3:57 | 2023-04-28 | 2023-10-28 |
 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-21 | 2023-09-09 |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-03-11 |
-| [Track 17](https://open.spotify.com/track/44yHaAvGzJ9rccfkvDS15X) | [Old Man Luedecke](https://open.spotify.com/artist/1L29dr4NAXlj2tGo51txba) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-14 |  |
-| [Track 9](https://open.spotify.com/track/6n95B2mJPJBS3lBSn86JfL) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-14 |  |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2022-09-09 | 2023-03-18 |
 | [Treadmill](https://open.spotify.com/track/2WgHnskdhFJQLRK34T2ZR4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Treadmill](https://open.spotify.com/album/68KXEVUovAaprYUksUU4Cc) | 4:53 | 2024-07-26 | 2025-01-18 |
 | [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 | 2023-06-17 |

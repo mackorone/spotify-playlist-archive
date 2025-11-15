@@ -8093,6 +8093,24 @@
     },
     {
       "album": {
+        "name": "<sAvioR>",
+        "url": "https://open.spotify.com/album/2rhmlezB7fEfmR6dVEKofA"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "sAvioR",
+      "url": "https://open.spotify.com/track/0PzdmnKzqWQs1zrCK0PpIW"
+    },
+    {
+      "album": {
         "name": "yeah!sool",
         "url": "https://open.spotify.com/album/7fl6CYaqz90LpDLyT7vyz4"
       },
@@ -9020,7 +9038,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"

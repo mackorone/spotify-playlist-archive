@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,423 likes - 99 songs - 5 hr 31 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,417 likes - 107 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,13 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 97 | [Good Run](https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Good Run](https://open.spotify.com/album/02qxb3gX5mrdM9nTptXqTB) | 3:36 |
 | 98 | [Love That I Love You](https://open.spotify.com/track/5vmUocjY3qCtBZo13xpczD) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Famous Back Home](https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5) | 2:43 |
 | 99 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 |
+| 100 | [Memories and Empties](https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Memories and Empties](https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr) | 3:22 |
+| 101 | [After Midnight \- feat\. Tyler Hubbard](https://open.spotify.com/track/6SDWFQJxKnwjYZuxWp2bFj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [After Midnight \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/23msMw5gDXUmSOQjleicfV) | 2:46 |
+| 102 | [73 Fair](https://open.spotify.com/track/2CPHBEoUQPqrC5BpkfVGgT) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [73 Fair](https://open.spotify.com/album/3554RpyrGhwlQsbsXy6JWe) | 3:40 |
+| 103 | [Happy For You](https://open.spotify.com/track/49s2t57uSy4eN8goASFrD9) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Happy For You](https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb) | 2:51 |
+| 104 | [Cowboy Dreams \(feat\. Cat Clyde\)](https://open.spotify.com/track/26hA16YOoGwHsBd7NeX2Iu) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1), [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Cowboy Dreams \(feat\. Cat Clyde\)](https://open.spotify.com/album/2pKdvcwUbe6dojapgCgw2f) | 3:22 |
+| 105 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 |
+| 106 | [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade \(EP\)](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 |
+| 107 | [Goose Chase](https://open.spotify.com/track/0TEIWKozQuoy5wbi7R6kZA) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Longleaf Lo\-fi](https://open.spotify.com/album/6zPQxHCUxMJIeB13J4r3Nv) | 2:39 |
 
-Snapshot ID: `AAANhIFoO+bHr9E7pJk7AVATMPvAzvzR`
+Snapshot ID: `AAANjECtOAq+u94pFv0MqgVo1+WJH3hW`

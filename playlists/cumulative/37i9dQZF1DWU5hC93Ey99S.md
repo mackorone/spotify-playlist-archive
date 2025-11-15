@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-915 songs - 2 day 0 hr 44 min
+917 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Aura](https://open.spotify.com/track/7IyYnCxzBvrwf73Xau44AO) | [xust.](https://open.spotify.com/artist/2Y2UOYYwgQJjRWAA71cJRf), [BUNT.](https://open.spotify.com/artist/0ZdzYZQXYe886ACdfsGr3I) | [Aura](https://open.spotify.com/album/00ygWYIcvbGpkFHvx6hNx5) | 1:50 | 2024-04-13 | 2024-04-26 |
 | [Aurial](https://open.spotify.com/track/65xdN7QgXmJ1nb9IP3vOPX) | [motty](https://open.spotify.com/artist/6rJaeIeEwGvYH6PyIMz0WG), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Aurial](https://open.spotify.com/album/2v2fMVosY2tKlA9gbgJGw6) | 3:06 | 2024-07-25 | 2025-08-13 |
 | [BACK FOR MORE](https://open.spotify.com/track/0TdKvw86k95MpKXD6pamFN) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [BACK FOR MORE](https://open.spotify.com/album/4DE4QCn4le3BWkCt4OnMee) | 2:55 | 2023-11-09 | 2025-08-13 |
-| [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 | 2023-07-14 |  |
+| [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 | 2023-07-14 | 2025-11-15 |
 | [BACK TO LIFE \- JEV Remix](https://open.spotify.com/track/70uaNdoA0aFj8T4hKOF1YY) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [BACK TO LIFE \(Remixes\)](https://open.spotify.com/album/26PkstNTI0Gax0Ax6GVhac) | 3:02 | 2024-12-05 | 2025-08-13 |
 | [BADDER](https://open.spotify.com/track/0Q6vVLxQ6gl6NFMQka3Q9X) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [BADDER](https://open.spotify.com/album/2pxk9vwolPXy353Ru36cIe) | 3:04 | 2023-04-27 | 2024-01-06 |
 | [Be Enough](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Be Enough](https://open.spotify.com/album/5BSGmQdu7UitQe9QlBHpBd) | 2:17 | 2024-05-09 | 2025-08-13 |
@@ -193,6 +193,7 @@
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-04-27 | 2024-01-06 |
 | [don’t say](https://open.spotify.com/track/4bgUnmXFw3hsM5XTJ4tF5B) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [don’t say](https://open.spotify.com/album/4I81pVIwSL2sMbjJ3lgtO7) | 3:30 | 2023-09-14 | 2025-08-13 |
 | [Down On My Love](https://open.spotify.com/track/4h8xS99iATPsBHqowFFF5U) | [Snackbox](https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ) | [Down On My Love](https://open.spotify.com/album/7bcZPO2KbqkCFEi2AAw3sb) | 2:49 | 2023-11-30 | 2024-01-06 |
+| [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 | 2025-11-14 |  |
 | [drive me crazy](https://open.spotify.com/track/2gz19hVABPFNVNNrSqVTNG) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [drive me crazy](https://open.spotify.com/album/0N8TpltY9uv7OMDM8GGxJx) | 2:27 | 2025-02-13 | 2025-08-13 |
 | [Driving Fast](https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Driving Fast](https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8) | 3:07 | 2024-11-07 | 2025-02-08 |
 | [drown](https://open.spotify.com/track/6qKGw4mPngMJ43oING2nTV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [drown](https://open.spotify.com/album/4SBqaBsnhT1kWWr7N9lvGv) | 2:54 | 2024-10-10 | 2025-08-13 |
@@ -838,6 +839,7 @@
 | [upside down](https://open.spotify.com/track/66SBGJljItLlEt7p8FFQH8) | [it's ung](https://open.spotify.com/artist/0YIL8hLwkduD4lwsUBRkwa) | [upside down](https://open.spotify.com/album/04jPI01JZXu3LTLfJrgyNs) | 4:24 | 2023-08-10 | 2024-01-06 |
 | [ur holding me back](https://open.spotify.com/track/6lLqigWFdVRAtPSp9CkTHe) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [ur holding me back](https://open.spotify.com/album/3HJK8Y3GSquuTgytqDhyQV) | 3:24 | 2023-09-14 | 2024-01-06 |
 | [ur love](https://open.spotify.com/track/6hU9i9sAy9MLYmkpnTqrhi) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ur love](https://open.spotify.com/album/2xAFwmKEKu38oXQVBFlJyP) | 2:34 | 2024-04-18 | 2025-08-13 |
+| [Veil \- Edit](https://open.spotify.com/track/1R0ufKhSTgKWhsEAVFoJMJ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Veil \(Edit\)](https://open.spotify.com/album/3pWxCWfzuFQgi2Wx5s1ELv) | 3:37 | 2025-11-14 |  |
 | [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 | 2023-07-21 | 2024-01-06 |
 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 | 2024-04-18 | 2025-02-08 |
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-05 | 2025-08-13 |

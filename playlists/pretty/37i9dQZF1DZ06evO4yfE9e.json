@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2586,
+  "num_followers": 2587,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADbgy13hVO4AveEkw6XThw6",
+  "snapshot_id": "aRUfgAAAAABY6CWzTx8Y9/mFz9e8og2X",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -99,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
+        "name": "DROOL",
+        "url": "https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI"
       },
       "artists": [
         {
@@ -108,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 137647,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
+      "duration_ms": 169655,
+      "name": "Personal Pornstar",
+      "url": "https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb"
     },
     {
       "added_at": null,
@@ -127,22 +143,6 @@
       "duration_ms": 160588,
       "name": "The Things I Do For Love",
       "url": "https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DROOL",
-        "url": "https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Personal Pornstar",
-      "url": "https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb"
     },
     {
       "added_at": null,
@@ -247,30 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 146289,
-      "name": "ENEMIES (feat. bludnymph & Shift K3Y)",
-      "url": "https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACE",
         "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
       },
@@ -291,6 +267,30 @@
       "duration_ms": 224541,
       "name": "Praise",
       "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 146289,
+      "name": "ENEMIES (feat. bludnymph & Shift K3Y)",
+      "url": "https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P"
     },
     {
       "added_at": null,

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "95",
+        "url": "https://open.spotify.com/album/6D0aDldoA54Q9BmaJocKhc"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241667,
+      "name": "95",
+      "url": "https://open.spotify.com/track/55eX2tYVStIuNipc653vF4"
+    },
+    {
+      "album": {
         "name": "The Jazzo Street Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/1jfZNhsfIwQTGD47jIs1V2"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 354640,
       "name": "Breakfast At Denny's",
       "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
@@ -5110,7 +5128,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 259533,
       "name": "Insert A (Mental Relaxation) / Medicine",
       "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
@@ -8585,6 +8603,24 @@
     },
     {
       "album": {
+        "name": "Ilusi\u00f3n Supersport",
+        "url": "https://open.spotify.com/album/6L3tyYGy28herSTtFsKYIM"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159978,
+      "name": "Siga Siga",
+      "url": "https://open.spotify.com/track/7j9UpLlhUeAAM4phdLGDJH"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/0ctcjfhMTJboU0jen5mgA3"
       },
@@ -9496,6 +9532,28 @@
       "duration_ms": 200775,
       "name": "Super Rare",
       "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+    },
+    {
+      "album": {
+        "name": "Worm In Heaven",
+        "url": "https://open.spotify.com/album/2sCmDKuCqBux2e5o0CvESl"
+      },
+      "artists": [
+        {
+          "name": "Jesse the Tree",
+          "url": "https://open.spotify.com/artist/4mp2W09kX6MXfCl4R9uYae"
+        },
+        {
+          "name": "Slug of Atmosphere",
+          "url": "https://open.spotify.com/artist/3bLSzSuIuyrpgcyuNJTkAs"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173231,
+      "name": "Supernatural Disasters",
+      "url": "https://open.spotify.com/track/3k7QmvDcGzFNU2ZHLYpUuC"
     },
     {
       "album": {
@@ -10472,7 +10530,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 117933,
       "name": "Truth Serum",
       "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"

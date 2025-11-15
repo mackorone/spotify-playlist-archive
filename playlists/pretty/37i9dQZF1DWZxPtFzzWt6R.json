@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 105713,
+  "num_followers": 105754,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
+        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        },
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 274261,
+      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
         "name": "Somente Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F"
       },
@@ -175,22 +195,6 @@
       "duration_ms": 249824,
       "name": "Somente Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "Tempo de Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 229408,
-      "name": "Tempo de Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -215,22 +219,18 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
+        "name": "Tempo de Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
       },
       "artists": [
         {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        },
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 274261,
-      "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
+      "duration_ms": 229408,
+      "name": "Tempo de Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
-        "url": "https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 430816,
-      "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
-      "url": "https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "Situa\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
+        "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
+        "url": "https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 430816,
+      "name": "Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratid\u00e3o / Se Deus \u00c9 Por N\u00f3s",
+      "url": "https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
         "name": "Estou de Volta",
         "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
@@ -399,26 +399,6 @@
       "duration_ms": 245000,
       "name": "Estou de Volta",
       "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "Melhor Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Melhor Heran\u00e7a",
-      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -455,6 +435,26 @@
       "duration_ms": 281941,
       "name": "A Esperan\u00e7a Que Restou",
       "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Melhor Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Melhor Heran\u00e7a",
+      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
     },
     {
       "added_at": "2025-10-03 03:01:34",

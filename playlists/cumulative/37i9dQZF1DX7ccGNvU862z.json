@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: T!NE",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Rifle",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -744,6 +744,24 @@
       "duration_ms": 197787,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/3gDBGo4nC5O7N67FbWt86P"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e1f\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+        "url": "https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Benz \u0e14\u0e33",
+      "url": "https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU"
     },
     {
       "album": {
@@ -1521,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Day Long",
+        "url": "https://open.spotify.com/album/3OAHjRfbXBSUFVl6t66kfd"
+      },
+      "artists": [
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Day Long",
+      "url": "https://open.spotify.com/track/0agPA5ZnoGHaWZbVMoaIjd"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/3E60txDpVo5SJUkPsXtm12"
       },
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 244000,
       "name": "Ending (feat. 2K)",
       "url": "https://open.spotify.com/track/3AUIxuz2lozqhExzE7W0up"
@@ -4052,7 +4092,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 241828,
       "name": "Mother Loveker",
       "url": "https://open.spotify.com/track/01Z5ekvPuNfYXd7cXTuBjY"
@@ -4126,7 +4166,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 223866,
       "name": "Mr. 333",
       "url": "https://open.spotify.com/track/143zbhp7yTYoto0mfEYOj4"
@@ -6469,6 +6509,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e1f\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+        "url": "https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209210,
+      "name": "Sunset In Pattaya",
+      "url": "https://open.spotify.com/track/3xAsJQO4g5ZBUL6U6k5CzW"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/1AZjc0b5zn5ohR8roZn51q"
       },
@@ -7552,7 +7610,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 188728,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e01\u0e31\u0e1a\u0e1c\u0e21\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21?",
       "url": "https://open.spotify.com/track/1EYYGgYbBd94Ws6mF8etG1"
@@ -8674,7 +8732,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 169972,
       "name": "\u0e04\u0e33\u0e43\u0e0a\u0e49\u0e25\u0e32",
       "url": "https://open.spotify.com/track/2T7TBsdabbccXiFfIGl22Z"
@@ -9492,7 +9550,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 133000,
       "name": "\u0e14\u0e32\u0e27\u0e40\u0e14\u0e35\u0e22\u0e27\u0e14\u0e32\u0e22 (Lonely Star) (feat. SIMON)",
       "url": "https://open.spotify.com/track/3h6mxBXK9jFM3MHUrxqhTt"
@@ -9849,6 +9907,32 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e36\u0e07\u0e27\u0e31\u0e19\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e21\u0e37\u0e2d (PERFECT TIMING)",
+        "url": "https://open.spotify.com/album/4sUI2nj5BQk3OD5osVB15r"
+      },
+      "artists": [
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        },
+        {
+          "name": "MaiMhon",
+          "url": "https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221076,
+      "name": "\u0e16\u0e36\u0e07\u0e27\u0e31\u0e19\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e21\u0e37\u0e2d (PERFECT TIMING)",
+      "url": "https://open.spotify.com/track/0Utf3VH97uku3cSQHO4vG9"
+    },
+    {
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e09\u0e31\u0e19\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e21\u0e32\u0e01\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b\u0e44\u0e2b\u0e21)",
         "url": "https://open.spotify.com/album/2yuq8EibBV9uepDLhA237v"
       },
@@ -10109,6 +10193,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e19\u0e31\u0e49\u0e19\u0e21\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e22\u0e31\u0e07\u0e44\u0e07",
+        "url": "https://open.spotify.com/album/1uapJHXmMFgmIFf3eoVt24"
+      },
+      "artists": [
+        {
+          "name": "Rapper Tery",
+          "url": "https://open.spotify.com/artist/6ZMnVw88DtjMmoBC1b06Wh"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217150,
+      "name": "\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e19\u0e31\u0e49\u0e19\u0e21\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e22\u0e31\u0e07\u0e44\u0e07",
+      "url": "https://open.spotify.com/track/3dbDk3BxKTHSWGsPBJ3NYf"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e35\u0e48\u0e25\u0e31\u0e01",
         "url": "https://open.spotify.com/album/40TZj4OUXIxaHf6hgs2SiV"
       },
@@ -10366,6 +10468,28 @@
       "duration_ms": 201476,
       "name": "\u0e1a\u0e32\u0e07\u0e04\u0e23\u0e31\u0e49\u0e07\u0e01\u0e47\u0e08\u0e23\u0e34\u0e07",
       "url": "https://open.spotify.com/track/37i8MkTaLwicciBitFVDcZ"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e32\u0e07\u0e17\u0e35\u0e21\u0e31\u0e19\u0e01\u0e47\u0e40\u0e2b\u0e07\u0e32",
+        "url": "https://open.spotify.com/album/3yC5lmQPeBdnTw5GqTIG4j"
+      },
+      "artists": [
+        {
+          "name": "WHALJAY",
+          "url": "https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy"
+        },
+        {
+          "name": "WRP",
+          "url": "https://open.spotify.com/artist/4aUTVa6ZWuQZjqpCf1wMHf"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "\u0e1a\u0e32\u0e07\u0e17\u0e35\u0e21\u0e31\u0e19\u0e01\u0e47\u0e40\u0e2b\u0e07\u0e32",
+      "url": "https://open.spotify.com/track/47ipStNWyZQKLQ6RGmzr7W"
     },
     {
       "album": {
@@ -10852,7 +10976,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 185142,
       "name": "\u0e1e\u0e35\u0e48\u0e01\u0e47\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/37BOGNFiFipyHllBoQz1mt"
@@ -11262,6 +11386,28 @@
       "duration_ms": 213818,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e1e\u0e1a",
       "url": "https://open.spotify.com/track/0Fwjy0mqWILxbqIydFuG6u"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e23\u0e39\u0e49\u0e22\u0e34\u0e48\u0e07\u0e42\u0e07\u0e48",
+        "url": "https://open.spotify.com/album/34f19qL0SkNjmsweTBX5dO"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e23\u0e39\u0e49\u0e22\u0e34\u0e48\u0e07\u0e42\u0e07\u0e48",
+      "url": "https://open.spotify.com/track/3j9V5vHN3wQcHYcO433vli"
     },
     {
       "album": {
@@ -13014,7 +13160,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 144000,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e02\u0e49\u0e32\u0e07\u0e01\u0e32\u0e22 (I Told My Father)",
       "url": "https://open.spotify.com/track/6C0O21H2MXs0jKJrajBGa6"
@@ -13254,6 +13400,32 @@
       "duration_ms": 287753,
       "name": "\u0e2d\u0e30\u0e44\u0e23\u0e09\u0e31\u0e19\u0e01\u0e47\u0e22\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/1Uirva9dJEp3Ctq3p6ejFQ"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e31\u0e22\u0e22\u0e30",
+        "url": "https://open.spotify.com/album/5oMah1KTpjaHGo2umXAoNH"
+      },
+      "artists": [
+        {
+          "name": "P-Hot",
+          "url": "https://open.spotify.com/artist/7cDMujRxnEJ0wPd5XwP24G"
+        },
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        },
+        {
+          "name": "1LIFE",
+          "url": "https://open.spotify.com/artist/3VFBXUdlBwoF7gGu8g3Yn3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e2d\u0e31\u0e22\u0e22\u0e30",
+      "url": "https://open.spotify.com/track/5tFnCjpQEqKqdBHYPDWXHB"
     },
     {
       "album": {
@@ -14866,7 +15038,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 230181,
       "name": "\u0e41\u0e04\u0e48\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49 (feat. N/A, AISXXN)",
       "url": "https://open.spotify.com/track/4Xrtvtw0eUILFuUqBXLdIb"
@@ -15548,6 +15720,24 @@
       "duration_ms": 301928,
       "name": "\u0e43\u0e08\u0e1e\u0e31\u0e07",
       "url": "https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e22\u0e22 (Late Love)",
+        "url": "https://open.spotify.com/album/2FurmztSGDb1muNUErcncm"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e22\u0e22 (Late Love)",
+      "url": "https://open.spotify.com/track/5BAwLccwVI7HAyByKnkdnq"
     },
     {
       "album": {
@@ -16316,6 +16506,44 @@
       "duration_ms": 252203,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e04\u0e34\u0e14\u0e2d\u0e30\u0e44\u0e23",
       "url": "https://open.spotify.com/track/67YYhuygzPcB54NFKji5lg"
+    },
+    {
+      "album": {
+        "name": "OPEN END",
+        "url": "https://open.spotify.com/album/10d6SgaBrx5MLYdVQAErZh"
+      },
+      "artists": [
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "1ST",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252203,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e04\u0e34\u0e14\u0e2d\u0e30\u0e44\u0e23",
+      "url": "https://open.spotify.com/track/2B7oTxtV8gVTh9Jq4jwiin"
     },
     {
       "album": {

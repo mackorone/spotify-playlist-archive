@@ -1,12 +1,12 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Wuthering Heights",
-  "num_followers": 160984,
+  "num_followers": 161011,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAYPae0ucRk41qsaVSOa1eKXPtP",
+  "snapshot_id": "AAAAAJTog6W0nej80IUejT89+HGCEumm",
   "tracks": [
     {
       "added_at": "2025-11-13 17:29:28",
@@ -61,20 +61,20 @@
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
     },
     {
-      "added_at": "2025-10-31 04:00:41",
+      "added_at": "2025-11-14 05:00:19",
       "album": {
-        "name": "Bite My Tongue (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/681qv0Au08NIjJwh72luYf"
+        "name": "Dream As One (from Avatar: Fire and Ash)",
+        "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
       },
       "artists": [
         {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 218699,
-      "name": "Bite My Tongue - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp"
+      "duration_ms": 199876,
+      "name": "Dream As One - from Avatar: Fire and Ash",
+      "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
     },
     {
       "added_at": "2025-10-31 04:00:41",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/06USX1htQD4LgOgX4FF0ix"
     },
     {
-      "added_at": "2025-08-22 04:00:12",
-      "album": {
-        "name": "No Protection",
-        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Nothing's Gonna Stop Us Now",
-      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
-    },
-    {
       "added_at": "2025-11-10 17:40:39",
       "album": {
         "name": "House featuring John Cale",
@@ -145,20 +129,56 @@
       "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
     },
     {
-      "added_at": "2025-09-17 17:19:09",
+      "added_at": "2025-08-22 04:00:12",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
         }
       ],
-      "duration_ms": 203482,
-      "name": "Everything is romantic",
-      "url": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc"
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Bite My Tongue (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/681qv0Au08NIjJwh72luYf"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 218699,
+      "name": "Bite My Tongue - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp"
+    },
+    {
+      "added_at": "2025-11-14 05:00:19",
+      "album": {
+        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 208864,
+      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
     },
     {
       "added_at": "2025-09-22 16:48:38",
@@ -855,22 +875,6 @@
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "A Complete Unknown (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
     },
     {
       "added_at": "2025-01-09 19:38:46",

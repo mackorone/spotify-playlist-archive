@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-743 songs - 2 day 0 hr 53 min
+743 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [I Made it](https://open.spotify.com/track/4Ku98QuS3FTBt7ru4x1U9g) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [I Made it](https://open.spotify.com/album/7pGpttxoT2plxkl8WNM3Z9) | 2:52 | 2025-01-04 | 2025-03-14 |
 | [I NEED YOU](https://open.spotify.com/track/3qwyUrKP0rCP7ZyCOIYCA3) | [Bliq](https://open.spotify.com/artist/2LZZG2a68lxeaNMJyauHkO) | [I NEED YOU](https://open.spotify.com/album/4B6oD5PD0cTKeCLOfQj8D6) | 3:17 | 2024-11-08 | 2025-03-14 |
 | [I surrender](https://open.spotify.com/track/2vYX9gNqqhWFfOhVJGnlLd) | [Gideon MOG](https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [I surrender](https://open.spotify.com/album/0nrwP6PN2SmSa0Ulttccwo) | 2:51 | 2025-07-04 | 2025-09-05 |
+| [I Testify](https://open.spotify.com/track/7AvuYiR2BFdr18GMyM3d5b) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [I Testify](https://open.spotify.com/album/58BPhnWSytQrC4U7RcXMjm) | 5:17 | 2025-11-14 |  |
 | [I Will Not Keep Silent \(My Matter\)](https://open.spotify.com/track/2OxJdW6Ztl911PEzt14EmG) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [I Will Not Keep Silent \(My Matter\)](https://open.spotify.com/album/3AY3OLlw3DuQxV8msbm5XL) | 6:48 | 2025-10-24 |  |
 | [I Worship You](https://open.spotify.com/track/2PIUqpkH9xghJa6gzgq9VJ) | [Ify Benson](https://open.spotify.com/artist/2KiXfF8UiD0qA7kqMvYKBl) | [I Worship You](https://open.spotify.com/album/4VaSGPWwTnxvHvxTiKr2DU) | 3:10 | 2025-04-25 | 2025-05-09 |
 | [I'm The One](https://open.spotify.com/track/6Xbdxs1Gj8SBLh5ko37DrT) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [I'm The One](https://open.spotify.com/album/5EnaXIgJh65O3wFj1BMYOM) | 3:03 | 2025-09-05 | 2025-09-26 |
@@ -655,7 +656,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2025-04-04 |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-11-14 |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 3](https://open.spotify.com/track/7AvuYiR2BFdr18GMyM3d5b) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-14 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |

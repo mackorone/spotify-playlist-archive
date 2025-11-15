@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 337 songs - 21 hr 36 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 339 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -341,9 +341,11 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 331 | [i recovered from this](https://open.spotify.com/track/2f6UtOGwSA1CMuWZi59r8Z) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:55 |
 | 332 | [see into forever](https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [see into forever](https://open.spotify.com/album/0r2ggV3LC7MVjH4a4fHFgP) | 1:54 |
 | 333 | [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 |
-| 334 | [You Will Be Okay](https://open.spotify.com/track/2HuXYDO2pZpnRJFfsvHhwl) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Helluva Boss: Season One \(Original Soundtrack\)](https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz) | 2:02 |
-| 335 | [Dagenham Dream](https://open.spotify.com/track/7wA6K5a70ApY3Ypgqg4Gbz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:45 |
-| 336 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
-| 337 | [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 |
+| 334 | [Candles](https://open.spotify.com/track/0jraO2dcqNVamQ4drjDt4l) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7Aagko0Uywzf44muArSqSS) | 4:53 |
+| 335 | [You Will Be Okay](https://open.spotify.com/track/2HuXYDO2pZpnRJFfsvHhwl) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Helluva Boss: Season One \(Original Soundtrack\)](https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz) | 2:02 |
+| 336 | [Dagenham Dream](https://open.spotify.com/track/7wA6K5a70ApY3Ypgqg4Gbz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:45 |
+| 337 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
+| 338 | [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 |
+| 339 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
 
-Snapshot ID: `AAAEJFjgU1fHYcko1xV609E4h5arReVM`
+Snapshot ID: `AAAEJ8MmEyirB+3ZUy8+IZzoLz+d5yf/`

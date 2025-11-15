@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22278,
+  "num_followers": 22285,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,26 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
+        "name": "Wallah Wallah",
+        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 142830,
+      "name": "Wallah Wallah",
+      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
         "name": "Un Afrito",
         "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
       },
@@ -331,26 +351,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Wallah Wallah",
-        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 142830,
-      "name": "Wallah Wallah",
-      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 139409,
+      "name": "Telepatia",
+      "url": "https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
         "name": "9PM IN PARIS",
         "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 159322,
       "name": "Touch me (feat. Ya Levis)",
       "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 139409,
-      "name": "Telepatia",
-      "url": "https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -807,30 +807,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Rolls Royce",
-        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "TR3VAS",
-          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Rolls Royce",
-      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "Intens\u00e3o",
         "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 210526,
       "name": "Intens\u00e3o",
       "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "Rolls Royce",
+        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Rolls Royce",
+      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -903,6 +903,26 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
         "name": "fases",
         "url": "https://open.spotify.com/album/2yT1thUgDc2RHUVpv37Uyb"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 163018,
       "name": "fases",
       "url": "https://open.spotify.com/track/65N0Fdt4dgCqjgg2uq6S9o"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -1031,26 +1031,22 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
       },
       "artists": [
         {
-          "name": "THIFREE",
-          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -1103,6 +1099,30 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
+      },
+      "artists": [
+        {
+          "name": "THIFREE",
+          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
         "name": "RELACIONAMENTO SOLO",
         "url": "https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o"
       },
@@ -1151,26 +1171,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "12 de Junho",
         "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -1359,6 +1359,66 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00edde",
+          "url": "https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe"
+        },
+        {
+          "name": "Fat Family",
+          "url": "https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2"
+        },
+        {
+          "name": "DJ Maxnosbeatz",
+          "url": "https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN"
+        }
+      ],
+      "duration_ms": 176647,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
         "name": "TocToc",
         "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
       },
@@ -1391,62 +1451,6 @@
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 191463,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
     }
   ],
   "unique_name": "pique afrobeats",

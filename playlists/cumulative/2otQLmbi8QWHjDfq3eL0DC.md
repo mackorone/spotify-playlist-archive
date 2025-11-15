@@ -4,7 +4,7 @@
 
 > House Music 2025 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2025 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-363 songs - 17 hr 49 min
+364 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-11-03 | 2024-02-28 |
 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 | 2024-04-09 | 2024-08-31 |
 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 | 2024-11-15 | 2025-01-18 |
+| [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC) | 2:56 | 2025-11-14 |  |
 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 | 2024-03-01 |  |
 | [Mr\. Cool](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Mr\. Cool](https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn) | 3:49 | 2025-06-20 | 2025-10-04 |
 | [Mutual Feelings](https://open.spotify.com/track/1cYNx8Ots8mUPzOAwmiKm7) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Mutual Feelings](https://open.spotify.com/album/2L6nVuLBjJcFK6YU01RyBT) | 3:28 | 2025-09-05 |  |

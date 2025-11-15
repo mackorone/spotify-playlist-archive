@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Tu dosis diaria de rock \ud83d\udcf8 La Franela y Ciro y los Persas",
+  "description": "Tu dosis diaria de rock \ud83d\udcf8 NTVG",
   "name": "Rock del D\u00eda",
   "tracks": [
     {
@@ -2276,6 +2276,24 @@
       "duration_ms": 206542,
       "name": "Emperifollada",
       "url": "https://open.spotify.com/track/4IDCH18zDc3UuzWEGiZ60e"
+    },
+    {
+      "album": {
+        "name": "En Llamas",
+        "url": "https://open.spotify.com/album/5gsa9uXUNLWwJ7J59gHH2b"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208818,
+      "name": "En Llamas",
+      "url": "https://open.spotify.com/track/5o6PX1e55av0a4X8sDg95V"
     },
     {
       "album": {
@@ -6224,7 +6242,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 243104,
       "name": "S\u00f3lo por Hoy (Chica Oriental)",
       "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"

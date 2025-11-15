@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Gece Yolcuları
 
-552 songs - 1 day 7 hr 34 min
+553 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Serzenişte](https://open.spotify.com/track/2769e3EfBMnc1wmtbu5ubo) | [Vega](https://open.spotify.com/artist/5KrXBHAY7uhALwg4SPz9F8) | [Hafif Müzik](https://open.spotify.com/album/0kynB1IJW193AzHOFNOa5l) | 4:50 | 2024-10-22 | 2025-05-23 |
 | [Ses Ver](https://open.spotify.com/track/3d317ORpL5gxioLwsBd0KL) | [Necati ve Saykolar](https://open.spotify.com/artist/7FcuvAno2oJYKcbRHpSTZu), [Erci E](https://open.spotify.com/artist/5Bd0FpVRSXZVGg1iLhYD3O) | [Ses Ver](https://open.spotify.com/album/7umOtHVpDEi0OwDIsd0fFI) | 3:00 | 2025-03-13 | 2025-03-27 |
 | [Sev Beni](https://open.spotify.com/track/1mvvjz5T7vNCMu3qqLAOs1) | [Hedonutopia](https://open.spotify.com/artist/1NyTJce3BbQslEhW8uWPc5) | [Yakamoz Sandalı](https://open.spotify.com/album/5x6wBXewW7QERw2lrMCnSh) | 4:59 | 2024-10-22 | 2024-11-22 |
+| [SEVEN BÖYLE Mİ YAPAR!](https://open.spotify.com/track/6T9ec2lOxU6QaiM0DGRclz) | [Maderzat](https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH) | [SEVEN BÖYLE Mİ YAPAR!](https://open.spotify.com/album/4PRJmS1qxhgTERr74JU4TW) | 4:48 | 2025-11-14 |  |
 | [Sevince](https://open.spotify.com/track/0TvXQc11qR3FF2iPJx994Q) | [Anıl Şallıel](https://open.spotify.com/artist/7wNfIZCBLC3oT0b9a7qcir), [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sevince](https://open.spotify.com/album/0qCCql5IbEuAB9m31eiFsB) | 3:06 | 2024-06-28 | 2024-12-13 |
 | [Sevme](https://open.spotify.com/track/4oGecQuYpeIQH7cOGRURkG) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Sevme](https://open.spotify.com/album/4obQjM8HLb2oEtXYd3yegb) | 2:21 | 2024-06-28 | 2024-09-13 |
 | [Sevmek Değil](https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Sevmek Değil](https://open.spotify.com/album/47TmV0OJmizaoPU4Wdobq9) | 3:16 | 2024-07-11 | 2024-08-30 |
@@ -443,7 +444,7 @@
 | [Tekrardan](https://open.spotify.com/track/0CRoh5OzdM8OT7GhAQFBNn) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Tekrardan](https://open.spotify.com/album/7EMujW6Y1PeNPGLFji1IlP) | 3:02 | 2025-02-13 |  |
 | [TELAŞK](https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [TELAŞK](https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw) | 3:22 | 2024-08-15 | 2024-09-06 |
 | [Ters Çingene](https://open.spotify.com/track/3YWnLnHWY3ZJQXC2URCuix) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Ters Çingene](https://open.spotify.com/album/06MY2lC2YmcTGWGIs4FvOf) | 4:04 | 2025-11-13 |  |
-| [Travmalar ve Palavralar](https://open.spotify.com/track/1dWNn3QvzV3qtyRez5oZ3R) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Travmalar ve Palavralar](https://open.spotify.com/album/6nO7PnasRGDCz6JRzET7Fq) | 3:38 | 2025-10-16 |  |
+| [Travmalar ve Palavralar](https://open.spotify.com/track/1dWNn3QvzV3qtyRez5oZ3R) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Travmalar ve Palavralar](https://open.spotify.com/album/6nO7PnasRGDCz6JRzET7Fq) | 3:38 | 2025-10-16 | 2025-11-15 |
 | [Tutuşursa](https://open.spotify.com/track/5sj9RlsNNS3xij0ij5YfGi) | [Alança](https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8) | [Tutuşursa](https://open.spotify.com/album/3GTFAY5xwqOjgSR8Oov4GT) | 2:41 | 2025-11-13 |  |
 | [Tövbeler Olsun](https://open.spotify.com/track/7MWjzXxPHI3Y4ExcxNbnpk) | [Murat Kekilli](https://open.spotify.com/artist/1av8oluskzg2mOBajdzRI9) | [Tövbeler Olsun](https://open.spotify.com/album/0JIDhXi2fxhFE0azejZLwb) | 3:12 | 2025-10-16 | 2025-11-07 |
 | [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-28 | 2024-12-20 |

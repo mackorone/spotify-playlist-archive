@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige!
 
-402 songs - 1 day 1 hr 23 min
+403 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alive \- 2021 Remaster](https://open.spotify.com/track/03Dm6pihpViDzVcDc9Hjyz) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(Expanded Edition; 2021 Remaster\)](https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw) | 3:23 | 2025-11-06 |  |
 | [All I Want](https://open.spotify.com/track/4Vtj3Az6rt21hxQs3IsN0b) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Megalomanium II](https://open.spotify.com/album/2qcRovVIQoONJXgO5EMG6G) | 3:14 | 2024-09-19 | 2025-03-28 |
 | [All That I Can Give](https://open.spotify.com/track/2BvCKRAs9xnDzm8CFo0hi9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 2](https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB) | 3:18 | 2024-06-27 | 2024-09-07 |
+| [Always Like This](https://open.spotify.com/track/7ABJbSPIjDJ5yBfpdvJz0l) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [Always Like This](https://open.spotify.com/album/0cbuOqkGxcnWQ1gu7VUHN4) | 3:20 | 2025-11-14 |  |
 | [An Ocean Of Strange Islands](https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [An Ocean Of Strange Islands](https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV) | 9:26 | 2024-09-13 | 2024-09-27 |
 | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11) | 3:06 | 2024-06-27 | 2024-08-02 |
 | [Angels Calling](https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Angels Calling](https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd) | 2:55 | 2025-09-25 |  |
@@ -339,7 +340,7 @@
 | [The Doomsday Clock](https://open.spotify.com/track/3JckPqchoAniLrxyRiq82j) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [The Doomsday Clock](https://open.spotify.com/album/0ilMPn2NgTzh5kvyJBnphe) | 3:42 | 2024-06-27 | 2024-08-02 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2024-10-18 |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2024-11-07 | 2025-04-12 |
-| [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 | 2025-05-07 |  |
+| [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 | 2025-05-07 | 2025-11-15 |
 | [The End \(feat\. BABYMETAL\) \- 2025 VERSION](https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:42 | 2025-09-04 | 2025-10-24 |
 | [The End Justifies](https://open.spotify.com/track/4TQEKz3DgUjtzcRFkCuzE5) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [The End Justifies](https://open.spotify.com/album/3yKUFE4u6NtSrfQ0OAKjtU) | 5:09 | 2024-06-27 | 2024-09-20 |
 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 | 2024-06-27 | 2025-01-10 |

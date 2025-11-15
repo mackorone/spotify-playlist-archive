@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Be Without You",
+        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208181,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
+    },
+    {
+      "album": {
         "name": "Beide alleine",
         "url": "https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte"
       },
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 223248,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
@@ -11090,7 +11108,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 224385,
       "name": "Try",
       "url": "https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC"
@@ -11134,7 +11152,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 222923,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"

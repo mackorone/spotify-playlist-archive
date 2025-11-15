@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
-  "num_followers": 32270,
+  "num_followers": 32272,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-11-05 02:50:34",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2025-11-05 02:50:34",
-      "album": {
         "name": "SET FREE",
         "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 228106,
       "name": "The Piano",
       "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
+    },
+    {
+      "added_at": "2025-11-05 02:50:34",
+      "album": {
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2025-11-05 02:50:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-11-05 02:50:34",
       "album": {
-        "name": "Tangerine Peel Jam",
-        "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
-      },
-      "artists": [
-        {
-          "name": "Ear Candy Jazz Factory",
-          "url": "https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Tailwind",
-      "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
-    },
-    {
-      "added_at": "2025-11-05 02:50:34",
-      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 231722,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
+    },
+    {
+      "added_at": "2025-11-05 02:50:34",
+      "album": {
+        "name": "Tangerine Peel Jam",
+        "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
+      },
+      "artists": [
+        {
+          "name": "Ear Candy Jazz Factory",
+          "url": "https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Tailwind",
+      "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
     },
     {
       "added_at": "2025-11-05 02:50:34",

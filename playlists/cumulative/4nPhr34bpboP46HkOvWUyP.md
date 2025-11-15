@@ -4,7 +4,7 @@
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-67 songs - 3 hr 31 min
+68 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [fifty miles](https://open.spotify.com/track/30YqD5nd34pkb9PLmg5EhC) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heart After Dark](https://open.spotify.com/album/5SLn2QEN2rPc5xkJp1kgmR) | 2:47 | 2021-01-16 |  |
 | [flight to niantic](https://open.spotify.com/track/7707WDXjuJa8H7VANtHahO) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Peachii](https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/5f0j7F675Kv00GwG8L7D2M) | 3:38 | 2022-09-30 |  |
 | [FROSTYTHESNOWBITCH \- REMIX](https://open.spotify.com/track/3uNATi2YDRzoh9ZH8qyNKq) | [SAIGA12](https://open.spotify.com/artist/6SwxNpwcfTTqa6Lsx8Smrm), [Blue Skull](https://open.spotify.com/artist/2IkqPpJJy6MRoRRk1pe18u), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [$KINNY DIPPIN AT THA MOTEL 6, DELUXE](https://open.spotify.com/album/3p8UjiV6wdOY1cZgE89R3D) | 3:40 | 2024-03-07 |  |
+| [GET AWAY WITH MURDER](https://open.spotify.com/track/4UfV0QR8WGVjcNFZas4JfR) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e), [Asterr](https://open.spotify.com/artist/79baYpVN5bf0u38KkcG2LM), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [GET AWAY WITH MURDER](https://open.spotify.com/album/5gNZYoUZcDtyC0MJ31EFRM) | 4:42 | 2025-11-14 |  |
 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 | 2024-12-27 |  |
 | [haunted](https://open.spotify.com/track/7lGJA3LZF5EM1b30ReCqFt) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk), [kamikaze's endless](https://open.spotify.com/artist/7k3CYBOdj2p7mSf9vxtz7J) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/5f0j7F675Kv00GwG8L7D2M) | 3:54 | 2022-09-30 |  |
 | [Heyyy](https://open.spotify.com/track/75vHzcntF1WRrRh5yCLxei) | [MaskBoi X](https://open.spotify.com/artist/2ZyPKZF7fHCV4iQG7Bw7wm), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heyyy](https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb) | 3:36 | 2025-08-11 |  |

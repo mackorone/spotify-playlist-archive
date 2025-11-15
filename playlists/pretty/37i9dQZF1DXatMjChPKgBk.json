@@ -1,13 +1,33 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 657219,
+  "num_followers": 657176,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADnqYqEMd1YdVvzkQEKslLCjXff/",
+  "snapshot_id": "AAAAADHvBR7LokymyN7qYUfPkuHB78BF",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:29",
+      "album": {
+        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 208864,
+      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
+    },
     {
       "added_at": "2025-10-17 04:00:34",
       "album": {

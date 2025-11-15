@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Niños Bravos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,408 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,440 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 79 | [40 de mayo](https://open.spotify.com/track/05HBqcSM1SeixtdrWrp3Dm) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [40 de mayo](https://open.spotify.com/album/3DCSQJL7BOBeCgoEpIOmYr) | 2:53 |
 | 80 | [confianza, la noche me dejaste ser triste](https://open.spotify.com/track/2MQJv5Od7jZKVTLEwWPje4) | [Syd dePalma](https://open.spotify.com/artist/04vfo27dr0j76mPV6vtzuE), [Florent y Yo](https://open.spotify.com/artist/2iYfFA4WAdUuvHXGY61aE4) | [paris](https://open.spotify.com/album/1BBAE5Q4ciKTM8Ql9gO9TA) | 5:01 |
 
-Snapshot ID: `AAAAACjTw2I+X570QBfZQoIYpgbqSwOe`
+Snapshot ID: `AAAAAAwMan8kap+IWIx8WbRQ5N/RNa3I`

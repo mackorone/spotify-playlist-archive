@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,650 likes - 110 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,733 likes - 110 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 109 | [Shimmy Shake \- Christos Fourkis Afro Remix](https://open.spotify.com/track/1Kh5mj4vpduFdRXbAouvxi) | [Fabio Tosti](https://open.spotify.com/artist/3ZJUggdCx4t5l64g1FG1NT), [Diamondancer](https://open.spotify.com/artist/3DGD2VgAFDJrA60hrYI46I), [Christos Fourkis](https://open.spotify.com/artist/4IQHUz0kIZfHNEOyPQwI7J) | [Shimmy Shake \(Christos Fourkis Remix\)](https://open.spotify.com/album/1zVFEdcyGboa9sKZEdCRN5) | 5:45 |
 | 110 | [Lágrimas \- Urmet K Remix](https://open.spotify.com/track/7pV4vaAem1KFKrB0wDotkj) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2), [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb) | [Quëreles Remix](https://open.spotify.com/album/3xy0MST6Mqtvy6sUbR7b5r) | 3:53 |
 
-Snapshot ID: `AAAAAAgLtrbJ0qOvmILTreOlhNpjx1Hc`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

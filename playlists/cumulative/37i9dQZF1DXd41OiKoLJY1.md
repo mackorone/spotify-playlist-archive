@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Rafi Artwork: Isu Kim
 
-3,846 songs - 9 day 8 hr 41 min
+3,849 songs - 9 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [at bay](https://open.spotify.com/track/5k1ek2ACx4IhmzU7P8ZNwR) | [Emilia Kate](https://open.spotify.com/artist/3CZiLDIuy7o2WYppdHFZPa) | [at bay](https://open.spotify.com/album/3AV7oTHvBWiBSrpjj0akZU) | 3:14 | 2025-06-26 | 2025-08-15 |
 | [At Kahit](https://open.spotify.com/track/2V8y3mXusbLMpAZgLg6ve9) | [Jose Carlito](https://open.spotify.com/artist/0dCm0lE7zONgLuquyvat4m) | [At Kahit](https://open.spotify.com/album/5TlW3zW6vLb3BklQWkAk04) | 5:33 | 2022-03-03 | 2023-01-13 |
 | [Atin Ang Sandali \- Acoustic Version](https://open.spotify.com/track/1MvNQXJRL6vQnDSNo742PK) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Atin Ang Sandali \(Acoustic Version\)](https://open.spotify.com/album/0SxfnZAt4gVNUpr6JOS4jq) | 3:32 | 2023-03-16 | 2023-04-07 |
+| [Atras Abante](https://open.spotify.com/track/7EIzjO1X9Y1WhCSaZZzEmc) | [Victoria Leslie](https://open.spotify.com/artist/1LBFCZVNKOTYVbMP9u9LTV) | [Atras Abante](https://open.spotify.com/album/3gLOp7vnyYcyQAcqaQIqUj) | 3:50 | 2025-11-13 |  |
 | [Attracted](https://open.spotify.com/track/3hnlOF2IchhxpcUm3Ctv5Q) | [Fritz Miranda](https://open.spotify.com/artist/2XU4WiVXIJRKj0U8Jp9XE4) | [Attracted](https://open.spotify.com/album/7vz3rSMHantDRYqjfWRB0K) | 3:50 | 2022-03-24 | 2023-01-13 |
 | [Atubili](https://open.spotify.com/track/6LcYqCwCqMynWNh3kZbjGq) | [Please Magic](https://open.spotify.com/artist/1FplvJfJfToJaXAOgGybFO) | [Atubili](https://open.spotify.com/album/3DlB99ZEAhmAm38Y5k1a8v) | 2:35 | 2023-03-16 | 2023-03-31 |
 | [Aurora](https://open.spotify.com/track/3ApPICqobBUBcxzPHPs4v8) | [LuckyChan](https://open.spotify.com/artist/6wVI7vgz3JJKAHz6JJ3Vwi), [mrbs](https://open.spotify.com/artist/2R62t8unsOg9BXMAbO4LYp), [NIAH](https://open.spotify.com/artist/3c0WsEt9CmDtAetIfpxdkr) | [Aurora](https://open.spotify.com/album/3hRdEjUJlhL0mA2qgLGGsw) | 3:37 | 2023-03-02 | 2023-03-25 |
@@ -2808,6 +2809,7 @@
 | [PUSTA](https://open.spotify.com/track/7m7FIEyMYFIYzjx1M2nkCY) | [Bad$auce](https://open.spotify.com/artist/30EyI8OA6yiuGS9ioQDf18) | [PUSTA](https://open.spotify.com/album/7bSbH8lZQQNs6ddaTsnihy) | 3:22 | 2023-04-06 | 2023-04-21 |
 | [pwede ba](https://open.spotify.com/track/7hvhiUYhdRsFOFLiuuZzTl) | [Kyrus](https://open.spotify.com/artist/2WN13ZeABzdwbyqbyXK6az), [Stef Aranas](https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg) | [SOULBOUND](https://open.spotify.com/album/0E4Qpyokdb1xZ2R4bRtr2p) | 2:49 | 2025-07-03 | 2025-09-19 |
 | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/track/5C0qiTrshrTIX39Mghx0qP) | [Jeff Cifra](https://open.spotify.com/artist/1rDZsKJMNkRas9AZRQqwws) | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/album/4z7xaGq9T4CcKOFYLpENsH) | 4:14 | 2023-01-26 | 2023-02-17 |
+| [Pwede Naman](https://open.spotify.com/track/22NC5BjfwYYMYoAZcxI16l) | [Fiore](https://open.spotify.com/artist/7pI1QdQKO1uKurPMk8zQe7) | [Pwede Naman](https://open.spotify.com/album/5GE92BTg1HgmbsMeA2e6tb) | 3:36 | 2025-11-13 |  |
 | [pwede pa ba](https://open.spotify.com/track/4auLi87KJ6J1eeIhkfCxOu) | [EC Orduna](https://open.spotify.com/artist/62ycja55uV9zKY8mw6cdWa) | [pwede pa ba](https://open.spotify.com/album/6BYmCAhbZZRiU3lYVfLJ2d) | 2:47 | 2024-02-08 | 2024-03-01 |
 | [Pyromaniacs](https://open.spotify.com/track/2FRPY3sJbCBIabCqnL5NI7) | [Lindenwood](https://open.spotify.com/artist/4oi2jc0SiVtglXRbQ0qpI0) | [Pyromaniacs](https://open.spotify.com/album/78ZSYak6eEYWv8vgHAYeDb) | 2:31 | 2024-04-11 | 2024-06-01 |
 | [Quarter Life Crisis](https://open.spotify.com/track/4RRPegT5rufbPgN9WAEmoW) | [poetryonherskin](https://open.spotify.com/artist/65ja300pzBSGnFOBYqZ8Kn) | [split](https://open.spotify.com/album/6Zp74ItJkPHgoQ8ZPxCi8j) | 3:49 | 2024-06-20 | 2024-07-27 |
@@ -2871,6 +2873,7 @@
 | [Ride](https://open.spotify.com/track/0GkbchRRUmsmlmvDPZKzXU) | [Psalms David](https://open.spotify.com/artist/0vxUEWqhCS9KFqaB9BrfzG) | [Ride](https://open.spotify.com/album/6vDomvDK9KZqCEuEfutzE9) | 3:35 | 2023-02-09 | 2023-02-24 |
 | [RIDE](https://open.spotify.com/track/2Ne8TpsDAs3dHrNpPqkd2v) | [rienne](https://open.spotify.com/artist/4TvZ190CDevLDBByQ5pXTP), [DAZE](https://open.spotify.com/artist/0jts7PajizS8WEOylLO1b6) | [RIDE](https://open.spotify.com/album/2mTviQ1feV7WAuA8LoND7A) | 2:41 | 2025-08-07 | 2025-10-25 |
 | [ride 4 me](https://open.spotify.com/track/4ACQZHQ1oldcnuMMGDTr4P) | [Marina Summers](https://open.spotify.com/artist/1Fyd3jfR3gIZSLJTFVKtEm) | [ride 4 me](https://open.spotify.com/album/7sm2GERvalxGdE9WNv0CEn) | 3:19 | 2023-04-20 | 2023-05-12 |
+| [ride or die](https://open.spotify.com/track/7KBihWlWJgdKnPCiz5WYRu) | [Blueside Entertainment](https://open.spotify.com/artist/4SMeZ51A9kf8zYswLDq4oR), [Baked Cuenca](https://open.spotify.com/artist/7IzXnV5VQEYqOQRWBbar0m), [Bloodie Bluez](https://open.spotify.com/artist/7KG95nqhgZbQwDHCda4dG9), [TRAPPBOYDIZZY](https://open.spotify.com/artist/77Kwv8h9bqFmdSBWh2QUQ3), [4Kswagga](https://open.spotify.com/artist/36chOBBQJtJhuBd4LAejeU) | [ride or die](https://open.spotify.com/album/1i3K5ijpY05vFCPtum11DG) | 4:25 | 2025-11-13 |  |
 | [Ride or Die](https://open.spotify.com/track/5GBI5UlfSHp9MBFrrSB00g) | [Jude the Zaint](https://open.spotify.com/artist/1EP9riUdqQcqF24kEoQ5Dl) | [Ride or Die](https://open.spotify.com/album/3OIST8uSxrHqU1btwqj0rh) | 3:38 | 2023-08-03 | 2023-08-25 |
 | [Ride or Die](https://open.spotify.com/track/3IM1VslhJDFMKpPvnXyigE) | [Seramel](https://open.spotify.com/artist/4ZrehxVo50z89Wn3cA6VbA) | [Ride or Die](https://open.spotify.com/album/0FsmLp5cTIo1N6HmDcY0lu) | 2:33 | 2025-06-26 | 2025-08-15 |
 | [Right Back](https://open.spotify.com/track/58H8HW6a37LQlQZkspZAvy) | [Trescoda](https://open.spotify.com/artist/4A98hy3K6soG8jYlISrUhj) | [Right Back](https://open.spotify.com/album/3Jn802r3uBjv2xa4N3OJyo) | 3:14 | 2022-11-24 | 2023-02-10 |

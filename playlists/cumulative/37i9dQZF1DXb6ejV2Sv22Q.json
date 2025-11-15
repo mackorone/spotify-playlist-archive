@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Plastikboy en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  DannyLux en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
+    {
+      "album": {
+        "name": "#TULTEPEK",
+        "url": "https://open.spotify.com/album/5ihrpu57F6zJyLUDsl42Zj"
+      },
+      "artists": [
+        {
+          "name": "Freddy Moreno",
+          "url": "https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        },
+        {
+          "name": "fafabian",
+          "url": "https://open.spotify.com/artist/2vIFPryJv3KupiT13m7Q0n"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176272,
+      "name": "#TULTEPEK",
+      "url": "https://open.spotify.com/track/74J5MNoWwQ2MqmxQmBYdaI"
+    },
     {
       "album": {
         "name": "0 Sentimientos",
@@ -146,6 +172,24 @@
       "duration_ms": 75433,
       "name": "A Casa Pete",
       "url": "https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX"
+    },
+    {
+      "album": {
+        "name": "ABASOLO",
+        "url": "https://open.spotify.com/album/5EWgaORi9SM2X9OgPSjLbb"
+      },
+      "artists": [
+        {
+          "name": "kor!",
+          "url": "https://open.spotify.com/artist/1I20nipdKCbAY4mrnI78xK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "ABASOLO",
+      "url": "https://open.spotify.com/track/6FCzglABZm9wo7r6iEzVXM"
     },
     {
       "album": {
@@ -490,7 +534,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 146282,
       "name": "APAPACHADA",
       "url": "https://open.spotify.com/track/6NVKhm45xfnbmmMbMldI3M"
@@ -778,7 +822,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 134000,
       "name": "AVRIL",
       "url": "https://open.spotify.com/track/0xgkIs0275NxF3hvX8Njwi"
@@ -1255,6 +1299,28 @@
     },
     {
       "album": {
+        "name": "CASI T\u00da",
+        "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "CASI T\u00da",
+      "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
+    },
+    {
+      "album": {
         "name": "castillos en el cielo",
         "url": "https://open.spotify.com/album/43PnOTJFA28bhjnABPXw4T"
       },
@@ -1302,7 +1368,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 176468,
       "name": "Catecismo",
       "url": "https://open.spotify.com/track/79JfoGTxccKRAwFg3HYwDe"
@@ -1396,7 +1462,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 188783,
       "name": "Chill",
       "url": "https://open.spotify.com/track/3waoiBN3uhSLeoxVVH2X8e"
@@ -1516,6 +1582,28 @@
       "duration_ms": 154094,
       "name": "CONGELADO",
       "url": "https://open.spotify.com/track/0aJRbbQgKMZg9HO7V7Vj6w"
+    },
+    {
+      "album": {
+        "name": "R\u00d8Z \u2013 Spotify Sessions",
+        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293166,
+      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
+      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
     },
     {
       "album": {
@@ -1838,7 +1926,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 271378,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/4dluwDiqHyMalOIRNwae2S"
@@ -2356,7 +2444,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 185193,
       "name": "ESPEJO",
       "url": "https://open.spotify.com/track/5k69gFoXTpvdW7utzyfROx"
@@ -4737,6 +4825,32 @@
     },
     {
       "album": {
+        "name": "GLOTOBER III: The Final Chapter",
+        "url": "https://open.spotify.com/album/1sgoUu9MMPpIpmjaDsqGur"
+      },
+      "artists": [
+        {
+          "name": "GlobalBoy Da Glowop",
+          "url": "https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq"
+        },
+        {
+          "name": "GoldenVato",
+          "url": "https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b"
+        },
+        {
+          "name": "Viglezz",
+          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165298,
+      "name": "MITOTE",
+      "url": "https://open.spotify.com/track/0hE7e0EJMAWgC2KHVqD1Yk"
+    },
+    {
+      "album": {
         "name": "Modo Gta",
         "url": "https://open.spotify.com/album/4XqgGl1QDukBiMC4AEThPV"
       },
@@ -4814,6 +4928,24 @@
       "duration_ms": 156091,
       "name": "Moon",
       "url": "https://open.spotify.com/track/0tffNoL4418lhzZmJJFNB7"
+    },
+    {
+      "album": {
+        "name": "Morfina",
+        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350488,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
     },
     {
       "album": {
@@ -4926,7 +5058,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 217670,
       "name": "Nada Por Vivir",
       "url": "https://open.spotify.com/track/2QbTbYqjmVZyRQSWKQb8Ft"
@@ -6078,6 +6210,24 @@
       "duration_ms": 197500,
       "name": "quiero que me recuerdes bien",
       "url": "https://open.spotify.com/track/7yjOP2a2lRXEteR3c3aGx5"
+    },
+    {
+      "album": {
+        "name": "LEYENDA DELUXE",
+        "url": "https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179819,
+      "name": "QUIZ\u00c1S",
+      "url": "https://open.spotify.com/track/6mD6dBmb3BIIB7NK2ZkZif"
     },
     {
       "album": {

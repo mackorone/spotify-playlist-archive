@@ -4,7 +4,7 @@
 
 > christmas always makes me cry
 
-100 songs - 5 hr 21 min
+101 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [7 O'Clock News / Silent Night](https://open.spotify.com/track/2bvJ5kLWPWXZkOLBQNiaK8) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/4AJfkLfnmnUZSs7Afr3RGW) | 2:02 | 2023-11-21 |  |
 | [Angel In The Snow](https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:37 | 2022-12-16 | 2024-04-19 |
 | [Angel In The Snow](https://open.spotify.com/track/7FtqC39RKToWH7x4lUDCJW) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 2:37 | 2022-11-28 | 2023-04-29 |
-| [Another Lonely Christmas](https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 4:53 | 2022-12-16 |  |
+| [Another Lonely Christmas](https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 4:53 | 2022-12-16 | 2025-11-15 |
 | [Ave Maria](https://open.spotify.com/track/1GyZ3zU4u7woRh4idb0xlE) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Christmas In My Heart](https://open.spotify.com/album/5Hb08TdKJ49735BJRl31tr) | 2:51 | 2023-11-21 |  |
 | [Ave Maria](https://open.spotify.com/track/1yTDvZLkC1WjVbsPPBf5dG) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Christmas In My Heart \(Expanded Edition\)](https://open.spotify.com/album/2jQQOtQEPL3QGdsTDrO8mu) | 2:51 | 2022-12-16 | 2024-04-19 |
 | [Ave Maria](https://open.spotify.com/track/4AfmfD4sBqV3ixYLxy4AG4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Christmas In My Heart \(Expanded Edition\)](https://open.spotify.com/album/69fTAIpPmoR6S14xEjhB2t) | 2:51 | 2022-10-23 | 2023-02-24 |
@@ -68,6 +68,7 @@
 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/7eEq6hRC7bZfWvrQW7gcdm) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Winter Wonderland](https://open.spotify.com/album/6koZAOj4dhvtm9L0fLZhpQ) | 3:06 | 2022-10-23 | 2022-11-14 |
 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 | 2024-11-25 |  |
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 | 2023-11-21 |  |
+| [Not So Merry Christmas](https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Not So Merry Christmas](https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi) | 3:53 | 2025-11-14 |  |
 | [O Come, All Ye Faithful](https://open.spotify.com/track/5XXN5uV7S00Oqpy6irOioz) | [Holiday Lounge Players](https://open.spotify.com/artist/60mNrhBAeihJH4XU9k7KRk) | [Retro Christmas Party](https://open.spotify.com/album/6NG1eyLC7ftlfNLXW79Jel) | 2:58 | 2022-10-23 | 2022-11-29 |
 | [O Holy Night](https://open.spotify.com/track/4c4LylLvTh91IhwQgSXPRc) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:56 | 2022-10-23 |  |
 | [O Holy Night](https://open.spotify.com/track/3JIHsuJjTxdfK0Mff0pTy5) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [White Christmas](https://open.spotify.com/album/3ED25ItOo8gmmUkIywh2Nt) | 2:14 | 2022-10-23 |  |

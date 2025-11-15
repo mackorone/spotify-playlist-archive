@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Phùng Khánh Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,280 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,290 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [không một bài hát nào có thể diễn tả cảm xúc của em lúc này\. \(feat\. Thanh Bui\)](https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Bùi](https://open.spotify.com/artist/2q8305j8iKRCQr7Tn6woin) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 4:00 |
 | 50 | [Lội Ngược Dòng](https://open.spotify.com/track/3W7xUIUUN8qNvzcD2tpdnm) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Lội Ngược Dòng](https://open.spotify.com/album/4yuIwuhNl8eMCSZWm9nYb3) | 4:01 |
 
-Snapshot ID: `AAAAACzFbNhbXzljQi/aseiTi5ULuPbd`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

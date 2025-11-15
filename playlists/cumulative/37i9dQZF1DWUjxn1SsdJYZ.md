@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Kerser
 
-1,381 songs - 2 day 16 hr 23 min
+1,382 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Came Up](https://open.spotify.com/track/2RliZBbqScxl8c9chozCc2) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Came Up](https://open.spotify.com/album/1rqqWU8YhSiZtpgRj4ifIk) | 2:21 | 2023-11-23 | 2024-03-15 |
 | [Can't Be Free](https://open.spotify.com/track/6OdQd8ycNW85vTZDcjpQDv) | [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt) | [Can't Be Free](https://open.spotify.com/album/1DTZCG8pD8cpDRzwAfitAA) | 2:38 | 2022-11-10 | 2023-03-31 |
 | [Can't Fake It](https://open.spotify.com/track/40VBxyQp3ZIYPiWwOJ4HJ3) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Can't Fake It](https://open.spotify.com/album/6TPoUp0iBcxdFlXahUllXY) | 2:10 | 2022-09-22 | 2023-03-31 |
+| [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu) | 2:46 | 2025-11-14 |  |
 | [CANADA \(w/ jnhygs\)](https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \(w/ jnhygs\)](https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th) | 1:50 | 2024-04-19 | 2024-06-07 |
 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 | 2025-07-24 | 2025-10-10 |
 | [CAP](https://open.spotify.com/track/3a1HcF4HuxICocwxOinRmG) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [CAP](https://open.spotify.com/album/4Quv2pJfaLNE36O6BSzbmk) | 2:55 | 2022-04-07 | 2022-07-29 |
@@ -367,7 +368,7 @@
 | [EYES UP ON ME](https://open.spotify.com/track/1F4AvWauNLZwgdcsEpeJ6s) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [EYES UP ON ME](https://open.spotify.com/album/1f7qjoZ2Xf2emAyg1EGuAE) | 1:40 | 2024-09-19 | 2024-11-29 |
 | [F THAT B](https://open.spotify.com/track/28U6wLXC6qNGnkkeWxS3si) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [F THAT B](https://open.spotify.com/album/2PQdyOq0AgFTnVjk4ZWuFk) | 2:01 | 2025-02-06 | 2025-05-23 |
 | [Face It](https://open.spotify.com/track/2jmwUQDIENcoLKAzfz7hLi) | [Brayden Jay](https://open.spotify.com/artist/0rq8kMC5YJ6HmnQKgNJC9m) | [Face It](https://open.spotify.com/album/2yn4OQrIajMmHUgIf3e54O) | 2:50 | 2025-02-27 | 2025-07-18 |
-| [FaceTime \(feat\. Don Toliver\)](https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [](https://open.spotify.com/album/null) | 2:18 | 2025-11-13 |  |
+| [FaceTime \(feat\. Don Toliver\)](https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Euphoria](https://open.spotify.com/album/1NATXlXj7ZUSJuAbLoQyIE) | 2:18 | 2025-11-13 |  |
 | [FADE](https://open.spotify.com/track/0L6lHg6QcYpO0JYsvOjZ39) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Teddy Slugz](https://open.spotify.com/artist/3pHTYKGBLYetY3lRN0IQfD) | [FADE](https://open.spotify.com/album/0qezHW0dnM7ZII0MkQczrj) | 2:19 | 2025-06-03 | 2025-07-18 |
 | [FADED](https://open.spotify.com/track/2nrDLkv49Kr7veWTOHQwhi) | [ZPLUTO](https://open.spotify.com/artist/3vMjTM3wg0sOZDDoc3FuEN) | [FADED](https://open.spotify.com/album/31tMFCIfhLwx7tX2NZKv7m) | 3:13 | 2025-10-02 |  |
 | [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 | 2022-05-26 | 2022-09-22 |
@@ -799,7 +800,7 @@
 | [Name My Price](https://open.spotify.com/track/1fT7mEKaIgqBCcCvpHzi2x) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Name My Price](https://open.spotify.com/album/0ye3thyZPRwQzkulMm2phJ) | 2:12 | 2025-08-28 | 2025-10-31 |
 | [NATURAL HABITAT](https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [NATURAL HABITAT](https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ) | 2:53 | 2024-05-23 | 2024-09-06 |
 | [Naughty Child](https://open.spotify.com/track/6VuRkLXw1Z24cK2ugSFaBO) | [SB](https://open.spotify.com/artist/3vD63tWVGtfQaYaNhXMNWT) | [Naughty Child](https://open.spotify.com/album/7sVNRVXaclzgHZObFAR5zc) | 2:50 | 2024-04-07 | 2024-06-21 |
-| [Ned Kelly](https://open.spotify.com/track/2FLTxBAZSnCP9Lyj6ijBGH) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [OMO BURUKU](https://open.spotify.com/album/2izsHOQGMl7lgciEnRtbNd) | 2:31 | 2025-06-26 |  |
+| [Ned Kelly](https://open.spotify.com/track/2FLTxBAZSnCP9Lyj6ijBGH) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [OMO BURUKU](https://open.spotify.com/album/2izsHOQGMl7lgciEnRtbNd) | 2:31 | 2025-06-26 | 2025-11-15 |
 | [Need it](https://open.spotify.com/track/5xi9havTvE7ELg0U5O5GsQ) | [Mistah Mez](https://open.spotify.com/artist/7FUiHb15jNoad8VZDsD44i), [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Need it](https://open.spotify.com/album/3esciVJufbBSnNYs5YiZ2O) | 2:42 | 2022-03-21 | 2022-05-19 |
 | [Neglected](https://open.spotify.com/track/5YU1qcBVspS4TisxvqtrTh) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [Neglected](https://open.spotify.com/album/05fTPOxEbGTaAFfpTEO11Q) | 2:40 | 2024-05-30 | 2024-08-09 |
 | [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Never Coming Home \(feat\. SIX60\)](https://open.spotify.com/album/0hoL3ByqmEuAArk3h9XYw7) | 4:05 | 2025-07-10 |  |

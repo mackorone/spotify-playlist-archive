@@ -1,18 +1,134 @@
 {
-  "description": "Die sch\u00f6nsten Lieder f\u00fcr den Laternenumzug \u2728",
-  "num_followers": 56791,
-  "original_name": "Familienzeit: Laternenlieder",
+  "description": "Zeit f\u00fcr Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
+  "num_followers": 56800,
+  "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAO0Wu+Il0mdSLt3At0dHUB2AUfs",
+  "snapshot_id": "AAAAAPltP2X4b4FCCvwQhS2wxP8l7pEI",
   "tracks": [
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
-        "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
+        "name": "Alle Monate",
+        "url": "https://open.spotify.com/album/7xHBsmwraHwKPxDWxD4IT2"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 205568,
+      "name": "Alle Monate",
+      "url": "https://open.spotify.com/track/6TLbNxLrYcgd3k0NDLkqPp"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Die Eisk\u00f6nigin V\u00f6llig Unverfroren (Deutscher Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N"
+      },
+      "artists": [
+        {
+          "name": "Valeska Gerhart",
+          "url": "https://open.spotify.com/artist/53nxqlgr2w5vYE4n0v5Z59"
+        },
+        {
+          "name": "Magdalena Haier",
+          "url": "https://open.spotify.com/artist/0IxXVC6o9wfMF0mEdjJOrv"
+        },
+        {
+          "name": "Pia Allgaier",
+          "url": "https://open.spotify.com/artist/72mHHRrqbN20uxmb99iDJW"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "Willst du einen Schneemann bauen?",
+      "url": "https://open.spotify.com/track/5xkRXWqt8MAXh6wlhE3ODp"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Mufasa: Der K\u00f6nig der L\u00f6wen (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/4Wawsr2fSXYOkEKRbNOEGL"
+      },
+      "artists": [
+        {
+          "name": "Toni Wegewitz",
+          "url": "https://open.spotify.com/artist/2zDyzsNkFqamk0McVKRtJa"
+        },
+        {
+          "name": "Bryan Abubakari",
+          "url": "https://open.spotify.com/artist/79hc1hCa6Wiz3GqrthyFmN"
+        },
+        {
+          "name": "Arne Stephan",
+          "url": "https://open.spotify.com/artist/1ZSevBWR9DEYulD7E3GpHE"
+        },
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ich wollte immer einen Bruder",
+      "url": "https://open.spotify.com/track/2x1dkjz30TxRRKb5wYbDZx"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Die Eisk\u00f6nigin V\u00f6llig Unverfroren (Deutscher Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N"
+      },
+      "artists": [
+        {
+          "name": "Hape Kerkeling",
+          "url": "https://open.spotify.com/artist/3CJ0RVE3IsRub5KQLN0rtl"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Im Sommer",
+      "url": "https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Schnupfennase",
+        "url": "https://open.spotify.com/album/4ZM9rOwNk2fwO7pY3OHqU5"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 99200,
+      "name": "Schnupfennase",
+      "url": "https://open.spotify.com/track/1XdPvu4zQI5oVm8aN1TWKn"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Winterkinder ...auf der Suche nach Weihnachten",
+        "url": "https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "Es schneit",
+      "url": "https://open.spotify.com/track/4NhNX3C9Ue4gatgwHQobyY"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Die 30 besten Weihnachts- Und Winterlieder",
+        "url": "https://open.spotify.com/album/3qXBiuZFGf8BGHf55YeFbq"
       },
       "artists": [
         {
@@ -28,191 +144,107 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 148468,
-      "name": "Sankt Martin ritt durch Schnee und Wind",
-      "url": "https://open.spotify.com/track/2dHszQtG14VkXm4XTOJT2o"
+      "duration_ms": 147013,
+      "name": "Eine Muh, eine M\u00e4h",
+      "url": "https://open.spotify.com/track/45qP9cYtZI1pcxo0kzvkAh"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Li-la-Lichterfest",
-        "url": "https://open.spotify.com/album/4QNw5XjBJWpzN3pYkR2jsO"
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
       "artists": [
         {
-          "name": "Sandra Lierz",
-          "url": "https://open.spotify.com/artist/4hG4b1ak7Az0ODldHsHM8d"
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
         },
         {
-          "name": "Andreas Schoba: Kinderlieder einfach handgemacht",
-          "url": "https://open.spotify.com/artist/3Av62xzOXjxLZ4XAt1V911"
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 131076,
-      "name": "Li-la-Lichterfest",
-      "url": "https://open.spotify.com/track/6Ghfx94nfsrGk1u19gNBZ6"
+      "duration_ms": 224933,
+      "name": "Der kleine Trommler",
+      "url": "https://open.spotify.com/track/0LXTNutQUlPhrFkdVu5BR4"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Rolfs Liederb\u00fcchermaus",
-        "url": "https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS"
+        "name": "Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
       },
       "artists": [
         {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
         }
       ],
-      "duration_ms": 150960,
-      "name": "Sonne, Mond und Sterne",
-      "url": "https://open.spotify.com/track/7K5yVlLdF8T5qyIX8WLdOz"
+      "duration_ms": 179179,
+      "name": "Die krassesten Schlitten",
+      "url": "https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Keiner singt so sch\u00f6n wie du (Springlebendige und kuschelzarte Spiel- Und Spa\u00dflieder)",
-        "url": "https://open.spotify.com/album/1uwurR4HlRUvEXWFGcfFZ8"
+        "name": "Schnee",
+        "url": "https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl"
       },
       "artists": [
         {
-          "name": "Matthias Meyer-G\u00f6llner",
-          "url": "https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC"
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 123346,
+      "name": "Schnee",
+      "url": "https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
         },
         {
-          "name": "Pascal Harting",
-          "url": "https://open.spotify.com/artist/6nXDcvwlAt65avP8jbkf7v"
-        },
-        {
-          "name": "Hauke G\u00f6llner",
-          "url": "https://open.spotify.com/artist/4P2YfLndxOhnpq55j7JDWv"
-        },
-        {
-          "name": "Louise St\u00f6lting",
-          "url": "https://open.spotify.com/artist/1aqWtdDGVra3Ar9tBRV6rT"
-        },
-        {
-          "name": "Swantje J\u00e4ger",
-          "url": "https://open.spotify.com/artist/3Da2KU4XsniX0qeP3Fz47l"
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 116520,
-      "name": "Laternenrock",
-      "url": "https://open.spotify.com/track/2DibYDRLVDu780mKjVsRO0"
+      "duration_ms": 185840,
+      "name": "Rudolf, das kleine Rentier",
+      "url": "https://open.spotify.com/track/6KOT5wByCmM7y9Y7r5PNwJ"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Kinderlieder f\u00fcr den Herbst - EP",
-        "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
+        "name": "Allergr\u00f6\u00dfter Wunsch",
+        "url": "https://open.spotify.com/album/5JwhZ2T6j68gj9OZH0Sjnz"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 228387,
-      "name": "Ich geh mit meiner Laterne",
-      "url": "https://open.spotify.com/track/2zx5rwYZe5oJ74TPi3l3PL"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Kommt, wir wolln Laterne laufen",
-        "url": "https://open.spotify.com/album/6zeXEvQUwV55xFB8hSE9nT"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Kommt, wir wolln Laterne laufen",
-      "url": "https://open.spotify.com/track/0lq8zosTqXuSTkhk3ASVvl"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laternentanz und Lichterglanz",
-        "url": "https://open.spotify.com/album/2x6BWT1TKONNtQQYMp7x5G"
-      },
-      "artists": [
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 121640,
-      "name": "Laternenlied",
-      "url": "https://open.spotify.com/track/20o4nshih0sr4mXXT2lYOf"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laterne, Laterne (Mit Liedern und Geschichten)",
-        "url": "https://open.spotify.com/album/7gge6S5sCzYZMGjMqC2dtv"
-      },
-      "artists": [
-        {
-          "name": "Bettina G\u00f6schl",
-          "url": "https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA"
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
         },
         {
-          "name": "Katia Simon",
-          "url": "https://open.spotify.com/artist/7Ab4orC5yhosyMOGFgl1lF"
-        },
-        {
-          "name": "Sonja Szylowicki",
-          "url": "https://open.spotify.com/artist/60oeXp5UPN42Iy53hW7Yxq"
-        },
-        {
-          "name": "Matthias Meyer-G\u00f6llner",
-          "url": "https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC"
+          "name": "Fidi Steinbeck",
+          "url": "https://open.spotify.com/artist/5jiQJuf5PswA0Cbp0PPcA9"
         }
       ],
-      "duration_ms": 103413,
-      "name": "Durch die Stra\u00dfen auf und nieder",
-      "url": "https://open.spotify.com/track/3uggKtoiuOZPtBp2HKFRUg"
+      "duration_ms": 180986,
+      "name": "Allergr\u00f6\u00dfter Wunsch",
+      "url": "https://open.spotify.com/track/47vUmnYNNikz6UZTx9VZSo"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Kinderlieder f\u00fcr den Herbst - EP",
-        "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 111555,
-      "name": "Laterne, Laterne",
-      "url": "https://open.spotify.com/track/4n6yduZsktKq51KWnIzVlK"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Im Land der bunten Fantasie - Lieder zum Tanzen, Tr\u00e4umen und Mitsingen",
-        "url": "https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn"
-      },
-      "artists": [
-        {
-          "name": "Cattu der Traumf\u00e4nger",
-          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
-        }
-      ],
-      "duration_ms": 233660,
-      "name": "Laternen leuchten \u00fcberall",
-      "url": "https://open.spotify.com/track/3ZEWBsTwEl6erQxRQPlzte"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laternen- und Herbstlieder",
-        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
+        "name": "Weihnachts- und Winterlieder",
+        "url": "https://open.spotify.com/album/0pKBO2kSYKw8WBCLkfHOJn"
       },
       "artists": [
         {
@@ -220,416 +252,84 @@
           "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 109940,
-      "name": "Der Herbst ist da",
-      "url": "https://open.spotify.com/track/7xJPa1jms8mgBnxuxKmVuw"
+      "duration_ms": 211469,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/1FMOeO9KbVRD6vlkGWB4Jn"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Laternen- und Herbstlieder",
-        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
+        "name": "Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
       },
       "artists": [
         {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Lichterkinder",
-      "url": "https://open.spotify.com/track/0iLyAlInsomkzvxAMYlS6R"
+      "duration_ms": 161698,
+      "name": "Das Lied der Wichtel",
+      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Die 30 besten Kinderlieder f\u00fcrs Kalenderjahr",
-        "url": "https://open.spotify.com/album/5bY0dq5UA2RoBVEenD8ial"
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+          "name": "Alexa Feser",
+          "url": "https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD"
         },
         {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "S\u00fc\u00dfer die Glocken nie klingen",
+      "url": "https://open.spotify.com/track/3QQuRIW0s88lpjy3g5lCtE"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
         },
         {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 173725,
-      "name": "Heute feiern wir den Martinstag",
-      "url": "https://open.spotify.com/track/3hkKopyrwEzTPsT8UAzEYf"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laternentanz",
-        "url": "https://open.spotify.com/album/2bHhanqgRo3HyGv8oMhb2A"
-      },
-      "artists": [
-        {
-          "name": "Lucia Ruf",
-          "url": "https://open.spotify.com/artist/085LEO8GBi8fhvVZhoS5gt"
-        }
-      ],
-      "duration_ms": 132928,
-      "name": "Laternentanz",
-      "url": "https://open.spotify.com/track/5Xt6lMmqyF9f6ntMxQcm1d"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Das singende K\u00e4nguruh",
-        "url": "https://open.spotify.com/album/38I4JBWRrXO5HYk5rYAtyt"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 125600,
-      "name": "Milli und Molli",
-      "url": "https://open.spotify.com/track/1X8Wh9IsMmRHfGRv6JFvaM"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laternen- und Herbstlieder",
-        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 140064,
-      "name": "Hejo, guter alter Mond",
-      "url": "https://open.spotify.com/track/3JT4E5EIhMckQxeNNKH2jn"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Sankt Martin ritt durch Schnee und Wind - Die 25 sch\u00f6nsten Laternenlieder",
-        "url": "https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y"
-      },
-      "artists": [
-        {
-          "name": "Kati Breuer",
-          "url": "https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Ein armer Mann - Sankt Martins Lied",
-      "url": "https://open.spotify.com/track/279lKqSAa6Ozxr7204yxg5"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Die 30 besten traditionellen Kinderlieder 2",
-        "url": "https://open.spotify.com/album/5mXzHNG81xOuT1Tqc4gVEQ"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
         },
         {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
         },
         {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 106546,
-      "name": "Laterne, Laterne",
-      "url": "https://open.spotify.com/track/7qKlhndhP3XIHhHvkaYbWw"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laterne, Laterne, leuchtet wie die Sterne (24 Laternenlieder und Martinslieder)",
-        "url": "https://open.spotify.com/album/4Qlhlv3BIQ56gipbzk2Ff4"
-      },
-      "artists": [
-        {
-          "name": "Tara G. Zintel",
-          "url": "https://open.spotify.com/artist/36czNxSZP5QBO6FuXjgLKZ"
-        }
-      ],
-      "duration_ms": 85386,
-      "name": "Licht in der Laterne",
-      "url": "https://open.spotify.com/track/0IxjQyVjG13PNDBXL7Ja1L"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Kommt, wir wolln Laterne laufen",
-        "url": "https://open.spotify.com/album/6zeXEvQUwV55xFB8hSE9nT"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 156253,
-      "name": "Danke",
-      "url": "https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laternen- und Herbstlieder",
-        "url": "https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 103503,
-      "name": "Heute leuchten die Laternen",
-      "url": "https://open.spotify.com/track/6x80tbpHq4m42mYcqIdd87"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Sankt Martin ritt durch Schnee und Wind - Die 25 sch\u00f6nsten Laternenlieder",
-        "url": "https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y"
-      },
-      "artists": [
-        {
-          "name": "Kati Breuer",
-          "url": "https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Abends, wenn es dunkel wird",
-      "url": "https://open.spotify.com/track/4gkkfbLfHnqPprH5ym6HhZ"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Hallo, kleiner Kuschelb\u00e4r",
-        "url": "https://open.spotify.com/album/6BPUbiMCOj0WDsITUEJ89A"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Die Laternenzeit",
-      "url": "https://open.spotify.com/track/28T1cmoXgh7Nh7YqxSo2hY"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laterne, Laterne, leuchtet wie die Sterne (24 Laternenlieder und Martinslieder)",
-        "url": "https://open.spotify.com/album/4Qlhlv3BIQ56gipbzk2Ff4"
-      },
-      "artists": [
-        {
-          "name": "Tara G. Zintel",
-          "url": "https://open.spotify.com/artist/36czNxSZP5QBO6FuXjgLKZ"
-        }
-      ],
-      "duration_ms": 137280,
-      "name": "Laterne, Laterne (Sonne, Mond und Sterne)",
-      "url": "https://open.spotify.com/track/7KKcKW99q3tmeXILTIFfGe"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Kinderlieder, Teil 3",
-        "url": "https://open.spotify.com/album/7oxfGQyy1dp8LAieSPZRP6"
-      },
-      "artists": [
-        {
-          "name": "J\u00fcrgen Fastje",
-          "url": "https://open.spotify.com/artist/1fBCzTI3C3lLiBqyJU81PB"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Die Laterne hat heut ihren gro\u00dfen Tag",
-      "url": "https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Laternen- und Herbstlieder 2",
-        "url": "https://open.spotify.com/album/68HlRUNLMY75Oe7xh6laOZ"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 161145,
-      "name": "Laterne laufen",
-      "url": "https://open.spotify.com/track/4rgP4H4yJLXLK1wdAfJbBc"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Sankt Martin ritt durch Schnee und Wind - Die 25 sch\u00f6nsten Laternenlieder",
-        "url": "https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y"
-      },
-      "artists": [
-        {
-          "name": "Kati Breuer",
-          "url": "https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy"
-        }
-      ],
-      "duration_ms": 109106,
-      "name": "Ich hab eine feine Laterne",
-      "url": "https://open.spotify.com/track/5D6VL3ggSYvdj4zauqWw9Q"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Meine Lieblingskinderlieder zum Laternelaufen",
-        "url": "https://open.spotify.com/album/4EdCIX7eCBKk6RgmXABFJG"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 150202,
-      "name": "Wir leuchten zusammen",
-      "url": "https://open.spotify.com/track/31llVx9c5b3iJiLuSIE98h"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Herbstlieder: Lustige Kinderlieder zu Herbst und Halloween",
-        "url": "https://open.spotify.com/album/7HGhIQ2dd5w5CtkIrEn7XC"
-      },
-      "artists": [
-        {
-          "name": "Sternschnuppe",
-          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Ach, Martin, gib halt mal was her (Kinderlied f\u00fcr Sankt Martin)",
-      "url": "https://open.spotify.com/track/77Np5dJUNWI97A7BSCeaOy"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Teddy Eddy - Superheld! (Kinderlieder)",
-        "url": "https://open.spotify.com/album/6l110uQ4RsZjTbCs7gNnUu"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Hofer",
-          "url": "https://open.spotify.com/artist/1RFd5CgPNp9BKQO40jbitO"
-        }
-      ],
-      "duration_ms": 208422,
-      "name": "La-Li-La-Lu-Laterne",
-      "url": "https://open.spotify.com/track/4IGeKVHyQEfkdIZDNV8nyf"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Hexen Laternenlauf",
-        "url": "https://open.spotify.com/album/6ZsgutFQGrbdUjoWj9OdNQ"
-      },
-      "artists": [
-        {
-          "name": "Andreas Schoba: Kinderlieder einfach handgemacht",
-          "url": "https://open.spotify.com/artist/3Av62xzOXjxLZ4XAt1V911"
-        }
-      ],
-      "duration_ms": 128250,
-      "name": "Hexen Laternenlauf",
-      "url": "https://open.spotify.com/track/6PO8tFwarbJoG3XRU0Uv1y"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Sankt Martin ritt durch Schnee und Wind - Die 25 sch\u00f6nsten Laternenlieder",
-        "url": "https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y"
-      },
-      "artists": [
-        {
-          "name": "Kati Breuer",
-          "url": "https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Ich geh mit meiner Laterne",
-      "url": "https://open.spotify.com/track/2pZzhA5c2KD8CDYJUKDJht"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Sankt Martin",
-        "url": "https://open.spotify.com/album/5wfhzShvdS5LPlyrmdmdkG"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 153257,
-      "name": "Sankt Martin",
-      "url": "https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Ein kleines Licht",
-        "url": "https://open.spotify.com/album/3HY6Qx5Im7vFP8LzsLKEtS"
-      },
-      "artists": [
-        {
-          "name": "Matthias Meyer-G\u00f6llner",
-          "url": "https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC"
-        }
-      ],
-      "duration_ms": 201380,
-      "name": "Ein kleines Licht",
-      "url": "https://open.spotify.com/track/2RowFACdokspBh35bUB10Y"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Lauras Stern - Das Liederalbum zum Kinofilm",
-        "url": "https://open.spotify.com/album/7r855N0wTZTFxyiFntXUsz"
-      },
-      "artists": [
-        {
-          "name": "Lauras Stern",
-          "url": "https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD"
+          "name": "Katharina Hirschberg",
+          "url": "https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu"
         },
         {
-          "name": "3Berlin",
-          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
+          "name": "Harriet Herbig-Matten",
+          "url": "https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1"
+        },
+        {
+          "name": "Holger Stockhaus",
+          "url": "https://open.spotify.com/artist/3bCQwvxDpV0zM0jD54qliH"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Sonne, Mond und Sterne",
-      "url": "https://open.spotify.com/track/4rsdmYSwg7nxCSkb4GEn5J"
+      "duration_ms": 178733,
+      "name": "W\u00e4r' Dezember doch f\u00fcr immer (feat. Katharina Hirschberg, Harriet Herbig-Matten, Holger Stockhaus)",
+      "url": "https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
         "name": "Endlich Winter!",
         "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
@@ -640,35 +340,15 @@
           "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Ich geh mit meiner Laterne",
-      "url": "https://open.spotify.com/track/41VsHvhdX0cd4IF9TqKeyy"
+      "duration_ms": 156760,
+      "name": "Kekse",
+      "url": "https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Ich liebe alle Sterne (Laternenlied)",
-        "url": "https://open.spotify.com/album/1rdaF7ppns4a1ebTYxupqW"
-      },
-      "artists": [
-        {
-          "name": "Kati Breuer",
-          "url": "https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy"
-        },
-        {
-          "name": "Stephen Janetzko",
-          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Ich liebe alle Sterne (Laternenlied)",
-      "url": "https://open.spotify.com/track/7Mwi1YiX4xp2Bo6654p2Sf"
-    },
-    {
-      "added_at": "2025-11-09 08:35:18",
-      "album": {
-        "name": "Meine Lieblingskinderlieder zum Laternelaufen",
-        "url": "https://open.spotify.com/album/4EdCIX7eCBKk6RgmXABFJG"
+        "name": "Kinderlieder f\u00fcr den Winter - EP",
+        "url": "https://open.spotify.com/album/5UbWocZ1joDQQ2ojYP98Nl"
       },
       "artists": [
         {
@@ -676,15 +356,375 @@
           "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 148610,
-      "name": "Laternensong",
-      "url": "https://open.spotify.com/track/3bAGyIRfkgqHYFCaajDsQg"
+      "duration_ms": 146142,
+      "name": "Wann wird es Winter?",
+      "url": "https://open.spotify.com/track/4z29oJTUjxv60CDkPeG8wG"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Kinderlieder - Herbst (2022)",
-        "url": "https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9"
+        "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+        "url": "https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+      "url": "https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Frosty, der Schneemann",
+        "url": "https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I"
+      },
+      "artists": [
+        {
+          "name": "Schlagerkids",
+          "url": "https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb"
+        }
+      ],
+      "duration_ms": 126013,
+      "name": "Frosty, der Schneemann",
+      "url": "https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Catterfeld",
+          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Winter Wunderland",
+      "url": "https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Benjamin Weygand",
+          "url": "https://open.spotify.com/artist/41xc05UxOoE4gWJOQ40KPA"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Unterm Mistelzweig (feat. Benjamin Weygand)",
+      "url": "https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Alle Jahre wieder",
+        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Alle Jahre wieder",
+      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Winterlieder: Bayerisch-Verschmitzte Kinderlieder f\u00fcr Winter und Weihnachten",
+        "url": "https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "duration_ms": 273725,
+      "name": "Eisb\u00e4rn (Kinderlied zum Winter)",
+      "url": "https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
+      "url": "https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Nicola Rost",
+          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Schnee im Gefrierfach",
+      "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Dominikus Weilede",
+          "url": "https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Klingelingeling (feat. Dominikus Weilede)",
+      "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
+        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
+      },
+      "artists": [
+        {
+          "name": "Kleiner Eisb\u00e4r",
+          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
+      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Schneeballschlacht",
+      "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Spuren im Schnee",
+      "url": "https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+      },
+      "artists": [
+        {
+          "name": "Annett Louisan",
+          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Leise rieselt der Schnee",
+      "url": "https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Schneefl\u00f6ckchen",
+      "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Winterzauberlieder",
+        "url": "https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw"
+      },
+      "artists": [
+        {
+          "name": "Pettersson und Findus",
+          "url": "https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Die Schlittenfahrt",
+      "url": "https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Deniz & Ove",
+          "url": "https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X"
+        },
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Ich will Schnee",
+      "url": "https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Zootierpolka",
+        "url": "https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Zootierpolka",
+      "url": "https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Heut Nacht hat's geschneit",
+      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Pauken und Planeten",
+          "url": "https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Lametta",
+      "url": "https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Die Liga der gew\u00f6hnlichen Gentlemen",
+          "url": "https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Winter ist wie Sommer nur in kalt",
+      "url": "https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Tanzbare Weihnachtslieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw"
       },
       "artists": [
         {
@@ -696,139 +736,243 @@
           "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
         }
       ],
-      "duration_ms": 194133,
-      "name": "Wir halten die Laternen",
-      "url": "https://open.spotify.com/track/4BSk3N9P8FKiZzWKlBSP4M"
+      "duration_ms": 129640,
+      "name": "Backe, Backe Kuchen",
+      "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Sankt Martin singt durch Herbst und Wind: 20 Kinderlieder f\u00fcr die Laternenzeit",
-        "url": "https://open.spotify.com/album/6OzFFzwqYeR1C5Yff1h6ys"
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
       "artists": [
         {
-          "name": "Birte Reuver",
-          "url": "https://open.spotify.com/artist/0QCXpFUQUkiiV1rX8LEk8l"
+          "name": "Larissa Pesch",
+          "url": "https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Laternen-Samba",
-      "url": "https://open.spotify.com/track/3sDC7lry4LTbgdKhHlCOQU"
+      "duration_ms": 282786,
+      "name": "Ein ganzes Jahr",
+      "url": "https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "St. Martin - Die Kinderlieder zum Laternen Fest",
-        "url": "https://open.spotify.com/album/7K3Psz6NXHypF40QCR9kcT"
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
       "artists": [
         {
-          "name": "Kinderchor Canzonetta Berlin",
-          "url": "https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R"
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 92613,
-      "name": "Laternchen, Laternchen",
-      "url": "https://open.spotify.com/track/02iM95Tu2YT4dsuWwIQkke"
+      "duration_ms": 183626,
+      "name": "Der Baum ist schief",
+      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Lieder zum Mitsingen und Tanzen, Vol. 5",
-        "url": "https://open.spotify.com/album/2Gql38VE3aDhNDNW2h626Y"
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
       "artists": [
         {
-          "name": "Mini Mike Und Die Singenden Kids",
-          "url": "https://open.spotify.com/artist/3jWwWDdJZcW6EhfehsQ1sH"
+          "name": "Francesco Wilking",
+          "url": "https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV"
+        },
+        {
+          "name": "Dokter Renz",
+          "url": "https://open.spotify.com/artist/3NGeF5HzunPNb9up8qcYWD"
+        },
+        {
+          "name": "Ylvie, Jona, Klara",
+          "url": "https://open.spotify.com/artist/4SGCMuC7b8RPmOUjLY3KMW"
         }
       ],
-      "duration_ms": 205177,
-      "name": "Sankt Martin St. Martin",
-      "url": "https://open.spotify.com/track/6oNQp4PMCIqnSnuiyJl4Qf"
+      "duration_ms": 281440,
+      "name": "Gute Zeit",
+      "url": "https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Laterne, Laterne - Sonne, Mond und Sterne (Lieder zur Herbst- Und Lichterzeit)",
-        "url": "https://open.spotify.com/album/51U3W1BeeGbfOBqgyoAVV4"
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
       "artists": [
         {
-          "name": "Matthias Meyer-G\u00f6llner",
-          "url": "https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC"
-        },
-        {
-          "name": "Carina Hamann",
-          "url": "https://open.spotify.com/artist/5CSY4dFyZgHvM1p8Cl4ryF"
-        },
-        {
-          "name": "Bettina G\u00f6schl",
-          "url": "https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA"
-        },
-        {
-          "name": "Sabine Hirler",
-          "url": "https://open.spotify.com/artist/2kjbtYzKEvThUCyjA262jl"
-        },
-        {
-          "name": "Thomas Friz",
-          "url": "https://open.spotify.com/artist/4NUXhujwrLbd9s5QO4YjPM"
-        },
-        {
-          "name": "Robert Metcalf",
-          "url": "https://open.spotify.com/artist/7x9gCkPW4fSF4PI4QRz9Ps"
+          "name": "Sebastian Kr\u00e4mer",
+          "url": "https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq"
         }
       ],
-      "duration_ms": 168817,
-      "name": "Reiter in der Nacht",
-      "url": "https://open.spotify.com/track/1s7peZNlVYW608hXOHtwk8"
+      "duration_ms": 156573,
+      "name": "Pingpong im Dezember",
+      "url": "https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Martin, Martin, Martinsmann - 25 Herbstlieder und Laternenlieder zu St. Martin",
-        "url": "https://open.spotify.com/album/0veMuISz1yxPBBQzjwH4Id"
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
       },
       "artists": [
         {
-          "name": "Stephen Janetzko",
-          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
-        },
-        {
-          "name": "Lucia Ruf",
-          "url": "https://open.spotify.com/artist/085LEO8GBi8fhvVZhoS5gt"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 203744,
-      "name": "Laternenleuchten",
-      "url": "https://open.spotify.com/track/2k9OMhs7GmFNm7p4N0ns2W"
+      "duration_ms": 169591,
+      "name": "Schneeengel",
+      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
     },
     {
-      "added_at": "2025-11-09 08:35:18",
+      "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Die 30 besten Spiel- und Bewegungslieder",
-        "url": "https://open.spotify.com/album/7wGBvXA1TKtlqyJq6Mtsl5"
+        "name": "Kinderleicht. Lieder und mehr f\u00fcr viele bunte Tage",
+        "url": "https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+          "name": "Kinderchor SingsalaSing",
+          "url": "https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi"
         },
         {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Klaus Weigele",
+          "url": "https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS"
         }
       ],
-      "duration_ms": 67906,
-      "name": "Alle Leut'",
-      "url": "https://open.spotify.com/track/1PnCE1OnD4o7cy1lBdJJlL"
+      "duration_ms": 86160,
+      "name": "Backe, backe Kuchen (I)",
+      "url": "https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "eneMene Kinderlieder - die Gr\u00fcne",
+        "url": "https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC"
+      },
+      "artists": [
+        {
+          "name": "eneMene",
+          "url": "https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB"
+        }
+      ],
+      "duration_ms": 88160,
+      "name": "Schneefl\u00f6ckchen",
+      "url": "https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Unsere sch\u00f6nsten Weihnachtslieder",
+        "url": "https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ"
+      },
+      "artists": [
+        {
+          "name": "Familie Sonntag",
+          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Pl\u00e4tzchenduft liegt in der Luft",
+      "url": "https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Lamettawetter EP",
+        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
+      },
+      "artists": [
+        {
+          "name": "Raketen Erna",
+          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "Wo ist der Schneemann?",
+      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 138486,
+      "name": "Winterkinder",
+      "url": "https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Eisb\u00e4r-Pinguin Rock",
+        "url": "https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB"
+      },
+      "artists": [
+        {
+          "name": "Simone Ludwig",
+          "url": "https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Eisb\u00e4r-Pinguin Rock",
+      "url": "https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Feste feiern auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        },
+        {
+          "name": "Sarah Schiffer",
+          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 153207,
+      "name": "Kannst du die Lichter sehen (feat. Detlev J\u00f6cker, Sarah Schiffer & Kinderlieder Gang)",
+      "url": "https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV"
     }
   ],
-  "unique_name": "Familienzeit: Laternenlieder",
+  "unique_name": "Familienzeit: Winter",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7lk7hiGiH2z"
 }

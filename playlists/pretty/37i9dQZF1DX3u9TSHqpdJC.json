@@ -1,13 +1,29 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Gyubin. Artwork by Paola Saliby",
-  "num_followers": 230555,
+  "description": "The best new pop music from new, independent artists.  Cover: ili. Artwork by Paola Saliby",
+  "num_followers": 230603,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHc06zaAoBWTv+FHCHF8O/hmBGRK",
+  "snapshot_id": "AAAAAIyfnKowFRq6OAIbAFdFbHYqWWvX",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "Mean To Me",
+        "url": "https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 124913,
+      "name": "Mean To Me",
+      "url": "https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD"
+    },
     {
       "added_at": "2025-11-12 05:00:13",
       "album": {
@@ -1987,22 +2003,6 @@
       "duration_ms": 198763,
       "name": "Blurry",
       "url": "https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2"
-    },
-    {
-      "added_at": "2025-08-06 04:00:07",
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/4ftnZsIKHNl3g8toERQmoe"
-      },
-      "artists": [
-        {
-          "name": "Sophia Grover",
-          "url": "https://open.spotify.com/artist/1NXqzuT9GyKPFAW9PPGMzR"
-        }
-      ],
-      "duration_ms": 255477,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx"
     },
     {
       "added_at": "2025-08-06 04:00:07",

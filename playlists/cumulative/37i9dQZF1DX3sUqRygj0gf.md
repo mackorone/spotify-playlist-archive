@@ -4,10 +4,11 @@
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-65 songs - 3 hr 21 min
+69 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Child Is Born](https://open.spotify.com/track/3uQ9spsKSa7yNW1tLRGQ4Q) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [A Child Is Born](https://open.spotify.com/album/6y4XRViVif4hk4ZYzN75fB) | 2:46 | 2025-11-14 |  |
 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 | 2024-10-17 |  |
 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 | 2024-10-17 |  |
 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 | 2024-10-17 |  |
@@ -21,6 +22,7 @@
 | [Christmas Wrapping](https://open.spotify.com/track/0znloYDHukXNo0kJD6HjGB) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Wrapping](https://open.spotify.com/album/4Usa4HGlOlSHX8831oNS0c) | 5:44 | 2024-10-17 | 2025-09-05 |
 | [Come Thou Fount](https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Come Thou Fount](https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT) | 2:56 | 2024-10-17 | 2024-12-21 |
 | [Do They Know It's Christmas](https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3) | [The Local Bros.](https://open.spotify.com/artist/2eArGWvPUKX6H63vH4w0bZ) | [Do They Know It's Christmas](https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ) | 2:54 | 2024-12-20 |  |
+| [do you hear what i hear?](https://open.spotify.com/track/5jg32eGC5G5UN4MQmfAjDL) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [do you hear what i hear?](https://open.spotify.com/album/0XFVss5YbgzMYzWnz0a3yf) | 3:23 | 2025-11-14 |  |
 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 | 2024-10-17 |  |
 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 | 2024-10-17 | 2025-09-05 |
 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 | 2024-10-17 |  |
@@ -58,6 +60,7 @@
 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 | 2024-10-17 |  |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5) | 2:27 | 2024-10-17 | 2025-09-05 |
 | [Silver Bells](https://open.spotify.com/track/1DGVKHvSovt0RxmUbM3FTL) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Silver Bells](https://open.spotify.com/album/78N8S8sfJLT4kMDkzftwTi) | 3:12 | 2024-10-17 |  |
+| [Sleigh Ride](https://open.spotify.com/track/0wYdQHdw2CqqXPXENac7Hf) | [Robin T.](https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq) | [Sleigh Ride](https://open.spotify.com/album/5lk8Jzx6jxJEIp6ABGD6jC) | 3:01 | 2025-11-14 |  |
 | [Snowin' On Raton](https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Snowin' On Raton](https://open.spotify.com/album/71wodb1V4YhM39VR82IT13) | 3:51 | 2024-10-17 | 2025-09-05 |
 | [Some Hearts \(At Christmas Time\)](https://open.spotify.com/track/0G3AmnNdWdnVwTGWONP873) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Some Hearts \(At Christmas Time\)](https://open.spotify.com/album/3Qi4XZlpUjHS7KFtNN5iiI) | 1:56 | 2024-10-17 | 2025-05-16 |
 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 | 2024-10-17 | 2025-09-05 |
@@ -67,6 +70,7 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 | 2024-10-17 | 2025-09-05 |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2024-10-17 |  |
 | [the holly & the ivy / auld lang syne](https://open.spotify.com/track/4HhjADXiJjP3514TU1jJ5r) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [the holly & the ivy / auld lang syne](https://open.spotify.com/album/3BIX6o5wrs2QaslFp8mMJv) | 2:54 | 2025-09-04 |  |
+| [This Christmas](https://open.spotify.com/track/1oQEVJUz1Hs3X0b6KBEF4E) | [Sun Valley](https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL) | [This Christmas](https://open.spotify.com/album/0XdjCETN44XA2OekL60DG6) | 3:23 | 2025-11-14 |  |
 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 | 2024-10-17 |  |
 | [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 | 2024-10-17 |  |
 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 | 2024-10-17 |  |

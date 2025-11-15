@@ -1,13 +1,57 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 129437,
+  "num_followers": 129491,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOC9/Rx59ARsV+hC2q98Xiq6qEFT",
+  "snapshot_id": "AAAAAO74YynAb6bXdoWaxgg9EfcMfbFC",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:27",
+      "album": {
+        "name": "i won't live forever",
+        "url": "https://open.spotify.com/album/031A1BdfESmR6Yimo5YwOt"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        }
+      ],
+      "duration_ms": 100409,
+      "name": "i won't live forever",
+      "url": "https://open.spotify.com/track/7BOTAsFUDxqriXuhoddUm7"
+    },
+    {
+      "added_at": "2025-11-14 05:00:27",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/62nSQQw0KJZhjRrwk4AbwO"
+      },
+      "artists": [
+        {
+          "name": "Parker Jack",
+          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
+        },
+        {
+          "name": "Eon Zero",
+          "url": "https://open.spotify.com/artist/7mkjJXcIIgW5F92qaNFV98"
+        },
+        {
+          "name": "HunnaV",
+          "url": "https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH"
+        },
+        {
+          "name": "Jake Luke",
+          "url": "https://open.spotify.com/artist/7bkZ9WvOveMiDLvTIGiMyw"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "911",
+      "url": "https://open.spotify.com/track/7AikJn0VCWhnKvuNgfJa8j"
+    },
     {
       "added_at": "2025-11-07 05:00:49",
       "album": {

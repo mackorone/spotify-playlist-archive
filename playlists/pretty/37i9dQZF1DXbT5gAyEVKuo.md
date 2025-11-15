@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,108 likes - 79 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,153 likes - 79 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 78 | [Better \- Live](https://open.spotify.com/track/5Y8xU9hSO7loZYaP9UqSWe) | [Yemohni Jones](https://open.spotify.com/artist/2CJ0ek3LrVe8hyh0w1Zblg) | [Better \(Live\)](https://open.spotify.com/album/2VaYgbdDdID9R5rmgvXzNF) | 5:13 |
 | 79 | [Able \- Live](https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa) | [Justin Powell & Adoration](https://open.spotify.com/artist/4xKGMqs7NlkXba1rX9utgr) | [Able \(Live\)](https://open.spotify.com/album/3RxGPCAGB08QfDFK2z1huy) | 4:09 |
 
-Snapshot ID: `AAAAADc+EWh2o1lV1frw6KaN4D+k0MjP`
+Snapshot ID: `AAAAAI3tQnLGEX/wD73/k3nm4uML+78Y`

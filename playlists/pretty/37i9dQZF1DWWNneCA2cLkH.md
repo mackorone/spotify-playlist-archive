@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Georgia Knight
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,274 likes - 101 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,276 likes - 101 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 100 | [pacifico](https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [pacifico](https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9) | 3:18 |
 | 101 | [The Backyard](https://open.spotify.com/track/7HCKww5CF1Fsrg4Sci6Dem) | [Guy Blackman](https://open.spotify.com/artist/76XsgVqbjHJXzJ0BY3Sr6w) | [Out Of Sight](https://open.spotify.com/album/1nqBp2BTSh4Oc0CuhfzhJZ) | 3:52 |
 
-Snapshot ID: `AAAAAC7M9AfNEb7O4WG1p+0NgrkyJTcL`
+Snapshot ID: `AAAAAIS6LJi8ih2i3gcWkoQC6fUiokX3`

@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "3 Engel f\u00fcr Cave",
+        "url": "https://open.spotify.com/album/36N7FGrmCp2wPRL3DsMlBC"
+      },
+      "artists": [
+        {
+          "name": "Cave 110",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "3 Engel f\u00fcr Cave",
+      "url": "https://open.spotify.com/track/4nQmittuiFsPeU4nGfXDha"
+    },
+    {
+      "album": {
         "name": "Aymen",
         "url": "https://open.spotify.com/album/5AJ9eYWrmaGXZ11jhAfWk5"
       },
@@ -2365,6 +2383,28 @@
     },
     {
       "album": {
+        "name": "DU FEHLST",
+        "url": "https://open.spotify.com/album/2YqbtzJH5XlaYVkDv9r4Yi"
+      },
+      "artists": [
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163064,
+      "name": "DU FEHLST",
+      "url": "https://open.spotify.com/track/4Vna11o1Sw268jgcsXLace"
+    },
+    {
+      "album": {
         "name": "Dunya",
         "url": "https://open.spotify.com/album/2w6QNteaT1zNP0BgCNZ7ji"
       },
@@ -2770,7 +2810,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 138200,
       "name": "Gerade Lines",
       "url": "https://open.spotify.com/track/0K4m3o2CZVKWPaK113ICXc"
@@ -2992,7 +3032,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 117573,
       "name": "GUNSHOT",
       "url": "https://open.spotify.com/track/14PkTcqjxqsUk5pO9Cz74a"
@@ -4838,7 +4878,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 129499,
       "name": "Moja Draga",
       "url": "https://open.spotify.com/track/6CHIYDLErQwSgWfqMkEIZS"
@@ -5014,7 +5054,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 138305,
       "name": "MURAKAMI",
       "url": "https://open.spotify.com/track/3gTLaJJbieHBrti47DXTUo"
@@ -5726,7 +5766,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 147226,
       "name": "Rauch",
       "url": "https://open.spotify.com/track/6v1b9nidriM4UBfN7KToko"
@@ -6064,7 +6104,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 140178,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
@@ -7234,6 +7274,24 @@
     {
       "album": {
         "name": "VIP",
+        "url": "https://open.spotify.com/album/5wLJcdbE6EPyBAtst8slVP"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123840,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/5cSza1Zj12oBDNDgeBK8Vf"
+    },
+    {
+      "album": {
+        "name": "VIP",
         "url": "https://open.spotify.com/album/5NTyi9fUg3xexp8sa5plfL"
       },
       "artists": [
@@ -7954,7 +8012,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 133403,
       "name": "Zieh Zieh",
       "url": "https://open.spotify.com/track/5BsS41PRBAXs7EibiFdvPp"

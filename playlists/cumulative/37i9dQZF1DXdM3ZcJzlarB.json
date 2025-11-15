@@ -4067,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "Poison EP",
+        "url": "https://open.spotify.com/album/5SijqkYbzz8HmoHYrGtYc9"
+      },
+      "artists": [
+        {
+          "name": "Mariano Mellino",
+          "url": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374153,
+      "name": "Muskegaan",
+      "url": "https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/3i27h5xJ1lwMMdFigWvoVD"
       },
@@ -6200,24 +6222,6 @@
       "duration_ms": 202652,
       "name": "Trabalho - Radio Mix",
       "url": "https://open.spotify.com/track/4k9od1orgSdqKzHr3W8YzT"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Mariano Mellino",
-          "url": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
-        }
-      ],
-      "date_added": "2025-11-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65"
     },
     {
       "album": {

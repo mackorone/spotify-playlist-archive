@@ -2,7 +2,7 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Jotapê
+> boom bap renasce todo dia\. Foto: Matheus Coringa
 
 730 songs - 1 day 13 hr 57 min
 

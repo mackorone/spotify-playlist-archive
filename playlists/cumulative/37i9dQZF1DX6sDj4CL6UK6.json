@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists\nCover: Anumita Nadesan & Shikhar",
+  "description": "English songs from Indian artists\nCover: Shriya",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Cortado",
+        "url": "https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr"
+      },
+      "artists": [
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL"
+    },
+    {
+      "album": {
         "name": "Could've Been",
         "url": "https://open.spotify.com/album/7BBHLb75DUrEFh9108117K"
       },
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 225146,
       "name": "Exotic",
       "url": "https://open.spotify.com/track/4SUYaVB5r2N4MzbpIbDN10"
@@ -4310,7 +4328,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 265236,
       "name": "New",
       "url": "https://open.spotify.com/track/2tRjY1ep1fxnnK4pTRrbv2"
@@ -6006,6 +6024,32 @@
       "duration_ms": 178594,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi"
+    },
+    {
+      "album": {
+        "name": "Talk to me",
+        "url": "https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r"
+      },
+      "artists": [
+        {
+          "name": "Shriya",
+          "url": "https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX"
+        },
+        {
+          "name": "Noah Cerejo",
+          "url": "https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw"
+        },
+        {
+          "name": "Hersh Desai",
+          "url": "https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161424,
+      "name": "Talk to me",
+      "url": "https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "Where R&B lives. Cover: Kehlani",
-  "num_followers": 6118171,
+  "description": "Where R&B lives. Cover: Summer Walker",
+  "num_followers": 6118011,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJjexynLuia1zV8T9paG9W9TqD+",
+  "snapshot_id": "AAAAANdPsRuUTOKNTp5xoA6nFXaOAYHC",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:41",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 146015,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
+    },
     {
       "added_at": "2025-11-07 05:00:55",
       "album": {
@@ -77,20 +93,24 @@
       "url": "https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv"
     },
     {
-      "added_at": "2025-11-07 05:00:55",
+      "added_at": "2025-11-14 05:00:41",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2Ynkoi95E99DiAiSoXp2bG"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/2mgODRfkCa899nXbN1lgOy"
       },
       "artists": [
         {
           "name": "Mario",
           "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 188225,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6Q7w55fGJRW51X9En2A0wS"
+      "duration_ms": 279000,
+      "name": "Friends (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4cJTR66GRsQjrUppfIXYBo"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -141,6 +161,38 @@
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
+      "added_at": "2025-11-14 21:34:21",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 296718,
+      "name": "Don't Make Me Do It/Tempted",
+      "url": "https://open.spotify.com/track/6Mki5yWEUPg5r25b4fJh7O"
+    },
+    {
+      "added_at": "2025-10-03 04:00:54",
+      "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 204308,
+      "name": "Star Signs",
+      "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
+    },
+    {
       "added_at": "2025-10-10 05:39:18",
       "album": {
         "name": "Me My Songs & I",
@@ -159,22 +211,6 @@
       "duration_ms": 217694,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP"
-    },
-    {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "Solace & The Vices",
-        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 204308,
-      "name": "Star Signs",
-      "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
     },
     {
       "added_at": "2025-10-31 04:00:38",
@@ -209,24 +245,20 @@
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
-      "added_at": "2025-10-03 04:00:54",
+      "added_at": "2025-11-07 05:00:55",
       "album": {
-        "name": "HEARTS SOLD SEPARATELY",
-        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
+      "duration_ms": 184711,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -247,6 +279,46 @@
       "duration_ms": 158115,
       "name": "Hard Part (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
+    },
+    {
+      "added_at": "2025-11-14 21:34:21",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 324776,
+      "name": "1-800 Heartbreak (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
+    },
+    {
+      "added_at": "2025-10-03 04:00:54",
+      "album": {
+        "name": "HEARTS SOLD SEPARATELY",
+        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 181334,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -285,26 +357,26 @@
       "url": "https://open.spotify.com/track/1NPHrkT18ZXgM4Mq0wGjDH"
     },
     {
-      "added_at": "2025-11-07 05:00:55",
+      "added_at": "2025-10-03 04:00:54",
       "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA"
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 184711,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
+      "duration_ms": 137746,
+      "name": "In the Chair",
+      "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
     },
     {
-      "added_at": "2025-10-03 04:00:54",
+      "added_at": "2025-11-14 05:00:41",
       "album": {
-        "name": "Nobody But Us",
-        "url": "https://open.spotify.com/album/0o9R9YUhYDJgnGOHaWfwO9"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/2mgODRfkCa899nXbN1lgOy"
       },
       "artists": [
         {
@@ -314,7 +386,7 @@
       ],
       "duration_ms": 194285,
       "name": "Nobody But Us",
-      "url": "https://open.spotify.com/track/0FHb0FsvH71rigM3vuaOLs"
+      "url": "https://open.spotify.com/track/6bQy7LpWE064l6bDZzOySy"
     },
     {
       "added_at": "2025-10-24 04:24:27",
@@ -337,20 +409,24 @@
       "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
     },
     {
-      "added_at": "2025-10-03 04:00:54",
+      "added_at": "2025-11-14 05:00:41",
       "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 137746,
-      "name": "In the Chair",
-      "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
+      "duration_ms": 198429,
+      "name": "Robbed You (with Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -421,24 +497,20 @@
       "url": "https://open.spotify.com/track/41QBVReXFSAIXWnyChAJCH"
     },
     {
-      "added_at": "2025-10-24 04:24:27",
+      "added_at": "2025-11-14 05:00:41",
       "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 220090,
-      "name": "COMMA / KARMA",
-      "url": "https://open.spotify.com/track/0dFy6dYXMzqlXNoBHqK7nG"
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -477,22 +549,6 @@
       "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
     },
     {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
       "added_at": "2025-10-17 04:25:12",
       "album": {
         "name": "SMOKIN POTNA",
@@ -511,22 +567,6 @@
       "duration_ms": 153145,
       "name": "SMOKIN POTNA",
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
-    },
-    {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": "2025-10-10 05:39:18",
@@ -673,26 +713,6 @@
       "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
     },
     {
-      "added_at": "2025-10-24 08:33:02",
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 470500,
-      "name": "Sins Of The Father (Feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4sR1YmFteF3r6axe0ms915"
-    },
-    {
       "added_at": "2025-10-03 04:00:54",
       "album": {
         "name": "Solace & The Vices",
@@ -831,22 +851,6 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
-    },
-    {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "BELOVED",
-        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "STRANGERS",
-      "url": "https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w"
     },
     {
       "added_at": "2025-10-03 04:00:54",

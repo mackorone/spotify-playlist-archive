@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,451 likes - 79 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,450 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 4 | [Notte Magica](https://open.spotify.com/track/4KQ8Qi0jg6fFYPEG1Syunf) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Notte Magica](https://open.spotify.com/album/6dOnZOQRQtg1JPC3C57NaB) | 3:52 |
 | 5 | [Un Po' Artista Un Po' No](https://open.spotify.com/track/3IF6aYcGyYz2IW9Wy26412) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Un Po' Artista Un Po' No](https://open.spotify.com/album/0ZB1eMfkmzcD4LxKQvNLxj) | 4:59 |
 | 6 | [Malìa](https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Malìa](https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu) | 3:48 |
-| 7 | [Amante Amore \- 2001 Remaster](https://open.spotify.com/track/3tXIEs16RwWPAUFRlTNsHm) | [Mina](https://open.spotify.com/artist/29p3AmDSZvB8huqODQUKj7) | [Mina Con Bignè](https://open.spotify.com/album/6Vr7nGNdoBMVARLtaNuyTQ) | 4:12 |
+| 7 | [Amante Amore \- 2001 Remaster](https://open.spotify.com/track/3tXIEs16RwWPAUFRlTNsHm) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina Con Bignè](https://open.spotify.com/album/6Vr7nGNdoBMVARLtaNuyTQ) | 4:12 |
 | 8 | [Sotto 'O Sole \- Remastered 2008](https://open.spotify.com/track/65b1grxF14pAq2jzcPDUPS) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Nero A Metà](https://open.spotify.com/album/6QyOTma5ECfOpdVXlIKNre) | 2:59 |
 | 9 | [Appuntamento al mare \- Remastered 2022](https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC) | [Riz Ortolani](https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG) | [Le ore nude \(Original Motion Picture Soundtrack / Remastered 2022\)](https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe) | 2:30 |
 | 10 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 63 | [Elisir](https://open.spotify.com/track/6tagbIoTWyXwbHXd1i25Iv) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Elisir](https://open.spotify.com/album/5GdBBYPMy4nA0seHhCy5Sa) | 3:21 |
 | 64 | [Chillo È Nu Buono Guaglione \- Remastered 2008](https://open.spotify.com/track/3gWn2DRsSEDuC84lVr4wb8) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Pino Daniele \(2008 \- Remaster\)](https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr) | 2:49 |
 | 65 | [Agguato a Casablanca \- 2022 Remastered](https://open.spotify.com/track/2cc7sKFqWmEkdrh4WcjpuJ) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ \(2022 Remastered\)](https://open.spotify.com/album/6ktpmnIMVe9RHsJpR8evdg) | 3:06 |
-| 66 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/29p3AmDSZvB8huqODQUKj7) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 |
+| 66 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 |
 | 67 | [Dance On](https://open.spotify.com/track/2iGKdbcNDN2ppf3OZ1UzxC) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Così come sei \(Colonna sonora originale\)](https://open.spotify.com/album/4yskBLdtDHZry9CBYZo69Y) | 4:04 |
 | 68 | [Luna d'agosto \- Con clavicembalo](https://open.spotify.com/track/0zxmdstPI6OHRrplEvdm1C) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [5 Bambole per la luna d'agosto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25VaAxJjmoJUcHnwnG8vOF) | 2:36 |
 | 69 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 |

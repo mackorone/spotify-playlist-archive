@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Trash Boat
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,809 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,751 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 35 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 | 36 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
 | 37 | [MONKEY SEE MONKEY DO](https://open.spotify.com/track/3L4JKn0quzxs56myjLjmZG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [MONKEY SEE MONKEY DO](https://open.spotify.com/album/3rS0r5DrE8YClu1jM0a9pw) | 1:49 |
-| 38 | [$4 Fantasy](https://open.spotify.com/track/1lhpgOcKbzy6kms5A3WCg5) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [](https://open.spotify.com/album/null) | 3:08 |
+| 38 | [$4 Fantasy](https://open.spotify.com/track/1lhpgOcKbzy6kms5A3WCg5) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [The Parlour](https://open.spotify.com/album/2XObMLdXaVSIKCL6fLjtVs) | 3:08 |
 | 39 | [Everyone Bleeds](https://open.spotify.com/track/1FWxIyJmRINVnqkwPk3qCP) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Everyone Bleeds](https://open.spotify.com/album/6ieV8h3HCzpb4RamHUDlge) | 4:14 |
 | 40 | [silence](https://open.spotify.com/track/3idm1kijXVuNPP4eqTyQCH) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [silence](https://open.spotify.com/album/6riIijhDZyrvmmxKYeVoAE) | 2:32 |
 | 41 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 |

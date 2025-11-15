@@ -4,7 +4,7 @@
 
 > 
 
-17 songs - 51 min 15 sec
+17 songs - 51 min 16 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 | 2022-12-09 |  |
 | [Save the People](https://open.spotify.com/track/2gIJJuiRMrmAM4Lo7jFJSw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/5kBjhTQFxJKU9dl64yBr4w) | 2:57 | 2022-10-12 |  |
 | [Solidarity Forever](https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:54 | 2022-10-14 |  |
-| [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:07 | 2022-10-18 |  |
+| [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:08 | 2022-10-18 |  |
 | [There Is a War](https://open.spotify.com/track/5bPDYLggBz5xEvJJW5SUy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 2:59 | 2022-10-12 |  |
 | [This Land is Your Land \- 1](https://open.spotify.com/track/3ZjrfGcb3A2PMGA1vRNgSk) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 2:19 | 2022-10-12 |  |
 | [Vote 'Em Out](https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Vote 'Em Out](https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb) | 2:20 | 2022-10-12 |  |

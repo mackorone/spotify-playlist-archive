@@ -1,13 +1,29 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Tough Break. Artwork by Rewina Beshue.",
-  "num_followers": 208535,
+  "num_followers": 208555,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACncZuJNZZmgrqLGAnJHZzHG3zk1",
+  "snapshot_id": "AAAAANAykXvZvIvnKZBDLhDuu9xoUGCd",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0cyVXAKIZcfSkPQLr5IBBV"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/155eEmogdYWiVZkbgmAKFC"
+    },
     {
       "added_at": "2025-11-03 23:47:36",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 178324,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/4PxnAR2MWPN1YUWFf67M0o"
+    },
+    {
+      "added_at": "2025-11-12 20:51:22",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/5J5dUNMaoG3Y7yHy7iLbsi"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/5GyfokBHIPH8vs9erTmMQL"
+    },
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/5CatF5zpD8Wka4Haeyc5ZA"
+      },
+      "artists": [
+        {
+          "name": "Matt's Experiment",
+          "url": "https://open.spotify.com/artist/36y1S9iFmSVtDXwgAH60NR"
+        }
+      ],
+      "duration_ms": 190298,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/1YVVCFUY0xVQWrJeePs9Ue"
     },
     {
       "added_at": "2025-11-12 20:51:22",
@@ -57,6 +105,38 @@
       "url": "https://open.spotify.com/track/0qlRDkvOKazSkeDzzEr126"
     },
     {
+      "added_at": "2025-10-08 04:00:15",
+      "album": {
+        "name": "Orbita",
+        "url": "https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV"
+      },
+      "artists": [
+        {
+          "name": "Ale Rossi",
+          "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
+        }
+      ],
+      "duration_ms": 150206,
+      "name": "Sonidero",
+      "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
+    },
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "tira.miss.u",
+        "url": "https://open.spotify.com/album/5g7ONc50BEP8qWIVx5odIf"
+      },
+      "artists": [
+        {
+          "name": "PatataOnStereo",
+          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
+        }
+      ],
+      "duration_ms": 140444,
+      "name": "uuuUUUuuu",
+      "url": "https://open.spotify.com/track/5Pom7taieE5CiMlPPbvTXQ"
+    },
+    {
       "added_at": "2025-11-07 05:00:50",
       "album": {
         "name": "1Mhz*",
@@ -73,6 +153,22 @@
       "url": "https://open.spotify.com/track/0FDGvjQns8s2x3S3RCPq7g"
     },
     {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "Dee Sharp",
+        "url": "https://open.spotify.com/album/52p4weqncb8tRQoUSKASRD"
+      },
+      "artists": [
+        {
+          "name": "X & Ivy",
+          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+        }
+      ],
+      "duration_ms": 158409,
+      "name": "Dee Sharp",
+      "url": "https://open.spotify.com/track/37haJpNLVNGvBZWNfHBQwc"
+    },
+    {
       "added_at": "2025-11-03 23:47:36",
       "album": {
         "name": "Only 1",
@@ -87,6 +183,22 @@
       "duration_ms": 203500,
       "name": "Only 1",
       "url": "https://open.spotify.com/track/4wqVuhtcihd46DVoCeQLuT"
+    },
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "Get U Hot",
+        "url": "https://open.spotify.com/album/3zcAK65vKxI2rQHmHqXq7q"
+      },
+      "artists": [
+        {
+          "name": "STRAWBRY",
+          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
+        }
+      ],
+      "duration_ms": 244406,
+      "name": "Get U Hot",
+      "url": "https://open.spotify.com/track/1ZxPTrVVjgqBrvHOOCPqbD"
     },
     {
       "added_at": "2025-11-12 20:51:22",
@@ -129,20 +241,20 @@
       "url": "https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt"
     },
     {
-      "added_at": "2025-10-08 04:00:15",
+      "added_at": "2025-11-14 05:00:38",
       "album": {
-        "name": "Orbita",
-        "url": "https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV"
+        "name": "Love to Love",
+        "url": "https://open.spotify.com/album/6jyJWetHgENZW5U0LpIvBF"
       },
       "artists": [
         {
-          "name": "Ale Rossi",
-          "url": "https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF"
+          "name": "Justin Rabin",
+          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
         }
       ],
-      "duration_ms": 150206,
-      "name": "Sonidero",
-      "url": "https://open.spotify.com/track/6isTmPPYrPkNmeqKydQm5k"
+      "duration_ms": 176744,
+      "name": "Love to Love",
+      "url": "https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q"
     },
     {
       "added_at": "2025-11-12 20:51:22",
@@ -161,22 +273,6 @@
       "url": "https://open.spotify.com/track/7kofsCPKRxbXmrccTq5GKS"
     },
     {
-      "added_at": "2025-11-12 20:51:22",
-      "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/5J5dUNMaoG3Y7yHy7iLbsi"
-      },
-      "artists": [
-        {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/5GyfokBHIPH8vs9erTmMQL"
-    },
-    {
       "added_at": "2025-11-07 05:00:50",
       "album": {
         "name": "KUYA",
@@ -191,6 +287,22 @@
       "duration_ms": 170078,
       "name": "KUYA",
       "url": "https://open.spotify.com/track/3tcf19ErfoApq8vAws0LOY"
+    },
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "Show Me The Light",
+        "url": "https://open.spotify.com/album/4nY4ZSxDMPi9kGQ8TTlKBu"
+      },
+      "artists": [
+        {
+          "name": "CHANDNI",
+          "url": "https://open.spotify.com/artist/3J6mQnKBl9D7caC6yzluEZ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Show Me The Light",
+      "url": "https://open.spotify.com/track/070zzqHkIX2aWZ15e6Ja74"
     },
     {
       "added_at": "2025-11-12 20:51:22",
@@ -299,6 +411,22 @@
       "duration_ms": 244218,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7EmmwWVjnTAeMWLE4MceRP"
+    },
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
+        "name": "CHEQUE",
+        "url": "https://open.spotify.com/album/2YPJkG4x7GLPUPjUmv5dgZ"
+      },
+      "artists": [
+        {
+          "name": "Albader",
+          "url": "https://open.spotify.com/artist/1RnDhsfDlMPFJhTOgiKwb0"
+        }
+      ],
+      "duration_ms": 148399,
+      "name": "CHEQUE",
+      "url": "https://open.spotify.com/track/009flBqZSY4hdNr1np95AF"
     },
     {
       "added_at": "2025-11-03 23:47:36",
@@ -827,26 +955,6 @@
     {
       "added_at": "2025-10-15 15:50:03",
       "album": {
-        "name": "Feel4u",
-        "url": "https://open.spotify.com/album/4N9aYSCpWhiKogd0hWv2Xq"
-      },
-      "artists": [
-        {
-          "name": "The Kaleidoscopes",
-          "url": "https://open.spotify.com/artist/2xVXoULP2FJCUTRPEnejmk"
-        },
-        {
-          "name": "Lemonade Baby",
-          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Feel4u",
-      "url": "https://open.spotify.com/track/7CPXCZEIvvcIwt7OLwpcjz"
-    },
-    {
-      "added_at": "2025-10-15 15:50:03",
-      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/2FWgRcrVaVCd712hOnuKsv"
       },
@@ -1133,22 +1241,6 @@
       "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
     },
     {
-      "added_at": "2025-10-17 04:01:00",
-      "album": {
-        "name": "TOBACCO",
-        "url": "https://open.spotify.com/album/3DrWVv11amwwFG7VzSB6RI"
-      },
-      "artists": [
-        {
-          "name": "Kaila",
-          "url": "https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo"
-        }
-      ],
-      "duration_ms": 205475,
-      "name": "TOBACCO",
-      "url": "https://open.spotify.com/track/5EUZcqPz4xapOoki4CoY4m"
-    },
-    {
       "added_at": "2025-08-29 04:00:44",
       "album": {
         "name": "PAY",
@@ -1281,42 +1373,6 @@
       "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
-      "added_at": "2025-09-17 18:35:08",
-      "album": {
-        "name": "flowers",
-        "url": "https://open.spotify.com/album/1ODyATZy7gpfEO6zUJ2cr5"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
-        }
-      ],
-      "duration_ms": 217453,
-      "name": "flowers",
-      "url": "https://open.spotify.com/track/0hzGVIvqQw6BwjORJzxF4U"
-    },
-    {
-      "added_at": "2025-10-08 04:00:15",
-      "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/3wa0JC6aO3yxgdajNvZQVe"
-      },
-      "artists": [
-        {
-          "name": "EMPIRICAL",
-          "url": "https://open.spotify.com/artist/6Fwz6qIroABMAYlvwsltUY"
-        },
-        {
-          "name": "Sussy Rohon",
-          "url": "https://open.spotify.com/artist/0ot2zaeLu90z1Dn0bbKQnd"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/2C5sSr1swnH7cAfDouyMsY"
-    },
-    {
       "added_at": "2025-10-08 04:00:15",
       "album": {
         "name": "The Law",
@@ -1393,22 +1449,6 @@
       "url": "https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv"
     },
     {
-      "added_at": "2025-09-26 04:00:22",
-      "album": {
-        "name": "Intution",
-        "url": "https://open.spotify.com/album/7cOuh3Ld2qjkt4BZPHPgcA"
-      },
-      "artists": [
-        {
-          "name": "Val Fleury",
-          "url": "https://open.spotify.com/artist/2Ql2PvnHtaP4FL8nI13mSv"
-        }
-      ],
-      "duration_ms": 253548,
-      "name": "Intuition",
-      "url": "https://open.spotify.com/track/47mWy4dALNqURPpO5qHpwZ"
-    },
-    {
       "added_at": "2025-09-19 15:46:18",
       "album": {
         "name": "In It",
@@ -1423,38 +1463,6 @@
       "duration_ms": 190952,
       "name": "In It",
       "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
-    },
-    {
-      "added_at": "2025-09-24 17:49:07",
-      "album": {
-        "name": "what are you doing?",
-        "url": "https://open.spotify.com/album/2ZhKAK6ofnvfpNa78PSqG6"
-      },
-      "artists": [
-        {
-          "name": "BLONDETING",
-          "url": "https://open.spotify.com/artist/5tOtqDwpHljDsBGKASlPk2"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "what are you doing?",
-      "url": "https://open.spotify.com/track/5Wj0NlnV4IOWmACK99Inei"
-    },
-    {
-      "added_at": "2025-09-26 04:00:22",
-      "album": {
-        "name": "Mont Blanc",
-        "url": "https://open.spotify.com/album/5vxKpurDpHTvadVYHBS6J8"
-      },
-      "artists": [
-        {
-          "name": "Moontalk",
-          "url": "https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN"
-        }
-      ],
-      "duration_ms": 275625,
-      "name": "Mont Blanc",
-      "url": "https://open.spotify.com/track/1jG2w4SGRqzC4wQKlN3D7q"
     },
     {
       "added_at": "2025-09-26 04:00:22",
@@ -1703,22 +1711,6 @@
       "duration_ms": 163000,
       "name": "Baddiez",
       "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
-    },
-    {
-      "added_at": "2025-07-02 15:52:18",
-      "album": {
-        "name": "Heart Sign",
-        "url": "https://open.spotify.com/album/0hdD2IrVbfDzOh57yj37Vd"
-      },
-      "artists": [
-        {
-          "name": "Ammara",
-          "url": "https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "Heart Sign",
-      "url": "https://open.spotify.com/track/1Qd0XxITbWBYj5rOxdRBR7"
     }
   ],
   "unique_name": "Fresh Finds Dance",

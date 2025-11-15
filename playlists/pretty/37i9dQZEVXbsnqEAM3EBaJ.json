@@ -6,10 +6,266 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQ1gsAAAAABO8X/vkoBb/UmoGTkL74GE",
+  "snapshot_id": "aRabMAAAAACAJS99Or/iAvC+ZvNZ1+zF",
   "tracks": [
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Frozen (Londinium Version)",
+        "url": "https://open.spotify.com/album/2I4m0DsGUFYsH4If1oyn9E"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Frozen - Londinium Version",
+      "url": "https://open.spotify.com/track/6nUC38GpbIcQRXR4Ru2ruq"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Black And Blue (2025 Mix)",
+        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "Hand Of Fate - 2025 Mix",
+      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "A World Without Heroes",
+        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "A World Without Heroes",
+      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 216646,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "The Life of a Showgirl + Acoustic Collection",
+        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247268,
+      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
+      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Tides of the Boreal",
+        "url": "https://open.spotify.com/album/0ZvXllGuubX7iY5tRtNlja"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 64019,
+      "name": "A hope of Inspiration",
+      "url": "https://open.spotify.com/track/0QWPaTUYbp3zZoSodyJ4J4"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Te Matar\u00e9 Con Amor",
+        "url": "https://open.spotify.com/album/2ZsrhtMsIdu4aIduT0sWHv"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "duration_ms": 92038,
+      "name": "Marginados Al Poder",
+      "url": "https://open.spotify.com/track/11jKguF1asgdO7DS0rWMfN"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3RDxgXtpWHuRq0QrHFNJ71"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/22RhWdmiiPEIAnRpICZTL5"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Power To The People (Home Jam)",
+        "url": "https://open.spotify.com/album/4nB3cheT8SHTLRjCdHbiMS"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Mailman, Bring Me No More Blues",
+      "url": "https://open.spotify.com/track/1GHdb5JUpRpCtpIUsII6OF"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Celestial Sovereign",
+        "url": "https://open.spotify.com/album/2f5aKNDNd0jNYxRlgmoxRF"
+      },
+      "artists": [
+        {
+          "name": "City of the Fallen",
+          "url": "https://open.spotify.com/artist/2Y6yi5MrD1GR14YM8qNCjw"
+        },
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 64510,
+      "name": "Cataclysm",
+      "url": "https://open.spotify.com/track/3Dy4ewiuiTmWUNDuuX0Gv6"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "f a t h o m",
+        "url": "https://open.spotify.com/album/238SNPk22kVd5sELbLnALe"
+      },
+      "artists": [
+        {
+          "name": "Nico.X3",
+          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
+        }
+      ],
+      "duration_ms": 100224,
+      "name": "f a t h o m",
+      "url": "https://open.spotify.com/track/57qPdRYE1qWHE01Ok7mjT3"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "X Mi Ke Se Jodan, Pt. II",
+        "url": "https://open.spotify.com/album/1FRJAwvutuo7ps9uCt0FWe"
+      },
+      "artists": [
+        {
+          "name": "Lokoaereo",
+          "url": "https://open.spotify.com/artist/3hG37ckCcPQcHdg76RlHNf"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Unicos En Su Especie",
+      "url": "https://open.spotify.com/track/6r6SSzdpWlm1xC0nFtNGsL"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/2XqrlfupyEjz8pIoLKEeiH"
+      },
+      "artists": [
+        {
+          "name": "Aboy Beats",
+          "url": "https://open.spotify.com/artist/5SDAk4xNUjGlh6pE0OlVRc"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 357840,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/2uEZrx3zDzGRljdYjbYcf8"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "The God Of Lying (feat. IDLES)",
         "url": "https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho"
@@ -29,371 +285,7 @@
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 144807,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "The Zoo (On Stage)",
-        "url": "https://open.spotify.com/album/4jq0xcVvlbrd1Ut0BtlxTp"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 365823,
-      "name": "The Zoo - On Stage",
-      "url": "https://open.spotify.com/track/59p11hPAygspGvxOEODCb9"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "The Day I Tried To Live",
-        "url": "https://open.spotify.com/album/4OZlJ7mgCZ5aQfxfh66VvY"
-      },
-      "artists": [
-        {
-          "name": "King Ultramega",
-          "url": "https://open.spotify.com/artist/3F1IccGSgeegyMUja41KJT"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        },
-        {
-          "name": "Kim Thayil",
-          "url": "https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD"
-        }
-      ],
-      "duration_ms": 323294,
-      "name": "The Day I Tried To Live - feat. Kim Thayil & Alissa White-Gluz",
-      "url": "https://open.spotify.com/track/2s4F5SGrpFyGD2grG8aqvl"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Live In Berlin 1985 (Remastered 2025, Live)",
-        "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 449912,
-      "name": "Black Sunday - Remastered 2025, Live",
-      "url": "https://open.spotify.com/track/4PCEMEXofpftdICTB6plbZ"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/4uVdzfutRln6f7iDMys66B"
-      },
-      "artists": [
-        {
-          "name": "Carroll Thompson",
-          "url": "https://open.spotify.com/artist/1YN1OuUFRoFlnwR97pIRlJ"
-        },
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 404109,
-      "name": "Let The Music Play",
-      "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Oracle of Zephyr",
-        "url": "https://open.spotify.com/album/1rZAShMvYTd0dZA9Z2tb4s"
-      },
-      "artists": [
-        {
-          "name": "City of the Fallen",
-          "url": "https://open.spotify.com/artist/2Y6yi5MrD1GR14YM8qNCjw"
-        },
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 62100,
-      "name": "Dominion",
-      "url": "https://open.spotify.com/track/5pQXEfjBClfIU1kim8yMCU"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Stars (Recollections 2025)",
-        "url": "https://open.spotify.com/album/2MRq2xQGgdBDRckkYGQmqe"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 246939,
-      "name": "Stars - Recollections 2025",
-      "url": "https://open.spotify.com/track/1bNLAfivZGR8cyN9vPUORA"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Hello (Fresh Dance Mix) [2025 Remaster]",
-        "url": "https://open.spotify.com/album/08VCLksNf5GCGANnvOHnEF"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 374451,
-      "name": "Hello (Fresh Dance Mix) - 2025 Remaster",
-      "url": "https://open.spotify.com/track/0WBFY6QEgq21t9dWHDwt5x"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Glacier's Fury",
-        "url": "https://open.spotify.com/album/1Uuoyln0JHZEzF4Qrjiggy"
-      },
-      "artists": [
-        {
-          "name": "Harmony My Strength",
-          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 64650,
-      "name": "A Fallen Symmetry",
-      "url": "https://open.spotify.com/track/5d2U7114CoxBxjp61LkiiB"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Estrellitas y Duendes Feat. Sting",
-        "url": "https://open.spotify.com/album/5GjdntsUfA48aRFzhjIyCm"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "Estrellitas y Duendes Feat. Sting",
-      "url": "https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Where The Wild Things Are",
-        "url": "https://open.spotify.com/album/4eMapaAshpQHXIEqHpgxRp"
-      },
-      "artists": [
-        {
-          "name": "Edenbridge",
-          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "Where The Wild Things Are",
-      "url": "https://open.spotify.com/track/1Syy5gdj5Ug4kIYwnjYQT5"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Calaveritas",
-        "url": "https://open.spotify.com/album/0q48qrRkKubSs1b1STixIq"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Pajarito",
-          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Calaveritas",
-      "url": "https://open.spotify.com/track/1WKIsUymLly0NEGSJgFBoI"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "BLACKDEMONIUM",
-        "url": "https://open.spotify.com/album/44U0AZ1JuspMVE3SWzMJTm"
-      },
-      "artists": [
-        {
-          "name": "Astarte",
-          "url": "https://open.spotify.com/artist/0X8Pi1W40bewq0jRQ7o3VJ"
-        }
-      ],
-      "duration_ms": 200531,
-      "name": "BLACKDEMONIUM",
-      "url": "https://open.spotify.com/track/3ObmyKe9kv4raCfgntyBwS"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Reconocerte en sus calles",
-        "url": "https://open.spotify.com/album/4s7IfjFmqj7IqzBTqGY1xH"
-      },
-      "artists": [
-        {
-          "name": "Como Asesinar a Felipes",
-          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
-        },
-        {
-          "name": "Juan Pablo Salvo",
-          "url": "https://open.spotify.com/artist/0kT7wFTSDni5J9C75NuNfR"
-        }
-      ],
-      "duration_ms": 240389,
-      "name": "Reconocerte en sus calles",
-      "url": "https://open.spotify.com/track/3E2N55Bo7BSZQmj2S5EVM6"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/2EP01A2LTMG0BiuIUBJsin"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4pQ1tGNWPNf3W2flpyH55L"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Dos sobreviviendo",
-        "url": "https://open.spotify.com/album/4c9IyXoMHtUtiO54VYYDMi"
-      },
-      "artists": [
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Dos sobreviviendo",
-      "url": "https://open.spotify.com/track/4v8rTk1U7k9sRAyuaXXKXV"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Cobra Squad",
-        "url": "https://open.spotify.com/album/0zWeRNGrGtvNvWtJPunKJO"
-      },
-      "artists": [
-        {
-          "name": "EMONE SKILLZ",
-          "url": "https://open.spotify.com/artist/2mTAYTk0QXefXban5aT7B2"
-        },
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Joaqu\u00edn Jansens",
-          "url": "https://open.spotify.com/artist/0YE6K1Zing7RtC9kOVU2Fh"
-        }
-      ],
-      "duration_ms": 179422,
-      "name": "Japan Air",
-      "url": "https://open.spotify.com/track/55CaehxmLgRVxxhjWUUlQe"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") [Spanish Version]",
-        "url": "https://open.spotify.com/album/4KMNhoVJ1sTkmH5tRidEdn"
-      },
-      "artists": [
-        {
-          "name": "Iris ~Pamela Calvo~",
-          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
-        },
-        {
-          "name": "Lufca",
-          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
-        }
-      ],
-      "duration_ms": 165051,
-      "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") - Spanish Version",
-      "url": "https://open.spotify.com/track/4gHK3pMgeKYLCIigQ5xa0b"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Winter Fairy Light - Dreamy Celtic Fantasy Music",
-        "url": "https://open.spotify.com/album/6RnFbpe1CZSlg0xLgemCyw"
-      },
-      "artists": [
-        {
-          "name": "Gary Stadler",
-          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
-        }
-      ],
-      "duration_ms": 147322,
-      "name": "Echoes of the Hidden Wood",
-      "url": "https://open.spotify.com/track/3CxbK6AsB5IrCPoUIyVXuF"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269433,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -417,7 +309,7 @@
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "In The End (from the Memento Mori Sessions)",
         "url": "https://open.spotify.com/album/5UyZdsqROt34B6fGR6j1zm"
@@ -433,23 +325,7 @@
       "url": "https://open.spotify.com/track/7bHzLpZBL0gl71VYoTqgpF"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Seek & Destroy",
-        "url": "https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 414560,
-      "name": "Seek & Destroy",
-      "url": "https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "My Only Angel (Desert Road Version)",
         "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95"
@@ -473,7 +349,23 @@
       "url": "https://open.spotify.com/track/5GM9fl9rf7s4MIoxHOy2cn"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Seek & Destroy",
+        "url": "https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 414560,
+      "name": "Seek & Destroy",
+      "url": "https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Traspaso Generacional",
         "url": "https://open.spotify.com/album/5hVj58cNtmZevarwD2RKMu"
@@ -489,7 +381,23 @@
       "url": "https://open.spotify.com/track/10zY2jraNSox3DRK2G61Zd"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 144807,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Struck Dead",
         "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
@@ -505,7 +413,7 @@
       "url": "https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "I've Just Seen A Face (Take 3)",
         "url": "https://open.spotify.com/album/5WgaJBVMBn5oXoE9th8iTv"
@@ -521,7 +429,7 @@
       "url": "https://open.spotify.com/track/1pALw3PPekVbFBpsFPQPGk"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Lizard (2025 David Singleton Elemental Mix)",
         "url": "https://open.spotify.com/album/1UfojoqiWBYbUd3hM2RGt3"
@@ -537,23 +445,7 @@
       "url": "https://open.spotify.com/track/3iMlkkLFTMBIZrGmH7wrjE"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "BEST OF (Volume 2)",
-        "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Cold - 2025 VERSION",
-      "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Fire Grows Low",
         "url": "https://open.spotify.com/album/2V1jtkgZaH6kPqYNvGFmcK"
@@ -569,7 +461,23 @@
       "url": "https://open.spotify.com/track/71J0Cwr9F2LP6UVlpRYR6v"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "BEST OF (Volume 2)",
+        "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Cold - 2025 VERSION",
+      "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "I Can't Give Everything Away E.P",
         "url": "https://open.spotify.com/album/2jrcP1ebPB2bMqG2xSjL9b"
@@ -589,23 +497,7 @@
       "url": "https://open.spotify.com/track/5GvcWraUECwPusGwvwlb3s"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 199617,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Seagull",
         "url": "https://open.spotify.com/album/1EiFdEhdWVC3QdLrT1tig4"
@@ -629,23 +521,47 @@
       "url": "https://open.spotify.com/track/7CytSpgno2zLlSDIqpsGv9"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Cuz",
-        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
+        "name": "The Day I Tried To Live",
+        "url": "https://open.spotify.com/album/4OZlJ7mgCZ5aQfxfh66VvY"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "King Ultramega",
+          "url": "https://open.spotify.com/artist/3F1IccGSgeegyMUja41KJT"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        },
+        {
+          "name": "Kim Thayil",
+          "url": "https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD"
         }
       ],
-      "duration_ms": 175741,
-      "name": "Cuz",
-      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
+      "duration_ms": 323294,
+      "name": "The Day I Tried To Live - feat. Kim Thayil & Alissa White-Gluz",
+      "url": "https://open.spotify.com/track/2s4F5SGrpFyGD2grG8aqvl"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "The Zoo (On Stage)",
+        "url": "https://open.spotify.com/album/4jq0xcVvlbrd1Ut0BtlxTp"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 365823,
+      "name": "The Zoo - On Stage",
+      "url": "https://open.spotify.com/track/59p11hPAygspGvxOEODCb9"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "From Under The Cork Tree (20th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc"
@@ -661,7 +577,23 @@
       "url": "https://open.spotify.com/track/6nOBIcM2728LnIYPJz4Qf5"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Cuz",
+        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 175741,
+      "name": "Cuz",
+      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "THE DEAD HAVE COME (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/50fQ5Zv3p318TGTGgU2yWV"
@@ -677,27 +609,7 @@
       "url": "https://open.spotify.com/track/39EvwXn6Cw1to71UnmGWqE"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Rock And Roll All Nite (MOONLGHT Remix)",
-        "url": "https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        },
-        {
-          "name": "MOONLGHT",
-          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
-        }
-      ],
-      "duration_ms": 135918,
-      "name": "Rock And Roll All Nite - MOONLGHT Remix",
-      "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "FEMME FATALE",
         "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
@@ -721,7 +633,27 @@
       "url": "https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Rock And Roll All Nite (MOONLGHT Remix)",
+        "url": "https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        },
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        }
+      ],
+      "duration_ms": 135918,
+      "name": "Rock And Roll All Nite - MOONLGHT Remix",
+      "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Nebraska '82: Expanded Edition",
         "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
@@ -737,27 +669,7 @@
       "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Cannibals",
-        "url": "https://open.spotify.com/album/3fe6XLdIJjaPcDmxHYembu"
-      },
-      "artists": [
-        {
-          "name": "ZILLION",
-          "url": "https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl"
-        },
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 178105,
-      "name": "CANNIBALS",
-      "url": "https://open.spotify.com/track/5PuWbf8EJU4ylHMUzk3wSr"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Everyone's Talking!",
         "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
@@ -766,34 +678,14 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 180081,
-      "name": "Sugar (feat JoJo)",
-      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
+      "duration_ms": 159281,
+      "name": "Everyone's Talking",
+      "url": "https://open.spotify.com/track/7dU8KE0dkhacGphCn3MRm9"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "Who Are You (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 271826,
-      "name": "Had Enough - No Orchestra",
-      "url": "https://open.spotify.com/track/4eNjLkoKbcrXkyJWGdxMlE"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Psycho Killer (The Cube Guys Remix)",
         "url": "https://open.spotify.com/album/10L4h7qD5ddFWr47SjTu3i"
@@ -813,7 +705,7 @@
       "url": "https://open.spotify.com/track/190TqRrcEJsodhL7MukpEF"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Through The Open Window: The Bootleg Series Vol. 18 (Highlights)",
         "url": "https://open.spotify.com/album/7KcszWpAtYB3YDEK88QFWf"
@@ -829,51 +721,59 @@
       "url": "https://open.spotify.com/track/519EkVJxIYpOQSOOk7uCQf"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Power To The People (New York City - Studio Jam)",
-        "url": "https://open.spotify.com/album/0WTriptmGhmnxEBMTAmSG1"
+        "name": "Live In Berlin 1985 (Remastered 2025, Live)",
+        "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        },
-        {
-          "name": "The Plastic Ono Band",
-          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
-        },
-        {
-          "name": "Elephants Memory",
-          "url": "https://open.spotify.com/artist/7vlen6lzkmCst6naOmK3Et"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 151186,
-      "name": "Ain't That A Shame - Jam",
-      "url": "https://open.spotify.com/track/09mWBj3SbdczABhekNM8wn"
+      "duration_ms": 449912,
+      "name": "Black Sunday - Remastered 2025, Live",
+      "url": "https://open.spotify.com/track/4PCEMEXofpftdICTB6plbZ"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Viviendo en un mal sue\u00f1o",
-        "url": "https://open.spotify.com/album/5o2C73fRTn4d3xwM7tCC2L"
+        "name": "Cannibals",
+        "url": "https://open.spotify.com/album/3fe6XLdIJjaPcDmxHYembu"
       },
       "artists": [
         {
-          "name": "Dark Moor",
-          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
+          "name": "ZILLION",
+          "url": "https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl"
+        },
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
         }
       ],
-      "duration_ms": 252890,
-      "name": "Viviendo en un mal sue\u00f1o",
-      "url": "https://open.spotify.com/track/4daZCldTz38XQesXnDk8zX"
+      "duration_ms": 178105,
+      "name": "CANNIBALS",
+      "url": "https://open.spotify.com/track/5PuWbf8EJU4ylHMUzk3wSr"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Who Are You (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 271826,
+      "name": "Had Enough - No Orchestra",
+      "url": "https://open.spotify.com/track/4eNjLkoKbcrXkyJWGdxMlE"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Forever (Legendary Edition)",
         "url": "https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse"
@@ -893,7 +793,43 @@
       "url": "https://open.spotify.com/track/7uBP4SqctNyKhUdFAFDNO6"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Viviendo en un mal sue\u00f1o",
+        "url": "https://open.spotify.com/album/5o2C73fRTn4d3xwM7tCC2L"
+      },
+      "artists": [
+        {
+          "name": "Dark Moor",
+          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
+        }
+      ],
+      "duration_ms": 252890,
+      "name": "Viviendo en un mal sue\u00f1o",
+      "url": "https://open.spotify.com/track/4daZCldTz38XQesXnDk8zX"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/4uVdzfutRln6f7iDMys66B"
+      },
+      "artists": [
+        {
+          "name": "Carroll Thompson",
+          "url": "https://open.spotify.com/artist/1YN1OuUFRoFlnwR97pIRlJ"
+        },
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 404109,
+      "name": "Let The Music Play",
+      "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3zRjCT3nLkeYanSFYHfQPu"
@@ -909,7 +845,55 @@
       "url": "https://open.spotify.com/track/0AZOzB8mMGS2Gsu6CMn7Hw"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Hello (Fresh Dance Mix) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/08VCLksNf5GCGANnvOHnEF"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 374451,
+      "name": "Hello (Fresh Dance Mix) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/0WBFY6QEgq21t9dWHDwt5x"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Bold As Love",
+        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Castles Made of Sand - Backwards Guitar",
+      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Stars (Recollections 2025)",
+        "url": "https://open.spotify.com/album/2MRq2xQGgdBDRckkYGQmqe"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 246939,
+      "name": "Stars - Recollections 2025",
+      "url": "https://open.spotify.com/track/1bNLAfivZGR8cyN9vPUORA"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Little Glee Monster 10th Anniversary Live \u201cCELEBRATE\u201d",
         "url": "https://open.spotify.com/album/7ll27GNHhdjotiF508lz5b"
@@ -929,23 +913,27 @@
       "url": "https://open.spotify.com/track/3HRQlB5arYBrirosCP4Lrq"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Taylor Momsen's Pretty Reckless Christmas",
-        "url": "https://open.spotify.com/album/6Y9WENXPwpVPnfrWKVYhB2"
+        "name": "Estrellitas y Duendes Feat. Sting",
+        "url": "https://open.spotify.com/album/5GjdntsUfA48aRFzhjIyCm"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 142568,
-      "name": "Christmas Is Killing Me",
-      "url": "https://open.spotify.com/track/1xtlEoY8yW3FzttzUUrvWw"
+      "duration_ms": 266533,
+      "name": "Estrellitas y Duendes Feat. Sting",
+      "url": "https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Inti-Illimani & Valent\u00edn Trujillo",
         "url": "https://open.spotify.com/album/5Udqgm9BEQMWfQexQuqoge"
@@ -965,7 +953,59 @@
       "url": "https://open.spotify.com/track/48DhUdeoUG7gT6ZXiHYk8K"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Taylor Momsen's Pretty Reckless Christmas",
+        "url": "https://open.spotify.com/album/6Y9WENXPwpVPnfrWKVYhB2"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 142568,
+      "name": "Christmas Is Killing Me",
+      "url": "https://open.spotify.com/track/1xtlEoY8yW3FzttzUUrvWw"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Where The Wild Things Are",
+        "url": "https://open.spotify.com/album/4eMapaAshpQHXIEqHpgxRp"
+      },
+      "artists": [
+        {
+          "name": "Edenbridge",
+          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Where The Wild Things Are",
+      "url": "https://open.spotify.com/track/1Syy5gdj5Ug4kIYwnjYQT5"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Calaveritas",
+        "url": "https://open.spotify.com/album/0q48qrRkKubSs1b1STixIq"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Calaveritas",
+      "url": "https://open.spotify.com/track/1WKIsUymLly0NEGSJgFBoI"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "El Sonido del Misterio",
         "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
@@ -981,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "ORIGO",
         "url": "https://open.spotify.com/album/1Fw0y4iPr8b9SF3pohkBic"
@@ -1005,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2U3K7r9F5Ufnj2hkaKwR0M"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Rueda De Las Emociones",
         "url": "https://open.spotify.com/album/2F4NWhbEdnH7frz7rQJG7E"
@@ -1021,7 +1061,23 @@
       "url": "https://open.spotify.com/track/01bBP7aVniuH73VNsYej7Y"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "BLACKDEMONIUM",
+        "url": "https://open.spotify.com/album/44U0AZ1JuspMVE3SWzMJTm"
+      },
+      "artists": [
+        {
+          "name": "Astarte",
+          "url": "https://open.spotify.com/artist/0X8Pi1W40bewq0jRQ7o3VJ"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "BLACKDEMONIUM",
+      "url": "https://open.spotify.com/track/3ObmyKe9kv4raCfgntyBwS"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Beso de Novela",
         "url": "https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD"
@@ -1041,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Balderrama",
         "url": "https://open.spotify.com/album/4sUau5dHo9OSLLX8toTrUm"
@@ -1061,7 +1117,55 @@
       "url": "https://open.spotify.com/track/5tyWfFk2mPNga8iyMnpjUE"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Reconocerte en sus calles",
+        "url": "https://open.spotify.com/album/4s7IfjFmqj7IqzBTqGY1xH"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        },
+        {
+          "name": "Juan Pablo Salvo",
+          "url": "https://open.spotify.com/artist/0kT7wFTSDni5J9C75NuNfR"
+        }
+      ],
+      "duration_ms": 240389,
+      "name": "Reconocerte en sus calles",
+      "url": "https://open.spotify.com/track/3E2N55Bo7BSZQmj2S5EVM6"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "\u2605 V\u00eda Lo Orozco \u2605",
+        "url": "https://open.spotify.com/album/47KX5jJMeO0vaFamzQIEjN"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        },
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        },
+        {
+          "name": "Nando Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
+        },
+        {
+          "name": "Laurela",
+          "url": "https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP"
+        }
+      ],
+      "duration_ms": 241393,
+      "name": "Oro \ud81a\udd13",
+      "url": "https://open.spotify.com/track/6AnTV3S5dzZvlUEbkwAcbO"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Upside Down (MORTEN Remix)",
         "url": "https://open.spotify.com/album/7xoNCDLBa1dcsFCL1JOJR2"
@@ -1089,7 +1193,23 @@
       "url": "https://open.spotify.com/track/4JJHk97jJiD5g9FNhgZaOi"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/5jGtzBUwJVXXzsqYW3Hv1n"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/1AfepVPTRh4KxoSOX44hAP"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "GHETTO",
         "url": "https://open.spotify.com/album/7hyuraIsKrVm30ILK9vOII"
@@ -1117,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3m9A5O3ssjktotw8ffLNYl"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Christmas in the City",
         "url": "https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s"
@@ -1137,43 +1257,7 @@
       "url": "https://open.spotify.com/track/5zZfzpC2QrGfnWuDBMsZTq"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/5jGtzBUwJVXXzsqYW3Hv1n"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1AfepVPTRh4KxoSOX44hAP"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
-      "album": {
-        "name": "El Baile Contigo",
-        "url": "https://open.spotify.com/album/5L6qs4rLAeheL23zV4xrky"
-      },
-      "artists": [
-        {
-          "name": "Khattd",
-          "url": "https://open.spotify.com/artist/4RM6nPIBiC7a0XInK9gngA"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 185782,
-      "name": "El Baile Contigo",
-      "url": "https://open.spotify.com/track/29MWdv9fAdEqJE8fWnUAE2"
-    },
-    {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "Oyeloh",
         "url": "https://open.spotify.com/album/4TuUZS8iWkVClHqCrCpPtJ"
@@ -1201,7 +1285,43 @@
       "url": "https://open.spotify.com/track/6kqxIuiUZ0UTAFg1PWqypl"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "El Baile Contigo",
+        "url": "https://open.spotify.com/album/5L6qs4rLAeheL23zV4xrky"
+      },
+      "artists": [
+        {
+          "name": "Khattd",
+          "url": "https://open.spotify.com/artist/4RM6nPIBiC7a0XInK9gngA"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 185782,
+      "name": "El Baile Contigo",
+      "url": "https://open.spotify.com/track/29MWdv9fAdEqJE8fWnUAE2"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/2EP01A2LTMG0BiuIUBJsin"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4pQ1tGNWPNf3W2flpyH55L"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
       "album": {
         "name": "\u3042\u306a\u305f\u3092\u304b\u305e\u3048\u3066\uff0fAnatawo Kazoete",
         "url": "https://open.spotify.com/album/0rOyD1OvXiTwM76kN9gXTX"
@@ -1221,28 +1341,96 @@
       "url": "https://open.spotify.com/track/4KVVxSjkkOJRr2bWVCZ5bl"
     },
     {
-      "added_at": "2025-11-07 03:00:00",
+      "added_at": "2025-11-14 03:00:00",
       "album": {
-        "name": "Healing Touch",
-        "url": "https://open.spotify.com/album/5y4WFV1E46i1TGWiVOevbc"
+        "name": "Dos sobreviviendo",
+        "url": "https://open.spotify.com/album/4c9IyXoMHtUtiO54VYYDMi"
       },
       "artists": [
         {
-          "name": "Spa Me Up",
-          "url": "https://open.spotify.com/artist/7v6Dgrvmuy2eassQJjr1yl"
-        },
-        {
-          "name": "Lea Salonga",
-          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
-        },
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Echoes of Tomorrow",
-      "url": "https://open.spotify.com/track/5jdL3PSXjNig8TJRwytFil"
+      "duration_ms": 262000,
+      "name": "Dos sobreviviendo",
+      "url": "https://open.spotify.com/track/4v8rTk1U7k9sRAyuaXXKXV"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Cobra Squad",
+        "url": "https://open.spotify.com/album/0zWeRNGrGtvNvWtJPunKJO"
+      },
+      "artists": [
+        {
+          "name": "EMONE SKILLZ",
+          "url": "https://open.spotify.com/artist/2mTAYTk0QXefXban5aT7B2"
+        },
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Joaqu\u00edn Jansens",
+          "url": "https://open.spotify.com/artist/0YE6K1Zing7RtC9kOVU2Fh"
+        }
+      ],
+      "duration_ms": 179422,
+      "name": "Japan Air",
+      "url": "https://open.spotify.com/track/55CaehxmLgRVxxhjWUUlQe"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") [Spanish Version]",
+        "url": "https://open.spotify.com/album/4KMNhoVJ1sTkmH5tRidEdn"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        },
+        {
+          "name": "Lufca",
+          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
+        }
+      ],
+      "duration_ms": 165051,
+      "name": "A World Where the Sun Never Rises (from \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\") - Spanish Version",
+      "url": "https://open.spotify.com/track/4gHK3pMgeKYLCIigQ5xa0b"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Winter Fairy Light - Dreamy Celtic Fantasy Music",
+        "url": "https://open.spotify.com/album/6RnFbpe1CZSlg0xLgemCyw"
+      },
+      "artists": [
+        {
+          "name": "Gary Stadler",
+          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
+        }
+      ],
+      "duration_ms": 147322,
+      "name": "Echoes of the Hidden Wood",
+      "url": "https://open.spotify.com/track/3CxbK6AsB5IrCPoUIyVXuF"
+    },
+    {
+      "added_at": "2025-11-14 03:00:00",
+      "album": {
+        "name": "Cuentos Para Viajes",
+        "url": "https://open.spotify.com/album/2rJA51Xd1tbKBkg9Z7Gjvv"
+      },
+      "artists": [
+        {
+          "name": "Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/1uDmkCfse39B4r35j5hvqc"
+        }
+      ],
+      "duration_ms": 221310,
+      "name": "El Campesino y el Diablo",
+      "url": "https://open.spotify.com/track/0fD9sAwHekMkU0Zm9SKUkv"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

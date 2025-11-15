@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,462 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,464 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | ['Til Later](https://open.spotify.com/track/0r85lST3XcWqBZMvUIiGtS) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Sweet Deliverance](https://open.spotify.com/album/2xRvArNEzP3rSscsTfGSMQ) | 3:33 |
 | 40 | [Making Love Music](https://open.spotify.com/track/0RAlqkWbMiSyj4YBxXodT0) | [Lindsay Misiner](https://open.spotify.com/artist/38brY2MpJI741tGjiYrpKZ) | [FOR A MOMENT, I](https://open.spotify.com/album/5vNTho8tXyt0XHRs9NwN3W) | 4:02 |
 
-Snapshot ID: `AAAAALowEpwR+XXPZyJkYjyqK6u183Jr`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

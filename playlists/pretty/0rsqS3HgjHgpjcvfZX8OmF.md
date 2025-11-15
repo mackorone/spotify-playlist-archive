@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  Arkells
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,699 likes - 99 songs - 6 hr 4 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,698 likes - 99 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

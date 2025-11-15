@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 227147,
       "name": "Anytime, Anyplace, Anyhow",
       "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 284137,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 182520,
       "name": "Crimson and Clay",
       "url": "https://open.spotify.com/track/60gQmNkGCHQEb4TaJC9IwC"
@@ -4317,6 +4317,28 @@
     },
     {
       "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/05URVp6intVrFUYhIksYyB"
+    },
+    {
+      "album": {
         "name": "RMCM",
         "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
       },
@@ -4864,7 +4886,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 240629,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
@@ -5902,6 +5924,28 @@
       "duration_ms": 193460,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/0sRBcoVl0ATZXLXh8XgTav"
+    },
+    {
+      "album": {
+        "name": "Hold On To The Light",
+        "url": "https://open.spotify.com/album/0znG5vLsfp5W8CSbPdoY4i"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Hold On To The Light",
+      "url": "https://open.spotify.com/track/0T4lcpAprQ7CXjNdYCZ3vp"
     },
     {
       "album": {
@@ -8142,7 +8186,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 242946,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
@@ -9505,6 +9549,24 @@
     },
     {
       "album": {
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/2LL4R5H9rzRafsw7pCmy71"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100733,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/5gAWalJr8o0koAvUVOKO7S"
+    },
+    {
+      "album": {
         "name": "Break Me Open",
         "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
       },
@@ -9726,7 +9788,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 178213,
       "name": "Picture Window",
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
@@ -9998,7 +10060,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 195700,
       "name": "Pyramid Scheme",
       "url": "https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8"
@@ -11830,7 +11892,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 157987,
       "name": "Sweet Things Just for You",
       "url": "https://open.spotify.com/track/68UyOxMA7KV67b6i07QTSK"

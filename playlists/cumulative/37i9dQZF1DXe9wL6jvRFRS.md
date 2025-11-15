@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Twine on the cover.
 
-69 songs - 5 hr 13 min
+70 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Don't](https://open.spotify.com/track/4DjMJy8edIKQsIbExacgnG) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 2:45 | 2025-07-10 |  |
 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 | 2025-07-10 |  |
 | [Estuary of Dreams](https://open.spotify.com/track/2jlzjYKhS5DUPrra0LTrYP) | [Eunuchs](https://open.spotify.com/artist/4eJrZ6yGKOg1r0M9hnXmxU) | [Harbour Century](https://open.spotify.com/album/6lNh2JqZFhiXL7YNnblt64) | 4:29 | 2025-07-10 |  |
+| [Gallowine](https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Gallowine](https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V) | 4:09 | 2025-11-14 |  |
 | [Gloss](https://open.spotify.com/track/5DN99sJquXAgXDWwA2EFeH) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Gloss](https://open.spotify.com/album/6GVgayqdZeufp9XifBtnIf) | 4:22 | 2025-07-10 |  |
 | [Gmaps](https://open.spotify.com/track/0lMhNqruBNotSF05zdntaC) | [cowboyy](https://open.spotify.com/artist/65TVwNWUoKyfvlaxLLJQGh) | [Epic The Movie](https://open.spotify.com/album/6u4N8jsC3u7IYr7esQPICq) | 2:16 | 2025-07-10 |  |
 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2025-07-10 |  |

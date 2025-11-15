@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-511 songs - 2 day 2 hr 40 min
+512 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Caparica](https://open.spotify.com/track/5NgN9mecbM6iIMN2P8MuwJ) | [Rafael Da Cruz](https://open.spotify.com/artist/4acEcHw5tbGAew2C01EKCT) | [Caparica](https://open.spotify.com/album/75ICyn1FKMjizgqgvap3Gh) | 6:31 | 2021-12-17 | 2021-12-20 |
 | [Caracal \- Klik & Frik Remix](https://open.spotify.com/track/2p6HMmRycYKLQBQ4oHSQz5) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Moja](https://open.spotify.com/album/131dxx7wu5rQTay6FC9jHV) | 7:07 | 2019-11-15 | 2020-03-04 |
 | [Carouselland](https://open.spotify.com/track/7lj7f1RcUInYsx8E7jLn9Q) | [Rapossa](https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM) | [Carouselland](https://open.spotify.com/album/11Yj0Vhr1eqr5Goq0PU3S6) | 6:33 | 2020-09-10 | 2021-01-27 |
+| [Casablanca](https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Casablanca](https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA) | 4:45 | 2025-11-11 |  |
 | [Cemalım](https://open.spotify.com/track/7FN0P5LONPlHjTksSOI5K5) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW), [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Cemalım](https://open.spotify.com/album/7aCBkw9nDEr3gadb0yjzjc) | 3:47 | 2024-06-25 | 2024-07-23 |
 | [Chaak](https://open.spotify.com/track/421Eli1NCAJLQu2HUd57Yl) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Chaak](https://open.spotify.com/album/0vY8kHv6gujFCWyUCnQ1Eq) | 4:21 | 2025-02-07 | 2025-09-16 |
 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 | 2023-03-25 | 2024-12-30 |
@@ -499,7 +500,7 @@
 | [Whisper From The Other Side](https://open.spotify.com/track/6Gwu5S0M5XyjqLrBYLot5w) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF) | [Whisper From The Other Side](https://open.spotify.com/album/7cOWU2e4o5jQw7kVzVoEfM) | 8:16 | 2021-12-17 | 2022-04-05 |
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2020-04-18 | 2023-04-21 |
 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2021-07-30 | 2024-09-15 |
-| [With You](https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY) | [Palo Canto](https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP) | [With You](https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil) | 3:07 | 2025-06-23 |  |
+| [With You](https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY) | [Palo Canto](https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP) | [With You](https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil) | 3:07 | 2025-06-23 | 2025-11-15 |
 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 | 2022-11-25 |  |
 | [Work For It \- Club Mix](https://open.spotify.com/track/10B5Qt4RXuzZUP6nHmXMGU) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [MEE•KAY](https://open.spotify.com/artist/7bB81EAeT6u9gmLp0gQCaB), [saint nbdy](https://open.spotify.com/artist/2o5Vii2rGx7iMMC1FPbSAJ) | [Work For It \(Club Mix\)](https://open.spotify.com/album/7nVhIalu5fjsdQ0BmzNlmg) | 3:03 | 2024-11-15 | 2025-03-08 |
 | [World Goin' Crazy \(feat\. Jaz Karis\) \- DJEFF Remix](https://open.spotify.com/track/6OFe3RGAwXEBsYHcChvSLV) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [World Goin' Crazy \(feat\. Jaz Karis\) \[DJEFF Remix\]](https://open.spotify.com/album/76jq7lACKeDet4d3EGE20q) | 3:21 | 2025-01-27 | 2025-04-27 |

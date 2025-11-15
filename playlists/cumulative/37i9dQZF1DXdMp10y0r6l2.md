@@ -2,9 +2,9 @@
 
 ### [Dark and Furious](https://open.spotify.com/playlist/37i9dQZF1DXdMp10y0r6l2)
 
-> mucho ruido, puro ruido\. Poppy en portada
+> mucho ruido, puro ruido\. The Devil Wears Prada en portada
 
-553 songs - 1 day 20 hr 6 min
+559 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Boom \(The Crystal Method Remix\) \- 2021 Remaster](https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Ken Jordan](https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T), [Scott Kirkland](https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07) | [Boom \(The Crystal Method Remix\) \[2021 Remaster\]](https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr) | 3:16 | 2024-10-22 | 2025-07-30 |
 | [Brackish](https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:09 | 2024-10-22 | 2025-07-30 |
 | [Brain Dead](https://open.spotify.com/track/2lyAYaGg9kzorHvKOBxtC3) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Pleasures of the Flesh](https://open.spotify.com/album/1gMwtIEeUJCo5rB2m5kx9m) | 4:15 | 2024-08-20 | 2024-10-22 |
+| [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 | 2025-11-14 |  |
 | [Bruja Encabronada](https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Bruja Encabronada](https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj) | 2:47 | 2023-09-22 | 2024-01-26 |
 | [Brujerizmo](https://open.spotify.com/track/6cLQFbfzJ5TWN6l1i4d3w6) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Brujerizmo](https://open.spotify.com/album/1CDVRX5gAWiXiEHpr9aAF4) | 3:06 | 2025-09-26 |  |
 | [Burden of Flesh and Bone](https://open.spotify.com/track/14ZPc7lvoIvFuKiT4OrwYs) | [Hulder](https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo) | [The Eternal Fanfare](https://open.spotify.com/album/6Q7r2jVVpgCnkIrBCVpEtj) | 5:27 | 2023-09-22 | 2024-01-26 |
@@ -83,6 +84,7 @@
 | [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 | 2024-01-25 | 2024-08-20 |
 | [Burned at the Stake](https://open.spotify.com/track/7dRxBbBYepWHL7CkopJYYq) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Spectrum of Death](https://open.spotify.com/album/7EvfzmnIdoTNTnMir3qJv4) | 2:16 | 2025-08-28 | 2025-09-27 |
 | [Can You See It?](https://open.spotify.com/track/26haQh7H28301Z7petISZ4) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Can You See It?](https://open.spotify.com/album/3oDhZhXw1qHpZTpe5JhFwM) | 4:19 | 2025-09-26 |  |
+| [Cardinal In The Crossfire](https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cardinal In The Crossfire](https://open.spotify.com/album/6zWgy4sI3UGqFTp7t4dK2w) | 2:45 | 2025-11-14 |  |
 | [Carrier of Venenifyer](https://open.spotify.com/track/4wUFccTYr1x7uL8AoKBppN) | [Fumes!](https://open.spotify.com/artist/5knGh5NrRRtCQaMg5osL50) | [Skeletal Wings Threshold](https://open.spotify.com/album/3Ap0hEVM0NrHIhxAmBYAt1) | 6:03 | 2025-08-28 | 2025-09-27 |
 | [Carry On](https://open.spotify.com/track/3iDa1U85IjbWSnOa2UsoWa) | [Hällas](https://open.spotify.com/artist/6wL917RC8KC0ZwDbqmO60r) | [Conundrum](https://open.spotify.com/album/4wvbJI54sBNNLXFZzHhzI8) | 4:04 | 2025-08-28 | 2025-09-27 |
 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 | 2024-01-25 | 2024-08-20 |
@@ -229,6 +231,7 @@
 | [In Bitterness and Sorrow](https://open.spotify.com/track/4HGNSo8gX0c14zgbGsChls) | [The Crown](https://open.spotify.com/artist/76AHlOU3rj6ffoOfVPigLt) | [Eternal Death](https://open.spotify.com/album/3t0ZkiWq1QpX9TZmHVRiQG) | 3:29 | 2025-08-28 | 2025-09-27 |
 | [In The Name of Destruction](https://open.spotify.com/track/11wfikfGYXLnyz9GJXKXKg) | [Agora](https://open.spotify.com/artist/6rYc6WImdfhd7wtSFp1jb3) | [Empire](https://open.spotify.com/album/5UngsniVflqkNLRfxlZLop) | 4:54 | 2023-09-22 | 2024-01-26 |
 | [In The Twilight Of Fear](https://open.spotify.com/track/18S7ZJZtKzEzLC3fdMLd7A) | [A Canorous Quintet](https://open.spotify.com/artist/2Ckpbo5shtUafg3Sqd5Odf) | [Silence Of The World Beyond](https://open.spotify.com/album/4gPOBx8lYCM7iF65v1nHFJ) | 5:39 | 2025-08-28 | 2025-09-27 |
+| [In Threes](https://open.spotify.com/track/1LtzeD1ZFgOL8AAvIBHDDp) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [In Threes](https://open.spotify.com/album/3hDNvAoYiCWs9Vv1yHNQ6t) | 3:36 | 2025-11-14 |  |
 | [Inanna](https://open.spotify.com/track/3eHhpTleQHI7YRGpkxWjy8) | [Gates of Ishtar](https://open.spotify.com/artist/257fj7lr05pM5LMDL6TUp7) | [A Bloodred Path](https://open.spotify.com/album/7qOojUIgAGLgAuxHNevroy) | 2:03 | 2024-08-20 | 2024-10-22 |
 | [Indignación](https://open.spotify.com/track/2IUmLR3iGyfdEozeSnH7h4) | [Narcocracia](https://open.spotify.com/artist/11xJeK6K3fWi3RCYLD6H4F) | [Realismo Trágico](https://open.spotify.com/album/0U86lcQUY4tO4qrk32X3mc) | 3:53 | 2023-09-22 | 2024-01-26 |
 | [Infernal Winds](https://open.spotify.com/track/0dOz3GyMxg6qFNSHG5FD5o) | [Cruel Force](https://open.spotify.com/artist/3K7CRDKsBBUjvIJsg6jtFn) | [Under The Sign Of The Moon](https://open.spotify.com/album/3VVspkpv3rz03suI6Xrasz) | 4:48 | 2024-08-20 | 2024-10-22 |
@@ -267,6 +270,7 @@
 | [Liar](https://open.spotify.com/track/0sKlFXHNmVhDKNGw4C0ioi) | [Nexus](https://open.spotify.com/artist/0vpcbwpCQdAZ9Hebmgmp1Q) | [Liar](https://open.spotify.com/album/2CnkoC4l3N8ByLXWFIi1ra) | 5:53 | 2023-09-22 | 2024-01-26 |
 | [Lifeless Birth](https://open.spotify.com/track/3iHr4GDGSupAsgSwawmGEF) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Lifeless Birth](https://open.spotify.com/album/05kOE4UkPAJW5a0FuRxs4X) | 4:31 | 2025-08-28 | 2025-09-27 |
 | [Like Tears \(In the Dust\) \- Remastered](https://open.spotify.com/track/76C6RZnjp3SGCCiq1MVfEV) | [Pyogenesis](https://open.spotify.com/artist/6bGNUCfRbd1JkMqRsYTURk) | [Ignis Creatio \- The Creation of Fire \(20th Anniversary Edition\)](https://open.spotify.com/album/2uImb3NmkLzjrj7CFOTRfK) | 6:53 | 2025-08-28 | 2025-09-27 |
+| [Lil Crush](https://open.spotify.com/track/6CBZ7e4CQyPucgTfxveg7x) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 3:01 | 2025-11-14 |  |
 | [Lock up Your Children](https://open.spotify.com/track/6VZIjJVHeVziL5VLKrRJ0M) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Spectrum of Death](https://open.spotify.com/album/7EvfzmnIdoTNTnMir3qJv4) | 3:31 | 2025-08-28 | 2025-09-27 |
 | [Loco \(Tierra Seria\)](https://open.spotify.com/track/7rjJZCiM8bgzaKbuYu8l9j) | [Vulgar Addiction](https://open.spotify.com/artist/7c2nTdprrlkaljI6VeVHTr) | [Loco \(Tierra Seria\)](https://open.spotify.com/album/3RDhv4K1bXvRyRagwEnROh) | 4:47 | 2023-09-22 | 2024-01-26 |
 | [Lord of Ruins](https://open.spotify.com/track/4lfftoC6dY7tba01rNx6hO) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [Lord of Ruins](https://open.spotify.com/album/02gKvANAOKzUvhicE1nP1p) | 5:14 | 2023-09-22 | 2024-01-26 |
@@ -431,6 +435,7 @@
 | [Still Burn in Fire \- Remastered](https://open.spotify.com/track/1W3jlTrbYVvzuHmtw2MLFg) | [Pyogenesis](https://open.spotify.com/artist/6bGNUCfRbd1JkMqRsYTURk) | [Ignis Creatio \- The Creation of Fire \(20th Anniversary Edition\)](https://open.spotify.com/album/2uImb3NmkLzjrj7CFOTRfK) | 6:24 | 2025-08-28 | 2025-09-27 |
 | [Storm Of Stress](https://open.spotify.com/track/2SduZ4qG5P63L2e1Z038es) | [Terrorizer](https://open.spotify.com/artist/09eXH2A1Zi3E7MZJXGg5oG) | [World Downfall](https://open.spotify.com/album/1OAUXcUtKiPdDtftxbjGV2) | 1:27 | 2024-08-20 | 2024-10-22 |
 | [Strategic Warheads](https://open.spotify.com/track/73fpHBoNQ8eNsvWr3XVW2m) | [Terrorizer](https://open.spotify.com/artist/09eXH2A1Zi3E7MZJXGg5oG) | [World Downfall](https://open.spotify.com/album/1OAUXcUtKiPdDtftxbjGV2) | 1:38 | 2024-08-20 | 2024-10-22 |
+| [Struck Dead](https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 5:17 | 2025-11-14 |  |
 | [Subconsciente](https://open.spotify.com/track/6e1LkY1fdeM2KExZBT2IrJ) | [Black Hate](https://open.spotify.com/artist/1YK9suOewtPHgPf3DbMbQG) | [The Glorious Moments](https://open.spotify.com/album/17rJ7ob5D19BPmHfzU74cj) | 7:57 | 2025-08-28 | 2025-09-27 |
 | [Suck It Up](https://open.spotify.com/track/14BV754lz03sUqdWJtEeRo) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Blackout](https://open.spotify.com/album/3SNd09ZrlgPv8rvAPLUOjE) | 3:55 | 2024-10-22 | 2025-07-30 |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/1f9GowTtuwSkdJfKBk3VeU) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/album/2Ow8BhxOQJDErR0ei0RYHo) | 2:44 | 2025-07-29 |  |
@@ -537,6 +542,7 @@
 | [WE’RE IN THIS TOGETHER](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE IN THIS TOGETHER](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 | 2025-10-24 |  |
 | [What The Fack Was In That Pipe?](https://open.spotify.com/track/3UrGjZ49og6JcD9NNiWVqU) | [Douchebagz](https://open.spotify.com/artist/4AzLCxsm0QJeFPpg50OlHa) | [What The Fack Was In That Pipe?](https://open.spotify.com/album/5clYczK4wvFYZGYzS9tzhF) | 2:49 | 2023-09-22 | 2024-01-26 |
 | [What You Deserve](https://open.spotify.com/track/2pbYZhE25xmIhEsISJbqLF) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [One Nation Underground](https://open.spotify.com/album/5Lweu1aeNeUXbAcNgzlGmK) | 3:00 | 2024-10-22 | 2025-07-30 |
+| [When You're Gone](https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Flowers](https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc) | 3:36 | 2025-11-14 |  |
 | [Where Greater Men Have Fallen](https://open.spotify.com/track/3cn79MOfraSsCHdeOYm65b) | [Primordial](https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek) | [Where Greater Men Have Fallen](https://open.spotify.com/album/3PoyHOYbmI7b0wLKz2ztyQ) | 8:06 | 2025-08-28 | 2025-09-27 |
 | [White Lines](https://open.spotify.com/track/01e38ocUD0lLENSZVltTHk) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [Ritual](https://open.spotify.com/album/1B54yM63vOuksWoEIXYlu7) | 4:21 | 2025-08-28 | 2025-09-27 |
 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 | 2024-01-25 | 2024-05-25 |

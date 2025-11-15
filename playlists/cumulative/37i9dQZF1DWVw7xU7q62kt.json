@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 177391,
       "name": "Altered Sine",
       "url": "https://open.spotify.com/track/60f6EbhrEope346BnF3G6J"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 125953,
       "name": "Beyond Horizon",
       "url": "https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 97000,
       "name": "Cocktail Please",
       "url": "https://open.spotify.com/track/61UJbqJes5swtjJ3BeDaOU"
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 128571,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/0eLUwTgJuz6K9dL12GGlgp"
@@ -9478,7 +9478,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 106749,
       "name": "Plaza",
       "url": "https://open.spotify.com/track/281Dm5nv7QXe2PXlSmTSbP"
@@ -10692,7 +10692,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 159375,
       "name": "Slide Along",
       "url": "https://open.spotify.com/track/0aV3DqM7ZUhtohHz4J7hut"
@@ -10988,6 +10988,28 @@
       "duration_ms": 105948,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5RImZc9H7YL09uYtGJOyQ2"
+    },
+    {
+      "album": {
+        "name": "Something Always Happens",
+        "url": "https://open.spotify.com/album/32mepjVQsvO8d4cWabmbZP"
+      },
+      "artists": [
+        {
+          "name": "j\u00fcle.",
+          "url": "https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o"
+        },
+        {
+          "name": "Bn Hl",
+          "url": "https://open.spotify.com/artist/36VWrhW1r4Xgt2kpqmgZvt"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99781,
+      "name": "Something Always Happens",
+      "url": "https://open.spotify.com/track/6C8AmxGeWJ8WZIic957nBW"
     },
     {
       "album": {
@@ -12974,6 +12996,24 @@
       "duration_ms": 166402,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/2MS3ImhissWnb9pmGWBc0a"
+    },
+    {
+      "album": {
+        "name": "Foundations",
+        "url": "https://open.spotify.com/album/0ZFovHBhbcyjt2YKG1eWLG"
+      },
+      "artists": [
+        {
+          "name": "Kowhaii",
+          "url": "https://open.spotify.com/artist/0cYSu3gYm3y2GMYW7Xe4US"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Timeless Love",
+      "url": "https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2"
     },
     {
       "album": {

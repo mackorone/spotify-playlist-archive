@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Minute or Two",
+        "url": "https://open.spotify.com/album/1NDqGioWjOyUtMGVqxfA2q"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "A Minute or Two",
+      "url": "https://open.spotify.com/track/174FNfxrSSFxK6FYigDjvm"
+    },
+    {
+      "album": {
         "name": "Amidst the Chaos (Bonus Version)",
         "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
       },
@@ -3754,7 +3772,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 211235,
       "name": "Into Your Room (with MUNA)",
       "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
@@ -4706,7 +4724,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 193386,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF"
@@ -6590,6 +6608,24 @@
       "duration_ms": 223875,
       "name": "Stereoqueen",
       "url": "https://open.spotify.com/track/5qsLUNvI1Ca8dr3lt0p3qm"
+    },
+    {
+      "album": {
+        "name": "Stick Fight",
+        "url": "https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202016,
+      "name": "Stick Fight",
+      "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"
     },
     {
       "album": {

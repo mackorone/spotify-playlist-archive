@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,496 likes - 80 songs - 4 hr 13 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,491 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 6 | [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 |
 | 7 | [Ex's & Oh's](https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Ex's & Oh's](https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR) | 2:03 |
 | 8 | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs) | 3:27 |
-| 9 | [Insomnia \- Disclosure's 2025 Edit](https://open.spotify.com/track/4cgoqLcfYRBesDEmSVR1Ek) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Howard Lawrence](https://open.spotify.com/artist/2eRICM3T8ea9VI1tdNtIjU), [Guy Lawrence](https://open.spotify.com/artist/3g8BppVpDmRuOsbwCt8J8X) | [Insomnia \(Disclosure's 2025 Edit\)](https://open.spotify.com/album/4YfEXbb3DjWKLFiW67pDqx) | 4:20 |
+| 9 | [Insomnia \- Disclosure's 2025 Edit](https://open.spotify.com/track/4cgoqLcfYRBesDEmSVR1Ek) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Insomnia \(Disclosure's 2025 Edit\)](https://open.spotify.com/album/4YfEXbb3DjWKLFiW67pDqx) | 4:20 |
 | 10 | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/track/0MS7sUW9VxvXjuDg9VZZIS) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/album/1gqpG7x5cMQuVCCo7iy7yL) | 2:12 |
 | 11 | [I Need A Rhythm \(feat\. ROZZZQWEEN\)](https://open.spotify.com/track/4EI4xZXYjLXV2wsnAMLZID) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [I Need A Rhythm \(feat\. ROZZZQWEEN\)](https://open.spotify.com/album/4G6Pne4osYMwMBoQQVNgxi) | 2:56 |
 | 12 | [Hello](https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hello](https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk) | 2:54 |

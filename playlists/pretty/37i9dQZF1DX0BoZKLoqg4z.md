@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 
 > Les talents préférés de vos enfants, découverts à la télé!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,055 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,057 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 | 42 | [Demain \(générique de la série TV "Demain nous appartient"\)](https://open.spotify.com/track/457te4tq7ZOvJZopqiqRvw) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Lou \(Edition deluxe\)](https://open.spotify.com/album/6iQwxvZGLZd9SoKkZfDo0C) | 3:35 |
 | 43 | [L'Oiseau et l'enfant](https://open.spotify.com/track/5UUbAsd0HqHpedB2Ty1sCy) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs) | [Tout le bonheur du monde](https://open.spotify.com/album/2EP8Vum6V1W0BzLNmBR7t3) | 3:02 |
 | 44 | [Don't Stop](https://open.spotify.com/track/1z2TYaojKtxBKRhEQqjdi8) | [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Les autres](https://open.spotify.com/album/6WxxTwRCjPjsN53HmlH6iF) | 3:44 |
-| 45 | [Les lionnes](https://open.spotify.com/track/3Pih25uLecFBvRd5lV7HkR) | [Les Enfants de la Terre](https://open.spotify.com/artist/1TsOqqM28A1fhxqtI9P9BK), [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Les Enfants de la Terre chantent Yannick Noah](https://open.spotify.com/album/5aFVq48na0zIenhA8ma4ey) | 3:11 |
+| 45 | [Les lionnes](https://open.spotify.com/track/3Pih25uLecFBvRd5lV7HkR) | [Les Enfants de la Terre](https://open.spotify.com/artist/1TsOqqM28A1fhxqtI9P9BK), [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Les Enfants de la Terre chantent Yannick Noah](https://open.spotify.com/album/5aFVq48na0zIenhA8ma4ey) | 3:09 |
 | 46 | [Roule](https://open.spotify.com/track/3qbX096fmueH0VCrhh47mY) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie](https://open.spotify.com/album/4oyz1B8KiCj3WVk1ruTlbw) | 3:08 |
 | 47 | [What's My Name \- De "Descendants 2"/Bande originale française](https://open.spotify.com/track/1n3Q02pCfWmbAuqpDzHAoy) | [Carla](https://open.spotify.com/artist/24Vq3l5sKBpzFKQfQO4muO) | [Carla](https://open.spotify.com/album/3M2JLOX8zs6hVasUcGmfOq) | 2:42 |
 | 48 | [Besoin d'air](https://open.spotify.com/track/0BoDFNzTbDoNpr43QG1P4Q) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:19 |

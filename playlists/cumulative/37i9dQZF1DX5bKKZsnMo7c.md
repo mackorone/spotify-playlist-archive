@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Grace Power
+> Feeling dramatic? All eyes on you\. Cover: John Cale & Charli xcx
 
-526 songs - 1 day 4 hr 31 min
+528 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-05-17 | 2023-01-14 |
 | [Cut The Cloth, Didn't I](https://open.spotify.com/track/3W8OGQbgnuOc1x1lu3WkEo) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Cut The Cloth, Didn't I](https://open.spotify.com/album/4xOT2TCqRaeUSXSgSQhplY) | 2:37 | 2025-03-21 | 2025-05-17 |
 | [DA DA DA](https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DA DA DA](https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob) | 2:18 | 2025-04-25 | 2025-08-18 |
-| [Dangerous](https://open.spotify.com/track/2sxpbOUUSzRrms8vSZwxvo) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [TROY](https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj), [Diana Rivera\-Herrans](https://open.spotify.com/artist/642h5sVW7rt43WPfEHkL1k) | [EPIC: The Vengeance Saga \(Official Concept Album\)](https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE) | 3:24 | 2025-05-23 |  |
+| [Dangerous](https://open.spotify.com/track/2sxpbOUUSzRrms8vSZwxvo) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [TROY](https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj), [Diana Rivera\-Herrans](https://open.spotify.com/artist/642h5sVW7rt43WPfEHkL1k) | [EPIC: The Vengeance Saga \(Official Concept Album\)](https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE) | 3:24 | 2025-05-23 | 2025-11-15 |
 | [Danke Schoen](https://open.spotify.com/track/0udPmR2HQO8iaCMqF6rrIL) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ) | 2:38 | 2023-02-02 | 2023-02-05 |
 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 | 2023-02-02 | 2023-06-28 |
 | [dead end.](https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 3:18 | 2024-08-23 | 2025-02-18 |
@@ -228,6 +228,7 @@
 | [Holy Water](https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Holy Water](https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744) | 3:28 | 2025-09-22 |  |
 | [Hot Goblin](https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Hot Goblin](https://open.spotify.com/album/3ehPg84etRc980Up4eqY93) | 2:38 | 2025-09-05 |  |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-04-26 | 2025-05-28 |
+| [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 | 2025-11-14 |  |
 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-02-02 |  |
 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 | 2023-01-06 | 2024-12-19 |
 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 | 2024-09-13 | 2025-02-01 |
@@ -331,6 +332,7 @@
 | [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 | 2025-05-23 | 2025-08-09 |
 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 | 2022-05-17 |  |
 | [My Corpse Friend](https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones](https://open.spotify.com/album/71SOQSZ4pKoTkwq86AJUxT) | 2:25 | 2024-10-04 | 2025-06-21 |
+| [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 | 2025-11-14 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 | 2024-08-10 |
 | [My R](https://open.spotify.com/track/4Li4x03VzGLRZW5B6hv0Xt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [My R](https://open.spotify.com/album/7HbKsuGxSH4WsAK3vIaPec) | 3:34 | 2022-06-07 | 2022-12-10 |
 | [My Time](https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP) | [bo en](https://open.spotify.com/artist/1EotkJocwHvhFOAsoOj1jJ) | [Pale Machine](https://open.spotify.com/album/1a2UnYDnfK25QJKfgHNHnu) | 5:13 | 2022-05-17 | 2022-06-25 |
@@ -477,7 +479,7 @@
 | [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet](https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:16 | 2022-05-17 | 2022-06-15 |
 | [Things You Said \(feat\. Abby Cates\)](https://open.spotify.com/track/2wOCwmoaVuN5cgjf80Fja4) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Things You Said](https://open.spotify.com/album/49XJus53CDU5zhsDgH6yn7) | 3:54 | 2023-07-21 | 2023-09-23 |
 | [This December](https://open.spotify.com/track/3gjRRs7gmh3Euynu1cau1d) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:01 | 2022-05-17 | 2024-01-27 |
-| [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 |  |
+| [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 | 2025-11-15 |
 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-18 | 2025-09-13 |
 | [To douse a scalded tongue](https://open.spotify.com/track/6dBfmNdCRhOanXG9zwdqt7) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [To douse a scalded tongue](https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR) | 2:43 | 2025-08-18 |  |
 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 | 2022-05-17 | 2022-12-10 |

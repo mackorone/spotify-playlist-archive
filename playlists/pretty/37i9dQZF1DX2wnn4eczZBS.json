@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
-  "num_followers": 10974,
+  "num_followers": 10975,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
-      },
-      "artists": [
-        {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Normale gevoelens",
         "url": "https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 166852,
       "name": "Normale gevoelens",
       "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg"
     },
     {
       "added_at": "2025-11-08 08:13:51",

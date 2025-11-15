@@ -4,7 +4,7 @@
 
 > This is our playground 🪩  Cover: Keinemusik
 
-580 songs - 1 day 23 hr 45 min
+581 songs - 1 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2024-02-13 | 2024-03-08 |
 | [Barry](https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Barry](https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU) | 6:49 | 2023-01-13 | 2023-03-04 |
 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 | 2025-03-10 |  |
+| [Be Without You](https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Be Without You](https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo) | 3:28 | 2025-11-13 |  |
 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 | 2022-11-26 | 2023-09-02 |
 | [Bells of Kakariko](https://open.spotify.com/track/70wp7eGnmV4mCTg1f6u9n6) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Bells of Kakariko](https://open.spotify.com/album/0rSHtP0PGKfiivavSDbCEP) | 6:49 | 2024-08-21 | 2024-09-21 |
 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-11-14 | 2024-03-08 |
@@ -81,7 +82,7 @@
 | [Born In Blue](https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Born In Blue](https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v) | 4:50 | 2024-04-25 | 2025-08-21 |
 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-11-13 |  |
 | [Bouzouki](https://open.spotify.com/track/4S5Qk3Q2u3H6f47bWexu7D) | [Hanne & Lore](https://open.spotify.com/artist/70MKGwjypyzdbuY4t9BqPD) | [Bouzouki](https://open.spotify.com/album/3JxpdWTn1j7CSYeXv66VX2) | 6:03 | 2022-06-17 | 2022-07-15 |
-| [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 | 2024-06-06 |  |
+| [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 | 2024-06-06 | 2025-11-15 |
 | [Breathe \- Digitalism Remix](https://open.spotify.com/track/1ngkdVl6BEQ8xiEUu6UKP5) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Breathe](https://open.spotify.com/album/02WgT1S15fhC88V1F6iBzJ) | 6:17 | 2022-04-15 | 2022-07-24 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-24 | 2023-02-06 |
 | [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 | 2025-11-13 |  |
@@ -539,9 +540,9 @@
 | [Transcendence](https://open.spotify.com/track/2OlB9XozcuSSC65y5dHenE) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Transcendence](https://open.spotify.com/album/3H8csJAMoN8ZRXZB9c0E5k) | 6:52 | 2022-09-22 | 2022-10-01 |
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2022-12-30 |  |
 | [Trust the Process](https://open.spotify.com/track/00YMhO4tBg7dEvZI8ZJlhE) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Vision](https://open.spotify.com/album/0gYWHiu6d4Lcrf4a4xFL40) | 5:57 | 2022-04-15 | 2022-07-29 |
-| [Try](https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Try](https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD) | 3:44 | 2025-07-10 |  |
+| [Try](https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Try](https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD) | 3:44 | 2025-07-10 | 2025-11-15 |
 | [Turn Around \- Âme Remix](https://open.spotify.com/track/5HBHjCETsFJP5bltmJ4BKs) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Turn Around](https://open.spotify.com/album/5SRRd1yaZsJbSiMSYOAqBY) | 8:03 | 2024-04-18 | 2024-08-22 |
-| [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 | 2024-12-16 | 2025-11-14 |
+| [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 | 2024-12-16 |  |
 | [ULM](https://open.spotify.com/track/4kC93I6ekm3jH02l7YPWaQ) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [ULM](https://open.spotify.com/album/55fpPhgzZxqTKQepGeCLDg) | 7:15 | 2022-04-15 | 2022-07-29 |
 | [Una Mattina](https://open.spotify.com/track/6g0L8OMeK0sa1IuY1De4oy) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [Una Mattina](https://open.spotify.com/album/14mE9wRZFL1eIZNLnQoAHa) | 3:19 | 2025-11-06 |  |
 | [Unity](https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Unity](https://open.spotify.com/album/5gOnkV7tKvosDQ4gkBsQEo) | 5:45 | 2022-06-24 | 2022-09-28 |

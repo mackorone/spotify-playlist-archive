@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sarathy Korwar\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,959 likes - 48 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,967 likes - 48 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 47 | [Dig Deep \(feat.Jairo）](https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Jairo](https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM) | [Dig Deep \(feat\. Jairo\)](https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85) | 4:30 |
 | 48 | [YUMI](https://open.spotify.com/track/1ojz67o1bat1RRjYWIUrws) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [YUMI](https://open.spotify.com/album/1wz86niXEGhLEkpbiqVrTa) | 2:39 |
 
-Snapshot ID: `AAAAAMndzvKvKLkeu14P+em3hmNSz1/S`
+Snapshot ID: `AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0`

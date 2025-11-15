@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Sexyy Red",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Monaleo",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 168766,
       "name": "2 Crash Outs (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2sQGacYminlTtshdBM81sx"
@@ -1200,6 +1200,36 @@
       "duration_ms": 127893,
       "name": "Balance My Lows (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK"
+    },
+    {
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Baller (with GloRilla, Sexyy Red & Monaleo)",
+      "url": "https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm"
     },
     {
       "album": {
@@ -4305,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "iight bet!",
+        "url": "https://open.spotify.com/album/7eeKZCUXa6fxPOCGaCPqfY"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145066,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/4mQUeilbMgGW7OEMYqEZga"
+    },
+    {
+      "album": {
         "name": "Expensive (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/6D0hHu4IaCaVAxmfWE5D35"
       },
@@ -4878,6 +4926,28 @@
       "duration_ms": 149173,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
+    },
+    {
+      "album": {
+        "name": "Freakquent",
+        "url": "https://open.spotify.com/album/43GG9MTzzHTNOqtg6VfDtZ"
+      },
+      "artists": [
+        {
+          "name": "Stunna Sandy",
+          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Freakquent",
+      "url": "https://open.spotify.com/track/4UcAUU8tzdsd0vnosppIYU"
     },
     {
       "album": {
@@ -5478,6 +5548,32 @@
       "duration_ms": 183906,
       "name": "GO GET YA MOTHA",
       "url": "https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq"
+    },
+    {
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228278,
+      "name": "Go Girl (with Latto & Doja Cat)",
+      "url": "https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl"
     },
     {
       "album": {
@@ -7916,7 +8012,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 147860,
       "name": "Locally Famous",
       "url": "https://open.spotify.com/track/1iJTvFvYMdZcxWHYyP6kk3"

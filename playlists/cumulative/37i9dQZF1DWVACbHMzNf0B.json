@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "somos una fusi\u00f3n que no termina\u2728\ud83d\udc9a  Rivs y Juanes en portada.",
+  "description": "somos una fusi\u00f3n que no termina\u2728\ud83d\udc9a  Grupo Marca Registrada en portada.",
   "name": "MEXCLA",
   "tracks": [
     {
@@ -1082,6 +1082,28 @@
       "duration_ms": 211904,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
+    },
+    {
+      "album": {
+        "name": "Amistades",
+        "url": "https://open.spotify.com/album/3LqHLNiN2H7kzdrhjBGjqh"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Amistades",
+      "url": "https://open.spotify.com/track/5ZoWz5CRPRsxteUQpMnfAw"
     },
     {
       "album": {
@@ -3162,7 +3184,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 144461,
       "name": "CHULA",
       "url": "https://open.spotify.com/track/3a35Lt9YZP6katfeyT2wG8"
@@ -6215,6 +6237,28 @@
     },
     {
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/0Kc77KeAykWD7hvRcbtYhj"
+      },
+      "artists": [
+        {
+          "name": "DobleFilo",
+          "url": "https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152625,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5tbiRzzVCmTZXw3sPbqUga"
+    },
+    {
+      "album": {
         "name": "Enfermo de Riqueza",
         "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
       },
@@ -6490,7 +6534,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 169680,
       "name": "Espero",
       "url": "https://open.spotify.com/track/1l8Ja32PEqTARzHftbFOi9"
@@ -9238,7 +9282,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 282351,
       "name": "LA REINA DEL REGGAETON MEXICANO",
       "url": "https://open.spotify.com/track/7AIHTetLlXgXF0LYRJIU6W"
@@ -9696,7 +9740,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 178252,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
@@ -9916,7 +9960,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 210541,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
@@ -11178,6 +11222,24 @@
       "duration_ms": 183473,
       "name": "Mi Mera Mera",
       "url": "https://open.spotify.com/track/4nH9bxbUTQ85u4q2RFMYjm"
+    },
+    {
+      "album": {
+        "name": "Mi Mu\u00f1equita",
+        "url": "https://open.spotify.com/album/14Q0D9jC3rpgx8LpLmUmmy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Mi Mu\u00f1equita",
+      "url": "https://open.spotify.com/track/01IFbhPxXAnrNBTwhhgQA3"
     },
     {
       "album": {
@@ -13020,7 +13082,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 194858,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
@@ -14394,7 +14456,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -14445,6 +14507,28 @@
     },
     {
       "album": {
+        "name": "que mach\u00edn la cagaste",
+        "url": "https://open.spotify.com/album/3FS9HfjLDPZ6sQ00Csk0vk"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "que mach\u00edn la cagaste",
+      "url": "https://open.spotify.com/track/48Eac78I4uzj7O5zkApfdA"
+    },
+    {
+      "album": {
         "name": "Que Pedo",
         "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
       },
@@ -14486,7 +14570,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
@@ -15164,7 +15248,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 211837,
       "name": "Rodillas",
       "url": "https://open.spotify.com/track/3V0dDAgNdQod4YwoqrPMZP"
@@ -18029,6 +18113,24 @@
     },
     {
       "album": {
+        "name": "Vida y Libertad",
+        "url": "https://open.spotify.com/album/2CBPdjzUoornafcRyuBFRQ"
+      },
+      "artists": [
+        {
+          "name": "Omar Cardenas",
+          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Vida y Libertad",
+      "url": "https://open.spotify.com/track/1fMAYvrvgG8cf4ufKgIxem"
+    },
+    {
+      "album": {
         "name": "Vivimos Lo Bueno",
         "url": "https://open.spotify.com/album/2uCDNiAaLAPJlir7dOqvMB"
       },
@@ -18230,7 +18332,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 178739,
       "name": "WISCACHOS",
       "url": "https://open.spotify.com/track/2rApWcTGUQuq4iDuB8n763"

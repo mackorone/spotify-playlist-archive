@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-117 songs - 8 hr 27 min
+118 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 | 2023-03-10 |  |
 | [Jagat Mein Kaisa Nata Re](https://open.spotify.com/track/4DSJNXH2FaOGFGBaAY8e3B) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4) | [Jagat Mein Kaisa Nata Re](https://open.spotify.com/album/3F2JCrV7g0lKjurBAw9mpw) | 4:15 | 2024-06-26 | 2024-09-11 |
 | [Jhoomelo \(feat\. Hansa Devi\) \- Maati S1](https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Deepak Ramola](https://open.spotify.com/artist/27sLJoziHcUlgivULGSga4), [Hansa Devi](https://open.spotify.com/artist/0Ja0ekncJTeJ9zn1qJ9Fn9) | [Jhoomelo \(feat\. Hansa Devi\) \[Maati S1\]](https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn) | 4:19 | 2024-12-09 | 2025-06-10 |
+| [Jode Rahejo Raj](https://open.spotify.com/track/6TtO1mAKsZaoLTb3G1Wtfr) | [Jigardan Gadhvi](https://open.spotify.com/artist/2YFbqxbkOqc250jQiyV5QA), [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Jode Rahejo Raj](https://open.spotify.com/album/2WIgISbgug6UCDAmvgUOFa) | 3:12 | 2025-11-14 |  |
 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 | 2023-03-10 | 2024-11-04 |
 | [Kaash](https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Raah\-e\-Fakira](https://open.spotify.com/album/3cq365TibcTJkm9ck4SH3v) | 3:53 | 2023-03-10 |  |
 | [Kaliya](https://open.spotify.com/track/3MnpWi9qC8vKr10HVz7Ku2) | [Paban Das Baul](https://open.spotify.com/artist/3FrGYJNQECWcYe2PMFYAgM) | [Music Of The Honey Gatherers](https://open.spotify.com/album/2GNwek98s1cDjSyWEEUoLZ) | 3:17 | 2024-08-30 | 2024-11-09 |
@@ -110,7 +111,7 @@
 | [Rebirth](https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Tu Hai](https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6) | 9:12 | 2023-05-05 | 2024-06-27 |
 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 | 2023-03-10 |  |
 | [Rupsa Ra Moti](https://open.spotify.com/track/56BIEuaSlJyjgQWdJF1WE4) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Rupsa Ra Moti](https://open.spotify.com/album/22W9JGHcLsPiQmnQJRogXz) | 3:10 | 2023-08-25 |  |
-| [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2023-03-10 |  |
+| [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2023-03-10 | 2025-11-15 |
 | [Saajan](https://open.spotify.com/track/2uiLL8F7KmQKnxiAXy0GkA) | [Shahid Khan](https://open.spotify.com/artist/5NCYHU9bcrR0DaOBWgIn0G), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saajan](https://open.spotify.com/album/6WCSmcdBShRPCO3uKjvihh) | 4:15 | 2024-10-09 | 2024-12-12 |
 | [Saawariya](https://open.spotify.com/track/2qdj04pkNkCo9kuVF8sdKv) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM) | [Saawariya](https://open.spotify.com/album/6oWXro6c6y4pD2CIKPN2xg) | 4:51 | 2023-03-10 | 2024-06-10 |
 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 | 2023-07-28 |  |

@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North.
 
-170 songs - 14 hr 44 min
+171 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 | 2024-08-25 |  |
 | [Grå Hest](https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Grå Hest](https://open.spotify.com/album/2P7bJcPvvLfIizw86vv7AK) | 3:09 | 2022-05-13 | 2025-05-26 |
 | [Grå Hest](https://open.spotify.com/track/362UfKo2khSB4vGMmChR14) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Nordlige Rúnaskog \(Deluxe Version\)](https://open.spotify.com/album/3EMtE4ozFRAa3ZTSGx7jR9) | 3:09 | 2023-02-17 | 2024-04-19 |
-| [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 | 2022-05-13 |  |
+| [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 | 2022-05-13 | 2025-11-15 |
 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:18 | 2022-12-01 | 2024-04-19 |
 | [Helvegen](https://open.spotify.com/track/1bqmaIBGwlo4MtrAxjRDHB) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/4Ir9Mw8uEYlIipN6hBeBsP) | 7:11 | 2022-07-08 | 2024-04-19 |
 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 | 2022-05-13 |  |
@@ -92,7 +92,7 @@
 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 | 2024-07-05 |  |
 | [Museum Of Childhood](https://open.spotify.com/track/3SEhz1AzCyq2BPctFUMiiB) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [Museum Of Childhood](https://open.spotify.com/album/7t6U6jFJUKHXRSvSrjRNy9) | 5:01 | 2025-07-04 | 2025-08-15 |
 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 | 2025-08-08 |  |
-| [Noidan Nousu](https://open.spotify.com/track/680HRsVF8FqjgHH9rtefsE) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Noidan Nousu](https://open.spotify.com/album/5mbI6EOtW4ft43ske1T8CG) | 3:51 | 2025-05-16 |  |
+| [Noidan Nousu](https://open.spotify.com/track/680HRsVF8FqjgHH9rtefsE) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Noidan Nousu](https://open.spotify.com/album/5mbI6EOtW4ft43ske1T8CG) | 3:51 | 2025-05-16 | 2025-11-15 |
 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 | 2022-05-13 |  |
 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 | 2022-05-13 |  |
 | [Nouse Lempi](https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M) | [Kajos](https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J) | [Nouse Lempi](https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4) | 3:42 | 2025-07-04 |  |
@@ -124,7 +124,7 @@
 | [Snake Pit Poetry](https://open.spotify.com/track/4bJI9uGfjRCWVZnZHaHzuQ) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Snake Pit Poetry](https://open.spotify.com/album/7MUGGBH196GiArjholsWGJ) | 7:08 | 2022-07-08 | 2023-07-14 |
 | [Snake Pit Poetry](https://open.spotify.com/track/6R6wY6SsjYZOBFrpYEHUa3) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Orvarsdottir](https://open.spotify.com/artist/2R4voTSepmSRDdrN7W7H5Z) | [Snake Pit Poetry](https://open.spotify.com/album/2oFwWHzumvX0rYfBf1AXYh) | 7:08 | 2023-02-17 | 2024-04-19 |
 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 | 2022-05-13 |  |
-| [Spatle Ǣghwas](https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Spatle Ǣghwas](https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm) | 4:20 | 2022-05-13 | 2025-11-12 |
+| [Spatle Ǣghwas](https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Spatle Ǣghwas](https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm) | 4:20 | 2022-05-13 |  |
 | [Spine](https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:03 | 2024-04-16 |  |
 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 | 2022-05-13 |  |
 | [Storm Son](https://open.spotify.com/track/3UVz5L4dNHmovBj7xCvDfZ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Nuclear Blast Showdown Winter 2017](https://open.spotify.com/album/4P6R6IRALy9NKyqTOiLKyB) | 10:54 | 2022-10-07 | 2022-11-13 |
@@ -173,6 +173,7 @@
 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 | 2022-05-13 | 2025-09-13 |
 | [Ymir](https://open.spotify.com/track/0bgGgqsmfGk2r177BsCrSI) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Eptir Ragnarök](https://open.spotify.com/album/7EvtTlwudXR5ca8x18iCUY) | 4:17 | 2022-07-08 | 2024-04-19 |
 | [Zeit der Raben](https://open.spotify.com/track/2dsW7ufpe4Kzaai1oA2wR5) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Pagan](https://open.spotify.com/album/7lN8bCpi9N1shlyZiT5Cgr) | 3:36 | 2022-05-13 | 2023-02-18 |
+| [Äiti Varjo](https://open.spotify.com/track/4bNvxOrJbtB59wZ6KCpbJA) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Äiti Varjo](https://open.spotify.com/album/6NhNoFTwVOVve3x9rDn9sy) | 4:09 | 2025-11-14 |  |
 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 | 2022-05-13 | 2024-04-17 |
 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 | 2022-05-13 |  |
 | [Østavind](https://open.spotify.com/track/27YMR1cUhUKWQavHL6ojOg) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Ferd](https://open.spotify.com/album/2G0OFHDsL5aAyyuCjAQeMl) | 3:13 | 2023-02-17 | 2024-04-19 |

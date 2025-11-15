@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: De Zweefclub
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,974 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,975 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 21 | [Offline](https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 2:29 |
 | 22 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 |
 | 23 | [God Los](https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [God Los](https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS) | 3:43 |
-| 24 | [Obsessed](https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Obsessed](https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn) | 2:53 |
-| 25 | [Normale gevoelens](https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Normale gevoelens](https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc) | 2:46 |
+| 24 | [Normale gevoelens](https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Normale gevoelens](https://open.spotify.com/album/657RbF1AvwQ6hLaf7sOAUc) | 2:46 |
+| 25 | [Obsessed](https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Obsessed](https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn) | 2:53 |
 | 26 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
 | 27 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 28 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |

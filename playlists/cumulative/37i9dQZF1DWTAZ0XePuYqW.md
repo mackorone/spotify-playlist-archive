@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Cadence Weapon's got that big energy.
+> Danny Brown's got that big energy.
 
-579 songs - 1 day 4 hr 51 min
+580 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 | 2024-01-19 | 2024-03-02 |
 | [Gag](https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/7Iq01QrhVdHMVuEDXRxmxk) | 3:14 | 2024-02-23 | 2024-05-25 |
 | [Gag](https://open.spotify.com/track/3U3ZX37PA3AUzR9t7aUzbq) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/1v0c2ccfvC1Us2yHkkyvaR) | 3:15 | 2024-04-12 | 2025-05-24 |
-| [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-19 |  |
+| [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-19 | 2025-11-15 |
 | [Gatando la Funda](https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Sam Diem](https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Gatando la Funda](https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4) | 2:50 | 2023-09-02 | 2023-09-16 |
 | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/album/2AcsiMcYpsiL3wsZytd14m) | 2:26 | 2024-02-02 | 2024-06-01 |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2024-03-30 |
@@ -467,6 +467,7 @@
 | [Soft Spot](https://open.spotify.com/track/3sbjKDEYkBs4q9oLYV0Q88) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof) | 4:22 | 2024-12-31 | 2025-08-30 |
 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 | 2024-12-06 | 2025-01-01 |
 | [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 | 2023-08-18 | 2023-11-11 |
+| [Somersaults](https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Somersaults](https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS) | 2:54 | 2025-11-14 |  |
 | [Sovereignty](https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Sovereignty](https://open.spotify.com/album/6FoJ8tjtSh3IdDinPS7ie0) | 3:08 | 2023-09-29 | 2024-02-03 |
 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 | 2025-08-15 |  |
 | [Spin Da Block](https://open.spotify.com/track/5eYmMQuKASmneHbtciIlgK) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Spin Da Block](https://open.spotify.com/album/7GstokPr5OSvXUpxM8uu2l) | 2:36 | 2024-02-02 | 2024-04-27 |

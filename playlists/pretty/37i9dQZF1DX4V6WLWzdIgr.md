@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > "Aku pancen ora sempurna, gampang terluka..." 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,488 likes - 86 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,533 likes - 86 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 85 | [Tekan Semene](https://open.spotify.com/track/05l0TpxjHw8Y5Vxb9p5xKv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tekan Semene](https://open.spotify.com/album/6kll8pVZnCHYbEKPDiV5XS) | 5:44 |
 | 86 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 |
 
-Snapshot ID: `AAAAAG9V3ly1buvaSy0d1RVu6WeRp167`
+Snapshot ID: `AAAAAFyYtNcfcKu6DHerhZ2CEeIENfE+`

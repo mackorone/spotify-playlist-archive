@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "Sonido independiente y nacional. Foto: Potra",
+  "description": "Sonido independiente y nacional. Foto: Carolina Donati",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Apuesto Lo Que Debo",
+        "url": "https://open.spotify.com/album/53pcLQ7aNeNeV417P8oET9"
+      },
+      "artists": [
+        {
+          "name": "Pasado Verde",
+          "url": "https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187302,
+      "name": "Apuesto Lo Que Debo",
+      "url": "https://open.spotify.com/track/12fHa9HuUb7UJPMMQINVqP"
+    },
+    {
+      "album": {
         "name": "Aquellos misterios",
         "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
       },
@@ -836,6 +854,24 @@
       "duration_ms": 189500,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/3pMP9qcLMWQ1FEgaqOIvaa"
+    },
+    {
+      "album": {
+        "name": "Bosque Gris",
+        "url": "https://open.spotify.com/album/0HOvdaietx0LNJodu9VOMy"
+      },
+      "artists": [
+        {
+          "name": "Tomates En Verano",
+          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323094,
+      "name": "Bosque Gris",
+      "url": "https://open.spotify.com/track/5ROBySV5NOHHoLxZ9dLhK7"
     },
     {
       "album": {
@@ -1784,6 +1820,24 @@
       "duration_ms": 256566,
       "name": "De Otra Vida",
       "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Mutante",
+        "url": "https://open.spotify.com/album/2o0whCb69V80K2zNQE2FGu"
+      },
+      "artists": [
+        {
+          "name": "Galean",
+          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239499,
+      "name": "De sol a sol",
+      "url": "https://open.spotify.com/track/5o6Dn8UgJQJQTBZj2tZo3r"
     },
     {
       "album": {
@@ -4185,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "Le\u00f3n",
+        "url": "https://open.spotify.com/album/73q7hWI5xqZDns488K37og"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238471,
+      "name": "Le\u00f3n",
+      "url": "https://open.spotify.com/track/2RR6PpJDIeTMMeJD1qFR0c"
+    },
+    {
+      "album": {
         "name": "Libros y Gente",
         "url": "https://open.spotify.com/album/2KGr8C1Z3DiMAZdiiKPfSh"
       },
@@ -5229,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "hola, desierto",
+        "url": "https://open.spotify.com/album/739p4lXSlQIF4qHoswlE06"
+      },
+      "artists": [
+        {
+          "name": "Costas",
+          "url": "https://open.spotify.com/artist/7J4QsLCXzX1JVzmmt9pW6B"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295500,
+      "name": "Negacionistas",
+      "url": "https://open.spotify.com/track/1wnpovD4b9JoVIFmVOmvFH"
+    },
+    {
+      "album": {
         "name": "Nicho",
         "url": "https://open.spotify.com/album/3iatoQABmCe2horRQm9TKX"
       },
@@ -5954,6 +6044,24 @@
       "duration_ms": 136864,
       "name": "PARAISO",
       "url": "https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD"
+    },
+    {
+      "album": {
+        "name": "paso lento",
+        "url": "https://open.spotify.com/album/0Iy1B6e2OO2pcwLh01KPBD"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140037,
+      "name": "paso lento",
+      "url": "https://open.spotify.com/track/2swNiKnJ0z1W700ia6AJQx"
     },
     {
       "album": {
@@ -8226,6 +8334,32 @@
       "duration_ms": 238612,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3"
+    },
+    {
+      "album": {
+        "name": "Wyd",
+        "url": "https://open.spotify.com/album/6IFQtT9KItj2ntagp24v2R"
+      },
+      "artists": [
+        {
+          "name": "Lolita Fiamma",
+          "url": "https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW"
+        },
+        {
+          "name": "Nacho Amil",
+          "url": "https://open.spotify.com/artist/0hkwn8vzfYveburgxouLrI"
+        },
+        {
+          "name": "piwifuntime",
+          "url": "https://open.spotify.com/artist/4361FjAxSIkgjcwGWLZ2KB"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202205,
+      "name": "Wyd",
+      "url": "https://open.spotify.com/track/3ULmE2KCClI4toue52HpTq"
     },
     {
       "album": {

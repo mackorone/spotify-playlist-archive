@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Dillom",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Divididos",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -362,6 +362,24 @@
       "duration_ms": 241968,
       "name": "Algo para decirte",
       "url": "https://open.spotify.com/track/66qYj1nKi59oTYjS61wI06"
+    },
+    {
+      "album": {
+        "name": "Divididos",
+        "url": "https://open.spotify.com/album/5umNRvNHP6ubJNA8q5Da8v"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347998,
+      "name": "Aliados en un viaje",
+      "url": "https://open.spotify.com/track/4trsLciy3dlxlFaaXpAmmY"
     },
     {
       "album": {
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 189766,
       "name": "El Gomoso",
       "url": "https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9"
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 192275,
       "name": "El Hombre Puerco",
       "url": "https://open.spotify.com/track/2qczuYk56imj9ZFPz3JTwg"
@@ -3255,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "Harto",
+        "url": "https://open.spotify.com/album/4jN5OvGwHl6aYZxVlMjJgw"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Harto",
+      "url": "https://open.spotify.com/track/381VNDFzOnJulI6qTS5rTm"
+    },
+    {
+      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -3945,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "La Huella",
+        "url": "https://open.spotify.com/album/0IioQZIxpiijVVi9ApqnLb"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210069,
+      "name": "La Huella",
+      "url": "https://open.spotify.com/track/7CC2GAeCNGXJsCLLUeABBJ"
+    },
+    {
+      "album": {
         "name": "La ilusi\u00f3n que me condena",
         "url": "https://open.spotify.com/album/3q0JNT0J2YlA3FVRYiIHuI"
       },
@@ -4372,6 +4426,28 @@
       "duration_ms": 236015,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/1Zsu6m9PyxwcpyUcw3yQgk"
+    },
+    {
+      "album": {
+        "name": "LO BIEN LO MAL",
+        "url": "https://open.spotify.com/album/53R2j5VKsT3hRpI8MEqmcA"
+      },
+      "artists": [
+        {
+          "name": "Bistur\u00ed",
+          "url": "https://open.spotify.com/artist/2WR0rWwoNz5jH6gxt3aJ45"
+        },
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178794,
+      "name": "LAIKS",
+      "url": "https://open.spotify.com/track/3Camdb3Q9HlHo6hj7qo266"
     },
     {
       "album": {
@@ -6280,7 +6356,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 146724,
       "name": "Quieren Rock",
       "url": "https://open.spotify.com/track/72ZJmxjPVSaze6EJMJSigT"
@@ -6446,7 +6522,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 183764,
       "name": "Rojo Profundo",
       "url": "https://open.spotify.com/track/23uZ2cVSSecPQBhKtU9xSY"

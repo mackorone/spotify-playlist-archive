@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17870,
+  "num_followers": 17868,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAACGwOEBYJM7sYJhXGTaNdPD",
+  "snapshot_id": "aRUfgAAAAAATBGwbHLrGtbXnxw5aOz4C",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERDUE",
+        "url": "https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 317513,
+      "name": "PERDUE",
+      "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radio Kitchen EP",
         "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERDUE",
-        "url": "https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 317513,
-      "name": "PERDUE",
-      "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La m\u00eame",
         "url": "https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 232013,
       "name": "Vivre - Acoustic",
       "url": "https://open.spotify.com/track/7wOC5R4KJkpVCSY1SoaKdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noir",
         "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 226680,
       "name": "5H",
       "url": "https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 212784,
+      "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg"
     },
     {
       "added_at": null,
@@ -515,38 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 212784,
-      "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rien \u00e0 prouver",
-        "url": "https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 242908,
-      "name": "Rien \u00e0 prouver",
-      "url": "https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noir",
         "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
       },
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MENTAL",
-        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+        "name": "Rien \u00e0 prouver",
+        "url": "https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 133416,
-      "name": "GAR\u00c7ON",
-      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
+      "duration_ms": 242908,
+      "name": "Rien \u00e0 prouver",
+      "url": "https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 197746,
       "name": "L\u2019orage",
       "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 133416,
+      "name": "GAR\u00c7ON",
+      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MENTAL",
-        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "STUPID(E)",
-      "url": "https://open.spotify.com/track/5Ldw3ME8Wy1SMhgSGCfEvt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yseult",
         "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 183533,
       "name": "La vague",
       "url": "https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "STUPID(E)",
+      "url": "https://open.spotify.com/track/5Ldw3ME8Wy1SMhgSGCfEvt"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's A Man's Man's Man's World",
-        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 199278,
-      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
-      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yseult",
         "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 243493,
       "name": "La mamma",
       "url": "https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 199278,
+      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
+      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRUTAAL",
         "url": "https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 246490,
       "name": "BRUTAAL",
       "url": "https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Pour l\u2019impossible",
+      "url": "https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Station",
         "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 182400,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Pour l\u2019impossible",
-      "url": "https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym"
     },
     {
       "added_at": null,

@@ -1,15 +1,39 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: David Guetta, Teddy Swims, Tones & I",
-  "num_followers": 470361,
+  "num_followers": 470376,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALnI8H8+KcnuWrDIy7lDJQfyqAQA",
+  "snapshot_id": "AAAAANwpgQzDC0VIi76cAk+Ol54lBeSh",
   "tracks": [
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "WHERE IS MY HUSBAND! (Remix)",
+        "url": "https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "duration_ms": 153768,
+      "name": "WHERE IS MY HUSBAND! - Remix",
+      "url": "https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
@@ -33,55 +57,27 @@
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "Dior (with Chrystal) [David Guetta Remix]",
-        "url": "https://open.spotify.com/album/6UbRsSRjyIaCNvzJGmEQGO"
+        "name": "Fantasy (Alex Chapman Remix)",
+        "url": "https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         },
         {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
         }
       ],
-      "duration_ms": 146703,
-      "name": "Dior (with Chrystal) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5CboUpvvZdZRApvEVJppB3"
+      "duration_ms": 174908,
+      "name": "Fantasy - Alex Chapman Remix",
+      "url": "https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
-      "album": {
-        "name": "You & Me (Rivo Remix)",
-        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "You & Me - Rivo Remix",
-      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
-    },
-    {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt"
@@ -109,7 +105,7 @@
       "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "All I Know (with Khalid) [Ely Oaks Remix]",
         "url": "https://open.spotify.com/album/2idDyu8y3bxJIFtVxNiM3K"
@@ -133,47 +129,55 @@
       "url": "https://open.spotify.com/track/3GqL6znvuvpQR0x7ios7jS"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "The Door (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+        "name": "Dior (with Chrystal) [David Guetta Remix]",
+        "url": "https://open.spotify.com/album/6UbRsSRjyIaCNvzJGmEQGO"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 210476,
-      "name": "The Door - CYRIL Remix",
-      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
+      "duration_ms": 146703,
+      "name": "Dior (with Chrystal) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5CboUpvvZdZRApvEVJppB3"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "Fantasy (Alex Chapman Remix)",
-        "url": "https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK"
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
       },
       "artists": [
         {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Alex Chapman",
-          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
         }
       ],
-      "duration_ms": 174908,
-      "name": "Fantasy - Alex Chapman Remix",
-      "url": "https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT"
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "yes, and? (remixes)",
         "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
@@ -193,7 +197,7 @@
       "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Sports car (remixes)",
         "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
@@ -213,7 +217,7 @@
       "url": "https://open.spotify.com/track/2fhM3JCr2cPEgwXvHzJOcr"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Gone Gone Gone (feat. Teddy Swims) [MK Remix]",
         "url": "https://open.spotify.com/album/0M2qDR7i9i7XhtRYv7RFJi"
@@ -241,7 +245,7 @@
       "url": "https://open.spotify.com/track/1P0wthSIyPsBdmlp5k4cCd"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Espresso (Working Late Remixes)",
         "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
@@ -265,7 +269,7 @@
       "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "All I Ever Asked (Zerb Remix)",
         "url": "https://open.spotify.com/album/1JCWiCpE16UEJ8qh7zpMMy"
@@ -285,7 +289,27 @@
       "url": "https://open.spotify.com/track/43iwNhggwyAaUxRatQac3y"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "The Door (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 210476,
+      "name": "The Door - CYRIL Remix",
+      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Roses (Imanbek Remix)",
         "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
@@ -305,7 +329,7 @@
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
@@ -325,7 +349,7 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "NOW IT'S GONE (ELY OAKS REMIX)",
         "url": "https://open.spotify.com/album/1CoyFBEkDoXjjdy7W1XzSB"
@@ -345,27 +369,7 @@
       "url": "https://open.spotify.com/track/52J5G1z4DN0EWeAVsW7Uob"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
-      "album": {
-        "name": "Bad Dreams (HUGEL Remix)",
-        "url": "https://open.spotify.com/album/0ssTX65vCg6WGt6NsGHzZd"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 182875,
-      "name": "Bad Dreams - HUGEL Remix",
-      "url": "https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk"
-    },
-    {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "I'm Not Alone (MPH Remix)",
         "url": "https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5"
@@ -385,7 +389,27 @@
       "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "Bad Dreams (HUGEL Remix)",
+        "url": "https://open.spotify.com/album/0ssTX65vCg6WGt6NsGHzZd"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 182875,
+      "name": "Bad Dreams - HUGEL Remix",
+      "url": "https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Shivers (Ofenbach Remix)",
         "url": "https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl"
@@ -405,27 +429,7 @@
       "url": "https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
-      "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
-    },
-    {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
         "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
@@ -445,7 +449,27 @@
       "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
@@ -465,7 +489,7 @@
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
         "url": "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI"
@@ -485,7 +509,7 @@
       "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Bad Habits (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
@@ -505,7 +529,7 @@
       "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
@@ -529,7 +553,7 @@
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Walking On A Dream (BLOND:ISH Remix)",
         "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
@@ -549,7 +573,7 @@
       "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
@@ -573,7 +597,7 @@
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
         "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
@@ -593,7 +617,7 @@
       "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
         "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
@@ -613,7 +637,7 @@
       "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Azizam (D.O.D Remix)",
         "url": "https://open.spotify.com/album/5PLs75rpnPJJ7glQxY7E1i"
@@ -633,7 +657,7 @@
       "url": "https://open.spotify.com/track/77jEjHBhsZruadNLzb4rsJ"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "My Head & My Heart (Claptone Remix)",
         "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
@@ -653,7 +677,7 @@
       "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Ride It (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S"
@@ -673,7 +697,7 @@
       "url": "https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Abracadabra (Gesaffelstein Remix)",
         "url": "https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO"
@@ -693,27 +717,7 @@
       "url": "https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
-      "album": {
-        "name": "Revolving door (remixes)",
-        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 171304,
-      "name": "Revolving door - Lavern remix",
-      "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
-    },
-    {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
@@ -733,27 +737,27 @@
       "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+        "name": "Revolving door (remixes)",
+        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
         }
       ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+      "duration_ms": 171304,
+      "name": "Revolving door - Lavern remix",
+      "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
@@ -781,7 +785,27 @@
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
@@ -801,7 +825,23 @@
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "Fly Away (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fly Away (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Sports car (remixes)",
         "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
@@ -821,23 +861,7 @@
       "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
-      "album": {
-        "name": "Fly Away (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 192195,
-      "name": "Fly Away (Jonas Blue Remix)",
-      "url": "https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo"
-    },
-    {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Post Malone (feat. RANI) [VIZE Remix]",
         "url": "https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ"
@@ -861,7 +885,7 @@
       "url": "https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "NOW IT'S GONE (BL3SS REMIX)",
         "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
@@ -909,7 +933,7 @@
       "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Mad Love (Remixes)",
         "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
@@ -929,7 +953,7 @@
       "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "It's ok I'm ok (remixes)",
         "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
@@ -949,7 +973,7 @@
       "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Don't Go Yet (Major Lazer Remix)",
         "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
@@ -969,7 +993,7 @@
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Lavender Haze (Remixes)",
         "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
@@ -989,27 +1013,7 @@
       "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
-      "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
-    },
-    {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "Lil Boo Thang (Galantis Remix)",
         "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
@@ -1029,7 +1033,27 @@
       "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
     },
     {
-      "added_at": "2025-11-06 11:38:31",
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
       "album": {
         "name": "exes (Regard Remix)",
         "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
@@ -1047,26 +1071,6 @@
       "duration_ms": 182508,
       "name": "exes - Regard Remix",
       "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
-    },
-    {
-      "added_at": "2025-11-06 11:38:31",
-      "album": {
-        "name": "Whatever (The Remixes)",
-        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
     }
   ],
   "unique_name": "Massive Pop Remixes",

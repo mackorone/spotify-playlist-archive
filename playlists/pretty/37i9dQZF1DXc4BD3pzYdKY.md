@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Marty
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,840 likes - 115 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,882 likes - 115 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 114 | [CHECK](https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [CHECK](https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN) | 3:27 |
 | 115 | [Stay Alive](https://open.spotify.com/track/623ojrBv5jizMDQ5vrpWiy) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Stay Alive](https://open.spotify.com/album/0NSbsyWg8s2pP9bzNtbiIa) | 3:36 |
 
-Snapshot ID: `AAAAAFRXyoZGIF0zB7BmIGPwDzaNZ4LI`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

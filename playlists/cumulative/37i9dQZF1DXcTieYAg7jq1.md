@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Kali Uchis
 
-472 songs - 1 day 2 hr 55 min
+473 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 | 2023-05-26 |  |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2021-12-03 | 2023-01-28 |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |
+| [I Stay I Leave I Love I Lose](https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:57 | 2025-11-14 |  |
 | [I Stood My Ground](https://open.spotify.com/track/4JRuQ22xck5DCfkQXRPnF6) | [Chloe Stroll](https://open.spotify.com/artist/31J0TFdcefgKGeFBKXRH8z) | [I Stood My Ground](https://open.spotify.com/album/3zuXv136QTdzBlGmTtN7ci) | 4:03 | 2025-08-01 |  |
 | [I'll Get Along](https://open.spotify.com/track/7cId5hbuOHH7uAbpe4pIEl) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:28 | 2021-12-03 | 2022-04-21 |
 | [i'm confident that i'm insecure](https://open.spotify.com/track/2vcJAWazBGDeUIbzdU0zV8) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [i'm confident that i'm insecure](https://open.spotify.com/album/3BOQyggLEixg4CLYgheD3X) | 2:41 | 2023-08-11 | 2024-04-05 |
@@ -339,7 +340,7 @@
 | [Places We Won't Walk](https://open.spotify.com/track/30QNjcM3Q1GnLFIIJjWQL1) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 2:49 | 2022-07-01 | 2022-10-13 |
 | [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-02-11 | 2023-03-18 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 | 2025-08-30 |
-| [Poems](https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip) | [Couch](https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ) | [Poems](https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9) | 3:09 | 2022-09-23 |  |
+| [Poems](https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip) | [Couch](https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ) | [Poems](https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9) | 3:09 | 2022-09-23 | 2025-11-15 |
 | [Precious Love \(Refreshed\)](https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Greatest Hits](https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa) | 4:00 | 2022-02-11 | 2024-03-09 |
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-09-05 |  |
 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2024-09-27 |  |

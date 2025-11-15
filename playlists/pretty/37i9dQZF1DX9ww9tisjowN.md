@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Mori Calliope
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,696 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,021 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 63 | [TYPEWRITE LESSON](https://open.spotify.com/track/3SSIE7ScKKBLtA7y1ZBhVu) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Fantasma Bonus Tracks](https://open.spotify.com/album/2TXHTCQKxZwQOtdzu0vvhe) | 5:46 |
 | 64 | [Cubibibibism](https://open.spotify.com/track/7sh0ZVMLYh44tuFWHxLIA9) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K) | [Cubibibibism](https://open.spotify.com/album/2dWB8ZDmHav9YpD0snjXDW) | 3:23 |
 | 65 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 |
-| 66 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [](https://open.spotify.com/album/null) | 2:49 |
+| 66 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
 | 67 | [うつくしじごく](https://open.spotify.com/track/52tuMlVkSWg4LbpIcHpvgi) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [うつくしじごく](https://open.spotify.com/album/5xU2auiRThiL630ZNmAr2J) | 3:52 |
 | 68 | [Only Way](https://open.spotify.com/track/5E12ouOnlp1xffpRYtjKtA) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Only Way](https://open.spotify.com/album/6vz2mjuTSHY1TmozSLJWkj) | 2:51 |
 | 69 | [Undefeatable](https://open.spotify.com/track/1JglKAR6tFxPURETdH1qLc) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Sonic Frontiers Original Soundtrack Stillness & Motion](https://open.spotify.com/album/3rzNkB4JHEnWmuXC6G98IS) | 4:24 |

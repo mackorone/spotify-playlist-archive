@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Kali Uchis",
-  "num_followers": 416012,
+  "num_followers": 416025,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHn/iXIbeFTh1BYVx71MWju7w1dj",
+  "snapshot_id": "AAAAAPeFs0bVDw3em9ZjRHuLWa8EZ0dy",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:29",
+      "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177601,
+      "name": "I Stay I Leave I Love I Lose",
+      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
+    },
     {
       "added_at": "2025-09-19 04:00:35",
       "album": {
@@ -1567,22 +1583,6 @@
       "duration_ms": 160500,
       "name": "Youniverse",
       "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Poems",
-        "url": "https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9"
-      },
-      "artists": [
-        {
-          "name": "Couch",
-          "url": "https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ"
-        }
-      ],
-      "duration_ms": 189135,
-      "name": "Poems",
-      "url": "https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip"
     },
     {
       "added_at": "2022-09-30 04:01:00",

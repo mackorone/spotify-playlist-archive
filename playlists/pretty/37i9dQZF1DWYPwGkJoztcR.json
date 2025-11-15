@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 394916,
+  "num_followers": 394928,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Morning Dawns Again",
-        "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 238699,
-      "name": "Morning Dawns Again",
-      "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "Small Changes",
         "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
+        "name": "Morning Dawns Again",
+        "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 238699,
+      "name": "Morning Dawns Again",
+      "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
+        "name": "Deena & Jim",
+        "url": "https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "duration_ms": 317089,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Deena & Jim",
-        "url": "https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun"
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
       },
       "artists": [
         {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
         }
       ],
-      "duration_ms": 317089,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz"
+      "duration_ms": 169993,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -471,26 +487,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "A Way With My Heart",
-        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
-      },
-      "artists": [
-        {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        },
-        {
-          "name": "Sven Hammond",
-          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "A Way With My Heart",
-      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "Same Heart",
         "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
       },
@@ -523,18 +519,22 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Say You'll Stay",
-        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
+        "name": "A Way With My Heart",
+        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
       },
       "artists": [
         {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        },
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
         }
       ],
-      "duration_ms": 169993,
-      "name": "Say You'll Stay",
-      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
+      "duration_ms": 195453,
+      "name": "A Way With My Heart",
+      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -571,6 +571,22 @@
       "duration_ms": 174336,
       "name": "Don't Break My Heart",
       "url": "https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -623,18 +639,18 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
       "artists": [
         {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
         }
       ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -655,22 +671,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
       },
@@ -680,25 +680,9 @@
           "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
         }
       ],
-      "duration_ms": 216058,
+      "duration_ms": 216005,
       "name": "Beginners",
       "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -715,6 +699,22 @@
       "duration_ms": 200441,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "I Believe In Life",
         "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 216519,
       "name": "I Believe In Life",
       "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
         }
       ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "I'm In Heaven",
-        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
       },
       "artists": [
         {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 205671,
-      "name": "I'm In Heaven",
-      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -995,6 +979,22 @@
       "duration_ms": 243426,
       "name": "You Give Me Something (Refreshed)",
       "url": "https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
+        "name": "I'm In Heaven",
+        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        }
+      ],
+      "duration_ms": 205671,
+      "name": "I'm In Heaven",
+      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
+        "name": "Northern Star",
+        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
         "name": "Anything To Feel Alive",
         "url": "https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 260173,
       "name": "Anything To Feel Alive",
       "url": "https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
-        "name": "Northern Star",
-        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
-      },
-      "artists": [
-        {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Northern Star",
-      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/2FnXCtCNVWMnLHgr43O1FD"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 161979,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/2FnXCtCNVWMnLHgr43O1FD"
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 161979,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ"
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "Little Love",
         "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
       },
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
+        "name": "Illusion (feat. Tangarine) [acoustic]",
+        "url": "https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr"
+      },
+      "artists": [
+        {
+          "name": "OGENE",
+          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
+        },
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Illusion (feat. Tangarine) - acoustic",
+      "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
         "name": "Suddenly Forever",
         "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
       },
@@ -1371,22 +1391,6 @@
       "duration_ms": 200000,
       "name": "Suddenly Forever",
       "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/2Bw4yItttk3AbNpgCxecrh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 244367,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/601duPbqge25OtknrrS99N"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -1423,26 +1427,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Illusion (feat. Tangarine) [acoustic]",
-        "url": "https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr"
-      },
-      "artists": [
-        {
-          "name": "OGENE",
-          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
-        },
-        {
-          "name": "Tangarine",
-          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Illusion (feat. Tangarine) - acoustic",
-      "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 291706,
       "name": "Julianne",
       "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/2Bw4yItttk3AbNpgCxecrh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 244367,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/601duPbqge25OtknrrS99N"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 254100,
+      "name": "Waiting in the Wings",
+      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
         "name": "Dark Harvest, Pt. 1",
         "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
+        "name": "Po\u00e8te Maudit",
+        "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
       },
       "artists": [
         {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
         }
       ],
-      "duration_ms": 254100,
-      "name": "Waiting in the Wings",
-      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
+      "duration_ms": 167320,
+      "name": "Po\u00e8te Maudit",
+      "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Po\u00e8te Maudit",
-        "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
       },
       "artists": [
         {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Po\u00e8te Maudit",
-      "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
+      "duration_ms": 229347,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
     },
     {
       "added_at": "2025-11-11 14:57:04",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
-      },
-      "artists": [
-        {
-          "name": "Sisy Fos",
-          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
-        }
-      ],
-      "duration_ms": 229347,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
         "name": "Amen (Acoustic)",
         "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
       },
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-11-11 14:57:04",
       "album": {
+        "name": "Kind Of Love",
+        "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
+      },
+      "artists": [
+        {
+          "name": "Kris Berry",
+          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
+        }
+      ],
+      "duration_ms": 234183,
+      "name": "Kind Of Love",
+      "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
+    },
+    {
+      "added_at": "2025-11-11 14:57:04",
+      "album": {
         "name": "Nice To Meet You",
         "url": "https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 187802,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb"
-    },
-    {
-      "added_at": "2025-11-11 14:57:04",
-      "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 236801,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
     }
   ],
   "unique_name": "'t Koffiehuis",

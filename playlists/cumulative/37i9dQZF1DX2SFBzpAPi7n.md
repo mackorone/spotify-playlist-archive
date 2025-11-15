@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 자우림 \(JAURIM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,077 songs - 2 day 17 hr 40 min
+1,079 songs - 2 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Circle](https://open.spotify.com/track/1DKXTYPfxyoGtIe48kTOZn) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Circle](https://open.spotify.com/album/4LiuM6QOgsmRfCVL07SlFu) | 4:30 | 2025-07-28 | 2025-08-07 |
 | [City of Freedom](https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6) | [cloudkreme](https://open.spotify.com/artist/1cxQ8j6yI8hxzcIetvgNx9) | [City of Freedom](https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC) | 3:13 | 2024-11-06 | 2024-12-14 |
 | [Classic \(feat\. MRCH\)](https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW) | [moneto](https://open.spotify.com/artist/2fDgVWeIDSt1EOqFbPRXu7), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Classic](https://open.spotify.com/album/7mN3JTbV6i4xL2LpM8K3g8) | 3:40 | 2022-08-01 | 2022-08-13 |
-| [Cloud](https://open.spotify.com/track/4fOdK6DLy3VcpagzcI2KBt) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cloud](https://open.spotify.com/album/6ZhosGhIGeloPI8TTrOcNv) | 2:39 | 2025-11-03 |  |
+| [Cliché](https://open.spotify.com/track/4ozNmVoyTVIiXQBjN2xDVC) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Cliché](https://open.spotify.com/album/7mRPMtB3ivdGhb60WKFpyA) | 3:05 | 2025-11-14 |  |
+| [Cloud](https://open.spotify.com/track/4fOdK6DLy3VcpagzcI2KBt) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cloud](https://open.spotify.com/album/6ZhosGhIGeloPI8TTrOcNv) | 2:39 | 2025-11-03 | 2025-11-15 |
 | [CLOVER](https://open.spotify.com/track/59RE05wSPwo1OJex4BBJF5) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [CLOVER Part 2.0](https://open.spotify.com/album/5cFhcdTabOikqUttuqhWhX) | 3:05 | 2024-11-06 | 2024-12-14 |
 | [Clumsy](https://open.spotify.com/track/12TW50uDqnqwCrMa51IqyX) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [BREWING LOVE, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/0TJ9DqAJCdoExMzLVeqU5g) | 3:29 | 2024-12-03 | 2025-02-06 |
 | [coii \- Single Version](https://open.spotify.com/track/1f7c2QDWM7KWVQMXmarNbF) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [co\-isolation](https://open.spotify.com/album/4Dayk4y6uYUwI5Ok1Hfxa5) | 5:02 | 2023-10-27 | 2023-11-10 |
@@ -776,6 +777,7 @@
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
 | [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 | 2025-09-07 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 | 2024-11-07 |
+| [sAvioR](https://open.spotify.com/track/0PzdmnKzqWQs1zrCK0PpIW) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<sAvioR>](https://open.spotify.com/album/2rhmlezB7fEfmR6dVEKofA) | 3:42 | 2025-11-14 |  |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2024-05-09 | 2024-11-07 |
 | [Scentria Forest](https://open.spotify.com/track/10pKtFhaP67u3870jeMd7v) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Scentria Forest](https://open.spotify.com/album/7wMKJTDEU0zjQhtJT7ut4x) | 3:37 | 2025-05-07 | 2025-05-09 |
@@ -1000,7 +1002,7 @@
 | [Where's Your Love](https://open.spotify.com/track/1xyniN2EfQDYVTVnts12mG) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Sunflower](https://open.spotify.com/album/3TwaF8hv5hgstxZTL0RGXK) | 3:14 | 2025-11-04 | 2025-11-10 |
 | [White Seoul](https://open.spotify.com/track/2QB8bTfK7eOfaiTqL37SxP) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [White Seoul](https://open.spotify.com/album/30kR7wI3eWvdgmpHHhZnnj) | 3:58 | 2024-12-18 | 2025-03-01 |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-13 |
-| [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-23 |  |
+| [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-23 | 2025-11-15 |
 | [Why You Worry About Me ?](https://open.spotify.com/track/0eFluhjGKP9fuHievmNyHw) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Urb Fisher](https://open.spotify.com/artist/0voTqkcuTrpIN2tZDzYccH) | [Why You Worry About Me ?](https://open.spotify.com/album/2m4lmQ1qIZSspi9kfqjAhH) | 2:32 | 2022-04-12 | 2022-05-08 |
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-06-09 | 2022-06-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-22 |  |

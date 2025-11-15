@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-430 songs - 23 hr 40 min
+432 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [30,000 Feet](https://open.spotify.com/track/0KF5nzdiqZlxVK68MPITst) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 4:16 | 2021-08-05 | 2022-01-20 |
 | [911](https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [911](https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4) | 2:46 | 2022-01-19 | 2024-07-13 |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-19 | 2024-04-19 |
+| [A Minute or Two](https://open.spotify.com/track/174FNfxrSSFxK6FYigDjvm) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [A Minute or Two](https://open.spotify.com/album/1NDqGioWjOyUtMGVqxfA2q) | 3:07 | 2025-11-14 |  |
 | [A Safe Place to Land \(feat\. John Legend\)](https://open.spotify.com/track/55fyE9Q754QhXpmcLtmmam) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:29 | 2021-08-05 | 2022-01-20 |
 | [about her\. again.](https://open.spotify.com/track/4SMHL36a0GQKh8ZuE33cby) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:46 | 2021-08-05 | 2022-01-20 |
 | [Adeline](https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:32 | 2021-08-05 | 2022-01-20 |
@@ -209,7 +210,7 @@
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:29 | 2021-10-26 | 2022-01-20 |
 | [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 | 2022-09-02 | 2023-09-05 |
 | [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 | 2023-09-04 | 2024-02-24 |
-| [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 | 2023-12-01 |  |
+| [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 | 2023-12-01 | 2025-11-15 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-11 | 2022-07-24 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-02-11 | 2023-04-22 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-03 | 2022-01-20 |
@@ -261,7 +262,7 @@
 | [Lucky \(feat\. Emily King\)](https://open.spotify.com/track/10RokxYn1aqGPeKGT5Z1C3) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Lucky \(Deluxe\)](https://open.spotify.com/album/42ejzMaOuiyLrUzaGg433c) | 4:06 | 2022-01-19 | 2023-04-22 |
 | [made for you](https://open.spotify.com/track/3OVfWzWkl7RqsOkysmc5kg) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [made for you](https://open.spotify.com/album/1wMh6vF11HQUcmW45Fwh6k) | 2:52 | 2022-04-01 | 2022-07-18 |
 | [made for you](https://open.spotify.com/track/3cU1L8N85nHKrHEvSx84RX) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:52 | 2022-04-08 | 2023-04-22 |
-| [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 |  |
+| [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 | 2025-11-15 |
 | [MAGIK](https://open.spotify.com/track/6zWdODBjSnvZF3V1i2s8lq) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [MAGIK](https://open.spotify.com/album/3Zj2GG4pPjg4ppByk5iCL5) | 2:36 | 2025-05-16 |  |
 | [Make Someone Happy](https://open.spotify.com/track/1dCS83iZarLD5pdiSM77P6) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Make Someone Happy](https://open.spotify.com/album/7BKVAdt0Hu9UqHceowEMBP) | 1:47 | 2021-08-05 | 2022-01-17 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 |  |
@@ -362,6 +363,7 @@
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2022-01-19 | 2023-04-22 |
 | [State of Flight](https://open.spotify.com/track/21DOy3oZ7aKupTpVADoe09) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [State of Flight](https://open.spotify.com/album/0sunBQLEqyaT1iojx2XoYV) | 3:44 | 2022-04-08 | 2023-06-03 |
 | [Stereoqueen](https://open.spotify.com/track/5qsLUNvI1Ca8dr3lt0p3qm) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Stereoqueen](https://open.spotify.com/album/3s3cGVXwgIHKR5Tu9HwfOc) | 3:43 | 2025-02-14 |  |
+| [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 | 2025-11-14 |  |
 | [Stick Season](https://open.spotify.com/track/0OYbLYm5m3CgPfsKjF4z1X) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Stick Season](https://open.spotify.com/album/4oItNqo0uuq2OFUGEd83Si) | 3:00 | 2024-03-08 | 2024-10-26 |
 | [Storms](https://open.spotify.com/track/2SLUYFuTP916sEvAUDjdDx) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Storms](https://open.spotify.com/album/2iUeeOtZyp0oDyvbESnnwT) | 2:56 | 2021-08-05 | 2022-01-20 |
 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 | 2022-08-05 | 2023-02-25 |

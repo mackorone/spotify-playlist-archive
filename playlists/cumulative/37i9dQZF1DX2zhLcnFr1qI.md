@@ -4,7 +4,7 @@
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-150 songs - 7 hr 54 min
+151 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Santa Baby \(feat\. Jane XØ\)](https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:19 | 2021-12-17 |  |
 | [Santa Claus is Coming to Town](https://open.spotify.com/track/1fsRifOL2vyZHPSrqFruo8) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:05 | 2021-12-17 | 2024-04-19 |
 | [Santa Claus is Coming to Town](https://open.spotify.com/track/6ppTKW0ZDkuf18ckdpMOel) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Santa Claus is Coming to Town](https://open.spotify.com/album/4Ko2Xxk9C8r07qvtVGkFDx) | 2:05 | 2021-12-17 |  |
+| [Santa is a DJ](https://open.spotify.com/track/5NqNZW52JViBdq6qySq2nq) | [chy deep](https://open.spotify.com/artist/3Rgn1N6FniSgfTz9sqnuXp) | [Santa is a DJ](https://open.spotify.com/album/3B7supMx2ocq11Mv7KVt9q) | 2:45 | 2025-11-14 |  |
 | [Santa Tell Me](https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3) | [Santa Tell Me](https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4) | 2:37 | 2023-12-08 |  |
 | [Santa Tell Me](https://open.spotify.com/track/6cTobmqfNHINKoQ6jRYYAD) | [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [An Electronic Christmas](https://open.spotify.com/album/5Xn1YKCazTYhB9YFGXd6SW) | 2:05 | 2023-12-08 | 2023-12-24 |
 | [Santa Tell Me](https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY) | [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [An Electronic Christmas](https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc) | 2:05 | 2022-12-02 | 2023-11-24 |
@@ -134,7 +135,7 @@
 | [The First Noel \(feat\. Gabrielle Current\)](https://open.spotify.com/track/56iX5gfP8z8fhPiYNNysjF) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:53 | 2021-12-17 | 2022-07-28 |
 | [The Snowman \(Walking In The Air\) \[feat\. Mingue\]](https://open.spotify.com/track/0zCwYJPSR5tHyqlB70q5Mb) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [The Snowman \(Walking In The Air\) \[feat\. Mingue\]](https://open.spotify.com/album/3qeaSUEHDtlUOfRxo9HDcJ) | 2:29 | 2023-12-22 |  |
 | [This Christmas Night \(feat\. Dia Frampton\)](https://open.spotify.com/track/0ce4QrpcsOWkMpkami5Ts0) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:19 | 2021-12-17 | 2022-07-27 |
-| [Tropical Holiday](https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [Hoodboi](https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ) | [A Very Decent Christmas 5](https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz) | 4:01 | 2021-12-17 |  |
+| [Tropical Holiday](https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [Hoodboi](https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ) | [A Very Decent Christmas 5](https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz) | 4:01 | 2021-12-17 | 2025-11-15 |
 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 | 2021-12-17 |  |
 | [Underneath The Tree](https://open.spotify.com/track/5jpWarFbAPgAHi7heDAeaJ) | [Mistle Tunes](https://open.spotify.com/artist/7qIJc7vL4C5KovgT0qR3RN) | [Christmas Dance Party Vol\. 2](https://open.spotify.com/album/0xWMPWLiF1VAU72qr96ew2) | 3:26 | 2025-11-11 |  |
 | [WAWA \- Xmas Edition](https://open.spotify.com/track/4ogkYfqk0DRvmQgpghCpEj) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [A Very Decent Christmas 5](https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz) | 2:17 | 2021-12-17 |  |

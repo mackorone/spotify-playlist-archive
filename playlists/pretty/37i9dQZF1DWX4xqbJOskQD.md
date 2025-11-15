@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 10 | [Moments To Remember](https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 3:15 |
 | 11 | [Teach Me Tonight](https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 3:05 |
 | 12 | [Marie](https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT) | [The Bachelors](https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD) | [The Bachelors \- The Decca Years](https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab) | 2:19 |
-| 13 | [Red Roses For A Blue lady](https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv) | [The Ray Conniff Singers](https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy) | [SOMEWHERE MY LOVE \(Love Theme from "Dr\. Zhivago"\) And Other Great Hits](https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7) | 2:29 |
-| 14 | [Tea for Two \(with Axel Stordahl & His Orchestra\)](https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [Tea For Two \(with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio\)](https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv) | 3:11 |
+| 13 | [Tea for Two \(with Axel Stordahl & His Orchestra\)](https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [Tea For Two \(with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio\)](https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv) | 3:11 |
+| 14 | [Red Roses For A Blue lady](https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv) | [The Ray Conniff Singers](https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy) | [SOMEWHERE MY LOVE \(Love Theme from "Dr\. Zhivago"\) And Other Great Hits](https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7) | 2:29 |
 | 15 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
 | 16 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 17 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |

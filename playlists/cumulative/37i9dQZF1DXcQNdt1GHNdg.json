@@ -1055,6 +1055,28 @@
     },
     {
       "album": {
+        "name": "Bhau Flow",
+        "url": "https://open.spotify.com/album/6pTLQrkzuIstrgimGY4SRD"
+      },
+      "artists": [
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "Bhau Flow",
+      "url": "https://open.spotify.com/track/0CfXLJr9A4qrcRkABEJM04"
+    },
+    {
+      "album": {
         "name": "FYI (For Your Information)",
         "url": "https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf"
       },
@@ -2888,6 +2910,32 @@
       "duration_ms": 225158,
       "name": "Gym De Shokeen",
       "url": "https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O"
+    },
+    {
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/73KLRC3DRuQLl3WMxgdVVm"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Fateh Shergill",
+          "url": "https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb"
+        },
+        {
+          "name": "Bull Music",
+          "url": "https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162014,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ"
     },
     {
       "album": {
@@ -4754,7 +4802,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 154482,
       "name": "Own Spotlight",
       "url": "https://open.spotify.com/track/1Lx4BBTcNp3623BVFVk5CM"

@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "WEHMOTIONS",
+        "url": "https://open.spotify.com/album/0FmfuYbQVkIYxXLccCIkXh"
+      },
+      "artists": [
+        {
+          "name": "PATOBO",
+          "url": "https://open.spotify.com/artist/47Xy9sgpBgG2IbxPWSAnib"
+        },
+        {
+          "name": "Panna Pejtsik",
+          "url": "https://open.spotify.com/artist/2eSkSj35EJAiaUt1Uvg4Ft"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174104,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0TLl0EKtJUIgp3H89Wc4Yl"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/274RjiIvWoIG9TyyaMjOTL"
       },

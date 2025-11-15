@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 27 min
+89 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Try](https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:33 | 2024-01-21 |  |
 | [Tua](https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 5:50 | 2023-09-18 |  |
 | [Tão Crazy](https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:09 | 2024-09-11 |  |
-| [Vida de Atriz](https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:48 | 2024-03-17 |  |
+| [Vida de Atriz](https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:48 | 2024-03-17 | 2025-11-15 |
+| [Vida de Atriz](https://open.spotify.com/track/732QVXOOu5EZjyWstNa6VS) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v) | 2:48 | 2025-11-15 |  |
 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 | 2023-09-18 |  |
 | [Xiu!](https://open.spotify.com/track/0NYRFJNrpRDuSIPN3rIXF6) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Xiu!](https://open.spotify.com/album/4o97mTInUQ1tkh8QlbryaB) | 3:17 | 2023-09-18 | 2023-11-11 |
 | [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang \(feat\. Tássia Reis\)](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 | 2023-09-18 |  |

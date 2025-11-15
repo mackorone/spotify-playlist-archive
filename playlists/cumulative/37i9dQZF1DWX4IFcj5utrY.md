@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa\. Cover: Charles Webster
 
-1,397 songs - 5 day 4 hr 9 min
+1,397 songs - 5 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-23 | 2023-03-04 |
 | [Sound Of The Dragonfly](https://open.spotify.com/track/3xJkUQe1KVrO1tqJ7mxC2y) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Sound Of The Dragonfly](https://open.spotify.com/album/1r9GUiZzineJIF19j2ftU6) | 6:19 | 2023-04-06 | 2023-06-17 |
 | [Soundtracks and Heater](https://open.spotify.com/track/56ZRJpnf67zr4Zs2B9aBGk) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Samim](https://open.spotify.com/artist/3iI5B3NF2FdRcRocAKOAPM), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Soundtracks and Heater](https://open.spotify.com/album/1HtwJc4W8OP9YVE9chHzNY) | 3:14 | 2025-02-14 | 2025-02-28 |
+| [Soweto Sunrise](https://open.spotify.com/track/1G2FFft1JdnT5N5nvkIkit) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [From The Hill](https://open.spotify.com/album/4fH1Vj7ZXEPgiEpjH0dEl2) | 8:28 | 2025-11-13 |  |
 | [Spheres](https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Outeniqua](https://open.spotify.com/artist/3wKzi1cig0h6Vmxw0PJsml) | [Spheres](https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly) | 3:50 | 2024-11-07 | 2025-03-08 |
 | [Spirit of Chapita](https://open.spotify.com/track/3PljAdlLnYb9f1dQ3pVp59) | [Modjadeep.SA](https://open.spotify.com/artist/6Ye2N93aETDONpWfyw7E8G) | [The Master](https://open.spotify.com/album/55cCMbL9xkObFU7FOzOjKH) | 5:20 | 2022-07-07 | 2022-11-12 |
 | [Spirit Of Ubuntu](https://open.spotify.com/track/2EhYSRxz7U6TWrnnmO3aKt) | [Ivory Child](https://open.spotify.com/artist/4jsTcZXYvEJt2Gshh6cIPk) | [Polokwane](https://open.spotify.com/album/4yVQqrZ88ad6XIj7xUr8Ar) | 6:26 | 2022-03-03 | 2022-05-06 |
@@ -1214,7 +1215,6 @@
 | [Tonight](https://open.spotify.com/track/70rIvrzenju3C2A53M3cto) | [Ghost](https://open.spotify.com/artist/6tNHdlHpPDgZQp6fa3kbM8) | [Tonight](https://open.spotify.com/album/43Ivx6bjF4vKmjiuqMIb9a) | 3:16 | 2022-07-07 | 2022-07-29 |
 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 | 2025-03-13 | 2025-03-22 |
 | [Touch \- Extended Mix](https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Touch](https://open.spotify.com/album/0OLTA9mEZfUrvsEoiZZ0xV) | 6:13 | 2025-02-14 | 2025-02-28 |
-| [Track 13](https://open.spotify.com/track/1G2FFft1JdnT5N5nvkIkit) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Traffic](https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Traffic](https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf) | 2:59 | 2022-09-22 | 2022-10-14 |
 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 | 2022-03-24 | 2022-06-18 |
 | [Tribal Drums](https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Tribal Drums](https://open.spotify.com/album/6ZWXbOy4XasSJS7RFAz68n) | 7:14 | 2022-07-07 | 2022-07-15 |

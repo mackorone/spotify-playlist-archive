@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-790 songs - 1 day 15 hr 29 min
+791 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Firestarter](https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Lack D](https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB) | [Firestarter](https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN) | 2:51 | 2024-11-22 |  |
 | [First Class](https://open.spotify.com/track/2uh0bkoi1aAfov9AaOMu7R) | [NORTHNIGHT](https://open.spotify.com/artist/0evEuKn6HnhCsJRMjg5LfD) | [First Class](https://open.spotify.com/album/1TPia8OudW1b5kWMT0KV2C) | 2:30 | 2025-11-04 |  |
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-03-17 | 2023-08-10 |
+| [flowers in my head](https://open.spotify.com/track/4nk2uUQA7cuQhpAzh3WkbZ) | [DIECXLD](https://open.spotify.com/artist/0yex2PnkC4hyIoA1FMz1Df), [Prod\. 94](https://open.spotify.com/artist/76aDH2U2OFw00wOWvhK6pk) | [flowers in my head](https://open.spotify.com/album/6op4ENwyqG53kJ33wzOqgk) | 2:05 | 2025-11-14 |  |
 | [Flutter](https://open.spotify.com/track/7cVEshyrawmEYmtqYtwoPy) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Flutter](https://open.spotify.com/album/5LrOkZ1rrpRyeM9Tbd3wJ6) | 4:00 | 2023-08-08 | 2023-12-14 |
 | [Fly](https://open.spotify.com/track/0AvkdeWPdMqjhGsYTwwo21) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY) | [Fly](https://open.spotify.com/album/0aAbSb3VaYpnGozXxfh2zy) | 3:44 | 2023-07-06 | 2023-08-10 |
 | [Follow Back](https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Follow Back](https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0) | 2:04 | 2024-08-02 |  |

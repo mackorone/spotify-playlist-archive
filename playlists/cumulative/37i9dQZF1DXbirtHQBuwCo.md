@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>MIYEON\(미연\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>DIMO REX\)
 
-872 songs - 1 day 22 hr 6 min
+873 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [omg, so what?](https://open.spotify.com/track/7w7yjYakkCuf3gtznG9Cjf) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 2:40 | 2022-04-22 | 2022-07-26 |
 | [On It \(Feat\. Tory Lanez, SOLE, Sik\-K\)](https://open.spotify.com/track/4tc6jFemqDpwwuobpf9dMS) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [On It](https://open.spotify.com/album/2SPO2Os0TOOrpU6PprfJQ4) | 3:03 | 2022-06-16 | 2022-07-05 |
 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 | 2024-03-08 | 2024-03-15 |
+| [ON THE TABLE \(feat\. Sik\-K\)](https://open.spotify.com/track/2ONgnWMIA0KRkyLX6sxkDj) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [ACCEPTANCE](https://open.spotify.com/album/6rA0eGCGQOfo2ci2reUZcV) | 3:15 | 2025-11-14 |  |
 | [On Your Mind](https://open.spotify.com/track/7zbuLxauVIXbIGx14PxAWJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Emi Choi](https://open.spotify.com/artist/7CBR3nH5wFYRbmNAuxZdcU) | [Seoul Vibes Pt.19](https://open.spotify.com/album/69pBAUK07wgu9anA6MKBQ5) | 2:42 | 2022-04-19 | 2022-07-24 |
 | [Once \(feat\. J.O.Y\)](https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Once](https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP) | 3:10 | 2022-09-30 | 2022-10-06 |
 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-06-09 | 2025-01-27 |
@@ -713,7 +714,7 @@
 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 | 2022-12-15 | 2022-12-20 |
 | [Square \(2017\)](https://open.spotify.com/track/0WZhf0isd4av5qlFfKknC3) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:21 | 2022-04-19 | 2022-07-29 |
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 | 2023-07-04 |
-| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-03-05 |  |
+| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-03-05 | 2025-11-15 |
 | [Stay \(Feat\. PARKJIWOO\)](https://open.spotify.com/track/7LVCquuW0xkMqeUi0B8tAz) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:52 | 2022-12-05 | 2022-12-16 |
 | [Stay Calm](https://open.spotify.com/track/42b4FuHhzeh7YmXoBdGcww) | [미래](https://open.spotify.com/artist/2KYWKQ4JtQwTpoHKPjHHxF) | [Stay Calm](https://open.spotify.com/album/6JmnzmTJWA3UplZbe00nU1) | 2:52 | 2025-02-14 | 2025-03-05 |
 | [stay home](https://open.spotify.com/track/6bLwL9kTb0CyfI9cCXJ709) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [home doesn't feel like home](https://open.spotify.com/album/6GRm8QuUULXwczhB4KwLZB) | 3:14 | 2022-09-05 | 2022-09-07 |

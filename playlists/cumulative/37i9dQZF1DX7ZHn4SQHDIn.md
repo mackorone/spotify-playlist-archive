@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-207 songs - 10 hr 47 min
+212 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,11 @@
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po) | 3:41 | 2022-07-22 | 2024-04-19 |
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-30 |  |
 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 |  |
+| [TUNNEL VISION \- 2Spade Remix](https://open.spotify.com/track/3K6zM8kKmnDbarBdlnchMq) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [TUNNEL VISION \(Remixes\)](https://open.spotify.com/album/0OuWGSNT7p16Oa4HpTG4gF) | 2:25 | 2025-11-14 |  |
+| [TUNNEL VISION \- CIFIKA Remix](https://open.spotify.com/track/7zVmlpkJuPcI8sYb3Aez0K) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [TUNNEL VISION \(Remixes\)](https://open.spotify.com/album/0OuWGSNT7p16Oa4HpTG4gF) | 3:16 | 2025-11-14 |  |
+| [TUNNEL VISION \- English Ver.](https://open.spotify.com/track/0Y4jcOrsSxggxuebceYnSW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION \(Remixes\)](https://open.spotify.com/album/0OuWGSNT7p16Oa4HpTG4gF) | 3:04 | 2025-11-14 |  |
+| [TUNNEL VISION \- IMLAY Remix](https://open.spotify.com/track/7pRMLvBy1OrPNsf0MHojrH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [TUNNEL VISION \(Remixes\)](https://open.spotify.com/album/0OuWGSNT7p16Oa4HpTG4gF) | 3:07 | 2025-11-14 |  |
+| [TUNNEL VISION \- R.Tee Remix](https://open.spotify.com/track/6emCSeTthID3uTP9D9C1Dq) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN) | [TUNNEL VISION \(Remixes\)](https://open.spotify.com/album/0OuWGSNT7p16Oa4HpTG4gF) | 2:35 | 2025-11-14 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2CnJMXdMj1uytoZbs4MPbO) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:14 | 2024-01-08 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-08 | 2024-04-19 |
 | [UNTOUCHABLE \(Final Ver.\)](https://open.spotify.com/track/1jtfWC6YrXQPmMfj4oKZNJ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:14 | 2024-10-15 |  |

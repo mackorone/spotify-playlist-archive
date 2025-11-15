@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Anumita Nadesan & Shikhar
+> English songs from Indian artists<br/>Cover: Shriya
 
-358 songs - 20 hr 34 min
+360 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Cool Kids](https://open.spotify.com/track/02xEsJ0ynw9UuAHWluiaPd) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5Fzma3FmQTk5gzE2S7ixv7) | 2:52 | 2023-09-07 | 2023-11-25 |
 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 | 2023-12-07 | 2024-04-19 |
 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 | 2022-03-25 | 2023-09-09 |
+| [Cortado](https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL) | [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [Cortado](https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr) | 2:52 | 2025-11-14 |  |
 | [Could've Been](https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT) | [Could've Been](https://open.spotify.com/album/7BBHLb75DUrEFh9108117K) | 2:47 | 2025-08-23 |  |
 | [Count The Stars](https://open.spotify.com/track/0pdZPMxxAssCeHFthSRFTp) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Count The Stars](https://open.spotify.com/album/19DpRWlsFRFxEeqsi0OYLl) | 2:54 | 2023-02-24 | 2023-03-29 |
 | [Courtside](https://open.spotify.com/track/5TzpCPx20n4hELdE9Vw6ZQ) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Courtside](https://open.spotify.com/album/2SI19jpnxHwAtvjTQbWKWD) | 2:26 | 2023-05-24 | 2025-09-13 |
@@ -101,7 +102,7 @@
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2022-03-25 | 2022-05-26 |
 | [Everywhere](https://open.spotify.com/track/34OGRSpcQOAHsK4pSolDX1) | [Kura Kura Parafin](https://open.spotify.com/artist/3QMTSZ13mw6p679I6n9k9l) | [Everywhere](https://open.spotify.com/album/6wgOecsewd9a3opHmTr0er) | 4:16 | 2023-05-19 | 2023-05-24 |
 | [Excuses](https://open.spotify.com/track/296zmG27fZG8PwW7D5nFTC) | [Soha](https://open.spotify.com/artist/2957japSpMpQX5G9LPjcNN), [TRVR](https://open.spotify.com/artist/6yfMXDFlsExGxvnoIDwSd4) | [Excuses](https://open.spotify.com/album/5FnUbJZVzRkSe9T3ihqXp0) | 2:42 | 2025-10-10 | 2025-10-18 |
-| [Exotic](https://open.spotify.com/track/4SUYaVB5r2N4MzbpIbDN10) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Exotic](https://open.spotify.com/album/3Pftudxj48b9EUkaAvMLcs) | 3:45 | 2025-09-26 |  |
+| [Exotic](https://open.spotify.com/track/4SUYaVB5r2N4MzbpIbDN10) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Exotic](https://open.spotify.com/album/3Pftudxj48b9EUkaAvMLcs) | 3:45 | 2025-09-26 | 2025-11-15 |
 | [EYE\(S\)](https://open.spotify.com/track/4Ah02v3e8R2rt8gQzdlCTH) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [EYE\(S\)](https://open.spotify.com/album/3aOtCz84mZL8Nn9xfg9W8B) | 3:59 | 2023-05-24 | 2024-06-22 |
 | [Faces of The Moon](https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Self Help Radio](https://open.spotify.com/album/7BcuPEUyxXNmRjRIlFX24v) | 4:48 | 2022-03-25 | 2022-05-25 |
 | [Fake it! Shake it! Make it!](https://open.spotify.com/track/6k9UgOQGWGIv04YeobGoSe) | [The Lightyears Explode](https://open.spotify.com/artist/3QYtl7ACJpE5liUDmDfNzm) | [Fake it! Shake it! Make it!](https://open.spotify.com/album/7zuWznUYivQbTphmSXeXOZ) | 3:14 | 2023-09-29 | 2023-10-28 |
@@ -231,7 +232,7 @@
 | [My Last Cigarette](https://open.spotify.com/track/1RAQBHitlcTb4MJVxoLQ2n) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [My Last Cigarette](https://open.spotify.com/album/0t1TJ4kb04P7rcIkVSzue0) | 4:37 | 2025-08-29 |  |
 | [Never](https://open.spotify.com/track/1gfzJ5dFmiciUmt1DXt4ty) | [Sukruth Mallesh](https://open.spotify.com/artist/51tevckKFOo3yISAc0JDh1) | [Never](https://open.spotify.com/album/5Dok14CF9Vg7F9J6NNpohN) | 3:08 | 2022-07-08 | 2023-01-13 |
 | [Never Too Far](https://open.spotify.com/track/22oPuQf99VwEEfaaSYxeSM) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Never Too Far](https://open.spotify.com/album/1QIaH463YykeWPEXofTY9V) | 5:50 | 2024-05-14 | 2024-11-23 |
-| [New](https://open.spotify.com/track/2tRjY1ep1fxnnK4pTRrbv2) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [New](https://open.spotify.com/album/6Et84x5LrcTLZtjG0dtHzV) | 4:25 | 2024-11-22 |  |
+| [New](https://open.spotify.com/track/2tRjY1ep1fxnnK4pTRrbv2) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [New](https://open.spotify.com/album/6Et84x5LrcTLZtjG0dtHzV) | 4:25 | 2024-11-22 | 2025-11-15 |
 | [New \- Acoustic Version](https://open.spotify.com/track/5vEDeWEBfFNwrDH098Q74K) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [New \(Acoustic Version\)](https://open.spotify.com/album/59toSyJnnH2jlKafDkMQbA) | 4:51 | 2023-08-11 | 2023-08-26 |
 | [No Ordinary](https://open.spotify.com/track/3ACxPaQSNKz4WG2V79hOjT) | [Peekay](https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl) | [Starlight](https://open.spotify.com/album/07N9VGEwgaTgx7jlxLO4VJ) | 3:39 | 2023-11-24 | 2024-11-23 |
 | [No Vices](https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Kadambari Zokarkar](https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF), [Pradyumna Singh Manot](https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC), [Charles Parker Mertens](https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0), [Anchit Sengupta](https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i), [Arjun Chakraborty](https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX) | [No Vices](https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq) | 4:24 | 2024-04-24 |  |
@@ -318,6 +319,7 @@
 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 | 2023-03-21 |  |
 | [Swimming](https://open.spotify.com/track/0jf7Z8WEKagWMyIIqioial) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Swimming](https://open.spotify.com/album/4cmTN5VnKA4aMvsMv0IzTQ) | 3:23 | 2022-03-25 | 2023-01-13 |
 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 | 2023-09-15 | 2024-11-23 |
+| [Talk to me](https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv) | [Shriya](https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX), [Noah Cerejo](https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw), [Hersh Desai](https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r) | [Talk to me](https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r) | 2:41 | 2025-11-14 |  |
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-05-24 | 2024-06-22 |
 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 | 2023-05-24 | 2024-08-23 |
 | [Tell Me](https://open.spotify.com/track/2EnHh32MjXPJG2neFnSIZr) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Tell Me](https://open.spotify.com/album/0nKVNPf8IFPSId6o2H7Pvw) | 3:20 | 2025-06-05 | 2025-08-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un autunno non proprio felice \(tommi e moth in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,151 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,225 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 99 | [OLOGRAMMA \(feat\. 18K\)](https://open.spotify.com/track/5qU4xzfQ2OZmMtRBaKLSev) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [TOCCA IL CIELO](https://open.spotify.com/album/4jPzZlabX82iApEx74Zldl) | 2:32 |
 | 100 | [PICCOLO ME](https://open.spotify.com/track/0S564iZQcYuId4KIFVuZmo) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ) | [PICCOLO ME](https://open.spotify.com/album/5Snt4p5P4M773bDR2wUytj) | 2:26 |
 
-Snapshot ID: `AAAAAPQhjOFyeG9UDKSbzaW5rCgTgTe6`
+Snapshot ID: `AAAAAKciw3ZNZTOhvlxQtmOujab92bJT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: DRAIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,963 likes - 125 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,090 likes - 125 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Cherry Red](https://open.spotify.com/track/59rJyUIGLPDqtZvJ0kNELX) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Cherry Red](https://open.spotify.com/album/4vBFQ95UKzW1Fq8IyzD1jH) | 3:06 |
 | 125 | [Automatic](https://open.spotify.com/track/3UMbZWBBN0CSjPHqgaQItA) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Automatic](https://open.spotify.com/album/6uBBKFcKNdrq0fUw0T7Eny) | 2:31 |
 
-Snapshot ID: `AAAAAG/xv2FGsgL3oWbdBdCOfTZqrjJ3`
+Snapshot ID: `AAAAAKoe+NbznXJQoBoP9XYtWC/7vX70`

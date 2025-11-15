@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,002 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,010 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 12 | [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 |
 | 13 | [Bad Decisions & Foreplay](https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Bad Decisions & Foreplay](https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd) | 2:49 |
 | 14 | [Horniwell](https://open.spotify.com/track/5JCtLt4IBW4xPqkCQbAd8h) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Horniwell](https://open.spotify.com/album/1THuhe8DKeitDiHGrbo0Dn) | 3:03 |
-| 15 | [Track 3](https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [ROCK & SLIDE](https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [FRIENDS](https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS) | 2:38 |
 | 16 | [Bipolar \(with Minz\)](https://open.spotify.com/track/75kDsoL9ep9xfGqrnYmPYn) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [TRINITY](https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ) | 2:50 |
 | 17 | [f.u.](https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:12 |
 | 18 | [Get It \(Oou Wee\)](https://open.spotify.com/track/03TcmxQ6A6IeRb0HE0dTGS) | [Nunu Eluma](https://open.spotify.com/artist/60C5hwoLoFJBdVHx6HZZid), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Get It \(Oou Wee\)](https://open.spotify.com/album/29P2AJTS35lUlsaW6ER6u7) | 2:38 |

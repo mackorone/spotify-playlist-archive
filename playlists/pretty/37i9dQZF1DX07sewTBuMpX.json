@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140332,
+  "num_followers": 140321,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Mussulo (feat. Doddy)",
         "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1VUmcEihv7XuiEnWW2b8ap"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 145986,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1osIOdkR2nn1NUTBne4e6D"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Je Bent Leuk",
-        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Je Bent Leuk",
-      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Broski\u2019s",
         "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 170269,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Je Bent Leuk",
+        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Je Bent Leuk",
+      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Dansvloerkiller",
-        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Dansvloerkiller",
-      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Voorzichtig",
-        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+        "name": "Dansvloerkiller",
+        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         }
       ],
-      "duration_ms": 143015,
-      "name": "Voorzichtig",
-      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+      "duration_ms": 188160,
+      "name": "Dansvloerkiller",
+      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1043,6 +1023,26 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Plenty Bars - EP",
         "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 141552,
       "name": "Bushokje",
       "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Love = Scary",
-        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 147090,
-      "name": "Love = Scary",
-      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 172271,
       "name": "Trust",
       "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Love = Scary",
+        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 147090,
+      "name": "Love = Scary",
+      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
     },
     {
       "added_at": "2025-10-15 22:00:08",

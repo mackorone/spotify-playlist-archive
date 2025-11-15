@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165855,
+  "num_followers": 165860,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,34 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
+      },
+      "artists": [
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        },
+        {
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "CHARGIE",
         "url": "https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo"
       },
@@ -675,34 +703,6 @@
       "duration_ms": 136688,
       "name": "System Shock",
       "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
-      },
-      "artists": [
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        },
-        {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        },
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Give Up The Ghost",
-        "url": "https://open.spotify.com/album/1KvEL8BAgXyqxjtLVSVCHB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 254482,
-      "name": "Give Up The Ghost",
-      "url": "https://open.spotify.com/track/1XA8bp2fTfWIucd3SOvWGt"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Hit The Brakes",
         "url": "https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 223213,
       "name": "Hit The Brakes",
       "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Give Up The Ghost",
+        "url": "https://open.spotify.com/album/1KvEL8BAgXyqxjtLVSVCHB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 254482,
+      "name": "Give Up The Ghost",
+      "url": "https://open.spotify.com/track/1XA8bp2fTfWIucd3SOvWGt"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "BODY DROP (Won't Stop)",
+        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "BODY DROP (Won't Stop)",
+      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "MOTION",
         "url": "https://open.spotify.com/album/2nbddblRCfy4MTsOwVoutS"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 193103,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "BODY DROP (Won't Stop)",
-        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "BODY DROP (Won't Stop)",
-      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1755,46 +1755,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Losing Control (VIP)",
-        "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Nersha",
-          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Losing Control - VIP",
-      "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/30eaztlyRT2WzhZU2xsxA7"
-      },
-      "artists": [
-        {
-          "name": "Dennett",
-          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/5pT04hSz0CdiqdtyX0Znwy"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Voicenote Violence",
         "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
       },
@@ -1827,6 +1787,46 @@
       "duration_ms": 188965,
       "name": "THE WAY I ROLL",
       "url": "https://open.spotify.com/track/4Hiddy4c4DbTR0HyBycuQQ"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/30eaztlyRT2WzhZU2xsxA7"
+      },
+      "artists": [
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/5pT04hSz0CdiqdtyX0Znwy"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Losing Control (VIP)",
+        "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Nersha",
+          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Losing Control - VIP",
+      "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1923,30 +1923,18 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/5OQ23gjOohCUumTTdlv1g4"
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
       },
       "artists": [
         {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        },
-        {
-          "name": "Azotix",
-          "url": "https://open.spotify.com/artist/5ZdqCYEicA2uEyan7znlKI"
-        },
-        {
-          "name": "Blocksberg",
-          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
         }
       ],
-      "duration_ms": 260032,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/6Hx5g5BqynRUgdzOtjFWYh"
+      "duration_ms": 226206,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
     },
     {
       "added_at": "2025-11-14 00:00:20",

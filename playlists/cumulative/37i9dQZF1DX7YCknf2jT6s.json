@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Aaron Parks",
+  "description": "New jazz for open minds. Cover: Theo Croker",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -702,6 +702,28 @@
       "duration_ms": 281877,
       "name": "a path to bliss",
       "url": "https://open.spotify.com/track/3kbuCQdWh7IVhlO50gkkRd"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1OjLx8J4i6GhNLBIJztwnC"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174680,
+      "name": "A Prayer for Peace",
+      "url": "https://open.spotify.com/track/5R3e5tMI5Ugr2HCzH90hpx"
     },
     {
       "album": {
@@ -5854,7 +5876,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 333800,
       "name": "B\u00e9tiyata",
       "url": "https://open.spotify.com/track/4z238fG0L0ovQkX897cMaY"
@@ -10203,6 +10225,28 @@
     },
     {
       "album": {
+        "name": "In The Age Of Data",
+        "url": "https://open.spotify.com/album/4M0EzsBZuTnzq7tcE9Ezty"
+      },
+      "artists": [
+        {
+          "name": "Move 78",
+          "url": "https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr"
+        },
+        {
+          "name": "Monica Mussungo",
+          "url": "https://open.spotify.com/artist/1keDfNbTVduTl02p1NxfkU"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Dusty But Digital pt.3 - Dusty But Digital",
+      "url": "https://open.spotify.com/track/15ccg03xENvbgTdtw2OBfs"
+    },
+    {
+      "album": {
         "name": "DYKWYD [Feat. Braxton Cook]",
         "url": "https://open.spotify.com/album/3wHESbXbqvwTjgHzxbWaE4"
       },
@@ -11470,7 +11514,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 200662,
       "name": "eyes wide open (noema)",
       "url": "https://open.spotify.com/track/3qOaqv0ohk5t5LHQorLNqL"
@@ -23908,7 +23952,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 263426,
       "name": "No Breakfast",
       "url": "https://open.spotify.com/track/0Ksmp4GMe5ehiB5M9hlZkE"
@@ -30275,6 +30319,28 @@
     },
     {
       "album": {
+        "name": "sMiLes",
+        "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174023,
+      "name": "SHouLd I sMiLe?",
+      "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
+    },
+    {
+      "album": {
         "name": "Shoulder Pads",
         "url": "https://open.spotify.com/album/2gvT094jLx3InulbrURGdb"
       },
@@ -31514,6 +31580,32 @@
       "duration_ms": 282232,
       "name": "Soul Journey",
       "url": "https://open.spotify.com/track/0H1zabAPVUnyG7jaEzGLya"
+    },
+    {
+      "album": {
+        "name": "Dream Manifest (Deluxe)",
+        "url": "https://open.spotify.com/album/2uDCxHtu7bhQpShfCYKFVs"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161763,
+      "name": "sound(e)scape",
+      "url": "https://open.spotify.com/track/1L7JoVsDMBVNLGUxeDczCV"
     },
     {
       "album": {

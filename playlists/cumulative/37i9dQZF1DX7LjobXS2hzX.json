@@ -1951,6 +1951,28 @@
     },
     {
       "album": {
+        "name": "Cash Fly",
+        "url": "https://open.spotify.com/album/1eIddmbx53Li3GWWe0YZ6a"
+      },
+      "artists": [
+        {
+          "name": "Lights058",
+          "url": "https://open.spotify.com/artist/36MwzuH4MpuCab4p6wXSuq"
+        },
+        {
+          "name": "Playbe",
+          "url": "https://open.spotify.com/artist/26rIuyFJ8XZDDEMjihm2BI"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Cash Fly",
+      "url": "https://open.spotify.com/track/2WbfgQZBWYy1tjH0LyMf2v"
+    },
+    {
+      "album": {
         "name": "Ce soir (j'suis dans ma t\u00eate)",
         "url": "https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e"
       },
@@ -3406,7 +3428,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 246356,
       "name": "Eldest Daughter",
       "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"

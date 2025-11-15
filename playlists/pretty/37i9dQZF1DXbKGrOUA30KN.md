@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: NESS
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,563 likes - 90 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,672 likes - 90 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 40 | [Mann im Mond](https://open.spotify.com/track/23G9Y9YjFY7faYiVt292F5) | [Tuana](https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv) | [Mann im Mond](https://open.spotify.com/album/4ZMXm6mHBBsyJvxIk2yWqH) | 2:40 |
 | 41 | [Versprechen](https://open.spotify.com/track/5KswjIWT5BL9qaNyKMUZgL) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Versprechen](https://open.spotify.com/album/4sKPaOA5U8BLNtnyizYvLe) | 2:49 |
 | 42 | [Spiegelbild](https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Spiegelbild](https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695) | 2:37 |
-| 43 | [Track 5](https://open.spotify.com/track/3uDM7IKGuOdfXtoLyjI4OR) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [](https://open.spotify.com/album/null) | 0:00 |
+| 43 | [deine hand](https://open.spotify.com/track/3uDM7IKGuOdfXtoLyjI4OR) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [wir reden nicht mehr miteinander](https://open.spotify.com/album/6y5wK08A81EyjbQPQEDaiq) | 3:07 |
 | 44 | [Hast du kurz Zeit](https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Hast du kurz Zeit](https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ) | 2:13 |
 | 45 | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/track/4YRZjTbW4ZKJvlKkxDNSZm) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/album/0HwmC3bl3rmAWjUh2yevdm) | 2:25 |
 | 46 | [heute nacht sind die hühner wild](https://open.spotify.com/track/41dXUCPkQVcRppmgCbqE15) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [heute nacht sind die hühner wild](https://open.spotify.com/album/5o4YTqa6bW2douWyhKh6I1) | 2:48 |

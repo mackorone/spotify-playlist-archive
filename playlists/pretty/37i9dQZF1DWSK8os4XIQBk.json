@@ -1,12 +1,12 @@
 {
   "description": "Luke Combs and the biggest hits in country music.",
-  "num_followers": 560682,
+  "num_followers": 560688,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwYyBqB5+Gsi+5Es0Uiht7En3ms",
+  "snapshot_id": "AAAAAHtFVvajkQV0HNW4vPRLtn/qzciC",
   "tracks": [
     {
       "added_at": "2025-08-22 02:03:20",
@@ -23,6 +23,38 @@
       "duration_ms": 213062,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+    },
+    {
+      "added_at": "2025-10-02 21:58:14",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "I Got Better",
+      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+    },
+    {
+      "added_at": "2025-10-02 21:58:14",
+      "album": {
+        "name": "Hate How You Look",
+        "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 194364,
+      "name": "Hate How You Look",
+      "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
     },
     {
       "added_at": "2025-10-02 21:58:14",
@@ -45,36 +77,24 @@
       "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
     },
     {
-      "added_at": "2025-10-02 21:58:14",
+      "added_at": "2025-07-31 19:57:56",
       "album": {
-        "name": "Hate How You Look",
-        "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 194364,
-      "name": "Hate How You Look",
-      "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
-    },
-    {
-      "added_at": "2025-10-02 21:58:14",
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        },
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 204963,
-      "name": "I Got Better",
-      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+      "duration_ms": 215701,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -113,6 +133,22 @@
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+    },
+    {
       "added_at": "2025-07-04 04:00:19",
       "album": {
         "name": "Somebody I Know",
@@ -127,54 +163,6 @@
       "duration_ms": 180633,
       "name": "Somebody I Know",
       "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "still hungover",
-        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "weren't for the wind",
-      "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "Middle Of The Bed",
-        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Middle Of The Bed - Single Version",
-      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
-    },
-    {
-      "added_at": "2025-07-31 19:57:56",
-      "album": {
-        "name": "I'm Leavin' You",
-        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 152915,
-      "name": "I'm Leavin' You",
-      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
     },
     {
       "added_at": "2025-10-24 02:10:14",
@@ -195,6 +183,38 @@
     {
       "added_at": "2025-07-04 04:00:19",
       "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+    },
+    {
+      "added_at": "2025-07-31 19:57:56",
+      "album": {
+        "name": "I'm Leavin' You",
+        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 152915,
+      "name": "I'm Leavin' You",
+      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+    },
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2025-07-31 19:57:56",
-      "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
-      },
-      "artists": [
-        {
-          "name": "Nate Haller",
-          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 215701,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
+    },
+    {
       "added_at": "2025-07-31 19:57:56",
       "album": {
         "name": "Later Tonight",
@@ -297,6 +313,38 @@
       "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
     },
     {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "Rally Around",
+        "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 159468,
+      "name": "Rally Around",
+      "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Middle Of The Bed",
+        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Middle Of The Bed - Single Version",
+      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+    },
+    {
       "added_at": "2025-07-04 04:00:19",
       "album": {
         "name": "Not At This Party",
@@ -311,6 +359,38 @@
       "duration_ms": 212437,
       "name": "Not At This Party",
       "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+    },
+    {
+      "added_at": "2025-11-14 18:54:59",
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/7xB11hfwSgXw0xPcEgJro7"
+      },
+      "artists": [
+        {
+          "name": "Brock Phillips",
+          "url": "https://open.spotify.com/artist/3AdkQoDWIwHRHuWTqn96AI"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Something Else",
+      "url": "https://open.spotify.com/track/2yXDFQweqY6qi4wVVkXzMT"
+    },
+    {
+      "added_at": "2025-07-04 04:00:19",
+      "album": {
+        "name": "Somewhere Over Laredo",
+        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -469,38 +549,6 @@
       "url": "https://open.spotify.com/track/7FdWBc0RRt4joQxSSJUnG0"
     },
     {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
-    },
-    {
       "added_at": "2025-07-04 04:00:19",
       "album": {
         "name": "Worth The Double",
@@ -515,38 +563,6 @@
       "duration_ms": 171657,
       "name": "Worth The Double",
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "2 Pair",
-        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 151534,
-      "name": "2 Pair",
-      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -619,22 +635,6 @@
     {
       "added_at": "2025-07-18 04:01:06",
       "album": {
-        "name": "Rally Around",
-        "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
-      },
-      "artists": [
-        {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
-        }
-      ],
-      "duration_ms": 159468,
-      "name": "Rally Around",
-      "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
-    },
-    {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
         "name": "Let Your Horses Run - The Album",
         "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 195959,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
+    },
+    {
+      "added_at": "2025-11-14 18:54:59",
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1GIHpTihLalWrEw8qi07RJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "duration_ms": 155332,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -803,22 +819,6 @@
       "duration_ms": 150218,
       "name": "Small Town Girls",
       "url": "https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Chainsmokin Memories",
-        "url": "https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 177967,
-      "name": "Chainsmokin Memories",
-      "url": "https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz"
     },
     {
       "added_at": "2025-07-04 04:00:19",

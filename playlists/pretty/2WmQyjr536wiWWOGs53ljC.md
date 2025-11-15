@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 
 > REINVENTED IN 2024\. FEATURING: Joshua Lanuarii, Kittydog, Squiblers, MouSa, nbmusic &amp; Vincent &amp; The Black Rabbit.
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 30 likes - 118 songs - 6 hr 46 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 30 likes - 119 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 | 116 | [DAMSEL IN DISTRESS](https://open.spotify.com/track/6aypVvoftS3gKkBE5WJE3Y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [NotSoFinest](https://open.spotify.com/artist/2Uk2YETdcoV8fXzX2DUnwQ) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:01 |
 | 117 | [LAMENT](https://open.spotify.com/track/3Cv0icGRvbEqGW2rjNvx0C) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:52 |
 | 118 | [Heyyy](https://open.spotify.com/track/75vHzcntF1WRrRh5yCLxei) | [MaskBoi X](https://open.spotify.com/artist/2ZyPKZF7fHCV4iQG7Bw7wm), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heyyy](https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb) | 3:36 |
+| 119 | [GET AWAY WITH MURDER](https://open.spotify.com/track/4UfV0QR8WGVjcNFZas4JfR) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e), [Asterr](https://open.spotify.com/artist/79baYpVN5bf0u38KkcG2LM), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [GET AWAY WITH MURDER](https://open.spotify.com/album/5gNZYoUZcDtyC0MJ31EFRM) | 4:42 |
 
-Snapshot ID: `AAACbw0bY+Ww5YQ0VoOqrqVPTFvY0vT6`
+Snapshot ID: `AAACcH606rf///8wzSgsi4y/MPTiw8JJ`

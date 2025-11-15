@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Natasha Humera Ejaz, Ansar, Sarmad Ghafoor",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Hamza Malik,  Anumpta Sabri",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 321227,
       "name": "Aap Ki Yaad, 2.0",
       "url": "https://open.spotify.com/track/4HbnrDaNkW6CDwdHfYEGr8"
+    },
+    {
+      "album": {
+        "name": "Aazma Le",
+        "url": "https://open.spotify.com/album/1q87hIrvBT7hbI1mTJdcXE"
+      },
+      "artists": [
+        {
+          "name": "Fakhar Abbas",
+          "url": "https://open.spotify.com/artist/7L8VPgAXW4fcZBFgtkAAEb"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Aazma Le",
+      "url": "https://open.spotify.com/track/38lni6W28qtzIL6Y78l6Uu"
     },
     {
       "album": {
@@ -1279,6 +1297,32 @@
     },
     {
       "album": {
+        "name": "Deewanay",
+        "url": "https://open.spotify.com/album/4PCgfYKGKPoGVeCvbik0Ll"
+      },
+      "artists": [
+        {
+          "name": "Najaf Ali",
+          "url": "https://open.spotify.com/artist/5D04BKowdcEciyByNMzAEX"
+        },
+        {
+          "name": "Fizza Raees",
+          "url": "https://open.spotify.com/artist/6V9gyN683unD16WBRIUAzK"
+        },
+        {
+          "name": "Kabeer Khan",
+          "url": "https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Deewanay",
+      "url": "https://open.spotify.com/track/62hljcrKCkiXH8Xxt8HPA9"
+    },
+    {
+      "album": {
         "name": "Dhanak",
         "url": "https://open.spotify.com/album/0RjXxcFf9i2XMMbF2Tsxh8"
       },
@@ -1928,7 +1972,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 157333,
       "name": "Future Zindagi",
       "url": "https://open.spotify.com/track/3ASTZlwaXJGQhAzbTGJCI4"
@@ -2574,7 +2618,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 171764,
       "name": "Iraaday",
       "url": "https://open.spotify.com/track/1vesWA1kY7un9O7AwK29bJ"
@@ -3148,7 +3192,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 247210,
       "name": "Karzar-e-dua - Original Score",
       "url": "https://open.spotify.com/track/3J2oIhQGZFuQZS4b0WU51g"
@@ -3196,6 +3240,32 @@
       "duration_ms": 181212,
       "name": "Khairaat",
       "url": "https://open.spotify.com/track/1fu5ZWOJIlN2WxRXUu1PJP"
+    },
+    {
+      "album": {
+        "name": "KHAT",
+        "url": "https://open.spotify.com/album/0Yc93fOJGWuvjKIoEmsEhV"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Hassan Rai",
+          "url": "https://open.spotify.com/artist/7mdBGoLdvF4OqvedvcgiuE"
+        },
+        {
+          "name": "Qasim Dahir",
+          "url": "https://open.spotify.com/artist/1yk4ylocCYUE7BP6mwRNar"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "KHAT",
+      "url": "https://open.spotify.com/track/57wCsgKjm7TNHgvLmyy7ny"
     },
     {
       "album": {
@@ -3784,7 +3854,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 203999,
       "name": "madham",
       "url": "https://open.spotify.com/track/78Lcy4BnXzj2nCj3CPSuWV"
@@ -4048,6 +4118,32 @@
       "duration_ms": 138181,
       "name": "Meri Ho",
       "url": "https://open.spotify.com/track/4A26yugsWmBVHLDj9NZlNr"
+    },
+    {
+      "album": {
+        "name": "Midnight Regrets",
+        "url": "https://open.spotify.com/album/4RCa4RgbqkgQCtuSffGKHt"
+      },
+      "artists": [
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        },
+        {
+          "name": "Syed Hamza",
+          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
+        },
+        {
+          "name": "Aalehaider Gillani",
+          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Midnight Regrets",
+      "url": "https://open.spotify.com/track/1O1tsLBD69WAnThgyrIsob"
     },
     {
       "album": {
@@ -4762,6 +4858,32 @@
       "duration_ms": 177567,
       "name": "Over You",
       "url": "https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v"
+    },
+    {
+      "album": {
+        "name": "Over You Reprise (feat. Sabri Sisters)",
+        "url": "https://open.spotify.com/album/6oaT8pnAVs6GlK2sIO80dd"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Kabeer Khan",
+          "url": "https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt"
+        },
+        {
+          "name": "Sabri Sisters",
+          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136148,
+      "name": "Over You Reprise (feat. Sabri Sisters)",
+      "url": "https://open.spotify.com/track/5mPlgGQwqjWMDtnq7tuM2n"
     },
     {
       "album": {
@@ -5736,7 +5858,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 166212,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/2ChR4qGCisHjtotYR3A7E2"
@@ -6832,7 +6954,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 168960,
       "name": "Tum Hi Na Samjhe - A Letter To",
       "url": "https://open.spotify.com/track/2qDvITQxLQ2iXCMgFvH5Ai"

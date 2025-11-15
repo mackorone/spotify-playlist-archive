@@ -314,24 +314,6 @@
     {
       "album": {
         "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "date_added": "2025-03-02",
-      "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
-      "duration_ms": 240742,
-      "name": "Evan Finds the Third Room",
-      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
-    },
-    {
-      "album": {
-        "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
       },
       "artists": [
@@ -342,10 +324,28 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 240742,
       "name": "Evan Finds the Third Room",
       "url": "https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9"
+    },
+    {
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2025-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240743,
+      "name": "Evan Finds the Third Room",
+      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
     },
     {
       "album": {

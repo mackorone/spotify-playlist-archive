@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-145 songs - 7 hr 51 min
+150 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Boy and the Swan](https://open.spotify.com/track/1RZSLpEvLkZ0mhYygJT6tZ) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Boy and the Swan](https://open.spotify.com/album/5aZ6bNwi9LwOujAYVBBjN6) | 3:38 | 2025-11-07 |  |
 | [Can't Take You Home](https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [Can't Take You Home](https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4) | 3:01 | 2025-07-18 |  |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2025-07-18 | 2025-08-23 |
+| [Castle](https://open.spotify.com/track/2eMMH266cKho4MCyl4GV6A) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Castle](https://open.spotify.com/album/0gh6Lpziw1KnjvGMjLtqaw) | 2:50 | 2025-11-14 |  |
 | [Catch 22](https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Catch 22](https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv) | 3:17 | 2025-07-18 | 2025-10-18 |
 | [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Chance Encounter](https://open.spotify.com/album/3ySvgHcZ8wqWDy6QbYskim) | 3:27 | 2025-10-31 |  |
 | [Cincinnati Heart](https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Cincinnati Heart](https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS) | 2:51 | 2025-07-18 |  |
@@ -37,6 +38,7 @@
 | [Coming of Age](https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Coming of Age](https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP) | 3:16 | 2025-07-18 |  |
 | [Crazy](https://open.spotify.com/track/4J96RsI1RWyl3KRTtJ9GLC) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/1UQXwn8i2zfy4e0KlbOq5g) | 3:10 | 2025-07-18 |  |
 | [danny don't](https://open.spotify.com/track/3PtMxHx8skkd05SSfBOgYk) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [danny don't](https://open.spotify.com/album/3ecARtzyeGy9gtmq3iqRuR) | 3:51 | 2025-07-18 | 2025-08-30 |
+| [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:08 | 2025-11-14 |  |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2025-07-18 | 2025-08-23 |
 | [Die Light](https://open.spotify.com/track/0QzB4LiVyEA1yvvt4Ll2mR) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Die Light](https://open.spotify.com/album/5zKU8JHJgD8DBU7whj7K5K) | 2:55 | 2025-07-18 | 2025-08-23 |
 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 | 2025-07-18 | 2025-10-18 |
@@ -86,6 +88,7 @@
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-07-18 |  |
 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 | 2025-07-18 |  |
 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 | 2025-09-05 |  |
+| [MAXIMAAL](https://open.spotify.com/track/5iCQpTzPYPLzuE8IieY2yE) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [MAXIMAAL](https://open.spotify.com/album/4p3yfT7bwha4i8kwT8EKrk) | 2:30 | 2025-11-14 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-07-18 |  |
 | [Medusa \(Acoustic\)](https://open.spotify.com/track/4MnYLHydHtkAF9CrIIcjHU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa \(Acoustic\)](https://open.spotify.com/album/75qB8x7iB50qcq00Y5thmR) | 3:03 | 2025-07-18 |  |
 | [Miracle](https://open.spotify.com/track/1BxvWP9iODgryOG53TojYS) | [Mufaro](https://open.spotify.com/artist/6rCjN8curntY3lqk8cLnlU) | [Wayfindr](https://open.spotify.com/album/1NE21Tiitf0unIlXMnSJXf) | 2:49 | 2025-09-05 |  |
@@ -110,7 +113,9 @@
 | [Rule My World](https://open.spotify.com/track/2fN6zJClsuH8SXqBbAVC3S) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Declaration Of Dependence](https://open.spotify.com/album/6HdLcKjSVbImVaqAduttER) | 3:31 | 2025-07-18 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2025-07-18 |  |
 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 | 2025-09-12 |  |
+| [Sheets](https://open.spotify.com/track/1D0q5fhJVl1xhRXNrvOFkb) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Sheets](https://open.spotify.com/album/618meN4oNgOw0RVYpiVZof) | 2:23 | 2025-11-14 |  |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-08-22 |  |
+| [Signs](https://open.spotify.com/track/52D5HEMZJFT2w0mUxtIGQp) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 4:41 | 2025-11-14 |  |
 | [Simple Life](https://open.spotify.com/track/27LKcnqzk6ckyQylQNUv91) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/7uen16WfzBE3uzKdIgei4y) | 1:33 | 2025-08-29 |  |
 | [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 | 2025-08-09 |
 | [Socrates Smiled](https://open.spotify.com/track/7KnPqZ12WBmU8GJUy3ljAM) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Hand Me Downs](https://open.spotify.com/album/6lNeNrAgIn9yjmxeJRDdwq) | 3:07 | 2025-09-26 |  |

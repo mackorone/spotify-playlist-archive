@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107538,
+  "num_followers": 107540,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADrVkCOy8NeG4GdOB0j3gIL",
+  "snapshot_id": "aRUfgAAAAADVrfMKndjY7Um7JsTEeega",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 244106,
-      "name": "Al Jouw Woorden Zijn Teveel",
-      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 234533,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "Al Jouw Woorden Zijn Teveel",
+      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Hoogste Tijd",
-      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 217333,
       "name": "Ja Dat Ben Jij",
       "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Hoogste Tijd",
+      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
     },
     {
       "added_at": null,

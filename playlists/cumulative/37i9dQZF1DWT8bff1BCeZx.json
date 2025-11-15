@@ -6223,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "I Testify",
+        "url": "https://open.spotify.com/album/58BPhnWSytQrC4U7RcXMjm"
+      },
+      "artists": [
+        {
+          "name": "Minister Prudence",
+          "url": "https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317041,
+      "name": "I Testify",
+      "url": "https://open.spotify.com/track/7AvuYiR2BFdr18GMyM3d5b"
+    },
+    {
+      "album": {
         "name": "I Will Not Keep Silent (My Matter)",
         "url": "https://open.spotify.com/album/3AY3OLlw3DuQxV8msbm5XL"
       },
@@ -13544,24 +13562,6 @@
       "duration_ms": 167225,
       "name": "Tout nouveau tout beau",
       "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Minister Prudence",
-          "url": "https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5"
-        }
-      ],
-      "date_added": "2025-11-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/7AvuYiR2BFdr18GMyM3d5b"
     },
     {
       "album": {

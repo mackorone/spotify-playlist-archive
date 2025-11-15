@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: Hammy Muzic",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Sumit Parta & Panther",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -6817,6 +6817,28 @@
     },
     {
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/1StVcm1cTJMQ3z7u35Y9zL"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164331,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/0rPb6Q9elzJAXhNPeDTkzO"
+    },
+    {
+      "album": {
         "name": "MAZE",
         "url": "https://open.spotify.com/album/3ygU8ayVrj48jwRkPcNsAI"
       },
@@ -7120,7 +7142,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 149038,
       "name": "Muqabla",
       "url": "https://open.spotify.com/track/32ewgb2rlylsOi7SYJM0Ls"
@@ -7680,6 +7702,24 @@
       "duration_ms": 172666,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6r1TU60kDywJuu3EPrwHLe"
+    },
+    {
+      "album": {
+        "name": "Nobody Came",
+        "url": "https://open.spotify.com/album/1iXORSbAg47qMgTz4a8Bdg"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Nobody Came",
+      "url": "https://open.spotify.com/track/2HMVgVLQmZYK9eTY9DrqUx"
     },
     {
       "album": {
@@ -8830,7 +8870,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 197142,
       "name": "Russian Bandana",
       "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"

@@ -2591,6 +2591,28 @@
     },
     {
       "album": {
+        "name": "Dithapelo",
+        "url": "https://open.spotify.com/album/0tIHP5qsfQrfxI5Z5kunWz"
+      },
+      "artists": [
+        {
+          "name": "Maleh",
+          "url": "https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i"
+        },
+        {
+          "name": "Mzizi",
+          "url": "https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313786,
+      "name": "Dithapelo",
+      "url": "https://open.spotify.com/track/4KV4VcZa7EkORRpKvQFrMD"
+    },
+    {
+      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },

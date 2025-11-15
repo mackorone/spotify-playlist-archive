@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 581160,
+  "num_followers": 581127,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-11-13 07:16:04",
       "album": {
+        "name": "Kalapastangan",
+        "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Kalapastangan",
+      "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
+    },
+    {
+      "added_at": "2025-11-13 07:16:04",
+      "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 326813,
       "name": "Magbalik",
       "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2025-11-13 07:16:04",
-      "album": {
-        "name": "Kalapastangan",
-        "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
-      },
-      "artists": [
-        {
-          "name": "fitterkarma",
-          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Kalapastangan",
-      "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
     },
     {
       "added_at": "2025-11-13 07:16:04",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-11-13 07:16:04",
       "album": {
+        "name": "Libu-Libong Buwan (Uuwian)",
+        "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
+      },
+      "artists": [
+        {
+          "name": "Kyle Raphael",
+          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
+        }
+      ],
+      "duration_ms": 178488,
+      "name": "Libu-Libong Buwan (Uuwian)",
+      "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
+    },
+    {
+      "added_at": "2025-11-13 07:16:04",
+      "album": {
         "name": "Hoodie (feat. Alisson Shore)",
         "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 242800,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
-    },
-    {
-      "added_at": "2025-11-13 07:16:04",
-      "album": {
-        "name": "Libu-Libong Buwan (Uuwian)",
-        "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
-      },
-      "artists": [
-        {
-          "name": "Kyle Raphael",
-          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
-        }
-      ],
-      "duration_ms": 178488,
-      "name": "Libu-Libong Buwan (Uuwian)",
-      "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
     },
     {
       "added_at": "2025-11-13 07:16:04",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-11-13 07:16:04",
       "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
       },
       "artists": [
         {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+      "duration_ms": 201168,
+      "name": "Paru-Paro",
+      "url": "https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW"
     },
     {
       "added_at": "2025-11-13 07:16:04",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-11-13 07:16:04",
       "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+    },
+    {
+      "added_at": "2025-11-13 07:16:04",
+      "album": {
         "name": "tila tala",
         "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 281296,
       "name": "tila tala",
       "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
-    },
-    {
-      "added_at": "2025-11-13 07:16:04",
-      "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "Paru-Paro",
-      "url": "https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW"
     },
     {
       "added_at": "2025-11-13 07:16:04",

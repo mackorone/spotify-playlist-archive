@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,182 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,232 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 42 | [Ja Ve Pardesia](https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 5:45 |
 | 43 | [Terian Mithian Gallan Da](https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 15:19 |
 | 44 | [Nit Khair Manga Sohneya](https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 15:19 |
-| 45 | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza) | 3:08 |
+| 45 | [Waseeley \- From the Album "Travel Diaries Vol\. 3",](https://open.spotify.com/track/2WtPwGI1T7bJbDSenGI6kL) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Waseeley](https://open.spotify.com/album/4oBhvtGKsvhNUB2ZurPoPb) | 8:40 |
 | 46 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/1PDD7lDnoAjH3QqbWwwHFu) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 3:49 |
 | 47 | [Goriye Main Jana Pardes](https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Merian Gallan Yaad Karengi](https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm) | 5:29 |
 | 48 | [Jo Tere Gham Nu](https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [The Most Sad Songs](https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi) | 5:12 |

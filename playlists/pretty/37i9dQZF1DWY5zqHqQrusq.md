@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Caleb Awiti
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,046 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,048 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 10 | [Ntakutunza \(Hadi Umsahau\)](https://open.spotify.com/track/63vI6WXyNAcT5k849dnJUC) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 4:07 |
 | 11 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 |
 | 12 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
-| 13 | [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 |
+| 13 | [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [DENO](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 |
 | 14 | [I HATED YOUR RELATIONSHIP](https://open.spotify.com/track/7fl8eAcXmlSiKH0fsaKglK) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [I WISH I WAS HONEST](https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J) | 1:42 |
 | 15 | [i know](https://open.spotify.com/track/3ZVZLVsnBgO9ZnUhW7T2vo) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [i know](https://open.spotify.com/album/2AW9K8AgMIMT7dnXxYtQ1A) | 3:36 |
 | 16 | [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 |

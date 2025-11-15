@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Keli Holiday
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,260 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,262 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 49 | [Frake](https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Frake](https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS) | 3:17 |
 | 50 | [Strobe](https://open.spotify.com/track/3Gbte7C9NyAmMCZDPWhooG) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Strobe](https://open.spotify.com/album/3qkSUHnLlZsRPqqXAZ1tQF) | 3:40 |
 
-Snapshot ID: `AAAAAOxb16KuEWwedComMJtdSHmbvJqw`
+Snapshot ID: `AAAAAGOGMH0bYmn6EGinkBvBwt/PVZSJ`

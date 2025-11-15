@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Chad Powers, now streaming on Hulu.
 
-175 songs - 8 hr 31 min
+177 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Mother's Influence](https://open.spotify.com/track/5nnv5nci7rosFObNZVUVRq) | [Sion Trefor](https://open.spotify.com/artist/2a5yyDrTuWCLGXOIGLpnBt) | [Say Nothing \(Original Soundtrack\)](https://open.spotify.com/album/0GYiPIg7l2jDeM74lqlYjF) | 2:41 | 2024-11-15 |  |
 | [Alien \- Earth](https://open.spotify.com/track/7v5pjaMvpZ6TL3exjqQfrU) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Alien: Earth \(Original Soundtrack\)](https://open.spotify.com/album/29rW2ZaHjqfTtHN5CbZJIN) | 2:38 | 2025-08-15 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/10PM0z82JBTm34E0Jikpvm) | [Gabriel Mann](https://open.spotify.com/artist/33dnQjRlbxp0FzvlNpy50B) | [A Million Little Things: Season 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/49xVXnOn5JDk8C4bCThLEd) | 3:45 | 2025-05-06 |  |
+| [Amanda's Theme](https://open.spotify.com/track/774w1lUJ1YSxx06rOn6m49) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [The Twisted Tale of Amanda Knox \(Original Soundtrack\)](https://open.spotify.com/album/1oslXD08slfLiFZMaAcFiy) | 4:16 | 2025-11-14 |  |
 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 | 2024-01-05 | 2024-07-03 |
 | [Angel in Flip\-Flops \- From "Only Murders in the Building"](https://open.spotify.com/track/35a0b8D7gUMVCuaEB6uHRm) | [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih) | [Angel in Flip\-Flops \(From "Only Murders in the Building"\)](https://open.spotify.com/album/1goD29Bs4ws5F19FpgE5EL) | 1:58 | 2024-01-05 |  |
 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 | 2025-03-08 | 2025-04-08 |
@@ -35,6 +36,7 @@
 | [Closer to Fine](https://open.spotify.com/track/1LI1sV0rJX08ZeaXO4ecbx) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 3:28 | 2024-01-05 | 2025-05-07 |
 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 | 2024-02-23 | 2024-07-03 |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2024-01-05 | 2024-07-03 |
+| [Coming Home This Christmas \- From "A Very Jonas Christmas Movie"](https://open.spotify.com/track/5WinrM87TaUBLxOOCeACBi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Coming Home This Christmas \(From "A Very Jonas Christmas Movie"\)](https://open.spotify.com/album/77If4wJxFyWmlucy2j1gaY) | 3:24 | 2025-11-14 |  |
 | [Crazy \- From "Tell Me Lies \(Season 2\)"](https://open.spotify.com/track/1YjHo7WQuKzOQ5BTSKpD4h) | [Tell Me Lies – Cast](https://open.spotify.com/artist/1yNSl6gNtJuvKoYx3AHBVC), [Cat Missal](https://open.spotify.com/artist/29XuVn8LxtJPjHOFZm3QiY) | [Crazy \[From "Tell Me Lies \(Season 2\)"\]](https://open.spotify.com/album/0dIDFqfY1CyhWlqKelBfvy) | 4:59 | 2024-09-05 |  |
 | [Creatures of the Night](https://open.spotify.com/track/7GlVsVaaG7HkkNxi5smEh6) | [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih), [Martin Short](https://open.spotify.com/artist/0dV9xcjrW5YwkxG3gEBhRx) | [Only Murders in the Building: Season 3 \(Original Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6zUX2wRpuzSwYXoTNzVSlE) | 2:34 | 2025-05-06 |  |
 | [Credits](https://open.spotify.com/track/6xqSCBWzKhRAG7aeeh98ph) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Boston Strangler \(Original Score\)](https://open.spotify.com/album/69scuR2GQVHYWZPTnL918f) | 3:22 | 2024-01-05 |  |

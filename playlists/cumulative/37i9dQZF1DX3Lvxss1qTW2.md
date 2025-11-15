@@ -4,7 +4,7 @@
 
 > The future hits of today.
 
-549 songs - 1 day 1 hr 21 min
+550 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 | 2024-12-21 | 2025-04-18 |
 | [change your life](https://open.spotify.com/track/7bUXvMBQ5K1FHa3FHh4mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:17 | 2024-10-07 | 2024-11-29 |
 | [Check Your Available](https://open.spotify.com/track/6dKuFjxbfBApa6oQULvovC) | [The Seun Rave](https://open.spotify.com/artist/2iN38KqplrAl0HHECw7jzd), [Thimzy](https://open.spotify.com/artist/4J1Wmwz2ZoTOemIbucMoOt), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Check Your Available](https://open.spotify.com/album/7GMC4r2NSt9pNcH8Ifq8Ub) | 2:17 | 2025-03-28 | 2025-05-30 |
-| [CHELLA CHANT](https://open.spotify.com/track/4Fhs0L0XHoA10GZ1rir1hc) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/4YkjACbUDJI9ILLW5tvPnO) | 2:37 | 2025-11-14 |  |
+| [CHELLA CHANT](https://open.spotify.com/track/4Fhs0L0XHoA10GZ1rir1hc) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/4YkjACbUDJI9ILLW5tvPnO) | 2:32 | 2025-11-14 |  |
 | [Chikodi](https://open.spotify.com/track/2COXefGU8iHfRH8eIam3P6) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Chikodi](https://open.spotify.com/album/3cPY70vy3FT8zc0CUgL0FA) | 2:59 | 2025-07-18 | 2025-08-22 |
 | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 | 2025-01-17 | 2025-05-09 |
 | [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 | 2025-01-17 | 2025-05-09 |
@@ -392,6 +392,7 @@
 | [Osusu](https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 2:34 | 2025-07-04 |  |
 | [Owo \(Olomoge\)](https://open.spotify.com/track/7rdc5VeokulNiykWmE2HgU) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [I D R I S](https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w) | 2:26 | 2025-10-24 |  |
 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 | 2025-02-21 | 2025-04-08 |
+| [Palava](https://open.spotify.com/track/52hCcthhhqHCwGaLAOqvUo) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [MYTH\-ERA](https://open.spotify.com/album/3zQqn6nxT3nl4KT057EbY3) | 2:41 | 2025-11-14 |  |
 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-01-31 | 2025-04-01 |
 | [Paper](https://open.spotify.com/track/5u6IZWUOEnvVYfNDxppXqr) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Paper](https://open.spotify.com/album/1Zio0hgdWu8Ngc5q816ETl) | 2:16 | 2025-01-24 | 2025-05-10 |
 | [Pepper Dem](https://open.spotify.com/track/4u1H2ZQ5sh188p2XFd5Ehs) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Pepper Dem](https://open.spotify.com/album/7BLuaIUb92iX8QT3YMk5wK) | 2:36 | 2024-08-30 | 2024-10-01 |

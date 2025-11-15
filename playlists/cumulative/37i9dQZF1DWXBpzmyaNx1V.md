@@ -328,7 +328,7 @@
 | [you\\me\\everyone](https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic) | 3:39 | 2022-03-13 | 2024-02-17 |
 | [You’re Not The One](https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:55 | 2024-02-16 | 2024-06-06 |
 | [¿y los videos de gusanos?](https://open.spotify.com/track/3axFvQqsibKkHssb4hX6qZ) | [Leoguzpe](https://open.spotify.com/artist/3SV1EoAVjqKN9NLG33UPhc) | [que rico es ver llover y no mojarse](https://open.spotify.com/album/79S9rt1NxXOvC2kWZ0H05h) | 2:22 | 2025-05-21 | 2025-08-15 |
-| [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2025-08-14 |  |
+| [Судно \(Борис Рыжий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 | 2025-08-14 |  |
 | [Тоска](https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:09 | 2025-08-14 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

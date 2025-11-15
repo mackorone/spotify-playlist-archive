@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Gorgon City
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,880 likes - 139 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,904 likes - 139 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

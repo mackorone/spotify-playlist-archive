@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop feat\. Ruby Roberts 🧚
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,103 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,109 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 18 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
 | 19 | [The Fault Is Mine](https://open.spotify.com/track/52guz6B9Tmho2QTpwVO6gC) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [The Fault Is Mine](https://open.spotify.com/album/7860RQWSgFaI72aF81Qqgu) | 3:33 |
 | 20 | [Sing One I Know](https://open.spotify.com/track/0QDGjeTBKQoZsj9uc7TL7q) | [Matt Bawtree](https://open.spotify.com/artist/2Rw6yrw2k7TZMA7zPmd2ta) | [Starting Line](https://open.spotify.com/album/7nrsxTne3WtnedJwyqS6G9) | 2:51 |
-| 21 | [Deee\-Lite](https://open.spotify.com/track/6PTgaIzCc3bJCmOdKfknnY) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [](https://open.spotify.com/album/null) | 3:13 |
+| 21 | [Deee\-Lite](https://open.spotify.com/track/6PTgaIzCc3bJCmOdKfknnY) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [The Village](https://open.spotify.com/album/1FT1fqof09w2gxDYfcvw1q) | 3:13 |
 | 22 | [Shut It Down](https://open.spotify.com/track/0xFcm0Z9nl5GuHDbFank1i) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 3:14 |
 | 23 | [Things I Really Mean](https://open.spotify.com/track/1ifdycBCHgcbRSMskdpSRB) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Things I Really Mean](https://open.spotify.com/album/3cxyV5ddJhlyCR9KmshfLR) | 2:42 |
 | 24 | [Ego Boost](https://open.spotify.com/track/6rHLroeXxSer2X6vhySWiY) | [søftbleach](https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17) | [Ego Boost](https://open.spotify.com/album/6AmXFGLPBfvOtRjlfwL2y0) | 2:30 |

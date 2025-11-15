@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-109 songs - 4 hr 11 min
+113 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Autumn Letters](https://open.spotify.com/track/7e1VORsL4GCNqACM8G3evL) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Autumn Letters](https://open.spotify.com/album/2HyYRDTyuVecdO1dNSQcHo) | 2:51 | 2025-09-12 |  |
 | [autumn morning](https://open.spotify.com/track/4sO4UnfiATMXi4xZHdEFJO) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [re:fill](https://open.spotify.com/artist/2YAjZCYyobcy0FTHSeiqOe) | [autumn morning](https://open.spotify.com/album/3hkpAm6vcGbjn9smI79zyi) | 2:02 | 2024-10-18 |  |
 | [Beam Me Up](https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Beam Me Up](https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4) | 2:03 | 2024-10-18 |  |
+| [better now](https://open.spotify.com/track/2ByqEThv5LxOa8RFQvbYaO) | [someday](https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv), [luvlke](https://open.spotify.com/artist/0WJ5QJgC73ewvwBJxWaOL5) | [better now](https://open.spotify.com/album/3KD6OsBHPM4rdgOoC8Mvqf) | 2:03 | 2025-11-14 |  |
 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 | 2024-10-18 | 2025-09-06 |
 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 | 2024-10-18 |  |
 | [broth](https://open.spotify.com/track/1V07rv74k9FinkehDGR14N) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [broth](https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y) | 3:06 | 2024-10-18 |  |
@@ -37,6 +38,7 @@
 | [Eclipse](https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Eclipse](https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf) | 2:24 | 2024-10-18 | 2025-09-06 |
 | [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 | 2024-10-18 |  |
 | [Empty Fields](https://open.spotify.com/track/1EDx1EKynpDqlIoaDy3YNC) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Empty Fields](https://open.spotify.com/album/1ENtGvYCT8O6syanJ3nwvM) | 2:08 | 2024-10-18 |  |
+| [Endless](https://open.spotify.com/track/4CRhSBDTG5VQHbwYtVVDYe) | [Brø](https://open.spotify.com/artist/7bT0YuIs8yW2B9Ey8Ybawu), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP) | [Endless](https://open.spotify.com/album/3ijTFD3sB9h3JpvMIgEvg1) | 2:00 | 2025-11-14 |  |
 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 | 2024-10-18 |  |
 | [far away](https://open.spotify.com/track/0GDif8AtYRv3jfjwlzY1Uv) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [far away](https://open.spotify.com/album/0V9WA2gseFiULcVV56sB08) | 2:04 | 2025-10-16 |  |
 | [Fika](https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Vanisher](https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8) | 2:12 | 2024-10-18 |  |
@@ -44,8 +46,9 @@
 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 | 2024-10-18 |  |
 | [Fizzdrop](https://open.spotify.com/track/14l5zv6ljXUgG3bfYmCljP) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Fizzdrop](https://open.spotify.com/album/03mzD1HsaCjfPvZQcu2awn) | 2:17 | 2025-11-07 |  |
 | [Flower Lane](https://open.spotify.com/track/4AOEnxBm3U2oZssIaRVpqZ) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Flower Lane](https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp) | 2:44 | 2024-10-18 |  |
-| [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 | 2024-10-18 |  |
-| [fragile](https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV) | [frid](https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe) | [fragile](https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd) | 2:31 | 2024-11-22 |  |
+| [Flyby](https://open.spotify.com/track/7hvKs1QExyqoHT0efd3yIG) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Flyby](https://open.spotify.com/album/4ZfTRNGlBaIXEH5k7koxdn) | 1:54 | 2025-11-14 |  |
+| [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 | 2024-10-18 | 2025-11-15 |
+| [fragile](https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV) | [frid](https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe) | [fragile](https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd) | 2:31 | 2024-11-22 | 2025-11-15 |
 | [Fragments](https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Fragments](https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2) | 2:00 | 2024-10-24 |  |
 | [ghee](https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [ghee](https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg) | 3:00 | 2024-10-24 |  |
 | [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 | 2024-10-18 |  |
@@ -76,11 +79,12 @@
 | [mermaid melodies](https://open.spotify.com/track/5zO8OlM8WBi7ve7o8zlQ6A) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Rufus Dipper](https://open.spotify.com/artist/7vSjvv75PSaKYhLK3J0DMb) | [mermaid melodies](https://open.spotify.com/album/3TtVNk2KrYd2Fk93hem1Cm) | 2:56 | 2024-10-18 | 2024-10-28 |
 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 | 2024-10-18 |  |
 | [Midnight Stuff](https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Midnight Stuff](https://open.spotify.com/album/0Vcjo60rQ38NPW8MLsG6gG) | 2:09 | 2024-10-18 |  |
+| [Mindset](https://open.spotify.com/track/6dLitvcM1cVRQV1vN2jxGM) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Mindset](https://open.spotify.com/album/4lAPtfrcpeNTRoU2Fsd1YU) | 1:55 | 2025-11-14 |  |
 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 | 2024-11-08 | 2025-09-19 |
 | [mixture](https://open.spotify.com/track/61Ghb129p1GQJwe0R1HMA5) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [mixture](https://open.spotify.com/album/4dAcetjrb9Z6lCH0BbpWYC) | 2:03 | 2024-10-18 | 2024-10-25 |
 | [Morning Dew](https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Morning Dew](https://open.spotify.com/album/1sOBZaf8YPRGzWfUiS0470) | 2:38 | 2024-11-29 |  |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-18 |  |
-| [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-10-18 |  |
+| [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-10-18 | 2025-11-15 |
 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 | 2024-10-18 |  |
 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 | 2024-10-18 | 2025-10-17 |
 | [Occasions](https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV) | [cloudsonmymind](https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7) | [Occasions](https://open.spotify.com/album/4KADYqV6KjvdtxhY8MulEA) | 2:22 | 2024-10-18 |  |
@@ -102,7 +106,7 @@
 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 | 2024-10-18 |  |
 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 | 2024-10-18 |  |
 | [spirulina](https://open.spotify.com/track/6RTXsP4KJKDhBSATyR4ZSB) | [green print](https://open.spotify.com/artist/39W25if0IxsMNwE37DBgZu) | [spirulina](https://open.spotify.com/album/5q0CUqbosogIw2TbpQTI9k) | 2:07 | 2024-10-18 | 2024-11-09 |
-| [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 | 2024-10-18 |  |
+| [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 | 2024-10-18 | 2025-11-15 |
 | [still images](https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [still images](https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg) | 2:07 | 2024-11-29 |  |
 | [Sueca](https://open.spotify.com/track/51YcG5rNWcsUsOwSQPVqk0) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Sueca](https://open.spotify.com/album/6BfuxejSYU5Ovn8ecWfTvX) | 2:24 | 2024-10-18 | 2024-11-09 |
 | [Summer's End](https://open.spotify.com/track/1q0dOeLENSRPQE7Diz6Yld) | [morning green](https://open.spotify.com/artist/3FItRGy5Od4t19e3GvlDKZ) | [Summer's End](https://open.spotify.com/album/6xQ5CrNGGpgWP2gHMZraXI) | 2:03 | 2025-10-22 |  |

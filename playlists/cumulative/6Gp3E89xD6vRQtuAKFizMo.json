@@ -1509,6 +1509,28 @@
     },
     {
       "album": {
+        "name": "Chasing Echoes",
+        "url": "https://open.spotify.com/album/2czfZBAy2eLbi29bxjdR9j"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Melissa Grace",
+          "url": "https://open.spotify.com/artist/7bQLH0u3C9lR2gZQaQ8owM"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Chasing Echoes",
+      "url": "https://open.spotify.com/track/2TgM993dmVzwys2XXlVA93"
+    },
+    {
+      "album": {
         "name": "Check This (with Kuhlosul)",
         "url": "https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k"
       },
@@ -7916,6 +7938,28 @@
       "duration_ms": 164160,
       "name": "Playground",
       "url": "https://open.spotify.com/track/2ik3fTroPHOoEhEmTHCjMi"
+    },
+    {
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/3kpHWt3UFFr6xGZoP9h9KR"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/4elhFAQrCQOTM7kYh9lHf8"
     },
     {
       "album": {

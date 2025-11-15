@@ -573,6 +573,36 @@
     },
     {
       "album": {
+        "name": "GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/5gNZYoUZcDtyC0MJ31EFRM"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Vincent & The Black Rabbit",
+          "url": "https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e"
+        },
+        {
+          "name": "Asterr",
+          "url": "https://open.spotify.com/artist/79baYpVN5bf0u38KkcG2LM"
+        },
+        {
+          "name": "Bunny Mimi",
+          "url": "https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/4UfV0QR8WGVjcNFZas4JfR"
+    },
+    {
+      "album": {
         "name": "NEVER CATCH THE LIGHT",
         "url": "https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO"
       },

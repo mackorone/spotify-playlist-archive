@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-310 songs - 18 hr 7 min
+311 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 | 2021-10-15 | 2024-10-23 |
 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 | 2021-10-15 | 2024-10-23 |
 | [Andei](https://open.spotify.com/track/78POJVXS7qanEU6q3JKUs4) | [Lurdez Da Luz](https://open.spotify.com/artist/5U0Jo3mNyn5TQFgfAyL43Z), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Lurdez da Luz](https://open.spotify.com/album/6Bvd8gpWPXihVwP91lJEjq) | 3:24 | 2021-10-15 | 2022-07-17 |
+| [Anestesiada](https://open.spotify.com/track/5VWgYJzlkSGJTjCUCEfr9t) | [KEILA](https://open.spotify.com/artist/7B6S35PjpmCWPOyqKfyHq6) | [Anestesiada](https://open.spotify.com/album/3T7vUWImGtsk2f2dy7vIqK) | 1:57 | 2025-11-14 |  |
 | [Anjo](https://open.spotify.com/track/2lCGyoF4rolzOksz16CpDs) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:31 | 2024-10-22 |  |
 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 | 2024-10-22 |  |
 | [As Mais Braba](https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 4:40 | 2021-10-15 | 2024-10-23 |
@@ -199,7 +200,7 @@
 | [Não Teve Amor](https://open.spotify.com/track/7snWZdqdQAVX61XEOTE5vw) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 3:12 | 2024-10-22 | 2025-06-28 |
 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 | 2025-01-31 |  |
 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 | 2024-10-22 |  |
-| [Não É o Fim](https://open.spotify.com/track/458Y6atmFGMAdqfmDyQfsf) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Não É o Fim](https://open.spotify.com/album/1hVlgDTKBXXVqRsOre2v79) | 4:22 | 2025-05-13 |  |
+| [Não É o Fim](https://open.spotify.com/track/458Y6atmFGMAdqfmDyQfsf) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Não É o Fim](https://open.spotify.com/album/1hVlgDTKBXXVqRsOre2v79) | 4:22 | 2025-05-13 | 2025-11-15 |
 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 | 2021-10-15 | 2024-10-23 |
 | [O Cego](https://open.spotify.com/track/6mKaNYuUImjvll3Wo1ZWBl) | [Ana de Oliveira](https://open.spotify.com/artist/45Wjw8c4PUTkSrgRe2k0dP) | [Ana pra Você](https://open.spotify.com/album/7daUfMO9pGu70hZWustNvv) | 2:38 | 2024-10-22 | 2025-02-14 |
 | [O Sangue Não Nega](https://open.spotify.com/track/0ZO4z16mEUHjDOSP2xbcva) | [Zezé Motta](https://open.spotify.com/artist/0fUaGtg6Wji6KS6KVtT6qG) | [Negra Melodia](https://open.spotify.com/album/5IxcCElQLNbhQHuOJms6YN) | 2:27 | 2021-10-15 | 2022-07-29 |

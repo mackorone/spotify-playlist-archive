@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: Hammy Muzic
+> Best of Haryanvi Hip\-Hop! Cover: Sumit Parta & Panther
 
-504 songs - 1 day 1 hr 35 min
+506 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Maruti](https://open.spotify.com/track/2tPhRcPnhJ8Qh51jLP0lZ3) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Maruti](https://open.spotify.com/album/4Xxu0e68sjuXrk0DPvK8lP) | 3:33 | 2025-09-02 |  |
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-09-27 | 2025-01-11 |
 | [Matha Garam](https://open.spotify.com/track/6v4dEkFs3I2ImanEVok2cP) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Matha Garam](https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9) | 3:25 | 2024-05-24 | 2025-01-19 |
+| [Matter](https://open.spotify.com/track/0rPb6Q9elzJAXhNPeDTkzO) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Matter](https://open.spotify.com/album/1StVcm1cTJMQ3z7u35Y9zL) | 2:44 | 2025-11-14 |  |
 | [MAZE](https://open.spotify.com/track/49Gm2vX8U1SaFveFzPv2lC) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [T\-Raj](https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW) | [MAZE](https://open.spotify.com/album/3ygU8ayVrj48jwRkPcNsAI) | 3:03 | 2025-10-03 | 2025-10-15 |
 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 | 2023-03-28 | 2024-08-01 |
 | [Me & You](https://open.spotify.com/track/36aG9R2LXbBbBowd4Nehi4) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Me & You](https://open.spotify.com/album/1ecNMePGEUDvXMLOdLyvV4) | 3:46 | 2024-08-02 | 2025-03-19 |
@@ -338,7 +339,7 @@
 | [Mote Kharche](https://open.spotify.com/track/3dNToqbycdUSywpw0ZyCOC) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Mote Kharche](https://open.spotify.com/album/4dQF9RxSETEd7mUdY6yTyt) | 2:44 | 2024-07-16 | 2024-07-19 |
 | [Move Back](https://open.spotify.com/track/3NENq5fDBChRZI626K1K3g) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Move Back](https://open.spotify.com/album/6o7iRip7uIr7L7dfUGDjhT) | 2:24 | 2024-12-19 | 2025-02-01 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 | 2024-08-13 |
-| [Muqabla](https://open.spotify.com/track/32ewgb2rlylsOi7SYJM0Ls) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U) | [THE MAN BEHIND DA SOUND](https://open.spotify.com/album/6g5WK5QijDB95Lw76u7i02) | 2:29 | 2025-09-12 |  |
+| [Muqabla](https://open.spotify.com/track/32ewgb2rlylsOi7SYJM0Ls) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U) | [THE MAN BEHIND DA SOUND](https://open.spotify.com/album/6g5WK5QijDB95Lw76u7i02) | 2:29 | 2025-09-12 | 2025-11-15 |
 | [MY JOURNEY](https://open.spotify.com/track/0TV4X4739sqDGHFPjWm8iG) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:52 | 2025-08-05 | 2025-08-23 |
 | [My Name Speaks](https://open.spotify.com/track/0DJjbAaiJK6NFiMaDTFe5y) | [Mt 35](https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6), [Lv94](https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur), [Mani Rana](https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H) | [My Name Speaks](https://open.spotify.com/album/2BpBWJg0HRcpxPL3Zoynn2) | 3:25 | 2025-10-14 | 2025-11-08 |
 | [My Time](https://open.spotify.com/track/6vX78Jh5vcsvnu8zECaxth) | [DEEP KAMBOJ](https://open.spotify.com/artist/6ObYocifnW8x3LpHkRUqWk) | [My Time](https://open.spotify.com/album/0AZp22eymljt7v6ZFZv9yw) | 2:32 | 2023-06-22 | 2023-06-30 |
@@ -367,6 +368,7 @@
 | [No Time](https://open.spotify.com/track/5zWAqSWDEEb7ylAgNF2n8m) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y) | [No Time](https://open.spotify.com/album/2gc5vS9VYNutlB08ZcW9og) | 2:37 | 2024-10-07 | 2025-02-01 |
 | [No Time](https://open.spotify.com/track/78gg0r5Jb53XPiV0ddYuXz) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y) | [No Time](https://open.spotify.com/album/0cwZ6PmKw5NiuT9zoZXknM) | 2:37 | 2025-01-10 |  |
 | [No Worries](https://open.spotify.com/track/6r1TU60kDywJuu3EPrwHLe) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [No Worries](https://open.spotify.com/album/5McT7ublWKojSCLew2Eh2C) | 2:52 | 2023-04-18 | 2023-06-11 |
+| [Nobody Came](https://open.spotify.com/track/2HMVgVLQmZYK9eTY9DrqUx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Nobody Came](https://open.spotify.com/album/1iXORSbAg47qMgTz4a8Bdg) | 4:11 | 2025-11-14 |  |
 | [Nonstop](https://open.spotify.com/track/0nmWdTvhu6nduoTl7BB7p5) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [7 Down 8 Up](https://open.spotify.com/album/2TFMQknbNORttU4HjgsIXn) | 2:32 | 2024-06-13 | 2024-07-04 |
 | [Noorani](https://open.spotify.com/track/5TOm4km3Y9TYKEXBGByzas) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [I Am Not A Rapper...](https://open.spotify.com/album/3YkN1454rOuf51qNQtG0cT) | 2:34 | 2025-10-07 |  |
 | [Not Afraid](https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Not Afraid](https://open.spotify.com/album/3suDToPPHBihogvFsRuTcR) | 3:02 | 2023-12-14 | 2024-05-06 |
@@ -421,7 +423,7 @@
 | [Rubicon](https://open.spotify.com/track/6EnDE5S4iX8HsURZtAOh6J) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Rubicon](https://open.spotify.com/album/0ehKmlR1wM75ConoUCIDsD) | 2:54 | 2024-08-19 | 2025-01-25 |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 | 2023-09-28 |
 | [Russian](https://open.spotify.com/track/58iP9XZQkQSQWqx6NATm4l) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Jumbo](https://open.spotify.com/artist/5dMNUgOiKAXFJYyeEFGZBz) | [Russian](https://open.spotify.com/album/5TN4kHTjG7cqD21DsQ8kFZ) | 2:28 | 2024-02-06 | 2024-03-22 |
-| [Russian Bandana](https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Russian Bandana](https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud) | 3:17 | 2024-09-12 |  |
+| [Russian Bandana](https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Russian Bandana](https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud) | 3:17 | 2024-09-12 | 2025-11-15 |
 | [Ruthless Jaat](https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Ruthless Jaat](https://open.spotify.com/album/1OjIJ541qftk8kZFazYAT2) | 2:48 | 2023-12-22 | 2024-04-19 |
 | [Rx 100 Part\-3](https://open.spotify.com/track/0KEjwwFOhI3l3bcenOvzjJ) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Triminati Records](https://open.spotify.com/artist/5q39iK8eIGRZgTaazDgHG8) | [Rx 100 Part\-3](https://open.spotify.com/album/5iVn83U9dIuxGftEzw1a5L) | 3:48 | 2024-03-21 | 2024-05-08 |
 | [Saat Samunder](https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4) | [Khatri](https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Saat Samunder](https://open.spotify.com/album/4mdHqn673uePpSOYKA8423) | 2:46 | 2023-04-03 | 2023-06-06 |

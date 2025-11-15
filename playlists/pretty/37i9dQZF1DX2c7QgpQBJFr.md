@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Mimì
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,235 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,241 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 10 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
 | 11 | [ragnatela](https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [ragnatela](https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5) | 3:00 |
 | 12 | [Ballavi](https://open.spotify.com/track/2i8w9Yi0Pkzk5xJhkoFvLs) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Ballavi \(feat\. Francesca Michielin\)](https://open.spotify.com/album/2Uu3ROo2EDA60PaAsTFxHp) | 3:15 |
-| 13 | [Track 1](https://open.spotify.com/track/7fPHIMchStMkHnxFzmEXVx) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [polo nord](https://open.spotify.com/track/7fPHIMchStMkHnxFzmEXVx) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [polo nord](https://open.spotify.com/album/0wTgMtjebc3ntZ0GcV9cae) | 2:51 |
 | 14 | [Radio Erotika](https://open.spotify.com/track/59IeMCaIqZczzhLEKzijWU) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [Radio Erotika](https://open.spotify.com/album/2neQ86CxCxsq2JbfJrV4Wv) | 2:35 |
 | 15 | [ioeio](https://open.spotify.com/track/1rOcxaBilVIV0Nigg1YKKS) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 3:24 |
 | 16 | [Pita Gyros](https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Pita Gyros](https://open.spotify.com/album/6ONKQXieAFJMMCGfMwA9UR) | 2:40 |
-| 17 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [](https://open.spotify.com/album/null) | 3:05 |
+| 17 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 |
 | 18 | [Little Rat](https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Little Rat](https://open.spotify.com/album/0phrEGKl53xAyL59YMznHX) | 2:43 |
 | 19 | [XOXO](https://open.spotify.com/track/2DEeaawcgxBNpjZCgellqf) | [Jemel](https://open.spotify.com/artist/52xT2TuMy5NKiKE5abawy4) | [XOXO](https://open.spotify.com/album/31y7bnQzigPgueRuWNJCQY) | 1:34 |
 | 20 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 |

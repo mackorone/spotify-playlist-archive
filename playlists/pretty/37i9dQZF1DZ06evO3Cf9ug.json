@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 128827,
+  "num_followers": 128890,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAABWz6rNjCwaYBHm3+2Tb5cp",
+  "snapshot_id": "aRUfgAAAAABiookzUHVQjBwzbOKm/opa",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 224171,
-      "name": "Avoid Things",
-      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not An Angel",
         "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 185639,
       "name": "Not An Angel",
       "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 224171,
+      "name": "Avoid Things",
+      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr Rebel",
-        "url": "https://open.spotify.com/album/5j85aoLtCfduYh17a2Evlr"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 236382,
-      "name": "Mr Rebel",
-      "url": "https://open.spotify.com/track/4SYnhnD6V2sqa6Zc0SsGlq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 207955,
       "name": "You Get Me",
       "url": "https://open.spotify.com/track/7AeyaupKxGgxfpXH6lVVdE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr Rebel",
+        "url": "https://open.spotify.com/album/5j85aoLtCfduYh17a2Evlr"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 236382,
+      "name": "Mr Rebel",
+      "url": "https://open.spotify.com/track/4SYnhnD6V2sqa6Zc0SsGlq"
     },
     {
       "added_at": null,

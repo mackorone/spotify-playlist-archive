@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 28874,
+  "num_followers": 28882,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Ma Boy",
-        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Ma Boy",
-      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Sherlock - The 4th Mini Album",
         "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 239186,
       "name": "Sherlock (Clue + Note)",
       "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 233955,
-      "name": "Baby, Don't Cry",
-      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 283800,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 233955,
+      "name": "Baby, Don't Cry",
+      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Mama - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 209801,
       "name": "History",
       "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 197672,
-      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
-      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 282806,
       "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
       "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Hot Summer - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Hot Summer",
-      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -999,6 +983,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "Hot Summer - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "My Last Love OST Part.4",
         "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "COLLECTION",
-        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "NU'EST The First Album \"Re:BIRTH\"",
         "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 220134,
       "name": "FACE",
       "url": "https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "COLLECTION",
+        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Grown-Up",
-        "url": "https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 250644,
-      "name": "Severely",
-      "url": "https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 193253,
       "name": "ME",
       "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Grown-Up",
+        "url": "https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 250644,
+      "name": "Severely",
+      "url": "https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Nitpicking",
-        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 213577,
-      "name": "Nitpicking",
-      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
+      "duration_ms": 205506,
+      "name": "Love Ya",
+      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
+        "name": "Nitpicking",
+        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Love Ya",
-      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
+      "duration_ms": 213577,
+      "name": "Nitpicking",
+      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The Spring of Twenty",
-        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 242207,
-      "name": "Every End of the Day",
-      "url": "https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "A (Digital Single)",
         "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 201737,
       "name": "A",
       "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "The Spring of Twenty",
+        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 242207,
+      "name": "Every End of the Day",
+      "url": "https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Nitpicking",
-        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 227448,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/6tlMVCqZlmxfnjZt3OiHjE"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Mama - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 204181,
       "name": "Machine",
       "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Nitpicking",
+        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/6tlMVCqZlmxfnjZt3OiHjE"
     },
     {
       "added_at": "2024-08-05 16:58:20",

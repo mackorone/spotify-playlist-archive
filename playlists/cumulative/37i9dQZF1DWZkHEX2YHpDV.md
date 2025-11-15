@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,425 songs - 3 day 3 hr 14 min
+1,426 songs - 3 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-08-02 | 2023-09-23 |
 | [All The Way \(Stay\)](https://open.spotify.com/track/7qVnkPY1UPmSeWULwXSW7a) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [All The Way \(Stay\)](https://open.spotify.com/album/1nCmHK3wd62FLPSh1F4TfN) | 4:05 | 2022-04-01 | 2022-04-18 |
 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 | 2024-05-14 | 2024-12-07 |
+| [All Your Luck](https://open.spotify.com/track/0HBa0xW4VVKtKw1Mv84Pr8) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Wisher](https://open.spotify.com/album/0EfjNXqCOimYUWpx3xkr4O) | 2:52 | 2025-11-14 |  |
 | [ALMOST FAMOUS](https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [We Made Plans & God Laughed](https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd) | 3:08 | 2022-11-04 | 2023-08-02 |
 | [ALMOST FAMOUS feat\. Mark Hoppus](https://open.spotify.com/track/6h1mv6xCmdcmhmZ04TNTVk) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [WE MADE PLANS & GOD LAUGHED](https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs) | 3:08 | 2023-07-28 | 2024-04-19 |
 | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/2HrvfauQpudjDVlZTYZH0C) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:24 | 2023-10-27 | 2023-11-11 |
@@ -1014,7 +1015,7 @@
 | [Safe Side](https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO), [Connor Musarra](https://open.spotify.com/artist/5NXojGjcyIaQTMFElFqna4) | [Origami](https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE) | 2:37 | 2024-03-01 | 2025-02-15 |
 | [Salina](https://open.spotify.com/track/17tRu9Pm87oX05IYgffW0Y) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Problems](https://open.spotify.com/album/73ThcGjqsQuiNbzQuiEc70) | 4:38 | 2022-03-25 | 2022-04-10 |
 | [Santiago Peak](https://open.spotify.com/track/2o4nwQcaFOrGTIbaIEKN5G) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:12 | 2021-12-10 | 2022-07-11 |
-| [saturate](https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [saturate](https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE) | 3:14 | 2024-12-06 |  |
+| [saturate](https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [saturate](https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE) | 3:14 | 2024-12-06 | 2025-11-15 |
 | [Saturday](https://open.spotify.com/track/3DVQRyBEhnRxz2bYqFNPEI) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Saturday](https://open.spotify.com/album/1BE4Efd13DgJsncioqOCP6) | 2:52 | 2021-12-10 | 2022-06-06 |
 | [Saturday City](https://open.spotify.com/track/31op8RGgcNUXoVAfDUrCWG) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Saturday City](https://open.spotify.com/album/1lOXMJm88WYBotiaB3UBet) | 4:12 | 2021-12-10 | 2022-07-29 |
 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 | 2024-11-08 |  |

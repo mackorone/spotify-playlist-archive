@@ -4,7 +4,7 @@
 
 > 
 
-7,876 songs - 20 day 7 hr 43 min
+7,877 songs - 20 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5601,6 +5601,7 @@
 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 | 2025-01-04 |  |
 | [Story: No Title](https://open.spotify.com/track/737gwrDNwTCAwAjy02FSMO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 2:48 | 2025-01-03 |  |
 | [Storytellers](https://open.spotify.com/track/2U8B6DZVnfMCUYuWRM8hz6) | [Foreground Eclipse](https://open.spotify.com/artist/6LBmnCJRD52HLRdGGxowaX) | [Foreground Eclipse](https://open.spotify.com/album/56ePpIyeJW76X5JepEm7uY) | 3:57 | 2025-01-03 |  |
+| [Storytellers](https://open.spotify.com/track/4dLNyPz58eSwVQz6K1JmDQ) | [Foreground Eclipse](https://open.spotify.com/artist/133ZFcHur9ckcKLnJ0XNJS) | [Stories That Last Through The Sleepless Nights](https://open.spotify.com/album/3QWB22qBGpDSwALq5mxnvQ) | 3:57 | 2025-11-14 |  |
 | [Str8 Ballin](https://open.spotify.com/track/3FzmWEUMpn2j2M5NCQK0WP) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Blank Face LP](https://open.spotify.com/album/0YbpATCIng8Fz2JrfHmEf7) | 4:09 | 2025-01-15 |  |
 | [Straight To The Bank](https://open.spotify.com/track/6530klKZZmOHL2ACme2rRJ) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtis](https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h) | 3:10 | 2024-12-05 |  |
 | [Straightenin](https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:15 | 2025-01-04 |  |

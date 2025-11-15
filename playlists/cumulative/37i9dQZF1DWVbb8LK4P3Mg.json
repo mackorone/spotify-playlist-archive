@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
+  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: SAAY)",
   "name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "tracks": [
     {
@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 237080,
       "name": "D-day",
       "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "1st Intermixxion Single <Funky Glitter Christmas>",
+        "url": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Funky Glitter Christmas",
+      "url": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq"
+    },
+    {
+      "album": {
         "name": "Gift For You",
         "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
       },
@@ -1612,6 +1630,24 @@
       "duration_ms": 291040,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/35DYsbswkqUeW5RVZnbgML"
+    },
+    {
+      "album": {
+        "name": "Heart of Christmas",
+        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Heart of Christmas",
+      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
     },
     {
       "album": {
@@ -1894,7 +1930,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 197500,
       "name": "Jingle All Night",
       "url": "https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ"
@@ -3275,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "snowy",
+        "url": "https://open.spotify.com/album/2VhVv8z0XjYvNktTZUf684"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "snowy",
+      "url": "https://open.spotify.com/track/6CvWQquXQ4gYmuBQbXyX0D"
+    },
+    {
+      "album": {
         "name": "the collective soul and unconscious: snowy night",
         "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
       },
@@ -3450,7 +3504,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 237161,
       "name": "Sweater - Orchestral Version",
       "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"

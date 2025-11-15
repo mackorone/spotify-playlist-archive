@@ -1,29 +1,13 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 104479,
+  "num_followers": 104473,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB1Yz3tjhpVhZISw2vLjecwdJ+gK",
+  "snapshot_id": "AAAAAOfGFxb5rynj9IWZ/U5pjOSGIEy/",
   "tracks": [
-    {
-      "added_at": "2025-11-06 18:57:12",
-      "album": {
-        "name": "A Bridge To Far",
-        "url": "https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU"
-      },
-      "artists": [
-        {
-          "name": "Midlake",
-          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
-        }
-      ],
-      "duration_ms": 224175,
-      "name": "A Bridge To Far",
-      "url": "https://open.spotify.com/track/1VsBwiX65G3Im8IPCTjfpa"
-    },
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-11-14 14:58:34",
+      "album": {
+        "name": "All Cylinders (Deluxe)",
+        "url": "https://open.spotify.com/album/5UdubCTBDo5bcT5La0agOb"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 138765,
+      "name": "Silver KG",
+      "url": "https://open.spotify.com/track/2wirE8KUOJ2cuSK9jE7fRd"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Northern Attitude",
-        "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 264906,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2025-11-14 14:58:34",
+      "album": {
+        "name": "Right Hand Man",
+        "url": "https://open.spotify.com/album/7M2wRKrfmi8pyjrqdFR8Ih"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 205255,
+      "name": "Right Hand Man",
+      "url": "https://open.spotify.com/track/7y55jveNYMyVqBQNRUdZme"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Divine Feelings",
-        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 208176,
-      "name": "Divine Feelings",
-      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Divine Feelings",
+        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 208176,
+      "name": "Divine Feelings",
+      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "say something",
-        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 144544,
-      "name": "say something",
-      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far (with Brandi Carlile)",
       "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -667,6 +667,22 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Hollywood Dream (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87"
-      },
-      "artists": [
-        {
-          "name": "Thunderclap Newman",
-          "url": "https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Something In The Air",
-      "url": "https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 209186,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Hollywood Dream (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87"
+      },
+      "artists": [
+        {
+          "name": "Thunderclap Newman",
+          "url": "https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Something In The Air",
+      "url": "https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -1105,6 +1121,22 @@
       "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
     },
     {
+      "added_at": "2025-11-06 18:57:12",
+      "album": {
+        "name": "A Bridge To Far",
+        "url": "https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "A Bridge To Far",
+      "url": "https://open.spotify.com/track/1VsBwiX65G3Im8IPCTjfpa"
+    },
+    {
       "added_at": "2025-09-19 17:19:45",
       "album": {
         "name": "Church of Better Daze",
@@ -1119,38 +1151,6 @@
       "duration_ms": 260407,
       "name": "KD and Lunch Meat",
       "url": "https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
-        "name": "Emptiness",
-        "url": "https://open.spotify.com/album/7GVUQX0koyq6iu1qu4RmnO"
-      },
-      "artists": [
-        {
-          "name": "Surf Hat",
-          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
-        }
-      ],
-      "duration_ms": 246410,
-      "name": "Emptiness",
-      "url": "https://open.spotify.com/track/3OAG78OqCzfS6JpEeYquAN"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
-        "name": "Wild One",
-        "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 142489,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -1171,6 +1171,38 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
+        "name": "Wild One",
+        "url": "https://open.spotify.com/album/6uQPitAnucKcatIRufA7om"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 142489,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Emptiness",
+        "url": "https://open.spotify.com/album/7GVUQX0koyq6iu1qu4RmnO"
+      },
+      "artists": [
+        {
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
+        }
+      ],
+      "duration_ms": 246410,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/3OAG78OqCzfS6JpEeYquAN"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
         "name": "As The Light Fades",
         "url": "https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb"
       },
@@ -1187,22 +1219,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "How to Win At Solitaire",
-        "url": "https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 268735,
-      "name": "All Seven Seasons",
-      "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Christian",
         "url": "https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 192480,
       "name": "Road Warrior",
       "url": "https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka"
-      },
-      "artists": [
-        {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
-        }
-      ],
-      "duration_ms": 195311,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub"
     }
   ],
   "unique_name": "Long Drives",

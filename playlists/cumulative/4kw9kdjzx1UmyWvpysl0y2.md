@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,116 songs - 2 day 14 hr 23 min
+1,117 songs - 2 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [The Other Side](https://open.spotify.com/track/0ERuTf3ipLWdRfemvFmIrZ) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [The Other Side](https://open.spotify.com/album/1myyev9Wiv4I4noEcrkycM) | 3:52 | 2023-01-23 | 2023-04-05 |
 | [The Outlines](https://open.spotify.com/track/3xcvdCimYBj7FnpErd45vy) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [The Outlines](https://open.spotify.com/album/2781rPnBLyPrsaH2taH7nM) | 4:13 | 2023-06-22 | 2023-09-26 |
 | [The Power](https://open.spotify.com/track/6j8TuycHw2DqHyb05WsjQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [The Power](https://open.spotify.com/album/4cTaCAXGdmSUruJNQzwVjm) | 4:15 | 2022-01-06 | 2022-03-15 |
+| [The Speaker](https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx) | [The Speaker](https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk) | 2:38 | 2025-11-14 |  |
 | [The Tide](https://open.spotify.com/track/3EuVWEJ5ioMHn84X13v1pm) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [The Tide](https://open.spotify.com/album/5oXND6By8dpwUFwen26Hq7) | 3:00 | 2021-11-19 | 2022-02-18 |
 | [The Truth](https://open.spotify.com/track/6pYH3KiWTMIIQGt9wlsspt) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Truth](https://open.spotify.com/album/343QCnQbAZWkJuQdSYOZTD) | 3:45 | 2021-11-19 | 2022-02-19 |
 | [The Warehouse \- Justin Hawkes Remix](https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Miss Trouble](https://open.spotify.com/artist/6pXPaQEZ2EyfxIRtf9JwyJ), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [The Warehouse \(Justin Hawkes Remix\)](https://open.spotify.com/album/5lxvypUozCcKPlMoKrGuAO) | 4:20 | 2022-02-22 | 2022-04-28 |

@@ -4,7 +4,7 @@
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Musa Keys
 
-1,511 songs - 6 day 14 hr 2 min
+1,511 songs - 6 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1293,7 +1293,6 @@
 | [Touch the sky](https://open.spotify.com/track/3k9XIjfagDDvgltYAdT9Yd) | [DJ Yessonia](https://open.spotify.com/artist/2kNVX8yXcpNVXsKiEKTamJ), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [DJ Styles](https://open.spotify.com/artist/7d2lHQRJEW5mV2RU5U1Q6X) | [Touch the sky](https://open.spotify.com/album/25mj55Ye1c6uodMx8D37D5) | 6:56 | 2022-05-12 | 2022-06-17 |
 | [Touched by me](https://open.spotify.com/track/2r87PZsCQ7j0By4scRbGcf) | [Kamo\_ww](https://open.spotify.com/artist/1y9XCmAZmZdUbkAyIqwxjg), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [King P](https://open.spotify.com/artist/7MFcWBdPXTV6NcalZDGSZg), [Kyotic](https://open.spotify.com/artist/7JenaF646lANuwlTFZzH0X) | [POSE](https://open.spotify.com/album/0Sd6Zih5auu6xJDD0cingR) | 6:22 | 2024-10-03 | 2024-10-25 |
 | [TOUCHED THE SKY \- DBN GOGO & EFFECTED VS DENNIS FERRER \(FEAT\. TRIPLE X DA GHOST & MIA TUTTAVILLA\)](https://open.spotify.com/track/5fdTC0zQNb1pLg3tmobQ9t) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Effected](https://open.spotify.com/artist/4KsJvA119zereHG73B9sC7), [Mia Tuttavilla](https://open.spotify.com/artist/37h5VxkyYkfCMqzept4XcK), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [TOUCHED THE SKY \- DBN GOGO & EFFECTED VS DENNIS FERRER \(FEAT\. TRIPLE X DA GHOST & MIA TUTTAVILLA\)](https://open.spotify.com/album/5oXNz89icxTwoUUtrkUVuY) | 7:23 | 2024-08-09 | 2024-10-12 |
-| [Track 2](https://open.spotify.com/track/5vM3FsEyYMxt8oy03z79VH) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Trap Donoro](https://open.spotify.com/track/19VLwKmspRt61N9Y6D1uWb) | [Fuza](https://open.spotify.com/artist/1eiNYZ59HozPD7OKwoeQz7), [D Reality Kings](https://open.spotify.com/artist/5SV0QdZ7vaJpCA7CweIPOR), [Nanki D](https://open.spotify.com/artist/1lcSnmtP8nswQYsT1svXUx) | [Trap Donoro](https://open.spotify.com/album/74w91or5ngbHAJyoYrKZWV) | 5:11 | 2022-01-27 | 2022-03-11 |
 | [Tribute to Self](https://open.spotify.com/track/35Y5UPzLfsrHPS7oewHWTo) | [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK) | [Pariah](https://open.spotify.com/album/5niQtK2kdX0YgSauxTI6Oy) | 7:43 | 2022-03-24 | 2022-04-29 |
 | [Trick Or Treat](https://open.spotify.com/track/7oFsUZrQL2ToqxqKjizxy5) | [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp) | [Trick Or Treat](https://open.spotify.com/album/5Satn9L6QzGWINbxa2tjKr) | 7:34 | 2025-05-01 | 2025-09-05 |
@@ -1519,5 +1518,6 @@
 | [Zwihh](https://open.spotify.com/track/7jsELonvgUM9tVrogBoWcD) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [Zwihh Lords](https://open.spotify.com/album/46RHwIFMkX6hJUxKsEvmPk) | 5:17 | 2024-06-06 | 2024-08-02 |
 | [Zwivhuya](https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:35 | 2022-01-06 | 2022-02-04 |
 | [Zwonaka](https://open.spotify.com/track/2PhF9xxDAX5FW0KNnkpah5) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Dinho](https://open.spotify.com/artist/4vrcirbPoyFvdc64YBlMof) | [Zwonaka](https://open.spotify.com/album/3I1u8Qd7piJ81sqGKyCeRO) | 7:27 | 2021-11-26 | 2022-04-01 |
+| [⁠Dubula \(feat\. Mellow & Sleazy & Colkaze\)](https://open.spotify.com/track/5vM3FsEyYMxt8oy03z79VH) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [LastBornDiroba](https://open.spotify.com/artist/467V6Wi666JBwBY3YMHSuJ), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Colkaze](https://open.spotify.com/artist/3f6UNjHAy4DiEtL0sWLZqq) | [1550](https://open.spotify.com/album/2qvrVQXQpYOQa8TydOkXMk) | 6:04 | 2025-11-13 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [Rica, Latina y Famosa](https://open.spotify.com/playlist/37i9dQZF1DWTOTEEDNE926)
 
-> las mujeres ya no lloran ✨ Elsa y Elmar en portada.
+> las mujeres ya no lloran ✨ De La Rose en portada.
 
-165 songs - 7 hr 57 min
+167 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A la de Lu](https://open.spotify.com/track/0s9vW98Z7g7fIrlFhzRHyu) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Sagitario](https://open.spotify.com/album/3NyaxrncxQzgN4IZiELlag) | 2:44 | 2025-03-28 | 2025-04-26 |
 | [A MI LAO](https://open.spotify.com/track/63xwzzlwHT7MFYiYdhptfa) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [A MI LAO](https://open.spotify.com/album/2vSjidmKHAZn7YbqMWKwSz) | 3:20 | 2025-03-28 | 2025-04-12 |
 | [Aceita](https://open.spotify.com/track/133ojSiEnlVwecCpvVc1BC) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:07 | 2024-04-26 | 2024-06-22 |
+| [ALL TIME](https://open.spotify.com/track/1z6VYGFSFhGoY0PLhhpvOE) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/5axCFUuprKXWFT1zpbv4sQ) | 2:54 | 2025-11-14 |  |
 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 | 2025-07-04 |  |
 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2023-11-29 | 2025-09-27 |
 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 | 2024-04-12 | 2025-02-22 |
@@ -21,6 +22,7 @@
 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 | 2025-11-07 |  |
 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 | 2024-05-03 | 2024-12-07 |
 | [BELLAKEO SUCIO](https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [BELLAKEO SUCIO](https://open.spotify.com/album/5rHqjm7ik12qcInXa7uVRN) | 3:01 | 2025-08-29 | 2025-10-18 |
+| [BENDITA](https://open.spotify.com/track/7GgXnj8kH7Wi7ACRZsE6hV) | [Monny Cardona](https://open.spotify.com/artist/1wji0qwVMjtdiDsYUdrrvu), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [BENDITA](https://open.spotify.com/album/1hKpXT0MuchYUDSEFx4ln5) | 2:26 | 2025-11-14 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-11-29 | 2025-03-29 |
 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 | 2025-03-28 |  |
 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 | 2024-02-15 |  |
@@ -49,7 +51,7 @@
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-11-29 |  |
 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 | 2024-03-08 | 2025-10-25 |
 | [Devoto](https://open.spotify.com/track/5ggoKefe3Hk0UstyqSI8FA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Devoto](https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV) | 3:32 | 2023-11-29 | 2024-05-18 |
-| [Dismorfia](https://open.spotify.com/track/6MxToHOYmYuNVMQiUtQxPX) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dismorfia](https://open.spotify.com/album/4zKIkjiwEzaHZ2ndAHVAC4) | 2:59 | 2025-09-26 |  |
+| [Dismorfia](https://open.spotify.com/track/6MxToHOYmYuNVMQiUtQxPX) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dismorfia](https://open.spotify.com/album/4zKIkjiwEzaHZ2ndAHVAC4) | 2:59 | 2025-09-26 | 2025-11-15 |
 | [DISPARA \*\*\*](https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 | 2023-11-29 |  |
 | [DOLCE](https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [DOLCE](https://open.spotify.com/album/0QJKGRAF89Fcgw2ho6oW6A) | 3:21 | 2025-01-24 |  |
 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 | 2024-05-18 |
@@ -144,7 +146,7 @@
 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 | 2023-11-29 | 2024-04-27 |
 | [SAN TURRONA](https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [SAN TURRONA](https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd) | 2:04 | 2024-05-17 | 2024-10-19 |
 | [SAN TURRONA REMIX](https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [SAN TURRONA REMIX](https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY) | 3:02 | 2024-10-18 |  |
-| [SE MUERE UN HADA](https://open.spotify.com/track/1MYrQBl1x6Fl6uIzCIrqAd) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm), [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [SE MUERE UN HADA](https://open.spotify.com/album/4NZ4J8bxveRAILJ8jIgM1t) | 3:21 | 2025-05-23 |  |
+| [SE MUERE UN HADA](https://open.spotify.com/track/1MYrQBl1x6Fl6uIzCIrqAd) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm), [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [SE MUERE UN HADA](https://open.spotify.com/album/4NZ4J8bxveRAILJ8jIgM1t) | 3:21 | 2025-05-23 | 2025-11-15 |
 | [Sed](https://open.spotify.com/track/6vj0K3O5jciMMNg345YWsG) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Sed](https://open.spotify.com/album/17ernAiKiNzzHxSyknI6J8) | 2:19 | 2024-11-29 | 2025-03-29 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-11-29 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |

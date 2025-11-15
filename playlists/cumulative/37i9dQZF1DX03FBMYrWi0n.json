@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Louis-Charles",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Vulgaires Machins",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "5052",
+        "url": "https://open.spotify.com/album/4jiaSDzn5aJuUBEY2ln6rr"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196266,
+      "name": "5052",
+      "url": "https://open.spotify.com/track/0I9j1LvGc5IaLDBzd6JJJo"
+    },
+    {
+      "album": {
         "name": "Business Core",
         "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
       },
@@ -92,10 +110,28 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 129000,
       "name": "5a7",
       "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
+    },
+    {
+      "album": {
+        "name": "Violences",
+        "url": "https://open.spotify.com/album/55nG03ltAhwElNsGbRSyd4"
+      },
+      "artists": [
+        {
+          "name": "Carences",
+          "url": "https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191476,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/42sl6gsdJVJICsTcIHXS5b"
     },
     {
       "album": {
@@ -1459,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "DOOMTOWN",
+        "url": "https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y"
+      },
+      "artists": [
+        {
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198966,
+      "name": "DOOMTOWN",
+      "url": "https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC"
+    },
+    {
+      "album": {
         "name": "Doreen",
         "url": "https://open.spotify.com/album/6lmX5j6f9yTnGiQ6agMJ6D"
       },
@@ -1524,7 +1578,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6k7sLvyYTXkld84P7valfu"
@@ -2068,7 +2122,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 155240,
       "name": "hana",
       "url": "https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo"
@@ -2198,7 +2252,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 219765,
       "name": "Incendie au paradis",
       "url": "https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU"
@@ -2437,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Je sais pas (One Shop Cowboy)",
+        "url": "https://open.spotify.com/album/65gSgyTSpVGw43FTIsNu6R"
+      },
+      "artists": [
+        {
+          "name": "Mort Rose",
+          "url": "https://open.spotify.com/artist/1JmY8VAvHw5VxpjXQATbiu"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158754,
+      "name": "Je sais pas (One Shop Cowboy)",
+      "url": "https://open.spotify.com/track/5yBiclBC1AYPyEVkWWlUok"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9bec Core",
         "url": "https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc"
       },
@@ -2466,7 +2538,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 219200,
       "name": "Journal d'un loup-garou",
       "url": "https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN"
@@ -2841,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Lazare",
+        "url": "https://open.spotify.com/album/3exLAmkRm2mwJM8gKlt51P"
+      },
+      "artists": [
+        {
+          "name": "Carences",
+          "url": "https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Lazare",
+      "url": "https://open.spotify.com/track/3nFebxOfpi9y8mJuAJTxSg"
+    },
+    {
+      "album": {
         "name": "Le feu",
         "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
       },
@@ -3165,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Urubu, gospel d\u2019un charognard",
+        "url": "https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz"
+      },
+      "artists": [
+        {
+          "name": "Pasteur Papillon",
+          "url": "https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217707,
+      "name": "Ma maison",
+      "url": "https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3"
+    },
+    {
+      "album": {
         "name": "Madone",
         "url": "https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO"
       },
@@ -3360,7 +3468,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 162613,
       "name": "Megastar",
       "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
@@ -3385,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Milquetoast",
+        "url": "https://open.spotify.com/album/6b3lLjWwLRbksC0vHNG72T"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne Barbier",
+          "url": "https://open.spotify.com/artist/2b6PbrllP38ILGLTkdcrZz"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Milquetoast",
+      "url": "https://open.spotify.com/track/4dDV4PY0AMF9e9oRBsHla3"
+    },
+    {
+      "album": {
         "name": "Jours de cendre",
         "url": "https://open.spotify.com/album/4qVeyzi0kYZ2ry5cR8ZFbF"
       },
@@ -3396,7 +3522,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 212709,
       "name": "Miroirs",
       "url": "https://open.spotify.com/track/2vHfUP4xN5KmbJR6A80k4Q"
@@ -3609,6 +3735,42 @@
     },
     {
       "album": {
+        "name": "Nos histoires",
+        "url": "https://open.spotify.com/album/6TDYPIPIxcrAG0Xn0r9Rxm"
+      },
+      "artists": [
+        {
+          "name": "Luell",
+          "url": "https://open.spotify.com/artist/69ppGySHiv20JuivlJ8M5T"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Nos histoires",
+      "url": "https://open.spotify.com/track/3r1HqBnEXT0nFpzJclSNdY"
+    },
+    {
+      "album": {
+        "name": "Nostalgie",
+        "url": "https://open.spotify.com/album/4C0eitej7hu6llo2ngDqwW"
+      },
+      "artists": [
+        {
+          "name": "Gladysse",
+          "url": "https://open.spotify.com/artist/6ZeIxr15WSTVBQHR1VUptI"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/099m18vSYgJmhGWSFG0jlD"
+    },
+    {
+      "album": {
         "name": "nouvelle vie",
         "url": "https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg"
       },
@@ -3728,7 +3890,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 188128,
       "name": "On ne pr\u00eate qu'aux riches",
       "url": "https://open.spotify.com/track/1ndwpvp9LyBYpWWxHkNH8Z"
@@ -3746,7 +3908,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 142658,
       "name": "Oubli\u00e9",
       "url": "https://open.spotify.com/track/4HlHPrHHWerDTKllHbQbRP"
@@ -4112,7 +4274,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 202377,
       "name": "PMB",
       "url": "https://open.spotify.com/track/3Jquyrvf3X3PRqGsvekjaN"
@@ -4184,7 +4346,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 158813,
       "name": "Poup\u00e9e",
       "url": "https://open.spotify.com/track/5CLOzwxNsyFJQFwBruVDjF"
@@ -4909,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "The New Year",
+        "url": "https://open.spotify.com/album/5PtqWo0taGspuTpgYXzWmM"
+      },
+      "artists": [
+        {
+          "name": "Ctznshp",
+          "url": "https://open.spotify.com/artist/5uBCRspN4binVeq2cdyy8G"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234826,
+      "name": "The New Year",
+      "url": "https://open.spotify.com/track/51hPoRUnQBZcnDeCYKfeAb"
+    },
+    {
+      "album": {
         "name": "We Are Sunshine",
         "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
       },
@@ -4992,10 +5172,28 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 233120,
       "name": "Tout rattraper",
       "url": "https://open.spotify.com/track/217AEOMcFUNPX3Dr6DNzVe"
+    },
+    {
+      "album": {
+        "name": "Contempler l'ab\u00eeme",
+        "url": "https://open.spotify.com/album/5Uk8LG9rHpZFTR7sI4RUqp"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174151,
+      "name": "Tout recommence",
+      "url": "https://open.spotify.com/track/6k4AAQgHGx1Lt7jcz0nsKM"
     },
     {
       "album": {
@@ -5064,7 +5262,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 175384,
       "name": "Trompe-l'oeil",
       "url": "https://open.spotify.com/track/0Xn0VGX1tjvOGyfkpSGrHg"
@@ -5144,6 +5342,24 @@
       "duration_ms": 182880,
       "name": "Un peu de magie",
       "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+    },
+    {
+      "album": {
+        "name": "Un, deux, trois",
+        "url": "https://open.spotify.com/album/60TeY4X9sTHrJtazAXnPv1"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Un, deux, trois",
+      "url": "https://open.spotify.com/track/4uogzCWt6guhPUvB3qIPz8"
     },
     {
       "album": {
@@ -5468,6 +5684,24 @@
       "duration_ms": 242086,
       "name": "\u00c7a part avec toi",
       "url": "https://open.spotify.com/track/6FDTHYLa4jRRAZiUbH5zdI"
+    },
+    {
+      "album": {
+        "name": "Velours et Acide",
+        "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Juste",
+          "url": "https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215815,
+      "name": "\u00c9thanol",
+      "url": "https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe"
     },
     {
       "album": {

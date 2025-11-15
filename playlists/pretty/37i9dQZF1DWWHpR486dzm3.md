@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Risto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,346 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,350 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 18 | [Ei tavata enää](https://open.spotify.com/track/4VatmZXdn4msiSXgj4EQgq) | [Auringonliitto](https://open.spotify.com/artist/51Bum5Uuzmq5gYnHlycMoH) | [Ei tavata enää](https://open.spotify.com/album/4NJTtdlHAO7s3M6CegzRA7) | 4:57 |
 | 19 | [Näitä päiviä on vielä tultava lisää](https://open.spotify.com/track/6EP06dSOCkbhxB8zQTqZyE) | [Neiti Olga](https://open.spotify.com/artist/7m7lPaTH2xKMatR193Xtop) | [Nuku vain yön yli](https://open.spotify.com/album/4xyf6IIYh63Ohgnr3Cl1hu) | 6:23 |
 | 20 | [Jättiläinen](https://open.spotify.com/track/2zCUjOxx43JXonzCA578r3) | [Aili Järvelä](https://open.spotify.com/artist/6r1mVyGnnq60IThQV3Is8j) | [VUORI](https://open.spotify.com/album/1aFmLcH2FXugbs3Fx2tZIT) | 4:32 |
-| 21 | [70\-luvun Muija](https://open.spotify.com/track/11qMJ3pUHe2ZVDaMwvbYt6) | [Suistamon Sähkö](https://open.spotify.com/artist/4lt3eYhDiGBsGHEtcrUZhv) | [70\-luvun Muija](https://open.spotify.com/album/5oXsUKGl1pJiXfw9cTisdZ) | 3:42 |
+| 21 | [70\-luvun muija](https://open.spotify.com/track/11qMJ3pUHe2ZVDaMwvbYt6) | [Suistamon Sähkö](https://open.spotify.com/artist/4lt3eYhDiGBsGHEtcrUZhv) | [70\-luvun muija](https://open.spotify.com/album/5oXsUKGl1pJiXfw9cTisdZ) | 3:42 |
 | 22 | [Joko tai](https://open.spotify.com/track/39jkVEzaExifwVIY5vDNUX) | [pampulameri](https://open.spotify.com/artist/7uDNqHNlp11cO2eoIgnmoJ) | [Joko tai](https://open.spotify.com/album/4Uf1gQyNX6Jue4XFivi1CI) | 3:18 |
 | 23 | [Rain](https://open.spotify.com/track/0M7Ld7MwZcR2SfxZyCCOhO) | [Blackbird](https://open.spotify.com/artist/5QnJXQfahTsBs8fA0dXAHc) | [Rain](https://open.spotify.com/album/600sFBSeXshHOSiVeIBbKX) | 3:23 |
 | 24 | [Sieluun sattuu](https://open.spotify.com/track/5WrxpmQVneq6j4PqjKjxOB) | [Pimu](https://open.spotify.com/artist/710DcajqmuzFfH7Qzy3fib), [ellaella](https://open.spotify.com/artist/6sWhRPdyQDP5E9DluIxvCD), [Perlia](https://open.spotify.com/artist/0iGbOTrc6nkRNYdjjVaHKq), [ÄmbÖ](https://open.spotify.com/artist/4G0t9tFkB3aF6Bzx9hSnL9) | [Sieluun sattuu](https://open.spotify.com/album/26Fz470PcPcxZBwKKnD186) | 2:52 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 27 | [Secret Medicine](https://open.spotify.com/track/5MNgPDNgQ6lgKe8ckMN5OH) | [SILVA EMILIA](https://open.spotify.com/artist/3PeH97KIdwxKktsHcde2MC) | [Secret Medicine](https://open.spotify.com/album/0dZKJtsPADyYYB0JmOPpwo) | 3:44 |
 | 28 | [Safiiri ja Teräs](https://open.spotify.com/track/0OCtfEdANpfKA79OKKdM0m) | [Rättö & Lehtisalo](https://open.spotify.com/artist/6psG7Ko0utfH26xwSszqxS) | [Herttakolmonen](https://open.spotify.com/album/1WkjpyjnUGyGMpy4JMVuKX) | 4:14 |
 | 29 | [Golden Chosen Playmate](https://open.spotify.com/track/7z4x0FL3LtzfS7nuALaUgb) | [Lone Deer Laredo](https://open.spotify.com/artist/1scboHOfwUJYuOECq7enNN) | [Lone Deer Laredo, Vol\. 3 \(3/7\)](https://open.spotify.com/album/77tEMjR4VRuaj0nnC9V3cF) | 3:45 |
-| 30 | [Hello World](https://open.spotify.com/track/64zAuOJw6RxvZIyL8pngKs) | [VoodooV](https://open.spotify.com/artist/6zlAZi3ZAlc3bs7srxb0yT) | [](https://open.spotify.com/album/null) | 4:00 |
+| 30 | [Hello World](https://open.spotify.com/track/64zAuOJw6RxvZIyL8pngKs) | [VoodooV](https://open.spotify.com/artist/6zlAZi3ZAlc3bs7srxb0yT) | [Hello World](https://open.spotify.com/album/1LslUEi3B1LtwCJcJUWzak) | 4:00 |
 | 31 | [Täydelliseen aikaan](https://open.spotify.com/track/298mQ8jO7jrCZL3vHaF3bY) | [Kielo Kärkkäinen](https://open.spotify.com/artist/6zgzjqOWkvTUDjWcPjcqXW) | [Täydelliseen aikaan](https://open.spotify.com/album/74OrOxDXBdjsXlKw6E3B74) | 3:09 |
 | 32 | [Starlings](https://open.spotify.com/track/0S81cmGoCVwpdSOkXaELXc) | [The Whistleblower](https://open.spotify.com/artist/7GuNfliw9j0CsLLR4iH6AX) | [Starlings](https://open.spotify.com/album/18bjoBj8HPl7KxYbzvP0ti) | 4:37 |
 | 33 | [Hatchet](https://open.spotify.com/track/4Eyv6QW5kiKazZEUTymN2o) | [Longing Louisa](https://open.spotify.com/artist/3XA3PiXHUOhlN2ZT4DngyC) | [Waterphile](https://open.spotify.com/album/09dRovXjGs7SuBvMb8lDWB) | 6:53 |

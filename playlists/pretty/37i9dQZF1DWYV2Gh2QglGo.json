@@ -1,13 +1,193 @@
 {
-  "description": "The home of Canadian country music. Cover: Meghan Patrick",
-  "num_followers": 83437,
+  "description": "The home of Canadian country music. Cover: Orville Peck",
+  "num_followers": 83442,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALIwMYKAsZhj72ZviXM4CSGpVP8S",
+  "snapshot_id": "AAAAANVSGTSwwAsFfIH5WU1K8SmZ3DKj",
   "tracks": [
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Appaloosa",
+        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Phone Call From Home",
+        "url": "https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 187119,
+      "name": "Phone Call From Home",
+      "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "The Hard Way (Deluxe)",
+        "url": "https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 154623,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Memories and Empties",
+        "url": "https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Memories and Empties",
+      "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "The Encore Mixes",
+        "url": "https://open.spotify.com/album/4LPotAUEKa8MtLsTmy2yeC"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 170741,
+      "name": "Drive Me Away - Dashboard Mix",
+      "url": "https://open.spotify.com/track/3COsBsMHY5UaB7slB7wno7"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Forever Changed",
+        "url": "https://open.spotify.com/album/14bUZXwTharErCVQWrMKZ8"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        },
+        {
+          "name": "Carolyn Dawn Johnson",
+          "url": "https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC"
+        }
+      ],
+      "duration_ms": 256223,
+      "name": "Forever Changed",
+      "url": "https://open.spotify.com/track/3HidZA7UD6dsFkXipUyntd"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Une autre histoire",
+        "url": "https://open.spotify.com/album/6tnNKtvAiy2pDdKcgqsCpB"
+      },
+      "artists": [
+        {
+          "name": "Blue Ridge Band",
+          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
+        }
+      ],
+      "duration_ms": 191192,
+      "name": "Une autre histoire",
+      "url": "https://open.spotify.com/track/3kguXseiQKUXWV7yfRgSjJ"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Dead to Me",
+        "url": "https://open.spotify.com/album/2xRaNNKbX7WNmrfSwNDS5W"
+      },
+      "artists": [
+        {
+          "name": "Foxx Worthee",
+          "url": "https://open.spotify.com/artist/1WawPHcYlurQhsH4yeBFzx"
+        }
+      ],
+      "duration_ms": 179218,
+      "name": "Dead to Me",
+      "url": "https://open.spotify.com/track/6cAgAl351adI4ETmE4pfnX"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4fwcfYjceW9f6ADq3vi8l9"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5xuF5KMWRnrY1Yhyp5aWCQ"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/77l3iPJ4UxNjefOz4isYY9"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/1t3YIOY6n3Rc54sJaetCQf"
+    },
+    {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
+    },
     {
       "added_at": "2025-10-24 04:25:20",
       "album": {
@@ -23,6 +203,42 @@
       "duration_ms": 210215,
       "name": "Both Can Be True",
       "url": "https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n"
+    },
+    {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
+    },
+    {
+      "added_at": "2025-11-07 00:01:45",
+      "album": {
+        "name": "Eldorado (Acoustique)",
+        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
+      },
+      "artists": [
+        {
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        },
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+        }
+      ],
+      "duration_ms": 197749,
+      "name": "Eldorado - Acoustique",
+      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
     },
     {
       "added_at": "2025-10-24 04:25:20",
@@ -109,42 +325,6 @@
       "url": "https://open.spotify.com/track/2grFyPMwj6cFj9ONYhiWjh"
     },
     {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
-    },
-    {
-      "added_at": "2025-11-07 00:01:45",
-      "album": {
-        "name": "Eldorado (Acoustique)",
-        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
-      },
-      "artists": [
-        {
-          "name": "Fred Dionne",
-          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
-        },
-        {
-          "name": "Katrine Sansregret",
-          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
-        }
-      ],
-      "duration_ms": 197749,
-      "name": "Eldorado - Acoustique",
-      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
-    },
-    {
       "added_at": "2025-10-31 00:01:28",
       "album": {
         "name": "Sometimes It Don't",
@@ -161,22 +341,6 @@
       "url": "https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW"
     },
     {
-      "added_at": "2025-10-31 00:01:28",
-      "album": {
-        "name": "The Longer You Hold On",
-        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "The Longer You Hold On",
-      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
-    },
-    {
       "added_at": "2025-11-07 00:01:45",
       "album": {
         "name": "Reckless Nights",
@@ -191,22 +355,6 @@
       "duration_ms": 233541,
       "name": "Reckless Nights",
       "url": "https://open.spotify.com/track/4GdfLxFLb7NhaIrFopsUPP"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
-      },
-      "artists": [
-        {
-          "name": "Emmett Jerome",
-          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
     },
     {
       "added_at": "2025-11-07 00:01:45",
@@ -457,22 +605,6 @@
       "url": "https://open.spotify.com/track/3YPDDkeiN7m1goTrCpXxjD"
     },
     {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Call For You",
-      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
-    },
-    {
       "added_at": "2025-10-24 04:25:20",
       "album": {
         "name": "Hate How I Love You",
@@ -535,22 +667,6 @@
       "duration_ms": 181010,
       "name": "Going For Broke",
       "url": "https://open.spotify.com/track/2EWVT4H6GxbAGQSYwpo4Na"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
     },
     {
       "added_at": "2025-10-17 04:01:39",
@@ -1039,22 +1155,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/3v4i64ZypTcXlvgaErajVv"
-      },
-      "artists": [
-        {
-          "name": "Blue Ridge Band",
-          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
-        }
-      ],
-      "duration_ms": 191193,
-      "name": "One More Story",
-      "url": "https://open.spotify.com/track/4ngdhEZrLazNDat5EEpptb"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/2MwGk2VLvM8u6fcmtDi1dm"
       },
@@ -1283,22 +1383,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "I Want You Back",
-        "url": "https://open.spotify.com/album/0LFgLg1muvHmltWfvUTob1"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "duration_ms": 150726,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3ln9qtsUKasUPxBhPg8Pam"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "Andrew Hyatt And The Ten Year War",
         "url": "https://open.spotify.com/album/00irVWgO6By7ZO6WYmGanw"
       },
@@ -1363,22 +1447,6 @@
       "duration_ms": 180763,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/7vI8yJI3tfFe8HDaus3Icl"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Oh, Canada",
-        "url": "https://open.spotify.com/album/1Vcwpq3JiRRR97DysYpOOs"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 209695,
-      "name": "Oh, Canada",
-      "url": "https://open.spotify.com/track/3Zm9XXGfjVLi5uCk0Am5Ul"
     },
     {
       "added_at": "2025-10-06 15:31:33",

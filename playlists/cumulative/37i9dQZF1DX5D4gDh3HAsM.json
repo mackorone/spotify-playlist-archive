@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "The Christmas Blues",
+        "url": "https://open.spotify.com/album/38thiVhrqcTTaSSlA7UYRX"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Dan Chmielinski",
+          "url": "https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108007,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/0rqpRtYIiK08re0L4wGqKO"
+    },
+    {
+      "album": {
         "name": "I Dream Of Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
       },
@@ -532,7 +554,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 205410,
       "name": "Christmas Is Coming - 2022 Mix",
       "url": "https://open.spotify.com/track/2iMeTjonLEIV8lx07EFpSo"
@@ -558,6 +580,28 @@
       "duration_ms": 172802,
       "name": "Christmas Is Here Can You Feel It?",
       "url": "https://open.spotify.com/track/6sEi1drxUrpCpFG3ghyjM4"
+    },
+    {
+      "album": {
+        "name": "Christmas isn\u2019t Christmas without you",
+        "url": "https://open.spotify.com/album/2LPOQ1mBTkdSujjNbTeXI4"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        },
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195340,
+      "name": "Christmas isn\u2019t Christmas without you",
+      "url": "https://open.spotify.com/track/4We6RiOruyHTQM1qDOVTjz"
     },
     {
       "album": {
@@ -2218,7 +2262,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 201469,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0hgt4MXj18Frxs8sYEBVo2"
@@ -3075,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/6amqkrUiXL6INWYtO64oeq"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292773,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1ucrWudcEalcwSKlzjXUSy"
+    },
+    {
+      "album": {
         "name": "Crescent City Christmas Card",
         "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
       },
@@ -3086,7 +3148,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 172960,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"

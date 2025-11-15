@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 539448,
+  "num_followers": 539486,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAACJwRHIQWmwdxSywT3j+Dio",
+  "snapshot_id": "aRUfgAAAAAB5sggDmalX1rMvBLLBeW0I",
   "tracks": [
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "eXplosion",
-        "url": "https://open.spotify.com/album/2oeDPXbXqgrYYXAJj9Iz3X"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "eXplosion",
-      "url": "https://open.spotify.com/track/6UkSkUIBJZaAiuAbflLa9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -839,22 +819,6 @@
       "duration_ms": 283586,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Love You Long Time",
-      "url": "https://open.spotify.com/track/5PdnrnroNNd7n3AOqvv4hD"
     },
     {
       "added_at": null,
@@ -875,6 +839,22 @@
       "duration_ms": 216026,
       "name": "Pump It - Travis Barker Remix Version",
       "url": "https://open.spotify.com/track/4ozSTxfmp1qTZ8DzaZtY97"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Love You Long Time",
+      "url": "https://open.spotify.com/track/5PdnrnroNNd7n3AOqvv4hD"
     },
     {
       "added_at": null,
@@ -931,6 +911,22 @@
       "duration_ms": 221694,
       "name": "NO MA\u00d1ANA",
       "url": "https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind The Front",
+        "url": "https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Joints & Jam",
+      "url": "https://open.spotify.com/track/1oPxTBaK2Hjtmwd7ICWHbK"
     }
   ],
   "unique_name": "This Is Black Eyed Peas",

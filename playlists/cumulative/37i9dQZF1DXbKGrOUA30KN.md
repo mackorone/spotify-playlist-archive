@@ -4,7 +4,7 @@
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: NESS
 
-132 songs - 5 hr 49 min
+132 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [DAS WICHTIGSTE](https://open.spotify.com/track/0tNIvDvRbXvj0upmLAJyB4) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [DAS WICHTIGSTE](https://open.spotify.com/album/3fyoEjmBa9Dofc4sDh5bPi) | 2:15 | 2025-10-30 |  |
 | [Dass ich gerade traurig bin](https://open.spotify.com/track/2UyMGtgY1gYF9LaaQjkb6K) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Dass ich gerade traurig bin](https://open.spotify.com/album/7jMsQAYfDh8bXiwcMGivBe) | 2:28 | 2025-10-24 |  |
 | [Dein Herz](https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dein Herz](https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc) | 2:51 | 2025-10-24 | 2025-11-07 |
+| [deine hand](https://open.spotify.com/track/3uDM7IKGuOdfXtoLyjI4OR) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [wir reden nicht mehr miteinander](https://open.spotify.com/album/6y5wK08A81EyjbQPQEDaiq) | 3:07 | 2025-11-13 |  |
 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 | 2025-10-24 | 2025-11-14 |
 | [dior sauvage](https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [dior sauvage](https://open.spotify.com/album/6mglQLvNF6toJrkOQId9zs) | 2:27 | 2025-10-24 | 2025-10-31 |
 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 | 2025-10-24 | 2025-11-07 |
@@ -110,7 +111,6 @@
 | [Spiegelbild](https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Spiegelbild](https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695) | 2:37 | 2025-10-30 |  |
 | [Spürst du das auch](https://open.spotify.com/track/2ixJRQMGyC7oWRrH6CbewK) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE), [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Spürst du das auch](https://open.spotify.com/album/4r91wKpYcCe9Vu9VV25jGE) | 2:25 | 2025-10-24 |  |
 | [tanz vor dir](https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [tanz vor dir](https://open.spotify.com/album/5S79DC0vOk4drHwWjRUnbM) | 2:25 | 2025-10-24 | 2025-11-07 |
-| [Track 5](https://open.spotify.com/track/3uDM7IKGuOdfXtoLyjI4OR) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 |  |
 | [tu was du nicht lassen kannst.](https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tu was du nicht lassen kannst.](https://open.spotify.com/album/1ElqUsxfaqFdUt3s8XlImO) | 2:31 | 2025-10-24 |  |
 | [Unbesiegbar](https://open.spotify.com/track/3Sm5fnLXDD4lRP9dSkqIKQ) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Unbesiegbar](https://open.spotify.com/album/0EIfuG6boq1JIaTHUoA4sX) | 2:47 | 2025-10-24 |  |

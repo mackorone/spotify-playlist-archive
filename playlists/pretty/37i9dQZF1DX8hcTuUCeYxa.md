@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: M\. Byrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,690 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,711 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Better Place](https://open.spotify.com/track/7p1TScCkeUQ3vSkKqTOcA8) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [](https://open.spotify.com/album/null) | 4:04 |
+| 1 | [A Better Place](https://open.spotify.com/track/7p1TScCkeUQ3vSkKqTOcA8) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [A Better Place](https://open.spotify.com/album/7ASXLiWyqOqv6mh386F5hL) | 4:04 |
 | 2 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 |
 | 3 | [Maybe Not Tonight](https://open.spotify.com/track/1NeYdwfqPVmmItoaBNq7KJ) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/2mRhyVJ7pkYWN4cXq1e8QG) | 2:45 |
 | 4 | [My Own Best Friend](https://open.spotify.com/track/4MB7JwejleVTLGX5Lirpgu) | [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs), [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [My Own Best Friend](https://open.spotify.com/album/2g7lxEHZE8fRUPRAycnEDt) | 3:15 |
 | 5 | [to say no more](https://open.spotify.com/track/5rnbeoJ7mqf57mLNwJhqYK) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0), [Jakob La Rosée](https://open.spotify.com/artist/52vFjl59OXzycvT6aKMNwf) | [to say no more](https://open.spotify.com/album/7yikgd0ei7H7YHXSOyP32k) | 2:46 |
 | 6 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 |
-| 7 | [Berlin TV Tower](https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [](https://open.spotify.com/album/null) | 3:16 |
+| 7 | [Berlin TV Tower](https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Another Picture](https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp) | 3:16 |
 | 8 | [Change](https://open.spotify.com/track/1fwHf7Calby2F56dBkV371) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r), [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Another Picture](https://open.spotify.com/album/4KX3JNsNm2zB2VZO7xMfvk) | 3:47 |
 | 9 | [Nuage Gris](https://open.spotify.com/track/2x02xV4vO3Ph7ndHQa4vVF) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Nuage Gris](https://open.spotify.com/album/4azWvnmyKImqcEkbZPnKCC) | 2:39 |
 | 10 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 15 | [Storm Warnings](https://open.spotify.com/track/1ChB4a5EAEBYR976Rvpdan) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Storm Warnings](https://open.spotify.com/album/2zR9Yz7UAkFyRdyvxebcf0) | 3:45 |
 | 16 | [Square One](https://open.spotify.com/track/4Z2PgAbOS261znlbkp6M4T) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Square One](https://open.spotify.com/album/2gpplpkQfk4si2JdU4TGUI) | 3:00 |
 | 17 | [And you stayed all weekend long](https://open.spotify.com/track/7u2c24mTb7yztPPPk1CDUt) | [IXIK](https://open.spotify.com/artist/2swveNUs1U58B8rbKsoMAW) | [And you stayed all weekend long](https://open.spotify.com/album/0ibPETKi0atU66N1vgZoul) | 3:46 |
-| 18 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [](https://open.spotify.com/album/null) | 4:24 |
+| 18 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
 | 19 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
 | 20 | [Wild Horses](https://open.spotify.com/track/1jJCUe04MO1eSPfgQq6kHW) | [Katzin](https://open.spotify.com/artist/6e7Xw8s3mJKQuRu7qSwDOE) | [Wild Horses](https://open.spotify.com/album/1DbRA0UEZLw63NZBLcCSbG) | 2:20 |
 | 21 | [Growing Pains](https://open.spotify.com/track/7ejis2ea5Tb0ubCb5IA96W) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [Time Flows Like Water](https://open.spotify.com/album/15sl6GUNFLKXvHw5cH42Ew) | 3:26 |

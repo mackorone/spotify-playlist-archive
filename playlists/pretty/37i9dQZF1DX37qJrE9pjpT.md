@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rapcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,393 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,400 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Barbender 8](https://open.spotify.com/track/0exAnaUjXraiJgvrvlUeh9) | [MEX CORTEZ](https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc) | [Barbender 8](https://open.spotify.com/album/2zCJtguOXaiNyNYCAZVIhc) | 4:36 |
 | 2 | [Politrix](https://open.spotify.com/track/4CKeIn5J2vlqmyuVtq7uZs) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa) | [Politrix](https://open.spotify.com/album/4sfKAbdvTNk1ptNCxChqni) | 3:51 |
-| 3 | [August 13](https://open.spotify.com/track/6Lizi5hTJBComvgrEEqejZ) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Salama Jay](https://open.spotify.com/artist/12SDhinnZ50DDXb0Yosg9t), [Juma Nature](https://open.spotify.com/artist/2enoDeXvzvFmUbauQLAEc1) | [Vina Mwanzo Kati Na Mwisho](https://open.spotify.com/album/2JSAora0TZoNsIgcDCAxNx) | 4:22 |
+| 3 | [Agosti 13 \(feat\. Salama Jay & Juma Nature\)](https://open.spotify.com/track/6Lizi5hTJBComvgrEEqejZ) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Salama Jay](https://open.spotify.com/artist/12SDhinnZ50DDXb0Yosg9t), [Juma Nature](https://open.spotify.com/artist/2enoDeXvzvFmUbauQLAEc1) | [Vina Mwanzo Kati Na Mwisho](https://open.spotify.com/album/2JSAora0TZoNsIgcDCAxNx) | 4:22 |
 | 4 | [Where you want \(feat\. Joh Makini & Kane Keid\)](https://open.spotify.com/track/4SmxftalCwkw2eZhnWw4xz) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto) | [Where you want \(feat\. Joh Makini & Kane Keid\)](https://open.spotify.com/album/2rDDjnlF2nrrYGzgVJWRv6) | 3:43 |
 | 5 | [Sayansi](https://open.spotify.com/track/79jk7HytiAKQZS8T27WGPm) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Belle 9](https://open.spotify.com/artist/6ggRSrG9TdJEVxreHuiapz) | [Sayansi](https://open.spotify.com/album/7FbTSmwk4oZvMREJLGRJOy) | 4:09 |
 | 6 | [Ya Moyoni](https://open.spotify.com/track/5YDluVvw7sqCdIMdYe6Sdg) | [Bank Budha](https://open.spotify.com/artist/073OZYfKOK3OAGCcnfX82O), [Nyota Ndogo](https://open.spotify.com/artist/6hnNyG5dkZdZuYitclrT0p), [Blinded Beats](https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7) | [Ya Moyoni](https://open.spotify.com/album/2H1e9zNuxVsHbF7npVbGj9) | 3:03 |

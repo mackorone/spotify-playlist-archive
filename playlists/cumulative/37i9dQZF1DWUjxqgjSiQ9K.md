@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Art Aguilera y Ivette & Ivon Lopez
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Redimi2
 
-862 songs - 2 day 19 hr 59 min
+863 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [La Bendición \(The Blessing\)](https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Tumbas A Jardines](https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf) | 6:59 | 2022-02-25 | 2022-05-28 |
 | [La Bondad De Dios](https://open.spotify.com/track/5C03IBdu3QDXPxC9LCGuQM) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Elena Witt](https://open.spotify.com/artist/2UerC4OYcdjmw36Df3rTXm) | [La Bondad De Dios](https://open.spotify.com/album/0pcMnjENVXe5uarAowDVWW) | 4:54 | 2025-06-27 | 2025-07-26 |
 | [La Carrera](https://open.spotify.com/track/76YNdppLgCPYW4maFMj2vS) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [La Carrera](https://open.spotify.com/album/7bheszsfnIyU1O5d3HgW6b) | 2:31 | 2022-02-25 | 2022-04-02 |
+| [La Casa de Jehová](https://open.spotify.com/track/1EbS3mkymF6ZE1z2rIfADN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Épico](https://open.spotify.com/album/2PeyGQojy1kpAgeYySd3En) | 4:45 | 2025-11-14 |  |
 | [La Comisión](https://open.spotify.com/track/7wUeqM2L8430LqHlHTBEVl) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Sesión Orgánica, Vol\. 5](https://open.spotify.com/album/5AN1CGHaidl3nJehGEF7mt) | 3:24 | 2022-10-28 | 2023-03-25 |
 | [la espera](https://open.spotify.com/track/3lL7CzPSIs56R8rjd8I1EX) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [la espera](https://open.spotify.com/album/7IlBHaoeokmqetRyf0qgWf) | 3:27 | 2025-10-17 |  |
 | [La Gloria de Dios](https://open.spotify.com/track/0FdSlQwlCWyQkf3NmO5TIa) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l) | [La Gloria de Dios](https://open.spotify.com/album/45PuiNYqTXdVOZgrwnU5JA) | 5:10 | 2025-02-21 | 2025-04-26 |
@@ -666,7 +667,7 @@
 | [Rumbo Pa La Iglesia](https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Esencia](https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP) | 2:51 | 2024-08-23 | 2024-11-23 |
 | [Río](https://open.spotify.com/track/1rdM5dxaACz1Xn37P4zSnR) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Río](https://open.spotify.com/album/6fWSXd0LUqDFVKZCP6TQaf) | 4:06 | 2022-02-25 | 2022-05-28 |
 | [Sal 22 / Te Amo](https://open.spotify.com/track/4DwySFpj8jUX4a5srbPCqi) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Sal 22 / Te Amo](https://open.spotify.com/album/4R52HFBigLI6sLbw4yIxyg) | 6:17 | 2025-07-25 | 2025-08-23 |
-| [Salento](https://open.spotify.com/track/7qSEAGqvs9ZLKpM1kcw6ui) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Salento](https://open.spotify.com/album/6zimYDDblEO4RVRVvRetGL) | 3:09 | 2024-10-11 |  |
+| [Salento](https://open.spotify.com/track/7qSEAGqvs9ZLKpM1kcw6ui) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Salento](https://open.spotify.com/album/6zimYDDblEO4RVRVvRetGL) | 3:09 | 2024-10-11 | 2025-11-15 |
 | [Salmo 34](https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Salmo 34](https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS) | 4:12 | 2023-03-24 | 2023-05-06 |
 | [Salmos 19](https://open.spotify.com/track/0JA0HLp5UQyD5D7ZshOd6c) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Salmos 19](https://open.spotify.com/album/0v8NQuT4jIbd8BUhJ5hlhE) | 12:02 | 2025-05-30 | 2025-09-27 |
 | [Samaritana](https://open.spotify.com/track/54XtrecvC7oCzdRK9Gd1P0) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Samaritana](https://open.spotify.com/album/6pHQsFuNCHoGC9ql2mHtRo) | 4:03 | 2022-05-20 | 2023-02-25 |

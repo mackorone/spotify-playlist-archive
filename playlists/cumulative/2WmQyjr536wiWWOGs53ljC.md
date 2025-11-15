@@ -4,7 +4,7 @@
 
 > REINVENTED IN 2024\. FEATURING: Joshua Lanuarii, Kittydog, Squiblers, MouSa, nbmusic &amp; Vincent &amp; The Black Rabbit.
 
-118 songs - 6 hr 46 min
+119 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [flight to niantic](https://open.spotify.com/track/7707WDXjuJa8H7VANtHahO) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Peachii](https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/5f0j7F675Kv00GwG8L7D2M) | 3:38 | 2022-09-30 |  |
 | [foe](https://open.spotify.com/track/12keUgPuJIc0coknyEm06n) | [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [foe](https://open.spotify.com/album/6ruEXdXWjQh3sImo9z3S38) | 3:12 | 2021-08-08 |  |
 | [Ganymede](https://open.spotify.com/track/3ntyz7n1h5DkNV70NY1WM0) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Satellite Dreams](https://open.spotify.com/album/7MyxImDjlAYqdDjnfGRqIY) | 11:19 | 2024-02-03 |  |
+| [GET AWAY WITH MURDER](https://open.spotify.com/track/4UfV0QR8WGVjcNFZas4JfR) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e), [Asterr](https://open.spotify.com/artist/79baYpVN5bf0u38KkcG2LM), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [GET AWAY WITH MURDER](https://open.spotify.com/album/5gNZYoUZcDtyC0MJ31EFRM) | 4:42 | 2025-11-14 |  |
 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 | 2024-12-27 |  |
 | [hatred](https://open.spotify.com/track/5WsnVQmlvwfUQR81hAE86D) | [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [hatred](https://open.spotify.com/album/4ryGDCO0SymxLi9umkTxTa) | 2:40 | 2020-11-06 |  |
 | [haunted](https://open.spotify.com/track/7lGJA3LZF5EM1b30ReCqFt) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk), [kamikaze's endless](https://open.spotify.com/artist/7k3CYBOdj2p7mSf9vxtz7J) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/5f0j7F675Kv00GwG8L7D2M) | 3:54 | 2022-09-30 |  |

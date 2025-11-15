@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "wir reden nicht mehr miteinander",
+        "url": "https://open.spotify.com/album/6y5wK08A81EyjbQPQEDaiq"
+      },
+      "artists": [
+        {
+          "name": "JUNA",
+          "url": "https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187809,
+      "name": "deine hand",
+      "url": "https://open.spotify.com/track/3uDM7IKGuOdfXtoLyjI4OR"
+    },
+    {
+      "album": {
         "name": "denk dr\u00fcber nach",
         "url": "https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW"
       },
@@ -1906,24 +1924,6 @@
       "duration_ms": 145849,
       "name": "tanz vor dir",
       "url": "https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "JUNA",
-          "url": "https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj"
-        }
-      ],
-      "date_added": "2025-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3uDM7IKGuOdfXtoLyjI4OR"
     },
     {
       "album": {

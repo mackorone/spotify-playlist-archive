@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,779 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,789 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 20 | [Dirty Old Town](https://open.spotify.com/track/426iqvsLVSgvInJiS9zQv4) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 3:32 |
 | 21 | [Paddle Me Own Canoe](https://open.spotify.com/track/4ayxeG7J8CyT0Bwb8bHIXb) | [Waxies Dargle](https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH) | [Irish Drinking Songs](https://open.spotify.com/album/2QYhhgP7i8J6mbANcKCeCv) | 2:45 |
 | 22 | [Tim Finnegan's Wake](https://open.spotify.com/track/6EPWeH2irogFsZoGnWnWMZ) | [The Tramps](https://open.spotify.com/artist/4Mri3B9nenKx2GkvnMr8RD) | [Silver & Gold](https://open.spotify.com/album/3GR5vrheMi9f0UbUuq2rGP) | 2:27 |
-| 23 | [Beer, Beer, Beer](https://open.spotify.com/track/43s0E9B8kiEGsAxU0gDkbi) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Flowers In the Valley](https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot) | 2:01 |
+| 23 | [Beer, Beer, Beer](https://open.spotify.com/track/43s0E9B8kiEGsAxU0gDkbi) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Flowers In the Valley](https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot) | 2:04 |
 | 24 | [Seven Old Ladies](https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq) | [Foster & Allen](https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA) | [Irish Drinking Songs \- 50 Pub Favorites from Ireland](https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ) | 4:34 |
 | 25 | [Finnegan's Wake](https://open.spotify.com/track/7BFOwBx6CvCNrA2gHI93NI) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 2:28 |
 | 26 | [The Irish Rover](https://open.spotify.com/track/5cmgKb5oNvCQXXh94YBOhy) | [Johnny Logan](https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc), [Friends](https://open.spotify.com/artist/76JUQKPJSC9OkcCGQ2cmuR) | [Our Best Irish Pub Songs](https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt) | 3:47 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 44 | [The Liar](https://open.spotify.com/track/3rPa6TTClkapOPHbRgyLj4) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [In Concert](https://open.spotify.com/album/34A2WmhLw962dn3IysrNe3) | 3:45 |
 | 45 | [Isn't It Grand, Boys \(with Tommy Makem\)](https://open.spotify.com/track/3JVpkxPJNIwRi4wTHAalHi) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Isn't It Grand Boys](https://open.spotify.com/album/5lakEd1iRGCoGWrbvi3057) | 2:58 |
 | 46 | [The Sick Note](https://open.spotify.com/track/3NhPGycrrCPH9HqZjpdrlA) | [Con O'Brien](https://open.spotify.com/artist/0GUFH5LfWWYiWtEn0CflP9) | [Our Songs 6](https://open.spotify.com/album/5GYFKVrwJqiTysbo6XgMbR) | 2:59 |
-| 47 | [Water Is Alright In Tay](https://open.spotify.com/track/1Of1mLn6DhF77g8zSAkypB) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Flowers In the Valley](https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot) | 1:52 |
+| 47 | [Water Is Alright In Tay](https://open.spotify.com/track/1Of1mLn6DhF77g8zSAkypB) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Flowers In the Valley](https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot) | 1:55 |
 | 48 | [The Juice of the Barley](https://open.spotify.com/track/1EZn4pTrt4lpUDA13KC5eF) | [Carlyle Fraser](https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta) | [Pint of Ale](https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa) | 3:06 |
 | 49 | [Lannigan's Ball](https://open.spotify.com/track/4b6BroZC04Sof9AnMwUUjD) | [Waxies Dargle](https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH) | [World Tour Of Ireland](https://open.spotify.com/album/3ayMUVVTJZIYUuKh7GODEH) | 3:47 |
 | 50 | [I'm A Rover](https://open.spotify.com/track/0yqxIaAm1otp6u9J906MI9) | [The Wild Rover](https://open.spotify.com/artist/64cO7ZH9TrRnOh7MUCfLBJ) | [Traditional Celtic Ballads](https://open.spotify.com/album/2VghxcDkb3hLDtTshYBaP8) | 3:11 |

@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> It's new girlgroup time with 3Quency
+> hello diva! with Mikayla Geier on the cover
 
-2,597 songs - 5 day 10 hr 30 min
+2,601 songs - 5 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Automatic](https://open.spotify.com/track/5R8lOiAXEKj6IS1wJROpr7) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:07 | 2023-08-18 | 2023-10-01 |
 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 | 2021-02-26 | 2021-07-31 |
 | [autumn](https://open.spotify.com/track/6MaZfHpY4EbxiLcEoZMjtO) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [autumn](https://open.spotify.com/album/2prJ7eqFdaGHq95cJdDjzj) | 2:47 | 2021-02-22 | 2021-12-04 |
+| [avoidant little b <3](https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [avoidant little b <3](https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ) | 2:28 | 2025-11-14 |  |
 | [avoiding](https://open.spotify.com/track/33n7ILhPNDsTjksq15o4qJ) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [avoiding](https://open.spotify.com/album/2O8CTOf7Urxw9curxCraoY) | 4:07 | 2019-07-27 | 2020-04-15 |
 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp) | 3:00 | 2021-10-25 | 2022-12-10 |
 | [Awash](https://open.spotify.com/track/70W9r4QKO03SeGxdxuo4I4) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Awash](https://open.spotify.com/album/2jkD1DxLkUGfJ8pp5iaE0T) | 3:09 | 2021-05-17 | 2021-10-16 |
@@ -583,7 +584,7 @@
 | [dirty dancing](https://open.spotify.com/track/1gdfNi8uXMJNWPvlFRPbUW) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [dirty dancing](https://open.spotify.com/album/5Ok7Du3YNww8fRqu8SSCe7) | 2:39 | 2022-07-18 | 2022-08-13 |
 | [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-07 | 2023-09-01 |
 | [dirty martini](https://open.spotify.com/track/1LMkpzEJCLFb1M7oc4ENwP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [dirty martini](https://open.spotify.com/album/5PxmH0NnEe5rlk4OuYgZxo) | 1:40 | 2025-06-13 | 2025-09-20 |
-| [dirty shirley](https://open.spotify.com/track/6kMRCc9RQCseorIJFn0sJn) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dirty shirley / no thoughts](https://open.spotify.com/album/5gDIcJCHbtgTgPR30MsfDk) | 2:16 | 2025-08-22 |  |
+| [dirty shirley](https://open.spotify.com/track/6kMRCc9RQCseorIJFn0sJn) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dirty shirley / no thoughts](https://open.spotify.com/album/5gDIcJCHbtgTgPR30MsfDk) | 2:16 | 2025-08-22 | 2025-11-15 |
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-06-24 | 2022-09-17 |
 | [Disco Man](https://open.spotify.com/track/7GDjBYc8Q3li08dXaZcMB9) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Disco Man](https://open.spotify.com/album/5IkAmFP38hsfWKA5Jv2XQ1) | 3:12 | 2020-08-04 | 2021-11-10 |
 | [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 | 2024-02-27 | 2024-05-18 |
@@ -1477,6 +1478,7 @@
 | [me with no shirt on](https://open.spotify.com/track/4kfbeIjJ5jgiAqgKlRIuUs) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [me with no shirt on](https://open.spotify.com/album/3ChvAG8hqJnQjg6hV4Ise2) | 2:48 | 2025-11-07 |  |
 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 | 2023-07-31 |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 | 2024-06-29 |
+| [Mean To Me](https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Mean To Me](https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA) | 2:04 | 2025-11-14 |  |
 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 | 2024-08-23 | 2024-09-14 |
 | [Meet You in Hell](https://open.spotify.com/track/2xdye2lhDblrS05XTHgBcb) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Meet You in Hell](https://open.spotify.com/album/5kD3hBP2KPEx4jLlugYVjo) | 3:07 | 2022-10-28 | 2023-01-28 |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-16 | 2024-01-05 |
@@ -1530,6 +1532,7 @@
 | [Monster](https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Monster](https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE) | 3:19 | 2024-03-08 | 2024-05-16 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-27 | 2021-08-20 |
 | [mood swings](https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt) | 2:05 | 2025-10-03 |  |
+| [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 | 2025-11-14 |  |
 | [Moonlight](https://open.spotify.com/track/5PG863bM3f6nnUel0e0AS3) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Moonlight](https://open.spotify.com/album/77Z6SanMi4623M4tRBMXQf) | 3:11 | 2021-03-19 | 2021-11-20 |
 | [More To You](https://open.spotify.com/track/3kpXsXVUkPus5T7Qld833K) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [More To You](https://open.spotify.com/album/5wOG2cUteiFYJ9u19jHkzL) | 3:54 | 2021-04-17 | 2021-05-25 |
 | [More!](https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [More!](https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo) | 2:27 | 2025-05-02 | 2025-08-18 |
@@ -2018,7 +2021,7 @@
 | [Shut Up And Kiss Me](https://open.spotify.com/track/2qg2TSSsquBluOPeUubLw3) | [Stereo Jane](https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF) | [Are We There Yet?](https://open.spotify.com/album/2bLDprvLHT88AUOEnGmuK8) | 2:57 | 2022-03-18 | 2022-06-07 |
 | [Shut Your Mouth \(Sometimes\)](https://open.spotify.com/track/1aumaeh5sU4VbH1ESkWaPO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Think They’re Looking, Let's Perform](https://open.spotify.com/album/3J4dEQWW7RnP3VyiYFY7Et) | 2:46 | 2025-06-20 | 2025-08-30 |
 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 | 2023-11-24 | 2024-01-05 |
-| [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 | 2025-08-01 |  |
+| [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 | 2025-08-01 | 2025-11-15 |
 | [Sick](https://open.spotify.com/track/0onHKgp0eyOh8ftYR7OF8v) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Sick](https://open.spotify.com/album/5ZtZLNAKBR50jDXmW2oKGP) | 2:51 | 2023-08-11 | 2023-08-19 |
 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 | 2023-07-21 | 2023-09-28 |
 | [sick](https://open.spotify.com/track/34RxK0xpgnXdv5fDzk5ucr) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [sick](https://open.spotify.com/album/6RQegwRSMG4SFNSxNXu1w8) | 3:21 | 2024-02-23 | 2024-03-23 |
@@ -2164,7 +2167,7 @@
 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 | 2025-05-09 | 2025-09-20 |
 | [Sugar](https://open.spotify.com/track/2Vmya1dCGevyl4AJnWIRt2) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Sugar](https://open.spotify.com/album/2GfyENdWR6Q9sXQTwzpBsu) | 3:14 | 2021-04-19 | 2021-11-16 |
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-26 |
-| [Sugar, baby](https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:36 | 2025-07-04 |  |
+| [Sugar, baby](https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:36 | 2025-07-04 | 2025-11-15 |
 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 | 2024-11-15 | 2024-11-30 |
 | [Summer](https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN) | [Beno](https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz) | [Summer](https://open.spotify.com/album/3WBvHRbPcanFjK0at0np3m) | 2:48 | 2025-08-29 |  |
 | [Summer](https://open.spotify.com/track/7tsHqxfepei1AdLjy93XIv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Summer](https://open.spotify.com/album/6Qdb2YYRKzhKooyDC6lBLC) | 2:58 | 2019-05-26\* | 2020-04-18 |
@@ -2423,6 +2426,7 @@
 | [upside down](https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [upside down](https://open.spotify.com/album/4ittGDLkz4slK7qEsgAy0R) | 3:07 | 2021-02-22 | 2021-05-27 |
 | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/track/5SRbCgZtJwjql6ITCrRmeV) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/album/2O1LT1yAOyvF0WIssbcdQu) | 3:36 | 2020-04-18 | 2021-11-06 |
 | [UR SO FULL OF IT](https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT](https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS) | 2:14 | 2023-05-12 | 2023-06-05 |
+| [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-11-14 |  |
 | [Used To](https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Used To](https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q) | 3:19 | 2022-11-18 | 2022-12-13 |
 | [used to](https://open.spotify.com/track/1qGkpyAYRid7blCDbEpT2w) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [used to](https://open.spotify.com/album/5OaolzqDjg5aoWEhTNgQMq) | 2:47 | 2020-05-30 | 2021-11-10 |
 | [Used To You](https://open.spotify.com/track/7t3Ldw0z7zS0WyzlV7aJGV) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Used To You](https://open.spotify.com/album/1wsDnm2tdaK86BQs5gth5f) | 3:12 | 2019-05-26\* | 2019-06-15 |
@@ -2540,7 +2544,7 @@
 | [Win](https://open.spotify.com/track/632CutbxIbe3zwr0Pg5oFK) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [What Do You Like In Me](https://open.spotify.com/album/56pGforwuUa5IegFeMqVru) | 2:44 | 2021-03-10 | 2021-08-20 |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2021-01-25 | 2022-10-29 |
 | [Window Shopping](https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [Window Shopping](https://open.spotify.com/album/240WxWalwymGHAPOJ3hNPp) | 2:58 | 2024-01-05 | 2024-03-09 |
-| [Winner](https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Winner](https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme) | 2:46 | 2025-10-03 |  |
+| [Winner](https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Winner](https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme) | 2:46 | 2025-10-03 | 2025-11-15 |
 | [Winter In LA](https://open.spotify.com/track/2nuOpLwdmen2BRhV2fOvXM) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Winter In LA](https://open.spotify.com/album/3jft4lonUAEnDbK0ODYvIe) | 2:53 | 2022-02-11 | 2022-03-11 |
 | [Winter's Coming](https://open.spotify.com/track/2aOrJTA8AUVWPBjSB4negX) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Winter's Coming](https://open.spotify.com/album/2eZcgp7ogQushYjwFegmmi) | 2:55 | 2021-07-16 | 2022-01-22 |
 | [wish we never happened](https://open.spotify.com/track/5c9DWtkq7J4mwsTrUZXqoZ) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [wish we never happened](https://open.spotify.com/album/2XqBbRJa4AbY9z9vnqjNwz) | 3:04 | 2022-07-22 | 2022-10-29 |

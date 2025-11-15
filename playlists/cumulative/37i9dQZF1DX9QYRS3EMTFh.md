@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : P.L.L
 
-716 songs - 1 day 6 hr 54 min
+717 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Same Process \- Inspiré du film "Zion"](https://open.spotify.com/track/2NSLrInvjBu9LH9qQzpd7L) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [B.mad](https://open.spotify.com/artist/5rzmG6OxYGiKvoVC3fxVaQ) | [Same Process \(Inspiré du film "Zion"\)](https://open.spotify.com/album/54eEhTwifxlSOK3YUPrYkI) | 2:00 | 2025-04-03 | 2025-04-18 |
 | [Sammy Sosa](https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Sammy Sosa](https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp) | 2:31 | 2021-12-22 | 2022-01-07 |
 | [san vou](https://open.spotify.com/track/0BAt71mdZWvonzQmHjE5HS) | [Daly](https://open.spotify.com/artist/3f9kMCz94xuAamS24WbmGL) | [san vou](https://open.spotify.com/album/3yBObEH8bc3RTLkFQNKOtX) | 2:23 | 2024-03-28 | 2024-04-26 |
+| [Sans marier](https://open.spotify.com/track/6si7mzPvjy37B4LvCzKNaR) | [Kaf Malbar](https://open.spotify.com/artist/1id4EoPVo5qfzdP5gMf5U3), [Keyo Beatz](https://open.spotify.com/artist/1fQLqK0mbOZbYj4muqHIde) | [Sans marier](https://open.spotify.com/album/20Hu5D31OVJRkQGZtF9Ufr) | 2:51 | 2025-11-13 |  |
 | [Scandal](https://open.spotify.com/track/3KpUxFBQw6540ate80bD8o) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Scandal](https://open.spotify.com/album/56VOepYMz6SrFDM37OHKF8) | 2:46 | 2022-10-13 | 2023-02-10 |
 | [Scélérat](https://open.spotify.com/track/2Kuif785CxqZdTQ7RZ1w3R) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Scélérat](https://open.spotify.com/album/3WAUdjiuBfi6ffPmBBjH3A) | 2:24 | 2025-03-27 | 2025-04-11 |
 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 | 2022-06-09 | 2022-07-22 |

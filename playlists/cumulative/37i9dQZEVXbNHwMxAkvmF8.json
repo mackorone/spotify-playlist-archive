@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 250000,
       "name": "Csurran, cseppen",
       "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -20706,7 +20706,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 126930,
       "name": "Osztriga",
       "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
@@ -21536,7 +21536,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 114626,
       "name": "PATTOG A BEAT",
       "url": "https://open.spotify.com/track/4mi7BpmzNXK5J3dRgyGG9i"
@@ -25040,6 +25040,32 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "Shao Leng Leng",
+        "url": "https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU"
+      },
+      "artists": [
+        {
+          "name": "hazetomika",
+          "url": "https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL"
+        },
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178674,
+      "name": "Shao Leng Leng",
+      "url": "https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU"
     },
     {
       "album": {

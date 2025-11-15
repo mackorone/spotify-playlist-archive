@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-1,025 songs - 3 day 16 hr 35 min
+1,027 songs - 3 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Copán](https://open.spotify.com/track/5z6CP3ShPjhvxr9RwclquZ) | [Maōh](https://open.spotify.com/artist/4wVPNdSSezVLW3Iss6c33t) | [Four Omens](https://open.spotify.com/album/0I0pnmuGFiiopQJEMDYyAb) | 5:02 | 2025-10-24 |  |
 | [Cor ad Cor](https://open.spotify.com/track/5E8IxHpAu1UvA2jJRF9KA7) | [Billie Jo](https://open.spotify.com/artist/0SL3ekcGZX9hnox1M1iYRA) | [LILIES11](https://open.spotify.com/album/25Sv4y5LzBFzW0VW59SzQp) | 5:15 | 2023-04-28 | 2023-05-26 |
 | [Correct Incorrect](https://open.spotify.com/track/5wL44XSTf5VZqE6F2gcpCo) | [DJ Dextro](https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO) | [Covil dos Abutres](https://open.spotify.com/album/2oCPBJu8wzoMzh9kif9Fed) | 4:56 | 2025-05-09 | 2025-07-19 |
+| [Cosmic Affliction \- Toi Toi Toi](https://open.spotify.com/track/46UHbvpz7tCUYgTl9wD0RN) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [Neoforma](https://open.spotify.com/album/6suoSX8lLQX99UrMHf1XnO) | 5:05 | 2025-11-14 |  |
 | [Cosmic Tribe](https://open.spotify.com/track/3vXjlzj7cbK7EhL3Lz9W92) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Drops in Heaven](https://open.spotify.com/album/6ikpe39GlV0eEborKexOFr) | 6:34 | 2024-03-13 | 2024-04-13 |
 | [Cosmopolitan](https://open.spotify.com/track/5tgiK17RjaGmiBjgYonVm1) | [Obstructor](https://open.spotify.com/artist/5suUzo3By6I3aPI1YLIzJ8) | [Cosmopolitan](https://open.spotify.com/album/3PXEx5tcw9qoj46Sp6qXZ1) | 7:09 | 2025-04-04 | 2025-05-10 |
 | [Crave](https://open.spotify.com/track/0hVwRTlt9ZwJjjfnKjkPYX) | [SALOME](https://open.spotify.com/artist/6r27qPL5CdAwLszXNgpRPV), [Volruptus](https://open.spotify.com/artist/4uDJetmKX6GhS4K91q1cbU) | [Crave](https://open.spotify.com/album/6exVRawwvQA65R3L9pG3wP) | 7:38 | 2023-11-30 | 2024-01-20 |
@@ -591,6 +592,7 @@
 | [Nectar](https://open.spotify.com/track/37SvWcoacftMi5pFvHZpQt) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Ellen Allien Presents We Are Not Alone, Pt\. 6](https://open.spotify.com/album/2OULCZ0Z6QdGSrfEAdkstR) | 4:28 | 2025-04-04 |  |
 | [Negative Space](https://open.spotify.com/track/0P2SyKn2Oq36gGMYQuDuFi) | [Ghost In The Machine](https://open.spotify.com/artist/5opfVCjYF7B4DIKULygJ84), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Greatest Hit vol\. 1](https://open.spotify.com/album/4u08P32hA5AfjjxicmaF9Z) | 7:17 | 2023-06-30 | 2023-08-05 |
 | [Neo Romance](https://open.spotify.com/track/0MSycxDuVHxfYepoWmAmuB) | [Stephanie Sykes](https://open.spotify.com/artist/0Q6dRCEC8zbkt629wKltea) | [Neo Romance](https://open.spotify.com/album/6XXEG9oIRnrG6wirbWfGoA) | 4:11 | 2023-03-17 | 2023-04-15 |
+| [Neuromancer](https://open.spotify.com/track/18VlAbo4c4NLA82SXapfgs) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [Neoforma](https://open.spotify.com/album/6suoSX8lLQX99UrMHf1XnO) | 6:16 | 2025-11-14 |  |
 | [New Boy \- TWR72 Remix](https://open.spotify.com/track/4Ny2eUya3YGEQso1SwcqOL) | [Concrete Husband](https://open.spotify.com/artist/4lT3QEjGrOZyCwqoHPjZES), [TWR72](https://open.spotify.com/artist/3xppiQ1WFn0sPv4ZQJjqzO) | [Piel](https://open.spotify.com/album/3SeEWkJh62Gy81qcrCNYUm) | 5:38 | 2025-07-18 | 2025-10-25 |
 | [Nicht Erreichbar](https://open.spotify.com/track/2VTvhpXp0a0NKn57f6vG07) | [D\. Carbone](https://open.spotify.com/artist/5Vgqu4hmDNNeYzMSj0feZI) | [Dancing For Freedom](https://open.spotify.com/album/4Nyy2PbX8SRuJJUeHgPMvP) | 6:14 | 2024-07-15 | 2024-11-09 |
 | [Night](https://open.spotify.com/track/2ST4rHwfdfkuArUKvdGn8a) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:56 | 2023-08-04 | 2023-12-14 |
@@ -979,7 +981,7 @@
 | [Wanted Dead \- Red Version](https://open.spotify.com/track/1KHaobl0qJxCzdXYpisL8L) | [Dasha Rush](https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4) | [Wanted Dead](https://open.spotify.com/album/56k21QfHw73IgRXHUeO6XB) | 4:32 | 2022-12-03 | 2023-02-11 |
 | [Warp](https://open.spotify.com/track/2PSwCG7aD27HBBzOqeV3Im) | [Inox Traxx](https://open.spotify.com/artist/0fNFzSVkQDwZpVJJtVCbmJ) | [Free EP](https://open.spotify.com/album/4M0LpE0MnToUQRKGJGISQ7) | 3:30 | 2025-10-24 |  |
 | [Wasp](https://open.spotify.com/track/559ectDhnLjhxKGeBFzFN5) | [Unwucht](https://open.spotify.com/artist/4PIFkjTKzMUYPdH1Zgsdxh) | [AKRONYM 010: Wasp](https://open.spotify.com/album/6OJeJ4W0lfYwqnN1Y5WyFe) | 6:06 | 2023-11-30 | 2024-01-20 |
-| [Water Leaking From Their Eyes](https://open.spotify.com/track/1ZwIiJKWg2jM9gobiDLbFJ) | [DJ Europarking](https://open.spotify.com/artist/6v2HisLcnWEbfHNUu89Aox) | [Water Leaking From Their Eyes](https://open.spotify.com/album/1DSZTG1MkKYRvO3s9aF7RN) | 5:08 | 2025-10-24 |  |
+| [Water Leaking From Their Eyes](https://open.spotify.com/track/1ZwIiJKWg2jM9gobiDLbFJ) | [DJ Europarking](https://open.spotify.com/artist/6v2HisLcnWEbfHNUu89Aox) | [Water Leaking From Their Eyes](https://open.spotify.com/album/1DSZTG1MkKYRvO3s9aF7RN) | 5:08 | 2025-10-24 | 2025-11-15 |
 | [Wave Upon Wave](https://open.spotify.com/track/7rS5NX5a8IJeaYJXu7lnao) | [Lee Holman](https://open.spotify.com/artist/1TBZjKXjGYAjSxBynI8gLP) | [NECH026](https://open.spotify.com/album/4Yw3yFEdI6H5ousYbiRQ7Z) | 5:28 | 2024-11-08 | 2024-12-14 |
 | [Way Out](https://open.spotify.com/track/3BKLM6iHGU9oaEB8egI4sv) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up), [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Orchestra of Bubbles](https://open.spotify.com/album/6ZcgmpLCJlduucY4Vsd23F) | 3:41 | 2024-12-13 | 2025-01-11 |
 | [We Are The Future](https://open.spotify.com/track/46IPss7wk59NgHt6rxAEt1) | [Reka](https://open.spotify.com/artist/7An060Vzi2rRZrTxXNEhCc) | [We Are the Future](https://open.spotify.com/album/0AYdtk9icQ7JhswKAHU1F5) | 4:30 | 2023-02-10 | 2023-03-18 |

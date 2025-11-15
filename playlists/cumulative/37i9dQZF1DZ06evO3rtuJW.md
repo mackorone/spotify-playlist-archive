@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-206 songs - 10 hr 13 min
+207 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,8 +178,9 @@
 | [T.O.P.](https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:40 | 2023-02-24 | 2023-05-01 |
 | [Teflon](https://open.spotify.com/track/4e7MKSoUZSHG3r1kZe4psM) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Taurus](https://open.spotify.com/artist/31yqUKDLuRIRp6WrGHijf9), [Wheezy](https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL) | [Strictly For My Fans 2.0](https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd) | 2:57 | 2024-12-06 | 2025-01-01 |
 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 | 2024-09-08 | 2024-10-07 |
-| [Texas Shit](https://open.spotify.com/track/557NXk72PWUFiCZ9hS28pC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [THF Law](https://open.spotify.com/artist/71llkA0kopB8HdhpsqpdjR), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [STILL GHETTO](https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k) | 3:39 | 2025-10-08 |  |
+| [Texas Shit](https://open.spotify.com/track/557NXk72PWUFiCZ9hS28pC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [THF Law](https://open.spotify.com/artist/71llkA0kopB8HdhpsqpdjR), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [STILL GHETTO](https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k) | 3:39 | 2025-10-08 | 2025-11-15 |
 | [Thank Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6cMDoVNZ9qCiDQGUdV3Mbh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 3:20 | 2025-11-09 | 2025-11-10 |
+| [This N That \(Bonus\)](https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 3:18 | 2025-11-15 |  |
 | [Through The Fire](https://open.spotify.com/track/0EngAXfx8kNX7I8W4CVJZX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 3:07 | 2025-04-20 | 2025-08-03 |
 | [Through The Fire](https://open.spotify.com/track/25fdio8bhsK7Z93UXjfvKd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8) | 3:07 | 2025-08-31 | 2025-09-28 |
 | [Throw \(feat\. G Herbo\)](https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BIG SCOOM \(Vol\. 1\)](https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49) | 2:53 | 2024-12-31 | 2025-04-11 |

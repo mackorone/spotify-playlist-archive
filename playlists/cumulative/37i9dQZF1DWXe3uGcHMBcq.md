@@ -4,7 +4,7 @@
 
 > Listen to your favorite Disney Channel Hits, including the new Electric Bloom soundtrack.
 
-199 songs - 9 hr 23 min
+200 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Show Them the Light \- From "Kiff: Lore of the Ring Light"](https://open.spotify.com/track/5lJHEgN7GMQrlNUVjaBwJg) | [Kiff \- Cast](https://open.spotify.com/artist/0uIH4tpwsBsgQKWtQMYuI1) | [Show Them the Light \(From "Kiff: Lore of the Ring Light"\)](https://open.spotify.com/album/5gooe8RHdo1fcClyBzLgnc) | 2:38 | 2025-01-16 |  |
 | [Shrimpy in the House \- From "ZOMBIES: Addison's Monster Mystery"](https://open.spotify.com/track/6OLWoRF3H3DHBNC678u8Cc) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Shrimpy in the House \(From "ZOMBIES: Addison's Monster Mystery"\)](https://open.spotify.com/album/6xxc5HicmkmXUfQQMcybhQ) | 2:25 | 2024-05-22 |  |
 | [Silver Screen](https://open.spotify.com/track/626gMZNa7wD7cuFqothrtR) | [Brady](https://open.spotify.com/artist/4j6UbCmWa3sZAq8zmy1ZXd), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC) | [Teen Beach 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P) | 2:58 | 2024-05-22 |  |
+| [Snow Angels \- From "ZOMBIES 4: Dawn of the Vampires"](https://open.spotify.com/track/3aP0wPmSXkeAEIsMcsrlH3) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme) | [Snow Angels \(From "ZOMBIES 4: Dawn of the Vampires"\)](https://open.spotify.com/album/3teLuVRnC4Glg7RoK7emW1) | 3:27 | 2025-11-14 |  |
 | [So Far So Great \- Theme Song to Sonny with a Chance](https://open.spotify.com/track/6bggFlWw1UcfiYepg8B3KH) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here We Go Again](https://open.spotify.com/album/01yg4gm9pFOJbwQKj46ZYK) | 2:14 | 2024-05-22 |  |
 | [Somebody](https://open.spotify.com/track/0KXvGydCYbBgHUlqrDbz3N) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:28 | 2024-05-22 |  |
 | [Someday](https://open.spotify.com/track/2d1AiZExnhYoauaSWkB1Fm) | [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0) | 3:03 | 2024-05-22 |  |

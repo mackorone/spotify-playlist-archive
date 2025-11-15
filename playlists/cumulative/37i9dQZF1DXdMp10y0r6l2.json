@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "mucho ruido, puro ruido. Poppy en portada",
+  "description": "mucho ruido, puro ruido. The Devil Wears Prada en portada",
   "name": "Dark and Furious",
   "tracks": [
     {
@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Bruised Sky",
+        "url": "https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220837,
+      "name": "Bruised Sky",
+      "url": "https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH"
+    },
+    {
+      "album": {
         "name": "Bruja Encabronada",
         "url": "https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj"
       },
@@ -1396,6 +1414,24 @@
       "duration_ms": 259042,
       "name": "Can You See It?",
       "url": "https://open.spotify.com/track/26haQh7H28301Z7petISZ4"
+    },
+    {
+      "album": {
+        "name": "Cardinal In The Crossfire",
+        "url": "https://open.spotify.com/album/6zWgy4sI3UGqFTp7t4dK2w"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165744,
+      "name": "Cardinal In The Crossfire",
+      "url": "https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ"
     },
     {
       "album": {
@@ -4051,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "In Threes",
+        "url": "https://open.spotify.com/album/3hDNvAoYiCWs9Vv1yHNQ6t"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216166,
+      "name": "In Threes",
+      "url": "https://open.spotify.com/track/1LtzeD1ZFgOL8AAvIBHDDp"
+    },
+    {
+      "album": {
         "name": "A Bloodred Path",
         "url": "https://open.spotify.com/album/7qOojUIgAGLgAuxHNevroy"
       },
@@ -4732,6 +4786,24 @@
       "duration_ms": 413800,
       "name": "Like Tears (In the Dust) - Remastered",
       "url": "https://open.spotify.com/track/76C6RZnjp3SGCCiq1MVfEV"
+    },
+    {
+      "album": {
+        "name": "Lover Of A Ghost",
+        "url": "https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181344,
+      "name": "Lil Crush",
+      "url": "https://open.spotify.com/track/6CBZ7e4CQyPucgTfxveg7x"
     },
     {
       "album": {
@@ -7703,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "Struck Dead",
+        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317174,
+      "name": "Struck Dead",
+      "url": "https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ"
+    },
+    {
+      "album": {
         "name": "The Glorious Moments",
         "url": "https://open.spotify.com/album/17rJ7ob5D19BPmHfzU74cj"
       },
@@ -9628,6 +9718,24 @@
       "duration_ms": 180506,
       "name": "What You Deserve",
       "url": "https://open.spotify.com/track/2pbYZhE25xmIhEsISJbqLF"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216646,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
     },
     {
       "album": {

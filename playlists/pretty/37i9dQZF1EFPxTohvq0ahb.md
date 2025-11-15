@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,582 likes - 118 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,581 likes - 118 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 30 | [I Lied](https://open.spotify.com/track/6pdIwUDwQzoz9ENNsPKqDM) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 5:04 |
 | 31 | [Stick Around](https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Stick Around](https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG) | 3:30 |
 | 32 | [Lovin' So Hard](https://open.spotify.com/track/5EnCFISDzoIMWMaicJxxX9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lovin' So Hard](https://open.spotify.com/album/3TeV2AlhkVndwTUafUjmfQ) | 3:41 |
-| 33 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 |
-| 34 | [Let It Grow \- From "Dr\. Seuss' The Lorax"](https://open.spotify.com/track/5BWbhDZB3TJgF7hb2TlTIG) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX), [Jenny Slate](https://open.spotify.com/artist/47MKT4N2j09fZJ683zjDRk), [Betty White](https://open.spotify.com/artist/2NHT2PJ2UmOu6Y6Wj73imp), [Rob Riggle](https://open.spotify.com/artist/4OvBaBOYjyftit2jET0z5O) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 3:17 |
+| 33 | [Let It Grow \- From "Dr\. Seuss' The Lorax"](https://open.spotify.com/track/5BWbhDZB3TJgF7hb2TlTIG) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX), [Jenny Slate](https://open.spotify.com/artist/47MKT4N2j09fZJ683zjDRk), [Betty White](https://open.spotify.com/artist/2NHT2PJ2UmOu6Y6Wj73imp), [Rob Riggle](https://open.spotify.com/artist/4OvBaBOYjyftit2jET0z5O) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 3:17 |
+| 34 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 |
 | 35 | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4yb2x8ZxKSszH0TX4rJI8M) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:42 |
 | 36 | [Thinkin Bout You](https://open.spotify.com/track/594trlRjNdTyYLwIlcDaJM) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:48 |
 | 37 | [Wrong Places \(from Songland\)](https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Wrong Places \(from Songland\)](https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P) | 3:17 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 117 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 118 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `AcBgpgAAAAAMR8rfbNDbbBgFT4FEtepN`
+Snapshot ID: `AcBmRgAAAAAqBlqOSlPO6bbrgBW041Wp`

@@ -8896,8 +8896,8 @@
       },
       "artists": [
         {
-          "name": "Son Bin Ah",
-          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
+          "name": "\uc190\ube48\uc544",
+          "url": "https://open.spotify.com/artist/6hC77nUgHBP7thIKqoWb7a"
         },
         {
           "name": "Kim Yong Bin",
@@ -8914,7 +8914,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 281960,
       "name": "Love in Dream",
       "url": "https://open.spotify.com/track/5Usr0LvocsSXbEKDJ9Y9JM"
@@ -9418,7 +9418,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 265133,
       "name": "Lover",
       "url": "https://open.spotify.com/track/7se9Ux9tqwQprE8wjz1f48"
@@ -12508,7 +12508,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 266680,
       "name": "Regret",
       "url": "https://open.spotify.com/track/1oCBG4fDUmrXKJSFCvTpKK"
@@ -18914,6 +18914,24 @@
       "duration_ms": 228160,
       "name": "\ubbf8\uc6b4\uc0ac\ub791",
       "url": "https://open.spotify.com/track/2kmI3bYhY8KzjVt6To51Jy"
+    },
+    {
+      "album": {
+        "name": "\ubbf8\ucce4\ub098\ubd10\uc694",
+        "url": "https://open.spotify.com/album/7pGKVP9ANQbjFor1xY2rCt"
+      },
+      "artists": [
+        {
+          "name": "\uc124\ud558\uc724",
+          "url": "https://open.spotify.com/artist/4mf6vwVTp8Beomqo8qHXf3"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228234,
+      "name": "\ubbf8\ucce4\ub098\ubd10\uc694",
+      "url": "https://open.spotify.com/track/7orBkytLKw4z63i2Li8gFD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Art Aguilera y Ivette & Ivon Lopez",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Redimi2",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -8807,6 +8807,28 @@
     },
     {
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/2PeyGQojy1kpAgeYySd3En"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285200,
+      "name": "La Casa de Jehov\u00e1",
+      "url": "https://open.spotify.com/track/1EbS3mkymF6ZE1z2rIfADN"
+    },
+    {
+      "album": {
         "name": "Sesi\u00f3n Org\u00e1nica, Vol. 5",
         "url": "https://open.spotify.com/album/5AN1CGHaidl3nJehGEF7mt"
       },
@@ -13980,7 +14002,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 189000,
       "name": "Salento",
       "url": "https://open.spotify.com/track/7qSEAGqvs9ZLKpM1kcw6ui"

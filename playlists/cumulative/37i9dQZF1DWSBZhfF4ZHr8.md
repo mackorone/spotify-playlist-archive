@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française avec Linh
 
-379 songs - 18 hr 43 min
+379 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [L'année prochaine](https://open.spotify.com/track/79OwFPC1StV7OVi6CSd1ww) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [L'année prochaine](https://open.spotify.com/album/5BKnx3bdqtiX3feRhAoBbx) | 2:18 | 2025-10-02 |  |
 | [L'envers du décor](https://open.spotify.com/track/6W8K0UBfWXzWgw8B36XOqS) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [L'envers du décor](https://open.spotify.com/album/5CilMfmCelHEETCjYGUWFf) | 2:44 | 2025-02-06 | 2025-04-18 |
 | [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 | 2025-09-11 | 2025-10-10 |
+| [L'idylle](https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Des ondes et des reflets \(Réédition\)](https://open.spotify.com/album/3iJmOyrpxp8kXp5m2ChnwW) | 2:55 | 2025-11-13 |  |
 | [La couleur de la mer \- Edit](https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [La couleur de la mer](https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP) | 2:35 | 2024-06-27 | 2024-08-30 |
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-06-27 | 2024-08-30 |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-09 | 2025-03-07 |
@@ -352,7 +353,6 @@
 | [Tout Petit](https://open.spotify.com/track/0uJdIiu2BEyI6ZZN8wijhL) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Tout Petit](https://open.spotify.com/album/3b8PMF3afnavT72CLkvcaf) | 2:42 | 2024-11-07 | 2025-01-31 |
 | [Toute seule \- 2024](https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM), [RORI](https://open.spotify.com/artist/3P3yXPp61UWZk8MqFpneQ8) | [Hyper Lorie \(Vol\. 2\)](https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL) | 2:20 | 2024-06-27 | 2024-07-05 |
 | [Toxic et Chic](https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Toxic et Chic](https://open.spotify.com/album/5fpIrCqzg5z7iAmaqVHAaA) | 2:48 | 2025-09-25 |  |
-| [Track 13](https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Triste](https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Triste](https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be) | 3:09 | 2025-02-13 | 2025-03-28 |
 | [Trop tôt](https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Trop tôt](https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z) | 2:51 | 2024-06-27 | 2024-08-23 |
 | [Tu l'oublieras](https://open.spotify.com/track/6aaTiVuGVBENAhGgl6O1zN) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Tu l'oublieras](https://open.spotify.com/album/4Cy87m6AZhLspaJMww5smv) | 2:34 | 2025-04-24 | 2025-06-27 |

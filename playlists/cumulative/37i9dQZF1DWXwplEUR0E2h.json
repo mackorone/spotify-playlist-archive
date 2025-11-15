@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: fedesttar",
+  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: BROKIX",
   "name": "Reggaet\u00f3n Colombia",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 160897,
       "name": "BGA",
       "url": "https://open.spotify.com/track/55Iogrhz4l5iOqsZuC6nLi"
@@ -440,6 +440,24 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
+    },
+    {
+      "album": {
+        "name": "CASA SOLA",
+        "url": "https://open.spotify.com/album/7KuS2ZM0W8yEJIU2GYOwWY"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "CASA SOLA",
+      "url": "https://open.spotify.com/track/0zcrVD1mLknpdS1i7zNYhc"
     },
     {
       "album": {
@@ -3093,6 +3111,28 @@
     },
     {
       "album": {
+        "name": "PA QUE YA NO EST\u00c9S TRISTE",
+        "url": "https://open.spotify.com/album/6Kh5EHDQ7hgtRsnVF5jt0Q"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185232,
+      "name": "Pa que ya no est\u00e9s triste",
+      "url": "https://open.spotify.com/track/10BnshPthqGBqcTUoS5fLV"
+    },
+    {
+      "album": {
         "name": "Palabras Sobran",
         "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
       },
@@ -3690,7 +3730,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 164285,
       "name": "SE ME CHISPOTE\u00d3",
       "url": "https://open.spotify.com/track/6T4RgvuFxt3HzW1uKbd9Lr"

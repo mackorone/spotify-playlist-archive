@@ -3803,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "So Funky",
+        "url": "https://open.spotify.com/album/1JYyeZzas3aHm7NYbVaw3h"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177821,
+      "name": "So Funky",
+      "url": "https://open.spotify.com/track/5QT2nznaYjxScKUJb6zMbW"
+    },
+    {
+      "album": {
         "name": "Something Better",
         "url": "https://open.spotify.com/album/2cYWDvl2JOTinMn9A33vOj"
       },
@@ -5042,7 +5060,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 238053,
       "name": "You've Got To Change",
       "url": "https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC"

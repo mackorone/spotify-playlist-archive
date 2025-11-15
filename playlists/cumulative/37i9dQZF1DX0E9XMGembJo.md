@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-735 songs - 1 day 16 hr 4 min
+736 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Don't Lose Sight](https://open.spotify.com/track/5PEIORAOmwjDV7OYzxHsvd) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 3:28 | 2022-04-29 | 2022-05-08 |
 | [Don't Mind](https://open.spotify.com/track/2kSlrSnErfPwviKC9eTw6P) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/2MJJxvYWMhzirNvLIv6c4y) | 3:22 | 2023-09-29 | 2023-10-06 |
 | [Don't Mind](https://open.spotify.com/track/5UhHAH9bAL900e3CnZpzPG) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/7ywnQEhl9Jw8zq2Tc8ISee) | 3:22 | 2023-09-29 | 2023-10-28 |
-| [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 | 2025-10-10 |  |
+| [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 | 2025-10-10 | 2025-11-15 |
 | [Don't Stop Me Now](https://open.spotify.com/track/3lrNq7iGL5r3KS93YiKAbC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh) | 3:29 | 2022-03-25 | 2022-04-21 |
 | [Don't Wait \(feat\. Say She She\)](https://open.spotify.com/track/4Tkqm2AkpiolHjhBjjdhK7) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Return To Zero](https://open.spotify.com/album/29DZUma4G1sz6Afe2XXP6r) | 4:15 | 2025-07-07 | 2025-08-09 |
 | [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 | 2022-03-25 | 2022-04-20 |
@@ -201,6 +201,7 @@
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 | 2024-07-06 |
 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:12 | 2022-04-01 | 2022-04-21 |
 | [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-03-25 | 2022-04-16 |
+| [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-14 |  |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/1JoIlhLcydGM3QcFg8aIge) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/5zaolWrLO7LZ34MdaaNHTk) | 3:36 | 2022-04-14 | 2022-04-19 |
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2022-03-25 | 2025-07-12 |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 |  |

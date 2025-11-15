@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Meghan Patrick",
+  "description": "The home of Canadian country music. Cover: Orville Peck",
   "name": "North Country",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 181773,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 218810,
       "name": "Call For You",
       "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Dead to Me",
+        "url": "https://open.spotify.com/album/2xRaNNKbX7WNmrfSwNDS5W"
+      },
+      "artists": [
+        {
+          "name": "Foxx Worthee",
+          "url": "https://open.spotify.com/artist/1WawPHcYlurQhsH4yeBFzx"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179218,
+      "name": "Dead to Me",
+      "url": "https://open.spotify.com/track/6cAgAl351adI4ETmE4pfnX"
+    },
+    {
+      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/17coSWwLrpBsVho0IFp1ke"
       },
@@ -1876,6 +1894,24 @@
       "duration_ms": 176952,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4pIh9QjspvYmaHU5qLWhGC"
+    },
+    {
+      "album": {
+        "name": "The Encore Mixes",
+        "url": "https://open.spotify.com/album/4LPotAUEKa8MtLsTmy2yeC"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170741,
+      "name": "Drive Me Away - Dashboard Mix",
+      "url": "https://open.spotify.com/track/3COsBsMHY5UaB7slB7wno7"
     },
     {
       "album": {
@@ -2278,6 +2314,28 @@
       "duration_ms": 210103,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3"
+    },
+    {
+      "album": {
+        "name": "Forever Changed",
+        "url": "https://open.spotify.com/album/14bUZXwTharErCVQWrMKZ8"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        },
+        {
+          "name": "Carolyn Dawn Johnson",
+          "url": "https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256223,
+      "name": "Forever Changed",
+      "url": "https://open.spotify.com/track/3HidZA7UD6dsFkXipUyntd"
     },
     {
       "album": {
@@ -3708,7 +3766,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 150726,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/3ln9qtsUKasUPxBhPg8Pam"
@@ -4491,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/77l3iPJ4UxNjefOz4isYY9"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/1t3YIOY6n3Rc54sJaetCQf"
+    },
+    {
+      "album": {
         "name": "Love Me Or Leave Me (Day Or Night Mix)",
         "url": "https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za"
       },
@@ -4636,6 +4712,24 @@
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "album": {
+        "name": "Memories and Empties",
+        "url": "https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "Memories and Empties",
+      "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
     },
     {
       "album": {
@@ -5315,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "Appaloosa",
+        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213137,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
+    },
+    {
+      "album": {
         "name": "Oh to Be Young",
         "url": "https://open.spotify.com/album/1xWpOO7XFM0JblWC8RtsCP"
       },
@@ -5344,7 +5456,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 209695,
       "name": "Oh, Canada",
       "url": "https://open.spotify.com/track/3Zm9XXGfjVLi5uCk0Am5Ul"
@@ -5510,7 +5622,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 191193,
       "name": "One More Story",
       "url": "https://open.spotify.com/track/4ngdhEZrLazNDat5EEpptb"
@@ -5715,6 +5827,24 @@
     },
     {
       "album": {
+        "name": "Phone Call From Home",
+        "url": "https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187119,
+      "name": "Phone Call From Home",
+      "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
+    },
+    {
+      "album": {
         "name": "PICTURE [feat. Marie-Mai]",
         "url": "https://open.spotify.com/album/42l9D8nuCx9jxheZeQSDDG"
       },
@@ -5846,6 +5976,24 @@
       "duration_ms": 253955,
       "name": "Pretty Pieces",
       "url": "https://open.spotify.com/track/2oAGZv9h9Bn3hl616jKsrm"
+    },
+    {
+      "album": {
+        "name": "The Hard Way (Deluxe)",
+        "url": "https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154623,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
     },
     {
       "album": {
@@ -6639,6 +6787,24 @@
     },
     {
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4fwcfYjceW9f6ADq3vi8l9"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5xuF5KMWRnrY1Yhyp5aWCQ"
+    },
+    {
+      "album": {
         "name": "Sober Side Of Crazy",
         "url": "https://open.spotify.com/album/1MwTcJTKFAlVYTuWC6aI5l"
       },
@@ -7342,7 +7508,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 172066,
       "name": "The Longer You Hold On",
       "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
@@ -7754,6 +7920,24 @@
       "duration_ms": 167609,
       "name": "Under Covers",
       "url": "https://open.spotify.com/track/0Yh8wibA4pAv2SEOhZZJlv"
+    },
+    {
+      "album": {
+        "name": "Une autre histoire",
+        "url": "https://open.spotify.com/album/6tnNKtvAiy2pDdKcgqsCpB"
+      },
+      "artists": [
+        {
+          "name": "Blue Ridge Band",
+          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191192,
+      "name": "Une autre histoire",
+      "url": "https://open.spotify.com/track/3kguXseiQKUXWV7yfRgSjJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6878,
+  "num_followers": 6880,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAABwOq2rRKQrswwxRivIYKv3",
+  "snapshot_id": "aRUfgAAAAABsWp2StrKOh1l87ol5k11F",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "Pa'Yo (29 Aniversario)",
+        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+      "duration_ms": 171135,
+      "name": "Pa'Yo (29 Aniversario)",
+      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'Yo (29 Aniversario)",
-        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 171135,
-      "name": "Pa'Yo (29 Aniversario)",
-      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 200426,
       "name": "La Banda Rock",
       "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
     },
     {
       "added_at": null,
@@ -595,38 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La V\u00edbora Peligrosa",
-        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 149084,
-      "name": "La V\u00edbora Peligrosa",
-      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
       },
@@ -643,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 157586,
       "name": "Busca Amor",
       "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La V\u00edbora Peligrosa",
+        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 149084,
+      "name": "La V\u00edbora Peligrosa",
+      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
     },
     {
       "added_at": null,

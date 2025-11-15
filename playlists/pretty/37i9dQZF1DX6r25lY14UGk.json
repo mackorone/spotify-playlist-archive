@@ -1,13 +1,105 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 77795,
+  "num_followers": 77909,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAH5v71wAR06rmLt2FQXcqNwYlX4",
+  "snapshot_id": "AAAAAL1AjVB5S7ktpBXQV/WiWC70rQZM",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:26",
+      "album": {
+        "name": "It\u2019s Good To Be A Gabby Cat",
+        "url": "https://open.spotify.com/album/1dVS2miXT4pn7CDW8HC8ir"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 123789,
+      "name": "It's Good To Be A Gabby Cat",
+      "url": "https://open.spotify.com/track/60VxsOWX2Umcil8DbOfb32"
+    },
+    {
+      "added_at": "2025-11-14 05:00:26",
+      "album": {
+        "name": "Sesame Street (Songs from Season 56)",
+        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 83333,
+      "name": "Just Imagine",
+      "url": "https://open.spotify.com/track/5DPH4YKfftGNfi6G2KfgQT"
+    },
+    {
+      "added_at": "2025-11-14 05:00:26",
+      "album": {
+        "name": "Beautiful Beasts",
+        "url": "https://open.spotify.com/album/6GbFtNqbd0F93oMlyXrV4m"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "duration_ms": 214494,
+      "name": "Beautiful Beasts",
+      "url": "https://open.spotify.com/track/3WqBSYeGgrCZbgxdqgo1lP"
+    },
+    {
+      "added_at": "2025-11-14 05:00:26",
+      "album": {
+        "name": "Stomp Like a Dinosaur",
+        "url": "https://open.spotify.com/album/2BplB0NMWJWVZ1XXmDXrCw"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 134121,
+      "name": "Stomp Like a Dinosaur",
+      "url": "https://open.spotify.com/track/09oEFNXCafGnpvbvrvAMpm"
+    },
+    {
+      "added_at": "2025-11-14 05:00:26",
+      "album": {
+        "name": "Barbie Dream Besties Skate Party",
+        "url": "https://open.spotify.com/album/69knfndibkhQRRIexFhdcw"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 134262,
+      "name": "Let's Roll Besties",
+      "url": "https://open.spotify.com/track/39FDU3un5PbI0BLnkqnZFA"
+    },
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {

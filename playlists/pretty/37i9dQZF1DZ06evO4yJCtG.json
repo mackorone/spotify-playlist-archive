@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 153940,
+  "num_followers": 153952,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAABSC2HrtWPAEwt/x4GZBTNj",
+  "snapshot_id": "aRUfgAAAAACozaDKM9ZeA25sxDQs9C3k",
   "tracks": [
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHANGE",
-        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Who Knew",
-      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7220 (Deluxe)",
         "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 183019,
       "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Who Knew",
+      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
     },
     {
       "added_at": null,

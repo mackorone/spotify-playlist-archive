@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1,2,3](https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [1,2,3](https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z) | 2:34 | 2025-11-07 | 2025-11-14 |
+| [1,2,3](https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [1,2,3](https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z) | 2:34 | 2025-11-07 |  |
 | [20 Anos](https://open.spotify.com/track/0E8UYHnvtIdElOoW9FHXms) | [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [20 Anos](https://open.spotify.com/album/67BjMjB6miBERbp5IN5h24) | 3:48 | 2025-04-10 | 2025-04-25 |
 | [A Chamada](https://open.spotify.com/track/4ycKz3ByrKv6s0NdZ36Tl5) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [A Chamada](https://open.spotify.com/album/5gK7m9ajcA9TbW4KcSaLIl) | 3:39 | 2024-06-27 | 2024-09-06 |
 | [A Coisa Vai Andando](https://open.spotify.com/track/1D5koDg0uGRsy8BlyIPox3) | [Beatriz Caixinha](https://open.spotify.com/artist/6Ji4dWE4lgaPMko8PLJV5n) | [Merenda Mista](https://open.spotify.com/album/5xhVXFc7AYDKknWcC1U5Qf) | 2:16 | 2024-09-05 | 2024-09-13 |
@@ -168,7 +168,7 @@
 | [Habituada](https://open.spotify.com/track/1VxyhNwfIJoIhLvbj6UgPw) | [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Habituada](https://open.spotify.com/album/4w2nMq6gsJ32T7YkYanYi7) | 2:27 | 2025-11-07 | 2025-11-14 |
 | [História Mal Contada](https://open.spotify.com/track/2uYq9JBLYmrLLJVO37Pend) | [GNTK](https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0) | [História Mal Contada](https://open.spotify.com/album/6FfbwkXdlZoeMIf0CSuKvB) | 4:17 | 2024-11-29 | 2025-01-10 |
 | [Hoje eu vi o Mundo](https://open.spotify.com/track/4Pay0YqbgxSqJgZBrEGkks) | [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi), [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Hoje eu vi o Mundo](https://open.spotify.com/album/0gNwToU5Q32Ftr390wdWwj) | 4:25 | 2025-10-09 | 2025-10-24 |
-| [Hora de Ponta](https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7) | [Hora de Ponta](https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5) | 3:16 | 2025-01-17 |  |
+| [Hora de Ponta](https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7) | [Hora de Ponta](https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5) | 3:16 | 2025-01-17 | 2025-11-15 |
 | [Há Algo Em Ti](https://open.spotify.com/track/2p4mTIPgG0rOLvIHh9x588) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Há Algo Em Ti](https://open.spotify.com/album/2aerklK61ud4O4sel9io7X) | 2:59 | 2024-09-19 | 2025-03-21 |
 | [Há Sempre Uma Música](https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Há Sempre Uma Música](https://open.spotify.com/album/68etasB9n5OlhGaBIxX6s9) | 3:01 | 2024-07-12 | 2024-11-15 |
 | [Há Sempre Uma Música](https://open.spotify.com/track/72zUGpAotxbRhlqXnB9nSD) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [SNTMNTL](https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn) | 3:01 | 2024-07-11 | 2024-07-13 |

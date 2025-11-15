@@ -3538,6 +3538,28 @@
     {
       "album": {
         "name": "Yaari",
+        "url": "https://open.spotify.com/album/1GcqJREB3RL4GtAXdoFlcN"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Rohit Lamba",
+          "url": "https://open.spotify.com/artist/3UxWAtku6iPIQayEOSBBqh"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170377,
+      "name": "Yaari",
+      "url": "https://open.spotify.com/track/2ZxFXUnvprVMI9IXBcnnAk"
+    },
+    {
+      "album": {
+        "name": "Yaari",
         "url": "https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN"
       },
       "artists": [
@@ -3556,28 +3578,6 @@
       "duration_ms": 149128,
       "name": "Yaari",
       "url": "https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B"
-    },
-    {
-      "album": {
-        "name": "Yaari",
-        "url": "https://open.spotify.com/album/1GcqJREB3RL4GtAXdoFlcN"
-      },
-      "artists": [
-        {
-          "name": "Rohit Lamba",
-          "url": "https://open.spotify.com/artist/3UxWAtku6iPIQayEOSBBqh"
-        },
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        }
-      ],
-      "date_added": "2025-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170377,
-      "name": "Yaari",
-      "url": "https://open.spotify.com/track/2ZxFXUnvprVMI9IXBcnnAk"
     },
     {
       "album": {

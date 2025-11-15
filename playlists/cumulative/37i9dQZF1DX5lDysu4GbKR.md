@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  Lekan
+> Stripped back vibes\. Cover:  Dylan Sinclair
 
-299 songs - 17 hr 27 min
+300 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 | 2021-12-09 | 2023-05-19 |
 | [GTC \(live from my stoop\)](https://open.spotify.com/track/70WqUVvwo39mmW1KNiK050) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Close to the Sun](https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk) | 5:12 | 2023-07-10 |  |
 | [Hands \- Stripped Down](https://open.spotify.com/track/2Uh7QNCwZ4AmasA7LoYAML) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands \(Stripped Down\)](https://open.spotify.com/album/3tyjzGvJeVzlOG5ZbJx6cL) | 3:25 | 2025-03-14 |  |
+| [He's Not Me \(Acoustic\)](https://open.spotify.com/track/74LjNAxOeocnpRDiOUqOVy) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me \(Acoustic\)](https://open.spotify.com/album/20HaMwPU3CtG5OFHEslB0U) | 3:13 | 2025-11-14 |  |
 | [Heal U](https://open.spotify.com/track/41l95qoyybdbcWm0mvMjzX) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 1:39 | 2024-11-08 |  |
 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 | 2022-06-16 | 2024-02-09 |
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |

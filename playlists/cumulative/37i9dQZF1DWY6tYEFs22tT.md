@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with Tkandz, Lil Baby, Quavo, Tyler, The Creator and Kodak Black.
 
-1,433 songs - 2 day 23 hr 8 min
+1,434 songs - 2 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-20 | 2025-03-29 |
 | [Grammy \(feat\. 42 Dugg\)](https://open.spotify.com/track/4LVdnDH6weCqY7UlapHCqn) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Buy or Bye 2 \(Deluxe\)](https://open.spotify.com/album/4YgTJRqW6VxqA3CgBNsuZE) | 2:40 | 2022-03-25 | 2022-05-14 |
 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-02-24 | 2023-08-26 |
-| [Grind 4](https://open.spotify.com/track/67OmIoO9BrHxxj4BFMJldX) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Grind 4](https://open.spotify.com/album/5QncAixFEsY4IeVf1WplTw) | 2:27 | 2025-08-15 |  |
+| [Grind 4](https://open.spotify.com/track/67OmIoO9BrHxxj4BFMJldX) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Grind 4](https://open.spotify.com/album/5QncAixFEsY4IeVf1WplTw) | 2:27 | 2025-08-15 | 2025-11-15 |
 | [Grinding All Season](https://open.spotify.com/track/1p2AbhtzG2Njx2x0JB83zA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 2:50 | 2022-02-11 | 2022-02-19 |
 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-05-24 | 2024-07-19 |
 | [GTFO](https://open.spotify.com/track/61vp2Gh0Ggz9tWHqe8vEQQ) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [KUNTFETISH](https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:40 | 2024-08-30 | 2024-09-28 |
@@ -1360,6 +1360,7 @@
 | [War Wounds \(with Maxo Kream & Lil' Keke\)](https://open.spotify.com/track/6DqGhw2PlGKxPnP3ja3EcD) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [War Wounds \(with Maxo Kream & Lil' Keke\)](https://open.spotify.com/album/19Jwy83v1HBZ2bpOaB9UEe) | 3:34 | 2024-10-11 | 2025-01-18 |
 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 | 2022-12-23 | 2022-12-31 |
 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-03-03 | 2023-06-24 |
+| [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 | 2025-11-14 |  |
 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:26 | 2022-12-09 | 2023-02-25 |
 | [WATERBOYZ \(with JID & J\. Cole\)](https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:03 | 2022-03-25 | 2022-05-28 |
 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 | 2021-12-31 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-336 songs - 15 hr 53 min
+337 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [In Time](https://open.spotify.com/track/2g50U4tLDDkXeX6diW9Ifs) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [In Time](https://open.spotify.com/album/1dGggdaWu5MEDvAEs7lKz0) | 2:43 | 2025-04-01 |  |
 | [Incisif](https://open.spotify.com/track/6wdW5qgYw9CUXD9on4ylLn) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Incisif](https://open.spotify.com/album/5VE3DMJYN3uD5SG8Jod2Z6) | 2:29 | 2022-01-04 | 2025-11-13 |
 | [Instrumental Doze](https://open.spotify.com/track/2szeJH7VZ82QZIemb7AnJV) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Instrumental Doze](https://open.spotify.com/album/3xwaqPaD9gVpCcGALWX7MV) | 2:03 | 2022-04-28 | 2025-11-13 |
+| [Into The Blue](https://open.spotify.com/track/4QH4ls0tVdbUH3evVX9QJb) | [Mira Cadence](https://open.spotify.com/artist/7v9rysfm8v7XWFuyUdI2YI) | [Into The Blue](https://open.spotify.com/album/2YUzwInPRcLHso83NePGgC) | 2:38 | 2025-11-14 |  |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2022-01-04 | 2025-06-17 |
 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 | 2022-01-04 | 2025-10-01 |
 | [Je crois en toi](https://open.spotify.com/track/5yCggunPid4GYMxzCQbk99) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [Je crois en toi](https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL) | 2:39 | 2022-01-04 | 2024-11-21 |

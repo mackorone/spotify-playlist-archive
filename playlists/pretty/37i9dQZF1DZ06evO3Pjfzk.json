@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 102161,
+  "num_followers": 102202,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADYg6kixSROASufVMv8UMFy",
+  "snapshot_id": "aRUfgAAAAAATM2oYItMY64apomsDYpJB",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle Feather",
-        "url": "https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
       },
       "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Feather In My Hat (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+        "name": "Eagle Feather",
+        "url": "https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI"
       },
       "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+      "duration_ms": 201653,
+      "name": "Feather In My Hat (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Isla de Caras en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,620 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,592 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 11 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 |
 | 12 | [Mi diario](https://open.spotify.com/track/1MLjW7uYnc3xE5NLoFEHNs) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Mi diario](https://open.spotify.com/album/3e4dsbu3Ft2gndDqqHPRnN) | 3:31 |
 | 13 | [Latemotiv](https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [El único ser sin talento](https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH) | 3:08 |
-| 14 | [Amor](https://open.spotify.com/track/3MF1cYhlgMW8P3VqNsBIyA) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [](https://open.spotify.com/album/null) | 3:27 |
+| 14 | [Amor](https://open.spotify.com/track/3MF1cYhlgMW8P3VqNsBIyA) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Información Sísmica](https://open.spotify.com/album/5XkSt6ckJGQP2sQgN8yAnO) | 3:27 |
 | 15 | [alguien como tú](https://open.spotify.com/track/6UEL2n8ot76D3z36Ezbtmz) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [alguien como tú](https://open.spotify.com/album/0YMI6vxSs94RF3bBcWFWiy) | 2:12 |
 | 16 | [KYKY](https://open.spotify.com/track/0MZ1CFAEOBNXpbXDe4t4Pi) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Joseph Taics](https://open.spotify.com/artist/3coDOUiaa2LyoNIBZ2HJUI) | [KYKY](https://open.spotify.com/album/3Zdd6yPvAyUYPVuRnoHgiv) | 3:33 |
 | 17 | [BENDITA](https://open.spotify.com/track/7GgXnj8kH7Wi7ACRZsE6hV) | [Monny Cardona](https://open.spotify.com/artist/1wji0qwVMjtdiDsYUdrrvu), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [BENDITA](https://open.spotify.com/album/1hKpXT0MuchYUDSEFx4ln5) | 2:26 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 24 | [Vecino Peligroso](https://open.spotify.com/track/2EQmrQGpEgzBQ3h1Qik5WD) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Vecino Peligroso](https://open.spotify.com/album/4tC3B1udK6INb4uawZNDim) | 3:39 |
 | 25 | [Tiro al plato](https://open.spotify.com/track/0RlqN9iZXW2hph6AzPvmVI) | [Carmesí](https://open.spotify.com/artist/1U2aGi2viOXT4edeymUqMu) | [Tiro al Plato](https://open.spotify.com/album/52wdV2sNlpLt5LqlzJ0CpR) | 2:58 |
 | 26 | [Muchos días más](https://open.spotify.com/track/1PpRJYngFdRAtW4aSj15He) | [Eva Sola](https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4) | [Muchos días más](https://open.spotify.com/album/7s3HPmu49e9OBR7fd8wAJE) | 3:20 |
-| 27 | [Chula](https://open.spotify.com/track/19m4L3QCvOUJlngzyBDiCN) | [Tedra](https://open.spotify.com/artist/5yPzfJO9YXOOWFVR4frP5l), [RAI Beatz](https://open.spotify.com/artist/2vLBni7F4Xa6F7x9Jnl21r) | [](https://open.spotify.com/album/null) | 2:28 |
+| 27 | [Chula](https://open.spotify.com/track/19m4L3QCvOUJlngzyBDiCN) | [Tedra](https://open.spotify.com/artist/5yPzfJO9YXOOWFVR4frP5l), [RAI Beatz](https://open.spotify.com/artist/2vLBni7F4Xa6F7x9Jnl21r) | [Punto Nemo](https://open.spotify.com/album/20O5TdSq7FwwD74rbak0sk) | 2:28 |
 | 28 | [ESE ALGO QUE TIENES](https://open.spotify.com/track/5DHKFufpf8m27t6eCANwMw) | [Modelo](https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht) | [ESE ALGO QUE TIENES](https://open.spotify.com/album/3C2uS5iARpL6zpzdEeqSdW) | 3:14 |
 | 29 | [POST\-APOCALIPSIS](https://open.spotify.com/track/7KOjTofcRx2MT3DNaT0MHj) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [POST\-APOCALIPSIS](https://open.spotify.com/album/2XfaH1J5pXAEPv4JWdELTU) | 4:17 |
 | 30 | [Lanzarote](https://open.spotify.com/track/4sbWYIEM3E7zkeRzXcpxem) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Lanzarote](https://open.spotify.com/album/2WB5xBKuE6h6m9MeduBL6W) | 3:01 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 43 | [Soy un avión](https://open.spotify.com/track/0HuMsGcFrztItXtd2YczBE) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Soy un avión](https://open.spotify.com/album/2XrTvh8wXfdLs2ZaMiuY2k) | 4:08 |
 | 44 | [Días de mierda](https://open.spotify.com/track/2qR5mLaPSziRkIEMpPwalL) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Días de mierda](https://open.spotify.com/album/66JSFXdeZ0MznMIH8ST0CR) | 2:55 |
 | 45 | [ACELERADAS!](https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [ACELERADAS!](https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO) | 3:30 |
-| 46 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:12 |
+| 46 | [Formas de volver a casa](https://open.spotify.com/track/04LJr1Uj5aqFUPtkgCwDfI) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu), [JKRNDA](https://open.spotify.com/artist/3HaNVNrs7ScUtOpBnxuxSU) | [Formas de volver a casa](https://open.spotify.com/album/2CJUjSqExTebXkabWOP5oD) | 3:11 |
 | 47 | [en vd nose si todo sto te importa](https://open.spotify.com/track/1PCuam9Qriz6pali3F42Dz) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [en vd nose si todo sto te importa](https://open.spotify.com/album/6eydbQsYTLrlUkwFOMQbPi) | 2:00 |
 | 48 | [sigarette](https://open.spotify.com/track/4avCTktGYaQfkrEnvnpQyr) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo), [Daniel Boudzali](https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq) | [sigarette](https://open.spotify.com/album/59adf5hmRaWLY02HlIPVRO) | 2:03 |
 | 49 | [El Truco](https://open.spotify.com/track/45UrvuH3q6WEza7nS7pBqA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Truco](https://open.spotify.com/album/6usSIxiPVQPkULmJuvB47M) | 3:22 |

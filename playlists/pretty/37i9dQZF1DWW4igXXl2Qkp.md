@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:2U3bFzN7xGOhqdATusepqC">diamond\*</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,890 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,920 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 21 | [Answer](https://open.spotify.com/track/2r6eCFzN1jlNpMw2YxjgG0) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Answer](https://open.spotify.com/album/3fTjjOqmevfhxDLZkUiMsq) | 3:49 |
 | 22 | [For The Both Of Us](https://open.spotify.com/track/3LoZzlKzoQWeWgOkzAwygl) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Liim Lasalle Loves You](https://open.spotify.com/album/3Yvg53C4DwOj7uTjbIhOKh) | 2:14 |
 | 23 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 |
-| 24 | [Zero McKenzi "On The Radar" Freestyle \- LIVE SESSIONS, Vol\. 1](https://open.spotify.com/track/77mzf6YSAowlbFB3zaKs3b) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [Zero McKenzi](https://open.spotify.com/artist/0LgTWW9bOMpZYREguNMB8V) | [OTR LIVE SESSIONS, Vol\. 1](https://open.spotify.com/album/4YtLGAlwbpFOckKCq7TuGl) | 1:04 |
+| 24 | [Zero McKenzi "On The Radar" Freestyle \- LIVE SESSIONS, Vol\. 1](https://open.spotify.com/track/77mzf6YSAowlbFB3zaKs3b) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Zero McKenzi](https://open.spotify.com/artist/0LgTWW9bOMpZYREguNMB8V) | [OTR LIVE SESSIONS, Vol\. 1](https://open.spotify.com/album/4YtLGAlwbpFOckKCq7TuGl) | 1:04 |
 | 25 | [SPREAD LIKE BUTTA](https://open.spotify.com/track/3aM2zpF4Etyk1ObwPj8Rzk) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [SPREAD LIKE BUTTA](https://open.spotify.com/album/2rQJPcTuWA4LVLZcI5FD3c) | 3:16 |
 | 26 | [MR.WACKO](https://open.spotify.com/track/3SeK8Uo9442ObZxZ641kjF) | [TruththeBull](https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg) | [GAME OVER](https://open.spotify.com/album/5wsPuEr4WtaKncEmOwD8WF) | 1:57 |
 | 27 | [PUBLIC](https://open.spotify.com/track/2LEqQBfcJ08zScDzAvHRXp) | [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [KNIGHT SHIFT](https://open.spotify.com/album/3Gx6vhbP8VTtWG39PUTV1X) | 1:35 |

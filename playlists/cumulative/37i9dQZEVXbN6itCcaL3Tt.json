@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 222620,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/7ztpISTetVPoca640QDqZn"
@@ -13766,7 +13766,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 196204,
       "name": "DYLEMAT",
       "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
@@ -14998,7 +14998,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -16902,7 +16902,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 162206,
       "name": "Gdzie m\u00f3j dom?",
       "url": "https://open.spotify.com/track/27b2Zk06wjXGyn3vGsmeJQ"
@@ -22887,6 +22887,28 @@
     },
     {
       "album": {
+        "name": "Kalinka",
+        "url": "https://open.spotify.com/album/4PZ9s6CeUR4qm96AJD0UZi"
+      },
+      "artists": [
+        {
+          "name": "Majki",
+          "url": "https://open.spotify.com/artist/3e8V8NqZf6jsUjDEI6rwst"
+        },
+        {
+          "name": "Major SPZ",
+          "url": "https://open.spotify.com/artist/5iM4dDbBN6a4OqxKPuxgS6"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Kalinka",
+      "url": "https://open.spotify.com/track/4YeXSMxroqzvnUW9ckXYSx"
+    },
+    {
+      "album": {
         "name": "Kamie\u0144 (A. Asnyk)",
         "url": "https://open.spotify.com/album/1py7iv35DApAOvGuAuwsVh"
       },
@@ -22928,6 +22950,32 @@
       "duration_ms": 182850,
       "name": "KAMIKAZE",
       "url": "https://open.spotify.com/track/5tCxCYuFA57AhVtHqxP7kr"
+    },
+    {
+      "album": {
+        "name": "KANCLERZ",
+        "url": "https://open.spotify.com/album/59hxqaxQwVfEskndxApQi5"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214344,
+      "name": "KANCLERZ",
+      "url": "https://open.spotify.com/track/6IWrNipdYVMaJKpakx6SmM"
     },
     {
       "album": {
@@ -25158,7 +25206,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 165483,
       "name": "Kulig",
       "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
@@ -37566,7 +37614,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 160000,
       "name": "Patolove",
       "url": "https://open.spotify.com/track/24Gw6xOLcc028XPZJBQeEr"
@@ -46224,7 +46272,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -46242,7 +46290,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"

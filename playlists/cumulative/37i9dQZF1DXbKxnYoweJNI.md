@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 老王樂隊 \(Your Woman Sleep with Others\)
 
-3,495 songs - 8 day 12 hr 2 min
+3,498 songs - 8 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Calling you](https://open.spotify.com/track/4j7QbY66Spx4CmTdWI0GDJ) | [王泰翔2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa), [AcRoss](https://open.spotify.com/artist/6B1Wv7BlRtTN8OoVNyL6sC) | [Calling you](https://open.spotify.com/album/0bLnKPcAOMcgk4zlubpURF) | 3:02 | 2025-05-15 | 2025-06-06 |
 | [Came From The Struggle](https://open.spotify.com/track/0oObBxo4yqQbZCf2Tv5DY8) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz) | [Came From The Struggle](https://open.spotify.com/album/237xAGcZmjM0DMdsuqkl6z) | 3:08 | 2024-07-18 | 2024-08-16 |
 | [Camus Boy](https://open.spotify.com/track/2uwPZfm64lRvzOxuAqA7RF) | [陸可兒Kirby](https://open.spotify.com/artist/0St6D4v6pgqI42vxvre6pY), [饭卡](https://open.spotify.com/artist/4Ak4OMWvPvUb0wIDC4wdfp) | [Camus Boy](https://open.spotify.com/album/1etXhganL2sZCqFP72pRuR) | 3:44 | 2025-03-20 | 2025-04-18 |
+| [can we go back?](https://open.spotify.com/track/3ZKLMDf8lk7GeADdKrBXIm) | [踢萬8IG8A8Y](https://open.spotify.com/artist/1B3iAH9YqXMuW8CgnLEq8R), [JB Kingston](https://open.spotify.com/artist/49MLoOMHw4Gt8p2D1Zgokr), [Soby](https://open.spotify.com/artist/1XAvoXmSaZ203RbTiGzfmI) | [can we go back?](https://open.spotify.com/album/6pNTOxJ6aNSjHVyBvwVhCZ) | 3:15 | 2025-11-13 |  |
 | [Can't Let U Go](https://open.spotify.com/track/1Cw3HF2b4p7QP4ULhO9aJP) | [THE EON](https://open.spotify.com/artist/4HVanu07Tw84GozJVHR1lk), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1), [方立維 ALI](https://open.spotify.com/artist/5oiYskVLYnZXoPDYJU3NHc) | [Can't Let U Go](https://open.spotify.com/album/7D2joLXsT9dM18kZqDgfPP) | 3:12 | 2025-08-21 | 2025-08-29 |
 | [Candy](https://open.spotify.com/track/5iXsXed0R0kC2YEvRZ2fW2) | [胡呈嫚](https://open.spotify.com/artist/1uBqVCCssdJOUWZhG0HYfp) | [Candy](https://open.spotify.com/album/6vz2Me2LyJ2zyZOxrr8C8z) | 2:50 | 2024-06-27 | 2024-07-05 |
 | [Candy](https://open.spotify.com/track/6DsFSnThlZ3ks1BLZAnfKd) | [邱勝翊](https://open.spotify.com/artist/6zRSg9HfSPvWKMcD3PQjJI), [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss) | [Candy](https://open.spotify.com/album/3sAng7x1hfe757bIkdHKNV) | 2:42 | 2025-01-23 | 2025-02-07 |
@@ -839,6 +840,7 @@
 | [Someone Will Miss You](https://open.spotify.com/track/6B81ZNr3pqeS1AlSVGpOv2) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk), [Jesus Vive Band](https://open.spotify.com/artist/4BCKmHfy56sZxzJJ6dFCFO) | [Someone Will Miss You](https://open.spotify.com/album/1lIG9Vsy8GWxrtgflx0Dhd) | 3:35 | 2025-09-11 | 2025-09-19 |
 | [Something New](https://open.spotify.com/track/0U5MnFoXvYm8u8bZLwYNQI) | [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [Something New](https://open.spotify.com/album/08hHQDdxZDRpzSSApFIr1P) | 2:35 | 2024-11-21 | 2024-12-13 |
 | [Somnium Chamber](https://open.spotify.com/track/7BrLWuUlJo0NOe66XVFjPf) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Somnium Chamber](https://open.spotify.com/album/2P0vdydUw6dasijMXgQUR5) | 3:11 | 2025-10-16 | 2025-11-07 |
+| [sorry I AM A BITCH](https://open.spotify.com/track/4V79VJdtuno2n2Ta3D8lv9) | [紅帽](https://open.spotify.com/artist/1jPo7dU1QRkXRpq1aOKQeH) | [sorry I AM A BITCH](https://open.spotify.com/album/69o4xa7LybfySr5ldmozYO) | 2:36 | 2025-11-13 |  |
 | [SOUL COOL](https://open.spotify.com/track/0ge2PRns0CX0STGGmkocz5) | [DEENU GEMINI](https://open.spotify.com/artist/50txnmyflJToQeW0fS3gjo), [雙子Gmn](https://open.spotify.com/artist/3daUe7x3lNDaeHIoCFEs4k) | [SOUL COOL](https://open.spotify.com/album/0dXDWNM1gLViVwaNmP3ZOt) | 3:00 | 2025-10-30 |  |
 | [South Of Clouds \- homegrown live](https://open.spotify.com/track/2OWojJ3ogN1seaAvVYJbL1) | [Dizkar](https://open.spotify.com/artist/4D7p9lfzPO5MydS79xCVRx), [homegrown自家種](https://open.spotify.com/artist/7K1OlJMxZ5W3zrFk3UT3wg) | [South of Clouds \(homegrown live\)](https://open.spotify.com/album/62UZfhH7sdeBmHBDKqW0eY) | 3:05 | 2025-11-13 |  |
 | [Sparkling Wine](https://open.spotify.com/track/6Dm85sCyjcsq3JFmP7T4e8) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Sparkling Wine](https://open.spotify.com/album/4gxuib7CxBL3SkMm6kdi3s) | 3:23 | 2024-10-03 | 2024-11-01 |
@@ -1459,6 +1461,7 @@
 | [別輕易帶走我的所有](https://open.spotify.com/track/3uo2PmbTaRSm6IibdZ4lo3) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [別輕易帶走我的所有](https://open.spotify.com/album/6Rx0gFnUqO7dCyKAQGRqlC) | 3:51 | 2025-02-27 | 2025-03-14 |
 | [別離開](https://open.spotify.com/track/2k7TZGJ2wGZ7Ad49ec4dFi) | [薛恩Sean](https://open.spotify.com/artist/6v186QGGBB6kC1PGaB6Tv5) | [別離開](https://open.spotify.com/album/1VdViNqYGzZfgmmjZXCJTM) | 2:32 | 2025-06-05 | 2025-06-13 |
 | [別鬧](https://open.spotify.com/track/4seuVK3PbGVH2D1BGeIMUM) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC), [NJC](https://open.spotify.com/artist/3id02tVYLupVKZOSpHiGHg) | [別鬧](https://open.spotify.com/album/7McRpwTb7DaFkJppizIx4M) | 2:46 | 2025-11-13 |  |
+| [利爪（《龙族第二季：悼亡者之瞳》动画原声 决战主题曲）](https://open.spotify.com/track/0A5iisodHxadvlAcJK7mEC) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [《龙族第二季：悼亡者之瞳》动画原声带](https://open.spotify.com/album/6cJNoBOCYlyjvV7ge86mrk) | 3:44 | 2025-11-14 |  |
 | [刪了](https://open.spotify.com/track/1lqWsPvpHKjbhX59QBUoVc) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [刪了](https://open.spotify.com/album/5As6k7EkH3cTa5VxmXUhZT) | 4:11 | 2025-10-16 | 2025-11-07 |
 | [别问我是谁](https://open.spotify.com/track/5VhBv6EMes3zeudZ4LvA4U) | [RAYGUN](https://open.spotify.com/artist/12LPVgxiqKD3Lk14Mu5G6k), [K3LVN](https://open.spotify.com/artist/5aZJHV3bWffuwzPRasWTYe) | [别问我是谁](https://open.spotify.com/album/3lh36qVALxSKbiiWGBGb30) | 3:34 | 2025-06-05 | 2025-06-13 |
 | [到底我算什麼](https://open.spotify.com/track/400I9zCPEcazwQFxtIuiPO) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [到底我算什麼](https://open.spotify.com/album/1W9Ix25yVBC32ye4PuC9cf) | 4:24 | 2024-12-12 | 2025-01-10 |

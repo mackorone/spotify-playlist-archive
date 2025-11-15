@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  cover: Mimì
 
-948 songs - 1 day 20 hr 45 min
+948 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [POGOBANG](https://open.spotify.com/track/16N3CSgQi4wwArC9UoCWzs) | [Refo](https://open.spotify.com/artist/03mwxB2gQpaYZNRm5nNjIU) | [SALOPETTE BOYZ](https://open.spotify.com/album/2QjRwnrofVoELtLC8m15tZ) | 3:40 | 2025-10-16 |  |
 | [Polemica](https://open.spotify.com/track/7mt0j0WQNIH0FWOuJM2FI8) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Polemica](https://open.spotify.com/album/0oWiDWJDGxi1uhoZBtvCfu) | 2:39 | 2025-01-23 | 2025-02-14 |
 | [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 | 2024-11-07 | 2024-12-13 |
+| [polo nord](https://open.spotify.com/track/7fPHIMchStMkHnxFzmEXVx) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [polo nord](https://open.spotify.com/album/0wTgMtjebc3ntZ0GcV9cae) | 2:51 | 2025-11-13 |  |
 | [Polvere](https://open.spotify.com/track/3NgtBfIj16hsQdCgTlz4u1) | [VIOLANTE](https://open.spotify.com/artist/5ysxGtfqUnLuYBdKpMqmhu) | [Polvere](https://open.spotify.com/album/59DvlwV0AP3itvkMtmZwiR) | 2:41 | 2024-11-21 | 2025-01-17 |
 | [polvere da sparo](https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [polvere da sparo](https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ) | 2:57 | 2025-10-16 |  |
 | [Popolare](https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Popolare](https://open.spotify.com/album/395qqtbnGrzuSND5MwXwfa) | 2:25 | 2025-05-22 | 2025-09-12 |
@@ -704,7 +705,7 @@
 | [PRIMA DELLA SETE](https://open.spotify.com/track/3fkEO0XzyMXtOqlsSm1HXx) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [COYOTE!](https://open.spotify.com/album/1EKmOhH9z1WorXwncExBOO) | 2:51 | 2025-11-13 |  |
 | [Primavera](https://open.spotify.com/track/4iMGxCfP53otDdDqP1zLVx) | [PIÑACOLADA](https://open.spotify.com/artist/4LfIb06g3s3uQkkz2QW84i), [micol](https://open.spotify.com/artist/14XfK2OCx8cd8XSYlRmgtB), [mezzocammello](https://open.spotify.com/artist/5sQgIRNEUGevhQzxZk6leD) | [Primavera](https://open.spotify.com/album/1QA16UbB7vuMTS26PIcMac) | 2:12 | 2025-06-19 | 2025-07-25 |
 | [principio](https://open.spotify.com/track/6cq9sfMJP7K5MuoOXQq3Np) | [nora lang](https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh) | [principio](https://open.spotify.com/album/2aTMtJ3F2OJFsWlclqMC9N) | 2:30 | 2025-01-30 | 2025-03-21 |
-| [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [](https://open.spotify.com/album/null) | 3:05 | 2025-11-13 |  |
+| [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 | 2025-11-13 |  |
 | [Prospettiva ✈](https://open.spotify.com/track/3osI92d9fFeHoxtt3iHCV2) | [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [Radici Veloci Deluxe](https://open.spotify.com/album/5I7ZHkSZVWRwoBVhzAJgZ4) | 2:18 | 2024-12-12 | 2025-02-12 |
 | [PSICHE .𓆩♡𓆪.](https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [PSICHE .𓆩♡𓆪.](https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ) | 2:31 | 2024-11-14 | 2025-01-17 |
 | [pugnale](https://open.spotify.com/track/0zBnqDWkGtWDMYOjnm7wts) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [pugnale](https://open.spotify.com/album/0pLQPcAenfatBUnPjYQu12) | 2:00 | 2024-10-07 | 2024-10-25 |
@@ -883,7 +884,6 @@
 | [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 | 2025-07-10 |  |
 | [Torto o Ragione](https://open.spotify.com/track/12FJHOh0E62IIpWAkSp3au) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Torto o Ragione](https://open.spotify.com/album/1Uywh4wy10o24IZCFOVITq) | 2:43 | 2025-11-13 |  |
 | [tra le braccia](https://open.spotify.com/track/6uNfJzQST5zbyHxsnLiwEJ) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [tra le braccia](https://open.spotify.com/album/1ivYjNXgEc752jnfSaggmQ) | 3:20 | 2025-02-20 | 2025-04-11 |
-| [Track 1](https://open.spotify.com/track/7fPHIMchStMkHnxFzmEXVx) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Tram 83](https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tram 83](https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd) | 2:23 | 2024-10-03 | 2024-11-22 |
 | [tranquillo](https://open.spotify.com/track/39H2HXOZKUXaEe8HWpnn91) | [Pietro Motta](https://open.spotify.com/artist/4lA1XzmKtms1zw2iSnurDR) | [tranquillo](https://open.spotify.com/album/7KuilzwYnBWVUjkBiIyL5g) | 3:08 | 2025-10-16 | 2025-11-14 |
 | [Tribale](https://open.spotify.com/track/2tbNCOfkHmKhCoz8WuqBBO) | [DEN](https://open.spotify.com/artist/3oWSB5GjD00qyMzxQLRkNs) | [Tribale](https://open.spotify.com/album/6cVecPpW14mhrqD8YywRRL) | 2:44 | 2024-11-07 | 2025-01-10 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189019,
+      "name": "/Lentes",
+      "url": "https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 196750,
       "name": "CHUCO",
       "url": "https://open.spotify.com/track/0v2KAWDZNHl9O7mAuZfhdQ"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 197277,
       "name": "Cumbia Kokoro",
       "url": "https://open.spotify.com/track/6D8RFQmiusyVRSe2Ri7fQp"
@@ -2349,6 +2367,32 @@
     },
     {
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/25Pah4zBOkhKHi50Z31FvJ"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184264,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5JA1R6ex7F9ZpQNEB8tTGZ"
+    },
+    {
+      "album": {
         "name": "En Cantos",
         "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
       },
@@ -2762,7 +2806,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 219086,
       "name": "F\u00e1tima",
       "url": "https://open.spotify.com/track/4Q3K5GVBUPJNBJDznA5ewT"
@@ -3282,6 +3326,24 @@
       "duration_ms": 238221,
       "name": "Kristina",
       "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
+    },
+    {
+      "album": {
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/50QwSF854hDzcfkQTemgXU"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/1uq6EiEVRX39ZnfIaD8E6g"
     },
     {
       "album": {
@@ -5234,7 +5296,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 276013,
       "name": "Oigo voces",
       "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
@@ -5899,6 +5961,28 @@
     },
     {
       "album": {
+        "name": "Qualquer Canto",
+        "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
+      },
+      "artists": [
+        {
+          "name": "Abacaxepa",
+          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Qualquer Canto",
+      "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
+    },
+    {
+      "album": {
         "name": "Que He Sacado Con Quererte",
         "url": "https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW"
       },
@@ -6078,7 +6162,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 197321,
       "name": "Rompo y Tumbo",
       "url": "https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ"
@@ -7600,6 +7684,32 @@
       "duration_ms": 446510,
       "name": "What's a Girl to Do",
       "url": "https://open.spotify.com/track/52wqQ0URhqq4d15tHgKGQd"
+    },
+    {
+      "album": {
+        "name": "Who's there / Vida",
+        "url": "https://open.spotify.com/album/2xsYK6gmc0Zirq75RI4tDm"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209761,
+      "name": "Who's there",
+      "url": "https://open.spotify.com/track/0zLgFtLgOHrR1wN1hDfdFK"
     },
     {
       "album": {

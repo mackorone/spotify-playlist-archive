@@ -8387,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/7BhADQhRXAejqKcPRxiVbB"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192839,
+      "name": "Don't Tread On Me",
+      "url": "https://open.spotify.com/track/6HBXV39czD5H6T13VbJSQZ"
+    },
+    {
+      "album": {
         "name": "Doner Kebab Nacho Alejandro Garnacho",
         "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
       },
@@ -17458,7 +17476,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 204959,
       "name": "Livin\u2019 on Borrowed Time",
       "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
@@ -21558,7 +21576,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 185217,
       "name": "nap\u0131yosun mesela ?",
       "url": "https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb"
@@ -22162,7 +22180,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -31942,7 +31960,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 416194,
       "name": "Three Seconds To Goodbye",
       "url": "https://open.spotify.com/track/28sZ97rHdGqvfJePnH82mL"
@@ -41104,7 +41122,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 214919,
       "name": "\u0422\u0430\u043c",
       "url": "https://open.spotify.com/track/23Nt9b9XJKcif0KSRyfnGm"

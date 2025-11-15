@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73731,
+  "num_followers": 73727,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADzwfYK3TM4Da4g4u0AwvPq",
+  "snapshot_id": "aRUfgAAAAAAfj66HqkNaIQf0rcZtF4Xt",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "S\u00f3stenes Mendes",
+          "url": "https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Alto Pre\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feliz De Vez",
         "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
       },
@@ -579,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastros de Amor (ao Vivo)",
-        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "S\u00f3stenes Mendes",
-          "url": "https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Alto Pre\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonhos",
         "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 273670,
-      "name": "Como Se Cura a Ferida",
-      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 236690,
       "name": "A Noiva",
       "url": "https://open.spotify.com/track/7AJOBNI8TXteMfbpuBnfC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 273670,
+      "name": "Como Se Cura a Ferida",
+      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 305342,
-      "name": "Adorai, Adonai",
-      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 245481,
       "name": "Cacos Pelo Ch\u00e3o",
       "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 305342,
+      "name": "Adorai, Adonai",
+      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 266332,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/5q2t4YnLSh9KkNvEGxL2Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 297261,
       "name": "Liberta-me",
       "url": "https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 266332,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/5q2t4YnLSh9KkNvEGxL2Dm"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Ele Escolheu os Cravos",
-      "url": "https://open.spotify.com/track/56cCCbRpp3X4X6YrD0Edim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 241749,
       "name": "Me Renova Outra Vez",
       "url": "https://open.spotify.com/track/0HsDYSTBMzfOXxox5vpGyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Ele Escolheu os Cravos",
+      "url": "https://open.spotify.com/track/56cCCbRpp3X4X6YrD0Edim"
     }
   ],
   "unique_name": "This Is Fernanda Brum",

@@ -1,36 +1,124 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Natasha Humera Ejaz, Ansar, Sarmad Ghafoor",
-  "num_followers": 15206,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Hamza Malik,  Anumpta Sabri",
+  "num_followers": 15241,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABqrgSTUXTI2j4g+jmBxKXemGuCo",
+  "snapshot_id": "AAAAAKcRuXqtSPSUt5XQz9F+DwA8URJ3",
   "tracks": [
     {
-      "added_at": "2025-11-07 06:17:34",
+      "added_at": "2025-11-14 04:00:18",
       "album": {
-        "name": "Future Zindagi",
-        "url": "https://open.spotify.com/album/2iEbZ6bklsu0RKM702hyY5"
+        "name": "Over You Reprise (feat. Sabri Sisters)",
+        "url": "https://open.spotify.com/album/6oaT8pnAVs6GlK2sIO80dd"
       },
       "artists": [
         {
-          "name": "Natasha Humera Ejaz",
-          "url": "https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp"
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
         },
         {
-          "name": "Ansar.",
-          "url": "https://open.spotify.com/artist/4PBJ9JbSHMMA78dtwhXtLa"
+          "name": "Kabeer Khan",
+          "url": "https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt"
         },
         {
-          "name": "Sarmad Ghafoor",
-          "url": "https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl"
+          "name": "Sabri Sisters",
+          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
         }
       ],
-      "duration_ms": 157333,
-      "name": "Future Zindagi",
-      "url": "https://open.spotify.com/track/3ASTZlwaXJGQhAzbTGJCI4"
+      "duration_ms": 136148,
+      "name": "Over You Reprise (feat. Sabri Sisters)",
+      "url": "https://open.spotify.com/track/5mPlgGQwqjWMDtnq7tuM2n"
+    },
+    {
+      "added_at": "2025-11-14 04:00:18",
+      "album": {
+        "name": "Midnight Regrets",
+        "url": "https://open.spotify.com/album/4RCa4RgbqkgQCtuSffGKHt"
+      },
+      "artists": [
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        },
+        {
+          "name": "Syed Hamza",
+          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
+        },
+        {
+          "name": "Aalehaider Gillani",
+          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Midnight Regrets",
+      "url": "https://open.spotify.com/track/1O1tsLBD69WAnThgyrIsob"
+    },
+    {
+      "added_at": "2025-11-14 04:00:18",
+      "album": {
+        "name": "KHAT",
+        "url": "https://open.spotify.com/album/0Yc93fOJGWuvjKIoEmsEhV"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Hassan Rai",
+          "url": "https://open.spotify.com/artist/7mdBGoLdvF4OqvedvcgiuE"
+        },
+        {
+          "name": "Qasim Dahir",
+          "url": "https://open.spotify.com/artist/1yk4ylocCYUE7BP6mwRNar"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "KHAT",
+      "url": "https://open.spotify.com/track/57wCsgKjm7TNHgvLmyy7ny"
+    },
+    {
+      "added_at": "2025-11-14 04:00:18",
+      "album": {
+        "name": "Deewanay",
+        "url": "https://open.spotify.com/album/4PCgfYKGKPoGVeCvbik0Ll"
+      },
+      "artists": [
+        {
+          "name": "Najaf Ali",
+          "url": "https://open.spotify.com/artist/5D04BKowdcEciyByNMzAEX"
+        },
+        {
+          "name": "Fizza Raees",
+          "url": "https://open.spotify.com/artist/6V9gyN683unD16WBRIUAzK"
+        },
+        {
+          "name": "Kabeer Khan",
+          "url": "https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Deewanay",
+      "url": "https://open.spotify.com/track/62hljcrKCkiXH8Xxt8HPA9"
+    },
+    {
+      "added_at": "2025-11-14 04:00:18",
+      "album": {
+        "name": "Aazma Le",
+        "url": "https://open.spotify.com/album/1q87hIrvBT7hbI1mTJdcXE"
+      },
+      "artists": [
+        {
+          "name": "Fakhar Abbas",
+          "url": "https://open.spotify.com/artist/7L8VPgAXW4fcZBFgtkAAEb"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Aazma Le",
+      "url": "https://open.spotify.com/track/38lni6W28qtzIL6Y78l6Uu"
     },
     {
       "added_at": "2025-11-07 07:17:12",
@@ -151,30 +239,6 @@
     {
       "added_at": "2025-11-07 06:17:34",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/20II8FBYNJDHNG2vn6LwG0"
-      },
-      "artists": [
-        {
-          "name": "Ali & Shjr",
-          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
-        },
-        {
-          "name": "Ali Raza",
-          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
-        },
-        {
-          "name": "Haider Ali",
-          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
-        }
-      ],
-      "duration_ms": 166212,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/2ChR4qGCisHjtotYR3A7E2"
-    },
-    {
-      "added_at": "2025-11-07 06:17:34",
-      "album": {
         "name": "Dil Darda Mera",
         "url": "https://open.spotify.com/album/6ONx4rPa6utBynvwf6EO3w"
       },
@@ -275,26 +339,6 @@
       "duration_ms": 170376,
       "name": "Luv Summer",
       "url": "https://open.spotify.com/track/72fnjwohXwVLqudRXiRmbc"
-    },
-    {
-      "added_at": "2025-11-07 06:17:34",
-      "album": {
-        "name": "thikaana",
-        "url": "https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe"
-      },
-      "artists": [
-        {
-          "name": "Maanu",
-          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
-        },
-        {
-          "name": "Annural Khalid",
-          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
-        }
-      ],
-      "duration_ms": 203999,
-      "name": "madham",
-      "url": "https://open.spotify.com/track/78Lcy4BnXzj2nCj3CPSuWV"
     },
     {
       "added_at": "2025-11-07 06:17:34",
@@ -899,22 +943,6 @@
     {
       "added_at": "2025-11-07 06:17:34",
       "album": {
-        "name": "Iraaday",
-        "url": "https://open.spotify.com/album/3OdyaKPaEuxTnVrHckeM68"
-      },
-      "artists": [
-        {
-          "name": "Rizwan Anwar",
-          "url": "https://open.spotify.com/artist/06ACrU1xT9S6tPcT2junyQ"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Iraaday",
-      "url": "https://open.spotify.com/track/1vesWA1kY7un9O7AwK29bJ"
-    },
-    {
-      "added_at": "2025-11-07 06:17:34",
-      "album": {
         "name": "door",
         "url": "https://open.spotify.com/album/49TAPCz3vbcc1jO2HO2ayw"
       },
@@ -963,46 +991,6 @@
       "duration_ms": 230551,
       "name": "Haseen",
       "url": "https://open.spotify.com/track/4QXKWV5jNGpBtdLZK1fLrj"
-    },
-    {
-      "added_at": "2025-11-07 06:17:34",
-      "album": {
-        "name": "Tum Hi Na Samjhe (A Letter To)",
-        "url": "https://open.spotify.com/album/4DKArr40zcCq0MpygSh4fR"
-      },
-      "artists": [
-        {
-          "name": "Natasha Baig",
-          "url": "https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8"
-        },
-        {
-          "name": "Adnan Dhool",
-          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
-        },
-        {
-          "name": "Adnan Dhool Productions",
-          "url": "https://open.spotify.com/artist/6cLOQ3WC7p4JIJbDbNJSkl"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Tum Hi Na Samjhe - A Letter To",
-      "url": "https://open.spotify.com/track/2qDvITQxLQ2iXCMgFvH5Ai"
-    },
-    {
-      "added_at": "2025-11-07 06:17:34",
-      "album": {
-        "name": "Karzar-e-dua (Original Score)",
-        "url": "https://open.spotify.com/album/0b3epcpMZfSywlWxCOdeO8"
-      },
-      "artists": [
-        {
-          "name": "Wajhi Farooki",
-          "url": "https://open.spotify.com/artist/0DQFJkWYOvDE5xEOoO7Voq"
-        }
-      ],
-      "duration_ms": 247210,
-      "name": "Karzar-e-dua - Original Score",
-      "url": "https://open.spotify.com/track/3J2oIhQGZFuQZS4b0WU51g"
     },
     {
       "added_at": "2025-11-07 06:17:34",

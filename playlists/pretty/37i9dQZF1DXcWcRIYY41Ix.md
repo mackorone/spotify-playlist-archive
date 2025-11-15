@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,655 likes - 103 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,669 likes - 103 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 102 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 |
 | 103 | [Pardalet](https://open.spotify.com/track/0qtT3q1HMtaHzXuKctF9Wy) | [Marina Paredes](https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu), [Carmen Aciar](https://open.spotify.com/artist/0QMP0Ko9uvcExg6WQq0pWq) | [Pardalet](https://open.spotify.com/album/2hnaVR5xgqImkuYMpv1gmy) | 3:45 |
 
-Snapshot ID: `AAAAADTBZ5rGPfxNx5ackGhvWJ2KrRTf`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

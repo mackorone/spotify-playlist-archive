@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,293 likes - 128 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,362 likes - 128 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [](https://open.spotify.com/album/null) | 3:08 |
+| 1 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Cara Mencintai](https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB) | 3:08 |
 | 2 | [Bila \(feat\. Barsena Bestandhi\) \- Live From See You On Wednesday](https://open.spotify.com/track/6TAwbjw1LYQYXc5y0J9jKB) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Bila \(Live From See You On Wednesday\)](https://open.spotify.com/album/2aKwzPcQ7ndw5Ky9U3sNFw) | 4:25 |
 | 3 | [Mau Jadi Apa?](https://open.spotify.com/track/20Vgi9sX3rOnoUFGaPLQXX) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Mau Jadi Apa?](https://open.spotify.com/album/4J0OIjbX95tZ97392u8OeI) | 3:49 |
 | 4 | [Buang Waktu](https://open.spotify.com/track/6ZQst2HOrB4AguVEhM6jSl) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Radio Dalam Hati](https://open.spotify.com/album/30wxKbcmjeNK4iJ3aYABLg) | 3:37 |

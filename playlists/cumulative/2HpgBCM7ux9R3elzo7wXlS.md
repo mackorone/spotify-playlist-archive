@@ -4,7 +4,7 @@
 
 > All of it
 
-1,047 songs - 2 day 16 hr 17 min
+1,049 songs - 2 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,7 +651,7 @@
 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 | 2025-06-02 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2025-06-02 |  |
 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 | 2025-09-01 |  |
-| [Orange Colored Sky](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 | 2025-06-02 |  |
+| [Orange Colored Sky \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 | 2025-06-02 |  |
 | [Orbitron](https://open.spotify.com/track/2O1fWJD4M38spxqK6ly8qZ) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Transmission, Flux](https://open.spotify.com/album/1MKrXmYKkTv9foXroXTDbo) | 2:18 | 2025-06-02 |  |
 | [Original Me](https://open.spotify.com/track/0ddcSXm5VzpmviExjNj8X5) | [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Stars of Lyra+](https://open.spotify.com/album/1CCyPvnNWqsvdinI2pepqZ) | 3:43 | 2025-06-02 |  |
 | [Ostavi trag](https://open.spotify.com/track/6zMQAgnWYRvzNIQGfjmXad) | [September](https://open.spotify.com/artist/3ZwN2fJK0cf4FBp8RkYd8Q) | [Zadnja avantura](https://open.spotify.com/album/5fHwiIk7Z6geRXBEEjK3yr) | 4:03 | 2025-06-02 |  |
@@ -771,6 +771,7 @@
 | [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 5:15 | 2025-06-02 |  |
 | [Sense](https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Paper Mâché Dream Balloon](https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5) | 3:30 | 2025-06-02 |  |
 | [Sepiks Redux \(feat\. Misha Mansoor\)](https://open.spotify.com/track/1ra6N9hnC8kCGX4LlIL2Ar) | [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X), [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [C Paul Johnson](https://open.spotify.com/artist/1IMQj6EtlmfuEDQI1Mh7HK), [Rotem Moav](https://open.spotify.com/artist/5EzR3mljAoKai6zZePlqpC), [Misha Mansoor](https://open.spotify.com/artist/2RGaw1ZrhxGfoikLAk4wuZ) | [Destiny: Rise of Iron \(Original Soundtrack\)](https://open.spotify.com/album/4jgXIPSDzkzKiA2xFbZTls) | 4:15 | 2025-06-02 |  |
+| [Serpent Lullaby](https://open.spotify.com/track/5L0YAr8FVgUi6QJXlkTqHi) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Serpent Lullaby](https://open.spotify.com/album/1BXIvy3pI9teSxPPntvzwz) | 3:17 | 2025-11-14 |  |
 | [She](https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:13 | 2025-06-02 |  |
 | [She's So Fine](https://open.spotify.com/track/5r97cYQ6UtqKMWV3bUwHRU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:38 | 2025-09-01 |  |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2025-06-02 |  |
@@ -901,6 +902,7 @@
 | [The Man Who Sold the World](https://open.spotify.com/track/2HUNIj9v8qlJnpuslgcSIX) | [Midge Ure](https://open.spotify.com/artist/2N4isf5pypyuDVpBofqEN8) | [The Gift \(Deluxe Version\)](https://open.spotify.com/album/5LA2RqF2gWtd1Zl4kCH9z9) | 5:43 | 2025-06-02 |  |
 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2025-06-02 |  |
 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 | 2025-06-02 |  |
+| [The Moon Will Sing](https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 3:40 | 2025-11-14 |  |
 | [The Music Is You](https://open.spotify.com/track/7ytb0xYx81yhEJJyGb3Iei) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 1:29 | 2025-09-09 |  |
 | [The Only Thing I Know For Real \- Maniac Agenda Mix](https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA) | [Tyson Yen](https://open.spotify.com/artist/1qYedLslaYmgquDtL0GxFO) | [METAL GEAR RISING REVENGEANCE Vocal Tracks Selection](https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf) | 2:26 | 2025-06-02 |  |
 | [The Pale Moonlight](https://open.spotify.com/track/4EjbAh7YHU3VARkfkamZ8R) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:56 | 2025-06-02 |  |

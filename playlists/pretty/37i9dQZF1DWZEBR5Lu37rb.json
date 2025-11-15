@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 111739,
+  "num_followers": 111856,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Unintentional",
+        "url": "https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "duration_ms": 183031,
+      "name": "Aki Sioni",
+      "url": "https://open.spotify.com/track/0U9jyVnEkmWryh7sJpMS5e"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 257959,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Unintentional",
-        "url": "https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb"
-      },
-      "artists": [
-        {
-          "name": "Njerae",
-          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
-        }
-      ],
-      "duration_ms": 183031,
-      "name": "Aki Sioni",
-      "url": "https://open.spotify.com/track/0U9jyVnEkmWryh7sJpMS5e"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 227460,
       "name": "Let Me Love You Now",
       "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "Ndilinde",
-      "url": "https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Sawa Sawa",
         "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 215400,
       "name": "Ritwa Riaku",
       "url": "https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "Ndilinde",
+      "url": "https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF"
     },
     {
       "added_at": "2025-07-11 08:09:25",

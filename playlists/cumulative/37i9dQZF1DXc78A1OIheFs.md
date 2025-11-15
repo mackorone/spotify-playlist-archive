@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-313 songs - 18 hr 0 min
+314 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 | 2025-09-11 |  |
 | [DIRECTIONS](https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [DIRECTIONS](https://open.spotify.com/album/1iMQhjN7Jt8fhkf47pLYh3) | 3:02 | 2024-12-05 | 2025-02-21 |
 | [Distance](https://open.spotify.com/track/37iubkt9ZLMvMpXby6ZXKY) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [Distance](https://open.spotify.com/album/1k1JRpGWhKAeExQwbjDYVK) | 4:36 | 2024-05-20 | 2024-11-08 |
-| [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-15 |  |
+| [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-15 | 2025-11-15 |
 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 | 2024-05-20 | 2024-11-08 |
 | [Doesn't Really Matter \(feat\. BEXY\)](https://open.spotify.com/track/68CFmjw8xUSiiRvJvWR3SV) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [The Lovers](https://open.spotify.com/album/0a0Trgb4aUfCgsmlwJcPNR) | 3:23 | 2024-05-20 | 2024-11-08 |
 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 | 2025-07-17 |  |
@@ -220,6 +220,7 @@
 | [Painting My Roof Again](https://open.spotify.com/track/5hzO1rv7G7oYVWuLN7VUsl) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Painting My Roof Again](https://open.spotify.com/album/5KRo3jirSE4UEq2m2432No) | 4:08 | 2024-08-15 | 2024-11-08 |
 | [Papier\-Mâché](https://open.spotify.com/track/3GC0NNZxyIQSMOSoyUqpZ1) | [Tarn PK](https://open.spotify.com/artist/0o5jOQbBI6oSsI0U6OT41X) | [Papier\-Mâché](https://open.spotify.com/album/21wGL1QvVrXM5yJUNki3ag) | 4:00 | 2024-05-20 | 2024-10-04 |
 | [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 | 2024-05-20 | 2025-08-09 |
+| [Paris in the Rain](https://open.spotify.com/track/6lK86hPXQmCqWVQzpr2cCv) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Paris in the Rain](https://open.spotify.com/album/5MpXRd4igSRnaCpSb8mFyp) | 3:13 | 2025-11-06 |  |
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2025-03-21 |
 | [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 | 2024-10-03 | 2025-05-30 |
 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 | 2025-03-20 |  |

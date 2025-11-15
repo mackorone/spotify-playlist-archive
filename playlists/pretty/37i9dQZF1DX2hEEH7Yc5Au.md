@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,038 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,041 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [看你過甲按呢我就放心矣](https://open.spotify.com/track/6lQ576nSItQPAC4hV2NhfQ) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [離婚初體驗](https://open.spotify.com/album/4Cf0pcwmM1zTCNUJbAcXlK) | 3:36 |
 | 50 | [不出門](https://open.spotify.com/track/6ZElAeKu7m6Nb3uknWnssu) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF) | [長大有出息](https://open.spotify.com/album/50XEDS995Dsb5XcKgZiA5E) | 3:32 |
 
-Snapshot ID: `AAAAALXIlTAu/5bOR6elZhdWD77e5jOh`
+Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`

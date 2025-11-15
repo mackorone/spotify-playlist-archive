@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: Efya
 
-575 songs - 1 day 5 hr 43 min
+576 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [Me Ne Woa](https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [2+](https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76) | 3:30 | 2025-01-31 | 2025-03-22 |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-22 | 2024-04-12 |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-06-27 |  |
-| [Melanin](https://open.spotify.com/track/2RUKhHP0w1l49R7f1820qS) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP), [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [](https://open.spotify.com/album/null) | 2:33 | 2025-11-14 |  |
+| [Melanin](https://open.spotify.com/track/2RUKhHP0w1l49R7f1820qS) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP), [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Ghana Got Soul](https://open.spotify.com/album/4foPL6OjKnkeY4VPSr1efM) | 2:33 | 2025-11-14 |  |
 | [Million Style](https://open.spotify.com/track/1aShenubI5JKdlv1S4Sm7s) | [KillBeatz](https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Killa Riddim](https://open.spotify.com/album/5POFszPRMh67b1cImkzLnA) | 3:28 | 2024-03-22 | 2024-09-07 |
 | [Miss You](https://open.spotify.com/track/0h7AuxckvEgyoaBzXZuYyB) | [Reefer Tym](https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27) | [Miss You](https://open.spotify.com/album/3UsYwByBCsosmzI5ZMzqOL) | 2:36 | 2023-07-28 | 2023-08-02 |
 | [Miss Yu](https://open.spotify.com/track/0jvNABBGWF3vQH1PhJ5hJz) | [Joshua Moszi](https://open.spotify.com/artist/4VXF3uE8fAjVHyffIYO8yA), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Badu](https://open.spotify.com/album/3FbAWIKQQ5bOVXnwJDTtpa) | 2:37 | 2024-10-12 | 2024-10-26 |
@@ -345,6 +345,7 @@
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2022-11-04 | 2024-02-16 |
 | [Never](https://open.spotify.com/track/5PS1CtATOsyG0JFEXHwhhK) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Never](https://open.spotify.com/album/77DPwnQlCREZ4Q38w2WAYL) | 3:45 | 2025-02-28 | 2025-04-01 |
 | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz) | 2:36 | 2025-02-28 |  |
+| [Nice n' Sweet](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 | 2025-11-14 |  |
 | [Nicely](https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn) | [Nicely](https://open.spotify.com/album/7txg8RD9bbUDFUrq8lVnPV) | 2:42 | 2024-10-25 | 2024-11-22 |
 | [Nika](https://open.spotify.com/track/61XOkNNVUQGqNjtrtIIxZ8) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Unexpected 2](https://open.spotify.com/album/2gFQctL1EfPUzeVtYaXFVe) | 3:06 | 2023-11-24 | 2023-12-02 |
 | [NLF \(Breakfast\)](https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [NLF \(Breakfast\)](https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6) | 3:13 | 2024-06-14 |  |

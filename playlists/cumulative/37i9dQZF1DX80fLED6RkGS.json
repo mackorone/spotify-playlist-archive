@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Odi Wa Muranga",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Joefes",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 193216,
       "name": "1 Times 3",
       "url": "https://open.spotify.com/track/3JS0cvcUCSxGlINLYMm7Ho"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 230594,
       "name": "Amen",
       "url": "https://open.spotify.com/track/1q2VJR3XeeqbuowYJFxDD9"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 162857,
       "name": "Bad (feat. Tipsy Gee & Masauti)",
       "url": "https://open.spotify.com/track/4ju1W03rlR47XS26I1vG3w"
@@ -3244,6 +3244,32 @@
       "duration_ms": 199200,
       "name": "Hayaa",
       "url": "https://open.spotify.com/track/1MIj6zLZKQRXol1hkxiAue"
+    },
+    {
+      "album": {
+        "name": "Hii Imeenda (Refix)",
+        "url": "https://open.spotify.com/album/3D6jQkMYgm9ocbZzOr5XnE"
+      },
+      "artists": [
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        },
+        {
+          "name": "Addi Chokoch",
+          "url": "https://open.spotify.com/artist/1dAM5bKDDnFOOyyWtYwyaK"
+        },
+        {
+          "name": "Masagara",
+          "url": "https://open.spotify.com/artist/4rQP4e7SWPYlO2mHEMwpLj"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Hii Imeenda - Refix",
+      "url": "https://open.spotify.com/track/2r7nWSyW1OwVIPCCeDJvb0"
     },
     {
       "album": {
@@ -8259,6 +8285,40 @@
     },
     {
       "album": {
+        "name": "The Art Of Gengetone",
+        "url": "https://open.spotify.com/album/78fklCPhFXYhqFIh1d7TA7"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        },
+        {
+          "name": "Mr.Tee",
+          "url": "https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw"
+        },
+        {
+          "name": "Neliah",
+          "url": "https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5"
+        },
+        {
+          "name": "Dynaso Wegoso",
+          "url": "https://open.spotify.com/artist/2JM3GSprsp2cUoBzeBBVuJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196290,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/76HkgjEx44Yh50yVJQ9uVd"
+    },
+    {
+      "album": {
         "name": "Best Of Black Market Afrika",
         "url": "https://open.spotify.com/album/1DBoZY0u7JnTzIvUu1ZZ5h"
       },
@@ -9360,6 +9420,28 @@
       "duration_ms": 206520,
       "name": "Teremka",
       "url": "https://open.spotify.com/track/7d97FjHfKqehjD9sUyCwbl"
+    },
+    {
+      "album": {
+        "name": "That gyal",
+        "url": "https://open.spotify.com/album/5bcMUOMLeKIJKYGawESc6W"
+      },
+      "artists": [
+        {
+          "name": "Kilundeezy",
+          "url": "https://open.spotify.com/artist/2pvFPrGFSGZvkIe5nSkEzf"
+        },
+        {
+          "name": "Skymer Kenya",
+          "url": "https://open.spotify.com/artist/2piYEEfaReH23wnLQUN2ae"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "That gyal",
+      "url": "https://open.spotify.com/track/1Q065zuX0fgtxCCiEzpHBn"
     },
     {
       "album": {

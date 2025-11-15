@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Waylon Wyatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,222 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,264 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 4 | [Graveyard Whistling](https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Graveyard Whistling](https://open.spotify.com/album/7b3A1mZPmO9P7zHWAgr1U3) | 4:04 |
 | 5 | [Frostbite](https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Frostbite](https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4) | 3:22 |
 | 6 | [Beer Back Home](https://open.spotify.com/track/5Lks14NDn8Te1lgAF7tJZP) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Beer Back Home](https://open.spotify.com/album/6L6QRW6hspQySEPWtIuq4S) | 3:16 |
-| 7 | [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 |
+| 7 | [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade \(EP\)](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 |
 | 8 | [Unspoken](https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Unspoken](https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB) | 2:39 |
 | 9 | [Holdin' You, Lovin' You](https://open.spotify.com/track/6NXsiICwYqbiFlpRjeeMZs) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Holdin' You, Lovin' You](https://open.spotify.com/album/40lQgSC5YEFKeTahWOBTJV) | 4:37 |
 | 10 | [Beautiful Things](https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Beautiful Things](https://open.spotify.com/album/1vIdJxr4T63IHA5ex4rHEv) | 3:55 |
 | 11 | [Night N' Day](https://open.spotify.com/track/1xGT0LYGX1GBGm3fQP2fAM) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Night N' Day](https://open.spotify.com/album/1WH0bp0oV0xRNoZgYcAoih) | 3:02 |
 | 12 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 |
 | 13 | [ONE MORE](https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb) | 2:49 |
-| 14 | [Track 15](https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Problem](https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:34 |
 | 15 | [Help You Remember](https://open.spotify.com/track/0NDbgxEjozJOUUWk7amahQ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Help You Remember](https://open.spotify.com/album/44O93Aw5e60hDtCb8V3l5P) | 3:51 |
 | 16 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 |
 | 17 | [Blessed](https://open.spotify.com/track/5fcwJp3a6rbrPcfmz8gbaJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Blessed](https://open.spotify.com/album/6s2x4nz20NhPzYobvxJ7ce) | 3:41 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 19 | [Air It Out](https://open.spotify.com/track/42OELB5rmKntxc07V0273S) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK), [Piper Butcher](https://open.spotify.com/artist/43AU8Hi9juJbA4UDNnmBps) | [Gooseneck Party](https://open.spotify.com/album/5ppTk9ksMUCGmPvbvhENLZ) | 5:00 |
 | 20 | [Song For Shania](https://open.spotify.com/track/6VWsRQY6A3irb7dIILmHfK) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Cowboy Up](https://open.spotify.com/album/4sf1VyilDtKqaduPSTXfet) | 2:52 |
 | 21 | [Old Tricks](https://open.spotify.com/track/4BUsbMXXNuLa9XpxdgxVkP) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:05 |
-| 22 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [](https://open.spotify.com/album/null) | 2:16 |
+| 22 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 |
 | 23 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 |
 | 24 | [Make It Rain](https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:12 |
 | 25 | [baby blues](https://open.spotify.com/track/0gx2NKeIy2YCc1UaXkJmYI) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [ace](https://open.spotify.com/album/1qV1UBoBOubbEoNetigs3Z) | 2:54 |

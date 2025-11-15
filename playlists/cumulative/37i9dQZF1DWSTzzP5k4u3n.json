@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Pate Mustaj\u00e4rvi.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Johanna von Hertzen.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 250775,
       "name": "Aika loppuu",
       "url": "https://open.spotify.com/track/2m03FQ7x7YGGHZoiy558Ta"
@@ -1389,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Sun t\u00e4ytyy kuulla t\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/341JsoGaFAbJkRl1Z8piE6"
+      },
+      "artists": [
+        {
+          "name": "Johanna von Hertzen",
+          "url": "https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Et oo en\u00e4\u00e4 mun rakas",
+      "url": "https://open.spotify.com/track/3hGMl5Q6Tjm7GJMW3BBfCB"
+    },
+    {
+      "album": {
         "name": "Fuck the system jne.",
         "url": "https://open.spotify.com/album/7DIuJBEAoyP21pMMXXf8hx"
       },
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 173693,
       "name": "Jos putoan pime\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/5FKR3JwUuQghfcu5up1W0n"
@@ -2578,6 +2596,24 @@
       "duration_ms": 269106,
       "name": "Juhannustaika",
       "url": "https://open.spotify.com/track/6hJejJD5v9mzuA22YqVuzu"
+    },
+    {
+      "album": {
+        "name": "Jumalan hiljaisuus",
+        "url": "https://open.spotify.com/album/7D9p5fbuKnyakLWLl0V04A"
+      },
+      "artists": [
+        {
+          "name": "Ursus Factory",
+          "url": "https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197794,
+      "name": "Jumalan hiljaisuus",
+      "url": "https://open.spotify.com/track/4ln7rd2xQeLOoUpoTqwrQ8"
     },
     {
       "album": {
@@ -2942,7 +2978,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 225909,
       "name": "Kaikki nuo laulut",
       "url": "https://open.spotify.com/track/11V6gXm7WlpPVhBqi6MxY2"
@@ -3076,6 +3112,24 @@
       "duration_ms": 175184,
       "name": "Kanaria",
       "url": "https://open.spotify.com/track/1hrxc1mvTbW9ISOGwxrk7I"
+    },
+    {
+      "album": {
+        "name": "Kapea tie",
+        "url": "https://open.spotify.com/album/7prJylqrb5dRbGLuKnQy0k"
+      },
+      "artists": [
+        {
+          "name": "Suurimaa",
+          "url": "https://open.spotify.com/artist/3hIGlveITCdy6x0rSazmI8"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "Kapea tie",
+      "url": "https://open.spotify.com/track/6aDvNvou11FiUuhnrRyL6O"
     },
     {
       "album": {
@@ -3274,6 +3328,24 @@
       "duration_ms": 204151,
       "name": "Kaunis",
       "url": "https://open.spotify.com/track/6T6D0KAk4q6ujqWkTmQ0bL"
+    },
+    {
+      "album": {
+        "name": "Kaupunki",
+        "url": "https://open.spotify.com/album/7JJ3oz86wD9GWDdRjTBFUL"
+      },
+      "artists": [
+        {
+          "name": "Haavat",
+          "url": "https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200464,
+      "name": "Kaupunki",
+      "url": "https://open.spotify.com/track/7mpOB6mA19K7zcwR0VNldm"
     },
     {
       "album": {
@@ -3880,7 +3952,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 177379,
       "name": "Kukaan ei tied\u00e4 mit\u00e4 rakkaus on",
       "url": "https://open.spotify.com/track/4PQYkG2c7upwBPKevLMe9D"
@@ -4364,6 +4436,42 @@
       "duration_ms": 169973,
       "name": "Lasiprinsessa",
       "url": "https://open.spotify.com/track/51yXdFuq2rEj4jbbP2b39V"
+    },
+    {
+      "album": {
+        "name": "Lasitalo",
+        "url": "https://open.spotify.com/album/1rPflUGdK22ewq8glYrVES"
+      },
+      "artists": [
+        {
+          "name": "BLONDI",
+          "url": "https://open.spotify.com/artist/3AgPsEdoGeiqUBdEEwry1b"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214198,
+      "name": "Lasitalo",
+      "url": "https://open.spotify.com/track/0zWvqc3pHIwVX2JHXWMNU2"
+    },
+    {
+      "album": {
+        "name": "Lasse",
+        "url": "https://open.spotify.com/album/3gVmVcXBpxaxa5MsiCmXX8"
+      },
+      "artists": [
+        {
+          "name": "Timo K\u00e4m\u00e4r\u00e4inen",
+          "url": "https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "Lasse",
+      "url": "https://open.spotify.com/track/0KtknTBziwJ29vjMA1abTY"
     },
     {
       "album": {
@@ -5882,7 +5990,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 180497,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/5qQhb7PNKCOb0yf6rDRQhL"
@@ -5900,7 +6008,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 161496,
       "name": "Nosta sun nyrkkis ilmaan!",
       "url": "https://open.spotify.com/track/6kcd3ZprUkDYMPAFKOKTLL"
@@ -6124,6 +6232,24 @@
       "duration_ms": 234600,
       "name": "Oletko siell\u00e4",
       "url": "https://open.spotify.com/track/3EplszH4zG4GJFjmsiyVap"
+    },
+    {
+      "album": {
+        "name": "Omena",
+        "url": "https://open.spotify.com/album/3GCagpiHC6lXVvCCufTJAo"
+      },
+      "artists": [
+        {
+          "name": "Riekko Salama",
+          "url": "https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152684,
+      "name": "Omena",
+      "url": "https://open.spotify.com/track/7mTiwDvlvrmUMFXUtpmQiV"
     },
     {
       "album": {
@@ -6742,6 +6868,24 @@
       "duration_ms": 185809,
       "name": "Petromelankolia",
       "url": "https://open.spotify.com/track/7M1PTdwk4VbifhDvjf9UhE"
+    },
+    {
+      "album": {
+        "name": "Pettymyksen vuori",
+        "url": "https://open.spotify.com/album/0ccH5esHBkYXDzDbHGxHRM"
+      },
+      "artists": [
+        {
+          "name": "Ikirouta",
+          "url": "https://open.spotify.com/artist/1WVtxnETRvbUC9ZyUbJ3Ao"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211618,
+      "name": "Pettymyksen vuori",
+      "url": "https://open.spotify.com/track/51r1Fqy52OEpxJ6idVfU1V"
     },
     {
       "album": {
@@ -7841,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "sateeseen",
+        "url": "https://open.spotify.com/album/0k5T7MjCpoLvPdPDugeTfB"
+      },
+      "artists": [
+        {
+          "name": "LukaBo",
+          "url": "https://open.spotify.com/artist/3d3qDkQWPJ8lVF8PddvTXb"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182189,
+      "name": "sateeseen",
+      "url": "https://open.spotify.com/track/0rFDzMwh9dXnI7KE7oiq54"
+    },
+    {
+      "album": {
         "name": "Satu peikoista",
         "url": "https://open.spotify.com/album/0D77k8aHK7BxBYwT3goIo2"
       },
@@ -7852,7 +8014,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 354711,
       "name": "Satu peikoista",
       "url": "https://open.spotify.com/track/4MksHrlGvTndcGcTAFxOiY"
@@ -8000,6 +8162,24 @@
       "duration_ms": 224832,
       "name": "Sen min\u00e4 lupaan",
       "url": "https://open.spotify.com/track/469FQsqbctrlCb0iQEJaz6"
+    },
+    {
+      "album": {
+        "name": "Seppeleet",
+        "url": "https://open.spotify.com/album/7zHQZAQltvWwyjmA7589dt"
+      },
+      "artists": [
+        {
+          "name": "CVPRI",
+          "url": "https://open.spotify.com/artist/3dsY7ij3CllLbA9KgCB4iz"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275466,
+      "name": "Seppeleet",
+      "url": "https://open.spotify.com/track/6pz4xE1yUar5mt8BNfebFo"
     },
     {
       "album": {
@@ -8241,6 +8421,24 @@
     },
     {
       "album": {
+        "name": "Soronoo",
+        "url": "https://open.spotify.com/album/4TP6f3QnndEumycYmLUTUi"
+      },
+      "artists": [
+        {
+          "name": "Nyrkkitappelu",
+          "url": "https://open.spotify.com/artist/3iqfiMKG1Qp35bRjj03sb1"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "Soronoo",
+      "url": "https://open.spotify.com/track/0dkUsZhRuUvfKBUQcYd12h"
+    },
+    {
+      "album": {
         "name": "Sorvari",
         "url": "https://open.spotify.com/album/3hBcpmfIgsMaQC5rksjadQ"
       },
@@ -8436,7 +8634,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 203976,
       "name": "Sun kosketus tappaa",
       "url": "https://open.spotify.com/track/0z0XLFdKYVYuuk0tIlD1sA"
@@ -8768,7 +8966,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 411653,
       "name": "S\u00e4 tunsit mut",
       "url": "https://open.spotify.com/track/5QmRWEFgpmiZPUlzF2dcPb"
@@ -8966,7 +9164,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 213365,
       "name": "Talot ja puutarhat",
       "url": "https://open.spotify.com/track/0M75qmU5PT7lfskv0tvIly"
@@ -8984,7 +9182,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 184093,
       "name": "Tankkaan rakkautta",
       "url": "https://open.spotify.com/track/3NLyHNGljkUdEOGHPEEB3O"

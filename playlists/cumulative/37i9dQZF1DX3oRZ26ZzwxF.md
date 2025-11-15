@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : Himra
 
-186 songs - 8 hr 36 min
+187 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BUY](https://open.spotify.com/track/30o0wPblKLHAgQLlBJcpCz) | [Willy Wallas](https://open.spotify.com/artist/5Y2ZxwT6skaSDBUyteBCL1), [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [LDM](https://open.spotify.com/album/2HzW1rHpw1WECvihshuKuy) | 2:53 | 2025-09-25 | 2025-11-07 |
 | [Béni](https://open.spotify.com/track/6jSuFCEBmPaw57N4Me4bya) | [Lesky](https://open.spotify.com/artist/0VogK6a2ytEmfv2Eg2ZvBp), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [Bmuxx Carter](https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C) | [Béni](https://open.spotify.com/album/3VGDTzCploKK1PR16XKXPZ) | 3:53 | 2025-06-05 | 2025-08-22 |
 | [C'est Du Mélange](https://open.spotify.com/track/10XVh3wR0cBqPBiTCgIuDw) | [Sethlo](https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON) | [C'est Du Mélange](https://open.spotify.com/album/2yAG0Lm31GGQVRcLQozCid) | 2:58 | 2025-08-07 | 2025-09-05 |
+| [C'est tchô](https://open.spotify.com/track/3o7GChDqepk1swchrVCv4E) | [NOVA BINKS](https://open.spotify.com/artist/5HedNXMMeY0KqV6b016Iwl), [Xmo Z](https://open.spotify.com/artist/6kmy9lhA87jwRFgfshxlR2) | [C'est tchô](https://open.spotify.com/album/31hj7cL4Wcxj0UQOJyKIZ5) | 2:44 | 2025-11-13 |  |
 | [C'KOMEN ?](https://open.spotify.com/track/0X3WWjm26tlB1UNTpH8qtg) | [Le Petit Mandelha](https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij), [Le Niangboy](https://open.spotify.com/artist/6GvoC0QtVxej96Urd8BFmg) | [C'KOMEN ?](https://open.spotify.com/album/3IMMnyzz9L1WkzeFtxweYe) | 2:35 | 2025-06-19 | 2025-10-03 |
 | [CA GLOW](https://open.spotify.com/track/7Fp5yUcTy3bVI9eP31WnKf) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 3:49 | 2025-09-25 |  |
 | [CARDIO](https://open.spotify.com/track/61GLuMu70Cn6RwTLSRWOTn) | [LePapara](https://open.spotify.com/artist/2J7P5cx3l8PKzQnVo6BEhT), [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [CARDIO](https://open.spotify.com/album/4sl9N2N97tl2Tskx9u7nhJ) | 2:24 | 2025-09-04 | 2025-10-03 |

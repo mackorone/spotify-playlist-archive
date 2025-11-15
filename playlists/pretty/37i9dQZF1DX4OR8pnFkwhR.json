@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOp/F+ygXxnMrBoI5+hC4CLu50Fv",
+  "snapshot_id": "AAAAAE0vC9F2Hw8enIduiamisVLY4SKT",
   "tracks": [
-    {
-      "added_at": "2025-11-11 15:01:04",
-      "album": {
-        "name": "bourgeoisie",
-        "url": "https://open.spotify.com/album/2oZ2rThJ9TY5d7r1uNHzfH"
-      },
-      "artists": [
-        {
-          "name": "JIJIM",
-          "url": "https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA"
-        }
-      ],
-      "duration_ms": 185398,
-      "name": "bourgeoisie",
-      "url": "https://open.spotify.com/track/2TrzwcLuyE9nViQCNq3Rbp"
-    },
     {
       "added_at": "2025-11-11 15:01:04",
       "album": {
@@ -455,6 +439,22 @@
       "duration_ms": 236342,
       "name": "\u30d5\u30e9\u30b8\u30a7\u30fc\u30eb",
       "url": "https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0"
+    },
+    {
+      "added_at": "2025-11-11 15:01:04",
+      "album": {
+        "name": "bourgeoisie",
+        "url": "https://open.spotify.com/album/2oZ2rThJ9TY5d7r1uNHzfH"
+      },
+      "artists": [
+        {
+          "name": "JIJIM",
+          "url": "https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA"
+        }
+      ],
+      "duration_ms": 185398,
+      "name": "bourgeoisie",
+      "url": "https://open.spotify.com/track/2TrzwcLuyE9nViQCNq3Rbp"
     },
     {
       "added_at": "2025-11-11 15:01:04",

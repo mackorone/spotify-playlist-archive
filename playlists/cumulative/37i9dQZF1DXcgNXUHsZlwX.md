@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-528 songs - 1 day 7 hr 22 min
+530 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Girouette](https://open.spotify.com/track/7fBzPwiKk8GvRKiCwQ3NFr) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 3:19 | 2021-01-03\* | 2022-07-29 |
 | [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 | 2023-02-11 | 2024-01-29 |
 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 | 2022-01-14 |  |
+| [Good Call](https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Good Call](https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV) | 4:01 | 2025-11-14 |  |
 | [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 | 2024-01-12 | 2025-08-08 |
 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 | 2022-05-13 | 2025-10-18 |
 | [Grande migration](https://open.spotify.com/track/4akBNRfIRwNawhhojfXGWo) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Grande migration](https://open.spotify.com/album/1fyIMqskJbbSyvpfgZTE0z) | 5:12 | 2022-04-22 | 2022-07-27 |
@@ -305,7 +306,7 @@
 | [Lumière](https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK) | 2:49 | 2025-09-05 | 2025-11-09 |
 | [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 | 2025-08-14 |  |
 | [Ma belle Clodie](https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a) | [Lauma](https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK) | [Pixels](https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk) | 5:02 | 2021-01-03\* | 2022-02-12 |
-| [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 | 2022-10-14 |  |
+| [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 | 2022-10-14 | 2025-11-15 |
 | [Ma déroute \(Radio Edit\)](https://open.spotify.com/track/7tzJ2UyWtJX2CFUvKYVLuE) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [Ma déroute \(Radio Edit\)](https://open.spotify.com/album/13fBLkvKWZ5bfMLdngqNdJ) | 2:55 | 2021-03-27 | 2021-05-08 |
 | [Ma maladie mentale](https://open.spotify.com/track/6KICOrKKfsT0MGAVpxNpg9) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 3:25 | 2021-09-19 | 2021-09-20 |
 | [Ma tronche](https://open.spotify.com/track/1rGI6HAegFJntpek5ssm2b) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Ma tronche](https://open.spotify.com/album/4mzr25KT55EDlQBKeGK6BH) | 3:11 | 2021-01-18 | 2021-05-08 |
@@ -393,7 +394,7 @@
 | [PLS \- sunrise version](https://open.spotify.com/track/3ldCCZdvhLEVr1zBwFpPd2) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [PLS](https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS) | 3:03 | 2021-08-16 | 2022-02-12 |
 | [Plus tard](https://open.spotify.com/track/0JmudqX8823E6sxCTbCWGn) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Plus tard](https://open.spotify.com/album/6TxrGYY2rZAVTYmdsRahM1) | 3:59 | 2021-01-16 | 2021-10-23 |
 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 | 2023-10-06 | 2023-11-11 |
-| [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 | 2022-04-15 |  |
+| [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 | 2022-04-15 | 2025-11-15 |
 | [Post Mortem](https://open.spotify.com/track/27CT56qR6K6NB5K9O2lrCO) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Post Mortem](https://open.spotify.com/album/3HPXiBBZnymZIN0aUkXieY) | 3:43 | 2022-03-25 | 2022-04-16 |
 | [Pour elle](https://open.spotify.com/track/1EXBuLna0G1M3Eum4mHJfa) | [Alex Richard](https://open.spotify.com/artist/1Q9g6aHFRvJXqNOdpglIbT) | [Pour elle](https://open.spotify.com/album/2ZNVeWHcqRngMISjIkUrbV) | 3:06 | 2021-02-25 | 2021-05-08 |
 | [Pousse Pousse](https://open.spotify.com/track/4R2RjRNPvXNLonRYuybrzq) | [Jonathan Painchaud](https://open.spotify.com/artist/1eTRTFyUNxGHlG9heF6YUF) | [Pousse Pousse \- Single](https://open.spotify.com/album/0wmyFTusdzmf1HQheJojP7) | 5:23 | 2021-01-03\* | 2021-10-09 |
@@ -524,6 +525,7 @@
 | [writer in ny](https://open.spotify.com/track/53bRqXGVyCv1PCjY0fQnmM) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/4x39dWBX1IW8wgHufEh6og) | 3:19 | 2022-03-25 | 2022-04-21 |
 | [writer in ny](https://open.spotify.com/track/5EIEzisvJrHWYaBTXtQ8zd) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:19 | 2022-07-08 | 2022-09-05 |
 | [Y'a un vent qui me ramene](https://open.spotify.com/track/6rnHABZ9tb7BKy5kaGjOuI) | [Zachary Richard](https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY) | [Y'a un vent qui me ramene](https://open.spotify.com/album/3pBkX3gEaYehrwiNvhOa18) | 3:48 | 2021-01-15 | 2021-01-30 |
+| [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 | 2025-11-14 |  |
 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-30 | 2022-12-02 |
 | [À l'aube de nous](https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD) | [Amelie Mandeville](https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0) | [À l'aube de nous](https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq) | 3:13 | 2021-01-15 | 2022-07-28 |
 | [À l'ombre dans le désert](https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Après, on va où?](https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F) | 3:13 | 2025-10-31 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Jotapê
+> boom bap renasce todo dia\. Foto: Matheus Coringa
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,838 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,850 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Pescador](https://open.spotify.com/track/7fOVvOSh1AWx8YXzg9xYMv) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [Pescador](https://open.spotify.com/album/2rEPgcwYtaEZTLqVld2bRg) | 3:07 |
 | 75 | [Ômega Chucro Freeverse](https://open.spotify.com/track/6bAftOEmHudO6nA2sy3mRg) | [j3llyX](https://open.spotify.com/artist/5iTcI9GzniWIJkg7FTxwOw) | [Ômega Chucro Freeverse](https://open.spotify.com/album/1RqydsFsQTx7533eNUJoVE) | 2:44 |
 
-Snapshot ID: `AAAAAGJlfGt59xWZCL4A0XJW2pScZXYy`
+Snapshot ID: `AAAAAHl/vx2HSPKTYH0q3CUsmj3dqqzu`

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,642 songs - 3 day 15 hr 20 min
+1,644 songs - 3 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Before We Say Goodbye](https://open.spotify.com/track/5Dck4xiCdbm3KDjA6hNemE) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T) | [Before We Say Goodbye](https://open.spotify.com/album/0rlECAbEaGIdRfOkoV6Q3D) | 2:25 | 2025-10-31 |  |
 | [Beg You](https://open.spotify.com/track/1IpOkr2ADRJGyR8nE3xQS2) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Beg You](https://open.spotify.com/album/4v1z9TfE4y97omPxEreTg4) | 4:24 | 2024-10-10 | 2025-04-11 |
 | [Behind](https://open.spotify.com/track/7tsrBisHxXP8ZvaJ2HgSfs) | [Tommy Loude](https://open.spotify.com/artist/1Tw4EeFgfssOA3CHXCSkvF) | [Behind](https://open.spotify.com/album/2FzpTdxPDGjENoVQE6W2EH) | 3:27 | 2022-11-03 | 2022-11-25 |
+| [Believe](https://open.spotify.com/track/52cwEQ4GKBDBz9nOB7j6Mg) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Clarees](https://open.spotify.com/artist/5preGCl6y5PCh5UYFQSlDl) | [Believe](https://open.spotify.com/album/6hfprphGXTqjYQtIfCOLta) | 2:48 | 2025-11-14 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-09 | 2023-01-20 |
 | [Belong To You](https://open.spotify.com/track/5VrUy953DPeHmOUCCrkz3A) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Couché](https://open.spotify.com/artist/6N6ZLdTZg3Pasm0JCF5nbl) | [Belong To You](https://open.spotify.com/album/5kkx78UKw8yToOOBdtc7Am) | 2:57 | 2024-06-13 | 2024-10-19 |
 | [Best Part Of Us \- Anniversary Mix](https://open.spotify.com/track/4JVtM5zEpZztABuWZmqztX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us \(Anniversary Mix\)](https://open.spotify.com/album/7ynLNBuPgercNkawLI8ZST) | 3:49 | 2022-06-09 | 2022-07-08 |
@@ -618,6 +619,7 @@
 | [Hold Me Close \- Vintage Culture Remix](https://open.spotify.com/track/2SUtI7BZmrIKZpRC4rVjc7) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Human Learning \(Remixes, Pt\. 1\)](https://open.spotify.com/album/1EwsOmuBJQLv2CcJkEdnD2) | 3:47 | 2022-06-09 | 2022-06-24 |
 | [Hold Me Tight](https://open.spotify.com/track/2NLHXGesNu3CCXJuZfKj62) | [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Hold Me Tight](https://open.spotify.com/album/2TyJNNdYqCme7Q1O3qjmgc) | 3:16 | 2022-08-11 | 2022-11-04 |
 | [Hold On To Your Heart](https://open.spotify.com/track/5p2ilHbZd8Utsprba4QaXS) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [WeDisappear](https://open.spotify.com/album/4w9lDjMD7wopSiYLBVsDgI) | 4:29 | 2022-06-09 | 2022-07-08 |
+| [Hold That Sucker Down](https://open.spotify.com/track/5ofDEUD4lrFKgEALy5ysZJ) | [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Hold That Sucker Down](https://open.spotify.com/album/5bBxFSHWzXnQ9ixa5f6MVE) | 3:36 | 2025-11-14 |  |
 | [Hold That Sucker Down](https://open.spotify.com/track/4wYiEOnBrQ7JsEHKS9caA6) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Hold That Sucker Down](https://open.spotify.com/album/3pbHUCYWamWQQyysR2cRGG) | 2:33 | 2023-07-27 | 2023-12-19 |
 | [Hold Up](https://open.spotify.com/track/2lWXDOwTUs76UBk676l0PP) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Hold Up](https://open.spotify.com/album/1ctxLQewwgLe89gbFoqsh3) | 3:48 | 2024-06-10 | 2024-10-19 |
 | [Hold Up](https://open.spotify.com/track/5KGn7C4GflN0EFMNqDmUY9) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Hold Up](https://open.spotify.com/album/6aebvC7BtTJtJ1qsNgzaYZ) | 3:48 | 2024-01-12 | 2024-01-19 |

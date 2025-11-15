@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 148593,
       "name": "Kent Country Train",
       "url": "https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 276967,
       "name": "Spindrift",
       "url": "https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl"
@@ -3022,6 +3022,24 @@
       "duration_ms": 465600,
       "name": "The Way Of Time",
       "url": "https://open.spotify.com/track/6Gmnl1YWIX2g6XYZCxDY1J"
+    },
+    {
+      "album": {
+        "name": "Shenzhou [Reissue]",
+        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235898,
+      "name": "The White Cliffs of Dover",
+      "url": "https://open.spotify.com/track/74OAjOwkLkyTyabLXTvTnA"
     },
     {
       "album": {

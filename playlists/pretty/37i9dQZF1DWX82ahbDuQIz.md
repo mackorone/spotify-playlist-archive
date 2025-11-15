@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: EVITA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,651 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,685 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Cry For Me Argentina](https://open.spotify.com/track/0YxsX38Xeeu127Qjuv57qc) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Don't Cry For Me Argentina](https://open.spotify.com/album/5m6ixcQJXtnxp6x5v6D6N9) | 4:45 |
+| 1 | [Don't Cry For Me Argentina \- Studio Version](https://open.spotify.com/track/0YxsX38Xeeu127Qjuv57qc) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Don't Cry For Me Argentina \(From "Evita"\)](https://open.spotify.com/album/5m6ixcQJXtnxp6x5v6D6N9) | 4:45 |
 | 2 | [Waving Through A Window](https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Original Broadway Cast of Dear Evan Hansen](https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:56 |
 | 3 | [With One Look](https://open.spotify.com/track/0i8FyAJCAjlSJlUXuvMR96) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [SUNSET BLVD: The Album](https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45) | 4:29 |
 | 4 | [You'll Be Back](https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:28 |

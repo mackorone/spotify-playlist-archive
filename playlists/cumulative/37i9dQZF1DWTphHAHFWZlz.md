@@ -2,9 +2,9 @@
 
 ### [POGO](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> Nuevo sonido, misma actitud.<br/>📷 Little Boogie
+> Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-296 songs - 16 hr 55 min
+298 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-05-19 | 2024-10-05 |
 | [Imaginando](https://open.spotify.com/track/0tp6RLnxyNOSrTQak9YBd6) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Imaginando](https://open.spotify.com/album/7D4FYZzMAcwN5N61xCj0cJ) | 4:23 | 2022-06-29 | 2023-05-20 |
 | [Incandescente](https://open.spotify.com/track/4BLvKLjhvH6UU5aTyBe3bt) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Incandescente](https://open.spotify.com/album/63TDtsFF8Rh3K3uNbsOLmd) | 5:35 | 2022-06-29 | 2022-10-15 |
+| [Instante](https://open.spotify.com/track/6DLgDBSKFVHDfuYImcGGnd) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Instante](https://open.spotify.com/album/302Zbx2vZfh6e0g8ttkMx5) | 3:14 | 2025-11-14 |  |
 | [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 |  |
 | [Jala Jala \- En Vivo \- Buenos Aires](https://open.spotify.com/track/4BajwAgueWD8oweE4uyCAW) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA \(En Vivo \- Buenos Aires\)](https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69) | 1:23 | 2025-02-28 |  |
 | [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 | 2024-10-04 |  |
@@ -257,6 +258,7 @@
 | [Si No Te Tengo](https://open.spotify.com/track/0gNKibTjLyncHpWg9762P7) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ) | [Si No Te Tengo](https://open.spotify.com/album/1EMnEjwGfNDrzW5ZiFxAzL) | 2:52 | 2022-06-29 | 2023-05-20 |
 | [Si Vienes](https://open.spotify.com/track/1n0N1bEYy0mgMQwAbnIyzZ) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/1vZlWwBj4ptkA0tF0OOnrc) | 3:10 | 2022-07-22 | 2022-09-17 |
 | [Si Vienes](https://open.spotify.com/track/5ALrML18YCwXe9u4SwMKqS) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/5X2BAo2WXOz4pdacNwzK58) | 3:10 | 2022-06-29 | 2022-07-29 |
+| [Siga Siga](https://open.spotify.com/track/7j9UpLlhUeAAM4phdLGDJH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Ilusión Supersport](https://open.spotify.com/album/6L3tyYGy28herSTtFsKYIM) | 2:39 | 2025-11-14 |  |
 | [Siguiendo la Huella No Llego a París](https://open.spotify.com/track/14G1wMnTXGuvPckgAoZmiw) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Siguiendo la Huella No Llego a París](https://open.spotify.com/album/3AcIAJ1kHSJAAyl0Cu9n3P) | 2:58 | 2022-06-29 | 2023-05-20 |
 | [Silencio](https://open.spotify.com/track/67xcvzrXQ3E6KC6xxU59vu) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Silencio](https://open.spotify.com/album/304ViHDChtOfPJJyS9HAEQ) | 2:52 | 2023-05-31 | 2023-06-09 |
 | [Sin Rumbo](https://open.spotify.com/track/5joIidA3kxvecf66OB9B4f) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Sin Rumbo](https://open.spotify.com/album/4chLnKWpCmDv2FP8rN4nsQ) | 3:24 | 2022-06-29 | 2022-07-20 |

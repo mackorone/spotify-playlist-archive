@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - ivri on the cover",
+  "description": "sweet. sharp. unbothered - Johnny Huynh & Jessica Baio on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "ALL I SAW WAS YOU (feat. Jessica Baio)",
+        "url": "https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        },
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "ALL I SAW WAS YOU (feat. Jessica Baio)",
+      "url": "https://open.spotify.com/track/4wheipzDTRRuxDeTfjeeDE"
+    },
+    {
+      "album": {
         "name": "ALL THESE KIDS",
         "url": "https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM"
       },
@@ -904,6 +926,24 @@
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
+    },
+    {
+      "album": {
+        "name": "avoidant little b <3",
+        "url": "https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148017,
+      "name": "avoidant little b <3",
+      "url": "https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R"
     },
     {
       "album": {
@@ -5878,7 +5918,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 237168,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/5uVWnUw7jHcpT91Ox2vDIU"
@@ -10072,7 +10112,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 191800,
       "name": "LOST MY FAITH",
       "url": "https://open.spotify.com/track/6PvbkS7336PSRVODceZeWr"

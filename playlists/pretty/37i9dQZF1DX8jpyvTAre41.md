@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Jutes
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,576 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,571 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/0khMRTeMTOkwvqE9fJdgGH) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Dilworth](https://open.spotify.com/album/1DmUukUnrzc984oVIyUhFR) | 3:06 |
-| 2 | [BLACK HONEY](https://open.spotify.com/track/4k7xlAymPBgxqJSdMgHfJX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [](https://open.spotify.com/album/null) | 4:28 |
+| 2 | [BLACK HONEY](https://open.spotify.com/track/4k7xlAymPBgxqJSdMgHfJX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [SONIC TRASH](https://open.spotify.com/album/65DiMasUEEVfLXwNgeoYok) | 4:28 |
 | 3 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |
-| 4 | [When You're Gone](https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [](https://open.spotify.com/album/null) | 3:36 |
+| 4 | [When You're Gone](https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Flowers](https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc) | 3:36 |
 | 5 | [DOOMTOWN](https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [DOOMTOWN](https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y) | 3:18 |
 | 6 | [Hijacked](https://open.spotify.com/track/1oNWzmrZE8fSJ5NitLXnzm) | [Odonis Odonis](https://open.spotify.com/artist/33qVw2pK7R3Io2tMPNOIf0) | [Hijacked](https://open.spotify.com/album/65ywGw0vrZ6XsPVKTfnybu) | 3:39 |
-| 7 | [Track 5](https://open.spotify.com/track/6Ia5jX0vqOF8aPez5RHbyr) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [blue transitions](https://open.spotify.com/track/6Ia5jX0vqOF8aPez5RHbyr) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [blue transitions](https://open.spotify.com/album/2IznBygnqa7eG0woRJBjhM) | 4:16 |
 | 8 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 |
 | 9 | [ANY MINUTE NOW](https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [ANY MINUTE NOW](https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16) | 3:12 |
-| 10 | [Close Enough](https://open.spotify.com/track/1Jd2lA1OFZ3FLx0tuuNE4U) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [](https://open.spotify.com/album/null) | 3:07 |
-| 11 | [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [](https://open.spotify.com/album/null) | 4:00 |
+| 10 | [Close Enough](https://open.spotify.com/track/1Jd2lA1OFZ3FLx0tuuNE4U) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [The Thinning Veil](https://open.spotify.com/album/10uDYKhWbVtVxLl3u3dzSQ) | 3:07 |
+| 11 | [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Ripe Fruit Rots and Falls](https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW) | 4:00 |
 | 12 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
 | 13 | [Drug of Choice](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Drug of Choice](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
 | 14 | [Middle Of Summer](https://open.spotify.com/track/2vf5JwRVIC4aTqrSP5XggB) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Middle Of Summer](https://open.spotify.com/album/2UPYjw4l609gRH5EjeJrVR) | 3:10 |

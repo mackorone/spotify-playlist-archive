@@ -2,7 +2,7 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: vichaar
+> Best of Hindi Hip\-Hop! Cover: Albela
 
 298 songs - 15 hr 2 min
 

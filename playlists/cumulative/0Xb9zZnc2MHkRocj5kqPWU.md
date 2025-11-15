@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-381 songs - 20 hr 28 min
+382 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Child's Play \(Piano Vision\)](https://open.spotify.com/track/132kCNU45WFEY37DDB2SyI) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Child's Play \(Piano Vision\)](https://open.spotify.com/album/2YfKHXn3XbodHPaaEos7RX) | 3:28 | 2022-06-20 | 2024-08-10 |
 | [Choral](https://open.spotify.com/track/1TWKlINqC5BgDrtDAPGXPe) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko) | [Choral](https://open.spotify.com/album/2tHJkDqRBiFfPtMqxZ734U) | 5:33 | 2022-07-18 | 2024-09-28 |
 | [Christine's Theme](https://open.spotify.com/track/6kjGo5VERVKcVs0pt7mtuK) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Christine's Theme](https://open.spotify.com/album/76LfYcCT4zSe8Twa9ec8XK) | 2:38 | 2024-03-01 | 2024-09-04 |
+| [Christmas Lullaby](https://open.spotify.com/track/0vtggEs9opGkFZPsMKm2LW) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Christmas Lullaby](https://open.spotify.com/album/3C8IX6vSH5EWaUb2sDiffF) | 1:31 | 2025-11-14 |  |
 | [Clarinet Concerto in A Major, K\. 622/II\. Adagio](https://open.spotify.com/track/5AjGHyx54NLmriCjj71qiR) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no) | [Clarinet Concerto in A Major, K\. 622/II\. Adagio](https://open.spotify.com/album/68VoCUnYwGfSk5U60Jf7cF) | 6:51 | 2023-01-27 | 2024-12-19 |
 | [Colourful Leaves](https://open.spotify.com/track/1W2XTB3WduPHCLEXGUubzh) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn), [Mumintrollen](https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP) | [Colourful Leaves](https://open.spotify.com/album/4O87iTOgH7DgrY0YEDisb7) | 2:36 | 2025-05-06 |  |
 | [Colours \- Solo Piano Version](https://open.spotify.com/track/2Re0XxgSEigqJCzQ89jBlO) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Colours \(Solo Piano Version\)](https://open.spotify.com/album/7obnUblJ3L4u0Ch4kyjfCK) | 3:08 | 2022-10-03 | 2024-09-04 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Solann
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,537 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,583 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La lune](https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [](https://open.spotify.com/album/null) | 3:49 |
+| 1 | [La lune](https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau \(promis\)](https://open.spotify.com/album/3xpX4ziPYvlQnFDHKP26wW) | 3:49 |
 | 2 | [Le mur](https://open.spotify.com/track/2DwiaiLvMLp7KqQZEwRxGT) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Le mur](https://open.spotify.com/album/6hX4mrDGnUdsJZfooN4heG) | 3:11 |
 | 3 | [À cause ou grâce](https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 4:18 |
 | 4 | [Langage \- Orchestral](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Orchestral Odyssey\)](https://open.spotify.com/album/15FZlljjgimILw4hn7urFj) | 3:02 |

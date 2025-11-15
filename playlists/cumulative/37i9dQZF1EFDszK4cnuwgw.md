@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 4 hr 26 min
+83 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [The Ringer](https://open.spotify.com/track/2jt2WxXMCD4zjACthkJQVE) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 5:37 | 2024-06-13 |  |
 | [Thot Box \(Remix\) \[feat\. Young MA, Dreezy, Latto, DreamDoll, Chinese Kitty\]](https://open.spotify.com/track/1XhNV4snLHYwZVeaUoT0R3) | [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l), [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Thot Box \(Remix\) \[feat\. Young MA, Dreezy, Latto, DreamDoll, Chinese Kitty\]](https://open.spotify.com/album/1RNzlYmBepniA5kndpAbcb) | 3:01 | 2024-06-13 |  |
 | [Through The Day](https://open.spotify.com/track/1OycK0O319x0vsGhUMrzYG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 4:35 | 2024-06-13 |  |
+| [Thumperz](https://open.spotify.com/track/4FDsvob6F9oSUJ0cRauLTr) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Thumperz](https://open.spotify.com/album/0Ol9vmy72Mu3kxy6jXxGsu) | 2:38 | 2025-11-14 |  |
 | [Tip The Surgeon](https://open.spotify.com/track/4tacR7Av6xOTRvhzyWssUt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Tip The Surgeon](https://open.spotify.com/album/1954wNtuh4T3cUJYOZs0eL) | 2:07 | 2024-06-13 |  |
 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 | 2024-06-13 |  |
 | [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 | 2024-06-14 |  |

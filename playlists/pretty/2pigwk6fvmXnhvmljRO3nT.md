@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,766 songs - 20 day 1 hr 15 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,767 songs - 20 day 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7774,5 +7774,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7764 | [what if we?](https://open.spotify.com/track/1b4EDa9QUbZEmORq0F3oLh) | [Emi Choi](https://open.spotify.com/artist/7CBR3nH5wFYRbmNAuxZdcU) | [what if we?](https://open.spotify.com/album/6jtXB46SlB5Lb6UGrBeUfe) | 3:27 |
 | 7765 | [\(Why Do\) I Have to Get Up Tomorrow](https://open.spotify.com/track/0nwFLPwetTfIn7yZ4rt1A8) | [thquib](https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm) | [Deep Morning](https://open.spotify.com/album/1ZsCg7SUvQoiHUkEb6ioGC) | 2:12 |
 | 7766 | [I Just Love the 50s!!!](https://open.spotify.com/track/1At66VMSGx03JwOrHEGMXj) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt\. 2](https://open.spotify.com/album/7pmuSRFBvY0D0tce5dpqdY) | 1:17 |
+| 7767 | [Storytellers](https://open.spotify.com/track/4dLNyPz58eSwVQz6K1JmDQ) | [Foreground Eclipse](https://open.spotify.com/artist/133ZFcHur9ckcKLnJ0XNJS) | [Stories That Last Through The Sleepless Nights](https://open.spotify.com/album/3QWB22qBGpDSwALq5mxnvQ) | 3:57 |
 
-Snapshot ID: `AAAJaR/koqFUJUdWpevC65fIw2sT7nxR`
+Snapshot ID: `AAAJaikWxl+tvCXmwSKQGwLqhsAdYfTk`

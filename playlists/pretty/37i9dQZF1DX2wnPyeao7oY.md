@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: PINKNOISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,585 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,612 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 13 | [Breathe](https://open.spotify.com/track/6DXZpoli9tXI3h1JOd30H9) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw) | [Breathe](https://open.spotify.com/album/5eT3yEzp5pMmD3NgZz5PG1) | 3:00 |
 | 14 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
 | 15 | [Depressed Mode](https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Stargod](https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ) | 5:54 |
-| 16 | [BUILT DIFFERENT](https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [BUILT DIFFERENT](https://open.spotify.com/album/1UGqouXxBQzMDunRFbIoca) | 2:01 |
+| 16 | [BUILT DIFFERENT](https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9), [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP) | [BUILT DIFFERENT](https://open.spotify.com/album/1UGqouXxBQzMDunRFbIoca) | 2:01 |
 | 17 | [Starwound](https://open.spotify.com/track/0aMNWzkPRsvfMCE5Py9gFf) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf) | [UTB](https://open.spotify.com/album/11Jit2U7AAiPTB7lcoMhZB) | 3:33 |
 | 18 | [Hellbound](https://open.spotify.com/track/3eJSJwvXZhlSmXnjwoKFhz) | [Gaerea](https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw) | [Hellbound](https://open.spotify.com/album/7IEbw0XUFwM20tXrveBpep) | 5:23 |
 | 19 | [Wembley](https://open.spotify.com/track/28FSHGIOKGewqNo7lmpAMw) | [Reece Mastin](https://open.spotify.com/artist/6pjod8SsOOGf6GW9tfEnH1) | [Wembley](https://open.spotify.com/album/2tSjlOU9TcNEvNuuvcnRTN) | 3:01 |

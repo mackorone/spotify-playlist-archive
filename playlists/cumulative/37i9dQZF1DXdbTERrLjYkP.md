@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Dylan Conrique
 
-967 songs - 2 day 3 hr 59 min
+969 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2022-01-14 | 2022-02-26 |
 | [cupids on cocaine](https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [cupids on cocaine](https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC) | 2:28 | 2024-10-18 | 2025-01-18 |
 | [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 | 2022-08-27 |
+| [Cynthia](https://open.spotify.com/track/7wIBlBjYKgEMUfDEFXS61E) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Cynthia](https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI) | 3:46 | 2025-11-14 |  |
 | [Damsel, Damsel](https://open.spotify.com/track/6WOqh8mXdFRGrlSnvRAfHi) | [Maeve Zamuner](https://open.spotify.com/artist/6gPhmpiEhFK9kFHbEqA9UF) | [Damsel, Damsel](https://open.spotify.com/album/4hLyyEEq15GsBO8yMMLvwJ) | 3:53 | 2025-05-23 | 2025-08-09 |
 | [Dani](https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Dani](https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja) | 2:54 | 2023-09-29 | 2024-01-20 |
 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 | 2023-03-10 | 2023-11-11 |
@@ -303,6 +304,7 @@
 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 | 2025-08-15 | 2025-08-23 |
 | [Friends](https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Friends](https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F) | 3:17 | 2024-08-30 | 2025-01-18 |
 | [Friends](https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Friends](https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt) | 2:55 | 2023-04-07 | 2023-08-19 |
+| [Fuck Up](https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Triple Shooting Star](https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR) | 3:58 | 2025-11-14 |  |
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 | 2023-07-08 |
 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 | 2022-08-26 | 2022-12-24 |
@@ -744,7 +746,7 @@
 | [Silence](https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Silence](https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1) | 2:06 | 2025-09-26 |  |
 | [SILLY LITTLE LOVER GIRL](https://open.spotify.com/track/5UdujlNkq2QhpegF09A5YO) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [SILLY LITTLE LOVER GIRL](https://open.spotify.com/album/2fGNBd9UScPGmcndhTUNGP) | 3:05 | 2025-05-30 | 2025-09-27 |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 | 2025-08-16 |
-| [Simple Math](https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs) | [Emma Andersen](https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v) | [Simple Math](https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5) | 2:24 | 2025-08-15 |  |
+| [Simple Math](https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs) | [Emma Andersen](https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v) | [Simple Math](https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5) | 2:24 | 2025-08-15 | 2025-11-15 |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-18 | 2022-07-29 |
 | [Since I Met You](https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 4:30 | 2022-07-22 | 2022-08-20 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-23 |
@@ -937,7 +939,7 @@
 | [Where Do You Go?](https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [8](https://open.spotify.com/album/1ZIzSuZ5VMrCI4AWvcQrQW) | 2:50 | 2024-10-18 | 2025-04-05 |
 | [White Limo Stuck in The Snow](https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:03 | 2023-09-29 | 2023-12-23 |
 | [Who Am I](https://open.spotify.com/track/0AB5YzmICCzimyMfLWfrUA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:39 | 2025-05-30 | 2025-09-27 |
-| [Who I've Been](https://open.spotify.com/track/4sL7wZTCXvxK075MiMopjk) | [Caroline Quinn](https://open.spotify.com/artist/5Y0muXMkSFnDw4eMguwGo4) | [The End of May](https://open.spotify.com/album/0Oca1Oe5Vo5KXf8nevlsjk) | 4:46 | 2025-08-19 |  |
+| [Who I've Been](https://open.spotify.com/track/4sL7wZTCXvxK075MiMopjk) | [Caroline Quinn](https://open.spotify.com/artist/5Y0muXMkSFnDw4eMguwGo4) | [The End of May](https://open.spotify.com/album/0Oca1Oe5Vo5KXf8nevlsjk) | 4:46 | 2025-08-19 | 2025-11-15 |
 | [Why](https://open.spotify.com/track/6j2HmPazSCDegWfHiodg3a) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Why](https://open.spotify.com/album/4dwTJ4XFbs63wrqKBnoaJB) | 3:10 | 2024-04-12 | 2024-09-07 |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-04 | 2023-03-04 |
 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 | 2025-03-07 | 2025-08-16 |

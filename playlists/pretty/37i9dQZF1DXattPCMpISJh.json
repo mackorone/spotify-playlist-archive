@@ -1,13 +1,37 @@
 {
   "description": "A new take on a classic sound. Cover: Say She She",
-  "num_followers": 147393,
+  "num_followers": 147432,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtvK/4NJl3SMTBPvBc97wZqJ1Nb",
+  "snapshot_id": "AAAAAF4l+LNspbmCyRxMK4DncGeMo8H+",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:23",
+      "album": {
+        "name": "In A House That's Burning Down (feat. KOLA)",
+        "url": "https://open.spotify.com/album/0Q4l4c6w6tZX0w8h6C2U4i"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "YaSi",
+          "url": "https://open.spotify.com/artist/7emRqFqumIU39rRPvK3lbE"
+        },
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "duration_ms": 181950,
+      "name": "In A House That's Burning Down (feat. KOLA)",
+      "url": "https://open.spotify.com/track/1iTPqd6u5ktUnn5jHrquye"
+    },
     {
       "added_at": "2025-11-07 05:00:44",
       "album": {
@@ -475,26 +499,6 @@
       "duration_ms": 168894,
       "name": "Supernova - Jafunk Remix",
       "url": "https://open.spotify.com/track/57peujtPGEpGAS68azZVO1"
-    },
-    {
-      "added_at": "2025-03-07 05:00:21",
-      "album": {
-        "name": "Dance and Fall in Love",
-        "url": "https://open.spotify.com/album/0Sylj4SfR5QryUtD3oj641"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Dance and Fall in Love",
-      "url": "https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU"
     },
     {
       "added_at": "2025-02-07 05:00:23",

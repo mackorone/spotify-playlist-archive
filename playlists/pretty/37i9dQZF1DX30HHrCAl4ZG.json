@@ -1,13 +1,77 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from The Belair Lip Bombs",
-  "num_followers": 811947,
+  "description": "Explore all things indie rock right now. Featuring music from mercury",
+  "num_followers": 811933,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD6wwp7fN7Nt4rKMJGIjCwPYr/qv",
+  "snapshot_id": "AAAAALk/vQFbQ17TpcVOF+iU6md3ABGY",
   "tracks": [
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 275841,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU"
+    },
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
+        "name": "Another Picture",
+        "url": "https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Berlin TV Tower",
+      "url": "https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC"
+    },
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
+        "name": "(((((ultraSOUND)))))",
+        "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Hula Girl",
+      "url": "https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk"
+    },
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
+        "name": "Ripe Fruit Rots and Falls",
+        "url": "https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Porcelain Warrior",
+      "url": "https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35"
+    },
     {
       "added_at": "2025-10-31 04:00:36",
       "album": {
@@ -41,6 +105,22 @@
       "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     },
     {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
+        "name": "Welcome to My Blue Sky (Deluxe)",
+        "url": "https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 226910,
+      "name": "Not Sacred",
+      "url": "https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8"
+    },
+    {
       "added_at": "2025-11-07 05:00:47",
       "album": {
         "name": "Phoebe's Song",
@@ -55,6 +135,22 @@
       "duration_ms": 239986,
       "name": "Phoebe's Song",
       "url": "https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa"
+    },
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
+        "name": "Steadyrock Dreamstate",
+        "url": "https://open.spotify.com/album/69v92vhgBDdsuMjOYK1UDN"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Above That Water",
+      "url": "https://open.spotify.com/track/61Or34KavtarmygSGHNPL4"
     },
     {
       "added_at": "2025-10-31 04:00:36",

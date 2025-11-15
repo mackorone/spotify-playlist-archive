@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,723 likes - 155 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,737 likes - 155 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 154 | [113](https://open.spotify.com/track/0Vec54m9ABwhKGVHG5rkQF) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt) | [113](https://open.spotify.com/album/4O6efjOGwx7nhYQ5KPJKfK) | 2:01 |
 | 155 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `AAAAACj8YB9GNTo8Xnj0WiHCTue6LvR1`
+Snapshot ID: `AAAAAL3jsAxyJL5lUnIhATZRYVrP3PSJ`

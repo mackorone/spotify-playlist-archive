@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România\. O ediție specială, cu\-curată alături de Misha Miller .
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,540 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,538 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [C'est la vie!](https://open.spotify.com/track/1refMgTLrsKcnxRAcBaSQs) | [Thianna](https://open.spotify.com/artist/53N39IfWFDLGSiz7dv9pRT) | [C'est la vie!](https://open.spotify.com/album/17P9Uo4IDJ2riNBDV6A48h) | 2:46 |
 | 50 | [Vina Ăluia](https://open.spotify.com/track/79j6CffmMRKv39bBk3xjoD) | [Delia Rus](https://open.spotify.com/artist/1OiMIfSJKBVsrZEgXFoGyS) | [Vina Ăluia](https://open.spotify.com/album/3CijRt1Ije74KR2Ws86XkI) | 2:43 |
 
-Snapshot ID: `AAAAAGnJMg+qKeh7p4H/WMKVDXKC8VgS`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

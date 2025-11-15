@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Izza Gara
 
-1,437 songs - 3 day 3 hr 41 min
+1,437 songs - 3 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [dollar signs](https://open.spotify.com/track/3g6PIFCw7VYqNmEVjvFMpT) | [Linda Bugatti](https://open.spotify.com/artist/4LabL0cr3Mywm4XkLUpgan) | [dollar signs](https://open.spotify.com/album/0bz4nPn56mOeu5b6D6U0BP) | 2:41 | 2025-10-16 |  |
 | [Dolly Pardon](https://open.spotify.com/track/6cMYgNz1F9cA9jcdBIUPb3) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Dolly Pardon](https://open.spotify.com/album/2mpcyHPwNTYgs3cqh7ny8j) | 3:17 | 2025-04-10 | 2025-05-23 |
 | [Don't Ask](https://open.spotify.com/track/267E3UWeVMBwLCWALGt9OP) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1), [Jimbo Slice](https://open.spotify.com/artist/2ksPJDselBbM0DKXSYVZtI) | [Don't Ask](https://open.spotify.com/album/19NYnt77Wjs2Ve1XMAit0Q) | 2:34 | 2024-02-08 | 2025-01-03 |
+| [Don't Break](https://open.spotify.com/track/3c81KeK36oulZzW8esU9uJ) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [PERSPECTIVES](https://open.spotify.com/album/4Z8NL5HNpN8K7PRU5CmrzO) | 3:26 | 2025-11-13 |  |
 | [Don't Change](https://open.spotify.com/track/0pmCNwZGMmcmnqqviEqwac) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Don't Change](https://open.spotify.com/album/7F19t7cuIH1W1PLj1099jZ) | 5:11 | 2025-03-27 | 2025-05-02 |
 | [Don't Fall in Love](https://open.spotify.com/track/08wEcfIEXMRvgzXVrOED8B) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Solace](https://open.spotify.com/album/3BZHVbIcj4cfUNDecwYDHR) | 3:21 | 2024-04-04 | 2024-04-19 |
 | [don't feel right](https://open.spotify.com/track/5XFocsEyJBFiPyS2BxapZo) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG) | [don't feel right](https://open.spotify.com/album/5wHaPyGswVYaht3w4PmbVJ) | 2:40 | 2024-06-20 | 2024-08-09 |
@@ -395,7 +396,7 @@
 | [Feel](https://open.spotify.com/track/4LsdMjrRHFLsOXwlqwBStU) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Feel](https://open.spotify.com/album/5HaVKrsJKLpgB9Gte6rrbu) | 3:51 | 2025-05-29 | 2025-07-18 |
 | [Feel](https://open.spotify.com/track/2Y0JncmzHZWCsdvLoeEssP) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Feel / Tranan](https://open.spotify.com/album/0KephHxdf5wEaPUv77i2uq) | 4:26 | 2025-05-22 | 2025-06-27 |
 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 | 2025-03-20 | 2025-06-20 |
-| [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [](https://open.spotify.com/album/null) | 2:54 | 2025-11-13 |  |
+| [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Feelings You Don't Say Out Loud](https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP) | 2:54 | 2025-11-13 |  |
 | [feel your love <3](https://open.spotify.com/track/2HlLAsLSCADzpODg13r9Ic) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [feel your love <3](https://open.spotify.com/album/11lEkUKjrsHmHfkSWPMEH7) | 3:44 | 2024-06-27 | 2024-08-23 |
 | [Feels Fine](https://open.spotify.com/track/5i2LdKMeBwLJzx4QD2W7ro) | [Stran](https://open.spotify.com/artist/6TITdffesnUelzl0XCr1W8) | [Feels Fine](https://open.spotify.com/album/41BmAmGa5uDZNWfoIl9JkA) | 3:54 | 2024-05-16 | 2024-06-28 |
 | [Feels Right](https://open.spotify.com/track/0v1jnolx3YqXsYKvOGvsR3) | [Retro Kid](https://open.spotify.com/artist/68HeTdmYmnGA3GNUTYY2fu) | [Feels Right](https://open.spotify.com/album/6MmA9FU8a6OPqPI3Pg7vci) | 3:13 | 2024-07-25 | 2024-09-20 |
@@ -442,7 +443,7 @@
 | [Free](https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Free](https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL) | 2:29 | 2024-06-20 | 2024-08-09 |
 | [Free Falling](https://open.spotify.com/track/5v6XZ6a5iT9jKXoKUlGDip) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Free Falling](https://open.spotify.com/album/04uKVOqC9Zzo5PcGJFccyn) | 2:20 | 2024-05-09 | 2024-05-24 |
 | [FRIENDLY FEELINGS](https://open.spotify.com/track/1mAyVyICWy1kP91ekCa466) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [FRIENDLY FEELINGS](https://open.spotify.com/album/4rJMlEgBdTbNek890DkQq5) | 2:56 | 2024-02-08 | 2024-03-15 |
-| [Friends](https://open.spotify.com/track/4sWF8ElV8gWsBba3Ic0Rs9) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [](https://open.spotify.com/album/null) | 3:53 | 2025-11-13 |  |
+| [Friends](https://open.spotify.com/track/4sWF8ElV8gWsBba3Ic0Rs9) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Friends](https://open.spotify.com/album/3IkTC7IDpzggqbdB1zYBrd) | 3:53 | 2025-11-13 |  |
 | [Friends](https://open.spotify.com/track/1l4d5QNqTZm1UUdETcFs4h) | [KNASH](https://open.spotify.com/artist/0Ab8zfMKGfG0ZumJXaAGs7) | [Friends](https://open.spotify.com/album/2WM14XxS6Cr4UzPDZIiLsh) | 3:06 | 2025-03-20 | 2025-04-25 |
 | [FU](https://open.spotify.com/track/5If3BOhTeXSOUr3ePGm5xE) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [FU](https://open.spotify.com/album/0nyP1xa3AEVKN6D327W5yd) | 4:17 | 2025-05-08 | 2025-06-20 |
 | [FUCK\. IT.](https://open.spotify.com/track/18wQ1oES9OK2gYu7oUqrp2) | [Limandi](https://open.spotify.com/artist/1KqH2GQTqQOeJZI75Zv8uS) | [FUCK\. IT.](https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD) | 2:45 | 2024-02-08 | 2025-01-03 |
@@ -1214,6 +1215,7 @@
 | [Sunny Skies](https://open.spotify.com/track/4OO8sPtbrgkYmlUxzSXlo2) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Sunny Skies](https://open.spotify.com/album/5EKlKX9tSpUopgkkP3z52k) | 3:40 | 2025-10-30 |  |
 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 | 2024-05-02 | 2025-01-03 |
 | [super duper dead](https://open.spotify.com/track/2krfRyChLgo4AeZtbG6LUy) | [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [super duper dead](https://open.spotify.com/album/1dz8tPh7L85uTNwwJPXNTo) | 1:55 | 2024-05-09 | 2024-06-28 |
+| [Superbia](https://open.spotify.com/track/0j9DOnRVUkL5pHbcF5hc7h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SUPERBIA HARDCORE](https://open.spotify.com/album/06mSUqyBywp1dbsEgO9srC) | 2:17 | 2025-11-13 |  |
 | [superman](https://open.spotify.com/track/2iA7Folk5b5AWlJqUMcUZj) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [superman](https://open.spotify.com/album/79yZpW14bQzljaKpGX2L5m) | 3:17 | 2024-10-24 | 2024-12-05 |
 | [Supernatural](https://open.spotify.com/track/3q0IdZJinV2b3tiTPcMZ9N) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Supernatural](https://open.spotify.com/album/5UBUBrAte5AwoW3aBZRqmN) | 3:02 | 2025-10-23 |  |
 | [Superstar](https://open.spotify.com/track/2MTRtuB5vV8q15F67cAjNE) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Superstar](https://open.spotify.com/album/4ilpauwxfRpHy7rEy8lycU) | 2:31 | 2025-02-13 | 2025-03-14 |
@@ -1298,8 +1300,6 @@
 | [Top of the World](https://open.spotify.com/track/3DU6QaoZTDyOMOkwuXVAsI) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Top of the World](https://open.spotify.com/album/0UGx1m8SSUwvP6r7T25KJ9) | 3:30 | 2024-03-21 | 2024-04-19 |
 | [Touch Me \(Like That\)](https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [Touch Me \(Like That\)](https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3) | 1:57 | 2024-02-22 | 2024-06-01 |
 | [Tough Love](https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb) | [Duppy Tales](https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ) | [Tough Love](https://open.spotify.com/album/7DHwOcBAq5zFVzC0kS63cn) | 6:39 | 2025-02-20 | 2025-03-28 |
-| [Track 5](https://open.spotify.com/track/3c81KeK36oulZzW8esU9uJ) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
-| [Track 6](https://open.spotify.com/track/0j9DOnRVUkL5pHbcF5hc7h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-13 |  |
 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-06 |  |
 | [Tribe of Eurafric \(Never Go\)](https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Paroxysms, Pt\. 1](https://open.spotify.com/album/6r9VKlQyrk0S7ivlc5vOMB) | 2:47 | 2024-05-23 | 2024-06-14 |
 | [Trippin Like WatR](https://open.spotify.com/track/1HoBCtcTM7uOgF4RnG4eq6) | [WatR.](https://open.spotify.com/artist/09f6SeIsdLhDq8BagVWunz) | [Trippin Like WatR](https://open.spotify.com/album/7Bx08ULQBEIfqU05B9QhQ4) | 3:00 | 2025-05-01 | 2025-06-06 |

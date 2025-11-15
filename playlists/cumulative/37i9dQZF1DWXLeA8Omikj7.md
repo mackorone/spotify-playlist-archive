@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,137 songs - 3 day 10 hr 44 min
+1,138 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-10-06 |  |
 | [Flicker](https://open.spotify.com/track/635aBqtYKZiGQTotfllnpl) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Flicker](https://open.spotify.com/album/51PktMeH5b1GPZvJ7ZTZsU) | 4:47 | 2021-08-27 | 2025-07-19 |
 | [Flickers in the Air of Night](https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:02 | 2025-05-09 |  |
-| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* |  |
+| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* | 2025-11-15 |
 | [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2020-10-19 | 2020-10-22 |
 | [Floating on Your Memories](https://open.spotify.com/track/19x0wfJhjCLPlUEE63ar4o) | [Rhodz](https://open.spotify.com/artist/4BrtGOYp8sytG9MV91DROT) | [Fading Horizon LP](https://open.spotify.com/album/4FDfCvhIpbwu6956J8a0jh) | 2:36 | 2019-06-19\* | 2022-04-13 |
 | [Flood Gates](https://open.spotify.com/track/20HrDfYP92YCWRvUHjFdBc) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:30 | 2019-06-24 | 2020-10-22 |
@@ -580,7 +580,7 @@
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-22 |  |
 | [Loon E](https://open.spotify.com/track/27WhNUMC7jvvQ6m2zF3FW0) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 5:51 | 2024-03-15 | 2024-05-01 |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 | 2023-05-04 |
-| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2025-08-30 |
+| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 |  |
 | [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |
 | [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-24 | 2024-06-14 |
@@ -769,7 +769,7 @@
 | [Quasar](https://open.spotify.com/track/6KrnEzLSoi4XR5u3bLMPsu) | [Gidge](https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP) | [New Light](https://open.spotify.com/album/7FhQf65SB8VtD404V6suX1) | 5:52 | 2020-11-13 | 2022-07-27 |
 | [Quiet Corners Of My Mind](https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Quiet Corners Of My Mind](https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM) | 4:28 | 2022-07-15 |  |
 | [Radio](https://open.spotify.com/track/29cm9i5SgSLeygfzBMQPMd) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Radio](https://open.spotify.com/album/4RWES8IWQTv4j3NoWDapfr) | 2:33 | 2021-08-13 | 2022-07-29 |
-| [rainbow song](https://open.spotify.com/track/2y7z3SBPKKfROdIy68k8nV) | [Cesourius](https://open.spotify.com/artist/27qW5yvSvPiHckSv1EaQ7v) | [psychedelic fishing](https://open.spotify.com/album/0O4sV16tjjwavRIZ5QAHqM) | 2:12 | 2023-09-29 |  |
+| [rainbow song](https://open.spotify.com/track/2y7z3SBPKKfROdIy68k8nV) | [Cesourius](https://open.spotify.com/artist/27qW5yvSvPiHckSv1EaQ7v) | [psychedelic fishing](https://open.spotify.com/album/0O4sV16tjjwavRIZ5QAHqM) | 2:12 | 2023-09-29 | 2025-11-15 |
 | [Raindrops](https://open.spotify.com/track/32KZ22X1LV3TAsroIGLbYh) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:32 | 2019-06-19\* | 2020-10-21 |
 | [Rare](https://open.spotify.com/track/3vO4yolddOhdDHWL5GB0Fn) | [Blake Skowron](https://open.spotify.com/artist/5TjySSb3LXfqe0zvyrmFgf), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Rare](https://open.spotify.com/album/3H5ua9cshyjUJof3yYFmo8) | 5:30 | 2019-06-19\* | 2022-04-21 |
 | [Ray](https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 5:34 | 2024-06-14 | 2024-08-06 |
@@ -783,6 +783,7 @@
 | [Release](https://open.spotify.com/track/3158gk3gslAHlPrapSLKrA) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Midoca](https://open.spotify.com/artist/3k4i4K7PicHqnodnYhXsJy) | [Visceral](https://open.spotify.com/album/3qwS31WiLq73r7FsUtfwAx) | 3:52 | 2019-06-19\* | 2020-10-19 |
 | [Remember Rainbow Bridge](https://open.spotify.com/track/7bstdaL6jxS4qHoA2C8Iov) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Remember Rainbow Bridge](https://open.spotify.com/album/0wP9qvozGpv6ZjX7IaaomX) | 6:16 | 2022-02-11 | 2022-04-20 |
 | [Requiem for Vega](https://open.spotify.com/track/2ipxQSBcvB28gbFThM3zI5) | [Lawrence Lui](https://open.spotify.com/artist/2msiavkyenRtKMxCDlRzEm) | [Retroism EP](https://open.spotify.com/album/7ITmnLWTyD8qKvTnb6VXgr) | 3:30 | 2019-06-19\* | 2020-10-21 |
+| [Resonance](https://open.spotify.com/track/0QJbWNtbx7IHfhuY4PNbK8) | [Substance](https://open.spotify.com/artist/3H2oruOrcztEmskMPzdV43), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Libration](https://open.spotify.com/album/179J6K90Pzd6LbtcRvvX6B) | 9:11 | 2025-10-24 |  |
 | [Resonances From The D \- Bonus Track](https://open.spotify.com/track/2qza3GP3Bp4dowRBd6lk1Y) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [fabric presents Laurent Garnier: Rhythmic Resonance \(Mixed\)](https://open.spotify.com/album/4GR1hk1LnQ7Qq4ZWonzfiw) | 8:20 | 2025-05-09 | 2025-06-17 |
 | [Respect The Source](https://open.spotify.com/track/2guCov9kckEzAQdpxOKZWc) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/7BY6KOUaHgakDbnS1DZspp) | 3:01 | 2023-12-06 | 2024-04-19 |
 | [Respect The Source](https://open.spotify.com/track/7chpNfkxBfsGpUzj9btqLe) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/2p85APvTZpNNrpASUlCCsh) | 3:01 | 2019-05-26\* | 2022-04-21 |

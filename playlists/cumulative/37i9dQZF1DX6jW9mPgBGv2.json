@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "2012",
+        "url": "https://open.spotify.com/album/3zD9mKkzsjy0F7DR9K85bw"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148125,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/1bHrYP0yd0IEfzApDFURpK"
+    },
+    {
+      "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/7eWeQJPoi5K9AznEBcKUNJ"
       },
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 445746,
       "name": "Enemigos Ocultos",
       "url": "https://open.spotify.com/track/3fhOpwaKobrELFjKLcXHgI"
@@ -3692,7 +3714,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 106666,
       "name": "RKO",
       "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
@@ -4086,6 +4108,24 @@
       "duration_ms": 153500,
       "name": "Switch (with Bryant Myers & Hydro)",
       "url": "https://open.spotify.com/track/7G9xNjanJp0oX4KxBl57NW"
+    },
+    {
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/5xPxkxRcmwDL6vTKg40mlp"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147040,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2o4U7UIKS7DyFJ03REPyty"
     },
     {
       "album": {

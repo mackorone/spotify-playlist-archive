@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,351 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,353 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 41 | [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 |
 | 42 | [Talk Quiet](https://open.spotify.com/track/7sdWbnUGRzpWJmupEpXJiP) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:20 |
 | 43 | [Page 45](https://open.spotify.com/track/2qNaS67u1sAlUyogdFA59Y) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Page 45](https://open.spotify.com/album/4OaT9hJPepJYkrDkWTly9p) | 4:00 |
-| 44 | [Kirkobain](https://open.spotify.com/track/4RCqh5udSylWxKkW3pEDRI) | [Kirky](https://open.spotify.com/artist/2fzNiCEzgdhft2I2PiaB8h) | [Kirkobain](https://open.spotify.com/album/7lKr2UPDsbDBv0fjLNFv2h) | 2:43 |
-| 45 | [On Top \(feat\. Fivio Foreign\)](https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:47 |
+| 44 | [On Top \(feat\. Fivio Foreign\)](https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:47 |
+| 45 | [Kirkobain](https://open.spotify.com/track/4RCqh5udSylWxKkW3pEDRI) | [Kirky](https://open.spotify.com/artist/2fzNiCEzgdhft2I2PiaB8h) | [Kirkobain](https://open.spotify.com/album/7lKr2UPDsbDBv0fjLNFv2h) | 2:43 |
 | 46 | [Time](https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [25/8](https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b) | 3:04 |
 | 47 | [Sit Back](https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Sit Back](https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54) | 3:00 |
 | 48 | [Larger](https://open.spotify.com/track/2rsFK7wXrpF6Y8SuHl6N61) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Larger](https://open.spotify.com/album/4FFqRS78x1EkxKTib3dKJV) | 2:32 |

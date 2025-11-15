@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Litty & C.O.S.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,183 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,217 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 10 | [BLINDLY](https://open.spotify.com/track/1H8nPXlLqKccKNl0MjCUB4) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [BLINDLY](https://open.spotify.com/album/5y78NVJZawzHjppRLuR28A) | 3:27 |
 | 11 | [Mad Japanese](https://open.spotify.com/track/3QNnLFh8a9798ttghZoQJr) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Cahier](https://open.spotify.com/album/7IzV57bt9rfbrNuDRoSpoa) | 2:07 |
 | 12 | [+81 Connect Call\_Tade Dust](https://open.spotify.com/track/4LcSC7JVmCSTmEVcPEf4vb) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [+81 Connect Call\_Tade Dust](https://open.spotify.com/album/6C3wqvTMg5bYtAr7PoB39V) | 0:04 |
-| 13 | [Mayfair](https://open.spotify.com/track/2Zqs38lD7nY5NQI4LzOFjw) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [](https://open.spotify.com/album/null) | 2:22 |
+| 13 | [Mayfair](https://open.spotify.com/track/2Zqs38lD7nY5NQI4LzOFjw) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [Foreign Xchange](https://open.spotify.com/album/0wcLM4XCBLp2iwATcE00rD) | 2:22 |
 | 14 | [5FEET](https://open.spotify.com/track/0qtKyGcWh1DsLsB2GYOdor) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [5FEET](https://open.spotify.com/album/3LzwSTjVRieXoYDh9teRr3) | 4:00 |
 | 15 | [バイオリン](https://open.spotify.com/track/0b19ZdZoxf3lmGSEVnHIWr) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [バイオリン](https://open.spotify.com/album/1NgNWtG58r30GoNe5fdUpw) | 2:25 |
 | 16 | [FR WIFI](https://open.spotify.com/track/53KgUEleZumOJqpyLYYZmF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FR WIFI](https://open.spotify.com/album/68Xc6nf9ZXXuGllxaANgIa) | 2:02 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 27 | [1day \(R\)](https://open.spotify.com/track/1Vts9sixN6QUtX6VwguIbm) | [FARMHOUSE](https://open.spotify.com/artist/30zptKpJ1amp2A00OOx3DM), [Kee Rooz](https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14) | [1day \(R\)](https://open.spotify.com/album/2dOjxVcntajWvghmopMNf7) | 3:29 |
 | 28 | [Betsuni](https://open.spotify.com/track/14XYUudRwFpyF2I457KwIf) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Betsuni](https://open.spotify.com/album/0bsqSkYc91NX128VLTqpwY) | 2:36 |
 | 29 | [+81 Connect Call\_SamRecks](https://open.spotify.com/track/7k0Qe38QZSN6UvrqFgWdVU) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [+81 Connect Call\_SamRecks](https://open.spotify.com/album/6IrTRvFzJVgZAK8lqefaQw) | 0:04 |
-| 30 | [WeChat](https://open.spotify.com/track/4fRbwOUQjr77ym0B86n4mN) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [](https://open.spotify.com/album/null) | 1:41 |
+| 30 | [WeChat](https://open.spotify.com/track/4fRbwOUQjr77ym0B86n4mN) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Foreign Xchange](https://open.spotify.com/album/0wcLM4XCBLp2iwATcE00rD) | 1:41 |
 | 31 | [Paranormal](https://open.spotify.com/track/5SC9k7CyYSOXoe1v8koXX9) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [Queenie](https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO), [me2](https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh) | [Paranormal](https://open.spotify.com/album/1lnS2hv86cnNfL001WuxFL) | 2:19 |
 | 32 | [BAKI \(feat\. Senninsho\)](https://open.spotify.com/track/0VRo9UAOxGs4B0iMw1dNdG) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [BAKI \(feat\. Senninsho\)](https://open.spotify.com/album/3rRUpyt169DWFC9OlmCFvS) | 3:16 |
 | 33 | [儚い \(feat\. JUMADIBA\)](https://open.spotify.com/track/2fkSgFVdcwNN2bJZd9Gl7n) | [Ivy](https://open.spotify.com/artist/4BCbRVdereGR4KrSMV4Sps), [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [マケナイ 裏](https://open.spotify.com/album/5slQTC30OsK2XuWTUgxm9x) | 1:44 |

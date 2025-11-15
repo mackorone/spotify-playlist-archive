@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319466,
+  "num_followers": 319476,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Noite de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd"
-      },
-      "artists": [
-        {
-          "name": "Gabz",
-          "url": "https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq"
-        }
-      ],
-      "duration_ms": 253248,
-      "name": "Noite de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "DISK",
         "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 157241,
       "name": "DISK",
       "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Noite de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd"
+      },
+      "artists": [
+        {
+          "name": "Gabz",
+          "url": "https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq"
+        }
+      ],
+      "duration_ms": 253248,
+      "name": "Noite de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "Sexflix",
         "url": "https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 175384,
       "name": "Sexflix",
       "url": "https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 193191,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "Na Sua Rua",
         "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 208000,
       "name": "Na Sua Rua",
       "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 193191,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
     }
   ],
   "unique_name": "Rala e Rola",

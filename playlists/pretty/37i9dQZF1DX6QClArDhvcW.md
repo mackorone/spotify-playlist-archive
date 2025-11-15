@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,637 likes - 100 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,683 likes - 100 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 99 | [Morning Coffee](https://open.spotify.com/track/5TIsR4S8fDO1TO8KZXedKi) | [sleepy turtle](https://open.spotify.com/artist/0Izi9quSIBBUyjV3Ur0RCY) | [Morning Coffee](https://open.spotify.com/album/5lOaxgs7ewldAkepMk1kdT) | 2:14 |
 | 100 | [Blissful](https://open.spotify.com/track/0dKxhW1wAA8YrvMhiEd1qd) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Blissful](https://open.spotify.com/album/1P5joE7OOG7lDdKENEMEZ6) | 2:14 |
 
-Snapshot ID: `AAAAANPKkWMmpd1RDCqa/9TkYDNqQKET`
+Snapshot ID: `AAAAAC5ydW+qQN0WXqJHtNKDZb5CTZtg`

@@ -4,7 +4,7 @@
 
 > 
 
-472 songs - 1 day 7 hr 10 min
+473 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [The 6](https://open.spotify.com/track/2xZGHDB2CudDDIWjEQpdtB) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [SAMSON](https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 2:45 | 2025-03-24 | 2025-04-01 |
 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-10 | 2024-08-13 |
 | [the evidence \- Exaktly remix](https://open.spotify.com/track/6V0wLGlc9WkPrKGOsBBhMd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [the evidence \(Exaktly remix\)](https://open.spotify.com/album/2aM56kUoNhWsDhg5sDZlwG) | 2:59 | 2024-10-03 | 2025-03-14 |
+| [THE FUTURE](https://open.spotify.com/track/0a6J8LAco1q92ts0VZtQz7) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [THE FUTURE](https://open.spotify.com/album/7q8nLE8CIcTYzgOqxsjwuw) | 2:27 | 2025-11-14 |  |
 | [The Kiss](https://open.spotify.com/track/6jOg7Vcj5kzV8RML6YZAKF) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [The Kiss](https://open.spotify.com/album/7z3Frq3oPasxt34BeVO0EZ) | 4:31 | 2024-08-27 | 2024-11-19 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-08 | 2022-08-11 |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-09-20 | 2023-02-22 |

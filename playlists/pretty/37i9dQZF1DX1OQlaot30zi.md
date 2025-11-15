@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Papa, Skinny e Yugi, Nitro, Astro, 22Simba, Hash e IvanBi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,801 likes - 107 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,825 likes - 107 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 14 | [4 Macchine \(feat\. Dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 |
 | 15 | [SPARATI \(feat\. Macello\)](https://open.spotify.com/track/5tX0FwmbPvh3COqy2w1Qe2) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [VOCAZIONE](https://open.spotify.com/album/3vpZR4KBggeeG5Eh34b983) | 2:27 |
 | 16 | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/track/5rg4OSRLS9OySeuyJ4in0x) | [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm), [Mated](https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ) | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/album/59i6g44pJoLgIiofjjOThG) | 3:15 |
-| 17 | [Track 5](https://open.spotify.com/track/2oi7DDyAP8FjaY2bxWJRqp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [STATUA \(ATTUORN 'O CUORP TUOIJ\)](https://open.spotify.com/track/2oi7DDyAP8FjaY2bxWJRqp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [NICOLA SICILIANO](https://open.spotify.com/album/5RVxm9pSvD21EB4LYwsJHc) | 2:34 |
 | 18 | [Nun Er Io](https://open.spotify.com/track/7L3mdptbFCpk9aEl7d8J9r) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Nun Er Io](https://open.spotify.com/album/3EGmwF0W0895Km6BAjKJqS) | 2:39 |
 | 19 | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/track/7d61TYD3b29COOCNAap2b8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Rock \(feat\. Baby Gang\)](https://open.spotify.com/album/0hy1MZJH0K6tyzqlHbbDqr) | 2:55 |
 | 20 | [FOTOGRAFIA](https://open.spotify.com/track/78F6s5j8febWk0ICOAIxjM) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [FOTOGRAFIA](https://open.spotify.com/album/33uyidreFCPnfn0sgERJeR) | 3:44 |

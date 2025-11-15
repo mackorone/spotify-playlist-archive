@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1758,
+  "num_followers": 1761,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRPOAAAAAADwZfH1KwSnhcYfQb+tvErx",
+  "snapshot_id": "aRUfgAAAAAAUKBR9v/fa7Xh7F4nBNPGO",
   "tracks": [
     {
       "added_at": null,
@@ -319,38 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Michael Nyman",
-          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Nyman: The Heart Asks Pleasure First",
-      "url": "https://open.spotify.com/track/6rnITCCZSmQaeFTvjYb0C3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destination Paris - Un homme et une femme",
         "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
       },
@@ -379,6 +347,38 @@
       "duration_ms": 180706,
       "name": "Un homme et une femme",
       "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Nyman: The Heart Asks Pleasure First",
+      "url": "https://open.spotify.com/track/6rnITCCZSmQaeFTvjYb0C3"
     },
     {
       "added_at": null,
@@ -459,6 +459,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dessner: Towards the Forest",
+        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Towards the Forest",
+      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Franck & Chopin: Cello Sonatas",
+        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
         "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
       },
@@ -483,26 +523,6 @@
       "duration_ms": 185080,
       "name": "Saint-Sa\u00ebns: Le carnaval des animaux: XIII. Le cygne",
       "url": "https://open.spotify.com/track/4kPOuzgsbpOEKCrCgAng4G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dessner: Towards the Forest",
-        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
-      },
-      "artists": [
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Towards the Forest",
-      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
     },
     {
       "added_at": null,
@@ -535,26 +555,6 @@
       "duration_ms": 221626,
       "name": "Monnot / Orch. Ducros: Hymne \u00e0 l'amour",
       "url": "https://open.spotify.com/track/1WKImzCKO0BKKxEFNzEzND"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Franck & Chopin: Cello Sonatas",
-        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
-      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 214408,
       "name": "Richter: The Leftovers: She Remembers",
       "url": "https://open.spotify.com/track/2t3FchceIZnHEbLzssgBTc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
-      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -811,30 +811,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
+        "name": "The Art of the Cello",
+        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
       },
       "artists": [
         {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
         },
         {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 273826,
-      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
-      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
+      "duration_ms": 246480,
+      "name": "Williams: Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
     },
     {
       "added_at": null,
@@ -867,30 +867,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of the Cello",
-        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
         },
         {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
         }
       ],
-      "duration_ms": 246480,
-      "name": "Williams: Main Theme (From \"Schindler's List\")",
-      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
+      "duration_ms": 273826,
+      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
+      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
     },
     {
       "added_at": null,
@@ -995,6 +995,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Nico Muhly",
+          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Side Piece",
+      "url": "https://open.spotify.com/track/0Kh8QH6UKrLCXwTL7zQ4yA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - Over the Rainbow (From \"The Wizard of Oz\")",
         "url": "https://open.spotify.com/album/6RsYVC41W34RaGmbZcvldE"
       },
@@ -1055,30 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Nico Muhly",
-          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Side Piece",
-      "url": "https://open.spotify.com/track/0Kh8QH6UKrLCXwTL7zQ4yA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rachmaninoff & Brahms",
         "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
       },
@@ -1103,6 +1103,30 @@
       "duration_ms": 261173,
       "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
       "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Quenton Blache",
+          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Of Wind and Rain",
+      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
     },
     {
       "added_at": null,
@@ -1159,30 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Quenton Blache",
-          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Of Wind and Rain",
-      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1207,6 +1207,30 @@
       "duration_ms": 372066,
       "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Towards the Light",
+      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
     },
     {
       "added_at": null,
@@ -1259,30 +1283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Towards the Light",
-      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensations",
         "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
       },
@@ -1311,13 +1311,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
       "artists": [
         {
-          "name": "Ennio Moriconne",
-          "url": "https://open.spotify.com/artist/2yndP9zpcSeLDIDV2ZYotM"
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -1328,17 +1328,13 @@
           "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         },
         {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Chi mai",
-      "url": "https://open.spotify.com/track/4NyVobuooQ1CGec0vSGE5K"
+      "duration_ms": 342626,
+      "name": "Boreas",
+      "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

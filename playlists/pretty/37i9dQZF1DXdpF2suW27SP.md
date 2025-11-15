@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Deezy entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,163 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,200 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 10 | [Aplausos](https://open.spotify.com/track/6aR1vmIXugRUPPusdZEfaj) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Aplausos](https://open.spotify.com/album/6o4tdPrgwYVsaYdPPbEbHu) | 3:58 |
 | 11 | [Conto de Fadas](https://open.spotify.com/track/7qqUMaeAqKgiI8Pn1PEZVY) | [Força Suprema](https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3), [Rahiz](https://open.spotify.com/artist/5O8NHM6tAIEigAbZbxQsfd) | [Conto de Fadas](https://open.spotify.com/album/1K2PtJYkvh12hU6WNGxt82) | 2:33 |
 | 12 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 |
-| 13 | [Eternamente](https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [](https://open.spotify.com/album/null) | 3:44 |
+| 13 | [Eternamente](https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Para Sempre](https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv) | 3:44 |
 | 14 | [Fruto Proibido](https://open.spotify.com/track/0rhiit6T7SYdU7Dq73RF9T) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Fruto Proibido](https://open.spotify.com/album/6VSg7NiQ1TrXzo0NIT4kmh) | 2:57 |
 | 15 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
 | 16 | [diamante \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/6tRXggsnp42oEggWz0RZe1) | [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [diamante \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/46PUFAI3XLCvd3goj5iV5O) | 3:50 |

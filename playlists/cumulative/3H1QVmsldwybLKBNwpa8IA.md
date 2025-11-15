@@ -4,7 +4,7 @@
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-137 songs - 7 hr 23 min
+140 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [8 Days of Christmas](https://open.spotify.com/track/2CZWUmcG9swKChEPBllPra) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/6ordCtjHPF9FLdh3GPZNbX) | 3:29 | 2023-12-08 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/6tvUNeqLTtNMpbJcuFnOoy) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 2:15 | 2023-12-08 |  |
 | [A Marshmallow World](https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:40 | 2023-12-08 |  |
+| [A Merry Black Christmas](https://open.spotify.com/track/6Q4EmIGs7YyxvYf8h4eb9Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Merry Black Christmas](https://open.spotify.com/album/0oRWKHzcbEhDIzCsquUPzl) | 3:03 | 2025-11-14 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [All I Want for Christmas Is You](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) | 3:48 | 2023-12-08 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2023-12-08 |  |
 | [All I Want for Christmas is You](https://open.spotify.com/track/4rTeOy6VlQm10EGRhcEi0V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Walter Afanasieff](https://open.spotify.com/artist/3kre11hj5tSyNIKQdZ8u2i), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All I Want for Christmas is You](https://open.spotify.com/album/6qa7hIEIMrq8kn23zobv9u) | 3:13 | 2023-12-08 |  |
@@ -31,6 +32,7 @@
 | [Christmas In Hollis](https://open.spotify.com/track/5aX8rRlTgvSJiKdQnKSJQX) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [The Essential Run\-DMC](https://open.spotify.com/album/6Ev6hiPcjGeezgO0gBwkf2) | 2:58 | 2023-12-08 |  |
 | [Christmas in Your Eyes \(feat\. Everly Shaw\)](https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Everly Shaw](https://open.spotify.com/artist/0wmPK8Bsy69g1tUk94RXBk) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 3:17 | 2023-12-08 |  |
 | [Christmas Is Finally Here](https://open.spotify.com/track/1Dyo8ss9BDUQ4uw0pSvu66) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Christmas Is Finally Here](https://open.spotify.com/album/35HPoye21K3LOobOCd0Sd8) | 2:41 | 2023-12-08 |  |
+| [Christmas My Dear](https://open.spotify.com/track/5pfMh3VMSbMIhNsyGarhyb) | [Maïa Davies](https://open.spotify.com/artist/0lh6MgBGOmOeCfNWQPnXsf) | [Christmas My Dear](https://open.spotify.com/album/5Da2eeGnnuT7KY58FUnEwT) | 3:35 | 2025-11-14 |  |
 | [Christmas Time](https://open.spotify.com/track/1bIFv1yGWPC4wH4qcSWdzO) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Holiday for Kids](https://open.spotify.com/album/68AQgbEtfO3MDrA3OBUrMN) | 4:15 | 2023-12-08 |  |
 | [Christmas Time](https://open.spotify.com/track/49k6iIn3ceIhyeFNSQChQh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:01 | 2023-12-08 |  |
 | [Christmas Time](https://open.spotify.com/track/6UWGwcLDXZOG93NcsELEd5) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Christmas Time](https://open.spotify.com/album/6lm4yqgPU5PdyZCQTOVmEs) | 3:34 | 2023-12-08 |  |
@@ -110,6 +112,7 @@
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:46 | 2023-12-08 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/1dtIaSlyrLI04sqYa8nLyN) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 3:06 | 2023-12-08 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2023-12-08 |  |
+| [Run Rudolph Run \- Live](https://open.spotify.com/track/1hPvyR7hnk76n45pUayOyK) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Goodness Gracious It's Christmas!](https://open.spotify.com/album/5Ce2XUN0ekA7YeEqcrJzW5) | 1:57 | 2025-11-14 |  |
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2023-12-08 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3zwjeUjzAm3rwojZNj05P6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sounds Of The Season](https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd) | 4:27 | 2023-12-08 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/6YeDjSHCDmJKgU8foiaruL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:34 | 2023-12-08 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "Stripped back vibes. Cover:  Lekan",
-  "num_followers": 612384,
+  "description": "Stripped back vibes. Cover:  Dylan Sinclair",
+  "num_followers": 612392,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRyaducbJQYdwLv75kbb716BQRy",
+  "snapshot_id": "AAAAAFSJGxz2Ado+XE0dyg4KH6j55kEE",
   "tracks": [
+    {
+      "added_at": "2025-11-14 12:11:55",
+      "album": {
+        "name": "He's Not Me (Acoustic)",
+        "url": "https://open.spotify.com/album/20HaMwPU3CtG5OFHEslB0U"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "He's Not Me (Acoustic)",
+      "url": "https://open.spotify.com/track/74LjNAxOeocnpRDiOUqOVy"
+    },
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {

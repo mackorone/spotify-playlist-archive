@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2025\. Updated weekly!
 
-504 songs - 1 day 4 hr 9 min
+505 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Katy \- Rosbeh Remix](https://open.spotify.com/track/32yYHbU5OzKtBW7q0MZMWe) | [BUFFALA](https://open.spotify.com/artist/27Vd3yb5Q9CoMJCYMb9zpg), [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Katy \(Rosbeh Remix\)](https://open.spotify.com/album/1Mn0GdPt0tgzoQkRSRV0py) | 3:29 | 2021-07-17 | 2021-07-31 |
 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 | 2022-07-15 | 2023-02-18 |
 | [Last](https://open.spotify.com/track/4cdbulDhvuAond5ZTNeJGC) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Begin](https://open.spotify.com/album/35AlpLlW4vKJ4nRGpGZcJt) | 5:17 | 2020-09-13\* | 2021-03-06 |
-| [Last Time](https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Amadea](https://open.spotify.com/artist/6b6O55rHSZAXU9Ro4KKGxy) | [Last Time](https://open.spotify.com/album/7GRomEijtussuPxGNsXEAo) | 2:25 | 2022-05-05 |  |
+| [Last Time](https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Amadea](https://open.spotify.com/artist/6b6O55rHSZAXU9Ro4KKGxy) | [Last Time](https://open.spotify.com/album/7GRomEijtussuPxGNsXEAo) | 2:25 | 2022-05-05 | 2025-11-15 |
 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 | 2022-09-16 | 2024-02-24 |
 | [Leave Behind](https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf), [Andro](https://open.spotify.com/artist/6oADXrB2o6vqetv9UYNzMj) | [Leave Behind](https://open.spotify.com/album/56D8yl4PKwMa6ntKdI8M7W) | 3:26 | 2025-08-22 |  |
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-03-06 | 2024-12-07 |
@@ -342,6 +342,7 @@
 | [Problems](https://open.spotify.com/track/74UR9DSYWKvgTj27NubXAH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Problems](https://open.spotify.com/album/5BWWHRNKa8C8F04vwCygO7) | 2:46 | 2022-03-18 | 2023-04-01 |
 | [Problems](https://open.spotify.com/track/7wKzj1b8YKPuZELfVDz708) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:39 | 2020-11-14 | 2022-09-10 |
 | [promises](https://open.spotify.com/track/3wSXfnuFcZbQANW1Tfz1Fr) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [promises](https://open.spotify.com/album/5B4pFxcPcjkNDSgPNke2II) | 2:15 | 2025-09-26 |  |
+| [Push It](https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Push It](https://open.spotify.com/album/2SX0qBoYe3jmkpFP6L8QBu) | 2:33 | 2025-11-14 |  |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-03-31 | 2024-02-24 |
 | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\) \- Edit](https://open.spotify.com/track/5hladndw7yw0iSImREt8bq) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1qovNEQPQNxlOd7w2udLaX) | 3:57 | 2020-09-13\* | 2021-03-06 |
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-18 |  |

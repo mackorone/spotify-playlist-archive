@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 217068,
+  "num_followers": 217421,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 265933,
+      "name": "You Rock My World - Radio Edit",
+      "url": "https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 208573,
       "name": "Naughty Girl",
       "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 265933,
-      "name": "You Rock My World - Radio Edit",
-      "url": "https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Fantasy EP",
         "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 291355,
       "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
       "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2095,18 +2095,26 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S"
       },
       "artists": [
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Queen Pen",
+          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Trick Me",
-      "url": "https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt"
+      "duration_ms": 304600,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/0AvV49z4EPz5ocYN7eKGAK"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2131,26 +2139,18 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S"
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
       },
       "artists": [
         {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Queen Pen",
-          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 304600,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/0AvV49z4EPz5ocYN7eKGAK"
+      "duration_ms": 206106,
+      "name": "Trick Me",
+      "url": "https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Chris Brown",
         "url": "https://open.spotify.com/album/2gRm1k9fVkhTfZDHvBI2sR"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 229040,
       "name": "Yo (Excuse Me Miss)",
       "url": "https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
     },
     {
       "added_at": "2024-07-15 07:37:26",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : 45",
-  "num_followers": 65703,
+  "num_followers": 65732,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKMgj4NPjiVoFl7sId6wlhyOx04",
+  "snapshot_id": "AAAAAOgMDVK4hd2ZIFsrO8znVdRN3QPz",
   "tracks": [
     {
       "added_at": "2025-11-03 10:55:48",
@@ -89,6 +89,30 @@
       "url": "https://open.spotify.com/track/46xHwLFHkNUuPC56Xm8UMJ"
     },
     {
+      "added_at": "2025-11-14 08:26:09",
+      "album": {
+        "name": "Chameli Chal (From \"GST - GhostS In Trouble\")",
+        "url": "https://open.spotify.com/album/2DyeP5pnuedPujAwEfHxPW"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Vijay Eshwar",
+          "url": "https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP"
+        },
+        {
+          "name": "Anitha Sa Ra Mahesh",
+          "url": "https://open.spotify.com/artist/0SHKsErTXzUzI5dyx8C6nG"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Chameli Chal (From \"GST - GhostS In Trouble\")",
+      "url": "https://open.spotify.com/track/1hwVk255jex5Zce3tNFLcs"
+    },
+    {
       "added_at": "2025-11-13 11:42:46",
       "album": {
         "name": "Muddu Rakshasi (From \" Vaamana \")",
@@ -115,6 +139,30 @@
       "duration_ms": 212413,
       "name": "Muddu Rakshasi - From \" Vaamana \"",
       "url": "https://open.spotify.com/track/5K9loq4s6yILgWxK6zbsq4"
+    },
+    {
+      "added_at": "2025-11-14 08:25:28",
+      "album": {
+        "name": "Poppy Shame (From \"Hey Prabhu\")",
+        "url": "https://open.spotify.com/album/7gLvzABtpgeSqGdQcP2iwY"
+      },
+      "artists": [
+        {
+          "name": "Shameek V Bharadwaj",
+          "url": "https://open.spotify.com/artist/1LUeCPde1pRtEsxnFCqgkB"
+        },
+        {
+          "name": "Danny Anderson",
+          "url": "https://open.spotify.com/artist/3rWhgt7IGoENnvmEbe8cyA"
+        },
+        {
+          "name": "Manoj V",
+          "url": "https://open.spotify.com/artist/1726lNGSABIoTmixDxHQ76"
+        }
+      ],
+      "duration_ms": 188291,
+      "name": "Poppy Shame (From \"Hey Prabhu\")",
+      "url": "https://open.spotify.com/track/3e05zrPrmpdCdJqwFWe706"
     },
     {
       "added_at": "2025-11-13 11:34:49",

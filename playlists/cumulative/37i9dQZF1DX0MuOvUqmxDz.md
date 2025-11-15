@@ -2,9 +2,9 @@
 
 ### [Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0MuOvUqmxDz)
 
-> Celebrate the Holiday Season with your favorite country artists\. Cover: Jordan Davis
+> Celebrate the Holiday Season with your favorite country artists\. Cover: Luke Bryan and Ella Langley
 
-348 songs - 18 hr 54 min
+350 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Christmas You](https://open.spotify.com/track/4oLw4GfMdULMWvlfNLW2PU) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Christmas You](https://open.spotify.com/album/7uNUL7H73TNZULW1cIqJsR) | 3:20 | 2021-12-16 | 2022-10-08 |
 | [Classic](https://open.spotify.com/track/1Pm9TIkyMurchNraIuiRbD) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Classic](https://open.spotify.com/album/3sHMidfBgvPMdTH4mgPPRd) | 3:27 | 2021-12-16 | 2022-10-08 |
 | [Counting Down Christmas](https://open.spotify.com/track/1UfxYzE8v24SXw4uo96gz3) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Counting Down Christmas](https://open.spotify.com/album/473lbNRulOv0esYMKBkp4z) | 3:39 | 2023-10-27 | 2024-08-22 |
+| [Counting Down The Days](https://open.spotify.com/track/7cbOw6mnOjWKnvLWifQEjA) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Counting Down The Days](https://open.spotify.com/album/1CHaVLVHPxDrrVANgwxsts) | 3:50 | 2025-11-14 |  |
 | [Country Little Christmas](https://open.spotify.com/track/4LjWIcO3q8doUD1E6YwKGw) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Country Little Christmas](https://open.spotify.com/album/5Gwc85Lc5KIlhkbuxhKweV) | 3:09 | 2023-11-24 |  |
 | [Cowboy for Christmas](https://open.spotify.com/track/3KyWRJHDimcS66hRxrR5vy) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Cowboy for Christmas](https://open.spotify.com/album/7KzNOMiklXrko252CXUjEZ) | 3:09 | 2022-11-25 | 2023-12-09 |
 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1deT8vP3lOVU3XFAKHsSc3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas](https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl) | 3:39 | 2021-12-16 | 2022-07-29 |
@@ -343,6 +344,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/4jbXHzjsepzaqixmuEz8r9) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Brad Paisley Christmas](https://open.spotify.com/album/1EpvicIkzXB7KM0EEmrrPh) | 3:30 | 2021-12-16 | 2022-11-12 |
 | [Winter Wonderland](https://open.spotify.com/track/54INOuusIyGe5cSd1fhSgx) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:15 | 2024-11-15 |  |
 | [Winter Wonderland](https://open.spotify.com/track/5rIyyxoU1LzraNmFu5FpdR) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/1KEjtvYamAHainJr186Hhz) | 2:39 | 2021-12-16 |  |
+| [Winter Wonderland](https://open.spotify.com/track/2NvEi1sJUw2YrIoInhQ1Ug) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Luke Bryan Christmas](https://open.spotify.com/album/02AYiUqhYmz5cyH83yfGfI) | 2:09 | 2025-11-14 |  |
 | [Winter Wonderland](https://open.spotify.com/track/1HuTA2331NR1rFmL8BHYcs) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Winter Wonderland](https://open.spotify.com/album/0d4vRHbODXRxNJX35SZZgg) | 2:08 | 2024-08-21 | 2024-11-16 |
 | [Winter Wonderland](https://open.spotify.com/track/195xKrwnJOQYBsh5gefYuw) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj), [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ) | [Winter Wonderland](https://open.spotify.com/album/6CKKvaBVfgelFLN1AVP8t6) | 2:29 | 2021-12-16 | 2022-11-12 |
 | [Winter Wonderland](https://open.spotify.com/track/4vVcH5oiNX95kDa81xKaae) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:37 | 2022-10-21 |  |

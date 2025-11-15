@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 178290,
       "name": "BARRACUDA",
       "url": "https://open.spotify.com/track/0wLkTnJxJxSNs6pyf7jUw3"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-15",
       "duration_ms": 141686,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/3CKQqdPsOP8uwmv2X4vBgi"
@@ -6773,6 +6773,40 @@
     },
     {
       "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/4qk2IMiQs4dsHp7XxKXGNS"
+      },
+      "artists": [
+        {
+          "name": "STARFOX",
+          "url": "https://open.spotify.com/artist/5OsuArWT529PPB7Y6NdiCO"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        },
+        {
+          "name": "Shumba Maasai",
+          "url": "https://open.spotify.com/artist/1zc7yyIfqiKewfSBSKtpoD"
+        },
+        {
+          "name": "Abstrakt Sonance",
+          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
+        },
+        {
+          "name": "Solotrip",
+          "url": "https://open.spotify.com/artist/2wjj4d0dXlL909zKmMjyuJ"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/6nlr8kvXwrxrDWlhXNY0dC"
+    },
+    {
+      "album": {
         "name": "I Fear",
         "url": "https://open.spotify.com/album/70ADfmqWJgdcydCeVPniiW"
       },
@@ -7338,6 +7372,24 @@
       "duration_ms": 259411,
       "name": "Jabba Wars",
       "url": "https://open.spotify.com/track/3Ep9277iCyM3ryPvKvyFpw"
+    },
+    {
+      "album": {
+        "name": "Jacques Cousteau",
+        "url": "https://open.spotify.com/album/1hOweynvVHAd34Q4D66My4"
+      },
+      "artists": [
+        {
+          "name": "Pigeon Hole",
+          "url": "https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Jacques Cousteau",
+      "url": "https://open.spotify.com/track/7xgd54ArMqnRlye7Wtg2lT"
     },
     {
       "album": {

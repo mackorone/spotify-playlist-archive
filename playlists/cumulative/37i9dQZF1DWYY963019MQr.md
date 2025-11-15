@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-106 songs - 5 hr 45 min
+108 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 | 2022-12-15 |  |
 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 | 2022-10-13 |  |
 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
-| [Autumn Leaves](https://open.spotify.com/track/609aYx7tX9W22UwKaH7CRK) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 2:49 | 2022-10-13 |  |
+| [Autumn Leaves](https://open.spotify.com/track/609aYx7tX9W22UwKaH7CRK) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 2:49 | 2022-10-13 | 2025-11-15 |
 | [Autumn Skies](https://open.spotify.com/track/1xHI2bJ5Lb9zjA2uNvVndM) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:49 | 2022-10-13 |  |
 | [Back There](https://open.spotify.com/track/21Xor47HLYhzTrfNnCY5Yz) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Back There](https://open.spotify.com/album/5RPcB0dJKIgRba7DQsvOA9) | 2:22 | 2024-07-22 |  |
 | [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 | 2022-10-13 |  |
@@ -29,6 +29,7 @@
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-10-13 |  |
 | [Candlelight](https://open.spotify.com/track/4g4fVxKcrS1cv444N4QYzW) | [Lyzone](https://open.spotify.com/artist/1DD2cWVdKOniNG9iiRB8jR) | [Candlelight](https://open.spotify.com/album/1axFPU0WRnqSENiLSG57Xw) | 1:33 | 2024-11-05 |  |
 | [Candlelight](https://open.spotify.com/track/1C57YMNutdZLFayXh2ZXHG) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:23 | 2022-10-27 |  |
+| [Dahlia](https://open.spotify.com/track/0VlqXeB7459ai9Cst5BY8C) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Dahlia](https://open.spotify.com/album/7kdEzAOjxrAVGg74dksuti) | 2:28 | 2025-11-14 |  |
 | [Danny Boy](https://open.spotify.com/track/0X4mnyUksaQJy9VG8GjJOx) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [At First Light](https://open.spotify.com/album/0NrIhUxqXHbIR75LWZNURP) | 3:40 | 2023-03-16 | 2023-09-16 |
 | [Danny Boy \(Londonderry Air\)](https://open.spotify.com/track/1vhdWXJNjlsgaSRdSpqsYh) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:51 | 2022-10-13 |  |
 | [Day and Age](https://open.spotify.com/track/6dYMhDVzfJYxlP3Hoa7ipt) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:41 | 2022-10-13 |  |
@@ -45,7 +46,7 @@
 | [From Now On](https://open.spotify.com/track/1Qu7rDnLl6yAIQy4c9cJoO) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [This Is Jazz \#9](https://open.spotify.com/album/2D2myh79CK6dKYUEIfMVsB) | 2:20 | 2022-10-13 |  |
 | [From The Mountains](https://open.spotify.com/track/0x7F5NIdGbQWiTb1G34e6H) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 8:20 | 2023-10-26 | 2023-11-05 |
 | [From The Mountains](https://open.spotify.com/track/2vrav3XxztyyB5jnvg3IEH) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ) | 8:20 | 2023-10-26 | 2024-04-19 |
-| [From The Mountains](https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From The Mountains](https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB) | 8:20 | 2023-04-13 |  |
+| [From The Mountains](https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From The Mountains](https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB) | 8:20 | 2023-04-13 | 2025-11-15 |
 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 | 2022-10-13 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/0FzscnPl4utP0vONzitk5J) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [Have You Met Miss Jones?](https://open.spotify.com/album/6xpcssp9Q6hcgyC7upWVFo) | 2:24 | 2023-02-23 |  |
 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 | 2022-10-13 |  |
@@ -84,7 +85,7 @@
 | [Peace Please](https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/2UMdzyw84wCz3gKJtDVNhZ) | 1:28 | 2022-12-01 | 2023-05-01 |
 | [Peace Please](https://open.spotify.com/track/3p4dTdErlsSky6T1pBPOnU) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 1:28 | 2023-04-27 | 2023-09-16 |
 | [Pretty Stars](https://open.spotify.com/track/4iEj3gYqRBz4mSpVGEj0fY) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 3:57 | 2022-10-13 |  |
-| [Rain, Rain](https://open.spotify.com/track/4Dvyyfa93OpZeJ3XgvS84I) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 2:45 | 2022-10-13 |  |
+| [Rain, Rain](https://open.spotify.com/track/4Dvyyfa93OpZeJ3XgvS84I) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 2:45 | 2022-10-13 | 2025-11-15 |
 | [Red Sails in the Sunset](https://open.spotify.com/track/04ri8jkQTdZu3zu8ZbKZE8) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [John Pizzarelli Trio](https://open.spotify.com/artist/11elWakIc74gxcI5tftMKc) | [For Centennial Reasons: 100 Year Salute to Nat King Cole](https://open.spotify.com/album/0w7OS1dHGc86hVVuVC5y0S) | 3:20 | 2022-10-13 |  |
 | [Responsibilities](https://open.spotify.com/track/1Dx14n9PXzZ94BdZ8EUuHR) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 4:26 | 2022-10-13 |  |
 | [Satin Doll](https://open.spotify.com/track/2gLre4glCEpcNC0jxQzGaX) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Satin Doll](https://open.spotify.com/album/6NmACvVbLu1hgvQcaFiW2V) | 2:14 | 2022-12-29 |  |
@@ -95,7 +96,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/3WoSrYUi2UoF321UCXE6UO) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Someday My Prince Will Come](https://open.spotify.com/album/3me7OLET9zLwToQ2TOk5yh) | 2:35 | 2022-10-27 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [Somewhere Over The Rainbow](https://open.spotify.com/album/2wtxBVqcVFR6hG5yleEKOa) | 2:12 | 2022-10-27 | 2024-01-05 |
 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 | 2022-11-24 |  |
-| [Sunflowers](https://open.spotify.com/track/75XlFoKGhCjOM6oxNCREyK) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Sunflowers](https://open.spotify.com/album/2MPdZrdRPyB1BLfdLZnMoD) | 2:26 | 2025-05-09 |  |
+| [Sunflowers](https://open.spotify.com/track/75XlFoKGhCjOM6oxNCREyK) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Sunflowers](https://open.spotify.com/album/2MPdZrdRPyB1BLfdLZnMoD) | 2:26 | 2025-05-09 | 2025-11-15 |
 | [Sunny Shadow](https://open.spotify.com/track/3w0o8Mo8aFrQ0HtmwBVg2v) | [Morris Valentin](https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8) | [Sunny Shadow](https://open.spotify.com/album/1Phq0mAzxfgavFzKiNZuz3) | 2:10 | 2025-01-07 |  |
 | [Tangerine](https://open.spotify.com/track/0iaaX04FpfgPfqzCInwudD) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Tangerine](https://open.spotify.com/album/38gxSGItvmeSUA9s18VGcO) | 3:44 | 2024-10-21 |  |
 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 | 2022-10-13 |  |
@@ -114,5 +115,6 @@
 | [While We're Young](https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [So Much Guitar!](https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD) | 2:15 | 2022-10-13 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [You Are Too Beautiful](https://open.spotify.com/album/321bjucXAq72mVgASyC5eT) | 2:07 | 2023-01-12 | 2024-08-07 |
 | [You Go to My Head](https://open.spotify.com/track/1VB3aOUzV1vkjPYCUTmdMg) | [Maarten van der Grinten](https://open.spotify.com/artist/37e1k0TyFygkdwIn5paeFN) | [A Guitar, a Man & a Song, Vol\. I](https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM) | 2:42 | 2023-01-05 |  |
+| [Your Embrace](https://open.spotify.com/track/45c8cOsiUY2BG6EROZIZHP) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Your Embrace](https://open.spotify.com/album/7CAk3d4XrQWBIjpBEO0SEs) | 2:26 | 2025-11-14 |  |
 
 \*This playlist was first scraped on 2022-10-15. Prior content cannot be recovered.

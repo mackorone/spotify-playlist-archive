@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-811 songs - 1 day 21 hr 31 min
+813 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Call me when you need me](https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Call me when you need me](https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P) | 3:14 | 2025-08-19 |  |
 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 | 2021-07-10 | 2021-07-30 |
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2023-09-23 | 2024-05-25 |
+| [Can't Stop Crying](https://open.spotify.com/track/7uFkkSgTmYUfxmxR0U4S1G) | [Sarah Nimmo](https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO) | [Can't Stop Crying](https://open.spotify.com/album/064aypRsPi41EtJ34uVykm) | 3:04 | 2025-11-14 |  |
 | [CANNIBALISM!](https://open.spotify.com/track/0d5maE1saK2pmlhZfW0xmh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CANNIBALISM!](https://open.spotify.com/album/20PiiYxiYvWiagbQ65z1Qo) | 2:47 | 2025-09-12 |  |
 | [Care](https://open.spotify.com/track/01WVhnWgcISq2mIimBywbV) | [Ódú](https://open.spotify.com/artist/5J0S0VMJPab8FUbu3vJ2ds) | [Care](https://open.spotify.com/album/5jgVpT4qJ2buE9VAxVrT5G) | 3:06 | 2022-03-18 | 2022-05-19 |
 | [Cashmere](https://open.spotify.com/track/2skcRwQ3LnHovesawqOO89) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [A Pretty Fucking Cool EP](https://open.spotify.com/album/2qQVcpL4zqbuU7H54DomDT) | 3:15 | 2024-04-26 | 2024-10-12 |
@@ -230,6 +231,7 @@
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-04 | 2022-04-17 |
 | [Fahrenheit](https://open.spotify.com/track/4KsrNG85gkH4u3daIfZ8w2) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [All In](https://open.spotify.com/album/5ge9X7vQzrKCnaUxvheDYa) | 3:53 | 2021-06-26 | 2021-11-20 |
 | [Fail](https://open.spotify.com/track/4TLxPlXK20ZIeUiQTBPIKO) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Fail](https://open.spotify.com/album/7Dj4sBimF6IHXTuXQAttWJ) | 3:26 | 2022-04-16 | 2022-04-21 |
+| [Fallen Cloud](https://open.spotify.com/track/2eYz2ZEoHun4Lepj7nBM3S) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Fallen Cloud](https://open.spotify.com/album/6MonCuHwaHWT2dXu5PwMOK) | 4:36 | 2025-11-14 |  |
 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2021-10-16 | 2023-03-26 |
 | [Far Cry](https://open.spotify.com/track/1XbclEPLmGD9jYPzdR4avl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 4:38 | 2022-03-18 | 2022-09-20 |
 | [Favorite What If](https://open.spotify.com/track/5LLaPfgP7Ssw1v5aKqdkre) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite What If](https://open.spotify.com/album/4MCImCKI5cGdXPMp0wtEpb) | 2:52 | 2021-06-26 | 2021-07-04 |
@@ -495,7 +497,7 @@
 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 |  |
 | [Moonlight](https://open.spotify.com/track/1kQffpF3I0YD5dDVSYaEGG) | [Essy](https://open.spotify.com/artist/6tnxA4woi9zSxFDyOuBjIo) | [Moonlight](https://open.spotify.com/album/0ewLNJICTVLG7qiMKdwhrV) | 2:59 | 2025-07-11 |  |
 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 | 2023-03-24 | 2023-09-23 |
-| [MOVE](https://open.spotify.com/track/5FPfUz8dqrJmZEA0hV2nwT) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [MOVE](https://open.spotify.com/album/5WE3dloLqYGlTZi3bmQLJm) | 5:02 | 2025-07-11 |  |
+| [MOVE](https://open.spotify.com/track/5FPfUz8dqrJmZEA0hV2nwT) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [MOVE](https://open.spotify.com/album/5WE3dloLqYGlTZi3bmQLJm) | 5:02 | 2025-07-11 | 2025-11-15 |
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2020-10-13\* | 2021-06-26 |
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2020-11-18 | 2021-02-19 |
 | [My Thoughts on You](https://open.spotify.com/track/1AnoNTlYCt1ELWArtKsA4s) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts on You](https://open.spotify.com/album/0hGduSCbpvvyCqSAT90UsI) | 3:31 | 2020-10-13\* | 2021-06-26 |
@@ -506,7 +508,7 @@
 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 | 2023-09-23 | 2024-04-19 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 |  |
 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2020-10-13\* | 2021-07-17 |
-| [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 | 2025-07-18 |  |
+| [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 | 2025-07-18 | 2025-11-15 |
 | [Nervous](https://open.spotify.com/track/6HQMwVTq0x383g45PwZw5w) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Nervous](https://open.spotify.com/album/7lVfiGJFKqdNSoMj3e55uN) | 2:41 | 2021-07-10 | 2021-11-19 |
 | [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 | 2023-05-19 | 2024-04-06 |
 | [Never Wanted This](https://open.spotify.com/track/1OayqR9ZUXeGJvUbKdeoaR) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG), [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [eight gardengate](https://open.spotify.com/album/4544NYUPO0Rafsdk4ctFr6) | 2:31 | 2022-11-18 | 2022-12-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Le\-one in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,090 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,101 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 9 | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/track/1iX6LqbBWwhfctAy3DnNMh) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/album/7sSafpY92CsWyhn46s0MDI) | 2:47 |
 | 10 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
 | 11 | [GOTTI](https://open.spotify.com/track/6rN2wG1mw83UckLIdaiVcm) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [GOTTI](https://open.spotify.com/album/79dt9XYgzco3QEoYukK5pg) | 2:17 |
-| 12 | [Track 5](https://open.spotify.com/track/2oi7DDyAP8FjaY2bxWJRqp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [STATUA \(ATTUORN 'O CUORP TUOIJ\)](https://open.spotify.com/track/2oi7DDyAP8FjaY2bxWJRqp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [NICOLA SICILIANO](https://open.spotify.com/album/5RVxm9pSvD21EB4LYwsJHc) | 2:34 |
 | 13 | [PEZZI DA NOVANTA \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza\)](https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [WE THE SQUAD Vol.2](https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE) | 3:14 |
 | 14 | [OPPOSTO](https://open.spotify.com/track/0Yi9qh7UmSXCJNc2f8criL) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 3:06 |
 | 15 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |

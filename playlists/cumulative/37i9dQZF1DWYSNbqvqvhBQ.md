@@ -2,7 +2,7 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek\. Cover: Danny Vera
+> Nieuwe tijdloze muziek\. Cover: Chef'Special
 
 763 songs - 1 day 20 hr 28 min
 
