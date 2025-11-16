@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116358,
+  "num_followers": 116356,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADKXE84skOR/WHsKIXwbman",
+  "snapshot_id": "aRZxAAAAAAAa3Y+q49wLuo7LfZOBqrMW",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 354493,
-      "name": "Minha Alma Te Ama (Ao Vivo)",
-      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 773437,
       "name": "Tu \u00c9s Tudo",
       "url": "https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 354493,
+      "name": "Minha Alma Te Ama (Ao Vivo)",
+      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
     },
     {
       "added_at": null,

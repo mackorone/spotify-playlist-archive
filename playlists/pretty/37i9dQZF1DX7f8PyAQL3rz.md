@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > em guerra de ego sobra quem?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,419,250 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419,208 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 48 | [Congelado](https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Congelado](https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719) | 4:17 |
 | 49 | [Nas Ruas De Sampa](https://open.spotify.com/track/4P04Wq22LWF1f5FxoR4XKw) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Gubeatz](https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx), [CAMPING](https://open.spotify.com/artist/05ugEOR6Mr3l27oIegLhYj) | [Nas Ruas De Sampa](https://open.spotify.com/album/5lIhqXie4AaLrgYjWDxlGc) | 2:31 |
 | 50 | [RISCA DA LISTA](https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee) | [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Kohuru](https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko) | [RISCA DA LISTA](https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K) | 2:26 |
-| 51 | [Lixo ao Luxo](https://open.spotify.com/track/3hNlU96iN7xW2DpIUw1slg) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [MC Neguinho BDP](https://open.spotify.com/artist/1qjORnMWwHW1ILrXFwkMbX) | [Lixo ao Luxo](https://open.spotify.com/album/4QsJJ0OhhN5xWl9O4nNkSU) | 3:12 |
-| 52 | [No Campo](https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [No Campo](https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN) | 3:30 |
+| 51 | [No Campo](https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [No Campo](https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN) | 3:30 |
+| 52 | [Lixo ao Luxo](https://open.spotify.com/track/3hNlU96iN7xW2DpIUw1slg) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [MC Neguinho BDP](https://open.spotify.com/artist/1qjORnMWwHW1ILrXFwkMbX) | [Lixo ao Luxo](https://open.spotify.com/album/4QsJJ0OhhN5xWl9O4nNkSU) | 3:12 |
 | 53 | [2 GLOCK](https://open.spotify.com/track/3ze023ckWI3osMHZnhLCCT) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52) | [CRÔNICAS](https://open.spotify.com/album/4MId32a3619pi8cFydwvFZ) | 3:45 |
 | 54 | [De Raça](https://open.spotify.com/track/5nXvj3vGbyF33JYVxQzj5l) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [ATLXTA](https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL), [KANASHIRO](https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8) | [De Raça](https://open.spotify.com/album/67aAKJyZedpQ6MBhdNLGxu) | 2:31 |
 | 55 | [Nada Impede](https://open.spotify.com/track/2Jsw7WHWW1VakRk2VI8Rx3) | [BG](https://open.spotify.com/artist/4daF677pBipqZ0ODuNqTCE), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Nada Impede](https://open.spotify.com/album/0F6wmtlk15XbtaPpPOPE7s) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [Sabrina](https://open.spotify.com/track/0AQ3QwZqqz0M5wV4o8svVY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [ALAKASAM](https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6) | 2:42 |
 | 60 | [Lola Bunny](https://open.spotify.com/track/3YtT7HH9aS5xo8PzTL4nQR) | [Mari Raia](https://open.spotify.com/artist/25x4K0KXvOHeD9mRaOgfSw), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [PROD OGG](https://open.spotify.com/artist/1aGYEe3T6Es7aIjI7ePvyb) | [Lola Bunny](https://open.spotify.com/album/4liUft9SL3UVdTlY4WovnT) | 2:16 |
 
-Snapshot ID: `AAAAAP0hyO3uigEm3dRlb1YpaxLKOXXm`
+Snapshot ID: `AAAAAMeVINItR2tepPg/XyZp7AiA29Pp`

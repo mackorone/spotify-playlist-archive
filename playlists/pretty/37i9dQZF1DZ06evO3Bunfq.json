@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 126342,
+  "num_followers": 126350,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACfqQZ2QiUhO0gH+GrMUM7r",
+  "snapshot_id": "aRZxAAAAAACO4VbcUR9h4OLxRK9MM3cJ",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
       },
       "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 197373,
-      "name": "Para Olvidarme De Tus Besos",
-      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
       },
       "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
     },
     {
       "added_at": null,
@@ -991,22 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Esquina",
-        "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
+        "name": "#LQMQ",
+        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        },
-        {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 267897,
-      "name": "Broche De Oro",
-      "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
+      "duration_ms": 211440,
+      "name": "#LQMQ",
+      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
     },
     {
       "added_at": null,
@@ -1027,22 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "#LQMQ",
-        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
+        "name": "La Esquina",
+        "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         },
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 211440,
-      "name": "#LQMQ",
-      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
+      "duration_ms": 267897,
+      "name": "Broche De Oro",
+      "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
     }
   ],
   "unique_name": "This Is Dharius",

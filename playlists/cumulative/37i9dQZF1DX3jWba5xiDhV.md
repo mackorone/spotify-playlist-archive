@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-201 songs - 16 hr 37 min
+202 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 | 2022-02-11 | 2023-11-05 |
 | [Bruno Boogie](https://open.spotify.com/track/4vZA5HlveUZ7efaAwNobf9) | [Euro Nettuno](https://open.spotify.com/artist/1xZACnmGyStG9YMTefqEq3), [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Bruno Boogie](https://open.spotify.com/album/5wPQy8UtYfuwLtcrMS3HQd) | 3:12 | 2025-07-03 | 2025-07-29 |
 | [BUBBLEGUM \- Jürgen Paape "Frutti Di Mare" Remix](https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO) | [ISABELLA](https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [BUBBLEGUM \(Jürgen Paape "Frutti Di Mare" Remix\)](https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C) | 5:15 | 2024-04-04 | 2024-11-21 |
+| [Burn It!](https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Burn It!](https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5) | 3:19 | 2025-11-13 |  |
 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 | 2022-02-11 |  |
 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 | 2023-07-13 |  |
 | [Color My Love](https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH) | 4:06 | 2022-07-01 | 2024-04-19 |
@@ -72,7 +73,7 @@
 | [Feels Good \- Carrots & Beets](https://open.spotify.com/track/4XagBRVqOiMShocifucrgd) | [Electra](https://open.spotify.com/artist/4m0wrSchQLfcaBbfmRbjke) | [Star Funk, Vol\. 9](https://open.spotify.com/album/6MIgfukswDqIZZmByAON39) | 6:16 | 2022-02-11 | 2022-08-21 |
 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 | 2022-07-01 | 2023-12-30 |
 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/1zZcUGIY4VNzdGDKEskz7Y) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Feels Right \(Gerd Janson Remix\)](https://open.spotify.com/album/5iamscXb0VlnJmEkBi33uP) | 3:59 | 2022-02-11 | 2022-07-29 |
-| [Find You \(Gerd Janson Remix\)](https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU) | 6:14 | 2025-06-19 |  |
+| [Find You \(Gerd Janson Remix\)](https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU) | 6:14 | 2025-06-19 | 2025-11-16 |
 | [Flashlight \- Masalo Remix](https://open.spotify.com/track/5Cay3jdLxv3BajJKgZtvcM) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Flashlight](https://open.spotify.com/album/2mYT0YPcxvIh6Do5k2ZOfI) | 8:07 | 2022-02-11 | 2022-07-28 |
 | [For You \- Original Album](https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 5:53 | 2022-02-11 |  |
 | [For Your Love \- Extended Version](https://open.spotify.com/track/5KJdebGrBTFYCl7d3waEka) | [Albert One](https://open.spotify.com/artist/5b0o4XqUBsGxcJyHLUZEHB) | [For Your Love](https://open.spotify.com/album/2CnLQfbc0ezTeDLiE1EMKE) | 5:58 | 2022-02-11 | 2022-04-22 |

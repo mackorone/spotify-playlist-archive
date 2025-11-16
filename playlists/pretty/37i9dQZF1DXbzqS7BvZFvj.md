@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,460 likes - 79 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,466 likes - 79 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 10 | [Mardi Gras \(Go Crazy\) \- Seoul 2 Okinawa Version](https://open.spotify.com/track/4eFWMltWSQd1l61TCqypM5) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Mardi Gras \(Go Crazy\) \[Seoul 2 Okinawa Version\]](https://open.spotify.com/album/56eevAZjrjGQKlctPZBtJg) | 3:06 |
 | 11 | [Hungry For It](https://open.spotify.com/track/5M7fm8Sad9IpX87y3SE74g) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hungry For It](https://open.spotify.com/album/5CnoiHaX9lhhP11B89xtyi) | 2:56 |
 | 12 | [BLINDLY](https://open.spotify.com/track/1H8nPXlLqKccKNl0MjCUB4) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [BLINDLY](https://open.spotify.com/album/5y78NVJZawzHjppRLuR28A) | 3:27 |
-| 13 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
+| 13 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
 | 14 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/48PfbKRDDyinnMcXqxtfR3) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 3:56 |
 | 15 | [Sketchy](https://open.spotify.com/track/2PW0ZQtpVPicI0DVY92IuA) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sketchy](https://open.spotify.com/album/1dln4yXvSgc7rlsWyyCXfW) | 2:16 |
 | 16 | [Roaches](https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DIRECTOR'S CUT](https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ) | 2:53 |

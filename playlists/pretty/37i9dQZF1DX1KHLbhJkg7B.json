@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135146,
+  "num_followers": 135150,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-11-14 05:00:37",
       "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+    },
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2025-11-14 05:00:37",
-      "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2025-11-14 05:00:37",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-11-14 05:00:37",
       "album": {
+        "name": "Glen Campbell I'll Be Me Soundtrack",
+        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+    },
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
         "name": "A Tribute To The Judds",
         "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 197637,
       "name": "Mama He\u2019s Crazy",
       "url": "https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE"
-    },
-    {
-      "added_at": "2025-11-14 05:00:37",
-      "album": {
-        "name": "Glen Campbell I'll Be Me Soundtrack",
-        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 189253,
-      "name": "Gentle On My Mind",
-      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
     },
     {
       "added_at": "2025-11-14 05:00:37",

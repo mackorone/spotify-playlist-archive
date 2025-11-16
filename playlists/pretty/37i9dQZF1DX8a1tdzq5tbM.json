@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1745918,
+  "num_followers": 1746256,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Put 'Em Up",
+        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
+      },
+      "artists": [
+        {
+          "name": "Edun",
+          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Put `em Up",
+      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Put 'Em Up",
-        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
-      },
-      "artists": [
-        {
-          "name": "Edun",
-          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Put `em Up",
-      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "I Am The Club Rocker",
-        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Sun Is Up - Play & Win Radio Edit",
-      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 443426,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "I Am The Club Rocker",
+        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Sun Is Up - Play & Win Radio Edit",
+      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1731,6 +1735,22 @@
       "duration_ms": 239213,
       "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
       "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1967,26 +1987,6 @@
       "duration_ms": 171430,
       "name": "I Found U - Radio Edit",
       "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",

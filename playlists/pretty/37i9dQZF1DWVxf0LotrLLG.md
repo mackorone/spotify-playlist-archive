@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,154 likes - 394 songs - 20 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,156 likes - 394 songs - 20 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -403,4 +403,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 393 | [CIEGO SORDO MUDO](https://open.spotify.com/track/3qxjEfFr536FDMcB4Iajmh) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:16 |
 | 394 | [RED FLAG](https://open.spotify.com/track/3mhF6nhwtdKO6y35tGx7wu) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:22 |
 
-Snapshot ID: `AAAAAM20JIt9fesVhRnRQQlJQiGL/e9f`
+Snapshot ID: `AAAAAJO+yYdW0X5QwL+e7SyAqbpOfDD0`

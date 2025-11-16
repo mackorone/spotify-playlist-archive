@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,541 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,515 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 20 | [East Texas and You](https://open.spotify.com/track/3Vl3sIrcTxAMmeh07x2zN2) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [East Texas and You](https://open.spotify.com/album/6r3qwX3dT5Qz2rENRPmOJj) | 3:34 |
 | 21 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |
 | 22 | [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 |
-| 23 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 |
+| 23 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 |
 | 24 | [Jumbo Jet](https://open.spotify.com/track/6Ph92j9V7ZI0A67BxFbzhb) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Jumbo Jet](https://open.spotify.com/album/4hLiBqc5V5kM9gb9cdUIxG) | 2:17 |
 | 25 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 |
 | 26 | [MVP](https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Migo In America](https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw) | 1:43 |

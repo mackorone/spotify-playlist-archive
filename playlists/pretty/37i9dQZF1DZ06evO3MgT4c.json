@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 437317,
+  "num_followers": 437340,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAC50kqIk46qjKPd7aKlUbf3",
+  "snapshot_id": "aRZxAAAAAAAAIj6y+ffPmAvglcqBM09Q",
   "tracks": [
     {
       "added_at": null,
@@ -475,42 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger (with Migos & Marshmello) [From Bright: The Album]",
-        "url": "https://open.spotify.com/album/0829Pk9WEro3oPVnWT2B4B"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "Danger (with Migos & Marshmello)",
-      "url": "https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255023,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -535,6 +499,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255023,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger (with Migos & Marshmello) [From Bright: The Album]",
+        "url": "https://open.spotify.com/album/0829Pk9WEro3oPVnWT2B4B"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Danger (with Migos & Marshmello)",
+      "url": "https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Racks 2 Skinny",
         "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
       },
@@ -551,22 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
         },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 262308,
-      "name": "Drip (feat. Migos)",
-      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
+      "duration_ms": 241505,
+      "name": "Bosses Don't Speak",
+      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
     },
     {
       "added_at": null,
@@ -591,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
       "artists": [
         {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 241505,
-      "name": "Bosses Don't Speak",
-      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
+      "duration_ms": 262308,
+      "name": "Drip (feat. Migos)",
+      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girls Like Trap Music",
-        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Blue Cheese",
-      "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Decided.",
         "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
       },
@@ -911,18 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is You Ready (From \"Mile 22\")",
-        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
+        "name": "Pretty Girls Like Trap Music",
+        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
       "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 184276,
-      "name": "Is You Ready - From \"Mile 22\"",
-      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
+      "duration_ms": 308733,
+      "name": "Blue Cheese",
+      "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
     },
     {
       "added_at": null,
@@ -967,6 +951,22 @@
       "duration_ms": 198077,
       "name": "First 48",
       "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is You Ready (From \"Mile 22\")",
+        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 184276,
+      "name": "Is You Ready - From \"Mile 22\"",
+      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
     },
     {
       "added_at": null,

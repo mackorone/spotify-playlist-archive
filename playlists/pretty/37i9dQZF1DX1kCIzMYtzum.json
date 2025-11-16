@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 437183,
+  "num_followers": 437472,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-11-14 05:00:36",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 231591,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
-    },
-    {
-      "added_at": "2025-11-14 05:00:36",
-      "album": {
         "name": "Euphoria (with Alok)",
         "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
       },
@@ -1823,22 +1807,18 @@
     {
       "added_at": "2025-11-14 05:00:36",
       "album": {
-        "name": "In My World",
-        "url": "https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp"
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 215849,
-      "name": "In My World",
-      "url": "https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB"
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "added_at": "2025-11-14 05:00:36",
@@ -1863,6 +1843,26 @@
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
+    },
+    {
+      "added_at": "2025-11-14 05:00:36",
+      "album": {
+        "name": "In My World",
+        "url": "https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "In My World",
+      "url": "https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB"
     },
     {
       "added_at": "2025-11-14 05:00:36",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2025-11-14 05:00:36",
       "album": {
-        "name": "Tokyo Drift",
-        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Vion Konger",
-          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
-        }
-      ],
-      "duration_ms": 146433,
-      "name": "Tokyo Drift",
-      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
-    },
-    {
-      "added_at": "2025-11-14 05:00:36",
-      "album": {
         "name": "Higher Off The Ground",
         "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 185850,
       "name": "Higher Off The Ground",
       "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
+    },
+    {
+      "added_at": "2025-11-14 05:00:36",
+      "album": {
+        "name": "Tokyo Drift",
+        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "duration_ms": 146433,
+      "name": "Tokyo Drift",
+      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
     },
     {
       "added_at": "2025-11-14 05:00:36",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2025-11-14 05:00:36",
       "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
+    },
+    {
+      "added_at": "2025-11-14 05:00:36",
+      "album": {
         "name": "Rave Till My Grave",
         "url": "https://open.spotify.com/album/24pocT8fPZICPOt99SR5rO"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 168000,
       "name": "Rave Till My Grave",
       "url": "https://open.spotify.com/track/7w0OLfAqXs05KpUU34ngWd"
-    },
-    {
-      "added_at": "2025-11-14 05:00:36",
-      "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
     },
     {
       "added_at": "2025-11-14 05:00:36",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,030 songs - 3 day 13 hr 54 min
+1,031 songs - 3 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 | 2024-02-23 | 2024-06-22 |
 | [Hypertrophy of Heart](https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk) | [Hypertrophy of Heart](https://open.spotify.com/album/0omAadju0KB3bL3G8a35Gb) | 5:00 | 2021-06-25 | 2023-04-29 |
 | [Héroe de México](https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [mari](https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ) | [Héroe de México](https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb) | 3:31 | 2024-07-26 | 2025-05-24 |
+| [i can't make you love me](https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [i can't make you love me / started over](https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD) | 3:29 | 2025-11-14 |  |
 | [I Don't Know](https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [Jawora](https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg) | [I Don't Know](https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP) | 3:15 | 2025-04-25 |  |
 | [I Feel](https://open.spotify.com/track/0QDQikDVeVvyrag0jdfXbR) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [I Feel EP](https://open.spotify.com/album/3ejftaZR7ToCHPjcoE3KTr) | 5:16 | 2025-03-21 | 2025-05-24 |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-07-01 | 2022-10-15 |
@@ -867,7 +868,7 @@
 | [Sutra](https://open.spotify.com/track/4zE7xIXG4SAWsJJXIkRFYD) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sutra](https://open.spotify.com/album/1ZHiL8Pb2qKdQeDDevehMq) | 4:04 | 2024-04-19 | 2024-06-06 |
 | [Sweat](https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sweat](https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH) | 3:24 | 2025-06-13 | 2025-09-25 |
 | [Sweet Boy](https://open.spotify.com/track/1SB3vBA3V37paKqQ4BfLVn) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Sweet Boy](https://open.spotify.com/album/6B53fE8uMvCNbRTzD86ACl) | 3:37 | 2025-09-19 |  |
-| [Swim](https://open.spotify.com/track/1cBmC6LH5SAcNo4fEUH0sZ) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Swim / Surrounded](https://open.spotify.com/album/2dTHKAcKGZIvkrA17lwSMB) | 4:09 | 2025-10-17 |  |
+| [Swim](https://open.spotify.com/track/1cBmC6LH5SAcNo4fEUH0sZ) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Swim / Surrounded](https://open.spotify.com/album/2dTHKAcKGZIvkrA17lwSMB) | 4:09 | 2025-10-17 | 2025-11-16 |
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |

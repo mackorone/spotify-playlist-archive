@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 468971,
+  "num_followers": 468974,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAC/D1QDj0ajpmNhGzZuv/b+",
+  "snapshot_id": "aRZxAAAAAADaIZFqlr2VBwtMyxqOJ4/G",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live It Up",
-        "url": "https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 243786,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 302866,
       "name": "No Me Ames (with Marc Anthony) - Tropical Remix",
       "url": "https://open.spotify.com/track/2F9GxThWActrY2FsKiPguj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0"
     },
     {
       "added_at": null,

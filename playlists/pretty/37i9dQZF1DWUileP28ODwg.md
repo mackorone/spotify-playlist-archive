@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Dan Bremnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,255 likes - 79 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,319 likes - 79 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 78 | [Favorite Parts](https://open.spotify.com/track/2DKVZg39ZTVZq54RPyKJo8) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Favorite Parts](https://open.spotify.com/album/60uAVGNMj6X7Ct6LX2YyPR) | 3:46 |
 | 79 | [MIRACLES](https://open.spotify.com/track/5LRnK1IzrREnAycQGONQrP) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Kevin Winebarger](https://open.spotify.com/artist/0Mihk33hOz5pYMIDALdiFG), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MIRACLES](https://open.spotify.com/album/2EqVaWGnejlGEO6XEqy7Cw) | 2:32 |
 
-Snapshot ID: `AAAAABHFFQQ5yM4+FKdR6h1K5ckdRD2e`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

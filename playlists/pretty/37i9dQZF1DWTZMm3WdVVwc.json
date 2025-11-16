@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 24895,
+  "num_followers": 24902,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
-        }
-      ],
-      "duration_ms": 248551,
-      "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "HEART STATION",
@@ -427,6 +411,22 @@
       "duration_ms": 325360,
       "name": "Flavor Of Life - Ballad Version",
       "url": "https://open.spotify.com/track/4NnxwvoD3dboEG0MdYBEbB"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "duration_ms": 248551,
+      "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/1wj9CGnWoclmhiXlxjPwrW"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 289060,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/5664npiyyvli6veD4VINZ1"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
@@ -547,6 +531,22 @@
       "duration_ms": 256706,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/1wj9CGnWoclmhiXlxjPwrW"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 289060,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/5664npiyyvli6veD4VINZ1"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -785,6 +785,22 @@
       "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 277426,
+      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Gen",
@@ -815,22 +831,6 @@
       "duration_ms": 224480,
       "name": "\u602a\u7363\u306e\u8155\u306e\u306a\u304b",
       "url": "https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u6cab\u96ea",
-        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "\u6cab\u96ea",
-      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "WINTER SONG",
@@ -1223,6 +1207,22 @@
       "duration_ms": 285533,
       "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u6b69\u307f",
-        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
-      },
-      "artists": [
-        {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
-        }
-      ],
-      "duration_ms": 230809,
-      "name": "\u6b69\u307f",
-      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u51ac\u306e\u4e88\u611f",
@@ -1447,6 +1431,22 @@
       "duration_ms": 201462,
       "name": "\u51ac\u306e\u4e88\u611f",
       "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u6b69\u307f",
+        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 230809,
+      "name": "\u6b69\u307f",
+      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
-        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
-      },
-      "artists": [
-        {
-          "name": "Ken Hirai",
-          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
-        }
-      ],
-      "duration_ms": 339773,
-      "name": "even if",
-      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30cf\u30d4\u30cd\u30b9EP",
@@ -1547,6 +1531,22 @@
       "duration_ms": 268000,
       "name": "Happy X-mas (War Is Over)",
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
+        "url": "https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502"
+      },
+      "artists": [
+        {
+          "name": "Ken Hirai",
+          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+        }
+      ],
+      "duration_ms": 339773,
+      "name": "even if",
+      "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
       "added_at": "2025-10-24 07:45:46",

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,082 songs - 1 day 22 hr 52 min
+1,083 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Cry Me A River](https://open.spotify.com/track/10QBJFEgjnKx6YvqPjQsTo) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Cry Me A River](https://open.spotify.com/album/4CdKOVHBBJBBuMoL1w0npR) | 2:43 | 2023-10-24 | 2024-01-28 |
 | [Crying Out For U](https://open.spotify.com/track/4OzLb8aAhVDPJDPySndZZJ) | [Løvento](https://open.spotify.com/artist/147Xjr0mly4tsEfY5yLPDC), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Crying Out For U](https://open.spotify.com/album/46Kk3t5lfUGVgrisWJGsQu) | 2:35 | 2024-01-20 | 2024-02-19 |
 | [Curiosity](https://open.spotify.com/track/2lq52P5A1ypuDj8p56zK0X) | [East Tapes](https://open.spotify.com/artist/67a5433HsPzSbt5LStkNYa), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Curiosity](https://open.spotify.com/album/6S5LOdoxKra63LUt0kdoUE) | 2:26 | 2024-11-04 | 2025-04-07 |
+| [Dance In The Dark](https://open.spotify.com/track/3LSPoubZ1lhdh9FsRu2vur) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Baked Moon](https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K) | [Dance In The Dark](https://open.spotify.com/album/2kEfNyO8AkwPImvpIoldrD) | 3:18 | 2025-11-15 |  |
 | [Dance The Night](https://open.spotify.com/track/5rqCSB5SLcgvzCWLULhZku) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Dohdo](https://open.spotify.com/artist/1mJodmcNOJqBItwNVdofvU), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [Dance The Night](https://open.spotify.com/album/38s0QGaLaA2xryTIQkjTEi) | 2:33 | 2025-10-26 |  |
 | [Dance Tonight](https://open.spotify.com/track/6RuuQr0sJjVMe6FHabUxjT) | [MUNICH MONSTRS](https://open.spotify.com/artist/65JeCEZBSZlp9lJGDZov3f) | [Dance Tonight](https://open.spotify.com/album/4PDgttG9DOdURhQfXIkgAe) | 2:27 | 2024-07-26 | 2024-08-30 |
 | [Dancing In My Mind](https://open.spotify.com/track/3eCGc11ZdggTwvnNwkBH0t) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw), [Toby Smith](https://open.spotify.com/artist/4Kme2dQygiJYKgUiDDnLHt), [Moosi](https://open.spotify.com/artist/7KIvB6mbIzIYklLSrz9vVB) | [Dancing In My Mind](https://open.spotify.com/album/3Wbg4MGTu8AvdYpm3HVg2Q) | 2:19 | 2025-08-08 |  |

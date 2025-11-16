@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,011 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,008 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
 | 21 | [OOTD](https://open.spotify.com/track/4U3edtNc6WtVLsjaWc6bZ6) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [OOTD](https://open.spotify.com/album/5uI3XadrVfI5iAPDMBnUdv) | 2:07 |
 | 22 | [rote ampeln](https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [rote ampeln](https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS) | 2:17 |
-| 23 | [Ruth](https://open.spotify.com/track/1RI2qxSeqmZNdA3arPMOTQ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Ruth](https://open.spotify.com/album/0fIg1hefvvsgnUUm94qiZn) | 5:08 |
-| 24 | [BADDEST](https://open.spotify.com/track/3ArIm5QoJWaRkz3n4LTjL8) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [BADDEST](https://open.spotify.com/album/0M81pudkfdLaP1Pudbl5G0) | 2:07 |
+| 23 | [BADDEST](https://open.spotify.com/track/3ArIm5QoJWaRkz3n4LTjL8) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [BADDEST](https://open.spotify.com/album/0M81pudkfdLaP1Pudbl5G0) | 2:07 |
+| 24 | [Ruth](https://open.spotify.com/track/1RI2qxSeqmZNdA3arPMOTQ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Ruth](https://open.spotify.com/album/0fIg1hefvvsgnUUm94qiZn) | 5:08 |
 | 25 | [Aschenbecher](https://open.spotify.com/track/4wsPwygeXbplj6tsagzHGE) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Aschenbecher](https://open.spotify.com/album/51ktaA0HdiIGNPRODnBEhN) | 2:48 |
-| 26 | [Every You](https://open.spotify.com/track/0gxMVptwBuSC3kragNfCoQ) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Every You](https://open.spotify.com/album/0EHyqAlArvA0g6kVEqMSeo) | 5:14 |
-| 27 | [Die 1](https://open.spotify.com/track/0NRZIkVbmAqXtA7EZIY43b) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Die 1](https://open.spotify.com/album/5LDHZmcUlxn7rBR9xmwcGR) | 1:39 |
+| 26 | [Die 1](https://open.spotify.com/track/0NRZIkVbmAqXtA7EZIY43b) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Die 1](https://open.spotify.com/album/5LDHZmcUlxn7rBR9xmwcGR) | 1:39 |
+| 27 | [Every You](https://open.spotify.com/track/0gxMVptwBuSC3kragNfCoQ) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Every You](https://open.spotify.com/album/0EHyqAlArvA0g6kVEqMSeo) | 5:14 |
 | 28 | [NICHT WIE DU](https://open.spotify.com/track/5GWmHv3zy4hVA8IPZvPsEh) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [NICHT WIE DU](https://open.spotify.com/album/1DppmzLtqjkkf4D7c9SPoR) | 1:58 |
 | 29 | [Nur wenn](https://open.spotify.com/track/28iR0Uen0UwVD5XeDiP0W4) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Nur wenn](https://open.spotify.com/album/25WPxK5pBvSuN5AvClVeWa) | 2:34 |
 | 30 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Keine Phase](https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keine Phase](https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu) | 2:30 |
 | 41 | [Vintage](https://open.spotify.com/track/72oK96eyMnh3DRMXivcuZN) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm) | [Vintage](https://open.spotify.com/album/72wT4Jzqk847duVsMqfluJ) | 2:08 |
 | 42 | [I see all my girls](https://open.spotify.com/track/7nSAxvTZ6MLWmo9tNwhzMQ) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [4 stages of sleep](https://open.spotify.com/album/7L5bocORkONslMh2gG8I1z) | 3:43 |
-| 43 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
-| 44 | [Bibis Beauty Palace](https://open.spotify.com/track/3TtiIluPhmqx8AOcXY5GMN) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW), [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q) | [Bibis Beauty Palace](https://open.spotify.com/album/0oNvl7gA4wuRMpRcI5LzrA) | 2:15 |
+| 43 | [Bibis Beauty Palace](https://open.spotify.com/track/3TtiIluPhmqx8AOcXY5GMN) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW), [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q) | [Bibis Beauty Palace](https://open.spotify.com/album/0oNvl7gA4wuRMpRcI5LzrA) | 2:15 |
+| 44 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
 | 45 | [Keep Talking](https://open.spotify.com/track/44jfB9HKuDpXn8RjzSxh5Y) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Keep Talking](https://open.spotify.com/album/6G6vBapM0ttf4Z8JPgXD2u) | 3:27 |
 | 46 | [Petermännchen](https://open.spotify.com/track/2DHBePFET5uDtgt4OsKW6o) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Petermännchen](https://open.spotify.com/album/7Avqdl8JUHE7etZqSBd1PG) | 3:31 |
 | 47 | [Memphis](https://open.spotify.com/track/5ESCkKKAhKZTTZ0sQ4dk0R) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Everything Got Too Sci\-Fi To Be Disco EP](https://open.spotify.com/album/0JdKdy348b4fYIsQdsnX2V) | 2:27 |

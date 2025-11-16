@@ -2,12 +2,13 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Tito Double P
+> Lo que diga el corazón ❤️💔 Cover: RIA
 
-195 songs - 10 hr 6 min
+197 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [/Desvelaos](https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 2:35 | 2025-11-15 |  |
 | [130](https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/0wbnTjxysM59zeh4z4a5ID) | 3:03 | 2025-07-04 |  |
 | [24 Siempre](https://open.spotify.com/track/1ekkotKjeaFggY13fbciQW) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [24 Siempre](https://open.spotify.com/album/2Li0WiEu76RousoqTYYUmd) | 3:11 | 2025-02-28 | 2025-05-28 |
 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 | 2024-05-03 |  |
@@ -64,7 +65,7 @@
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2024-03-15 |  |
 | [El Malo](https://open.spotify.com/track/6LDB1KY7hbf9r7iiroZzPC) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [El Malo](https://open.spotify.com/album/67U1kwS0PBZnxJclw4TSaZ) | 2:59 | 2025-07-04 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2024-03-15 | 2025-04-26 |
-| [EN ALTAVOZ](https://open.spotify.com/track/0YpYqtnjIWYR516n46of97) | [Cheluis](https://open.spotify.com/artist/08EHv9ysRhyjFxU8woWkRh) | [Por Amores No Lloro](https://open.spotify.com/album/25Du1tvxBaNnYfNLGKGvw6) | 2:57 | 2025-08-08 |  |
+| [EN ALTAVOZ](https://open.spotify.com/track/0YpYqtnjIWYR516n46of97) | [Cheluis](https://open.spotify.com/artist/08EHv9ysRhyjFxU8woWkRh) | [Por Amores No Lloro](https://open.spotify.com/album/25Du1tvxBaNnYfNLGKGvw6) | 2:57 | 2025-08-08 | 2025-11-16 |
 | [En Mi Mente 24/7](https://open.spotify.com/track/0PmEIPY3MNUMyYp2P74msY) | [Emanuel Garcia](https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl) | [En Mi Mente 24/7](https://open.spotify.com/album/4TDAzblMqPwBtkEMbs3dCo) | 3:55 | 2024-04-26 | 2025-07-26 |
 | [Enculado](https://open.spotify.com/track/0z0Q78xToOQuOEFitcDZN9) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Enculado](https://open.spotify.com/album/2ao8roOF5LNIaBfhmp3eYt) | 2:35 | 2024-12-06 | 2025-02-27 |
 | [Esmeralda](https://open.spotify.com/track/1kTO3RqSbuyUI3Hp4TpmZQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Esmeralda](https://open.spotify.com/album/3TOVSh94JKF4tmfE6V5Pb8) | 2:57 | 2025-10-03 |  |
@@ -83,7 +84,7 @@
 | [Hija de Papi](https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Hija de Papi](https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj) | 3:04 | 2025-04-25 |  |
 | [Hoy Ando Soltero](https://open.spotify.com/track/6UNHanGKIUebByDWGWwuSd) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Hoy Ando Soltero](https://open.spotify.com/album/1YNsmGOFPPRoHKtlhdZMbj) | 2:28 | 2024-06-07 | 2025-02-01 |
 | [INDIRECTAS](https://open.spotify.com/track/4QrhVVSIR2tY17lOZhM8CZ) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:10 | 2025-08-15 |  |
-| [Juntos Pa Japón](https://open.spotify.com/track/4vATMg7zYcGhEbumY7p6fL) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Melodías Del Corazón](https://open.spotify.com/album/76rHh9HMyU3tFswjl5Wt7i) | 2:56 | 2025-08-15 |  |
+| [Juntos Pa Japón](https://open.spotify.com/track/4vATMg7zYcGhEbumY7p6fL) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Melodías Del Corazón](https://open.spotify.com/album/76rHh9HMyU3tFswjl5Wt7i) | 2:56 | 2025-08-15 | 2025-11-16 |
 | [La Bebesita](https://open.spotify.com/track/4UAzgCrE77nyGWm2E2XxMq) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD), [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [La Bebesita](https://open.spotify.com/album/1J0rKEarrykyd3N3nnXjXs) | 2:50 | 2024-03-15 | 2024-09-28 |
 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 | 2025-01-17 |  |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-03-15 |  |
@@ -141,6 +142,7 @@
 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2024-03-15 |  |
 | [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 | 2024-07-05 |  |
 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 | 2024-12-13 | 2025-08-09 |
+| [Pagana](https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Pagana](https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0) | 2:57 | 2025-11-15 |  |
 | [Pal Amor Soy Malo \- Remix](https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Pal Amor Soy Malo \(Remix\)](https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF) | 2:36 | 2024-03-15 | 2025-04-26 |
 | [Paris Hilton](https://open.spotify.com/track/3wXNKzyuuSZoGgnuCI2ly3) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [ANTECEDENTE](https://open.spotify.com/album/6h6mQOGWNmT5saFNmJHfyv) | 3:10 | 2025-07-25 |  |
 | [PENSANDO Y PENSANDO](https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [PENSANDO Y PENSANDO](https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO) | 3:26 | 2025-05-30 |  |

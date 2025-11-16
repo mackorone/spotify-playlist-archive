@@ -1,6 +1,6 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 292043,
+  "num_followers": 292083,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 264333,
       "name": "Right Here Waiting",
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 537506,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/53968oKecrFxkErocab2Al"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/6FTFKwFEs3hwpnj68VKXg3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/2vEQ9zBiwbAVXzS2SOxodY"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 537506,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/53968oKecrFxkErocab2Al"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Top Gun Deluxe Edition",
-        "url": "https://open.spotify.com/album/1qdpfcCMXTZOichy2EUYwg"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
-      "url": "https://open.spotify.com/track/1AAEWUVZpew24mP6nC1IU5"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
         "name": "Dirty Dancing",
         "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "Ravishing - The Best Of",
-        "url": "https://open.spotify.com/album/27gu75qpls2w2cY2F4uVgg"
+        "name": "Top Gun Deluxe Edition",
+        "url": "https://open.spotify.com/album/1qdpfcCMXTZOichy2EUYwg"
       },
       "artists": [
         {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
         }
       ],
-      "duration_ms": 270546,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/5p34sF7EskpzTuW3RGy9fs"
+      "duration_ms": 254520,
+      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "url": "https://open.spotify.com/track/1AAEWUVZpew24mP6nC1IU5"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -655,6 +639,22 @@
       "duration_ms": 353106,
       "name": "Always",
       "url": "https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
+        "name": "Ravishing - The Best Of",
+        "url": "https://open.spotify.com/album/27gu75qpls2w2cY2F4uVgg"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/5p34sF7EskpzTuW3RGy9fs"
     },
     {
       "added_at": "2024-02-07 16:26:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres a todo volumen! Daniela Spalla en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,341 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,332 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [No sabes amar](https://open.spotify.com/track/2yhwd5uElvQJaDquJ0Iexv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 4:02 |
 | 50 | [Huir](https://open.spotify.com/track/4F4bjPeMNJDrGK1FJW215W) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Huir](https://open.spotify.com/album/58OJHw3hvgRhaoQHlmGV08) | 2:28 |
 
-Snapshot ID: `AAAAAB4zvAVxYxjgssX+95jjmG11lsp8`
+Snapshot ID: `AAAAAAFDPgzWMLP757Up54e1UwY+1pzq`

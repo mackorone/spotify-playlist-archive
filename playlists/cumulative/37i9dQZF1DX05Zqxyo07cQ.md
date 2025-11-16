@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-869 songs - 1 day 18 hr 0 min
+870 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Contemplation](https://open.spotify.com/track/7J9wquS6KYMs8xStcEYoGr) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Contemplation](https://open.spotify.com/album/2kk849IDiM7iBiDv3KVF35) | 2:56 | 2023-03-23 | 2024-04-06 |
 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 | 2024-07-09 | 2025-03-17 |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2023-03-23 | 2024-01-18 |
-| [Copenhagen Nights](https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Copenhagen Nights](https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB) | 3:00 | 2024-12-17 |  |
+| [Copenhagen Nights](https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Copenhagen Nights](https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB) | 3:00 | 2024-12-17 | 2025-11-16 |
 | [Core Equanimity](https://open.spotify.com/track/3qZBuHYRR9V9PYY1cBjrcX) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Core Equanimity](https://open.spotify.com/album/6b6r1XU6Z0oQGTckm7Stbt) | 2:50 | 2025-02-26 |  |
 | [Corinth](https://open.spotify.com/track/2Wp3KjW9cgpy6Ij1miIfvt) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Corinth](https://open.spotify.com/album/5i6honu4FAEKIvbGYnVjW1) | 2:46 | 2024-05-20 | 2024-11-07 |
 | [Cosmic Balance](https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Cosmic Balance](https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx) | 3:01 | 2024-08-30 | 2025-01-09 |
@@ -598,6 +598,7 @@
 | [Presence](https://open.spotify.com/track/7a4gDM13MJvGcxkfDqbzIw) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Presence](https://open.spotify.com/album/6uOJ38UQCPi167LHTWirvX) | 3:31 | 2025-06-25 |  |
 | [Primrose](https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV) | [Joan Magana](https://open.spotify.com/artist/0WZH1ZpG77XFRS44A8lL5R) | [Primrose](https://open.spotify.com/album/2T22dTQnkNLOFlfsqv8kd4) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Prismatic](https://open.spotify.com/track/4CzH17y6ZqsfL44KIcBPQY) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Prismatic](https://open.spotify.com/album/1HxZqb63mQDqGPnPADJ8Us) | 2:51 | 2025-02-26 |  |
+| [Profusion of Dreams](https://open.spotify.com/track/1UGc72on1Mg4R7wf7Cnetg) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [Profusion of Dreams](https://open.spotify.com/album/6cZalJG7mYR8bkzWJPf6Bn) | 2:21 | 2025-11-12 |  |
 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-07-14 | 2024-07-10 |
 | [Pure Devotion](https://open.spotify.com/track/5A1olsOXK5e86FYqxvnhAx) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Pure Devotion](https://open.spotify.com/album/5kneDPDEV2cJ3AxJmuYt3g) | 3:02 | 2023-11-10 | 2024-05-23 |
 | [Purifier](https://open.spotify.com/track/082BqGRgmiWuoUYwuxbHZ1) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Purifier](https://open.spotify.com/album/0ujT7NgBnnsbHxuuChE0Ts) | 3:45 | 2024-10-14 | 2025-04-09 |

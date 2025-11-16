@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m do que se veste, \u00e9 vc e sua aura. Foto: Senndy",
-  "num_followers": 148452,
+  "num_followers": 148456,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/LAgssuRm27oFlBFbXrz4mH1ph",
+  "snapshot_id": "AAAAAPTRK9LhRhWiK8XATxV+BkfvHM1U",
   "tracks": [
     {
       "added_at": "2025-11-07 03:01:18",
@@ -515,6 +515,26 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2025-11-07 03:01:18",
@@ -719,30 +719,6 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "JECI",
-          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Foco",
-      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
         "name": "O Jogo Virou",
         "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
@@ -763,30 +739,26 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
-        "name": "CHTC?",
-        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
       "artists": [
         {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "JECI",
+          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
         },
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 160000,
-      "name": "OURO BRANCO",
-      "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
+      "duration_ms": 200000,
+      "name": "Foco",
+      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
     },
     {
       "added_at": "2025-11-07 03:01:18",
@@ -819,6 +791,34 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "OURO BRANCO",
+      "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-11-07 03:01:18",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/48dljowJi0iaP7zBkGpnEk"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Aruanda",
-      "url": "https://open.spotify.com/track/6A8MA3Quif1pQKPwHs56jm"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
@@ -891,6 +871,50 @@
       "duration_ms": 140338,
       "name": "Pr\u00f3ximo Passo",
       "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/48dljowJi0iaP7zBkGpnEk"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Aruanda",
+      "url": "https://open.spotify.com/track/6A8MA3Quif1pQKPwHs56jm"
+    },
+    {
+      "added_at": "2025-11-07 03:01:18",
+      "album": {
+        "name": "\u00c9 Que os Menino \u00c9 Bom",
+        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Soud",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "\u00c9 Que os Menino \u00c9 Bom",
+      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
     },
     {
       "added_at": "2025-11-07 03:01:18",
@@ -927,30 +951,6 @@
       "duration_ms": 188120,
       "name": "PROIBIDO BRANCO",
       "url": "https://open.spotify.com/track/1y5ZIXW3YfauhIEWNSY5WB"
-    },
-    {
-      "added_at": "2025-11-07 03:01:18",
-      "album": {
-        "name": "\u00c9 Que os Menino \u00c9 Bom",
-        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
-      },
-      "artists": [
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Soud",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "\u00c9 Que os Menino \u00c9 Bom",
-      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
     },
     {
       "added_at": "2025-11-07 03:01:18",

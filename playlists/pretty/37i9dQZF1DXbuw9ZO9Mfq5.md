@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 56th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show on Fri., Oct\. 10th at 7:30 & 10 pm ET on <a href="https://www.tbn.org/2025doveawards">TBN</a> & the TBN+ app\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,688 likes - 135 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,693 likes - 135 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 16 | [Get Behind Me](https://open.spotify.com/track/1YB5yZSciFB2PNoML0ZOhr) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [Get Behind Me](https://open.spotify.com/album/2dztwnANbx13xfrRC6vDe8) | 3:45 |
 | 17 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
 | 18 | [RIP](https://open.spotify.com/track/2Pm8TZElIPj3AVhfO9vkUu) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [RIP](https://open.spotify.com/album/4VFXo0Lnix3Tgy1M7xlPLY) | 2:49 |
-| 19 | [sunset silhouette](https://open.spotify.com/track/5aBhoxCIkOb1odJhyWOM6v) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [sunset silhouette](https://open.spotify.com/album/30pqnGG5np9LgBTKoOcNg7) | 2:56 |
+| 19 | [sunset silhouette](https://open.spotify.com/track/5aBhoxCIkOb1odJhyWOM6v) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [sunset silhouette](https://open.spotify.com/album/30pqnGG5np9LgBTKoOcNg7) | 2:56 |
 | 20 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
 | 21 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
 | 22 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 78 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 |
 | 79 | [SBTN \(feat\. Kirk Franklin\)](https://open.spotify.com/track/5MsaHCrNAwmD0tmkMukqJk) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [SORRY, I CHANGED](https://open.spotify.com/album/2Sc59LMto9B7P3gGRzqTkv) | 3:14 |
 | 80 | [didn't cry](https://open.spotify.com/track/3eL4TDorJUiwb7F78vDiM7) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [the people we became](https://open.spotify.com/album/1NuQiiqZzBM60N8KMiFUhE) | 2:52 |
-| 81 | [honeydew \(praise the Lord\)](https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [honeydew \(praise the Lord\)](https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz) | 3:44 |
+| 81 | [honeydew \(praise the Lord\)](https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [honeydew \(praise the Lord\)](https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz) | 3:44 |
 | 82 | [Jungle In The City](https://open.spotify.com/track/6K2VbT2Y2lOhw7ta1tu22x) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/33fn8ak1dNJFTZvQmWn05f) | 2:55 |
 | 83 | [Morning glory, don't you worry.](https://open.spotify.com/track/3CRekcyZ1AxD0NGvmAvWos) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Living is proof.](https://open.spotify.com/album/2QxadJqq23PW6kuVAY0S7k) | 4:13 |
 | 84 | [Revolution](https://open.spotify.com/track/0CLfwyQXIF4e9dZAzCHsol) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:05 |

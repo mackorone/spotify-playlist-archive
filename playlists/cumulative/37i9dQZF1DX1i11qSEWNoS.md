@@ -4,7 +4,7 @@
 
 > und macht laune
 
-323 songs - 15 hr 0 min
+324 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-07-21 | 2024-10-06 |
 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 | 2024-04-11 | 2025-06-27 |
 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 | 2023-07-21 | 2024-05-15 |
+| [APRES SKI](https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [APRES SKI](https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3) | 2:42 | 2025-11-14 |  |
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-08-22 |  |
 | [Aspirin](https://open.spotify.com/track/69AbPl1W9V24hO9TcFgcMI) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Aspirin](https://open.spotify.com/album/2wyRhdZeCn7dCWJU5flkzx) | 2:42 | 2024-09-02 | 2024-10-23 |
 | [Atlantis \- Edit](https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg) | [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Atlantis \(Edit\)](https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM) | 2:26 | 2025-09-18 |  |
@@ -136,7 +137,7 @@
 | [Heart Sped Up \(BFF\)](https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Heart Sped Up \(BFF\)](https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz) | 1:56 | 2024-06-11 | 2024-07-02 |
 | [Helele](https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU) | [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Helele](https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de) | 2:10 | 2025-06-26 | 2025-08-19 |
 | [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-07-21 | 2024-10-11 |
-| [HERZ MACHT BAMM](https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [HERZ MACHT BAMM](https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11) | 2:44 | 2024-02-09 |  |
+| [HERZ MACHT BAMM](https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [HERZ MACHT BAMM](https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11) | 2:44 | 2024-02-09 | 2025-11-16 |
 | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt) | 2:40 | 2025-01-16 |  |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-07-21 |  |
 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 | 2024-01-05 | 2024-03-29 |

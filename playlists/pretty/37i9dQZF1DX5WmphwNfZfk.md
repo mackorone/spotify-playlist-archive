@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Robert Robert
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,116 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,112 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [You Know I Tried](https://open.spotify.com/track/4Ujh6guiAH6kTFFtlxtyd3) | [Jt5k](https://open.spotify.com/artist/489bascphvFqA0IvtYhc3y) | [Lucky Me](https://open.spotify.com/album/472e0hxko0E4kcX3pJsF8g) | 2:43 |
 | 40 | [Déjà trop loin](https://open.spotify.com/track/6PzE9gPiJo5tqcD599IBDa) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Déjà trop loin](https://open.spotify.com/album/798eCVlIUWmB0sWCJEELin) | 4:28 |
 
-Snapshot ID: `AAAAALUiWaBs3vIvOe/Wg8rgdJUAOpd9`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

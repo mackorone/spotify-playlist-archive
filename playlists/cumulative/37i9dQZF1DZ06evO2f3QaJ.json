@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 187413,
       "name": "Apoteose",
       "url": "https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 217120,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 248213,
       "name": "SALVE",
       "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 193881,
       "name": "Se A Rua Fosse Minha",
       "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
@@ -1790,10 +1790,32 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 240000,
       "name": "Sex Tape",
       "url": "https://open.spotify.com/track/30jS03B59bVieShQSx4qIN"
+    },
+    {
+      "album": {
+        "name": "Joias Brutas",
+        "url": "https://open.spotify.com/album/2KBi2GtauWptbvS35YnDDP"
+      },
+      "artists": [
+        {
+          "name": "B.art",
+          "url": "https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140688,
+      "name": "Shelly - Ann Fraser-Pryce",
+      "url": "https://open.spotify.com/track/7cQptdaLABPLKlTsCXtfga"
     },
     {
       "album": {

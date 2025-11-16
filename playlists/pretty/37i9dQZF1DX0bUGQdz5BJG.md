@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Cooper Alan
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,352 likes - 224 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,448 likes - 224 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: James Reid
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,536 likes - 169 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,603 likes - 169 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

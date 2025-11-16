@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 
 > Our favorite subject? Their chemistry\. Listen to the music from Seasons 1 & 2 of Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,556 likes - 69 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,305 likes - 69 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

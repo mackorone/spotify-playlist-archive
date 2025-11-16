@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200243,
+      "name": "Lonely (with Shaboozey)",
+      "url": "https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM"
       },

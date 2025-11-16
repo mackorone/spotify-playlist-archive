@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-826 songs - 1 day 18 hr 44 min
+827 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-07 | 2025-11-07 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-08-10 |
 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 | 2024-07-25 | 2024-11-08 |
-| [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-04 |  |
+| [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-04 | 2025-11-16 |
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-09 | 2024-10-11 |
 | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/track/025bOa1Ebil8W8NmqWVHgT) | [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/album/324wDlxoAQzh07mctH708A) | 2:53 | 2025-11-13 |  |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-03-23 |
@@ -653,6 +653,7 @@
 | [Somewhere Only We Go](https://open.spotify.com/track/4EPeUXo9vWGnQHOZRUF2bx) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Somewhere Only We Go](https://open.spotify.com/album/4MQPQX8TWAMu1gjWwNkY7o) | 2:59 | 2025-07-31 | 2025-08-15 |
 | [sommeren 21](https://open.spotify.com/track/6rejvAyHTeBciF2LBlSWcv) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [I DAG, I MORGEN, 4 EVIGT](https://open.spotify.com/album/3cJdloIAE28uh9R4uLgwiV) | 2:47 | 2025-05-29 | 2025-07-18 |
 | [Sommertid](https://open.spotify.com/track/4DNXdRThUaTSGblEZNdGFn) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [Sommertid](https://open.spotify.com/album/2tm538G1L9QDH4UMcVl3mM) | 3:31 | 2025-09-18 | 2025-10-10 |
+| [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 | 2025-11-13 |  |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 | 2025-05-30 |
 | [Sortedam](https://open.spotify.com/track/3KKfy9c7s81AOoXbqd1obP) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Sortedam](https://open.spotify.com/album/1XJYMVpTiA0OrK7mgBsAnv) | 4:02 | 2024-10-24 | 2024-11-01 |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-09-05 | 2024-10-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 83169,
+  "num_followers": 83167,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Here I Am To Worship",
+        "url": "https://open.spotify.com/album/74ObUKF38uL86v2uAnSy1f"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "Here I Am To Worship",
+      "url": "https://open.spotify.com/track/0au5u99zsQ6yunHfywDX8a"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "From The Inside Out",
         "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Here I Am To Worship",
-        "url": "https://open.spotify.com/album/74ObUKF38uL86v2uAnSy1f"
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
       "artists": [
         {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 315306,
-      "name": "Here I Am To Worship",
-      "url": "https://open.spotify.com/track/0au5u99zsQ6yunHfywDX8a"
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Love Has A Name (Studio Version)",
-        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 263878,
-      "name": "Love Has A Name - Studio Version",
-      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 201401,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Love Has A Name (Studio Version)",
+        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 263878,
+      "name": "Love Has A Name - Studio Version",
+      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 376256,
+      "name": "Mighty Cross",
+      "url": "https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 427706,
       "name": "The Wonderful Cross",
       "url": "https://open.spotify.com/track/784qUrovUUH4jYQ811D6hF"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 376253,
-      "name": "Mighty Cross",
-      "url": "https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Valley of the Shadow",
-        "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 256127,
-      "name": "Glory & Grace",
-      "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Call on Your Name",
         "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 292953,
       "name": "Speak the Name (feat. Natalie Grant)",
       "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Valley of the Shadow",
+        "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 256127,
+      "name": "Glory & Grace",
+      "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Hallelujah For The Cross",
         "url": "https://open.spotify.com/album/4lEgT0xxX67pJMBg8h5iRh"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 224520,
       "name": "Hallelujah For The Cross",
       "url": "https://open.spotify.com/track/6TVUJKNnDfvPM6jtXWMcrO"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "BEGINNINGS - 2 CD Set",
-        "url": "https://open.spotify.com/album/6b5XytCLYrxIjlxTQgcoz7"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/6tHwEfq4JpewxJbxXhuMZb"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 283746,
       "name": "Champion",
       "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "BEGINNINGS - 2 CD Set",
+        "url": "https://open.spotify.com/album/6b5XytCLYrxIjlxTQgcoz7"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/6tHwEfq4JpewxJbxXhuMZb"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2275,22 +2275,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Yes He Lives",
-        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
       "artists": [
         {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 285773,
-      "name": "Yes He Lives - Live",
-      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
+      "duration_ms": 294000,
+      "name": "Beauty For Ashes - Live",
+      "url": "https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2311,18 +2307,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+        "name": "Yes He Lives",
+        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Beauty For Ashes - Live",
-      "url": "https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF"
+      "duration_ms": 285773,
+      "name": "Yes He Lives - Live",
+      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2371,6 +2371,22 @@
       "duration_ms": 209687,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
+        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
+      },
+      "artists": [
+        {
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "He Is Risen",
+      "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2443,22 +2459,6 @@
       "duration_ms": 364600,
       "name": "Light to You",
       "url": "https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
-        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
-      },
-      "artists": [
-        {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "He Is Risen",
-      "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2563,8 +2563,8 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
         {
@@ -2572,29 +2572,25 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Look At What The Blood Has Done (Live)",
-        "url": "https://open.spotify.com/album/7zCjHQRVh97TQZFeD3yS0U"
+        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
+        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
       },
       "artists": [
         {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
         }
       ],
-      "duration_ms": 350857,
-      "name": "Look At What The Blood Has Done - Live",
-      "url": "https://open.spotify.com/track/7i2ELDMeAw0I3HtFYbUmws"
+      "duration_ms": 249000,
+      "name": "The Passover Song (feat. Sean Carter)",
+      "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
     }
   ],
   "unique_name": "Easter",

@@ -1,33 +1,13 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 177163,
+  "num_followers": 177173,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACT9KV4w8ZzFdwu/AGJySKv",
+  "snapshot_id": "aRZxAAAAAABbcPkUVJt9937QIR1a0diU",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 180081,
-      "name": "Sugar (feat JoJo)",
-      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
-    },
     {
       "added_at": null,
       "album": {
@@ -226,11 +206,15 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
+      "duration_ms": 180081,
+      "name": "Sugar (feat JoJo)",
+      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
     },
     {
       "added_at": null,
@@ -247,6 +231,22 @@
       "duration_ms": 201075,
       "name": "Backseat Serenade",
       "url": "https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Damned If I Do Ya (Damned If I Don't)",
+      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Damned If I Do Ya (Damned If I Don't)",
-      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everyone's Talking!",
         "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
       },
@@ -296,9 +280,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk"
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/6LElFVShkmWQRVNBfj9Zsw"
     },
     {
       "added_at": null,
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 177206,
-      "name": "Viva Las Vagus Nerve",
-      "url": "https://open.spotify.com/track/3CiSGl5nsSBxEY6SqZVvBQ"
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk"
     },
     {
       "added_at": null,
@@ -424,9 +408,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 151056,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/7iWKIvsPmDBFSbThJJc9nY"
+      "duration_ms": 177206,
+      "name": "Viva Las Vagus Nerve",
+      "url": "https://open.spotify.com/track/3CiSGl5nsSBxEY6SqZVvBQ"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 199405,
       "name": "If These Sheets Were States",
       "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Drugs & Candy",
+      "url": "https://open.spotify.com/track/1isQMKYmpvJ4tOP8R2qkWr"
     }
   ],
   "unique_name": "This Is All Time Low",

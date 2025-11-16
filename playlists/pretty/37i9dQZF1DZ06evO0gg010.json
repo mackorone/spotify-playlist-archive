@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 723457,
+  "num_followers": 724043,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAABwEi385I4Z9yNHlFDV2RdJ",
+  "snapshot_id": "aRZxAAAAAACpCTFhWxe70ZhRoELkX68v",
   "tracks": [
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA M\u00cdA",
-        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 169020,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LO QUE ME FALTA POR LLORAR",
         "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 205044,
       "name": "tu favorito",
       "url": "https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 169020,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
     },
     {
       "added_at": null,

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155518,
+      "name": "/Desvelaos",
+      "url": "https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk"
+    },
+    {
+      "album": {
         "name": "0 Atenci\u00f3n",
         "url": "https://open.spotify.com/album/4MLsRABVzkXaQxnksJ0wtx"
       },

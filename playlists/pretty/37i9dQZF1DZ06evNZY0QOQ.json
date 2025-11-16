@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23359,
+  "num_followers": 23368,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAAX6h09HgkHr/9Fh3oojtyP",
+  "snapshot_id": "aRZxAAAAAABS530hZh2H1kJQho+uUO/d",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 170721,
       "name": "WAHALA (feat. Olamide)",
       "url": "https://open.spotify.com/track/0bkq8SCKDRY1RBFKIADCQK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Kiss Me Like You Miss Me",
-      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 200869,
       "name": "Shakara",
       "url": "https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Kiss Me Like You Miss Me",
+      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 122346,
-      "name": "Show My Side (feat. Amaarae)",
-      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 188920,
       "name": "Anya Mmiri",
       "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 122346,
+      "name": "Show My Side (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "capture my soul (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4U (feat. CKay, Leo Rizzi)",
         "url": "https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 225321,
       "name": "4U (feat. CKay, Leo Rizzi)",
       "url": "https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "capture my soul (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
-      },
-      "artists": [
-        {
-          "name": "Silly Walks Discotheque",
-          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 Days (feat. CKay)",
         "url": "https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 186586,
       "name": "40 Days (feat. CKay)",
       "url": "https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
+      },
+      "artists": [
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
     },
     {
       "added_at": null,

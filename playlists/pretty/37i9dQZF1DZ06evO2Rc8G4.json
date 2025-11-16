@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169798,
+  "num_followers": 169805,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAAnVqT5tGhJD8ObsFNIKMvG",
+  "snapshot_id": "aRZxAAAAAAARASIBjLXyHVit4v0PjKbj",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "last night i dreamt i fell in love",
+        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 168599,
-      "name": "Stateside + Kylie Minogue",
-      "url": "https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY"
+      "duration_ms": 126923,
+      "name": "last night i dreamt i fell in love",
+      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
     },
     {
       "added_at": null,
@@ -115,22 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "last night i dreamt i fell in love",
-        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 126923,
-      "name": "last night i dreamt i fell in love",
-      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
+      "duration_ms": 168599,
+      "name": "Stateside + Kylie Minogue",
+      "url": "https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY"
     },
     {
       "added_at": null,
@@ -619,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Oh My (with Bebe Rexha & Tove Lo)",
         "url": "https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 181146,
       "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr"
     },
     {
       "added_at": null,

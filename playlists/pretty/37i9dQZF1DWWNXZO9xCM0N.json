@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 113287,
+  "num_followers": 113348,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves",
         "url": "https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 252066,
       "name": "Se\u00f1ora Ley",
       "url": "https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 304200,
-      "name": "Oh Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK"
     },
     {
       "added_at": "2024-06-24 22:23:31",

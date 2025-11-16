@@ -4,11 +4,12 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Eddy & Ed maverick en portada.
 
-541 songs - 1 day 5 hr 54 min
+542 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$AD BOYZ II](https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:28 | 2023-10-06 | 2024-01-27 |
+| [/Desvelaos](https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 2:35 | 2025-11-15 |  |
 | [0 Sentimientos](https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [0 Sentimientos](https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi) | 3:15 | 2024-05-03 | 2025-05-10 |
 | [100 Botellas](https://open.spotify.com/track/2yPQZiZQzblKK6GE8GrhE1) | [Efecto SR](https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs), [Fernando Saldivar](https://open.spotify.com/artist/5bRkzZyF2rbxjeH3SHn1eE) | [100 Botellas](https://open.spotify.com/album/308A9mps64SbuVVNXvmY8k) | 3:03 | 2025-03-14 | 2025-05-17 |
 | [100 Millas \(En Vivo\)](https://open.spotify.com/track/6EcLxxKgtYaTcrHwCw8fcd) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [100 Millas \(En Vivo\)](https://open.spotify.com/album/003vc3E77TtvcjWX6oVa8F) | 3:38 | 2023-10-27 | 2023-12-02 |
@@ -348,7 +349,7 @@
 | [Pienso en Ella](https://open.spotify.com/track/79fkYjEJlscHdgAtYWYfUO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 | 2025-01-10 | 2025-09-13 |
 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 | 2024-04-26 | 2024-05-18 |
 | [PINK](https://open.spotify.com/track/5zBI5TXKUCK9LSBY5Fou2G) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD \(Deluxe Version\)](https://open.spotify.com/album/61dJopYwZvwNuEIu3My9U7) | 3:39 | 2025-09-12 |  |
-| [Pinocho](https://open.spotify.com/track/3whHvmhppYmagbXRBuF74K) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pinocho](https://open.spotify.com/album/53o4r6EISOG1LZsg5KVpey) | 3:00 | 2025-10-03 |  |
+| [Pinocho](https://open.spotify.com/track/3whHvmhppYmagbXRBuF74K) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pinocho](https://open.spotify.com/album/53o4r6EISOG1LZsg5KVpey) | 3:00 | 2025-10-03 | 2025-11-16 |
 | [Pistie Tu Recuerdo](https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [DEL Records Presenta: Por Causa DEL Amor](https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9) | 3:09 | 2023-01-13 | 2023-04-15 |
 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 | 2025-09-05 |  |
 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 | 2025-01-10 | 2025-10-04 |

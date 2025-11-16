@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,048 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,054 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 14 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
 | 15 | [MAN ABOVE](https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [MAN ABOVE](https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo) | 3:08 |
 | 16 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
-| 17 | [Make Us Ready](https://open.spotify.com/track/0rvcVTWEzYXoQmCeqMyzwg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Make Us Ready](https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN) | 4:21 |
+| 17 | [Fight Of My Life](https://open.spotify.com/track/6lifMzePK6K5c5AnfvGMVt) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fight Of My LIfe](https://open.spotify.com/album/4Dz2LjpgWN5CnGBPAC0Dxp) | 2:58 |
 | 18 | [Fork in the Road](https://open.spotify.com/track/0dgbQ7OVTpIzCNMf9BxAQ9) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Fork in the Road \(ft\. Trella\)](https://open.spotify.com/album/1HZbGKCMrnZi1V0EQ5NiJg) | 3:27 |
 | 19 | [stuck in these clouds](https://open.spotify.com/track/4GbQJWf4dMDgAvTAPft96X) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [stuck in these clouds](https://open.spotify.com/album/3837grpUl9bPxIzU9IRixe) | 3:33 |
 | 20 | [Black Sheep](https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Black Sheep](https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI) | 3:53 |
-| 21 | [Fight Of My Life](https://open.spotify.com/track/6lifMzePK6K5c5AnfvGMVt) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fight Of My LIfe](https://open.spotify.com/album/4Dz2LjpgWN5CnGBPAC0Dxp) | 2:58 |
+| 21 | [Make Us Ready](https://open.spotify.com/track/0rvcVTWEzYXoQmCeqMyzwg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Make Us Ready](https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN) | 4:21 |
 | 22 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 |
 | 23 | [Static & Lightning](https://open.spotify.com/track/24jzOjaBMBtA8XjPquxztK) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Static & Lightning](https://open.spotify.com/album/68QtjJsCt8NF4dntVq5Cr5) | 3:22 |
 | 24 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 43 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
 | 44 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 |
 | 45 | [It Is Well](https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [It Is Well](https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY) | 3:20 |
-| 46 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
-| 47 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
+| 46 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
+| 47 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 48 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/2Gdc4bTh7MYkPQGXbMeyzr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/1m93X8VpURTvUomirYDWQT) | 4:20 |
 | 49 | [Jar Of Clay](https://open.spotify.com/track/3Ha8rp9jG6GRg3wHR34SLv) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Jar Of Clay](https://open.spotify.com/album/5sblqeZn9ghEosSqTEgPbn) | 3:08 |
 | 50 | [In The Ether](https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Revival In My Mind](https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz) | 4:41 |

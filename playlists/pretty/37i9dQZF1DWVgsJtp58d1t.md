@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Featuring our Frequency Zine cover star <a href="https://www.instagram.com/hangrammm/?hl=en">Hannah Jadagu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,650 likes - 160 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,699 likes - 160 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

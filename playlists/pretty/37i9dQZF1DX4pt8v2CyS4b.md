@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Inspiring the explorer in everyone\. Cover: Secrets of the Penguins, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,772 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,773 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 | 63 | [L.A\. Coast](https://open.spotify.com/track/4v86zin4NZ8ZvgGdm1tdel) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [America the Beautiful \(Original Soundtrack\)](https://open.spotify.com/album/3OuNMUn7WiZLlkxdMX8tET) | 4:01 |
 | 64 | [Perfect Life](https://open.spotify.com/track/6aDerNa8GOuJGIqa13gdmg) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 3:43 |
 | 65 | [Orca Dynasty](https://open.spotify.com/track/7hMI8rxSBeUi3R6lWhna9U) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Music from Secrets of the Whales \(Original Soundtrack\)](https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi) | 2:10 |
-| 66 | [A New Generation](https://open.spotify.com/track/0DcsIiTE6l7PqI4DVA1oCe) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 4:11 |
+| 66 | [A New Generation](https://open.spotify.com/track/0DcsIiTE6l7PqI4DVA1oCe) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 4:13 |
 | 67 | [Bulls Built Different](https://open.spotify.com/track/6i59Uwwlsu8dwippavNLOx) | [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Secrets of the Elephants \(Original Series Soundtrack\)](https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe) | 1:42 |
 | 68 | [Coda \(Then Everything Changed\)](https://open.spotify.com/track/77ioL0510r3qGHiDgHUky4) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Wild Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746) | 1:51 |
 | 69 | [Hope](https://open.spotify.com/track/46Oi6cAgJztjH3JL9iOJ6O) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Music from Secrets of the Whales \(Original Soundtrack\)](https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi) | 6:26 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 | 71 | [Our Mountain](https://open.spotify.com/track/5JuAq0ECVpUiXYs6cU8gFl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Wild Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746) | 2:19 |
 | 72 | [Titles \- LA 92 \(Original Soundtrack Album\)](https://open.spotify.com/track/7C2Y6UiQG8fttWPoCldYHM) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [LA 92 \(Original Soundtrack Album\)](https://open.spotify.com/album/2o8yuykY3WBWSlNRkGvSIu) | 2:30 |
 | 73 | [Pedagogic](https://open.spotify.com/track/3tXLYJhJktVZpwxKAK2gi2) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC) | [Fire of Love \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW) | 1:39 |
-| 74 | [In the Shadow of Man](https://open.spotify.com/track/0EQGC3MA6bn3z8Cpv3JkIt) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 4:16 |
+| 74 | [In the Shadow of Man](https://open.spotify.com/track/0EQGC3MA6bn3z8Cpv3JkIt) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 4:17 |
 | 75 | [OSR I \- I](https://open.spotify.com/track/13qZ7N4ODXqGRsDf5Oo8tu) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [One Strange Rock \(Original Series Soundtrack\)](https://open.spotify.com/album/4dZsbLj46oJBifrProWgG6) | 3:54 |
 | 76 | [The Hostile Planet](https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hostile Planet: Volume 1 \(Original Series Score\)](https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ) | 2:07 |
 

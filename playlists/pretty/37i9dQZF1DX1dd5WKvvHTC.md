@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFOGG1E7V1oRH">Jo Caleb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,614 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,650 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 48 | [Thank God For You](https://open.spotify.com/track/4C6LtqXveqZ9e2cntTQpQt) | [Whitney Fenimore](https://open.spotify.com/artist/2ogLypw6jK0NuOXpXR6Dh2) | [State of Being](https://open.spotify.com/album/440WsyKlnkJusStyKs6zTL) | 3:07 |
 | 49 | [Wicker Woman](https://open.spotify.com/track/5EO8mH7VwkWtIef5bDSyHe) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Wicker Woman](https://open.spotify.com/album/01SNbWsDFrn2xqMcRN0VNP) | 3:16 |
 
-Snapshot ID: `AAAAAAQV7l45Zw3aT9B+JfOJRNUD/JF2`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

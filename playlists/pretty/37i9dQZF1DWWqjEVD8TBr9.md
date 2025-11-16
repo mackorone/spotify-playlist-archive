@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,149 likes - 250 songs - 13 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,777,202 likes - 250 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 157 | [Waiting For Us \(Bang Chan, Lee Know, Seungmin, I.N\)](https://open.spotify.com/track/4zrj0FVWhDKNGTw818O026) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:39 |
 | 158 | [Muddy Water \(Changbin, Hyunjin, HAN, Felix\)](https://open.spotify.com/track/64naasHUvHELX6sIP4Ckme) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:17 |
 | 159 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Mirror Mirror](https://open.spotify.com/album/3R5wfZr723i5qfyPCAuUnS) | 3:52 |
-| 160 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 |
+| 160 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/5RtVyvmiydSP1mbLoaO1in) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 |
 | 161 | [Scars \- Korean](https://open.spotify.com/track/3gwPPXwBaGHdbEShxfQfC6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:19 |
 | 162 | [Awaken](https://open.spotify.com/track/6JcOCiL2Qlfv4aKYyg2ihk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:13 |
 | 163 | [ROCK](https://open.spotify.com/track/6w7dwWYHdrWEDmT3lBwVQB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:13 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 249 | [Sunshine](https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:42 |
 | 250 | [STOP](https://open.spotify.com/track/5rqvgt4X1q8M6PYDQm7PCg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:09 |
 
-Snapshot ID: `AAAAAC12jXDdJckmQQVauAxxChI37299`
+Snapshot ID: `AAAAAEhIV/wvhS9CyQ2U4fZ8VC6Dki3K`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,579 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,611 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Don't Start \(Too Late\) \(2009 Remaster\)](https://open.spotify.com/track/1Vb3gPjEpJ6eOPL7Mjs4Ka) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 0:49 |
 | 50 | [Under the Sun \- 2009 Remaster](https://open.spotify.com/track/3Ot5N9GGKyybaylaNUmESl) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 5:53 |
 
-Snapshot ID: `aRUfgAAAAACA9HV+TPflGvui63n+2t1d`
+Snapshot ID: `aRZxAAAAAACv+/C4sDfo8+Z/YqH9hnsC`

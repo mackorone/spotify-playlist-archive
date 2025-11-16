@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "CHRISTMAS MORNING",
+        "url": "https://open.spotify.com/album/1e6yUvVixHZisjzEuJamSe"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130496,
+      "name": "CHRISTMAS MORNING",
+      "url": "https://open.spotify.com/track/2EexyQTsG7IyJIvXkjeozV"
+    },
+    {
+      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },

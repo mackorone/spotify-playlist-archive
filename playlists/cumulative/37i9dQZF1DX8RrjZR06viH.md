@@ -4,7 +4,7 @@
 
 > Høsten er her! 🍂
 
-278 songs - 14 hr 28 min
+280 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/track/4KcaUU9ZjQJK6bJsURDisB) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/album/1CT2uUKc93QF0Ymj5cP5Y4) | 3:17 | 2025-04-10 | 2025-06-13 |
 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 | 2025-01-30 |  |
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
-| [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 |  |
+| [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 | 2025-11-16 |
 | [Eli](https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Eli](https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w) | 3:25 | 2025-03-27 |  |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 |  |
 | [eu te amo bebê](https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [eu te amo bebê](https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH) | 1:46 | 2025-04-24 |  |
@@ -71,6 +71,7 @@
 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 | 2024-10-03 |  |
 | [Faster](https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Woods](https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN) | 3:27 | 2025-03-06 | 2025-03-30 |
 | [fear of looking stupid](https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q) | [tiri](https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ) | [fear of looking stupid](https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv) | 2:44 | 2025-10-09 |  |
+| [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Feelings You Don't Say Out Loud](https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP) | 2:54 | 2025-11-13 |  |
 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 | 2024-06-27 |  |
 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 | 2025-03-13 | 2025-07-19 |
 | [Fineste Dama På Utestedet](https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Fineste Dama På Utestedet](https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV) | 2:44 | 2025-06-26 | 2025-09-19 |
@@ -181,13 +182,14 @@
 | [Miste huet](https://open.spotify.com/track/2se3rw5jBytcnk2xDCW2Jb) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU), [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Miste huet](https://open.spotify.com/album/3XKZriJLIHInSAQQEW5Ut1) | 2:57 | 2025-07-17 |  |
 | [Modern Romance](https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT) | 3:34 | 2025-04-17 | 2025-06-13 |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 | 2025-05-03 |
-| [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 |  |
+| [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 | 2025-11-16 |
 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 | 2024-06-27 | 2024-08-30 |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2025-03-26 |
 | [Nanana](https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nanana](https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL) | 2:26 | 2025-02-06 | 2025-04-18 |
 | [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2024-06-27 | 2024-10-31 |
 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 | 2025-01-09 | 2025-08-06 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 | 2025-07-18 |
+| [No One Knows You Better](https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [No One Knows You Better](https://open.spotify.com/album/4Hzx9Y7qPmAQhcvUpuBWRT) | 3:34 | 2025-11-13 |  |
 | [Noen som forstår](https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g) | 3:15 | 2024-06-27 | 2025-05-03 |
 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 | 2024-08-01 | 2024-10-28 |
 | [Number and a Street](https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v) | 3:14 | 2024-09-12 | 2024-10-17 |

@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: The Deep)",
-  "num_followers": 32016,
+  "num_followers": 32036,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHaG799RktEnjMWHdxzhCC4enoIj",
+  "snapshot_id": "AAAAAGWxsM/XYviZUhjdMh/RGcjt7+PF",
   "tracks": [
     {
       "added_at": "2025-11-06 05:54:09",
@@ -611,8 +611,8 @@
     {
       "added_at": "2025-11-06 05:54:09",
       "album": {
-        "name": "Rich Man (Remixes)",
-        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
       },
       "artists": [
         {
@@ -620,37 +620,13 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 190370,
-      "name": "Rich Man - Yellow Claw Remix",
-      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
-    },
-    {
-      "added_at": "2025-11-06 05:54:09",
-      "album": {
-        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
-        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
-      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
+      "duration_ms": 225000,
+      "name": "Whiplash (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
     },
     {
       "added_at": "2025-11-06 05:54:09",
@@ -675,6 +651,30 @@
       "duration_ms": 139441,
       "name": "Do It Like That (Alan Walker Remix)",
       "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
+    },
+    {
+      "added_at": "2025-11-06 05:54:09",
+      "album": {
+        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
+      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
     },
     {
       "added_at": "2025-11-06 05:54:09",
@@ -723,8 +723,8 @@
     {
       "added_at": "2025-11-06 05:54:09",
       "album": {
-        "name": "Whiplash (English Version)",
-        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+        "name": "Rich Man (Remixes)",
+        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
       },
       "artists": [
         {
@@ -732,13 +732,13 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Whiplash (Steve Aoki Remix)",
-      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
+      "duration_ms": 190370,
+      "name": "Rich Man - Yellow Claw Remix",
+      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
     },
     {
       "added_at": "2025-11-06 05:54:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-11-06 05:54:09",
       "album": {
-        "name": "silkysmooth 03",
-        "url": "https://open.spotify.com/album/1itk8bs4vByhAvS5PSTpqA"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 195531,
-      "name": "IFall",
-      "url": "https://open.spotify.com/track/6PxIy5w30O0noEkOs4BrxG"
-    },
-    {
-      "added_at": "2025-11-06 05:54:09",
-      "album": {
         "name": "TWO",
         "url": "https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 160500,
       "name": "WEAR AWAY",
       "url": "https://open.spotify.com/track/216TkxBKw3ab0WiAePZvQO"
+    },
+    {
+      "added_at": "2025-11-06 05:54:09",
+      "album": {
+        "name": "silkysmooth 03",
+        "url": "https://open.spotify.com/album/1itk8bs4vByhAvS5PSTpqA"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 195531,
+      "name": "IFall",
+      "url": "https://open.spotify.com/track/6PxIy5w30O0noEkOs4BrxG"
     },
     {
       "added_at": "2025-11-06 05:54:09",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-11-06 05:54:09",
       "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 121556,
+      "name": "LIPSTICK'S GONE",
+      "url": "https://open.spotify.com/track/4b3gDRpiFMdHkm84AADIv3"
+    },
+    {
+      "added_at": "2025-11-06 05:54:09",
+      "album": {
         "name": "Kind of Love (feat. Ina Bravo)",
         "url": "https://open.spotify.com/album/4OcyPubs6iPrCqw2LJCAUd"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 200826,
       "name": "Kind of Love (feat. Ina Bravo)",
       "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
-    },
-    {
-      "added_at": "2025-11-06 05:54:09",
-      "album": {
-        "name": "BLUSH",
-        "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 121556,
-      "name": "LIPSTICK'S GONE",
-      "url": "https://open.spotify.com/track/4b3gDRpiFMdHkm84AADIv3"
     },
     {
       "added_at": "2025-11-06 05:54:09",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-11-06 05:54:09",
       "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2025-11-06 05:54:09",
-      "album": {
         "name": "Good Night Good Morning (GNGM) [minlee Remix]",
         "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 125629,
       "name": "Good Night Good Morning (GNGM) - minlee Remix",
       "url": "https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS"
+    },
+    {
+      "added_at": "2025-11-06 05:54:09",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2025-11-06 05:54:09",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2025-11-06 05:54:09",
       "album": {
-        "name": "UnderControl",
-        "url": "https://open.spotify.com/album/4tALvSKLdaZNnY7Hvcf3kw"
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
       },
       "artists": [
         {
-          "name": "COCONA",
-          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         },
         {
-          "name": "moon",
-          "url": "https://open.spotify.com/artist/5wSfrE9Khy3pDKIREOt9TD"
+          "name": "MAR VISTA",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
         }
       ],
-      "duration_ms": 152000,
-      "name": "UnderControl (ft. moon)",
-      "url": "https://open.spotify.com/track/6Fj9tZO1nO5vnZ7sJNMKc6"
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     }
   ],
   "unique_name": "Electronii[K]",

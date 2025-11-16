@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-414 songs - 21 hr 37 min
+415 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Brown Noise Chill](https://open.spotify.com/track/04nhtP5osHmql6LRlWTN2w) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Chill](https://open.spotify.com/album/3ci5cgq0RIVpMB7ZTWubIh) | 3:39 | 2022-06-14 |  |
 | [Brown Noise Cold Plunge](https://open.spotify.com/track/6WSgIpFD161LgTUw5t0NcW) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Brown Noise Cold Plunge](https://open.spotify.com/album/3yAtESkBGw1WUqJvAAOuTD) | 3:44 | 2022-05-20 | 2023-10-27 |
 | [Brown Noise Deep REM](https://open.spotify.com/track/0fEhJqh1HxaYaQAka5cbpl) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise for Relaxation](https://open.spotify.com/album/2dPsArIfCMuu3ZmvArayoc) | 3:50 | 2022-06-14 | 2022-12-17 |
+| [Brown Noise Den](https://open.spotify.com/track/3GsEujzcxVv8TBQcQENy9y) | [State Of Rest](https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM) | [Brown Noise Den](https://open.spotify.com/album/4H9y4SN6Fw7ZSDHq5EuTWl) | 2:43 | 2025-11-13 |  |
 | [Brown Noise Desert Night](https://open.spotify.com/track/7x6qK1GPSAM15EoWyglQSs) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Brown Noise Dunes](https://open.spotify.com/album/3zM5dvtwTBuRJAl2h1XlPd) | 2:18 | 2023-10-26 | 2024-02-10 |
 | [Brown Noise Dream](https://open.spotify.com/track/4eGCTk4n1GXu9C1keB4ama) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Soft Brown Noise](https://open.spotify.com/album/3hwBhINVPJ9NDri4krChxd) | 2:52 | 2022-01-07 | 2025-11-14 |
 | [Brown Noise Dream Drift](https://open.spotify.com/track/2sZJnyJ5BEg5N8cmNorpDk) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Brown Noise Dream Drift](https://open.spotify.com/album/0HfZuUsX1gDvdl3iGsYTaB) | 5:01 | 2024-01-10 |  |
@@ -176,7 +177,7 @@
 | [Brown Noise Soothing Sounds](https://open.spotify.com/track/395nn3mYgKDdImyOp2KNer) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Brown Noise Soothing Sounds](https://open.spotify.com/album/4FbZ6PYbI7veGhoxglIjIc) | 2:58 | 2023-06-28 |  |
 | [Brown Noise Soothing Soundscape](https://open.spotify.com/track/4xaVqe8YrFui2MYYOVKKXZ) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 | 2022-09-08 | 2023-10-27 |
 | [Brown Noise Sounds](https://open.spotify.com/track/6l8lAkm5VnM9K4UTe5KbFZ) | [Relaxed Skies](https://open.spotify.com/artist/7MuuwHQrVsCg68uvZHK35x) | [Brown Noise Sounds](https://open.spotify.com/album/43jEYINkA6K5AMdYapaZN3) | 3:00 | 2022-10-26 |  |
-| [Brown Noise Spa](https://open.spotify.com/track/1T8LPpzZMrX1CepY2m6TRe) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Brown Noise Spa](https://open.spotify.com/album/7dAm9gpkAghN9nuMdSxrfX) | 3:07 | 2025-11-13 |  |
+| [Brown Noise Spa](https://open.spotify.com/track/1T8LPpzZMrX1CepY2m6TRe) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Brown Noise Spa](https://open.spotify.com/album/7dAm9gpkAghN9nuMdSxrfX) | 3:07 | 2025-11-13 | 2025-11-16 |
 | [Brown Noise Space Vessel](https://open.spotify.com/track/6lCUMe0Q52bTzACupusgFT) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Unwinding Noise](https://open.spotify.com/album/7bEN377z4nw9351vLVCL3D) | 2:42 | 2022-01-07 | 2023-01-21 |
 | [Brown Noise Stream](https://open.spotify.com/track/1inr8IQFXA1am26upyEnSB) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:36 | 2022-05-20 |  |
 | [Brown Noise Stream](https://open.spotify.com/track/0SMKOwGiMI3gLY6Oe8KB0L) | [Ziem](https://open.spotify.com/artist/6nIgqoE3AfrXQ9QxnoNWwb) | [Brown Noise Stream](https://open.spotify.com/album/3jMDqVidjRUk0CiCYCwsWq) | 1:52 | 2022-12-16 | 2023-06-29 |

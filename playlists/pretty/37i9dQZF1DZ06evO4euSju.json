@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACLYY3EF7IiWvSkgfg51pBQ",
+  "snapshot_id": "aRZxAAAAAACkLN6poa8IYfhyP4//ZoQo",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 246325,
-      "name": "Outside of Love",
-      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
+      "duration_ms": 339212,
+      "name": "Sparkle / Fade",
+      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
     },
     {
       "added_at": null,
@@ -380,15 +380,15 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 227820,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
+      "duration_ms": 232785,
+      "name": "Supermachine",
+      "url": "https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 339212,
-      "name": "Sparkle / Fade",
-      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
+      "duration_ms": 246325,
+      "name": "Outside of Love",
+      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 301418,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/5cDp8qgQCsni5pD2YKdh5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 213953,
       "name": "Believe In The Wrong Things",
       "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 301418,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/5cDp8qgQCsni5pD2YKdh5J"
     }
   ],
   "unique_name": "This Is Teenage Wrist",

@@ -1,45 +1,13 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14881,
+  "num_followers": 14882,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAABQtSLO2VelJqWkcO2ZY9su",
+  "snapshot_id": "aRZxAAAAAAAE+FDt2LUSxZdPUC0j2J1G",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chica de Favela",
-        "url": "https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd"
-      },
-      "artists": [
-        {
-          "name": "Beyond Music",
-          "url": "https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Pesa Bazz",
-          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
-        },
-        {
-          "name": "Siddhartha El Primero",
-          "url": "https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE"
-        },
-        {
-          "name": "Shocktraderz",
-          "url": "https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS"
-        }
-      ],
-      "duration_ms": 177068,
-      "name": "Chica de Favela - Radio Edit",
-      "url": "https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc"
-    },
     {
       "added_at": null,
       "album": {
@@ -91,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 257634,
-      "name": "Keep On Moving (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/4WonhRvXvi06b5FYAQq6zO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lamomali Totem",
         "url": "https://open.spotify.com/album/4VJJRtcT8tGXwxGkHq51Hy"
       },
@@ -151,6 +99,26 @@
       "duration_ms": 247943,
       "name": "Le peuple qui danse",
       "url": "https://open.spotify.com/track/6ozUDG42d9w7InKIoiHqyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 257634,
+      "name": "Keep On Moving (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/4WonhRvXvi06b5FYAQq6zO"
     },
     {
       "added_at": null,
@@ -483,6 +451,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chica de Favela",
+        "url": "https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd"
+      },
+      "artists": [
+        {
+          "name": "Beyond Music",
+          "url": "https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pesa Bazz",
+          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
+        },
+        {
+          "name": "Siddhartha El Primero",
+          "url": "https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE"
+        },
+        {
+          "name": "Shocktraderz",
+          "url": "https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS"
+        }
+      ],
+      "duration_ms": 177068,
+      "name": "Chica de Favela - Radio Edit",
+      "url": "https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lion King 2: Simba's Pride",
         "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 250760,
       "name": "We Are One",
       "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Olofoofo",
-      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 236918,
       "name": "Ti Punch Caf\u00e9",
       "url": "https://open.spotify.com/track/0GHiqo3CxI9pZvFHEzdvU5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Olofoofo",
+      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
@@ -883,22 +867,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunlight to My Soul",
-        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
       },
       "artists": [
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
         }
       ],
-      "duration_ms": 205797,
-      "name": "Sunlight to My Soul",
-      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
+      "duration_ms": 244973,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
     },
     {
       "added_at": null,
@@ -919,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Rising (Live)",
-        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+        "name": "Sunlight to My Soul",
+        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
       },
       "artists": [
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Summertime - Live",
-      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
+      "duration_ms": 205797,
+      "name": "Sunlight to My Soul",
+      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 258226,
       "name": "Djin Djin",
       "url": "https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
     },
     {
       "added_at": null,
@@ -1095,58 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MHD",
-        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Wanyinyin",
-      "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs For Humanity",
-        "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
-      },
-      "artists": [
-        {
-          "name": "Playing For Change",
-          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 365217,
-      "name": "Biko",
-      "url": "https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/5gvkZr0EvB8x9vYy1pwBr2"
       },
@@ -1171,6 +1119,42 @@
       "duration_ms": 315466,
       "name": "Lady",
       "url": "https://open.spotify.com/track/0dVLQmK8gQrz1zjkhhar3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Afirika",
+      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MHD",
+        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Wanyinyin",
+      "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

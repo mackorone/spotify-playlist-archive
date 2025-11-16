@@ -1321,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Ride The Energy",
+        "url": "https://open.spotify.com/album/0n5pWSEynI3hx6CgZTlxXX"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216172,
+      "name": "Ride The Energy",
+      "url": "https://open.spotify.com/track/5YarSfIv7zBae8TcMGGSsg"
+    },
+    {
+      "album": {
         "name": "Boiling Point",
         "url": "https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65"
       },
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 210303,
       "name": "Say Yes - Radio Edit",
       "url": "https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky"

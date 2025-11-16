@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-138 songs - 8 hr 10 min
+139 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Camping In the Forest \- \(Rain & Birds\)](https://open.spotify.com/track/0R2cDyGhOpTSl7Feeu4Zs6) | [Wide Noise HD](https://open.spotify.com/artist/2W6Z4GQCDaktUWbXP8huax) | [Cabin Rain, Crickets and Birds](https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6) | 2:19 | 2025-11-11 |  |
 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 | 2023-02-20 |  |
 | [Cicadas, Toucans, Troglodytes Aedon bird in the Columbian Amazon](https://open.spotify.com/track/62gRyCQ4TkVOewn3iYgEdX) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Rain and Wildlife in the Jungle](https://open.spotify.com/album/3DF0n2qw6pKnP0ZWPl2s0e) | 3:01 | 2024-08-23 | 2025-06-03 |
+| [costa rica jungle downpour](https://open.spotify.com/track/2HvAiax6XQNCORkA6S1WoF) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [costa rica rains](https://open.spotify.com/album/3oxEFOaQCjpQxlBHeOBAuV) | 2:14 | 2025-11-11 |  |
 | [Costa Rican Night Nature](https://open.spotify.com/track/5mFWoPrmJxs4jS8yKmWU8Z) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Midnight Wilderness](https://open.spotify.com/album/6OvDlztdFURmheHoFwdtLr) | 3:17 | 2024-03-27 |  |
 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 | 2022-05-24 |  |
 | [Crickets and Birds in the Rain](https://open.spotify.com/track/43xs3xCdJFZX1EcmtSD9JK) | [Alba Criado](https://open.spotify.com/artist/4t6XVv0J5iRV077wO1jmp8) | [Crickets Singing in the Rain](https://open.spotify.com/album/40NCztBiktzflPZqsLOBCR) | 2:08 | 2023-02-20 |  |
@@ -66,7 +67,7 @@
 | [Lively Night in the Jungle](https://open.spotify.com/track/01j781oIonaBkOqMqTCuKp) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:29 | 2023-06-20 | 2025-03-08 |
 | [Magical Rain](https://open.spotify.com/track/6ad7H8vGnSLx7O2se8EDEl) | [Wood Elf](https://open.spotify.com/artist/4kkcDrzb0b9TU5NEyKhqfK) | [Enchanted Forest Rain](https://open.spotify.com/album/4GGP7zbdr9Seo4tTj3IWDQ) | 2:29 | 2021-12-22 |  |
 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 | 2021-12-22 |  |
-| [Manglares](https://open.spotify.com/track/0t4tA8xueOdJWOaHCyHVgK) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:58 | 2024-12-03 |  |
+| [Manglares](https://open.spotify.com/track/0t4tA8xueOdJWOaHCyHVgK) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:58 | 2024-12-03 | 2025-11-16 |
 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 | 2021-12-22 |  |
 | [Meet Me In The Woods](https://open.spotify.com/track/7wYt8tyEAcA9UFsM0vx8Pi) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 | 2023-02-20 |  |
 | [Melodic Forest Hymn](https://open.spotify.com/track/59caZIowoRcopdTBzJt6ut) | [The Rainforest Collective](https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz) | [Rustic Nature Respite](https://open.spotify.com/album/5mTIFIySaSW6phm8Ud5ftQ) | 4:05 | 2023-06-20 | 2025-02-14 |

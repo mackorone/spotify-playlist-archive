@@ -4165,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Kas\u0131m Ya\u011fmurlar\u0131",
+        "url": "https://open.spotify.com/album/3kfJ6gODA7UPqZqc8Fz8Mi"
+      },
+      "artists": [
+        {
+          "name": "Kalben",
+          "url": "https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231578,
+      "name": "Kas\u0131m Ya\u011fmurlar\u0131",
+      "url": "https://open.spotify.com/track/0ZWcAIUTkccr5aPVDUwXeB"
+    },
+    {
+      "album": {
         "name": "Katilime A\u015f\u0131kt\u0131m",
         "url": "https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ"
       },
@@ -6050,7 +6068,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 152050,
       "name": "Sevda Treni",
       "url": "https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Dolu Kadehi Ters Tut ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,063 likes - 141 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,042 likes - 141 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

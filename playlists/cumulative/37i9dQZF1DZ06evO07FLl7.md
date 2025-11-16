@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 30 min
+90 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 | 2024-08-18 |  |
 | [Asfalto Selvagem](https://open.spotify.com/track/20V8W9Ss0qWQsBJ5DTBgfz) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 2:56 | 2024-09-15 | 2025-10-27 |
 | [BABY](https://open.spotify.com/track/3caKU7alEI7k7umlX9m6UA) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 3:22 | 2023-09-18 | 2024-06-18 |
-| [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-16 |  |
+| [Bem Longe do Fim](https://open.spotify.com/track/1AGA8E3UOc4M2uD0Fixc81) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v) | 3:33 | 2025-11-16 |  |
+| [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-16 | 2025-11-16 |
 | [Black Loro](https://open.spotify.com/track/4oXmqXtCQhbK77XGg4c8fx) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Black Loro](https://open.spotify.com/album/6be6POk7ENDnzbgBFlTfYh) | 2:45 | 2024-07-06 | 2024-12-18 |
 | [BoxOkê](https://open.spotify.com/track/0G7AtVdCLQAGrGjRbLvCeK) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [ATR](https://open.spotify.com/artist/4l4EjHjmOJyDgzN9Vqukn0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 3:17 | 2023-09-18 |  |
 | [Brecha](https://open.spotify.com/track/0lWj52Gewf7kwCqZS5kEl2) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:01 | 2024-09-12 |  |

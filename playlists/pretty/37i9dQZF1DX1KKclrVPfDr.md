@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं\. Cover: Surabhi Kashyap, Stuti Sinha, Nikita Rai
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,262 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,268 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 2 | [Love Ke Ghoont](https://open.spotify.com/track/1hZZk21zhBoCb3V3e2VLSf) | [Swati Mishra](https://open.spotify.com/artist/3SwS8uwiv8h8gf0uobOb4f), [Mohit Musik](https://open.spotify.com/artist/01WjdvafFYfESbu1pG6pUU) | [Love Ke Ghoont](https://open.spotify.com/album/76g9P7afthvr2It3HhVlxV) | 3:48 |
 | 3 | [Tani Tani Sa Baat](https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Tani Tani Sa Baat](https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB) | 4:43 |
 | 4 | [Saari Saari Ratiya](https://open.spotify.com/track/21TDQB67T7YG0Kt1ipq7rk) | [Deepali Sahay](https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q) | [Bejod Vol 1](https://open.spotify.com/album/2j318y4M67EQzPry1SDdyL) | 4:22 |
-| 5 | [Aaloo Dam Chanpa Tare](https://open.spotify.com/track/2lSfYrmETtvciPgSt0VOoH) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [Priya Bhui](https://open.spotify.com/artist/387zdXTmEAbzQMv3wMAqIJ) | [Aaloo Dam Chanpa Tare](https://open.spotify.com/album/0W3RJq8hBASymSuJUHcLQr) | 3:43 |
-| 6 | [FULAURI BINA CHATNI](https://open.spotify.com/track/6o6I0y3nCi6suPvXCBQeUq) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt), [Shagun Srivastava](https://open.spotify.com/artist/6lndd8QIQWss9ro5cE1wb7) | [FULAURI BINA CHATNI](https://open.spotify.com/album/59eVrJFq82tVu7YQpMPUOH) | 2:56 |
+| 5 | [FULAURI BINA CHATNI](https://open.spotify.com/track/6o6I0y3nCi6suPvXCBQeUq) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt), [Shagun Srivastava](https://open.spotify.com/artist/6lndd8QIQWss9ro5cE1wb7) | [FULAURI BINA CHATNI](https://open.spotify.com/album/59eVrJFq82tVu7YQpMPUOH) | 2:56 |
+| 6 | [Aaloo Dam Chanpa Tare](https://open.spotify.com/track/2lSfYrmETtvciPgSt0VOoH) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [Priya Bhui](https://open.spotify.com/artist/387zdXTmEAbzQMv3wMAqIJ) | [Aaloo Dam Chanpa Tare](https://open.spotify.com/album/0W3RJq8hBASymSuJUHcLQr) | 3:43 |
 | 7 | [Tohre me Base Sajna](https://open.spotify.com/track/3MH3r1uLG0uBeCNgMAOioE) | [Swati Mishra](https://open.spotify.com/artist/3SwS8uwiv8h8gf0uobOb4f) | [Tohre me Base Sajna](https://open.spotify.com/album/4EbSiXvKe2VGvmcutgPe0z) | 3:46 |
 | 8 | [Holi Khele Raghuveera](https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Sugam Singh](https://open.spotify.com/artist/1OBZ7mHS6j53GMTt0nFA57) | [Holi Khele Raghuveera](https://open.spotify.com/album/4qtI6ApG6I8gOHHr3FLLOG) | 3:40 |
 | 9 | [Mannat](https://open.spotify.com/track/1d0zIgTp19xhO6LS05vmme) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [Mannat](https://open.spotify.com/album/0jAZu8zEG1HM2wUUZmNiKl) | 3:44 |

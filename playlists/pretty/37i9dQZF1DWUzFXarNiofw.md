@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Mario
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,587 likes - 300 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,635 likes - 300 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

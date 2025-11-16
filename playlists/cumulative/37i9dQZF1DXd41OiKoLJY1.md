@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Rafi Artwork: Isu Kim
 
-3,849 songs - 9 day 8 hr 53 min
+3,850 songs - 9 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Ask](https://open.spotify.com/track/4zCaZsPd72QApYhH50ZrCA) | [JR Oca Experience](https://open.spotify.com/artist/5bctrF5mgDa7KfIQqXsACA) | [Ask](https://open.spotify.com/album/41AqMEdPeWiTrLCphXbQDa) | 4:16 | 2023-11-02 | 2023-12-09 |
 | [at bay](https://open.spotify.com/track/5k1ek2ACx4IhmzU7P8ZNwR) | [Emilia Kate](https://open.spotify.com/artist/3CZiLDIuy7o2WYppdHFZPa) | [at bay](https://open.spotify.com/album/3AV7oTHvBWiBSrpjj0akZU) | 3:14 | 2025-06-26 | 2025-08-15 |
 | [At Kahit](https://open.spotify.com/track/2V8y3mXusbLMpAZgLg6ve9) | [Jose Carlito](https://open.spotify.com/artist/0dCm0lE7zONgLuquyvat4m) | [At Kahit](https://open.spotify.com/album/5TlW3zW6vLb3BklQWkAk04) | 5:33 | 2022-03-03 | 2023-01-13 |
+| [Atameru](https://open.spotify.com/track/36GjaGtmbT8dCiM8cyzFJ5) | [Surevibe](https://open.spotify.com/artist/3TCIoYyXbifJAr5wIhAGR9) | [Atameru](https://open.spotify.com/album/6FVN1ijs0PymgblcFUjYq7) | 3:10 | 2025-11-13 |  |
 | [Atin Ang Sandali \- Acoustic Version](https://open.spotify.com/track/1MvNQXJRL6vQnDSNo742PK) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Atin Ang Sandali \(Acoustic Version\)](https://open.spotify.com/album/0SxfnZAt4gVNUpr6JOS4jq) | 3:32 | 2023-03-16 | 2023-04-07 |
 | [Atras Abante](https://open.spotify.com/track/7EIzjO1X9Y1WhCSaZZzEmc) | [Victoria Leslie](https://open.spotify.com/artist/1LBFCZVNKOTYVbMP9u9LTV) | [Atras Abante](https://open.spotify.com/album/3gLOp7vnyYcyQAcqaQIqUj) | 3:50 | 2025-11-13 |  |
 | [Attracted](https://open.spotify.com/track/3hnlOF2IchhxpcUm3Ctv5Q) | [Fritz Miranda](https://open.spotify.com/artist/2XU4WiVXIJRKj0U8Jp9XE4) | [Attracted](https://open.spotify.com/album/7vz3rSMHantDRYqjfWRB0K) | 3:50 | 2022-03-24 | 2023-01-13 |

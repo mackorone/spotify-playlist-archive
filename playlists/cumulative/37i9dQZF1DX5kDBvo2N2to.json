@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+    },
+    {
+      "album": {
         "name": "En F\u00f6rsta Dans",
         "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
       },
@@ -6862,7 +6880,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 207174,
       "name": "Stanna lite till",
       "url": "https://open.spotify.com/track/0NOarA9rgil63mHQCS5JVu"

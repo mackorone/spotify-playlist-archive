@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-207 songs - 10 hr 16 min
+208 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [My City \- Sped Up](https://open.spotify.com/track/7y037ZKbgyiO1xXwToyxJn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [FAST X \(Sped Up / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO) | 2:04 | 2023-06-10 | 2025-02-23 |
 | [Neph Nem \(feat\. Ballout & G Herbo\)](https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Ballout](https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 2:37 | 2024-05-12 | 2025-04-16 |
 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 | 2022-10-28 |  |
+| [No Bap \(Bonus\)](https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 2:40 | 2025-11-16 |  |
 | [No Guts, No Glory](https://open.spotify.com/track/2U31fKHbKf50KsrdccRCeL) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:45 | 2022-10-28 | 2023-01-12 |
 | [No Limit](https://open.spotify.com/track/6VCmEzSf3XXdFJPIsk4I0r) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Drench](https://open.spotify.com/artist/2Cw0UbFabztsBGoddiyQLe) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 1:59 | 2023-04-30 | 2023-08-06 |
 | [No Pics \(feat\. Chief Keef\)](https://open.spotify.com/track/7JXj4trCV0qc9cdKMY46et) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:27 | 2024-09-08 | 2024-09-09 |
@@ -180,7 +181,7 @@
 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 | 2024-09-08 | 2024-10-07 |
 | [Texas Shit](https://open.spotify.com/track/557NXk72PWUFiCZ9hS28pC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [THF Law](https://open.spotify.com/artist/71llkA0kopB8HdhpsqpdjR), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [STILL GHETTO](https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k) | 3:39 | 2025-10-08 | 2025-11-15 |
 | [Thank Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6cMDoVNZ9qCiDQGUdV3Mbh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 3:20 | 2025-11-09 | 2025-11-10 |
-| [This N That \(Bonus\)](https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 3:18 | 2025-11-15 |  |
+| [This N That \(Bonus\)](https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 3:18 | 2025-11-15 | 2025-11-16 |
 | [Through The Fire](https://open.spotify.com/track/0EngAXfx8kNX7I8W4CVJZX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 3:07 | 2025-04-20 | 2025-08-03 |
 | [Through The Fire](https://open.spotify.com/track/25fdio8bhsK7Z93UXjfvKd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8) | 3:07 | 2025-08-31 | 2025-09-28 |
 | [Throw \(feat\. G Herbo\)](https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BIG SCOOM \(Vol\. 1\)](https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49) | 2:53 | 2024-12-31 | 2025-04-11 |

@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 39 min
+77 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [CELEBRATION](https://open.spotify.com/track/1716cky8w4roZox3AyO1zh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CELEBRATION](https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU) | 2:41 | 2025-04-28 | 2025-05-21 |
 | [CELEBRATION](https://open.spotify.com/track/2YfSEfmGirtcp6C6ZcLelL) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CELEBRATION](https://open.spotify.com/album/08cA6Tv3pBYlwbJjUpFnn1) | 2:41 | 2025-04-21 | 2025-04-28 |
 | [CELEBRATION](https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:41 | 2025-05-21 |  |
+| [CHRISTMAS MORNING](https://open.spotify.com/track/2EexyQTsG7IyJIvXkjeozV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [CHRISTMAS MORNING](https://open.spotify.com/album/1e6yUvVixHZisjzEuJamSe) | 2:10 | 2025-11-16 |  |
 | [Come Thou Font](https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:21 | 2025-04-09 |  |
 | [CRAZY](https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:32 | 2025-04-09 |  |
 | [DIGGIN U](https://open.spotify.com/track/2oNudz3r9oFMt0FfREhFoM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:26 | 2025-04-09 | 2025-05-23 |

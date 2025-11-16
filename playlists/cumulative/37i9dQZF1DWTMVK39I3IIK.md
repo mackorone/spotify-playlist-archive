@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Kayak
 
-356 songs - 18 hr 10 min
+357 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 | 2025-09-05 |
 | [venter venter](https://open.spotify.com/track/3D0gL4WndIjNjETzEumRwZ) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [venter venter](https://open.spotify.com/album/1RHkIVr9rfmw4o3nLPurlJ) | 3:39 | 2025-05-29 | 2025-06-06 |
 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 |  |
-| [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 | 2025-07-17 |  |
+| [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 | 2025-07-17 | 2025-11-16 |
 | [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 | 2025-03-07 | 2025-03-22 |
 | [Vindueskarm](https://open.spotify.com/track/3t97ccQXMzSRs5CW7oYXPV) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Vindueskarm](https://open.spotify.com/album/1scUpPkKb82T46XThpZBO6) | 2:57 | 2025-08-28 | 2025-09-05 |
 | [Virkeligheden](https://open.spotify.com/track/0clh0Q9TpJI8HTP29VDg3F) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Til Mit Efterår](https://open.spotify.com/album/7IzaD6xvzLsPzzCusVqC8X) | 2:54 | 2025-10-02 | 2025-10-20 |
@@ -354,6 +354,7 @@
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 |  |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2025-09-12 |
 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 | 2025-01-23 | 2025-02-06 |
+| [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/track/14J9XLdZtxyzJrmwfjPaw0) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe) | 3:27 | 2025-11-13 |  |
 | [within](https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg) | [joshua.](https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw) | [within](https://open.spotify.com/album/3KCV6PkHJIOguwyNtqQgin) | 3:11 | 2025-08-07 | 2025-08-15 |
 | [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 | 2024-09-26 |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 | 2025-07-11 |

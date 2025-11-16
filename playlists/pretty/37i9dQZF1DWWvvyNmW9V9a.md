@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > live love laugh with Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103,823 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103,667 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

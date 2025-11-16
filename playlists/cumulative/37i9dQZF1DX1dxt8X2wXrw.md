@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-261 songs - 14 hr 5 min
+262 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [i like just how you like me](https://open.spotify.com/track/5kJ45QtERi21dHsz2rrOyG) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [i like just how you like me](https://open.spotify.com/album/6kmbGstkhw2sC5v1D41yoH) | 2:20 | 2025-09-20 |  |
 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 | 2024-03-28 | 2025-06-18 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-03-28 | 2024-09-03 |
-| [if this ain't love](https://open.spotify.com/track/2iDAqP8Cf6Co7OHrOit1sG) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [if this ain't love](https://open.spotify.com/album/73UqeuhxfLQ0oDxIl1Oylg) | 3:36 | 2025-10-15 |  |
+| [if this ain't love](https://open.spotify.com/track/2iDAqP8Cf6Co7OHrOit1sG) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [if this ain't love](https://open.spotify.com/album/73UqeuhxfLQ0oDxIl1Oylg) | 3:36 | 2025-10-15 | 2025-11-16 |
 | [In The Night](https://open.spotify.com/track/2EUHzaq7xrJNMayRzaoH9Z) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/1jzqiffupvhniPZB4aBNEv) | 3:49 | 2024-07-23 | 2024-12-23 |
 | [Irrational](https://open.spotify.com/track/1AAk3NJuimLgWIFjiOgtig) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Irrational](https://open.spotify.com/album/2V8e3GhVApzKrBgVTYgnCo) | 3:14 | 2024-03-28 | 2024-12-20 |
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2024-07-12 | 2024-07-24 |
@@ -186,6 +186,7 @@
 | [Perfectly Mine](https://open.spotify.com/track/2RJ9GiYoV9kKOBdQoObmtw) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Perfectly Mine](https://open.spotify.com/album/7rj6EV3AXh2hc6J0oL7uAV) | 3:17 | 2025-07-16 | 2025-08-21 |
 | [Phone Down](https://open.spotify.com/track/3aapF0aOexc3GMvVuu2Wdw) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 3:28 | 2024-03-28 | 2025-01-24 |
 | [Playa \(feat\. Skilla Baby\)](https://open.spotify.com/track/3pEOBaJeDXyN5PpGXxeDx9) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:14 | 2024-09-02 | 2024-10-09 |
+| [POLITE](https://open.spotify.com/track/3EfychxMku3sRuso0jkGis) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [POLITE](https://open.spotify.com/album/4hIY0GUjgLZi9jrUneg03c) | 2:40 | 2025-11-11 |  |
 | [Pray for Me](https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Pray for Me](https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR) | 7:14 | 2024-12-20 | 2025-03-06 |
 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 | 2024-03-28 | 2025-02-14 |
 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 | 2024-09-02 |  |

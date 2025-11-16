@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 52630,
+  "num_followers": 52664,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
         "name": "Dangbana Riddim",
         "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -399,42 +399,6 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Realness",
-      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -455,6 +419,42 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
-        "name": "Screaming Beauty",
-        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Screaming Beauty",
-      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -943,6 +943,26 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
+        "name": "O Mahiya",
+        "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 174411,
+      "name": "O Mahiya",
+      "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
-        "name": "O Mahiya",
-        "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
-      },
-      "artists": [
-        {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 174411,
-      "name": "O Mahiya",
-      "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
+        "name": "Olufunmi (The Missing Recipe)",
+        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Olufunmi (The Missing Recipe)",
+      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
         "name": "Highlife",
         "url": "https://open.spotify.com/album/4hX6r3IGbzJlpTO923YFZi"
       },
@@ -1231,22 +1251,18 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
-        "name": "Olufunmi (The Missing Recipe)",
-        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+        "name": "TO CRY A FLOOD",
+        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Olufunmi (The Missing Recipe)",
-      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+      "duration_ms": 151000,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -1307,46 +1323,6 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
-        "name": "Gbe Kini Yen",
-        "url": "https://open.spotify.com/album/4j7k4TxIAUWI427PbzQGWP"
-      },
-      "artists": [
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "Gbe Kini Yen",
-      "url": "https://open.spotify.com/track/2cLWFShEirkPTtqZz81c7F"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
         "name": "Acct Number (Omalicha)",
         "url": "https://open.spotify.com/album/1oQJNH7DtXfgyuURTDP74s"
       },
@@ -1371,18 +1347,26 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
+        "name": "Gbe Kini Yen",
+        "url": "https://open.spotify.com/album/4j7k4TxIAUWI427PbzQGWP"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
+      "duration_ms": 198367,
+      "name": "Gbe Kini Yen",
+      "url": "https://open.spotify.com/track/2cLWFShEirkPTtqZz81c7F"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -1403,6 +1387,38 @@
       "duration_ms": 165599,
       "name": "Fine Lady",
       "url": "https://open.spotify.com/track/6xA693QFS4Zbsm7pw87JZU"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2025-11-14 00:01:34",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/6AwJzAvfgQPIXuqdtO1zx3"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 130019,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/27xKWxefDq7DJ9uYjbnkGB"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 173756,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5lnVBqFqrRnIC3GjlVtcsF"
+    },
+    {
+      "added_at": "2025-11-14 00:01:34",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/6AwJzAvfgQPIXuqdtO1zx3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 130019,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS"
     },
     {
       "added_at": "2025-11-14 00:01:34",
@@ -1535,22 +1551,6 @@
       "duration_ms": 164634,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70"
-    },
-    {
-      "added_at": "2025-11-14 00:01:34",
-      "album": {
-        "name": "I No Be God",
-        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "I No Be God",
-      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
     }
   ],
   "unique_name": "AfroBae",

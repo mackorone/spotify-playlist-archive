@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-198 songs - 14 hr 38 min
+199 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,9 +66,10 @@
 | [Free Time](https://open.spotify.com/track/6FBzUSZPGrCfto3xKHXsGg) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Groove On!](https://open.spotify.com/album/5vYhpagdFervgTth43gDBp) | 5:04 | 2022-05-06 | 2023-01-19 |
 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2023-08-22 | 2024-04-19 |
 | [Girl In The Red Dress](https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:56 | 2022-05-06 |  |
-| [Givin' It Up](https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:01 | 2022-05-06 |  |
+| [Givin' It Up](https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:01 | 2022-05-06 | 2025-11-16 |
 | [Givin’ It Up](https://open.spotify.com/track/7cU5eciL5P82afz3luTiTd) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Smooth Jazz Hits: \#1 Chart\-Toppers](https://open.spotify.com/album/6QrxQS2l68ht5NzNzLAFf8) | 4:01 | 2022-11-08 | 2022-11-13 |
 | [Givin’ It Up](https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:01 | 2022-08-10 | 2023-10-17 |
+| [Golden Hour Groove](https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Golden Hour Groove](https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS) | 3:16 | 2025-11-10 |  |
 | [Grinnell Street](https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Grinnell Street](https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX) | 3:55 | 2023-02-02 |  |
 | [Groove Up](https://open.spotify.com/track/0ZfygqWQPcOOvqIvN2Jiue) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Groove Up](https://open.spotify.com/album/346sBJNKPWK7q6XxtcPCAH) | 4:15 | 2024-09-09 | 2025-11-11 |
 | [Groovin' Up Hip Street](https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 6:02 | 2022-05-06 | 2023-03-28 |

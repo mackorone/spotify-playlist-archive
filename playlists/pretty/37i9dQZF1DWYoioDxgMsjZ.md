@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,360 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,381 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 64 | [BDE \(feat\. slowthai\)](https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [BDE \(feat\. slowthai\)](https://open.spotify.com/album/0v2o7PUZZneXkTCWy69432) | 2:48 |
 | 65 | [Supersoaker \- COUCOU CHLOE Remix](https://open.spotify.com/track/26aLMSgcLsV7KKEc1smdjf) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Trinity \(Deluxe\)](https://open.spotify.com/album/0RGxQa2UeQJxEDYcGUV3lr) | 3:08 |
 
-Snapshot ID: `AAAAALdHl6Wr50TFE/q9U0U5HiwVTcn9`
+Snapshot ID: `AAAAAMf5Ncwb7SjpCWaNVtY/e73gLZaG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,653 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,655 likes - 48 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 5 | [Videos y Fotos](https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:40 |
 | 6 | [Buen Ejemplo](https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Buen Ejemplo](https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW) | 3:25 |
 | 7 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 |
-| 8 | [Noche de Desmadre](https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Noche de Desmadre](https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu) | 2:39 |
+| 8 | [Tres Rayas](https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tres Rayas](https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV) | 3:04 |
 | 9 | [Maryjane y Blancanieves](https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:32 |
-| 10 | [Tres Rayas](https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tres Rayas](https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV) | 3:04 |
+| 10 | [Noche de Desmadre](https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Noche de Desmadre](https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu) | 2:39 |
 | 11 | [En Mis Dedos un Gallito](https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [En Mis Dedos un Gallito](https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb) | 3:08 |
 | 12 | [Tirando La H](https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Corridos Tumbados Vol\. 2](https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW) | 2:36 |
 | 13 | [Diablitos](https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:15 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 34 | [Besos](https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 2:41 |
 | 35 | [No Me Quiero Enamorar](https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 2:37 |
 | 36 | [Pasan Los Dias](https://open.spotify.com/track/18QZ9gVts0qXiITtUcBf9S) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 3](https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m) | 3:00 |
-| 37 | [Substancias](https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Substancias](https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb) | 3:24 |
-| 38 | [Madre](https://open.spotify.com/track/7gl6Espy38g068wpy32adp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:35 |
+| 37 | [Madre](https://open.spotify.com/track/7gl6Espy38g068wpy32adp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:35 |
+| 38 | [Substancias](https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Substancias](https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb) | 3:24 |
 | 39 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 |
 | 40 | [Mujercita](https://open.spotify.com/track/1gvpZMj4ERbAEOezbE0NrD) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 3](https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m) | 2:29 |
-| 41 | [Traguitos De Mezcal](https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0) | [Nueva Esencia](https://open.spotify.com/artist/4nfZ8Hb8zgwtn1F9THk2E4), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Traguitos De Mezcal](https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI) | 2:39 |
-| 42 | [Frostix](https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:48 |
+| 41 | [Frostix](https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:48 |
+| 42 | [Traguitos De Mezcal](https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0) | [Nueva Esencia](https://open.spotify.com/artist/4nfZ8Hb8zgwtn1F9THk2E4), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Traguitos De Mezcal](https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI) | 2:39 |
 | 43 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 |
 | 44 | [Hoy Estamos Aquí](https://open.spotify.com/track/2asBtHvhInFczfb4mMv3Iu) | [LIL Mexico](https://open.spotify.com/artist/2LEvYxGrWlnfqiKoqVcwi6), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hoy Estamos Aquí](https://open.spotify.com/album/3Sfv1dYeT15BixCWHUSPgD) | 2:23 |
 | 45 | [Damas y Placeres](https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:49 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 47 | [Es Prohibido](https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:50 |
 | 48 | [Intro](https://open.spotify.com/track/453sDOvAWU4QVvGegD46du) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:32 |
 
-Snapshot ID: `aRUfgAAAAADM3KSnGsWHTCyfXzkQGU0T`
+Snapshot ID: `aRZxAAAAAADa7RwCwSUMZf9OCN2Kp+67`

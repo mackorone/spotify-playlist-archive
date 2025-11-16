@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464 likes - 146 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 146 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 37 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
 | 38 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
 | 39 | [Alguien Más](https://open.spotify.com/track/6UplHCI03dIUk2fxL1l9hq) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Real](https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf) | 4:08 |
-| 40 | [No Olvides Recordarme](https://open.spotify.com/track/0bfFHScm3WUO97HTZesaRd) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero](https://open.spotify.com/album/3Ab8HPH5pTgPNjdFOHeTze) | 3:53 |
-| 41 | [No Soy Un Santo](https://open.spotify.com/track/4DxzM4ylCJTj9te1jWIPdG) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 2:57 |
+| 40 | [No Soy Un Santo](https://open.spotify.com/track/4DxzM4ylCJTj9te1jWIPdG) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 2:57 |
+| 41 | [No Olvides Recordarme](https://open.spotify.com/track/0bfFHScm3WUO97HTZesaRd) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero](https://open.spotify.com/album/3Ab8HPH5pTgPNjdFOHeTze) | 3:53 |
 | 42 | [Luna Nueva](https://open.spotify.com/track/0n2WdWPe5mGO8uUFfBJQ7h) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:04 |
 | 43 | [Así Eres Tú](https://open.spotify.com/track/12FxhcmUSxyyly0TRfivZr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:32 |
 | 44 | [Ataúd](https://open.spotify.com/track/6gKoVtvmjjPhoGic0ghCBY) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:55 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 52 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
 | 53 | [Contra La Pared](https://open.spotify.com/track/1jqxPeziZWg2OTDqokJui1) | [Myriam](https://open.spotify.com/artist/4qa5jOQPzCpqmoAyJd3j9y) | [Cambio De Piel](https://open.spotify.com/album/02bSJLe3oBNGbQvkmjcHId) | 4:01 |
 | 54 | [Darnos Un Dia](https://open.spotify.com/track/7532bbUg9FJRPSmGvblQH1) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:06 |
-| 55 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 |
-| 56 | [No Soy Como Tu](https://open.spotify.com/track/4KoVHqsM8yzcUbwqYlNRgR) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:01 |
+| 55 | [No Soy Como Tu](https://open.spotify.com/track/4KoVHqsM8yzcUbwqYlNRgR) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:01 |
+| 56 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 |
 | 57 | [Mi receta](https://open.spotify.com/track/7iTHVzUDh6eDInMCQhrWvk) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Sin Fronteras](https://open.spotify.com/album/5h5IodcqfIanu9o3Mt0oHf) | 3:18 |
 | 58 | [Amigos Con Derecho](https://open.spotify.com/track/2jrKLwp3PUvr3IsKvH5w2y) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:18 |
 | 59 | [Me Voy](https://open.spotify.com/track/2d7H0OUOqsZMyi8hJpkKfC) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:49 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 145 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 146 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcBmPAAAAAB2wBWlqK3jdv/g91Q8KoDU`
+Snapshot ID: `AcBr3AAAAAC24i8DSzeKgYVUUdEQDO3G`

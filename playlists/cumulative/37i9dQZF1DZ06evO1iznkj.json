@@ -1871,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/0ynRwRCJpD7TBk5dizYTiR"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/2cYmBbXWopJZDgJX2s4VGL"
+    },
+    {
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },

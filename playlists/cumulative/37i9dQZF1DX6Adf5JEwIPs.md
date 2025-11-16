@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Enigma Norteño
 
-8,912 songs - 19 day 6 hr 7 min
+8,913 songs - 19 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [$AD BOYZ II](https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:28 | 2023-10-06 | 2023-10-21 |
 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 | 2024-03-22 | 2024-04-06 |
 | [+Linda](https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [+Linda](https://open.spotify.com/album/7nVscG0aRHuE4rcEkwtMes) | 3:15 | 2023-12-01 | 2023-12-16 |
+| [/Desvelaos](https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 2:35 | 2025-11-15 |  |
 | [0 Atención](https://open.spotify.com/track/6N5vVqK0pZGi9H1ota7dNk) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | [0 Atención](https://open.spotify.com/album/4MLsRABVzkXaQxnksJ0wtx) | 2:45 | 2025-04-11 | 2025-04-19 |
 | [0 Sentimientos](https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [0 Sentimientos](https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi) | 3:15 | 2024-05-03 | 2024-05-11 |
 | [1, 2, 3 X Ti](https://open.spotify.com/track/5GFgBzEP1Q9xYmYhgtdRIO) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [1, 2, 3 X Ti](https://open.spotify.com/album/1C6grKQrbfrravwUkAYtEa) | 2:54 | 2023-03-17 | 2023-03-25 |

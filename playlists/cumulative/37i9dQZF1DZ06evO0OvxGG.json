@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
+    },
+    {
+      "album": {
         "name": "Malvatrem",
         "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
       },

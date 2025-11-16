@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Charli xcx, Tommaso Paradiso, Lewis Capaldi, Miley Cyrus, Robyn, Cesare Cremonini e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,108 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,133 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 32 | [Radio Erotika](https://open.spotify.com/track/59IeMCaIqZczzhLEKzijWU) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [Radio Erotika](https://open.spotify.com/album/2neQ86CxCxsq2JbfJrV4Wv) | 2:35 |
 | 33 | [ragnatela](https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [ragnatela](https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5) | 3:00 |
 | 34 | [HO PERSO IL TUO ACCENDINO \(feat\. Glocky, Fashion Forty\)](https://open.spotify.com/track/2MaQBN2sTj9t87qADohuD9) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [War And Romance 3](https://open.spotify.com/album/6ps1WpGsFbaoK6aVCJbGl7) | 3:30 |
-| 35 | [4 Macchine \(feat\. Dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 |
+| 35 | [4 Macchine \(feat\. dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 |
 | 36 | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/track/5rg4OSRLS9OySeuyJ4in0x) | [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm), [Mated](https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ) | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/album/59i6g44pJoLgIiofjjOThG) | 3:15 |
 | 37 | [Dimmi Dimmi Dimmi](https://open.spotify.com/track/15U1zxWavkycoGdQSJ5YK6) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Dimmi Dimmi Dimmi](https://open.spotify.com/album/4nw13GIXchoXMu2mKz01MX) | 3:15 |
 | 38 | [Inizialmente Tu](https://open.spotify.com/track/4vdUdncyJWMoLAIDO9WAfT) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [Inizialmente Tu](https://open.spotify.com/album/6eiDHXFrqpEhgF8jqCKQZ3) | 3:05 |

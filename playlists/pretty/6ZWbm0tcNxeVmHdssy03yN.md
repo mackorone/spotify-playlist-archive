@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,566 likes - 102 songs - 5 hr 10 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,579 likes - 102 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 6 | [Faded](https://open.spotify.com/track/3CtqBiTvoTnWD8Kaaameuw) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Faded](https://open.spotify.com/album/6IQP1dPdqcqrjANBdiK33y) | 3:26 |
 | 7 | [superhero](https://open.spotify.com/track/2ICiwAMt6P4QlHNAy7cGjp) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [superhero](https://open.spotify.com/album/2fEnk0DnKE3dqKUxUUJCtX) | 2:44 |
 | 8 | [im up](https://open.spotify.com/track/1DYlmCeKk0BBnlpupQaD7r) | [Adamn Killa](https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv) | [im up](https://open.spotify.com/album/6kASCSoPYWZqph9O0by2Ew) | 1:36 |
-| 9 | [Feel The Beat](https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc), [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [SELECTA](https://open.spotify.com/album/3w9BwqNfaGC2IBNwXpOEWc) | 3:30 |
+| 9 | [Feel The Beat](https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc), [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [SELECTA](https://open.spotify.com/album/3w9BwqNfaGC2IBNwXpOEWc) | 3:24 |
 | 10 | [Put It On God](https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Put It On God](https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH) | 3:34 |
 | 11 | [Hustle](https://open.spotify.com/track/0RxAs0b2CZXy6UTBxOuEyN) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Hustle](https://open.spotify.com/album/6fxTABtD1wZ5kWhdpWH00F) | 2:49 |
 | 12 | [Oh No II](https://open.spotify.com/track/6Z5aC8azt7Irj7rJD986mN) | [Oberz](https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Oh No II](https://open.spotify.com/album/4KCy6ylOYHs4Dk9LRoXRGI) | 2:37 |

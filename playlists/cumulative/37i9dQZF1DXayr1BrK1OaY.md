@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-614 songs - 1 day 12 hr 6 min
+615 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Don't Worry](https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [Don't Worry](https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99) | 2:51 | 2025-01-24 | 2025-07-20 |
 | [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 | 2024-04-05 |  |
 | [Dreaming](https://open.spotify.com/track/5hIeOGdLUD9St4VzxYM4ql) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dreaming](https://open.spotify.com/album/77i4sLUjUq49nJsjcKHKGI) | 2:28 | 2025-07-11 | 2025-10-11 |
+| [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 | 2025-11-15 |  |
 | [Drifting Away](https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Drifting Away](https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr) | 3:04 | 2025-11-14 |  |
 | [Drinking To Get Drunk](https://open.spotify.com/track/74UOSZYTg7ZvqLmxdqFuT7) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Drinking To Get Drunk](https://open.spotify.com/album/7aVwCoTaALsMdLYkpx82Jl) | 3:26 | 2025-07-18 |  |
 | [Driving Fast](https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Driving Fast](https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8) | 3:07 | 2024-11-08 |  |
@@ -182,7 +183,7 @@
 | [forever sleepless](https://open.spotify.com/track/3hN0Fgqdcz9BL1M9XeMPA8) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [forever sleepless](https://open.spotify.com/album/6mCxfB5LAqF4UKU8M6pRZU) | 2:39 | 2025-11-14 |  |
 | [forgive u](https://open.spotify.com/track/0YpOYlsdk1ZWlFrcatiQBd) | [ROSA](https://open.spotify.com/artist/4vNDe5ikZWdqMnQMc5Sj8g) | [forgive u](https://open.spotify.com/album/2c5kGOhmdX3tjruhULza1r) | 3:19 | 2024-05-31 | 2024-11-09 |
 | [Free Falling](https://open.spotify.com/track/2OtkVJa0TqrxTSFRfGapXE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Free Falling](https://open.spotify.com/album/1Bs2GHQOR8Uxiv89sbhYbC) | 3:45 | 2025-10-17 | 2025-10-25 |
-| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 |  |
+| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 | 2025-11-16 |
 | [froze](https://open.spotify.com/track/7tbkC2GGXFgpf3yM7wmVMr) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [froze](https://open.spotify.com/album/5zZHRCiwFKkShTiWfEaGg7) | 2:08 | 2025-02-07 | 2025-09-27 |
 | [Gallery](https://open.spotify.com/track/6kxu0ldmBRCw6TBiFAUtYh) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Solace \(Deluxe\)](https://open.spotify.com/album/56UIycwfjE5IwLOwA3VAF8) | 2:46 | 2024-05-24 | 2024-06-29 |
 | [GEMINI \- LUV HRTS Remix](https://open.spotify.com/track/4XoNrtAWOAck8aj8wt5mLO) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [GEMINI \(LUV HRTS Remix\)](https://open.spotify.com/album/4j2M67ZX5yyHdPOkfZVyrz) | 3:04 | 2025-07-25 | 2025-09-13 |

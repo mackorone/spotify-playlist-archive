@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from mercury
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,933 likes - 161 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,880 likes - 161 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

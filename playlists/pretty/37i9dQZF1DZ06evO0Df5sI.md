@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Letters Lost \(feat\. Matt Skiba of Alkaline Trio\)](https://open.spotify.com/track/0dnDLkOxGxIA1cE17MGDgM) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:21 |
-| 2 | [Bleeding Out](https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bleeding Out](https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO) | 3:01 |
-| 3 | [Surprise Surprise](https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Surprise Surprise](https://open.spotify.com/album/0FDA1qgav59oEQxtu8fZBc) | 4:13 |
+| 2 | [Surprise Surprise](https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Surprise Surprise](https://open.spotify.com/album/0FDA1qgav59oEQxtu8fZBc) | 4:13 |
+| 3 | [Bleeding Out](https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bleeding Out](https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO) | 3:01 |
 | 4 | [Mercy Me](https://open.spotify.com/track/5SZA0lHcG0ucCGBqKK32tF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:49 |
 | 5 | [Private Eye](https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:30 |
 | 6 | [Radio](https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 |
 | 50 | [Over and Out](https://open.spotify.com/track/0MWnY2bmf7QnVsBVF4nzFC) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:13 |
 
-Snapshot ID: `aRUfgAAAAABv3paw9JMnJ2oYlNH3vEmf`
+Snapshot ID: `aRZxAAAAAABicmQMT9PzAOo6ZTKo/afl`

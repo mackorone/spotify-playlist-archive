@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,313 likes - 298 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,318 likes - 298 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 297 | [Again again](https://open.spotify.com/track/7siaBvEhAnrEg27iXp2btt) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Again again](https://open.spotify.com/album/6qnIwtjqI38oymd4TNHRoR) | 2:44 |
 | 298 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
 
-Snapshot ID: `AAAAAHczX9+okPx1BL5FBfsuuS0BfuCw`
+Snapshot ID: `AAAAALFyq+hRXl34K89SedF+6ivryJfg`

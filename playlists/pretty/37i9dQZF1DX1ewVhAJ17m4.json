@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Yellowcard",
-  "num_followers": 598780,
+  "num_followers": 598806,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "2 LITER SPITE",
-        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "2 LITER SPITE",
-      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 204966,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "2 LITER SPITE",
+        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "2 LITER SPITE",
+      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Sinking Feeling",
-        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
-      },
-      "artists": [
-        {
-          "name": "LEAP",
-          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
-        }
-      ],
-      "duration_ms": 227529,
-      "name": "Sinking Feeling",
-      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "duration_ms": 227529,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 145547,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "One Day At A Time",
-        "url": "https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT"
+        "name": "Sandbox",
+        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
         }
       ],
-      "duration_ms": 193965,
-      "name": "One Day At A Time",
-      "url": "https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq"
+      "duration_ms": 145547,
+      "name": "Sandbox",
+      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "77 (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 173842,
-      "name": "77 - feat. Avril Lavigne",
-      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+      "duration_ms": 193965,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1203,6 +1183,26 @@
       "duration_ms": 195012,
       "name": "Under the Influence(r)",
       "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "77 (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 173842,
+      "name": "77 - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "RESTORATION",
+        "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 177349,
+      "name": "WOLVES",
+      "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Holding On To That Hate",
         "url": "https://open.spotify.com/album/1sFyZJv5DIFOI0yKBC3Kid"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "RESTORATION",
-        "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH"
       },
       "artists": [
         {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
         }
       ],
-      "duration_ms": 177349,
-      "name": "WOLVES",
-      "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
+      "duration_ms": 159428,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5C915u7Dqs82VDnWrqr9cS"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1319,22 +1335,6 @@
       "duration_ms": 161019,
       "name": "Second Thoughts",
       "url": "https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/5C915u7Dqs82VDnWrqr9cS"
     },
     {
       "added_at": "2025-10-10 13:24:48",

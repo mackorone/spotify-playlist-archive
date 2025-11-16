@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 366518,
+  "num_followers": 366635,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
+        "name": "Burn It!",
+        "url": "https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 199454,
+      "name": "Burn It!",
+      "url": "https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-11-13 23:01:23",
       "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
-      },
-      "artists": [
-        {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
         "name": "Gemma e le altre",
         "url": "https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 176063,
       "name": "Baciami",
       "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
+    },
+    {
+      "added_at": "2025-11-13 23:01:23",
+      "album": {
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+      },
+      "artists": [
+        {
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2025-11-13 23:01:23",
@@ -1287,26 +1303,6 @@
       "duration_ms": 233080,
       "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
       "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
-    },
-    {
-      "added_at": "2025-11-13 23:01:23",
-      "album": {
-        "name": "Find You (Gerd Janson Remix)",
-        "url": "https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 374379,
-      "name": "Find You (Gerd Janson Remix)",
-      "url": "https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51"
     },
     {
       "added_at": "2025-11-13 23:01:23",

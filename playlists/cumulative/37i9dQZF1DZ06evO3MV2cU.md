@@ -4,7 +4,7 @@
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-90 songs - 6 hr 49 min
+91 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Here For You \- Live](https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:40 | 2024-05-24 | 2025-10-05 |
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2024-05-24 |  |
 | [Holy Forever](https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Holy Forever](https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE) | 5:33 | 2024-06-23 | 2024-07-21 |
+| [Holy Forever \(Christmas🎄\)](https://open.spotify.com/track/53mDshdRCHJpQdOgPMHg4Z) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \- Christmas Songs Of Worship](https://open.spotify.com/album/0XQi9bYqMEHSoL7tkDwicW) | 5:49 | 2025-11-16 |  |
 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 | 2024-08-09 |  |
 | [Holy Is The Lord \- Arriving Album Version](https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:12 | 2024-05-24 |  |
 | [Holy Roar](https://open.spotify.com/track/2IPWIK1PH9ArgXTaKmk7Ly) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:11 | 2024-07-17 | 2024-07-24 |
@@ -75,7 +76,7 @@
 | [Power \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:13 | 2024-05-25 | 2025-11-05 |
 | [Praise Him Forever](https://open.spotify.com/track/62shNor7VDjzBx8SC9YTPm) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:53 | 2024-05-24 | 2025-09-27 |
 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 | 2024-05-24 | 2025-01-01 |
-| [Resurrection Power](https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:10 | 2024-05-24 |  |
+| [Resurrection Power](https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:10 | 2024-05-24 | 2025-11-16 |
 | [Rivers Of Joy](https://open.spotify.com/track/1s4n443aDlakmnobxjJ146) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:01 | 2025-10-05 |  |
 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 | 2024-05-24 | 2024-12-23 |
 | [Sing, Sing, Sing](https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 3:49 | 2024-05-24 |  |

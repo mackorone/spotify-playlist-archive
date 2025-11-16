@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 12 min
+122 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [God Knows](https://open.spotify.com/track/75XdAUmmNxJ7Z1EKEqSBHs) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:50 | 2025-10-12 |  |
 | [Gone](https://open.spotify.com/track/6vdaDwTbA2yKq9NV6MG6w8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:59 | 2025-10-12 |  |
 | [Half A Man](https://open.spotify.com/track/4EebHwo2KUzB75cl0WSZgi) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:25 | 2024-05-01 |  |
+| [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 | 2025-11-15 |  |
 | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/album/6JMnkPQtpRmMyk2yF7AKeo) | 2:43 | 2024-05-01 |  |
 | [Hole in My Heart](https://open.spotify.com/track/6KOCCvjH3DEyUPhjjfOsP3) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Hole in My Heart](https://open.spotify.com/album/1vKIu5jM2MeRMo6aCfNvIi) | 3:08 | 2024-05-01 |  |
 | [Hologram](https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:22 | 2024-05-01 |  |

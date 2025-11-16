@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 302583,
+  "num_followers": 302585,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "Girlfriend Is Better",
-        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Girlfriend Is Better",
-      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "Industry Baby",
         "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 231381,
       "name": "Industry Baby",
       "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
+    },
+    {
+      "added_at": "2025-11-14 05:00:33",
+      "album": {
+        "name": "Girlfriend Is Better",
+        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Girlfriend Is Better",
+      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
+        "name": "Teardrop",
+        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+    },
+    {
+      "added_at": "2025-11-14 05:00:33",
+      "album": {
         "name": "You've Got a Woman",
         "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
       },
@@ -779,18 +795,22 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "Teardrop",
-        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
+        "name": "2000 Miles (from \"Oh. What. Fun.\")",
+        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
       },
       "artists": [
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Oh. What. Fun.",
+          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+      "duration_ms": 189372,
+      "name": "2000 Miles (from \"Oh. What. Fun.\")",
+      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -947,26 +967,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "2000 Miles (from \"Oh. What. Fun.\")",
-        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Oh. What. Fun.",
-          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
-        }
-      ],
-      "duration_ms": 189372,
-      "name": "2000 Miles (from \"Oh. What. Fun.\")",
-      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "Our House",
         "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
-      },
-      "artists": [
-        {
-          "name": "Hearts Hearts",
-          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
+      },
+      "artists": [
+        {
+          "name": "Hearts Hearts",
+          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
+        }
+      ],
+      "duration_ms": 233795,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
+    },
+    {
+      "added_at": "2025-11-14 05:00:33",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 233772,
       "name": "Landslide - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
+    },
+    {
+      "added_at": "2025-11-14 05:00:33",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 242181,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -1107,22 +1123,6 @@
       "duration_ms": 265772,
       "name": "Different Now",
       "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 242181,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 219598,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
+    },
+    {
+      "added_at": "2025-11-14 05:00:33",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "Fade Into You",
-        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
-      },
-      "artists": [
-        {
-          "name": "Victoria Bigelow",
-          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 224706,
       "name": "These Days",
       "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
+    },
+    {
+      "added_at": "2025-11-14 05:00:33",
+      "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
+      },
+      "artists": [
+        {
+          "name": "Victoria Bigelow",
+          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
     },
     {
       "added_at": "2025-11-14 05:00:33",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-11-14 05:00:33",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 193927,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 210136,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
+    },
+    {
+      "added_at": "2025-11-14 05:00:33",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 193927,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
     },
     {
       "added_at": "2025-11-14 05:00:33",

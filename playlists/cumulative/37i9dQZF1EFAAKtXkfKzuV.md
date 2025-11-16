@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-81 songs - 3 hr 48 min
+82 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 | 2023-06-29 |  |
 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 | 2023-06-29 |  |
 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 | 2025-01-05 |  |
+| [Don't Leave Because I Love You](https://open.spotify.com/track/6loNQhnowrsiqMFyIaGUIs) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Don't Leave Because I Love You](https://open.spotify.com/album/5xnYK3kE1cOCetnHljNwm1) | 2:51 | 2025-11-15 |  |
 | [Don't Wake Me Up](https://open.spotify.com/track/1CqdtosAf3DaK6HWbee2JX) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [JEMKA](https://open.spotify.com/artist/5eeQYpsEkVTJCXPZnp5gTt), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Don't Wake Me Up](https://open.spotify.com/album/2DOtUcaMZeiUkQ1qB5nDBb) | 2:14 | 2024-10-23 |  |
 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 | 2023-06-29 |  |
 | [Easy To Love](https://open.spotify.com/track/5Bns5x2e8ypUcDVuE1uyIm) | [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Easy To Love](https://open.spotify.com/album/708yPIVpuslXntjeYcZ2de) | 2:37 | 2025-01-09 | 2025-04-12 |

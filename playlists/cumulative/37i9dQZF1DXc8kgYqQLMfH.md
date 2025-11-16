@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,284 songs - 2 day 1 hr 6 min
+1,285 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 |  |
 | [Autumn Lies](https://open.spotify.com/track/56Trob6SO6aJt6GLNACrfq) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Seaweather](https://open.spotify.com/album/6Md6MVyHr8AlBayPkYSoB6) | 2:54 | 2022-01-27 | 2023-04-28 |
 | [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 | 2025-07-16 |
-| [awakening](https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [awakening](https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb) | 2:04 | 2025-11-14 |  |
+| [awakening](https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [awakening](https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb) | 2:04 | 2025-11-14 | 2025-11-16 |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2021-11-10 | 2022-05-20 |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-06 | 2025-07-16 |
 | [Babbling Brook](https://open.spotify.com/track/0pUYzh1ywTsyy25UoZTuTG) | [rsbd](https://open.spotify.com/artist/4vdsmVFfnqCP6QvVpDYRTv) | [Babbling Brook](https://open.spotify.com/album/5kOyvkfpUHH0spLyotvPQH) | 2:31 | 2021-11-10 | 2025-07-16 |
@@ -860,6 +860,7 @@
 | [Past Midnight](https://open.spotify.com/track/7BRIAMsYoDibVWzelRRxne) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Past Midnight](https://open.spotify.com/album/01tzaLa2yzvxwlswYjUv1v) | 1:56 | 2022-11-25 | 2023-11-18 |
 | [Past Reflections](https://open.spotify.com/track/3DBvg0sLsLxJvvuaxjtMoE) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Color Within Everything](https://open.spotify.com/album/1z0RoGH8SuBJj0zG0OkYUZ) | 3:00 | 2024-09-06 | 2025-01-11 |
 | [Pathways](https://open.spotify.com/track/7Bha2btgoPHzSwWwyzcTI8) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Pathways](https://open.spotify.com/album/7rmvsiZrRELGCaCIyestXt) | 1:58 | 2022-08-19 | 2023-05-20 |
+| [Pattern](https://open.spotify.com/track/6zDF9n0JB6caYu47scY6Fi) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Pattern](https://open.spotify.com/album/0qSjBjBTS4PoP3hi7uaVJg) | 2:02 | 2025-11-14 |  |
 | [patterns](https://open.spotify.com/track/0sqx1hG3HTw8i4iGw1r4WQ) | [Clocktown Stars](https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns) | [patterns](https://open.spotify.com/album/0y6cc9xjMT1sU5QtgE7q8r) | 2:33 | 2024-01-12 | 2025-07-16 |
 | [Peace and Stone](https://open.spotify.com/track/4P3flpTrYtN1VcVuK4BhPf) | [Skyplanter](https://open.spotify.com/artist/7iaPZbKQSJ5Sw9ThZNfJw7) | [Equivalence](https://open.spotify.com/album/63yQb9VeujB0rdz1m4g5jb) | 2:43 | 2021-11-10 | 2022-10-15 |
 | [peace at midnight](https://open.spotify.com/track/1KfA7CY934KLIyML4sSPgw) | [harrylofi](https://open.spotify.com/artist/5kketA9XnMDFtJsDFLUVtf) | [Peaceful midnight](https://open.spotify.com/album/1QFlYJq4DCDXOu8NSdXREs) | 2:37 | 2022-09-09 | 2023-10-06 |

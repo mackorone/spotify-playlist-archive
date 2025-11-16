@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-698 songs - 1 day 9 hr 51 min
+699 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 | 2023-10-13 | 2024-02-22 |
 | [Don't Let Me Down](https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG) | 3:04 | 2024-03-01 | 2024-04-19 |
 | [Done With Talking](https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Done With Talking](https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi) | 3:00 | 2024-04-26 | 2024-05-15 |
+| [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 | 2025-11-14 |  |
 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 | 2022-06-09 | 2023-05-12 |
 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-09-26 |  |
 | [Economy](https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Economy](https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7) | 3:57 | 2025-04-18 | 2025-08-01 |
@@ -658,7 +659,7 @@
 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 | 2024-05-17 | 2024-10-26 |
 | [WASTELINE](https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WASTELINE](https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX) | 2:44 | 2023-11-10 | 2023-12-22 |
 | [Water](https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Water](https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml) | 2:29 | 2023-05-04 | 2024-06-15 |
-| [Way2Yung](https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [W2Y](https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz) | 2:18 | 2025-08-22 |  |
+| [Way2Yung](https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [W2Y](https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz) | 2:18 | 2025-08-22 | 2025-11-16 |
 | [We Dey](https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:39 | 2023-10-27 | 2023-12-02 |
 | [Weep, No More](https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Weep, No More](https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB) | 2:21 | 2023-02-10 | 2023-03-04 |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 | 2023-03-04 |

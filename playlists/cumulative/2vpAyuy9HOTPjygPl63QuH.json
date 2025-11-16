@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 169523,
       "name": "2009",
       "url": "https://open.spotify.com/track/7hI6lsC3yvxExoVG3w8euT"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 168576,
       "name": "925",
       "url": "https://open.spotify.com/track/5aNcakuYRSAfNFOz8nREvT"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 155964,
       "name": "Apple Cider",
       "url": "https://open.spotify.com/track/3tC1yR3AZxpgac6ajPHHfL"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 218978,
       "name": "Beats & Pool - Radio Edit",
       "url": "https://open.spotify.com/track/5yDgcnzmbUvriBdEdmkapQ"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 169687,
       "name": "Blink",
       "url": "https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4"
@@ -5838,7 +5838,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 158139,
       "name": "Bunzzz",
       "url": "https://open.spotify.com/track/0FVvWhTlaAtcEbO8Bp6on0"
@@ -7546,7 +7546,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 180318,
       "name": "Control",
       "url": "https://open.spotify.com/track/570yVtPUvoxUYI0pN3o0qX"
@@ -9544,7 +9544,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 155549,
       "name": "Disco Demon",
       "url": "https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv"
@@ -10118,7 +10118,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 177831,
       "name": "Doin' it featuring MC DT",
       "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
@@ -10579,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "Stepping Out EP",
+        "url": "https://open.spotify.com/album/6Q8TAXh9IQWJ6jYmVhRWdJ"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/6VbpWrJmb671jqlGgYcdIe"
+    },
+    {
+      "album": {
         "name": "Down The Discoline",
         "url": "https://open.spotify.com/album/0SLHPuGbSlv5DDNIQS9CHk"
       },
@@ -10924,6 +10942,28 @@
       "duration_ms": 156923,
       "name": "Drugs From Amsterdam - Armand Van Helden Remix",
       "url": "https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR"
+    },
+    {
+      "album": {
+        "name": "Drum Check",
+        "url": "https://open.spotify.com/album/6Mm3lTWzjZ6Nn2nvcDf0iT"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        },
+        {
+          "name": "Bauti Tesei",
+          "url": "https://open.spotify.com/artist/17YsLIhtMx8p4QaDAqpPh6"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154453,
+      "name": "Drum Check",
+      "url": "https://open.spotify.com/track/3YTJYfe33pGAWn2K9Bo1aq"
     },
     {
       "album": {
@@ -12126,7 +12166,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 198095,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/5glulfNqVHMi9D8nXXeH8J"
@@ -12804,7 +12844,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 196121,
       "name": "Fanta",
       "url": "https://open.spotify.com/track/3QOhUwz8I1GxzD5yza7WWX"
@@ -12994,6 +13034,24 @@
       "duration_ms": 183692,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/1xj3p0T92qspXHlDTMeyFN"
+    },
+    {
+      "album": {
+        "name": "Feel Da Beat",
+        "url": "https://open.spotify.com/album/271gqubAE5hTSAQBWqiavh"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Feel Da Beat",
+      "url": "https://open.spotify.com/track/49OuNS6cGZrDLputzkeNOh"
     },
     {
       "album": {
@@ -13198,7 +13256,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 184673,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/3gzFwocYC3xcdl6vIOEu3f"
@@ -13734,7 +13792,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 189268,
       "name": "Flexin",
       "url": "https://open.spotify.com/track/1ca3z0aTO9gjB8L5djqNtr"
@@ -13756,7 +13814,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 253023,
       "name": "FLEXN",
       "url": "https://open.spotify.com/track/6CJdHXATu12NplDgczfD86"
@@ -14872,7 +14930,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 223618,
       "name": "Galvanize - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
@@ -15312,7 +15370,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 149956,
       "name": "Get Loose (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH"
@@ -18824,7 +18882,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 146059,
       "name": "I Don't Trust A Soul",
       "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
@@ -21296,6 +21354,24 @@
       "duration_ms": 132727,
       "name": "Kicking You Out",
       "url": "https://open.spotify.com/track/2wxzJgEPeK0nteer6J8Z93"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/22RXS7iEQ1RYMfY97xlUhp"
+      },
+      "artists": [
+        {
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138020,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz"
     },
     {
       "album": {
@@ -24590,7 +24666,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 164307,
       "name": "Machines",
       "url": "https://open.spotify.com/track/4FMOsst9oel1TTQd3frinz"
@@ -27048,7 +27124,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 182769,
       "name": "My City",
       "url": "https://open.spotify.com/track/6ipv6Mrfq4qF26ZRXAGgzp"
@@ -28616,7 +28692,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 157500,
       "name": "Noventa (with J Balvin) - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3RLVNDwFp3dVcdMnmhM8Kh"
@@ -35980,7 +36056,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 155076,
       "name": "Side Man",
       "url": "https://open.spotify.com/track/1qMdHgiv9rEXu9gBUUqLhI"
@@ -36520,6 +36596,24 @@
       "duration_ms": 191250,
       "name": "Snake Melody",
       "url": "https://open.spotify.com/track/5qqThv9NfQF7ZBJKtlkbMx"
+    },
+    {
+      "album": {
+        "name": "Snappy",
+        "url": "https://open.spotify.com/album/6Q73rCb4FhYN9sg49yaKoh"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Snappy",
+      "url": "https://open.spotify.com/track/5bDRBPSLkcURd6thTklt2s"
     },
     {
       "album": {
@@ -37152,7 +37246,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 169700,
       "name": "Soundboy (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B"
@@ -37316,7 +37410,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 175312,
       "name": "Spend Money",
       "url": "https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4"
@@ -37596,7 +37690,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 180750,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/1RMcfaJ3f4a4vLU7veJU5H"
@@ -38394,7 +38488,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 156000,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6uDFNrjOxLG6FIUlVDIiPG"
@@ -38536,7 +38630,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 169545,
       "name": "System Overload",
       "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
@@ -39546,7 +39640,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 186818,
       "name": "TESLA",
       "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
@@ -41494,7 +41588,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 177230,
       "name": "Time Away",
       "url": "https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr"
@@ -46430,7 +46524,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 193903,
       "name": "WTF",
       "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
@@ -46708,6 +46802,28 @@
       "duration_ms": 180000,
       "name": "You Feel",
       "url": "https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs"
+    },
+    {
+      "album": {
+        "name": "You Gonna Want Me (I Know)",
+        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "You Gonna Want Me (I Know)",
+      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "album": {

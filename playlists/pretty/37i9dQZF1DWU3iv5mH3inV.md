@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow pa to el mundo\. Foto: Yailín La Más Viral
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,476 likes - 100 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,473 likes - 100 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 13 | [DEM BOW](https://open.spotify.com/track/2yKt89hsvRBp2mW8CA7OUk) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [DEM BOW](https://open.spotify.com/album/73BuRIf1BACSngcq0FEHs6) | 2:26 |
 | 14 | [Que Dique Tu Si](https://open.spotify.com/track/2b9GV9lctI15xWwuzOUwju) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz), [Mapa Negro](https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO) | [Que Dique Tu Si](https://open.spotify.com/album/6pcAr6xqwgtHsSBm2qFbv8) | 2:00 |
 | 15 | [PUÑALA](https://open.spotify.com/track/3qFY6pL6sRlkWBdz5tZJxF) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Flow Nocturno](https://open.spotify.com/artist/4MdN6kzDjnlOc5TvnvKVaL) | [PUÑALA](https://open.spotify.com/album/1uqEfqv2ZpCIuCMUj8qd4s) | 2:51 |
-| 16 | [Plan A](https://open.spotify.com/track/5ncCSGSDzQQ4nLfs95Ms9B) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Plan A](https://open.spotify.com/album/570ke1XVgqOKo3mHfNLmtm) | 2:06 |
+| 16 | [Plan A](https://open.spotify.com/track/5ncCSGSDzQQ4nLfs95Ms9B) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Plan A](https://open.spotify.com/album/570ke1XVgqOKo3mHfNLmtm) | 2:04 |
 | 17 | [Cadereo](https://open.spotify.com/track/3R8VMEspr1YsOuw7qQ5jSj) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Cadereo](https://open.spotify.com/album/3ZeCzWedwxk09wbotwVw0k) | 2:00 |
 | 18 | [Creta Seca](https://open.spotify.com/track/1cIsTGK9gkdDqiufIyeSf8) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Creta Seca](https://open.spotify.com/album/5HaE5XPezK1iJ5aryoU6CW) | 1:25 |
 | 19 | [Lo Que Te Killa](https://open.spotify.com/track/2v9Ag8lh0B21ulpLyh9Wvo) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Lo Que Te Killa](https://open.spotify.com/album/43YzZEsTqPTmeUvh7m8Cwy) | 2:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 宋德鶴 \(Song of Crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,608 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,612 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 60 | [孤單北半球 \- 滾石撞樂隊2 \(原唱:林依晨\)](https://open.spotify.com/track/3L6xFIfkPyjXdBB6CDC0ur) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [滾石撞樂隊2 \- 孤單北半球](https://open.spotify.com/album/3axDHT082RaLYhNDIcZ9xf) | 2:54 |
 | 61 | [所有情歌都關於你](https://open.spotify.com/track/5m5So19AilO6NpcadojFNQ) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [所有情歌都關於你](https://open.spotify.com/album/2onBGNbk9DKfCEiljt4hHz) | 3:15 |
 | 62 | [巷仔尾ㄟ歌 \- 嘻哈版](https://open.spotify.com/track/0c5MTXDH0SF7HertBbfcIe) | [壞胚子BAD MAN](https://open.spotify.com/artist/4fk1PPhCwppRvWS0VtbFRK) | [巷仔尾ㄟ歌 \(嘻哈版\)](https://open.spotify.com/album/3VaETp1fnhpQsHOhE722ex) | 2:48 |
-| 63 | [泡泡](https://open.spotify.com/track/6svH8cx55dJWiVXPPzYAYE) | [越野快餐車](https://open.spotify.com/artist/5xGPYOql3XMjEY5gd2uqAL) | [越野](https://open.spotify.com/album/6QIkei7iQwevR8osNOBkkg) | 4:43 |
+| 63 | [泡泡](https://open.spotify.com/track/6svH8cx55dJWiVXPPzYAYE) | [越野快餐車 Wild Fast Food](https://open.spotify.com/artist/1GbkHBnF9t3roo1qrnY52W) | [越野](https://open.spotify.com/album/6QIkei7iQwevR8osNOBkkg) | 4:43 |
 | 64 | [生存遊戲 feat\. W0LF\(S\)五堅情 \(戲劇「舊金山美容院」片尾曲\)](https://open.spotify.com/track/3Ezw8duVyNDUGjfoD6Z4po) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [戲劇「舊金山美容院」原聲帶](https://open.spotify.com/album/5yJsUaaQUVMfQJsyOD8aJ3) | 4:02 |
 | 65 | [AXIS](https://open.spotify.com/track/5HHtUofAVLVozGHHsLdKPn) | [Motif Hive](https://open.spotify.com/artist/0TzZGtByDjlFroO4ZX5WnK) | [Phase](https://open.spotify.com/album/1ATYciCevArKyal1sENEtt) | 2:46 |
 | 66 | [愛人與被愛的姿態](https://open.spotify.com/track/0JSVc8Y0twd0sUGTZOThyY) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [GOOD AFTERNIGHT](https://open.spotify.com/album/1VUk2a1DJkLjRuUt5WaC27) | 3:17 |

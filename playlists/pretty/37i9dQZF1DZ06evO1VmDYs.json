@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 197629,
+  "num_followers": 197661,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAAnFUmjRkepSTwf/gHMXtmu",
+  "snapshot_id": "aRZxAAAAAAB2YNGh/WZvFXp9GQsBpuHn",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Favorite Songs (feat. AJR)",
-        "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
       "artists": [
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 170720,
-      "name": "All My Favorite Songs (feat. AJR)",
-      "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
+      "duration_ms": 189400,
+      "name": "Pork And Beans",
+      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
     },
     {
       "added_at": null,
@@ -195,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+        "name": "All My Favorite Songs (feat. AJR)",
+        "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
       },
       "artists": [
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 189400,
-      "name": "Pork And Beans",
-      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
+      "duration_ms": 170720,
+      "name": "All My Favorite Songs (feat. AJR)",
+      "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 128332,
-      "name": "Knockdown Dragout",
-      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
+      "duration_ms": 229733,
+      "name": "O Girlfriend",
+      "url": "https://open.spotify.com/track/1EYwaLwf6fdS3NIlTbUZ3X"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 229733,
-      "name": "O Girlfriend",
-      "url": "https://open.spotify.com/track/1EYwaLwf6fdS3NIlTbUZ3X"
+      "duration_ms": 128332,
+      "name": "Knockdown Dragout",
+      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
     },
     {
       "added_at": null,

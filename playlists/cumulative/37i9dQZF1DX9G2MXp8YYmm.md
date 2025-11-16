@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ceylin Arslan
 
-428 songs - 21 hr 23 min
+429 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Karalım](https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Karalım](https://open.spotify.com/album/6Dz4jZGoLAlUuSbVIqPAoe) | 3:26 | 2025-03-27 | 2025-11-07 |
 | [Karma](https://open.spotify.com/track/2itq7IbKoWjhEsLTaHkI7g) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Karma](https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v) | 3:12 | 2025-07-24 | 2025-09-09 |
 | [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-06-27 | 2024-12-18 |
+| [Kasım Yağmurları](https://open.spotify.com/track/0ZWcAIUTkccr5aPVDUwXeB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kasım Yağmurları](https://open.spotify.com/album/3kfJ6gODA7UPqZqc8Fz8Mi) | 3:51 | 2025-11-13 |  |
 | [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 | 2025-04-03 | 2025-06-15 |
 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 | 2025-05-29 |  |
 | [Kaybolsam](https://open.spotify.com/track/3Qr4C2suSijySxbehezuNB) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Kaybolsam](https://open.spotify.com/album/6Yo1LuAKJTzBZJxNdPQ4dv) | 1:40 | 2025-09-25 | 2025-10-10 |
@@ -325,7 +326,7 @@
 | [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 |  |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 | 2025-10-24 |
-| [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 |  |
+| [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 | 2025-11-16 |
 | [Sevdam](https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Zehra](https://open.spotify.com/artist/2kdaYJfJVIGBaNcMmrg13p) | [Sevdam](https://open.spotify.com/album/1dz1wwRN1kFoxNCimPiDm6) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [Sevilmeye Doy Diye](https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:52 | 2025-11-06 |  |
 | [Seviyore Mi](https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Seviyore Mi](https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw) | 2:22 | 2024-07-11 | 2024-07-24 |

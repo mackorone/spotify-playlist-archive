@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: AZ Chike
 
-1,440 songs - 2 day 18 hr 59 min
+1,441 songs - 2 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Baby](https://open.spotify.com/track/1N2hWB1AlSNifwHZZjRmvy) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Baby](https://open.spotify.com/album/2ObwmMhLU5Xcpy49Qmw6Eu) | 2:56 | 2024-10-11 | 2024-10-26 |
 | [Baby](https://open.spotify.com/track/16XlQ75mVEp4wlfdTvGcnP) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Baby](https://open.spotify.com/album/6J1yejuu881CRYihj6PQCN) | 2:21 | 2025-05-23 | 2025-06-07 |
 | [Baby Boy Is Drunk \(feat, AG Club & AUDREY NUNA\)](https://open.spotify.com/track/258wpVH5k51Aa2ZZh07Fz2) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Baby Boy Is Drunk \(feat, AG Club & AUDREY NUNA\)](https://open.spotify.com/album/6nLSvRBhJMSfRAntC9p9Y7) | 2:40 | 2024-10-07 | 2024-10-26 |
+| [Baby Girl](https://open.spotify.com/track/53QS0XIa5X575hDOcgRATp) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Baby Girl](https://open.spotify.com/album/3UXC5YnQH58BQaUPUIPqzM) | 2:21 | 2025-11-15 |  |
 | [Baby Gurl](https://open.spotify.com/track/076rilMygGj6MZUDct1APv) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [California Player \(Deluxe\)](https://open.spotify.com/album/19Zf8ndlY7FgnNyvy2pIlk) | 2:40 | 2025-09-26 | 2025-10-05 |
 | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx) | 2:30 | 2025-01-31 | 2025-02-15 |
 | [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bighead](https://open.spotify.com/artist/47rYP3OnFecFuino5DXte1) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 | 2023-03-17 | 2023-07-08 |
@@ -1177,7 +1178,7 @@
 | [Smoke Up](https://open.spotify.com/track/0T0Cy0HpURnrxe35yOmTRg) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Smoke Up](https://open.spotify.com/album/5khKUgXTfSYKbiPPziP8u4) | 2:31 | 2024-05-31 | 2024-06-08 |
 | [So Into You \- Freestyle](https://open.spotify.com/track/7tm1iBwlqhERgmH3yilnef) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [So Into You \(Freestyle\)](https://open.spotify.com/album/5H1IfG3XGEneqGS4WiJB1N) | 1:43 | 2024-03-29 | 2024-04-06 |
 | [So Many Times](https://open.spotify.com/track/4jaS5KYcn2DlGYk46iWrNc) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [So Many Times](https://open.spotify.com/album/53kjfmtIlFLGqHWtyysEuu) | 2:03 | 2025-04-04 | 2025-04-26 |
-| [So Right](https://open.spotify.com/track/3h6BhbgZ1jHvMZO84eO5LW) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Molly Santana](https://open.spotify.com/album/0L3yIg84VZblXuBBewLgn6) | 2:47 | 2025-10-03 |  |
+| [So Right](https://open.spotify.com/track/3h6BhbgZ1jHvMZO84eO5LW) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Molly Santana](https://open.spotify.com/album/0L3yIg84VZblXuBBewLgn6) | 2:47 | 2025-10-03 | 2025-11-16 |
 | [So What](https://open.spotify.com/track/70qosWY9iEcX7mcW4aaJnw) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [So What](https://open.spotify.com/album/7DOGM89KaIvTKxyqWXr6rw) | 2:34 | 2025-05-30 | 2025-11-15 |
 | [So What](https://open.spotify.com/track/7gnE132VY9pFbbMGCbt3JJ) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl), [pfacebabyyy](https://open.spotify.com/artist/4nY2E5U6yR1PRFhluG3gjO) | [So What](https://open.spotify.com/album/70s8raUZzIYYJq4IkT2PwD) | 2:48 | 2025-11-07 |  |
 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 | 2023-08-25 | 2024-10-08 |

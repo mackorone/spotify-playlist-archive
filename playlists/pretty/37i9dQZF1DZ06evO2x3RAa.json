@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADWq2orjvQvGsWOr/JR0QKQ",
+  "snapshot_id": "aRZxAAAAAAD8ZYCVqlsIa8uEC4yIDWZE",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Mt. Zion",
-      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
+      "duration_ms": 292800,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq"
+      "duration_ms": 172226,
+      "name": "Mt. Zion",
+      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 365040,
-      "name": "Know Jesus Know Life",
-      "url": "https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv"
+      "duration_ms": 175933,
+      "name": "Jesus Give Me Your Light",
+      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 568280,
-      "name": "Tell Them",
-      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "51 Lex Presents: O'Nambia",
         "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
       },
@@ -443,22 +427,6 @@
       "duration_ms": 488400,
       "name": "No More Wars",
       "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Oba Erediauwa",
-      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
     },
     {
       "added_at": null,
@@ -479,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
       "artists": [
         {
@@ -488,9 +456,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 684933,
-      "name": "Festival Of The Hunters",
-      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
+      "duration_ms": 568280,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Oba Erediauwa",
+      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
     },
     {
       "added_at": null,
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
       },
       "artists": [
         {
@@ -520,9 +504,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 501040,
-      "name": "3rd World",
-      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
+      "duration_ms": 684933,
+      "name": "Festival Of The Hunters",
+      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Holy Mass",
+      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Wars",
-        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 377093,
-      "name": "Holy Mass",
-      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
+      "duration_ms": 501040,
+      "name": "3rd World",
+      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 448026,
-      "name": "Dance Of The Elephants",
-      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mother & Child",
         "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 337666,
       "name": "My Cherie Koko",
       "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 448026,
+      "name": "Dance Of The Elephants",
+      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
     },
     {
       "added_at": null,

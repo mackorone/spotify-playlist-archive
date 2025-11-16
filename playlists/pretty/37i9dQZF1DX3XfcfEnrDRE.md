@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: The Band JAREN
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,697 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,746 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 5 | [Can't Stop Me](https://open.spotify.com/track/6sgDAp47RNTEVrzOMYU0PV) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Can't Stop Me](https://open.spotify.com/album/6r7dvXXA7V2s9aSghRX4Zw) | 3:12 |
 | 6 | [FREE MAN](https://open.spotify.com/track/2GkUxvdFhEXfDG9upxhV9I) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [FREE MAN](https://open.spotify.com/album/4NH0OIVKH3u71ls0wgCHRL) | 3:35 |
 | 7 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
-| 8 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 |
+| 8 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 |
 | 9 | [Walking Into Fire](https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Walking Into Fire](https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB) | 3:01 |
 | 10 | [THE NAME ABOVE ALL NAMES](https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [IT NEEDS TO BE SAID](https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY) | 4:57 |
 | 11 | [There Is A Higher Throne](https://open.spotify.com/track/6ZOA7z5HY4F2sLdPMm0DKA) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [Asaph's Arrows II](https://open.spotify.com/album/7kOSrO39glloRECjkFAbQU) | 4:27 |
 | 12 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 |
-| 13 | [oasis for my soul](https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [oasis for my soul](https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt) | 2:16 |
+| 13 | [oasis for my soul](https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [oasis for my soul](https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt) | 2:16 |
 | 14 | [Fall In Love With The Light](https://open.spotify.com/track/16StXt03d3fgPTwku3vCbH) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/1lslX7adoOFVX9DMGRpK49) | 3:59 |
 | 15 | [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 |
 | 16 | [why why why](https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [why why why](https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN) | 4:01 |

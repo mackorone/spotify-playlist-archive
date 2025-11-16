@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat SHRTY,  Alina Burnet, Robyn, Mikael Gabriel & Senni, Robin Packalen & Clara Mae, Jore & Zpoppa ...ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,146 likes - 110 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,144 likes - 110 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

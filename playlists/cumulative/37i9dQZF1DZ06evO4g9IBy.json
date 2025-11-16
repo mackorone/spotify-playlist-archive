@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 62485,
       "name": "Django",
       "url": "https://open.spotify.com/track/7fAXIDhI8ZZ0toKSQnjkCO"
@@ -425,6 +425,32 @@
     },
     {
       "album": {
+        "name": "Buckingham Nicks",
+        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435793,
+      "name": "Frozen Love",
+      "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
+    },
+    {
+      "album": {
         "name": "Live In Concert: The 24 Karat Gold Tour",
         "url": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
       },
@@ -490,7 +516,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 224773,
       "name": "I Sing for Things",
       "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
@@ -1216,7 +1242,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 271840,
       "name": "Whole Lotta Trouble",
       "url": "https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S"

@@ -1,13 +1,33 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 11049,
+  "num_followers": 11058,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAAt9rncDU02LXoLVNVogNA4",
+  "snapshot_id": "aRZxAAAAAABfK3oQ5NuR1L/W5RyBNy9L",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'd Miss the Birds (feat. Sheryl Crow)",
+        "url": "https://open.spotify.com/album/0wOvaNaVjqHrnnxGCMznEQ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 188382,
+      "name": "I'd Miss the Birds (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/3S9ztrnCBKQ8pIL9iLQdSM"
+    },
     {
       "added_at": null,
       "album": {
@@ -311,38 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189859,
-      "name": "I\u2019D MISS THE BIRDS",
-      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189722,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/6gc1IqKVv87XukZlYsJxxo"
       },
@@ -359,6 +347,22 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/7A4S5hX98oy3nRSlt8SMT7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k"
     },
     {
       "added_at": null,
@@ -399,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 230744,
-      "name": "You At The Table (with Manchester Orchestra)",
-      "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
         "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
@@ -439,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 230744,
+      "name": "You At The Table (with Manchester Orchestra)",
+      "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OBSERVATIONS FROM A CROWDED ROOM",
         "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
       },
@@ -451,6 +455,22 @@
       "duration_ms": 203739,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "someone that i used to be",
+      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
     },
     {
       "added_at": null,
@@ -475,22 +495,6 @@
       "duration_ms": 242625,
       "name": "Jesus and John Wayne",
       "url": "https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "someone that i used to be",
-      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
     },
     {
       "added_at": null,
@@ -851,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 223510,
+      "name": "DUST/DIVINITY",
+      "url": "https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
       },
@@ -863,22 +883,6 @@
       "duration_ms": 222228,
       "name": "Stacy",
       "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carry",
-        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 279614,
-      "name": "Animals & Angels",
-      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

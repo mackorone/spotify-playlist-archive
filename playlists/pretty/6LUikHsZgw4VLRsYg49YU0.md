@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,266 likes - 100 songs - 5 hr 30 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,299 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

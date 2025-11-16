@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "costa rica rains",
+        "url": "https://open.spotify.com/album/3oxEFOaQCjpQxlBHeOBAuV"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "rainbolt",
+          "url": "https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "costa rica jungle downpour",
+      "url": "https://open.spotify.com/track/2HvAiax6XQNCORkA6S1WoF"
+    },
+    {
+      "album": {
         "name": "Midnight Wilderness",
         "url": "https://open.spotify.com/album/6OvDlztdFURmheHoFwdtLr"
       },
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 178858,
       "name": "Manglares",
       "url": "https://open.spotify.com/track/0t4tA8xueOdJWOaHCyHVgK"

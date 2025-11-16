@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,764 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,772 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 64 | [Hoops](https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut) | 2:38 |
 | 65 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 |
 | 66 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
-| 67 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
-| 68 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 |
+| 67 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 |
+| 68 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
 | 69 | [Am I Your Girl](https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:14 |
 | 70 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
 | 71 | [Drawbridge & The Baroness](https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 112 | [Honey](https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:43 |
 | 113 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 |
 | 114 | [Get Hurt](https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Get Hurt](https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj) | 3:43 |
-| 115 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 |
-| 116 | [I Remember Way Too Much \- Acoustic Version](https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [I Remember Way Too Much \(Acoustic Version\)](https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH) | 3:42 |
+| 115 | [I Remember Way Too Much \- Acoustic Version](https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [I Remember Way Too Much \(Acoustic Version\)](https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH) | 3:42 |
+| 116 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 |
 | 117 | [Smoke & Ribbons](https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Tilt At The Wind No More](https://open.spotify.com/album/7p6kas933fJItm9YDJew2A) | 3:32 |
 | 118 | [Spinning the Truth Around](https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Spinning the Truth Around](https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP) | 4:49 |
 | 119 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 |
@@ -147,16 +147,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 137 | [Breakdown](https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 3:03 |
 | 138 | [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 |
 | 139 | [Suburban Trees](https://open.spotify.com/track/1gzXd86MIR8NSLGvvl6OXG) | [Jump, Little Children](https://open.spotify.com/artist/2FUX1YWRyeqe4wbOregG0G) | [Foundering](https://open.spotify.com/album/6rRZp4HCnXyoSxDvz8lbIa) | 4:49 |
-| 140 | ['93 or '94](https://open.spotify.com/track/5Xt4AWLrM8FRFZhGWf2UvN) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | ['93 or '94](https://open.spotify.com/album/1FdGLYahtPLY8kU5YEvlhO) | 3:17 |
-| 141 | [New Propeller](https://open.spotify.com/track/7jL7NYXj9Ix92PlSno4Qsz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [New Propeller](https://open.spotify.com/album/725xhkAOsCFsKG9c39QtlF) | 5:17 |
+| 140 | [New Propeller](https://open.spotify.com/track/7jL7NYXj9Ix92PlSno4Qsz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [New Propeller](https://open.spotify.com/album/725xhkAOsCFsKG9c39QtlF) | 5:17 |
+| 141 | ['93 or '94](https://open.spotify.com/track/5Xt4AWLrM8FRFZhGWf2UvN) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | ['93 or '94](https://open.spotify.com/album/1FdGLYahtPLY8kU5YEvlhO) | 3:17 |
 | 142 | [Home for the Weekend](https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Lady Lou](https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi) | 4:37 |
 | 143 | [Dangerous Game](https://open.spotify.com/track/2xPVwhmbfL7YiHaC6gkdml) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:01 |
 | 144 | [Blows](https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Strength](https://open.spotify.com/album/2lYnlOOGFCd0hzkUoSnFNK) | 3:09 |
 | 145 | [Take a Look Inside](https://open.spotify.com/track/1pWu29hfLPWxqegK7ohVWt) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Take a Look Inside](https://open.spotify.com/album/63zgDmHLZgi5FtHJNLFt0R) | 4:28 |
 | 146 | [Lean](https://open.spotify.com/track/7BavE1d2aOHrkGQPSyoDbh) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Lean](https://open.spotify.com/album/5xl7MDx30jHdHSYdDuYPwX) | 3:45 |
-| 147 | [La La \(feat\. The Mowgli's\)](https://open.spotify.com/track/1x2nu22qIx060t6sSrfRWE) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [La La](https://open.spotify.com/album/2FPQAg8aL63OrjmIc40AEh) | 3:41 |
-| 148 | [The Fences of Stonehenge](https://open.spotify.com/track/4SJ7yrRxPhwQNgSzgl4xnS) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [The Fences of Stonehenge](https://open.spotify.com/album/2OdyVeAmuM7NKo9zgWx215) | 2:38 |
-| 149 | [Shapes](https://open.spotify.com/track/52drSnHzQSFD70z2EipOIs) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [The Blue](https://open.spotify.com/album/1XaDJSTnBrDnh0fDWkbGz5) | 3:10 |
+| 147 | [Shapes](https://open.spotify.com/track/52drSnHzQSFD70z2EipOIs) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [The Blue](https://open.spotify.com/album/1XaDJSTnBrDnh0fDWkbGz5) | 3:10 |
+| 148 | [La La \(feat\. The Mowgli's\)](https://open.spotify.com/track/1x2nu22qIx060t6sSrfRWE) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [La La](https://open.spotify.com/album/2FPQAg8aL63OrjmIc40AEh) | 3:41 |
+| 149 | [The Fences of Stonehenge](https://open.spotify.com/track/4SJ7yrRxPhwQNgSzgl4xnS) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [The Fences of Stonehenge](https://open.spotify.com/album/2OdyVeAmuM7NKo9zgWx215) | 2:38 |
 | 150 | [Matter Of Time](https://open.spotify.com/track/6JsirqvUIaAfQCRHBSX4ue) | [Fitness](https://open.spotify.com/artist/7oC7e6ijd7nv4gVBDetGQM) | [Matter Of Time](https://open.spotify.com/album/7JPC1GrJ0hdQkCDCxQblv4) | 2:39 |
 
 Snapshot ID: `AAAAAJkBKe4Q/0oJTBCjN9ycu2ch/SLH`

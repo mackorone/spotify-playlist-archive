@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Abbie Callahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,867 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,882 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 |
 | 100 | [Georgia Dreamin'](https://open.spotify.com/track/2N3C3SQ1T7VNoYKOUWKWsT) | [Ben Chapman & Co.](https://open.spotify.com/artist/6caurkAUTAiE68wavYKUN8), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Georgia Dreamin'](https://open.spotify.com/album/1BA9KEdF7nurksYJY1Lc3N) | 3:53 |
 
-Snapshot ID: `AAAAAAEFQ/Wj7IzK5yzU8FDihaPFG3I5`
+Snapshot ID: `AAAAAEr/49IMEJWIPK62JsueJJwe9B6W`

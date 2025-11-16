@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A La Mitad (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6LURF69yHcqbtyr1OrUwko"
+      },
+      "artists": [
+        {
+          "name": "MAURA NAVA",
+          "url": "https://open.spotify.com/artist/3W43SA5H6ybLgyCZ86OANj"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199533,
+      "name": "A La Mitad - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0nZhcBDyshxiuwUXbPs1Ic"
+    },
+    {
+      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
       },
@@ -968,7 +986,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"

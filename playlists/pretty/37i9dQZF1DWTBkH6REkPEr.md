@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,811 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,858 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 7 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
 | 8 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 |
 | 9 | [Hey Mama \(feat\. Nicki Minaj, Bebe Rexha & Afrojack\)](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:12 |
-| 10 | [Freaks](https://open.spotify.com/track/62feRreeM9ea7i2VHVSKrg) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/4N8JGZRiTgGcUz9IamhsQ8) | 2:48 |
-| 11 | [Sun Goes Down \(feat\. Jasmine Thompson\) \- Radio Mix](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 2:59 |
+| 10 | [Sun Goes Down \(feat\. Jasmine Thompson\) \- Radio Mix](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 2:59 |
+| 11 | [Freaks](https://open.spotify.com/track/62feRreeM9ea7i2VHVSKrg) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/4N8JGZRiTgGcUz9IamhsQ8) | 2:48 |
 | 12 | [Blame \(feat\. John Newman\)](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:32 |
 | 13 | [Perdoname \(feat\. DyCy & Adrian Delgado\)](https://open.spotify.com/track/5cR7culxUEPLhzIC0KWAH1) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [DyCy](https://open.spotify.com/artist/2qdqYad94Al0HLIgmUGQM5), [Adrian Delgado](https://open.spotify.com/artist/0D2VCZf17n5XVzgFAnO9cA) | [Perdoname \(feat\. DyCy & Adrian Delgado\)](https://open.spotify.com/album/2H2Cv9mrQq4PSzGLXmxkw3) | 4:30 |
 | 14 | [Lovers on the Sun \(feat\. Sam Martin\)](https://open.spotify.com/track/2rgtCOVK2tpfao2VjURn84) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:23 |

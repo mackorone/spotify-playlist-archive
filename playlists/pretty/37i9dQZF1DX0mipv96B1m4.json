@@ -647,6 +647,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Semi Final",
+        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dush",
+          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Semi Final",
+      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -671,22 +691,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Semi Final",
-        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+        "name": "Bakuwe",
+        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
         },
         {
-          "name": "Dush",
-          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 172721,
-      "name": "Semi Final",
-      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+      "duration_ms": 186000,
+      "name": "Bakuwe",
+      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -719,26 +739,6 @@
       "duration_ms": 167524,
       "name": "Cyaa Sidung",
       "url": "https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bakuwe",
-        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
-      },
-      "artists": [
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bakuwe",
-      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
       "added_at": "2024-03-01 12:07:08",

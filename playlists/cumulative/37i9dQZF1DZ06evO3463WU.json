@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/2Hg9HggnBGX5sHtfE8YXC7"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210428,
+      "name": "35 Aniversario",
+      "url": "https://open.spotify.com/track/4W0ekghQMzV2jJP87vkz4p"
+    },
+    {
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 210453,
       "name": "Luchar\u00e9 Por Ti",
       "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"

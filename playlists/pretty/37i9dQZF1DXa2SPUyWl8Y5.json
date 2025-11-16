@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 552937,
+  "num_followers": 552980,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/BmUR5qjiKmzT9P7GKs7OMH4sX",
+  "snapshot_id": "AAAAALEqgJs1pqkkC2+/nvhWzb+BF8jc",
   "tracks": [
     {
       "added_at": "2025-11-06 23:00:11",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Hipotez",
         "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 352920,
       "name": "Hipotez",
       "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 445881,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 445881,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Shaded",
         "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
-      },
-      "artists": [
-        {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "10 Years URSL - Reframed Future",
         "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Mera",
-        "url": "https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p"
-      },
-      "artists": [
-        {
-          "name": "Renga Weh",
-          "url": "https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR"
-        }
-      ],
-      "duration_ms": 431879,
-      "name": "Polymid",
-      "url": "https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Rapture EP",
         "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 269153,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "Mera",
+        "url": "https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p"
+      },
+      "artists": [
+        {
+          "name": "Renga Weh",
+          "url": "https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR"
+        }
+      ],
+      "duration_ms": 431879,
+      "name": "Polymid",
+      "url": "https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl"
     },
     {
       "added_at": "2025-11-06 23:00:11",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-11-06 23:00:11",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR"
-      },
-      "artists": [
-        {
-          "name": "Another Mind",
-          "url": "https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4"
-        }
-      ],
-      "duration_ms": 476129,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz"
-    },
-    {
-      "added_at": "2025-11-06 23:00:11",
-      "album": {
         "name": "Curve | The Arc",
         "url": "https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 515111,
       "name": "Curve",
       "url": "https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd"
+    },
+    {
+      "added_at": "2025-11-06 23:00:11",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR"
+      },
+      "artists": [
+        {
+          "name": "Another Mind",
+          "url": "https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4"
+        }
+      ],
+      "duration_ms": 476129,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz"
     },
     {
       "added_at": "2025-11-06 23:00:11",

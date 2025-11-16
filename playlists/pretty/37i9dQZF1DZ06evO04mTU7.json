@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10842,
+  "num_followers": 10857,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADoe/d/4SjomdpnpXHZVlzV",
+  "snapshot_id": "aRZxAAAAAACGOEFA6B7k/DWBmt8bWRID",
   "tracks": [
     {
       "added_at": null,
@@ -255,30 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 186273,
-      "name": "Cifr\u00e3o",
-      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
+      "duration_ms": 154666,
+      "name": "N\u00e3o Foi do Nada",
+      "url": "https://open.spotify.com/track/3DvGRXIcFU2LyqcLMqXp8v"
     },
     {
       "added_at": null,
@@ -311,22 +303,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
       "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 154666,
-      "name": "N\u00e3o Foi do Nada",
-      "url": "https://open.spotify.com/track/3DvGRXIcFU2LyqcLMqXp8v"
+      "duration_ms": 186273,
+      "name": "Cifr\u00e3o",
+      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
     },
     {
       "added_at": null,

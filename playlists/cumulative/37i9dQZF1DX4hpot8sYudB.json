@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise Den",
+        "url": "https://open.spotify.com/album/4H9y4SN6Fw7ZSDHq5EuTWl"
+      },
+      "artists": [
+        {
+          "name": "State Of Rest",
+          "url": "https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163916,
+      "name": "Brown Noise Den",
+      "url": "https://open.spotify.com/track/3GsEujzcxVv8TBQcQENy9y"
+    },
+    {
+      "album": {
         "name": "Brown Noise Dunes",
         "url": "https://open.spotify.com/album/3zM5dvtwTBuRJAl2h1XlPd"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 187901,
       "name": "Brown Noise Spa",
       "url": "https://open.spotify.com/track/1T8LPpzZMrX1CepY2m6TRe"

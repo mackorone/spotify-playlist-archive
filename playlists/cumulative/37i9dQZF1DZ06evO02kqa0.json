@@ -881,6 +881,60 @@
     },
     {
       "album": {
+        "name": "Il Trovatore",
+        "url": "https://open.spotify.com/album/5tQbKNo0FzZr5hfEXGHDiB"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Renato Ercolani",
+          "url": "https://open.spotify.com/artist/573mV4UYh7nevzAxYshm1I"
+        },
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Fedora Barbieri",
+          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
+        },
+        {
+          "name": "Luisa Villa",
+          "url": "https://open.spotify.com/artist/7GRyBXkqE6P3mkmTWDFj3o"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Orchestra and Chorus of La Scala",
+          "url": "https://open.spotify.com/artist/5wJXDPF2xFNnj4fBS7MnG2"
+        },
+        {
+          "name": "Nicola Zaccaria",
+          "url": "https://open.spotify.com/artist/1wKLEotRPkbzZOv6CABJI7"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Il Trovatore - Act II",
+      "url": "https://open.spotify.com/track/72HRrv6G3kry6q6WZ63A9b"
+    },
+    {
+      "album": {
         "name": "Maria Callas: Rossini and Donizetti Arias",
         "url": "https://open.spotify.com/album/6rGI3DRkuJsPmi9JQnkoeb"
       },
@@ -2812,7 +2866,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 196760,
       "name": "Verdi: La Traviata, Act 3 Scene 4: No. 8, Aria \"Addio del passato bei sogni ridenti\"",
       "url": "https://open.spotify.com/track/5Gw5huzU3lUYNXehwRpOnB"

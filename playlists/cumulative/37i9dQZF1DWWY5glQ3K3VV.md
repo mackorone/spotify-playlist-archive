@@ -4,7 +4,7 @@
 
 > SPINGERE
 
-318 songs - 15 hr 43 min
+319 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [FASHION \(feat\. ANNA, Lazza, Tony Effe & Benny Benassi\)](https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [10](https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a) | 3:02 | 2023-06-29 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-01-25 | 2024-03-16 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ) | 3:11 | 2024-08-08 |  |
-| [FENOMENO](https://open.spotify.com/track/5l0xqgraCr4hXmFEy6twuM) | [Benii](https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [FENOMENO](https://open.spotify.com/album/7kgvW0bVB878kkc89imFK0) | 1:44 | 2025-10-03 |  |
+| [FENOMENO](https://open.spotify.com/track/5l0xqgraCr4hXmFEy6twuM) | [Benii](https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [FENOMENO](https://open.spotify.com/album/7kgvW0bVB878kkc89imFK0) | 1:44 | 2025-10-03 | 2025-11-16 |
 | [Fino All'Alba](https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [FERITE](https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl) | 2:37 | 2024-06-20 |  |
 | [FIORI TRASTEVERINI 2025](https://open.spotify.com/track/2pfOZSBz0AXJruqVTzQhrU) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [33](https://open.spotify.com/album/0CnhUDR5R712uOBRT2KlHo) | 1:51 | 2025-07-13 |  |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-12-30 | 2023-01-11 |
@@ -138,6 +138,7 @@
 | [GORILLA\#1](https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [GORILLA\#1](https://open.spotify.com/album/1nsRK8s3uXIw0dNGN3rWAF) | 2:38 | 2022-05-24 | 2022-06-20 |
 | [GTA \(feat\. Ghali\)](https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:08 | 2024-03-15 | 2024-10-26 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 | 2022-12-30 | 2023-01-11 |
+| [HARD TECH](https://open.spotify.com/track/47CKxzkqTc8erp0UiuxN6o) | [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [Ame 2.0](https://open.spotify.com/artist/1XlwE6XhQCFKpTmZWEDY96) | [HARD TECH](https://open.spotify.com/album/5sy8YaOuCsuJl1EOH34XBq) | 1:54 | 2025-11-06 |  |
 | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc) | 2:56 | 2025-02-25 |  |
 | [Hasta la vista \(feat\. ANNA\) \- Remix](https://open.spotify.com/track/4VNYRuTv8dCN0UUNJj6P4K) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DNA](https://open.spotify.com/album/4P0hxsoJsKyJRcLcQ1aGG1) | 2:25 | 2022-05-01 | 2022-07-28 |
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 | 2022-05-01 |  |

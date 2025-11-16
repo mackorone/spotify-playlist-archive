@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,256 likes - 77 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,302 likes - 77 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 |
 | 2 | [Secunda \(Transcr\. Trifonov for Piano\) \- From "The Elder Scrolls: Skyrim"](https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Soule: Secunda \(Transcr\. Trifonov for Piano\) \[From "The Elder Scrolls: Skyrim"\]](https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9) | 2:27 |
-| 3 | [Now We are Free](https://open.spotify.com/track/6OLgebma3uuh5KDG5ZXjF5) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Score](https://open.spotify.com/album/0sR0wZubrE2h3h4WxviRCX) | 6:05 |
+| 3 | [Now We are Free](https://open.spotify.com/track/6OLgebma3uuh5KDG5ZXjF5) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Score](https://open.spotify.com/album/0sR0wZubrE2h3h4WxviRCX) | 6:03 |
 | 4 | [Awash](https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 3:23 |
 | 5 | [Filma Solo](https://open.spotify.com/track/0Zhq33AjWPz0vwdQwrCnrm) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 3:15 |
 | 6 | [Valiant](https://open.spotify.com/track/1yDH9vW8GboBkqNJujPiF6) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Valiant](https://open.spotify.com/album/6PqElyGUMeroZmARx67gXj) | 2:17 |

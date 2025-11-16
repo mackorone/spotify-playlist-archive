@@ -1,6 +1,6 @@
 {
   "description": "Relax with this mix of peaceful, ambient, indie music.",
-  "num_followers": 426037,
+  "num_followers": 426032,
   "original_name": "Peaceful Ambient Indie",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,30 @@
     {
       "added_at": "2023-09-29 20:18:50",
       "album": {
+        "name": "\u4e16\u754c",
+        "url": "https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT"
+        },
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj"
+        },
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "one day",
+      "url": "https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL"
+    },
+    {
+      "added_at": "2023-09-29 20:18:50",
+      "album": {
         "name": "My Brilliant Friend, Season 2 (TV Series Soundtrack)",
         "url": "https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit"
       },
@@ -579,30 +603,6 @@
       "duration_ms": 640430,
       "name": "Richter: Moth-like Stars - Edit",
       "url": "https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564"
-    },
-    {
-      "added_at": "2023-09-29 20:18:50",
-      "album": {
-        "name": "\u4e16\u754c",
-        "url": "https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT"
-        },
-        {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj"
-        },
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "one day",
-      "url": "https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL"
     },
     {
       "added_at": "2023-09-29 20:18:50",

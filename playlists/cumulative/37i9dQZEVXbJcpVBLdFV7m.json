@@ -6498,7 +6498,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -8388,6 +8388,24 @@
     {
       "album": {
         "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192839,
+      "name": "Don't Tread On Me",
+      "url": "https://open.spotify.com/track/0iqx7tvdMSDpO5Ko187Rk0"
+    },
+    {
+      "album": {
+        "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/7BhADQhRXAejqKcPRxiVbB"
       },
       "artists": [
@@ -8398,7 +8416,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 192839,
       "name": "Don't Tread On Me",
       "url": "https://open.spotify.com/track/6HBXV39czD5H6T13VbJSQZ"
@@ -12200,7 +12218,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 190145,
       "name": "GOTVACHI",
       "url": "https://open.spotify.com/track/26Lz3BuCvt5LEtNOxXZqRW"
@@ -14474,7 +14492,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
@@ -14712,7 +14730,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 96246,
       "name": "IGRI",
       "url": "https://open.spotify.com/track/0EEuf9ESlCzWtxt24qANsv"
@@ -19312,6 +19330,24 @@
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "album": {
+        "name": "Me vs Me (Fightin' Man Blues)",
+        "url": "https://open.spotify.com/album/1Uz6SymLWFo34TNeMczge9"
+      },
+      "artists": [
+        {
+          "name": "Aventhis",
+          "url": "https://open.spotify.com/artist/0a97V3mDhGyNg93Dcf9Ahj"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225959,
+      "name": "Me vs Me (Fightin' Man Blues)",
+      "url": "https://open.spotify.com/track/66kwj23bLosZSMUWuxSi4R"
     },
     {
       "album": {
@@ -24804,10 +24840,28 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 229386,
       "name": "Private",
       "url": "https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6"
+    },
+    {
+      "album": {
+        "name": "(((((ultraSOUND)))))",
+        "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229386,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/2qoxzXXSWPodTTsX4FkWEk"
     },
     {
       "album": {
@@ -24956,7 +25010,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 241693,
       "name": "Pussy Palace",
       "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
@@ -34953,6 +35007,32 @@
     },
     {
       "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/6E1Sx4ShZgkx2Ehuyv6kDE"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/47v3oYMWQ0JjGhHb77dRmc"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171269,
+      "name": "Where Have You Been - Orchestra",
+      "url": "https://open.spotify.com/track/0Vim6lw9lUkALW01kaGfDS"
+    },
+    {
+      "album": {
         "name": "Where Have You Been (Orchestra Remix)",
         "url": "https://open.spotify.com/album/0Zdfg8LuVIZnzkVxUnHBGz"
       },
@@ -37526,7 +37606,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 191026,
       "name": "\u0412\u0415\u0427\u0415 \u0417\u041d\u0410\u041c",
       "url": "https://open.spotify.com/track/5gm4VlJBkH5sllpzVR9ys5"

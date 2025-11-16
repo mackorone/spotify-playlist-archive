@@ -1279,6 +1279,28 @@
     },
     {
       "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130133,
+      "name": "7 Del Mattino",
+      "url": "https://open.spotify.com/track/1P9MSk4FrwW7useAB6T3y1"
+    },
+    {
+      "album": {
         "name": "BIG 5",
         "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -2960,7 +2982,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 213800,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/15ZWSMDQMfBKVn4zurLX7k"
@@ -4766,7 +4788,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -11550,7 +11572,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 209962,
       "name": "COME SE NON FOSSI NEI GUAI",
       "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
@@ -11760,6 +11782,32 @@
       "duration_ms": 156923,
       "name": "coMpResse",
       "url": "https://open.spotify.com/track/4wSBIhtxuFqEreyKK7zGft"
+    },
+    {
+      "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "Con te (feat. Bresh)",
+      "url": "https://open.spotify.com/track/04QzbHxLvm6enmrtUtjLir"
     },
     {
       "album": {
@@ -12654,7 +12702,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
@@ -17412,7 +17460,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 172067,
       "name": "Fanculo (feat. Marracash)",
       "url": "https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f"
@@ -23322,7 +23370,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 186090,
       "name": "Il brivido della vita",
       "url": "https://open.spotify.com/track/0P4wjuZdQvFkMYqDYiM9EF"
@@ -24324,7 +24372,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 204811,
       "name": "Incoscienti Giovani",
       "url": "https://open.spotify.com/track/3l4KzIHsh002W3evllH3EF"
@@ -24788,7 +24836,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 159403,
       "name": "Invincibile",
       "url": "https://open.spotify.com/track/5VLkfva2Q2W9FJRYPLvtL7"
@@ -24846,7 +24894,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 217213,
       "name": "Islanda",
       "url": "https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM"
@@ -27494,7 +27542,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -28410,6 +28458,28 @@
       "duration_ms": 143076,
       "name": "LATITANTE",
       "url": "https://open.spotify.com/track/0xepvdCdF9IKTWTNI0lZuH"
+    },
+    {
+      "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133973,
+      "name": "Latte in Polvere",
+      "url": "https://open.spotify.com/track/2VvL2tuHOc23Q0MHcrSXnB"
     },
     {
       "album": {
@@ -34563,6 +34633,32 @@
     },
     {
       "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141906,
+      "name": "Mossa Strepitosa (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/4IthW8rks6srjJB5YxXV7n"
+    },
+    {
+      "album": {
         "name": "MOSTRO",
         "url": "https://open.spotify.com/album/21aHeeZe4eCanYhoAPuiaX"
       },
@@ -38048,7 +38144,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 207230,
       "name": "Ogni Male",
       "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
@@ -42613,6 +42709,32 @@
     },
     {
       "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153026,
+      "name": "Pura Purissima (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/6pqk8bMGRl6xWCrH9JnYeL"
+    },
+    {
+      "album": {
         "name": "Pura Purissima (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/4YxAONurTW20P7AOYo6rNR"
       },
@@ -42632,7 +42754,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 153026,
       "name": "Pura Purissima (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/7aED3khDoMw7bgL8wNMVy3"
@@ -45618,7 +45740,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 123762,
       "name": "Scama",
       "url": "https://open.spotify.com/track/4yoixiIoVeayqPFfAxIYo1"
@@ -47762,7 +47884,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "SOGNO AMERICANO",
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
@@ -49915,6 +50037,28 @@
     },
     {
       "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "Superenalotto",
+      "url": "https://open.spotify.com/track/77afmytZyiLNTe2Xl03Q6q"
+    },
+    {
+      "album": {
         "name": "SUPEREROI",
         "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
       },
@@ -51170,6 +51314,28 @@
       "duration_ms": 212591,
       "name": "Ti va di stare bene",
       "url": "https://open.spotify.com/track/7zjKhk5vABZhvi9Qy0i6mm"
+    },
+    {
+      "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132640,
+      "name": "Tic Tic Tac",
+      "url": "https://open.spotify.com/track/4BPbscluzTc3k7vGZSd5zc"
     },
     {
       "album": {
@@ -52435,6 +52601,32 @@
     },
     {
       "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145960,
+      "name": "Tu Mi Piaci (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
+    },
+    {
+      "album": {
         "name": "Tu Mi Piaci (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/2XXP6qcJeqgSVKXaYHD4y3"
       },
@@ -52454,7 +52646,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 145960,
       "name": "Tu Mi Piaci (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6aJgQaUFTLYYW3uYdhYn9P"
@@ -53188,7 +53380,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 158992,
       "name": "Umore marea",
       "url": "https://open.spotify.com/track/0V5wQoMnbw7YvGjIjVVVkS"
@@ -55770,6 +55962,24 @@
       "duration_ms": 192558,
       "name": "WE ON EM (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4dxGWEYW7UBxG1piCzVH6F"
+    },
+    {
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/10KgFFVy2vVXp5fNjFebrS"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142588,
+      "name": "We Shine",
+      "url": "https://open.spotify.com/track/5ZK6qPtcnSOMIzpbuotWd8"
     },
     {
       "album": {

@@ -2699,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "A\u0165 je klid",
+        "url": "https://open.spotify.com/album/6P6f3ThMW0xwWW1C4OsjCI"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "A\u0165 je klid",
+      "url": "https://open.spotify.com/track/43iLUibjKqDJBq4rCGF49n"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/6q3dUM9Wv4fHo7ACGXgSNC"
       },
@@ -8074,7 +8096,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -29330,7 +29352,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 221202,
       "name": "Nem\u00e1me",
       "url": "https://open.spotify.com/track/7k7FJqta8D0oq9vmMytl3p"
@@ -46094,7 +46116,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"

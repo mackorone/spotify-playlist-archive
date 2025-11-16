@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACCzbXCYsnu6eza7My8bZ2f",
+  "snapshot_id": "aRZxAAAAAADw4o1h2lcoaXxCEYpJdFdo",
   "tracks": [
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
       },
       "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
+      "duration_ms": 222598,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
       },
       "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 222598,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
+      "duration_ms": 193666,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
     },
     {
       "added_at": null,

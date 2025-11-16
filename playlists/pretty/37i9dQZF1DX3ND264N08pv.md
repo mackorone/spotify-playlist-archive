@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,952 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,990 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 |
 | 50 | [Holy Calamity](https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Holy Calamity](https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj) | 2:41 |
 
-Snapshot ID: `AAAAAGsJDL/oyUBjkpUbL5YoFAfrSEkG`
+Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

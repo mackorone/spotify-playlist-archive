@@ -1,6 +1,6 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 326928,
+  "num_followers": 327018,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-02-13 13:08:26",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Until The Real Thing Comes Along - Remastered/1998",
-      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
-    },
-    {
-      "added_at": "2025-02-13 13:08:26",
-      "album": {
         "name": "More Of The Great",
         "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 255480,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
+    },
+    {
+      "added_at": "2025-02-13 13:08:26",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Until The Real Thing Comes Along - Remastered/1998",
+      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
     },
     {
       "added_at": "2025-02-13 13:08:26",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-02-13 13:08:26",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 337706,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
-    },
-    {
-      "added_at": "2025-02-13 13:08:26",
-      "album": {
         "name": "Anita O'Day Swings Cole Porter With Billy May",
         "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 119000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P"
+    },
+    {
+      "added_at": "2025-02-13 13:08:26",
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 337706,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
     },
     {
       "added_at": "2025-02-13 13:08:26",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2025-02-13 13:08:26",
       "album": {
-        "name": "Dinah Sings, Previn Plays",
-        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "Then I'll Be Tired Of You",
-      "url": "https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN"
-    },
-    {
-      "added_at": "2025-02-13 13:08:26",
-      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 225773,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/45IeaJkarobL2YT6bZYMm3"
+    },
+    {
+      "added_at": "2025-02-13 13:08:26",
+      "album": {
+        "name": "Dinah Sings, Previn Plays",
+        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "Then I'll Be Tired Of You",
+      "url": "https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN"
     },
     {
       "added_at": "2025-02-13 13:08:26",

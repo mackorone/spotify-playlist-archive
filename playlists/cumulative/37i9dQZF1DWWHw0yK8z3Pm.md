@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-639 songs - 1 day 14 hr 43 min
+640 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Free in the Morning](https://open.spotify.com/track/4BfyZX63uVxk2cMPGhx9Iv) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Steel Saddle](https://open.spotify.com/album/7ou48ilkhLeInWfpTeIwG6) | 3:16 | 2024-07-19 | 2024-07-27 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-05-13 | 2022-08-27 |
 | [From Friends To Strangers](https://open.spotify.com/track/0cJJN21I6njClZyPJeXMgS) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From Friends To Strangers](https://open.spotify.com/album/57gpvZPjR7eZACFtu0eZNf) | 3:15 | 2024-05-24 | 2024-07-27 |
+| [Frostbite](https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Frostbite](https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4) | 3:22 | 2025-11-14 |  |
 | [Full Moon](https://open.spotify.com/track/3wjgHCEZobKb0A2hE9mcvf) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Full Moon](https://open.spotify.com/album/0FPQrFfvzrzs9lmFBUzu9D) | 4:22 | 2025-08-29 |  |
 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 | 2023-10-27 | 2024-10-12 |
 | [Further From the Country](https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Further From the Country](https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO) | 6:00 | 2025-10-17 |  |
@@ -620,7 +621,7 @@
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-01-17 | 2025-03-24 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-05-03 | 2024-12-14 |
 | [Willow Rose](https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Willow Rose](https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH) | 3:52 | 2024-05-31 | 2024-07-23 |
-| [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 | 2025-08-14 |  |
+| [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 | 2025-08-14 | 2025-11-16 |
 | [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 | 2023-07-08 |
 | [Windy City](https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Westward \(Deluxe\)](https://open.spotify.com/album/3DOexZdh22jhg9XeLHLG4l) | 2:30 | 2025-10-24 |  |
 | [Wishbone](https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Wishbone](https://open.spotify.com/album/5IOSRV5r2C8y46A5gnKJPn) | 3:04 | 2025-09-05 |  |

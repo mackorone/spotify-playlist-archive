@@ -4,7 +4,7 @@
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-133 songs - 9 hr 40 min
+134 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Sufferin' Mind](https://open.spotify.com/track/0tdJf3PrWfvqTfEpstCTgp) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 3:31 | 2023-06-16 | 2023-08-10 |
 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 | 2023-05-10 | 2025-03-08 |
 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-08-05 |  |
+| [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 | 2025-11-16 |  |
 | [Sweet Thing](https://open.spotify.com/track/7sd2q99LNbsqRSljnd2KBP) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:00 | 2022-10-05 | 2022-11-26 |
 | [Symptoms of Love \(feat\. Elvis Costello\)](https://open.spotify.com/track/37fex9c3w25yTn7tXRwVkG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:37 | 2022-10-12 | 2023-10-02 |
 | [Texas Louisiana](https://open.spotify.com/track/6OdFdXQR5gm1uCJYzA5RqH) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 2:55 | 2024-06-24 |  |
@@ -130,7 +131,7 @@
 | [Travelin'](https://open.spotify.com/track/0DFc5GuX8VG95HBbzebVby) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 1:09 | 2025-05-07 |  |
 | [Trouble Blues](https://open.spotify.com/track/7ghDNqcZZmFNbVq9j14WGO) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Slippin' In](https://open.spotify.com/album/4vPx0GEomsLo0KStLprAZ2) | 3:08 | 2023-12-13 | 2024-02-20 |
 | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex) | 4:39 | 2022-09-03 | 2024-07-23 |
-| [Wear You Out \(feat\. Billy Gibbons\)](https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:30 | 2022-08-05 |  |
+| [Wear You Out \(feat\. Billy Gibbons\)](https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:30 | 2022-08-05 | 2025-11-16 |
 | [Well Enough Alone](https://open.spotify.com/track/7L9e89SRU78ZRhfSuXTz5L) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:12 | 2022-10-12 | 2023-08-11 |
 | [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 | 2022-08-05 |  |
 | [What You Gonna Do About Me \(feat\. Beth Hart\)](https://open.spotify.com/track/3aa9lEOjZOn2Om2vdMCR1E) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:39 | 2022-08-05 |  |

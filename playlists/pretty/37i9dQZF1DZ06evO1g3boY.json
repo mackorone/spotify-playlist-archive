@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173373,
+  "num_followers": 173378,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAD8q5yvbXC1Oo4ztt1U0Sm0",
+  "snapshot_id": "aRZxAAAAAAC5HUftuR9FGCfsbRucIkrE",
   "tracks": [
     {
       "added_at": null,
@@ -699,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
       },
       "artists": [
+        {
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
-      "url": "https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh"
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     },
     {
       "added_at": null,
@@ -739,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pantera Negra",
         "url": "https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj"
       },
@@ -755,54 +775,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor \u00c9 Tudo de Bom",
-        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
+        "name": "Quintal dos Prettos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
       },
       "artists": [
         {
-          "name": "Mundo Bita",
-          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+          "name": "Prettos",
+          "url": "https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB"
+        },
+        {
+          "name": "Magnu Sous\u00e1",
+          "url": "https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP"
+        },
+        {
+          "name": "Maurilio de Oliveira",
+          "url": "https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        },
+        {
+          "name": "Arlindinho",
+          "url": "https://open.spotify.com/artist/1rn3KQS1oYAHFdQbL5APYq"
+        },
+        {
+          "name": "Salgadinho",
+          "url": "https://open.spotify.com/artist/1zZcaxPgRLMHbHmas2c8hR"
+        },
+        {
+          "name": "Fred Camacho",
+          "url": "https://open.spotify.com/artist/1VhCv2vQBYPF9gCtn04fiG"
         }
       ],
-      "duration_ms": 207000,
-      "name": "O Amor \u00c9 Tudo de Bom",
-      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SQUAD",
-        "url": "https://open.spotify.com/album/338HAz3kyO6uZ7GU6G7GOU"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Battlefield",
-          "url": "https://open.spotify.com/artist/2G4lUITiAQGoQmzRjtIGzi"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "SQUAD",
-      "url": "https://open.spotify.com/track/2Eh914v2yNJWMLSN1vjWQn"
+      "duration_ms": 390002,
+      "name": "Batucada dos Nossos Tant\u00e3s - Vou Festejar - Ao Vivo",
+      "url": "https://open.spotify.com/track/069ceJiGEkMnK31CYnL08v"
     },
     {
       "added_at": null,
@@ -851,6 +863,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "SQUAD",
+        "url": "https://open.spotify.com/album/338HAz3kyO6uZ7GU6G7GOU"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Battlefield",
+          "url": "https://open.spotify.com/artist/2G4lUITiAQGoQmzRjtIGzi"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "SQUAD",
+      "url": "https://open.spotify.com/track/2Eh914v2yNJWMLSN1vjWQn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10 Anos de Triunfo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
@@ -867,50 +911,6 @@
       "duration_ms": 234840,
       "name": "O\u00e1sis (feat. Rael) - Ao Vivo",
       "url": "https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quintal dos Prettos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
-      },
-      "artists": [
-        {
-          "name": "Prettos",
-          "url": "https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB"
-        },
-        {
-          "name": "Magnu Sous\u00e1",
-          "url": "https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP"
-        },
-        {
-          "name": "Maurilio de Oliveira",
-          "url": "https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        },
-        {
-          "name": "Arlindinho",
-          "url": "https://open.spotify.com/artist/1rn3KQS1oYAHFdQbL5APYq"
-        },
-        {
-          "name": "Salgadinho",
-          "url": "https://open.spotify.com/artist/1zZcaxPgRLMHbHmas2c8hR"
-        },
-        {
-          "name": "Fred Camacho",
-          "url": "https://open.spotify.com/artist/1VhCv2vQBYPF9gCtn04fiG"
-        }
-      ],
-      "duration_ms": 390002,
-      "name": "Batucada dos Nossos Tant\u00e3s - Vou Festejar - Ao Vivo",
-      "url": "https://open.spotify.com/track/069ceJiGEkMnK31CYnL08v"
     },
     {
       "added_at": null,
@@ -987,22 +987,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Coisas",
-        "url": "https://open.spotify.com/album/5531Q6ELSF96I2DG5ECnPY"
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
         },
         {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Mil Coisas",
-      "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
+      "duration_ms": 246904,
+      "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
     },
     {
       "added_at": null,
@@ -1027,6 +1031,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mil Coisas",
+        "url": "https://open.spotify.com/album/5531Q6ELSF96I2DG5ECnPY"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Mil Coisas",
+      "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
         "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 231533,
       "name": "S\u00f3 Isso",
       "url": "https://open.spotify.com/track/0zUF40Gv49uGEhQnf5vBRu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
-      "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
     },
     {
       "added_at": null,
@@ -1131,26 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 180448,
-      "name": "Melhor Rem\u00e9dio",
-      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 246320,
       "name": "Oi Compadre - Ao Vivo",
       "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 180448,
+      "name": "Melhor Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
     }
   ],
   "unique_name": "This Is Emicida",

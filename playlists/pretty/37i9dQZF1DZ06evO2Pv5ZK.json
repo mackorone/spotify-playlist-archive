@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 110113,
+  "num_followers": 110120,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAD/ImF0wXMOUEPmcVe8Z3yj",
+  "snapshot_id": "aRZxAAAAAACODtbjYDaRRX4mHUG9zCqM",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Aquatic Dance",
-      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 340426,
-      "name": "Memories of Blue",
-      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+      "duration_ms": 223866,
+      "name": "Aquatic Dance",
+      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reprise 1990-1999",
-        "url": "https://open.spotify.com/album/38ZlWsy8hIIl42Cv7bQFHB"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Theme from Bitter Moon",
-      "url": "https://open.spotify.com/track/60oJ9svwUE4lvyF7KYA60p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chariots Of Fire - The Play",
         "url": "https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 246306,
       "name": "Eric's Theme",
       "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reprise 1990-1999",
+        "url": "https://open.spotify.com/album/38ZlWsy8hIIl42Cv7bQFHB"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Theme from Bitter Moon",
+      "url": "https://open.spotify.com/track/60oJ9svwUE4lvyF7KYA60p"
     }
   ],
   "unique_name": "This Is Vangelis",

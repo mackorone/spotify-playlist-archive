@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 263950,
+  "num_followers": 263992,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "Ride At Dawn",
-        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Zo\u00eb Johnston",
-          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
-        }
-      ],
-      "duration_ms": 173554,
-      "name": "Ride At Dawn",
-      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -507,18 +487,22 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Zo\u00eb Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
         }
       ],
-      "duration_ms": 217617,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
+      "duration_ms": 173554,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -539,18 +523,18 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "storm",
-        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 248264,
-      "name": "storm",
-      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -571,6 +555,22 @@
       "duration_ms": 553413,
       "name": "Waste - RY X Remix",
       "url": "https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0X6uOzPmx1XRmCdvEkJdVG"
-      },
-      "artists": [
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 242437,
-      "name": "You",
-      "url": "https://open.spotify.com/track/3VtQjrv6HWQKf3fuJsPfim"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 220630,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0X6uOzPmx1XRmCdvEkJdVG"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 242437,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3VtQjrv6HWQKf3fuJsPfim"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Lydia (please make it better)",
-      "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "Versailles (Hold)",
         "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Lydia (please make it better)",
+      "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
     },
     {
       "added_at": "2025-10-03 08:23:35",

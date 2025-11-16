@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-141 songs - 7 hr 40 min
+143 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,12 +98,14 @@
 | [Smash Shit Up](https://open.spotify.com/track/0l0K88tyy3NCYugh9nNQgV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:47 | 2022-09-16 | 2023-02-03 |
 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2023-02-02 |  |
 | [Sooner Kill 'Em First](https://open.spotify.com/track/4Wk5305BdZHpFaE0evPnPC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 3:16 | 2025-07-06 | 2025-08-07 |
+| [Sooner Kill 'Em First](https://open.spotify.com/track/5bZxgJ0gCXsiHBNZWUNlg9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:16 | 2025-11-16 |  |
 | [Straight Edge \(I Liked You Better\) \- Bonus Track](https://open.spotify.com/track/3WwusnJi34pyNmJTkHGBEF) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:58 | 2025-11-12 |  |
+| [Streetlights](https://open.spotify.com/track/6zgbMFVQAhByKEzWn8xZUi) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 4:12 | 2025-11-16 |  |
 | [Sunshine Highway](https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 3:22 | 2023-06-01 |  |
 | [Take Your Bow \- Bonus Track](https://open.spotify.com/track/3OK15jbvnyyplSroZL1JpG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:58 | 2025-11-11 |  |
 | [Talking Jukebox](https://open.spotify.com/track/4qF2ncOvyw04e8Cbe5WvO2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:13 | 2023-02-05 | 2024-03-17 |
 | [Talking Jukebox](https://open.spotify.com/track/56cKEoN9Rdmv2QAGOHrqCr) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:13 | 2022-10-01 | 2023-02-06 |
-| [Ten Times More](https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:11 | 2023-02-03 |  |
+| [Ten Times More](https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:11 | 2023-02-03 | 2025-11-16 |
 | [Ten Times More](https://open.spotify.com/track/4Wc4TZ1uXhiHm24DdRCDPo) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 2:11 | 2022-12-13 | 2022-12-16 |
 | [Ten Times More](https://open.spotify.com/track/6ICSBwJIVzU7d5JnuUzmau) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Ten Times More](https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U) | 2:11 | 2022-09-16 | 2022-12-14 |
 | [Tessie](https://open.spotify.com/track/27hX5P9TCxw9LW8p8AkwMU) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 4:15 | 2022-10-06 | 2022-10-09 |
@@ -131,7 +133,7 @@
 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 | 2022-09-16 |  |
 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 | 2022-09-16 | 2025-03-17 |
 | [Turn Up That Dial](https://open.spotify.com/track/42ef8hFlFvRtMYTEelfiTm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:42 | 2022-09-16 | 2023-02-12 |
-| [Turn Up That Dial](https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:42 | 2023-02-11 |  |
+| [Turn Up That Dial](https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:42 | 2023-02-11 | 2025-11-16 |
 | [Two 6's Upside Down](https://open.spotify.com/track/0aE2HXcm7eoEGZG5i6rPXK) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:29 | 2023-02-07 | 2024-06-11 |
 | [Two 6's Upside Down](https://open.spotify.com/track/33OFWa8o5rf99TIDEIslQG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Two 6's Upside Down](https://open.spotify.com/album/1dhXWQIfmP8VH74NPsr4g5) | 3:29 | 2022-09-16 | 2022-10-08 |
 | [Two 6's Upside Down](https://open.spotify.com/track/6ZNEDdpGk4ToVof1gtMjNo) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:29 | 2022-10-09 | 2023-02-08 |

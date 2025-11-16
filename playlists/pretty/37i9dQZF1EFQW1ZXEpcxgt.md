@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 143 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 143 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 37 | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/track/35kFg7GL288P9IK0r5oSh5) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/album/5rkPX1n2MJs9vSUMBMo9Q7) | 3:06 |
 | 38 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 |
 | 39 | [Pull\-Up](https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:06 |
-| 40 | [Dirty Work](https://open.spotify.com/track/53TW0KEB3fqduUfwf0LO9P) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6JSiQ8b11L6AzCVtFmbcH1) | 3:07 |
-| 41 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
+| 40 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
+| 41 | [Dirty Work](https://open.spotify.com/track/53TW0KEB3fqduUfwf0LO9P) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6JSiQ8b11L6AzCVtFmbcH1) | 3:07 |
 | 42 | [Here It Is \(feat\. Chris Brown\)](https://open.spotify.com/track/0lQ08hbjK1umHjCYvUrmCp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
 | 43 | [Burn \(feat\. Big Sean\)](https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:36 |
 | 44 | [No Love Allowed](https://open.spotify.com/track/2fv47VVvysXZPpT7xsdg7b) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:09 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 59 | [Question](https://open.spotify.com/track/6FHukarWlx7lSrlaN17OkP) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [Question](https://open.spotify.com/album/2q7r92YA7Hy4VlxrohdOFc) | 3:45 |
 | 60 | [Who's with Me](https://open.spotify.com/track/5u6Yl2Z6E2NLQ7hx9Y0Vfq) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/01q5k781PdqqKUWFizFjjh) | 3:30 |
 | 61 | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/track/5ElvxQOgTTUTjVfa1uhhFv) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [So Real \(Warriors\) \(feat\. Jess Glynne\)](https://open.spotify.com/album/08wVcFCxBwLdeODnKPcPjp) | 2:49 |
-| 62 | [Pray](https://open.spotify.com/track/0QiUEowZX0wzCOePBOHgs6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:47 |
-| 63 | [Sleepwalker](https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 |
+| 62 | [Sleepwalker](https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 |
+| 63 | [Pray](https://open.spotify.com/track/0QiUEowZX0wzCOePBOHgs6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:47 |
 | 64 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 |
 | 65 | [Rather Be Alone](https://open.spotify.com/track/3OtK6JOnTe7kGdlmUtSEYf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nick Martin](https://open.spotify.com/artist/7qVyaRDqZ0T20SW7l1VzMX), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 2:51 |
 | 66 | [Weeks](https://open.spotify.com/track/3d9P90Wha2beUBCOb6boQy) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Weeks](https://open.spotify.com/album/4V9VaKYR118ULcpVZU7rpK) | 2:52 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 142 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 143 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcBmRgAAAADFKRP33Jj3VJ7blxuEf801`
+Snapshot ID: `AcBr3AAAAABqOv4yerttrr5c+BBNHb1q`

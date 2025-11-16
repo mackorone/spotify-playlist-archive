@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Eloff",
-  "num_followers": 41330,
+  "num_followers": 41356,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 251784,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 251784,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
         "name": "4\u00d74\u00d7U",
         "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 239453,
       "name": "4\u00d74\u00d7U",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -787,6 +771,22 @@
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2025-05-22 22:00:25",

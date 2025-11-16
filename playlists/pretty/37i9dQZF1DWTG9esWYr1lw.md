@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,629 likes - 39 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,644 likes - 39 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 23 | [Hato Al Foanis](https://open.spotify.com/track/1rKTvYQgVkbhncmUC0AkA3) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Hato Al Foanis](https://open.spotify.com/album/2yW5HJqLQQJtV7Q8p8MGte) | 5:44 |
 | 24 | [يا مرحبا رمضان](https://open.spotify.com/track/1DEKJaG7dEhGRr7pwlYwZE) | [أنس سيد](https://open.spotify.com/artist/0DmkKZLfe3VtI1HbbWWSaf) | [يا مرحبا رمضان](https://open.spotify.com/album/1bWEH5ONUKIzR9RDBenaVL) | 3:22 |
 | 25 | [Ahlan Ramadan](https://open.spotify.com/track/2IBydskU0pX1NtsPYRe0Ch) | [Mohamed Tarek](https://open.spotify.com/artist/0I7sMQsYXAug5uQtZnzTIb), [Ibrahim Al Dardasawi](https://open.spotify.com/artist/36Vbky7ZIPAceSgzGaApoC) | [Ahlan Ramadan](https://open.spotify.com/album/2NWc9tnxVJc1TK1U51p0EN) | 3:05 |
-| 26 | [Ramadan](https://open.spotify.com/track/2xvkYM2tGvWGokviBGG4PJ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ramadan](https://open.spotify.com/album/4arEPsmYRq7TthYzMo8kbQ) | 3:16 |
-| 27 | [رمضان يا رمضان](https://open.spotify.com/track/6JIQ7vzqjp13Jg4nMAAq56) | [ملاك فتحي](https://open.spotify.com/artist/6FPOKrx4O5blxUA1N0DFAX) | [رمضان يا رمضان](https://open.spotify.com/album/15pmMYAWBRP85J4oWMUpEq) | 2:40 |
+| 26 | [رمضان يا رمضان](https://open.spotify.com/track/6JIQ7vzqjp13Jg4nMAAq56) | [ملاك فتحي](https://open.spotify.com/artist/6FPOKrx4O5blxUA1N0DFAX) | [رمضان يا رمضان](https://open.spotify.com/album/15pmMYAWBRP85J4oWMUpEq) | 2:40 |
+| 27 | [Ramadan](https://open.spotify.com/track/2xvkYM2tGvWGokviBGG4PJ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ramadan](https://open.spotify.com/album/4arEPsmYRq7TthYzMo8kbQ) | 3:16 |
 | 28 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 |
 | 29 | [قد جئت يا رمضان](https://open.spotify.com/track/1qZcBgErS4Xt2cdel3B2Oa) | [رضوان محمود](https://open.spotify.com/artist/0M4Skzy6RRJvzvs8YPC7yy) | [قد جئت يا رمضان](https://open.spotify.com/album/7fY92BY1xherajuPhAPdDB) | 3:58 |
 | 30 | [Ramadan](https://open.spotify.com/track/5wxOXYEcn0AZVvsHNH1OhM) | [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Ramadan](https://open.spotify.com/album/1bb3zUun6pqrtGwM738su4) | 3:27 |

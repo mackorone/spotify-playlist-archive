@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 231151,
+  "num_followers": 231175,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADmpC6Xu4L7cPn2DhmBrkE8",
+  "snapshot_id": "aRZxAAAAAACMjtRBiDiGgsQTyeQUrSYn",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
       "artists": [
         {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 294066,
-      "name": "Dark And Lovely (You Over There)",
-      "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
+      "duration_ms": 344600,
+      "name": "Anything You Want Me To",
+      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
       },
       "artists": [
         {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 344600,
-      "name": "Anything You Want Me To",
-      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+      "duration_ms": 294066,
+      "name": "Dark And Lovely (You Over There)",
+      "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
     },
     {
       "added_at": null,

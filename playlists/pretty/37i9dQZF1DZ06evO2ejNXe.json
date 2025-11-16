@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1636,
+  "num_followers": 1635,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAABmO34K70b6SivXTrPAzxCN",
+  "snapshot_id": "aRZxAAAAAACQtrdGC46qjNys90L8WXyC",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA PLEBADA",
+        "url": "https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "LA PLEBADA",
+      "url": "https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 225906,
       "name": "Rico Ritmo",
       "url": "https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Mas Caliente",
-      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PLEBADA",
-        "url": "https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T"
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 189240,
-      "name": "LA PLEBADA",
-      "url": "https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX"
+      "duration_ms": 186760,
+      "name": "Mas Caliente",
+      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK MAMBO",
-        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 196125,
-      "name": "OK MAMBO",
-      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
+      "duration_ms": 161400,
+      "name": "Mambo Maria",
+      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SE BAILA AS\u00cd",
-        "url": "https://open.spotify.com/album/1p14Am9g2XTlsaAJzCUP5z"
+        "name": "OK MAMBO",
+        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
       },
       "artists": [
         {
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200513,
-      "name": "SE BAILA AS\u00cd",
-      "url": "https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Mambo Maria",
-      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
+      "duration_ms": 196125,
+      "name": "OK MAMBO",
+      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 206933,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SE BAILA AS\u00cd",
+        "url": "https://open.spotify.com/album/1p14Am9g2XTlsaAJzCUP5z"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 200513,
+      "name": "SE BAILA AS\u00cd",
+      "url": "https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "El Reloj De Mi Corazon",
-      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186026,
       "name": "Sombrero, Zarape Y Guitarra",
       "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "El Reloj De Mi Corazon",
+      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 1027,
+  "num_followers": 1029,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAABTGTaZ0IOJD5m7X2iMpSgu",
+  "snapshot_id": "aRZxAAAAAAAEXrFVn1kDo6rGX1FZK/xm",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Tumbado",
         "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUCES ROJAS",
         "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
       },
@@ -540,13 +540,13 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
         }
       ],
-      "duration_ms": 210256,
-      "name": "LA CAPITAL",
-      "url": "https://open.spotify.com/track/0aWUDbp7bK9fEfrc57Q7UO"
+      "duration_ms": 138392,
+      "name": "QU\u00c9 QUIERE",
+      "url": "https://open.spotify.com/track/5h9ElPBeVmPoWYWL9nC9tS"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Viene la Subida",
-        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 255923,
-      "name": "Hora de Abordar",
-      "url": "https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EN VIVO DESDE EL VALLE",
         "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 167061,
       "name": "EL SUBE Y BAJA - En Vivo",
       "url": "https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ah\u00ed Viene la Subida",
+        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 255923,
+      "name": "Hora de Abordar",
+      "url": "https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa"
     },
     {
       "added_at": null,

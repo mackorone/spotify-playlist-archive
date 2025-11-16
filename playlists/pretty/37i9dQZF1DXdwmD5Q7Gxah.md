@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/smerz\-daniel\-caesar\-and\-the\-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: Charli xcx & John Cale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,000 likes - 181 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,979 likes - 181 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 2 | [Do It](https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Do It](https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg) | 3:33 |
 | 3 | [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 |
 | 4 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
-| 5 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
-| 6 | [Strawberry](https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Strawberry](https://open.spotify.com/album/4HwBZ2vn1kF7ba0PdZTsOW) | 2:51 |
+| 5 | [Strawberry](https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Strawberry](https://open.spotify.com/album/4HwBZ2vn1kF7ba0PdZTsOW) | 2:51 |
+| 6 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 7 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 |
 | 8 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
-| 9 | [Candle](https://open.spotify.com/track/66447TJUyw3jjyePECdqJY) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Candle](https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2) | 3:06 |
-| 10 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
-| 11 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
-| 12 | [Slow Burn](https://open.spotify.com/track/5JBoWa49nMe1bxaEDbMAxS) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Slow Burn](https://open.spotify.com/album/2jwDWmnT9D6zQy8kOA7ijM) | 3:55 |
-| 13 | [Lonely](https://open.spotify.com/track/1R1DJDeiiwpjXvlEKbTm5X) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 3:18 |
-| 14 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 |
-| 15 | [spearmint](https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [spearmint / slowbird](https://open.spotify.com/album/4tftppkkQemA0l7tGLFXk3) | 2:31 |
+| 9 | [spearmint](https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [spearmint / slowbird](https://open.spotify.com/album/4tftppkkQemA0l7tGLFXk3) | 2:31 |
+| 10 | [Candle](https://open.spotify.com/track/66447TJUyw3jjyePECdqJY) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Candle](https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2) | 3:06 |
+| 11 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
+| 12 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
+| 13 | [Slow Burn](https://open.spotify.com/track/5JBoWa49nMe1bxaEDbMAxS) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Slow Burn](https://open.spotify.com/album/2jwDWmnT9D6zQy8kOA7ijM) | 3:55 |
+| 14 | [Lonely](https://open.spotify.com/track/1R1DJDeiiwpjXvlEKbTm5X) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 3:18 |
+| 15 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 |
 | 16 | [You got time and I got money \- VVTZJ EDIT](https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [VVTZJ](https://open.spotify.com/artist/2gJxIQspPPFPuNt5RFCtsw) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 5:22 |
 | 17 | [Country Road](https://open.spotify.com/track/06ujEo9w9cmYeamYhDuRaz) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Country Road](https://open.spotify.com/album/0dVHHsOTjFVxQhpSNz7OL7) | 3:24 |
 | 18 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 180 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:39 |
 | 181 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
 
-Snapshot ID: `AAAAAEozP7fMfyLblqLBYjCv5XylBIQl`
+Snapshot ID: `AAAAAHaJHFOpXOvUxGQ4K9inxDixe/aK`

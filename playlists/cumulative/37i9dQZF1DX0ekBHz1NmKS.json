@@ -13469,6 +13469,24 @@
     },
     {
       "album": {
+        "name": "Hazy Eyes",
+        "url": "https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Hazy Eyes",
+      "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
+    },
+    {
+      "album": {
         "name": "Headed North",
         "url": "https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL"
       },
@@ -14300,7 +14318,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 184315,
       "name": "Hittat hem",
       "url": "https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7"
@@ -31610,7 +31628,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 174706,
       "name": "Svart mask",
       "url": "https://open.spotify.com/track/5uGiSx84xBoP8sjGREkMtp"
@@ -36176,7 +36194,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 221000,
       "name": "Visa vid vindens \u00e4ngar",
       "url": "https://open.spotify.com/track/7f32bNrOzhPp3Ukb19tqoI"

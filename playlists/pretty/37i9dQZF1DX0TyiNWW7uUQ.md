@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,201 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,234 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 71 | [Kannamma](https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ispade Rajavum Idhaya Raniyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI) | 4:16 |
 | 72 | [Sirikkadhey](https://open.spotify.com/track/4NQBqInyE7zvjIiP4j1dmy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Srinidhi Venkatesh](https://open.spotify.com/artist/1PDFenKwhb7oNx0bxCyQF2), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 4:05 |
 | 73 | [Neeyum Naanum Anbe](https://open.spotify.com/track/0zsA45R0SQPfqC5TyDOqY8) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Sathyaprakash D.](https://open.spotify.com/artist/5n2QCkYnVVPQ5DLVRxOm4j), [Jithin Raj](https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua) | [Imaikkaa Nodigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6iiGyjdV6vQ5aQTw872aDS) | 4:45 |
-| 74 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A.R\. Reihana](https://open.spotify.com/artist/1NGDbzC6ZJ1jNt1V5Kv5lv), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:51 |
+| 74 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A.R\. Reihana](https://open.spotify.com/artist/1NGDbzC6ZJ1jNt1V5Kv5lv), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:49 |
 | 75 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
 
 Snapshot ID: `AAAAAKdZQz9wbQ+qkcfbyyiASPEq+ltU`

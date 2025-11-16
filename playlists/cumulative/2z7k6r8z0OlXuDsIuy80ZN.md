@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-352 songs - 18 hr 20 min
+353 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Carpe Diem](https://open.spotify.com/track/4l7qXzZrZnr2RUgSVSKtnD) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/4z0e3892fwI3YfdHL2k5BQ) | 4:00 | 2025-04-20 | 2025-11-09 |
 | [Carretera y manta](https://open.spotify.com/track/4RgqBP0RY3pQY3Z3d3fKnf) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Carretera y manta](https://open.spotify.com/album/3DlIRvWPWudQaYZOclzabT) | 2:43 | 2022-08-27 | 2023-01-07 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-12-24 | 2023-03-19 |
-| [Ciao Amore](https://open.spotify.com/track/1oWw1Jiq75Zo2BTaCKndfU) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Ciao Amore](https://open.spotify.com/album/1cty6itPVYtpgSFOopJsQr) | 2:45 | 2025-06-28 |  |
+| [Ciao Amore](https://open.spotify.com/track/1oWw1Jiq75Zo2BTaCKndfU) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Ciao Amore](https://open.spotify.com/album/1cty6itPVYtpgSFOopJsQr) | 2:45 | 2025-06-28 | 2025-11-16 |
 | [Cielo hermético](https://open.spotify.com/track/2O82EzPmpQZfWO0hfTHOJL) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cada vez cadáver](https://open.spotify.com/album/2xai9qYyjquGekqPXAEFFI) | 3:59 | 2022-01-15 | 2022-03-27 |
 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-06-03 | 2023-12-10 |
 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-05-27 | 2024-03-10 |
@@ -103,6 +103,7 @@
 | [Dile a los demás](https://open.spotify.com/track/4iK6NFBfZ94xd6UJ0dHVoh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Dile a los demás](https://open.spotify.com/album/2aUw6q2WS0r9QeOGdfOOCP) | 3:29 | 2022-01-29 | 2022-11-20 |
 | [Dime Que No Duele](https://open.spotify.com/track/6CJeY0eReqzM0w77m3F7fR) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Dime Que No Duele](https://open.spotify.com/album/1IuSFs7Kf4omdCzwem3fr7) | 3:02 | 2022-11-05 | 2023-02-26 |
 | [Dime Solo Si Has Pensao](https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Dime Solo Si Has Pensao](https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX) | 2:55 | 2024-06-01 | 2025-01-05 |
+| [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 | 2025-11-15 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-10-15 | 2023-01-22 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-01-15 | 2022-08-14 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2022-01-15 | 2022-04-30 |

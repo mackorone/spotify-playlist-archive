@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "1 Dag",
+        "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204474,
+      "name": "1 Dag",
+      "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
+    },
+    {
+      "album": {
         "name": "Mama I Made It",
         "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
       },
@@ -3006,7 +3028,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -3024,7 +3046,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
@@ -4530,7 +4552,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -4880,7 +4902,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
@@ -8052,7 +8074,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 172053,
       "name": "COMMAS",
       "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
@@ -8140,6 +8162,24 @@
       "duration_ms": 174937,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC"
+    },
+    {
+      "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138493,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/7p1HMiOlr5YSldteisHWZe"
     },
     {
       "album": {
@@ -9952,7 +9992,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -10783,6 +10823,24 @@
     },
     {
       "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132283,
+      "name": "Down 4 Whatever",
+      "url": "https://open.spotify.com/track/0Y2jYeRtebUMr21kZwK2Fi"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -10892,7 +10950,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -12716,6 +12774,24 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268519,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
     },
     {
       "album": {
@@ -14842,7 +14918,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 134398,
       "name": "GO BESTFRIEND",
       "url": "https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo"
@@ -15820,7 +15896,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 154029,
       "name": "HDP",
       "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
@@ -18414,7 +18490,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1C9blfN8TSuM24qMLbd2HO"
@@ -23268,7 +23344,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -23290,6 +23366,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163520,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
     },
     {
       "album": {
@@ -28992,7 +29086,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 150340,
       "name": "Overdosis",
       "url": "https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr"
@@ -29534,6 +29628,42 @@
       "duration_ms": 172797,
       "name": "Parasol",
       "url": "https://open.spotify.com/track/2l9xth8jNSwVipbobNZV4e"
+    },
+    {
+      "album": {
+        "name": "Paris, Texas",
+        "url": "https://open.spotify.com/album/1oBS2LLFZDo9eKnb66jffn"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/6wckDJ8EqudZePpq6jk9rB"
+    },
+    {
+      "album": {
+        "name": "Pauze",
+        "url": "https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152038,
+      "name": "Pauze",
+      "url": "https://open.spotify.com/track/6AWDTrLLcEZDFn0qHKwzMW"
     },
     {
       "album": {
@@ -36128,7 +36258,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -36604,6 +36734,28 @@
       "duration_ms": 151787,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1W0zZawFHRYuVy3QI6eQrn"
+    },
+    {
+      "album": {
+        "name": "Te Laat",
+        "url": "https://open.spotify.com/album/6yiJCRKHqOcVrPFfBh2wqf"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219836,
+      "name": "Te Laat",
+      "url": "https://open.spotify.com/track/1QQAb1GolryJk3F9tvf7mY"
     },
     {
       "album": {
@@ -42470,6 +42622,24 @@
       "duration_ms": 191719,
       "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
       "url": "https://open.spotify.com/track/4nW7z4lyhT18qAuz7uZ7lW"
+    },
+    {
+      "album": {
+        "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
+        "url": "https://open.spotify.com/album/2oeDc1LWpBVql3izGmRXu0"
+      },
+      "artists": [
+        {
+          "name": "TEKKFACTORY",
+          "url": "https://open.spotify.com/artist/5PQPzprWLehJR5hKrwbc2i"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191764,
+      "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
+      "url": "https://open.spotify.com/track/5jjZQhqLRPrS42o1Ao3uut"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34048,
+  "num_followers": 34055,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,26 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "funkysolo",
-        "url": "https://open.spotify.com/album/7HhpsWu3oXmYHGqYDkQ79V"
+        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
+        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
       },
       "artists": [
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
         }
       ],
-      "duration_ms": 226517,
-      "name": "funkysolo",
-      "url": "https://open.spotify.com/track/1wd9Yc43eVRgsfivN750MU"
+      "duration_ms": 206107,
+      "name": "BAD BITCH - En Vivo - Buenos Aires",
+      "url": "https://open.spotify.com/track/5HtAqnaTQBrX43aclqXrLw"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -187,26 +195,18 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
-        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
+        "name": "funkysolo",
+        "url": "https://open.spotify.com/album/7HhpsWu3oXmYHGqYDkQ79V"
       },
       "artists": [
         {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         }
       ],
-      "duration_ms": 206107,
-      "name": "BAD BITCH - En Vivo - Buenos Aires",
-      "url": "https://open.spotify.com/track/5HtAqnaTQBrX43aclqXrLw"
+      "duration_ms": 226517,
+      "name": "funkysolo",
+      "url": "https://open.spotify.com/track/1wd9Yc43eVRgsfivN750MU"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 261613,
-      "name": "Funkybar\u00edtico",
-      "url": "https://open.spotify.com/track/76XBnA6HsX3L4tGrx8ZBrE"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
         "name": "Mesa Dulce",
         "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 219632,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 261613,
+      "name": "Funkybar\u00edtico",
+      "url": "https://open.spotify.com/track/76XBnA6HsX3L4tGrx8ZBrE"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Por el Funk",
-        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
-      },
-      "artists": [
-        {
-          "name": "Dostrescinco",
-          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Por el Funk",
-      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
         "name": "Sudaka",
         "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 202808,
       "name": "Sudaka",
       "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
+        "name": "Por el Funk",
+        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
+      },
+      "artists": [
+        {
+          "name": "Dostrescinco",
+          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Por el Funk",
+      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Good to Know",
-        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
-      },
-      "artists": [
-        {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
         "name": "Prescription For Soul",
         "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 241706,
       "name": "Can't Fight The Funk",
       "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
+        "name": "Good to Know",
+        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
+      },
+      "artists": [
+        {
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
-      },
-      "artists": [
-        {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
-        }
-      ],
-      "duration_ms": 267705,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
+      },
+      "artists": [
+        {
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+        }
+      ],
+      "duration_ms": 267705,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Tony 70",
-        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Simon Freak",
-      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
         "name": "Los Funktasticos Genitales",
         "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 190790,
       "name": "Aceituna",
       "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
+        "name": "Tony 70",
+        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Simon Freak",
+      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
         "name": "Aeronave",
         "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+        "name": "Sedas",
+        "url": "https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x"
       },
       "artists": [
         {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+          "name": "SEDA",
+          "url": "https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl"
         }
       ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+      "duration_ms": 168375,
+      "name": "Sedas",
+      "url": "https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Sedas",
-        "url": "https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x"
-      },
-      "artists": [
-        {
-          "name": "SEDA",
-          "url": "https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl"
-        }
-      ],
-      "duration_ms": 168375,
-      "name": "Sedas",
-      "url": "https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
         "name": "en m\u00ed",
         "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 246910,
       "name": "en m\u00ed",
       "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -1099,22 +1115,6 @@
       "duration_ms": 183651,
       "name": "Afromama Jams",
       "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+      },
+      "artists": [
+        {
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+        }
+      ],
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
         "name": "Miro donde miro",
         "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
@@ -1551,34 +1567,18 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+        "name": "Fiestas en las Nubes",
+        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
       },
       "artists": [
         {
-          "name": "Cami Brooks",
-          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+          "name": "INTI GARCIA",
+          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
         }
       ],
-      "duration_ms": 226871,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+      "duration_ms": 162624,
+      "name": "Fiestas en las Nubes",
+      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
     },
     {
       "added_at": "2025-10-24 03:00:23",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-10-24 03:00:23",
       "album": {
-        "name": "Fiestas en las Nubes",
-        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
-      },
-      "artists": [
-        {
-          "name": "INTI GARCIA",
-          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Fiestas en las Nubes",
-      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
-    },
-    {
-      "added_at": "2025-10-24 03:00:23",
-      "album": {
         "name": "El Efecto Calma",
         "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 246085,
       "name": "El Efecto Calma",
       "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
+    },
+    {
+      "added_at": "2025-10-24 03:00:23",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2025-10-24 03:00:23",

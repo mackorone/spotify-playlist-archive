@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74390,
+  "num_followers": 74393,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAC3ewCTSgkpMpJ07ajmqyfg",
+  "snapshot_id": "aRZxAAAAAAAU8tjjuF8cl4CXKkcPHITH",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Son tus ojos",
-      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 213831,
       "name": "Casafantasmas",
       "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
     },
     {
       "added_at": null,

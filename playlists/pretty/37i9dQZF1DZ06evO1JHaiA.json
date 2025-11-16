@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 3060,
+  "num_followers": 3061,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADuTs5hCFatg0lIm1aYT/EG",
+  "snapshot_id": "aRZxAAAAAAAFRL1329zb++ZgJ2wpLdKw",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
+        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
+        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Tommy Brown",
-          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 257333,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
+      "duration_ms": 238240,
+      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
+      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
-        "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Tommy Brown",
+          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 238240,
-      "name": "(YOU'D BETTER) CHECK YOURSELF - Live At The Nixon Theatre 1967",
-      "url": "https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ"
+      "duration_ms": 257333,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
     },
     {
       "added_at": null,

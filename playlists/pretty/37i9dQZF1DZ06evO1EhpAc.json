@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADMOd861Qx5ynpmOPybOZf1",
+  "snapshot_id": "aRZxAAAAAACSNIX8KlBEnwCbKF43Sj/v",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mine or Yours (Yaeji Remix)",
-        "url": "https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 255582,
-      "name": "Mine or Yours (Yaeji Remix)",
-      "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 211525,
       "name": "wo ai ni",
       "url": "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mine or Yours (Yaeji Remix)",
+        "url": "https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 255582,
+      "name": "Mine or Yours (Yaeji Remix)",
+      "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
     },
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 182957,
+      "name": "break it even",
+      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe In Ya",
         "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 179089,
       "name": "Believe In Ya",
       "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 182957,
-      "name": "break it even",
-      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
     },
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 201239,
+      "name": "WAKING UP DOWN",
+      "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mirror (feat. Jessy Lanza & Yaeji)",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 168500,
       "name": "Mirror (feat. Jessy Lanza & Yaeji)",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 201239,
-      "name": "WAKING UP DOWN",
-      "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Joy",
-        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
-      },
-      "artists": [
-        {
-          "name": "Ellie Herring",
-          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Swim Me",
-      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New York 93 (Baba Stiltz Remix)",
         "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 355121,
       "name": "New York 93 (Baba Stiltz Remix)",
       "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What a Joy",
+        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
+      },
+      "artists": [
+        {
+          "name": "Ellie Herring",
+          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Swim Me",
+      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     },
     {
       "added_at": null,

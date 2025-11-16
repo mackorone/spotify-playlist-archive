@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx, Robyn, Lewis Capaldi and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,040 likes - 116 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,033 likes - 116 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 20 | [4C](https://open.spotify.com/track/2JZXSSxPJ49MHuY0GuexUN) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [4C](https://open.spotify.com/album/7EnjzadgMEZuvHumi8epdx) | 3:07 |
 | 21 | [Photograph of a Cyclone](https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 3:28 |
 | 22 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
-| 23 | [Feel The Beat](https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc), [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [SELECTA](https://open.spotify.com/album/3w9BwqNfaGC2IBNwXpOEWc) | 3:30 |
+| 23 | [Feel The Beat](https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc), [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [SELECTA](https://open.spotify.com/album/3w9BwqNfaGC2IBNwXpOEWc) | 3:24 |
 | 24 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 |
 | 25 | [Maybe Not Tonight](https://open.spotify.com/track/1NeYdwfqPVmmItoaBNq7KJ) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/2mRhyVJ7pkYWN4cXq1e8QG) | 2:45 |
 | 26 | [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 |

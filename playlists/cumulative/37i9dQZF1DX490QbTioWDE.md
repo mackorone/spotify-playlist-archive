@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-606 songs - 1 day 12 hr 43 min
+607 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Agua Sucia](https://open.spotify.com/track/1R3i3CSZ1daF3X3bDhai0T) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM), [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Agua Sucia](https://open.spotify.com/album/2h8fdFG0TAOJLm8S4MXTYL) | 4:01 | 2024-01-26 | 2024-03-12 |
 | [Aguardiente](https://open.spotify.com/track/1U8zMLn2FBtt7nttds2odI) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Aguardiante](https://open.spotify.com/album/4dVtUhh3og2TMPp3d0379Y) | 3:03 | 2025-08-29 | 2025-09-13 |
 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 | 2023-08-25 | 2024-12-21 |
-| [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 | 2022-05-27 |  |
+| [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 | 2022-05-27 | 2025-11-16 |
 | [Ahora mírame](https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:34 | 2023-09-15 | 2024-04-19 |
 | [Ahora Mírame](https://open.spotify.com/track/4EOTkRt48d1Eu31V2o4mNw) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:34 | 2021-12-24 | 2023-09-21 |
 | [Algo Más / Azúcar Amargo](https://open.spotify.com/track/1OHDQiWQQaQHtJboLbrgti) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Algo Más / Azúcar Amargo](https://open.spotify.com/album/0O2WIytgYKQdMmIfi0cQFm) | 3:53 | 2024-05-03 | 2024-06-01 |
@@ -100,6 +100,7 @@
 | [Con los Ojitos Cerrados \(En Vivo Gran Rex\)](https://open.spotify.com/track/6jHRRyTWfde4OufLp3imga) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Con los Ojitos Cerrados \(En Vivo Gran Rex\)](https://open.spotify.com/album/6NrASzGrjpU9QE39GrMKRm) | 3:26 | 2025-05-02 | 2025-05-24 |
 | [Con Otra](https://open.spotify.com/track/5U53vaxUhZvkUFJcFIbP2G) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Con Otra](https://open.spotify.com/album/5ZEs7vBhttqYwGtyFeZLVo) | 3:54 | 2025-05-02 | 2025-05-24 |
 | [Con Otra \- En Vivo](https://open.spotify.com/track/7L1xVDPk3nLxQIGOOryW7p) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Con Otra \(En Vivo\)](https://open.spotify.com/album/6eNEntGXLfxZu7cblWuuLj) | 3:56 | 2025-08-29 |  |
+| [Confesión](https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Confesión](https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr) | 3:21 | 2025-10-24 |  |
 | [Conmigo Te Gustó \- Pechos Calientes](https://open.spotify.com/track/35Tg0oVEBdJFYxaxRM0AHJ) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Conmigo Te Gustó \- Pechos Calientes](https://open.spotify.com/album/26xqJNDKQXuWBAn5B1cfBW) | 4:51 | 2024-12-20 |  |
 | [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 |  |
 | [Corazón en Bandeja de Té](https://open.spotify.com/track/6JAqFBKUiAff3hYZafk8HI) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Corazón en Bandeja de Té](https://open.spotify.com/album/52vYmKaGgaXJ5gXFOG0dnP) | 3:09 | 2023-05-05 | 2023-05-13 |

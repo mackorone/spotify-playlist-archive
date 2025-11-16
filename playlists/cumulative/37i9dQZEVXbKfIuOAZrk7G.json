@@ -3891,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198199,
+      "name": "Ain't My Problem",
+      "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/48FRMDuNlqIdm74shLlcnM"
       },
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 198199,
       "name": "Ain't My Problem",
       "url": "https://open.spotify.com/track/4FVUqQIxQV21DiAcr8rvnN"
@@ -20632,6 +20650,24 @@
     {
       "album": {
         "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192839,
+      "name": "Don't Tread On Me",
+      "url": "https://open.spotify.com/track/0iqx7tvdMSDpO5Ko187Rk0"
+    },
+    {
+      "album": {
+        "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/7BhADQhRXAejqKcPRxiVbB"
       },
       "artists": [
@@ -20642,7 +20678,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 192839,
       "name": "Don't Tread On Me",
       "url": "https://open.spotify.com/track/6HBXV39czD5H6T13VbJSQZ"
@@ -21954,7 +21990,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 256965,
       "name": "Dying To Love",
       "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
@@ -36872,10 +36908,28 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 139429,
       "name": "I'm Not There For You",
       "url": "https://open.spotify.com/track/3kLqlYcPuj5864tVB5LVL2"
+    },
+    {
+      "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139429,
+      "name": "I'm Not There For You",
+      "url": "https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp"
     },
     {
       "album": {
@@ -50372,7 +50426,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -60102,7 +60156,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
@@ -64784,7 +64838,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"

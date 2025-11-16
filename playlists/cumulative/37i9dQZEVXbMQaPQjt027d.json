@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 136740,
       "name": "De Wijk",
       "url": "https://open.spotify.com/track/1crJ6kjhiCodGR0pS7zjN4"
@@ -2398,6 +2398,24 @@
     {
       "album": {
         "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192839,
+      "name": "Don't Tread On Me",
+      "url": "https://open.spotify.com/track/0iqx7tvdMSDpO5Ko187Rk0"
+    },
+    {
+      "album": {
+        "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/7BhADQhRXAejqKcPRxiVbB"
       },
       "artists": [
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 192839,
       "name": "Don't Tread On Me",
       "url": "https://open.spotify.com/track/6HBXV39czD5H6T13VbJSQZ"
@@ -3638,6 +3656,24 @@
       "duration_ms": 204782,
       "name": "Hetzelfde Liedje",
       "url": "https://open.spotify.com/track/7spyb42SHishjLoNC7icpc"
+    },
+    {
+      "album": {
+        "name": "Hey Macarena",
+        "url": "https://open.spotify.com/album/0Eh10dyBOSqJEOH1ewQOmc"
+      },
+      "artists": [
+        {
+          "name": "Fetty",
+          "url": "https://open.spotify.com/artist/553VSxbzZS8p7TSUhEbZuU"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165878,
+      "name": "Hey Macarena",
+      "url": "https://open.spotify.com/track/2RYuapffXKoJGQaH0uNxLa"
     },
     {
       "album": {
@@ -5116,7 +5152,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 204959,
       "name": "Livin\u2019 on Borrowed Time",
       "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
@@ -5848,7 +5884,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 234810,
       "name": "Move As One (Official Thunderdome 2025 Anthem)",
       "url": "https://open.spotify.com/track/3uljsRfJgrU0WnAbKXOQdZ"
@@ -8706,7 +8742,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 184711,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
@@ -10068,7 +10104,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 159673,
       "name": "YAMA",
       "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"

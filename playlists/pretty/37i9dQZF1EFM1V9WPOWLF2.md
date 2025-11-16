@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 45 | [pinot grigio](https://open.spotify.com/track/5VXYli2kYvZ4RbKi1Udgpc) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:07 |
 | 46 | [Complete](https://open.spotify.com/track/1Pn1My4kHwVdwumCRCCzXX) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:22 |
 | 47 | [PARANOIA.](https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PARANOIA.](https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU) | 3:06 |
-| 48 | [TNT](https://open.spotify.com/track/74h5MxKFLCzHFnscai2nbY) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/117GlVLvuRPiZFLprhE61n) | 2:05 |
-| 49 | [CLICKBAIT](https://open.spotify.com/track/6FwABBfhb4zp7DpNJltDzI) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [KM0](https://open.spotify.com/album/2eQtbaGUFOZ0NdWv5XBoPq) | 2:40 |
+| 48 | [CLICKBAIT](https://open.spotify.com/track/6FwABBfhb4zp7DpNJltDzI) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [KM0](https://open.spotify.com/album/2eQtbaGUFOZ0NdWv5XBoPq) | 2:40 |
+| 49 | [TNT](https://open.spotify.com/track/74h5MxKFLCzHFnscai2nbY) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/117GlVLvuRPiZFLprhE61n) | 2:05 |
 | 50 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 |
 | 51 | [Temporary](https://open.spotify.com/track/28zcTRqgD2iVOE4KEKCAxi) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Temporary](https://open.spotify.com/album/4q8Lf22VusXiVGManncPJY) | 3:24 |
 | 52 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 92 | [LIKE A CHAMPION](https://open.spotify.com/track/73mViHQE6N08rInBWkyaiw) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:12 |
 | 93 | [UWU](https://open.spotify.com/track/1cEhypJFllfBA5sGVZFtq3) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [UWU](https://open.spotify.com/album/2DmiIfiNVVEEoPp1gIU7jx) | 2:22 |
 
-Snapshot ID: `AcBmRgAAAAA4HFiusCTQ1utkk6qf64nn`
+Snapshot ID: `AcBr3AAAAABdqYN1eqM22KkudXLXxBri`

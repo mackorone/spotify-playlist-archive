@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 26 min
+114 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,11 +104,12 @@
 | [Sinner](https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sinner](https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H) | 3:31 | 2023-04-28 |  |
 | [SMOKE HOUR II](https://open.spotify.com/track/5tInFhbFRLTM4rFu6yVSJA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 0:29 | 2024-03-30 | 2024-06-06 |
 | [SMOKE HOUR ★ WILLIE NELSON](https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 0:50 | 2024-03-30 |  |
-| [Somewhere Between](https://open.spotify.com/track/4sQv8jRGdmFquqCZkU3KSk) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Somewhere Between](https://open.spotify.com/album/1g8AiTajjbeUPeC1iQ2IkK) | 3:03 | 2025-10-19 |  |
+| [Somewhere Between](https://open.spotify.com/track/4sQv8jRGdmFquqCZkU3KSk) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Somewhere Between](https://open.spotify.com/album/1g8AiTajjbeUPeC1iQ2IkK) | 3:03 | 2025-10-19 | 2025-11-16 |
 | [Songs That Make a Difference](https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 2:55 | 2023-04-28 | 2024-12-17 |
 | [Stardust](https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:50 | 2023-09-15 |  |
 | [Stay All Night \(Stay a Little Longer\)](https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:34 | 2024-10-26 | 2025-07-04 |
 | [Still Is Still Moving To Me](https://open.spotify.com/track/3unrbH3SAqhL8OiUVF399z) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Still Is Still Moving To Me](https://open.spotify.com/album/3oQaCyVNzJUob9WsUD0Naa) | 4:00 | 2023-08-05 | 2023-09-22 |
+| [Swinging Doors](https://open.spotify.com/track/65R5zG53AZ8B41StOw0pUZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Workin' Man: Willie Sings Merle](https://open.spotify.com/album/4HalQbvT1dCgW2VEkEt990) | 2:52 | 2025-11-16 |  |
 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 | 2024-01-07 | 2024-06-06 |
 | [The Border](https://open.spotify.com/track/0WJlUu11GrZqqgrRQHeGsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/4Vke6DZ0NVfnxwovu5os0R) | 5:09 | 2024-03-15 | 2024-06-04 |
 | [The Border](https://open.spotify.com/track/5BmX2B6OrGI3czAU8VNF8s) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 5:09 | 2024-06-12 | 2024-10-03 |

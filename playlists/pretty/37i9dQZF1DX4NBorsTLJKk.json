@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 35509,
+  "num_followers": 35513,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u85cd\u8272\u96e8",
-        "url": "https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU"
-      },
-      "artists": [
-        {
-          "name": "Landy Wen",
-          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
-        }
-      ],
-      "duration_ms": 295480,
-      "name": "\u85cd\u8272\u96e8",
-      "url": "https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
         "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 288760,
       "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
       "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u85cd\u8272\u96e8",
+        "url": "https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU"
+      },
+      "artists": [
+        {
+          "name": "Landy Wen",
+          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
+        }
+      ],
+      "duration_ms": 295480,
+      "name": "\u85cd\u8272\u96e8",
+      "url": "https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf"
     },
     {
       "added_at": "2025-10-09 16:05:38",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD"
+      },
+      "artists": [
+        {
+          "name": "Pakho Chau",
+          "url": "https://open.spotify.com/artist/38t0Qk7AJg7YdrXmOC6TH1"
+        }
+      ],
+      "duration_ms": 254248,
+      "name": "\u59b3\u9084\u6015\u5927\u96e8\u55ce - \u570b\u8a9e",
+      "url": "https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
         "name": "\u6211\u770b\u898b\u7684\u4e16\u754c",
         "url": "https://open.spotify.com/album/6jyKXhF8ZgXIBKAeRuYK3P"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 225413,
       "name": "\u51ac\u5b63\u5230\u53f0\u5317\u4f86\u770b\u96e8",
       "url": "https://open.spotify.com/track/224L0XKBYRySkeIXdayVLE"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD"
-      },
-      "artists": [
-        {
-          "name": "Pakho Chau",
-          "url": "https://open.spotify.com/artist/38t0Qk7AJg7YdrXmOC6TH1"
-        }
-      ],
-      "duration_ms": 254248,
-      "name": "\u59b3\u9084\u6015\u5927\u96e8\u55ce - \u570b\u8a9e",
-      "url": "https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN"
     },
     {
       "added_at": "2025-10-09 16:05:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u5bc4\u5c45\u87f9",
-        "url": "https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u601d\u51fd",
-          "url": "https://open.spotify.com/artist/6VOX2zlsFiZDHICYEy3oRD"
-        }
-      ],
-      "duration_ms": 284225,
-      "name": "\u96e8\u4e0d\u505c",
-      "url": "https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u96e2\u5fc3\u529b",
         "url": "https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 179990,
       "name": "\u6fd5\u4e86\uff0c\u5c31\u4e0d\u6015\u6703\u4e0b\u96e8",
       "url": "https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u5bc4\u5c45\u87f9",
+        "url": "https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u601d\u51fd",
+          "url": "https://open.spotify.com/artist/6VOX2zlsFiZDHICYEy3oRD"
+        }
+      ],
+      "duration_ms": 284225,
+      "name": "\u96e8\u4e0d\u505c",
+      "url": "https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf"
     },
     {
       "added_at": "2025-10-09 16:05:38",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
-        "url": "https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj"
-      },
-      "artists": [
-        {
-          "name": "\u78a7\u6b23",
-          "url": "https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3"
-        }
-      ],
-      "duration_ms": 274428,
-      "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
-      "url": "https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u4e0b\u96e8\u5929",
         "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 265000,
       "name": "\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
+        "url": "https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj"
+      },
+      "artists": [
+        {
+          "name": "\u78a7\u6b23",
+          "url": "https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3"
+        }
+      ],
+      "duration_ms": 274428,
+      "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
+      "url": "https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac"
     },
     {
       "added_at": "2025-10-09 16:05:38",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u8d85\u7d1a\u91d1\u66f2\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/40pCAFEe7nt7pprKfsmAbd"
-      },
-      "artists": [
-        {
-          "name": "Karen Mok",
-          "url": "https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "\u9ed1\u96e8",
-      "url": "https://open.spotify.com/track/27UwokRpBnCYqDsNDr9DZ1"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u6df3.\u4f73. (\u65b0\u6b4c+\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/6EAVkUzyCZmAxu1jETZLAt"
       },
@@ -1159,6 +1143,38 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
+        "name": "\u8d85\u7d1a\u91d1\u66f2\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/40pCAFEe7nt7pprKfsmAbd"
+      },
+      "artists": [
+        {
+          "name": "Karen Mok",
+          "url": "https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "\u9ed1\u96e8",
+      "url": "https://open.spotify.com/track/27UwokRpBnCYqDsNDr9DZ1"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u591a\u96e8\u7684\u57ce\u5e02 (2020)",
+        "url": "https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx"
+      },
+      "artists": [
+        {
+          "name": "Mary See the Future \u5148\u77e5\u746a\u8389",
+          "url": "https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP"
+        }
+      ],
+      "duration_ms": 326440,
+      "name": "\u591a\u96e8\u7684\u57ce\u5e02 - 2020",
+      "url": "https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
         "name": "\u89aa\u611b\u7684\u4e16\u754c",
         "url": "https://open.spotify.com/album/6GvKzjitgx5uE7o3b14QAb"
       },
@@ -1168,7 +1184,7 @@
           "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
         }
       ],
-      "duration_ms": 260852,
+      "duration_ms": 261834,
       "name": "\u8ffd\u96e8",
       "url": "https://open.spotify.com/track/27glpEFVip10SzfxZ1aCky"
     },
@@ -1187,22 +1203,6 @@
       "duration_ms": 232888,
       "name": "\u4e0b\u96e8\u591c",
       "url": "https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
-        "name": "\u591a\u96e8\u7684\u57ce\u5e02 (2020)",
-        "url": "https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx"
-      },
-      "artists": [
-        {
-          "name": "Mary See the Future \u5148\u77e5\u746a\u8389",
-          "url": "https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP"
-        }
-      ],
-      "duration_ms": 326440,
-      "name": "\u591a\u96e8\u7684\u57ce\u5e02 - 2020",
-      "url": "https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU"
     },
     {
       "added_at": "2025-10-09 16:05:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Seyi Vibez, teni, Omah Lay, Moliy, Wande Coal,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,537 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,700 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 14 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 |
 | 15 | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/track/0L83TBAR0ad6GJH7q2GtJP) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/album/02YMGf7oSXURkxXAblr1sw) | 2:08 |
 | 16 | [Unto the Next](https://open.spotify.com/track/6wNQOy8PXHV5bmfubVDXrI) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Unto the Next](https://open.spotify.com/album/5nZMOk3AFuE7AmN8m6zxuo) | 2:47 |
-| 17 | [DJ GO TIRE](https://open.spotify.com/track/5cIxwU2aEZrKr4X7y5itZ0) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Minz](https://open.spotify.com/artist/5EmkHNFd0ZhCzGZcwdOssG) | [DJ GO TIRE](https://open.spotify.com/album/55xvfpmSqrPZ29c3XUmF5y) | 2:34 |
+| 17 | [DJ GO TIRE](https://open.spotify.com/track/5cIxwU2aEZrKr4X7y5itZ0) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [DJ GO TIRE](https://open.spotify.com/album/55xvfpmSqrPZ29c3XUmF5y) | 2:34 |
 | 18 | [Peace At War](https://open.spotify.com/track/01UAUxRlejVlNSVwu5QGUZ) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Metal Hearts](https://open.spotify.com/album/6b8wauCqk5Qspur5xLizjQ) | 3:07 |
 | 19 | [Supreme Dee](https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Supreme Dee](https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze) | 2:08 |
 | 20 | [Hustle](https://open.spotify.com/track/0RxAs0b2CZXy6UTBxOuEyN) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Hustle](https://open.spotify.com/album/6fxTABtD1wZ5kWhdpWH00F) | 2:49 |

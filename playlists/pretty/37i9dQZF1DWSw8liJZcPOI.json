@@ -1,6 +1,6 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 229027,
+  "num_followers": 229110,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Wandering II",
-        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 159747,
-      "name": "Wandering II",
-      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 218333,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
+        "name": "Wandering II",
+        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 159747,
+      "name": "Wandering II",
+      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
-      },
-      "artists": [
-        {
-          "name": "Sisulu",
-          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 212732,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
+      },
+      "artists": [
+        {
+          "name": "Sisulu",
+          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Elusive Scent",
-        "url": "https://open.spotify.com/album/2YmL8ONiVXVJVXWL3ovQLk"
+        "name": "Back to Loneliness",
+        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
       },
       "artists": [
         {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
         }
       ],
-      "duration_ms": 228855,
-      "name": "Elusive Scent",
-      "url": "https://open.spotify.com/track/2Xo1zM2lm9wfuaRL9vHOzk"
+      "duration_ms": 257152,
+      "name": "Back to Loneliness",
+      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Back to Loneliness",
-        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
+        "name": "Elusive Scent",
+        "url": "https://open.spotify.com/album/2YmL8ONiVXVJVXWL3ovQLk"
       },
       "artists": [
         {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
         }
       ],
-      "duration_ms": 257152,
-      "name": "Back to Loneliness",
-      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
+      "duration_ms": 228855,
+      "name": "Elusive Scent",
+      "url": "https://open.spotify.com/track/2Xo1zM2lm9wfuaRL9vHOzk"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
+        "name": "Nouveau-N\u00e9",
+        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Nouveau-N\u00e9 (Re-Imagined)",
+      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
         "name": "We All Have Places That We Miss",
         "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 234473,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Candle Flickers",
-        "url": "https://open.spotify.com/album/4gAaXS2qlVgp3AqFY8ajgq"
+        "name": "Longer shadows, softer stones",
+        "url": "https://open.spotify.com/album/433cDh5GSHilJlnrRxsf7X"
       },
       "artists": [
         {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        },
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
         }
       ],
-      "duration_ms": 164320,
-      "name": "Candle Flickers (feat. Peter Gregson) - Adagio",
-      "url": "https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw"
+      "duration_ms": 126000,
+      "name": "M\u00f3an\u00f3ra",
+      "url": "https://open.spotify.com/track/2E6xqTEmNBquHWnQwx5ii3"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -1835,18 +1831,22 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Longer shadows, softer stones",
-        "url": "https://open.spotify.com/album/433cDh5GSHilJlnrRxsf7X"
+        "name": "Candle Flickers",
+        "url": "https://open.spotify.com/album/4gAaXS2qlVgp3AqFY8ajgq"
       },
       "artists": [
         {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        },
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
         }
       ],
-      "duration_ms": 126000,
-      "name": "M\u00f3an\u00f3ra",
-      "url": "https://open.spotify.com/track/2E6xqTEmNBquHWnQwx5ii3"
+      "duration_ms": 164320,
+      "name": "Candle Flickers (feat. Peter Gregson) - Adagio",
+      "url": "https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Hammer Frenzy",
-        "url": "https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl"
-      },
-      "artists": [
-        {
-          "name": "Theo Alexander",
-          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
-        }
-      ],
-      "duration_ms": 229623,
-      "name": "Hammer Frenzy - Edit",
-      "url": "https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
         "name": "Le jardin f\u00e9erique (From Ma m\u00e8re l'oye, Ballet, M. 62) [Recomposed]",
         "url": "https://open.spotify.com/album/6QN72tgiljZIC66nDKwrRv"
       },
@@ -2027,6 +2011,22 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
+        "name": "Hammer Frenzy",
+        "url": "https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl"
+      },
+      "artists": [
+        {
+          "name": "Theo Alexander",
+          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+        }
+      ],
+      "duration_ms": 229623,
+      "name": "Hammer Frenzy - Edit",
+      "url": "https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
         "name": "The Spheres (Ambient Mix)",
         "url": "https://open.spotify.com/album/1IzQgElbT1QJRjMI8KrMrV"
       },
@@ -2047,6 +2047,22 @@
       "duration_ms": 198400,
       "name": "The Spheres - Ambient Mix",
       "url": "https://open.spotify.com/track/7hvW3ZVzAP47Lb1doqYRtD"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
+        "name": "LYR",
+        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
+      },
+      "artists": [
+        {
+          "name": "Aeden Azora",
+          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LYR",
+      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -2087,22 +2103,6 @@
       "duration_ms": 208000,
       "name": "Blush",
       "url": "https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
-        "name": "LYR",
-        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
-      },
-      "artists": [
-        {
-          "name": "Aeden Azora",
-          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LYR",
-      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/370ywdnW7cpDE8vaz4dP23"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/4wY3ONSaOf9AIhyuUH1CYQ"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
         "name": "H\u00e5ll Mig (Reimagined by Tim Linghaus)",
         "url": "https://open.spotify.com/album/6LAvIOjBU1VlLJbJyC4tdc"
       },
@@ -2227,6 +2243,26 @@
       "duration_ms": 147000,
       "name": "Gl\u00fchw\u00fcrmchen (Piano Vision)",
       "url": "https://open.spotify.com/track/6UonjQJl4bd6V9D6ukyPkk"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
+        "name": "When the Earth Yelled Back at Me",
+        "url": "https://open.spotify.com/album/19Ck7X0huP6HZjdWx6Qxet"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        },
+        {
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When the Earth Yelled Back at Me",
+      "url": "https://open.spotify.com/track/0wZFrHQjS0gSBXwFHkk0XC"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -2271,42 +2307,6 @@
       "duration_ms": 216833,
       "name": "Saari",
       "url": "https://open.spotify.com/track/0o2qBgw2VIwxTgWO3oGCqL"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/370ywdnW7cpDE8vaz4dP23"
-      },
-      "artists": [
-        {
-          "name": "Jessie Marcella",
-          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "Komorebi",
-      "url": "https://open.spotify.com/track/4wY3ONSaOf9AIhyuUH1CYQ"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
-        "name": "When the Earth Yelled Back at Me",
-        "url": "https://open.spotify.com/album/19Ck7X0huP6HZjdWx6Qxet"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        },
-        {
-          "name": "Moshimoss",
-          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When the Earth Yelled Back at Me",
-      "url": "https://open.spotify.com/track/0wZFrHQjS0gSBXwFHkk0XC"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
+        "name": "Beautifully Lost Mind",
+        "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
+      },
+      "artists": [
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        }
+      ],
+      "duration_ms": 175530,
+      "name": "Beautifully Lost Mind",
+      "url": "https://open.spotify.com/track/2afflyT076IFG1lyLWb9T6"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
         "name": "s\u00e9r\u00e9nades",
         "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 195719,
       "name": "Mishkin",
       "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
-        "name": "Beautifully Lost Mind",
-        "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
-      },
-      "artists": [
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
-        }
-      ],
-      "duration_ms": 175530,
-      "name": "Beautifully Lost Mind",
-      "url": "https://open.spotify.com/track/2afflyT076IFG1lyLWb9T6"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -2451,26 +2451,6 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        },
-        {
-          "name": "Valente Bertelli",
-          "url": "https://open.spotify.com/artist/7kbDeufcUnqAmbShMeEnAC"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
         "name": "Circle 31",
         "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
       },
@@ -2491,6 +2471,26 @@
       "duration_ms": 257314,
       "name": "Circle 31",
       "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        },
+        {
+          "name": "Valente Bertelli",
+          "url": "https://open.spotify.com/artist/7kbDeufcUnqAmbShMeEnAC"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -2879,6 +2879,34 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
+        "name": "You Left (Rework)",
+        "url": "https://open.spotify.com/album/6rPYMh0qE5ttuerWbgy46Y"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "Async Ross",
+          "url": "https://open.spotify.com/artist/7yePXFsl8Y7GORfnIGlbFS"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Kevin Kuh",
+          "url": "https://open.spotify.com/artist/1H4ZTdZLiTbHn2dAT4bD28"
+        }
+      ],
+      "duration_ms": 157448,
+      "name": "You Left (Rework)",
+      "url": "https://open.spotify.com/track/5nZqiC7vtJxSHZcL6TdiVi"
+    },
+    {
+      "added_at": "2025-10-07 08:55:52",
+      "album": {
         "name": "The Light I",
         "url": "https://open.spotify.com/album/2WB2NrI0CXJnjjUkCl4YxC"
       },
@@ -2891,22 +2919,6 @@
       "duration_ms": 270718,
       "name": "The Light I",
       "url": "https://open.spotify.com/track/19xrX5l38HhIyImUfFKAfZ"
-    },
-    {
-      "added_at": "2025-10-07 08:55:52",
-      "album": {
-        "name": "With Silence (Mvt. 3) [Pt. 4 \u201csunwards turn\u201d]",
-        "url": "https://open.spotify.com/album/1WvZUNXljxrrL9cd106AmT"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 265665,
-      "name": "With Silence (Mvt. 3) - Pt. 4 \u201csunwards turn\u201d",
-      "url": "https://open.spotify.com/track/3Gv2xGhuQLNd4PKOlza4eA"
     },
     {
       "added_at": "2025-10-07 08:55:52",
@@ -2951,30 +2963,18 @@
     {
       "added_at": "2025-10-07 08:55:52",
       "album": {
-        "name": "You Left (Rework)",
-        "url": "https://open.spotify.com/album/6rPYMh0qE5ttuerWbgy46Y"
+        "name": "With Silence (Mvt. 3) [Pt. 4 \u201csunwards turn\u201d]",
+        "url": "https://open.spotify.com/album/1WvZUNXljxrrL9cd106AmT"
       },
       "artists": [
         {
-          "name": "Kyle McEvoy",
-          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
-        },
-        {
-          "name": "Async Ross",
-          "url": "https://open.spotify.com/artist/7yePXFsl8Y7GORfnIGlbFS"
-        },
-        {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
-        },
-        {
-          "name": "Kevin Kuh",
-          "url": "https://open.spotify.com/artist/1H4ZTdZLiTbHn2dAT4bD28"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
         }
       ],
-      "duration_ms": 157448,
-      "name": "You Left (Rework)",
-      "url": "https://open.spotify.com/track/5nZqiC7vtJxSHZcL6TdiVi"
+      "duration_ms": 265665,
+      "name": "With Silence (Mvt. 3) - Pt. 4 \u201csunwards turn\u201d",
+      "url": "https://open.spotify.com/track/3Gv2xGhuQLNd4PKOlza4eA"
     },
     {
       "added_at": "2025-10-07 08:55:52",

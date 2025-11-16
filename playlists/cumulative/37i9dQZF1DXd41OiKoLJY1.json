@@ -5431,6 +5431,24 @@
     },
     {
       "album": {
+        "name": "Atameru",
+        "url": "https://open.spotify.com/album/6FVN1ijs0PymgblcFUjYq7"
+      },
+      "artists": [
+        {
+          "name": "Surevibe",
+          "url": "https://open.spotify.com/artist/3TCIoYyXbifJAr5wIhAGR9"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190652,
+      "name": "Atameru",
+      "url": "https://open.spotify.com/track/36GjaGtmbT8dCiM8cyzFJ5"
+    },
+    {
+      "album": {
         "name": "Atin Ang Sandali (Acoustic Version)",
         "url": "https://open.spotify.com/album/0SxfnZAt4gVNUpr6JOS4jq"
       },

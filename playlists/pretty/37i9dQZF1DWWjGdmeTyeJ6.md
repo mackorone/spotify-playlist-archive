@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Dove Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,247 likes - 164 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,210 likes - 164 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 163 | [Full Moon](https://open.spotify.com/track/3wjgHCEZobKb0A2hE9mcvf) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Full Moon](https://open.spotify.com/album/0FPQrFfvzrzs9lmFBUzu9D) | 4:22 |
 | 164 | [Talk Is Cheap](https://open.spotify.com/track/40ZK92vFHVqmYJdxHFcWNG) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [Talk Is Cheap](https://open.spotify.com/album/05ALIzk7K7uH7CXf16GFXd) | 3:24 |
 
-Snapshot ID: `AAAAACd0M5uHopieWZk+U+/KEVQjheUk`
+Snapshot ID: `AAAAALM2g2/jOWaDCbIuAsHvZay3Mbhg`

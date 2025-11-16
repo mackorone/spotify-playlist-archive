@@ -643,30 +643,6 @@
     {
       "added_at": "2025-10-03 14:12:08",
       "album": {
-        "name": "CHATA",
-        "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 156330,
-      "name": "CHATA",
-      "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
-    },
-    {
-      "added_at": "2025-10-03 14:12:08",
-      "album": {
         "name": "Cara Ideal",
         "url": "https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS"
       },
@@ -683,6 +659,26 @@
       "duration_ms": 131076,
       "name": "Safado",
       "url": "https://open.spotify.com/track/2x1BjX69aGNixLSVuah05k"
+    },
+    {
+      "added_at": "2025-10-03 14:12:08",
+      "album": {
+        "name": "Depois Da Meia Noite",
+        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Depois Da Meia Noite",
+      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
     },
     {
       "added_at": "2025-10-03 14:12:08",
@@ -715,22 +711,26 @@
     {
       "added_at": "2025-10-03 14:12:08",
       "album": {
-        "name": "Depois Da Meia Noite",
-        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
+        "name": "CHATA",
+        "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
         },
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
         }
       ],
-      "duration_ms": 189015,
-      "name": "Depois Da Meia Noite",
-      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
+      "duration_ms": 156330,
+      "name": "CHATA",
+      "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
     },
     {
       "added_at": "2025-10-03 14:12:08",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-03 14:12:08",
       "album": {
-        "name": "Menino",
-        "url": "https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        }
-      ],
-      "duration_ms": 168535,
-      "name": "Menino",
-      "url": "https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG"
-    },
-    {
-      "added_at": "2025-10-03 14:12:08",
-      "album": {
         "name": "Receita",
         "url": "https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 123446,
       "name": "Receita",
       "url": "https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh"
+    },
+    {
+      "added_at": "2025-10-03 14:12:08",
+      "album": {
+        "name": "Menino",
+        "url": "https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        }
+      ],
+      "duration_ms": 168535,
+      "name": "Menino",
+      "url": "https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG"
     },
     {
       "added_at": "2025-10-03 14:12:08",

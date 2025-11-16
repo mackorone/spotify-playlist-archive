@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Ozzy Osbourne
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,681,176 likes - 204 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,681,469 likes - 204 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

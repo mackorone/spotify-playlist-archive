@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,511 songs - 5 day 11 hr 59 min
+2,512 songs - 5 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,7 +659,7 @@
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-09-24 | 2023-11-25 |
 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-10 | 2024-01-03 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-12 | 2022-09-11 |
-| [Deux et demi](https://open.spotify.com/track/3i1l3bHXVh5ol4Sd1ulFBa) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:48 | 2025-11-08 |  |
+| [Deux et demi](https://open.spotify.com/track/3i1l3bHXVh5ol4Sd1ulFBa) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:48 | 2025-11-08 | 2025-11-16 |
 | [Deux frères](https://open.spotify.com/track/6hzi3AGB39FjxFqcjgbWs7) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/2JtKf1aFxqS0M3QIj98nG5) | 4:07 | 2022-05-06 | 2022-07-03 |
 | [Deux mille](https://open.spotify.com/track/03LDM6VoTJbfdw1L7USDU8) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:15 | 2024-12-07 | 2024-12-22 |
 | [DEUX TOILES DE MER](https://open.spotify.com/track/7yN9Qx1HtE4c1fhakBz8Ay) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 5:15 | 2021-05-03 | 2021-05-09 |
@@ -684,7 +684,7 @@
 | [Djo](https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 2:47 | 2023-06-03 | 2023-06-09 |
 | [DLB 13](https://open.spotify.com/track/64v5RSiSNrlLHRoynPHhQ3) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 2:41 | 2021-06-06 | 2021-06-13 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-15 | 2022-02-06 |
-| [DO U WANNA ?](https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm) | 2:15 | 2025-09-03 | 2025-11-14 |
+| [DO U WANNA ?](https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm) | 2:15 | 2025-09-03 |  |
 | [Doggy](https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Doggy](https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go) | 2:12 | 2024-03-30 | 2024-04-30 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 | 2023-01-21 |
 | [Dolce Camara](https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:58 | 2024-02-10 |  |
@@ -1315,7 +1315,7 @@
 | [Les gentils bandits](https://open.spotify.com/track/54bkUtHk2xgey6Y0KvOYjB) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:40 | 2022-03-05 | 2022-03-17 |
 | [Les hommes aux yeux noirs](https://open.spotify.com/track/1AhPGKrgOcdRfTGABLzl2i) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:33 | 2024-06-01 | 2024-06-09 |
 | [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 | 2025-05-24 | 2025-05-29 |
-| [Les monstres](https://open.spotify.com/track/42TqBq2bQFXCOTWIAHHbkn) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:11 | 2025-11-08 |  |
+| [Les monstres](https://open.spotify.com/track/42TqBq2bQFXCOTWIAHHbkn) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:11 | 2025-11-08 | 2025-11-16 |
 | [Les étoiles](https://open.spotify.com/track/4F10RydcVQEZ34Dj4JAf3U) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ciel](https://open.spotify.com/album/5KrCGccYApAa7Vz0BFBSwL) | 2:57 | 2023-11-28 | 2023-11-30 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-17 | 2023-04-09 |
 | [let it snow](https://open.spotify.com/track/5VvtmOjMSEx0rjIiBHiv83) | [blondette](https://open.spotify.com/artist/60glra0QYcARAJr4OeJVNP), [sweet planet](https://open.spotify.com/artist/7cOjsQCBOubFpm77Wh7pan) | [peaceful christmas](https://open.spotify.com/album/4ZEboYDbTJAZV6uPuGZz1h) | 2:25 | 2021-12-25 | 2021-12-27 |
@@ -1563,6 +1563,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2021-11-05 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-30 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-19 |
+| [MONTMARTRE](https://open.spotify.com/track/580B1q70P9t1Y9biHmp6fP) | [Lushe](https://open.spotify.com/artist/5zCMyo4rRc63lqoXLKIcgv) | [MONTMARTRE](https://open.spotify.com/album/63jjurVL6pBVFHhqaiGj3S) | 2:28 | 2025-11-15 |  |
 | [Mony \(feat\. Michkavie\)](https://open.spotify.com/track/7n2iLVGvqGR0FLcfacwi2M) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Michkavie](https://open.spotify.com/artist/40ZNISM0oo8WY2LpFNNYUR) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:38 | 2024-11-16 | 2024-11-24 |
 | [Mood](https://open.spotify.com/track/58rVY9wmIYBOzdLXygVs6i) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Focus](https://open.spotify.com/album/3DC0X3LwqpYnAnfTge7YE7) | 2:51 | 2025-03-07 | 2025-09-26 |
 | [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-02-28 | 2025-03-07 |

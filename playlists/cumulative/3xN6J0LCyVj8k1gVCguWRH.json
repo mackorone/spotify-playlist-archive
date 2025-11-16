@@ -18748,7 +18748,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 168519,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/1EY3GiXBh9f9aIS5qmwcFU"
@@ -73394,7 +73394,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 189919,
       "name": "Ride This Groove",
       "url": "https://open.spotify.com/track/06MDBcjxQRbu6St59JynMk"
@@ -82952,7 +82952,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 163919,
       "name": "Stop-n-Go",
       "url": "https://open.spotify.com/track/5jlgXhNzkdqIqSGa0R4me2"
@@ -96116,7 +96116,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 186589,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/6Xg6IGzG0Ye1fiyUpXEVpt"
@@ -102290,10 +102290,28 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 210320,
       "name": "You Did That",
       "url": "https://open.spotify.com/track/1UE62CUMms8KivkouAl3Q6"
+    },
+    {
+      "album": {
+        "name": "You Didn't Text Me",
+        "url": "https://open.spotify.com/album/1Btiqdgkmek3q0WhyyYW9s"
+      },
+      "artists": [
+        {
+          "name": "Estella Dawn",
+          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152238,
+      "name": "You Didn't Text Me",
+      "url": "https://open.spotify.com/track/33cguJD4dSSHhAQMtdEso0"
     },
     {
       "album": {

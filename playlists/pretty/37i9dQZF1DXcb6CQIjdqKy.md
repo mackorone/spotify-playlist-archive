@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,134 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,096 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 56 | [The Mercy Room](https://open.spotify.com/track/5I7WPi3OheSMwPRf8AGPpC) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Mercy Room](https://open.spotify.com/album/1Beku06tr0tlr8ScsF8CsG) | 3:42 |
 | 57 | [History](https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [The Truth](https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j) | 3:01 |
 | 58 | [DEEP](https://open.spotify.com/track/0THcqMeQa1NSviF64C5NG5) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [THROWING PAINT](https://open.spotify.com/album/4LIjsirtkdowvJezJBwCOy) | 3:51 |
-| 59 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 |
+| 59 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 |
 | 60 | [Why Do You Love Me?](https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Why Do You Love Me?](https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh) | 4:08 |
 | 61 | [Goodness And Mercy](https://open.spotify.com/track/1lgzLzh6dZabFvdJAD1CaG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [No Label](https://open.spotify.com/album/0ghyhpA9XBMUK7d7D8IniC) | 3:38 |
 | 62 | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 |

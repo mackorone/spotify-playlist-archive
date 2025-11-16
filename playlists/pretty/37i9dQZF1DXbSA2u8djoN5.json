@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Erika Isac",
-  "num_followers": 22063,
+  "num_followers": 22066,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-11-06 22:00:36",
       "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Sunt fratii tai",
+      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+    },
+    {
+      "added_at": "2025-11-06 22:00:36",
+      "album": {
         "name": "ALTCEVA",
         "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 186300,
       "name": "ALTCEVA",
       "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
-    },
-    {
-      "added_at": "2025-11-06 22:00:36",
-      "album": {
-        "name": "Direct din Tei",
-        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 159244,
-      "name": "Sunt fratii tai",
-      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
     },
     {
       "added_at": "2025-11-06 22:00:36",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-11-06 22:00:36",
       "album": {
-        "name": "Grinch",
-        "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Grinch",
-      "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
-    },
-    {
-      "added_at": "2025-11-06 22:00:36",
-      "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 181714,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
+    },
+    {
+      "added_at": "2025-11-06 22:00:36",
+      "album": {
+        "name": "Grinch",
+        "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Grinch",
+      "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
     },
     {
       "added_at": "2025-11-06 22:00:36",

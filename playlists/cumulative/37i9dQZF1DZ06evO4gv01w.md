@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-187 songs - 10 hr 54 min
+188 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 | 2022-11-13 |  |
 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 | 2023-02-24 | 2025-10-11 |
 | [Don't](https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:04 | 2022-08-05 |  |
+| [Don't You Want A Man Like Me](https://open.spotify.com/track/0QN7xWTtLbYGMH9PUtBh47) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Don't You Want A Man Like Me](https://open.spotify.com/album/0n2T7hKzdd74enBQZCN8j6) | 2:54 | 2025-11-16 |  |
 | [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 | 2024-08-26 |  |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/5S8UxDwf7l053EkJvCK9jn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Easy Love Pt\. 1](https://open.spotify.com/album/5Cnb7R1qKioeMdNH0gPSGH) | 4:07 | 2025-01-24 | 2025-01-27 |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:07 | 2025-01-31 |  |
@@ -183,7 +184,7 @@
 | [Tired](https://open.spotify.com/track/3qBOQ0NdjQyTUHJLhTv70H) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [The Sound of the Ocean Sound](https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV) | 3:46 | 2022-08-05 | 2022-10-12 |
 | [To Myself](https://open.spotify.com/track/69e8OlPGNV0yAZlOjbbsRy) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Spring](https://open.spotify.com/album/39T4bgcPVXPhJorYSvErpp) | 3:48 | 2022-08-05 | 2022-10-13 |
 | [Tom Devil](https://open.spotify.com/track/2PuIl8FZD4khF7lAt4UK2t) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 | 2023-06-16 | 2023-06-18 |
-| [Travelin' Light \- Live](https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 3:18 | 2024-03-25 |  |
+| [Travelin' Light \- Live](https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 3:18 | 2024-03-25 | 2025-11-16 |
 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 | 2022-08-05 |  |
 | [Trouble In Mind](https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ) | 3:42 | 2025-02-25 | 2025-03-22 |
 | [Trouble In Mind](https://open.spotify.com/track/3KXFPs6XrBWMNoXUISNAwO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/1NEiwgiFj4LDIY8pVWatnC) | 3:42 | 2025-03-22 | 2025-03-23 |

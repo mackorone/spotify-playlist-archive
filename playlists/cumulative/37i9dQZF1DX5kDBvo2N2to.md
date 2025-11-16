@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-450 songs - 23 hr 56 min
+451 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 | 2025-09-04 |  |
 | [ELOISE](https://open.spotify.com/track/1N90TLVkjG5s85lSYUg3DX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [ELOISE](https://open.spotify.com/album/0uugVi9973DgE3eF9wfJ2S) | 3:13 | 2025-01-16 | 2025-06-27 |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-28 | 2024-08-30 |
+| [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:21 | 2025-11-13 |  |
 | [En Första Dans](https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [En Första Dans](https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R) | 2:10 | 2024-06-28 | 2024-10-25 |
 | [ENERGI](https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/670PVkgGQoiAqGdlT9O39j) | 3:13 | 2024-06-28 | 2024-08-23 |
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 |  |
@@ -379,7 +380,7 @@
 | [Speculate](https://open.spotify.com/track/6Gb4QUbmRj6JW8wPaiuIxY) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Speculate](https://open.spotify.com/album/3zOEXt6kycTIPYMDjm4LZ3) | 2:39 | 2025-05-01 | 2025-05-31 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 | 2025-05-09 |
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-28 | 2024-10-25 |
-| [Stanna lite till](https://open.spotify.com/track/0NOarA9rgil63mHQCS5JVu) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stanna lite till](https://open.spotify.com/album/03lZozSOhCG4pv2UXHUSj5) | 3:27 | 2025-09-25 |  |
+| [Stanna lite till](https://open.spotify.com/track/0NOarA9rgil63mHQCS5JVu) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stanna lite till](https://open.spotify.com/album/03lZozSOhCG4pv2UXHUSj5) | 3:27 | 2025-09-25 | 2025-11-16 |
 | [Stannar vi kvar här så dör vi](https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Stannar vi kvar här så dör vi](https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT) | 3:00 | 2024-10-04 | 2025-06-27 |
 | [Steep Hills](https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Steep Hills](https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS) | 3:07 | 2025-09-25 |  |
 | [STILL](https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [STILL](https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3) | 2:02 | 2024-06-28 | 2024-10-23 |

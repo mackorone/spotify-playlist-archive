@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 473863,
+  "num_followers": 473908,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Al\u00f4 Malandragem Maloca o Flagrante",
+        "url": "https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO"
+      },
+      "artists": [
+        {
+          "name": "Bezerra Da Silva",
+          "url": "https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Malandragem d\u00e1 um Tempo",
+      "url": "https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Sou Teu F\u00e3",
         "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
       },
@@ -219,38 +235,6 @@
       "duration_ms": 170956,
       "name": "Sou Teu F\u00e3",
       "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Al\u00f4 Malandragem Maloca o Flagrante",
-        "url": "https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO"
-      },
-      "artists": [
-        {
-          "name": "Bezerra Da Silva",
-          "url": "https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Malandragem d\u00e1 um Tempo",
-      "url": "https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Lucro (Descomprimindo)",
-      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -283,6 +267,22 @@
       "duration_ms": 269426,
       "name": "La Belle De Jour",
       "url": "https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Lucro (Descomprimindo)",
+      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Conto de Areia",
-        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Samba de Raiz - Ao Vivo",
         "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 185826,
       "name": "Trem Das Onze",
       "url": "https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Vamos Pro Mundo",
+        "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Na Cad\u00eancia Do Samba",
+      "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -623,18 +639,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Vamos Pro Mundo",
-        "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
+        "name": "Ao Vivo No Parque Madureira (Deluxe)",
+        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Na Cad\u00eancia Do Samba",
-      "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
+      "duration_ms": 216866,
+      "name": "O Show Tem Que Continuar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -651,22 +667,6 @@
       "duration_ms": 261733,
       "name": "Canto Das Tr\u00eas Ra\u00e7as",
       "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Ao Vivo No Parque Madureira (Deluxe)",
-        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "O Show Tem Que Continuar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -951,26 +951,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Chega",
-        "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
+        "name": "Eu Sou O Samba",
+        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 185544,
-      "name": "Chega",
-      "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
+      "duration_ms": 155466,
+      "name": "Foi Um Rio Que Passou Em Minha Vida",
+      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
     }
   ],
   "unique_name": "Festa Brasileira",

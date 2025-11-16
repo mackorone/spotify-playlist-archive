@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 187173,
+  "num_followers": 187281,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,30 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Ebony and Ivory",
+        "url": "https://open.spotify.com/album/1ztDVfurx3fc4Fcdqt9vqP"
+      },
+      "artists": [
+        {
+          "name": "Brazilian Jazz Cuts",
+          "url": "https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o"
+        },
+        {
+          "name": "Lee Avril",
+          "url": "https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu"
+        },
+        {
+          "name": "Renauld",
+          "url": "https://open.spotify.com/artist/25Q0qiDzgPP2JghheF8NRM"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Ebony and Ivory",
+      "url": "https://open.spotify.com/track/7zsv8AsEPknqs35q2cEK5J"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -191,30 +215,6 @@
       "duration_ms": 159497,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Ebony and Ivory",
-        "url": "https://open.spotify.com/album/1ztDVfurx3fc4Fcdqt9vqP"
-      },
-      "artists": [
-        {
-          "name": "Brazilian Jazz Cuts",
-          "url": "https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o"
-        },
-        {
-          "name": "Lee Avril",
-          "url": "https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu"
-        },
-        {
-          "name": "Renauld",
-          "url": "https://open.spotify.com/artist/25Q0qiDzgPP2JghheF8NRM"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Ebony and Ivory",
-      "url": "https://open.spotify.com/track/7zsv8AsEPknqs35q2cEK5J"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -644,7 +644,7 @@
           "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
         }
       ],
-      "duration_ms": 284213,
+      "duration_ms": 287064,
       "name": "Things Are Looking up Again",
       "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
     },
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Summers",
-          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Day by Day",
         "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 394997,
       "name": "Cup of Tea",
       "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Summers",
+          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "What Love Is For",
         "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 189884,
       "name": "What Love Is For",
       "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+      },
+      "artists": [
+        {
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
-      },
-      "artists": [
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 260852,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+      },
+      "artists": [
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Softer Than You Know",
-        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
       },
       "artists": [
         {
-          "name": "Frans Bak",
-          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
-        },
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+          "name": "Lady Linn",
+          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
         }
       ],
-      "duration_ms": 208013,
-      "name": "Softer Than You Know",
-      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
+      "duration_ms": 185653,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
+        "name": "Softer Than You Know",
+        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
       },
       "artists": [
         {
-          "name": "Lady Linn",
-          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
         }
       ],
-      "duration_ms": 185653,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
+      "duration_ms": 208013,
+      "name": "Softer Than You Know",
+      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 243493,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
+      },
+      "artists": [
+        {
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Catwoman",
         "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 208273,
       "name": "It's Complicated",
       "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
     },
     {
       "added_at": "2025-05-18 18:29:44",

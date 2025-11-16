@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Tee Grizzley, Ken Carson, Wale and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,134 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,223 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 12 | [Over Here \- Bonus Track](https://open.spotify.com/track/5kPC2gejhpMULSmabaLTzn) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Kush & Orange Juice \(15th Anniversary\)](https://open.spotify.com/album/2tagwJExHdyK8MTv7zxXZf) | 2:24 |
 | 13 | [Lick Back \(feat\. Skrilla\) \- Remix](https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Lick Back \(feat\. Skrilla\) \[Remix\]](https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo) | 2:13 |
 | 14 | [XP](https://open.spotify.com/track/5WKR8MxY4ZbotHKU9bPCuH) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [XP](https://open.spotify.com/album/5IXpeSiS0CQnMtLuqPpeUK) | 2:00 |
-| 15 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
+| 15 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
 | 16 | [Kelly](https://open.spotify.com/track/3K9Ln5DNqGDomOOtnoycNk) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Swiggity](https://open.spotify.com/album/7xCN2McEeN8xoqHTcglwxA) | 1:50 |
 | 17 | [Trust Who](https://open.spotify.com/track/3BtfJ9DJo4R73UQ7R66DXL) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Letters I Never Sent \(Lost Letters\)](https://open.spotify.com/album/1P1t3xUoC6r6mVqAxMgFHW) | 2:15 |
 | 18 | [Walnut Grove](https://open.spotify.com/track/2WHhenw4jhle7mtCGK0WWy) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 2:51 |

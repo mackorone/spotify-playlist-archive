@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,581 likes - 118 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,580 likes - 118 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 93 | [Believer](https://open.spotify.com/track/5UCNw4KXrmL86EWZyfR7wL) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 3:34 |
 | 94 | [At Night \(feat\. Liz Elias and Akon\)](https://open.spotify.com/track/2rkkvOdTrl3IY4ma1OqjeU) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Liz Elias](https://open.spotify.com/artist/56KXdAjCbs9ZmPtQac7HkJ), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [My House](https://open.spotify.com/album/01q5k781PdqqKUWFizFjjh) | 3:58 |
 | 95 | [Gooder Than A Mother \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/10JigDWurMYwXpbtGOrZzd) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Miss Lawrence](https://open.spotify.com/artist/39GfkVpqtDwMHo3ZKFVTpP) | [Gooder Than A Mother \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/2ufivU0ojZVt7CLq0o0k5R) | 1:56 |
-| 96 | [Alone \(From "Songland"\)](https://open.spotify.com/track/6k3uSJ2OsGr0tQAIPhXNkS) | [Josh Wood](https://open.spotify.com/artist/1HRIzEYLoNSJoKLjkQnUbe) | [Alone \(From "Songland"\)](https://open.spotify.com/album/6XdiKayoiuZEznkQyo57cv) | 2:29 |
-| 97 | [Wild Heart](https://open.spotify.com/track/1EW5E4ZXhoQTUBV7gjttJL) | [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Wild Heart](https://open.spotify.com/album/5hE9w8BrsD1xqvbOYgD2WG) | 3:38 |
+| 96 | [Wild Heart](https://open.spotify.com/track/1EW5E4ZXhoQTUBV7gjttJL) | [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Wild Heart](https://open.spotify.com/album/5hE9w8BrsD1xqvbOYgD2WG) | 3:38 |
+| 97 | [Alone \(From "Songland"\)](https://open.spotify.com/track/6k3uSJ2OsGr0tQAIPhXNkS) | [Josh Wood](https://open.spotify.com/artist/1HRIzEYLoNSJoKLjkQnUbe) | [Alone \(From "Songland"\)](https://open.spotify.com/album/6XdiKayoiuZEznkQyo57cv) | 2:29 |
 | 98 | [Something New \(From "Songland"\)](https://open.spotify.com/track/50Bj5QzuSCCVK5RQVTZ1lq) | [Ollie Gabriel](https://open.spotify.com/artist/4TNVwxe6cso3F2sGxA2KLG) | [Something New \(From "Songland"\)](https://open.spotify.com/album/1tg1aHD3MEqCdveJvJnlQm) | 3:37 |
 | 99 | [Hands All Over You](https://open.spotify.com/track/3y0gDviUH3fKqAiGdK7lCf) | [Kalin and Myles](https://open.spotify.com/artist/2BL5VxhQadpc4v2VlZyKY5) | [Kalin And Myles](https://open.spotify.com/album/643h7mtzQNXbMEH3CptYEb) | 2:48 |
 | 100 | [I'm Falling](https://open.spotify.com/track/4CT2U94uViftUjk9Rbi6CX) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA) | [All Around The World](https://open.spotify.com/album/5gDpW0JIt9qkS5jcJjvYBH) | 4:00 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 117 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 118 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `AcBmRgAAAAAqBlqOSlPO6bbrgBW041Wp`
+Snapshot ID: `AcBr5gAAAABVStlhOPQuOeMauqVCBSMU`

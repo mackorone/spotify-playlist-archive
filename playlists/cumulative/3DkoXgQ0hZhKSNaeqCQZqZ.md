@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-430 songs - 22 hr 47 min
+431 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Punching Bag](https://open.spotify.com/track/0nLEEvXYj3G63yq06rLMTd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [AlphaFXRE](https://open.spotify.com/artist/1gvvMvEXsRKbPMZCYFdE8m) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 2:33 | 2023-10-30 |  |
 | [PUNCTURE WOUND](https://open.spotify.com/track/1DzXQOUVglLBTHxr34qwUQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:11 | 2025-02-03 |  |
 | [PUNCTURE WOUND](https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [PUNCTURE WOUND](https://open.spotify.com/album/6UB47krwdiR2eKER9X0e5j) | 3:11 | 2025-01-18 |  |
+| [PUPPY 4EVER](https://open.spotify.com/track/6turQ9UMI2R0jsbLNjSOBw) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PASSENGERPRINCESS](https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9) | 2:47 | 2025-11-15 |  |
 | [PUT A LANDLORD iN A LANDFiLL](https://open.spotify.com/track/3nCve9jcwSKEtTCtuqEgIg) | [DAMAG3](https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn), [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT), [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx) | [PUT A LANDLORD iN A LANDFiLL](https://open.spotify.com/album/39z67rkvPBCmVmNrKqNWI4) | 3:06 | 2025-04-28 |  |
 | [Raised by Aliens](https://open.spotify.com/track/5ezyCaoc5XiVdkpRYWeyG5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:05 | 2024-12-06 |  |
 | [Rambley Review](https://open.spotify.com/track/6l1v42VTPQJxtqcZ5uWvqR) | [RecD](https://open.spotify.com/artist/6cqXqS5Iemewz8MolkBTdY), [Jakeneutron](https://open.spotify.com/artist/7kk9WfnMdCB0K2oEz1ISYD), [OtterBoyVA](https://open.spotify.com/artist/3VbB6AbCIBTjy7tS2ha410) | [Indigo Park, Chapter 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3iuF2S6yTMyvTEhwiVSLJu) | 3:19 | 2024-06-03 |  |

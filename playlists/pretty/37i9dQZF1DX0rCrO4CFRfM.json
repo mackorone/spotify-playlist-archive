@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1073137,
+  "num_followers": 1073249,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
+        "name": "Aeroplane Flies High (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "1979 - Acoustic",
+      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 235800,
       "name": "Freak on a Leash (feat. Amy Lee) - Live At MTV Studio, NYC, 2006",
       "url": "https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Aeroplane Flies High (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "1979 - Acoustic",
-      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -428,7 +428,7 @@
           "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 214413,
+      "duration_ms": 214421,
       "name": "Sorry - Acoustic",
       "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
     },

@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Don't Leave Because I Love You",
+        "url": "https://open.spotify.com/album/5xnYK3kE1cOCetnHljNwm1"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Don't Leave Because I Love You",
+      "url": "https://open.spotify.com/track/6loNQhnowrsiqMFyIaGUIs"
+    },
+    {
+      "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/2DOtUcaMZeiUkQ1qB5nDBb"
       },

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Jimmy Butler
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Victor Wembanyama
 
 859 songs - 1 day 19 hr 53 min
 

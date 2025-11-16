@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Kelly Khumalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,773 likes - 96 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,842 likes - 96 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

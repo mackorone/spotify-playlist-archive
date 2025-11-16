@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 13 hr 35 min
+233 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,8 +115,9 @@
 | [Gypsysoul](https://open.spotify.com/track/0YMi1kByvBk8r2ex5BE1Dc) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 2:56 | 2024-03-11 |  |
 | [Gypsysoul](https://open.spotify.com/track/3aY8pQdQ0x5637cKL0STwk) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 2:56 | 2022-06-04 | 2024-03-12 |
 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 | 2022-06-04 |  |
-| [Hace Una Hora](https://open.spotify.com/track/0KsEwBhZli7MLySYWpS8Bb) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Personal](https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO) | 4:53 | 2024-03-24 |  |
+| [Hace Una Hora](https://open.spotify.com/track/0KsEwBhZli7MLySYWpS8Bb) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Personal](https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO) | 4:53 | 2024-03-24 | 2025-11-16 |
 | [Hace una Hora](https://open.spotify.com/track/0j1P2u3vu2E625VuHTZtrw) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:53 | 2022-06-04 | 2024-03-25 |
+| [Hace una Hora](https://open.spotify.com/track/4FjsgCV0m1VKHGeH9pNRxD) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Personal](https://open.spotify.com/album/3cJBp89rFt76Cd22WDcu5L) | 4:53 | 2025-11-15 |  |
 | [HERMANITA](https://open.spotify.com/track/2TT4dPryN7Ztazy4eGLNjc) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [POR EMPEZAR](https://open.spotify.com/album/5InAJ1YTxx2sxxmDtxFGsU) | 3:28 | 2023-02-26 |  |
 | [Hermanita](https://open.spotify.com/track/5ucBog38SckwcP50HuB9o6) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [Hermanita](https://open.spotify.com/album/53iAsM8Emp4V0KnOGgXqCo) | 3:28 | 2022-06-04 | 2023-02-27 |
 | [How I Used To Be](https://open.spotify.com/track/6f19F5WXT49qOlsyJSspSn) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:12 | 2022-06-04 | 2023-03-25 |

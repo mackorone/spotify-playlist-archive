@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 老王樂隊 \(Your Woman Sleep with Others\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,002 likes - 135 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,003 likes - 135 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 36 | [午觉](https://open.spotify.com/track/0XgTJyrZWvT4ry46Oup6yd) | [饭卡](https://open.spotify.com/artist/4Ak4OMWvPvUb0wIDC4wdfp), [金車厘子](https://open.spotify.com/artist/0KVp6ZWCciKYq9mIlsDcO1) | [仙人掌日报社](https://open.spotify.com/album/3UGuGErZdWgcVOOKqp9qSW) | 3:05 |
 | 37 | [can we go back?](https://open.spotify.com/track/3ZKLMDf8lk7GeADdKrBXIm) | [踢萬8IG8A8Y](https://open.spotify.com/artist/1B3iAH9YqXMuW8CgnLEq8R), [JB Kingston](https://open.spotify.com/artist/49MLoOMHw4Gt8p2D1Zgokr), [Soby](https://open.spotify.com/artist/1XAvoXmSaZ203RbTiGzfmI) | [can we go back?](https://open.spotify.com/album/6pNTOxJ6aNSjHVyBvwVhCZ) | 3:15 |
 | 38 | [大醫生](https://open.spotify.com/track/6WfJ3bADRI0KHUnziNRpwB) | [許時](https://open.spotify.com/artist/7IdmULbCzlzGK7fqupqst4), [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V), [HenrV](https://open.spotify.com/artist/79k6W22oUEOBoquMIvQmh1) | [大醫生](https://open.spotify.com/album/1oPtU2bSlztJW7odigl5bW) | 3:36 |
-| 39 | [EZ \(feat\. FRaNKIE阿法\)](https://open.spotify.com/track/2Ln4pTAAgVXwjlWGmKK0sX) | [連穎 ERIN](https://open.spotify.com/artist/3kwAZXcfj1dX9cQKjx4SS6), [FRaNKIE阿法](https://open.spotify.com/artist/1kkk6Od0XdXOeg4tx6LTsZ) | [EZ \(feat\. FRaNKIE阿法\)](https://open.spotify.com/album/2MpMDEk0Hm7Hgb606D22DB) | 1:55 |
+| 39 | [EZ \(feat\. FRαNKIE阿法\)](https://open.spotify.com/track/2Ln4pTAAgVXwjlWGmKK0sX) | [連穎 ERIN](https://open.spotify.com/artist/3kwAZXcfj1dX9cQKjx4SS6), [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe) | [EZ \(feat\. FRαNKIE阿法\)](https://open.spotify.com/album/2MpMDEk0Hm7Hgb606D22DB) | 1:55 |
 | 40 | [別鬧](https://open.spotify.com/track/4seuVK3PbGVH2D1BGeIMUM) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC), [NJC](https://open.spotify.com/artist/3id02tVYLupVKZOSpHiGHg) | [別鬧](https://open.spotify.com/album/7McRpwTb7DaFkJppizIx4M) | 2:46 |
 | 41 | [少ㄌ泥ㄉ板橋根本就ㄅ算耶誕城惹](https://open.spotify.com/track/4OwcszQ8Bcr2VRO1xGL4pU) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z) | [少ㄌ泥ㄉ板橋根本就ㄅ算耶誕城惹](https://open.spotify.com/album/0Nc9Gn4eCCYVnVTilrDZtW) | 3:38 |
 | 42 | [不開心就跳起來 \(feat\. 艾蜜莉AMILI\) \- 影集《監所男子囚生記》片頭曲](https://open.spotify.com/track/6mVFyHUDFCcz0VqKEmD1ID) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [不開心就跳起來 \(feat\. 艾蜜莉AMILI\) \[影集《監所男子囚生記》片頭曲\]](https://open.spotify.com/album/4VteDmMweDe26vvsKAXa9s) | 2:28 |

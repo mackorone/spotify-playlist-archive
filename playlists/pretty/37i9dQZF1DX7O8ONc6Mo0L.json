@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 361663,
+  "num_followers": 361736,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 222607,
+      "name": "Encaixe",
+      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 222607,
-      "name": "Encaixe",
-      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Instrumental Acoustic Worship II",
-        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Cacilias",
-          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
-        }
-      ],
-      "duration_ms": 331544,
-      "name": "Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "Som das \u00c1guas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 225840,
       "name": "Som das \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Instrumental Acoustic Worship II",
+        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Cacilias",
+          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
+        }
+      ],
+      "duration_ms": 331544,
+      "name": "Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Nova Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Valente",
-          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Nova Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
         "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 347727,
       "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
       "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Nova Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Valente",
+          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Nova Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
     },
     {
       "added_at": "2025-09-12 17:44:01",

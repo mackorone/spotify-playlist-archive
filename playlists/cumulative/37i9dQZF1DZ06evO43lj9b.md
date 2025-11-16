@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 22 min
+70 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,10 @@
 | [Mystery of Love](https://open.spotify.com/track/30SaZGpgPzSPrOvXb5ygYw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 3:51 | 2025-04-14 | 2025-07-15 |
 | [Mystic Voyage](https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Brighter Day](https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh) | 4:13 | 2025-03-11 |  |
 | [Mystic Voyage](https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 3:42 | 2025-03-11 |  |
-| [Oh What A Lonely Feeling \- Delfonic Rework](https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 5:50 | 2025-08-31 |  |
+| [Oh What A Lonely Feeling \- Delfonic Rework](https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 5:50 | 2025-08-31 | 2025-11-16 |
 | [Oh What a Night \(feat\. Roy Ayers\)](https://open.spotify.com/track/3PFn652WCUZhnADKtHYPSO) | [Gerald Levert](https://open.spotify.com/artist/7BLOa6FxCbMnowidkQfLIA), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [G\-Spot](https://open.spotify.com/album/7jfpsH6zwgjRyc4fSMD5UY) | 4:52 | 2025-08-22 | 2025-09-03 |
 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 | 2025-03-11 |  |
+| [Pathfinder](https://open.spotify.com/track/5yLBRVfqmnIYCtYY8UzUNa) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Secrets Of The Sun](https://open.spotify.com/album/6axXBqBF07KKxExlLJjWR5) | 4:48 | 2025-11-16 |  |
 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 | 2025-03-11 | 2025-11-06 |
 | [Proceed II](https://open.spotify.com/track/4h8tPJddGifuAKtgCnqRDj) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Do You Want More?!!!??! \(Deluxe Version\)](https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9) | 5:47 | 2025-07-15 | 2025-07-16 |
 | [Red, Black & Green](https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 4:40 | 2025-03-11 |  |

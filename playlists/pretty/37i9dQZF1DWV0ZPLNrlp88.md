@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,348 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,349 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [決別](https://open.spotify.com/track/2MmoscVoh2Xym9NvsRytI9) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [決別](https://open.spotify.com/album/4NgRAKChi795E5gvhDPqMf) | 5:35 |
 | 40 | [マーマレード](https://open.spotify.com/track/6ONM17nIoanfHXm5nGds6C) | [anewhite](https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM) | [マーマレード](https://open.spotify.com/album/4AdaJU2Ts1mqRmJVgj3TP4) | 2:58 |
 
-Snapshot ID: `AAAAAJ3vr6rsi2GPkLk5QSit8bgvY5Qm`
+Snapshot ID: `AAAAAPe5khOxz8EH0NzcAl8CBV3ohv/J`

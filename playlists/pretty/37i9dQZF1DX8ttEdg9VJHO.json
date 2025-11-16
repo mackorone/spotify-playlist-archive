@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 364959,
+  "num_followers": 365000,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
         "name": "Don't Stop The Car",
         "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 194013,
       "name": "Don't Stop The Car",
       "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "Thanks For Nothing, See You Never",
-        "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 140309,
-      "name": "Pretty Boys",
-      "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
-    },
-    {
-      "added_at": "2025-10-13 15:50:24",
-      "album": {
         "name": "Love U Again",
         "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 166343,
       "name": "Love U Again",
       "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
+    },
+    {
+      "added_at": "2025-10-13 15:50:24",
+      "album": {
+        "name": "Thanks For Nothing, See You Never",
+        "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 140309,
+      "name": "Pretty Boys",
+      "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
     },
     {
       "added_at": "2025-10-13 15:50:24",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2025-10-13 15:50:24",
       "album": {
-        "name": "Therapy & Yoga",
-        "url": "https://open.spotify.com/album/7uT49SXl8GTMQ4eeNWBJJk"
+        "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
+        "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
       },
       "artists": [
         {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 115319,
-      "name": "Therapy & Yoga",
-      "url": "https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ"
+      "duration_ms": 208692,
+      "name": "Let\u2019s Go Home Together",
+      "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
     }
   ],
   "unique_name": "Feelgood Pop",

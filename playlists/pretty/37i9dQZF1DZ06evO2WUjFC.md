@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 23 | [COMPA BLADI \- En Vivo](https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:03 |
 | 24 | [LOS JORDAN’S](https://open.spotify.com/track/35Ygam0DPXjsWs9kvFXOVO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:56 |
 | 25 | [Morritas \- En Vivo](https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:39 |
-| 26 | [LOS CHISMES](https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:55 |
-| 27 | [¿Con Quién?](https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:54 |
-| 28 | [LA CAPITAL](https://open.spotify.com/track/0aWUDbp7bK9fEfrc57Q7UO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 3:30 |
+| 26 | [¿Con Quién?](https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:54 |
+| 27 | [LOS CHISMES](https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:55 |
+| 28 | [QUÉ QUIERE](https://open.spotify.com/track/5h9ElPBeVmPoWYWL9nC9tS) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:18 |
 | 29 | [El Lokeron \- En Vivo](https://open.spotify.com/track/7o3xGMAKUq5qIEZpv7eqlg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:12 |
 | 30 | [De Cero](https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMEN](https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6) | 3:51 |
-| 31 | [Hora de Abordar](https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ahí Viene la Subida](https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ) | 4:15 |
-| 32 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 2:47 |
+| 31 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 2:47 |
+| 32 | [Hora de Abordar](https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ahí Viene la Subida](https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ) | 4:15 |
 | 33 | [Dos Días \- En Vivo](https://open.spotify.com/track/6oPw0awpdxjcWicr2r9Nmv) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:23 |
 | 34 | [Mujer Mujer \(Live\)](https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:18 |
 | 35 | [Sueños De La Calle: X Ella](https://open.spotify.com/track/7pYuADOcpDjrzCRk7AKUQN) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Sueños De La Calle \(Vol\. 1\)](https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 49 | [QUIERO SABER DE TI \- En Vivo](https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:18 |
 | 50 | [Me Gusta Tener De a Dos \(Live\)](https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:37 |
 
-Snapshot ID: `aRUfgAAAAABTGTaZ0IOJD5m7X2iMpSgu`
+Snapshot ID: `aRZxAAAAAAAEXrFVn1kDo6rGX1FZK/xm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Mimifly, Liza Hanim, DIOR 大穎, Lewis Capaldi, Miley Cyrus, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,888 likes - 127 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,904 likes - 127 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 44 | [runnin](https://open.spotify.com/track/7uqtQMvVCrfOJm0OvKaAYg) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [rude awakening](https://open.spotify.com/album/1eqoius7wCxRhpatVwo85w) | 2:36 |
 | 45 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 |
 | 46 | [不開心就跳起來 \(feat\. 艾蜜莉AMILI\) \- 影集《監所男子囚生記》片頭曲](https://open.spotify.com/track/6mVFyHUDFCcz0VqKEmD1ID) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [不開心就跳起來 \(feat\. 艾蜜莉AMILI\) \[影集《監所男子囚生記》片頭曲\]](https://open.spotify.com/album/4VteDmMweDe26vvsKAXa9s) | 2:28 |
-| 47 | [上場 \(feat\. SHIGGA SHAY\)](https://open.spotify.com/track/0o32d8IYQqP56DJtGRjC0D) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q), [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [上場](https://open.spotify.com/album/17FIINnPKIGNfkbrkhswi9) | 3:39 |
+| 47 | [上場 \(feat\. SHIGGA SHAY 西閣\)](https://open.spotify.com/track/0o32d8IYQqP56DJtGRjC0D) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q), [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [上場](https://open.spotify.com/album/17FIINnPKIGNfkbrkhswi9) | 3:39 |
 | 48 | [请不要离开我](https://open.spotify.com/track/53uSYZ40nrUi49fEHyOFrf) | [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [请不要离开我](https://open.spotify.com/album/72J68TprkbVid0yaw5EcpC) | 4:17 |
 | 49 | [你的錯](https://open.spotify.com/track/4Uz9rfSbYi3TzKuVc0z2Mg) | [政學zedx](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [noise.](https://open.spotify.com/album/6eFrTmbX95aoX2RblpRtJH) | 2:34 |
 | 50 | [残翼](https://open.spotify.com/track/6ZMxeR2diL6vZUSOwSOZxi) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [NOVA](https://open.spotify.com/album/5MSUqH2pWSa1zrSUYrYBcT) | 3:32 |

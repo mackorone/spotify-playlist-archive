@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,603 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,946 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 57 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/541mKUH89gViH3rPkSDecP) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:00 |
 | 58 | [Merry Christmas Baby](https://open.spotify.com/track/1BTB6sWAbvXjdDzauL2Ndh) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [MmmBop : The Collection](https://open.spotify.com/album/0IaT8AWtzOSAzWB1KXoTD8) | 3:12 |
 | 59 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
-| 60 | [O Come, All Ye Faithful](https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:35 |
+| 60 | [O Come, All Ye Faithful](https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:36 |
 | 61 | [Man With The Bag](https://open.spotify.com/track/3E1DLz9jCFpvtQp9u9kKnH) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Man With The Bag](https://open.spotify.com/album/12VFW6qpEFjwKbMphXZpQG) | 2:41 |
 | 62 | [A Hand For Mrs\. Claus](https://open.spotify.com/track/5GMaaILYpTiAo1SAhvvBKi) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas: A Season Of Love](https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz) | 2:29 |
 | 63 | [Santa Baby](https://open.spotify.com/track/41XCLKG0xl01mGprBDtTNS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Christmas Kisses](https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O) | 2:50 |

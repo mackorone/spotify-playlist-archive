@@ -254,6 +254,24 @@
     {
       "album": {
         "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/09wUfoNd6G7TR1o5E9ezMQ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f"
+    },
+    {
+      "album": {
+        "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/7ikXM5hxBvLHdPcmAZr7c8"
       },
       "artists": [
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 218771,
       "name": "Toro Encartado - En Vivo",
       "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"

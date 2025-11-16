@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,128 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,129 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 36 | [A la faveur de l'automne](https://open.spotify.com/track/32tTZwLVOL2TtNV0o5j7li) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne / Le sacre des Lemmings, et autres contes de la lisière](https://open.spotify.com/album/2h32MXQ9FQQoYI9i23dREE) | 3:43 |
 | 37 | [Pourtant](https://open.spotify.com/track/2Y53CuS1lihvQPh2kQrpea) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Bliss](https://open.spotify.com/album/5ks6A7kl0RWnqejf2k5cnu) | 3:36 |
 | 38 | [La bonne étoile \(Duo dub\) \[feat\. Ariane Moffat\]](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Ariane Moffat](https://open.spotify.com/artist/6WCfv3ApgE7lAYwW9NY8GO) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 |
-| 39 | [La vie c'est quoi ?](https://open.spotify.com/track/2ApNTgwQpO1X64nCT8sXWn) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Malou Harel](https://open.spotify.com/artist/6ttO3F8QBMsaaEA7NCPLTI) | [Enfantillages 3](https://open.spotify.com/album/77kv2o5PJeW3mim1yWPiMA) | 3:04 |
+| 39 | [La vie c'est quoi ?](https://open.spotify.com/track/2ApNTgwQpO1X64nCT8sXWn) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Malou Harel](https://open.spotify.com/artist/6ttO3F8QBMsaaEA7NCPLTI) | [Enfantillages 3](https://open.spotify.com/album/77kv2o5PJeW3mim1yWPiMA) | 3:01 |
 | 40 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 41 | [Il y a](https://open.spotify.com/track/0F6ju9gPE2nUiqOgixQFZ9) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 3:03 |
 | 42 | [J'm'en fous](https://open.spotify.com/track/51kz0pS0t6ZjcKX1quyQAK) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 4:21 |

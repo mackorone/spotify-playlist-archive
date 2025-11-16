@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 271500,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM"
@@ -5982,7 +5982,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 163879,
       "name": "Hurry up!",
       "url": "https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw"
@@ -16073,6 +16073,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
+        "url": "https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239007,
+      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
+      "url": "https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e17\u0e35\u0e48\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e44\u0e1b - Single",
         "url": "https://open.spotify.com/album/2yPNK8VRicVSkfUBy4KDJ1"
       },
@@ -16582,7 +16600,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 258973,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/24VfUtHxbkCrscWC00toom"
@@ -18758,7 +18776,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 228397,
       "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
       "url": "https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX"
@@ -19736,7 +19754,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
@@ -20134,7 +20152,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 296040,
       "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
       "url": "https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG"
@@ -20922,7 +20940,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 193777,
       "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
       "url": "https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy"

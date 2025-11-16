@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 149808,
+  "num_followers": 149825,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAD5aaL1KS1rcMidZdi4A+si",
+  "snapshot_id": "aRZxAAAAAABtnXrAQDDoznWqsNJq7js/",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 244826,
-      "name": "You Send Me (with Michael Bolton)",
-      "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
+      "duration_ms": 259146,
+      "name": "The Champion's Theme",
+      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songbird: The Best Of Kenny G",
-        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 259146,
-      "name": "The Champion's Theme",
-      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
+      "duration_ms": 244826,
+      "name": "You Send Me (with Michael Bolton)",
+      "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
     },
     {
       "added_at": null,

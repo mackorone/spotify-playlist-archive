@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Don't Tread On Me",
+        "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
+      },
+      "artists": [
+        {
+          "name": "Cain Walker",
+          "url": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198199,
+      "name": "Ain't My Problem",
+      "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/48FRMDuNlqIdm74shLlcnM"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 198199,
       "name": "Ain't My Problem",
       "url": "https://open.spotify.com/track/4FVUqQIxQV21DiAcr8rvnN"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 306893,
       "name": "For Good",
       "url": "https://open.spotify.com/track/0Mjasw7CGUJT6ByJa6pkbx"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 205291,
       "name": "Hazbin Guarantee (Trust Us)",
       "url": "https://open.spotify.com/track/7LCh5bMM6wTesqS6772TcN"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 109411,
       "name": "Mayfair Settings",
       "url": "https://open.spotify.com/track/6TtVDVYy6y55sCvAFEmWcT"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 162853,
       "name": "Nonmonogamummy",
       "url": "https://open.spotify.com/track/0dBRiasmDpHou4JmNBe8cq"
@@ -1964,6 +1982,24 @@
       "duration_ms": 241693,
       "name": "Pussy Palace",
       "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/3rcJwEH6EyPPEiqsrABR4k"
+      },
+      "artists": [
+        {
+          "name": "Bershy",
+          "url": "https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx"
     },
     {
       "album": {
@@ -2280,6 +2316,24 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
+        "name": "Heart Skips Beat",
+        "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
+      },
+      "artists": [
+        {
+          "name": "Jona Lewie",
+          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Stop The Cavalry",
+      "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
     },
     {
       "album": {

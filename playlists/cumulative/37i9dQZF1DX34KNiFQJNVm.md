@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Djavan, João Gomes, Luiza Martins e muito mais!
 
-16,350 songs - 34 day 15 hr 36 min
+16,351 songs - 34 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [Ai Que Calor](https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:24 | 2024-11-08 | 2024-11-16 |
 | [Ai Que Droga](https://open.spotify.com/track/3Jc4ATzmRbZ5QIb4oKMbFK) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Ai Que Droga](https://open.spotify.com/album/2N8xToxutz8TjZQym47Yzd) | 2:16 | 2024-10-18 | 2024-10-26 |
 | [Ai Que Saudade da Gente](https://open.spotify.com/track/4yMzo9AvrtaGJk66cHMycW) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Ai Que Saudade da Gente](https://open.spotify.com/album/5Y2c0MIGk2TLBNLSHTUTK6) | 3:23 | 2025-11-07 | 2025-11-15 |
+| [ai que vontade](https://open.spotify.com/track/46rHe7jYJQArqk2zABlsNP) | [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [maux](https://open.spotify.com/artist/0kQZp9rotXxKDvJ951gbv3), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [ai que vontade](https://open.spotify.com/album/3z1CLq24Qp1YCfDwSNxmN4) | 2:55 | 2025-11-14 |  |
 | [Ai que Vontade \- Ao Vivo](https://open.spotify.com/track/6sDgaU5aSmFTHVOKM0qFf6) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Revivem Sua História, Vol\. 1 \(Ao vivo em Uberlândia\)](https://open.spotify.com/album/44QXvjwKItMFi1xPCyAvD6) | 2:38 | 2025-02-07 | 2025-02-15 |
 | [Ai Que Ódio](https://open.spotify.com/track/02ENXTJBQJFcg0w7eHWANc) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Ai Que Ódio](https://open.spotify.com/album/4DkCaecbSss1oqA6oyJ93X) | 2:23 | 2022-12-23 | 2022-12-31 |
 | [Ai Vou Dizer](https://open.spotify.com/track/5uui4lb1UdT3DnYVvCGPeF) | [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Outra Onda](https://open.spotify.com/album/2eM8qdqCTwKTXtzULgucWI) | 2:24 | 2022-07-08 | 2022-07-16 |
@@ -5750,7 +5751,7 @@
 | [Fiz Quase Tudo \- Ao Vivo](https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Fiz Quase Tudo \(Ao Vivo\)](https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48) | 2:47 | 2025-07-25 | 2025-08-02 |
 | [Fiz um Pagodinho](https://open.spotify.com/track/5YuzOFXZpgmhG0uw6BmiwZ) | [Mc Menor CG](https://open.spotify.com/artist/7lblpP00uT8GjErBhj8Bb5), [DJ David LP](https://open.spotify.com/artist/2USsSQ3y5IXIRqgPLyFGIO) | [Fiz um Pagodinho](https://open.spotify.com/album/4xFVxQPP2qyzwL5aS2Uqtw) | 3:12 | 2023-01-06 | 2023-01-14 |
 | [Flames](https://open.spotify.com/track/4BEsc7EIzOYFiClFnV8weP) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Flames](https://open.spotify.com/album/0A9oOLFr04cEwGempReqAH) | 3:21 | 2022-01-14 | 2022-01-22 |
-| [Flash \- Ao Vivo](https://open.spotify.com/track/7lrWWHBHD3fOa275OE5XRR) | [Lucas & Higor](https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8) | [Flash \(Ao Vivo\)](https://open.spotify.com/album/52tMxfqf7kMQPbMDWkSIzm) | 2:37 | 2025-11-14 |  |
+| [Flash \- Ao Vivo](https://open.spotify.com/track/7lrWWHBHD3fOa275OE5XRR) | [Lucas & Higor](https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8) | [Flash \(Ao Vivo\)](https://open.spotify.com/album/52tMxfqf7kMQPbMDWkSIzm) | 2:37 | 2025-11-14 | 2025-11-16 |
 | [Flash \- Ao Vivo](https://open.spotify.com/track/0nI3Xjd7ZwVG9FfTTWpYTW) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Mais Um Degrau \(Ao Vivo\)](https://open.spotify.com/album/2u2QH7nR8RpiJRzMOFpoQg) | 2:56 | 2024-04-12 | 2024-04-19 |
 | [Flash \- Ao Vivo Em Goiânia](https://open.spotify.com/track/57oB77aJ2QTlHX4se1eDpd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Flash \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/1r9bFd7Cj5c9zYSi9jNTIM) | 2:40 | 2023-08-11 | 2023-08-19 |
 | [Flash Volta](https://open.spotify.com/track/4r7ilX64LXTk5UvuWLHmSB) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Flash Volta](https://open.spotify.com/album/39fDCFXtRgcnedsjihJAGa) | 2:58 | 2023-06-09 | 2023-06-17 |

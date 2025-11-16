@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: David Guetta, Teddy Swims, Tones & I",
-  "num_followers": 470376,
+  "num_followers": 470383,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
+        "name": "NOW IT'S GONE (BL3SS REMIX)",
+        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "NOW IT'S GONE - BL3SS REMIX",
+      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
-        "name": "NOW IT'S GONE (BL3SS REMIX)",
-        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "NOW IT'S GONE - BL3SS REMIX",
-      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
     },
     {
       "added_at": "2025-11-14 15:32:04",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "Lil Boo Thang (Galantis Remix)",
-        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 129631,
-      "name": "Lil Boo Thang - Galantis Remix",
-      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
         "name": "Streets (Disclosure Remix)",
         "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 254280,
       "name": "Streets - Disclosure Remix",
       "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "Lil Boo Thang (Galantis Remix)",
+        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 129631,
+      "name": "Lil Boo Thang - Galantis Remix",
+      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
     },
     {
       "added_at": "2025-11-14 15:32:04",

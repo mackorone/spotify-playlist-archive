@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,725 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,740 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 59 | [Amiga da Minha Mulher / Cilada \- Ao Vivo](https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode do Pericão \(Ao Vivo\)](https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak) | 4:52 |
 | 60 | [Mulheres \- Ao Vivo](https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Cidade do Samba \(Ao Vivo\)](https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy) | 3:20 |
 | 61 | [Coragem](https://open.spotify.com/track/1Pt5sw50mjvMMCsN71R1Q9) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Munduê](https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v) | 3:31 |
-| 62 | [Lá Vem Você](https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT) | 3:40 |
-| 63 | [Volta Meu Amor](https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95) | [VELHA GUARDA DA PORTELA](https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Tudo Azul](https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty) | 4:24 |
+| 62 | [Volta Meu Amor](https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95) | [VELHA GUARDA DA PORTELA](https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Tudo Azul](https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty) | 4:24 |
+| 63 | [Lá Vem Você](https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT) | 3:40 |
 | 64 | [Eu Vou Chegando](https://open.spotify.com/track/0MlLbRZYmBLd2sWKECh6zA) | [Riachão](https://open.spotify.com/artist/4DehzNT3tR37NB0Nz1iHBD) | [Mundão de Ouro](https://open.spotify.com/album/3fShPfDTdSqu0pck5wlWfm) | 2:56 |
 | 65 | [Perdoa](https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Nova Bis \- Paulinho da Viola](https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa) | 3:58 |
 

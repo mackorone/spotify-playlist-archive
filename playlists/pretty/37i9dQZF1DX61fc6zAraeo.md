@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,508 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,531 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 41 | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb) | 2:56 |
 | 42 | [Run](https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Another Touch](https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR) | 2:50 |
 | 43 | [For The People](https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [For The People](https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo) | 2:17 |
-| 44 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
-| 45 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 |
+| 44 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 |
+| 45 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
 | 46 | [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 |
 | 47 | [Glad You Came](https://open.spotify.com/track/5qC4mPqxfp9LDPsO7GhseX) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Glad You Came](https://open.spotify.com/album/5EuYe9bOkj023Gk2sD2mZt) | 2:19 |
 | 48 | [Right Now](https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Right Now](https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n) | 3:37 |

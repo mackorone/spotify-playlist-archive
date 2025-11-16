@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,795 likes - 107 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,802 likes - 107 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

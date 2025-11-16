@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157608,
+  "num_followers": 157624,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Fire Uger",
         "url": "https://open.spotify.com/album/5z1Hzumvn8lPUtaYX1vVE7"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 205869,
       "name": "Fire Uger",
       "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "P\u00e6n",
-        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 190300,
-      "name": "P\u00e6n",
-      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 201086,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "P\u00e6n",
+        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 190300,
+      "name": "P\u00e6n",
+      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
       },
@@ -1651,22 +1635,6 @@
       "duration_ms": 229783,
       "name": "Flux",
       "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
-        "name": "Songs I Cry 2",
-        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1687,6 +1655,22 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 159680,
       "name": "Alice",
       "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Songs I Cry 2",
+        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
     },
     {
       "added_at": "2025-10-07 14:04:26",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-10-07 14:04:26",
       "album": {
-        "name": "Kuffert Fuld Af Mursten",
-        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
-      },
-      "artists": [
-        {
-          "name": "Claus Hempler",
-          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
-        }
-      ],
-      "duration_ms": 294506,
-      "name": "Op",
-      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
-    },
-    {
-      "added_at": "2025-10-07 14:04:26",
-      "album": {
         "name": "Black Beatles (Acoustic)",
         "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 211781,
       "name": "Black Beatles - Acoustic",
       "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
+    },
+    {
+      "added_at": "2025-10-07 14:04:26",
+      "album": {
+        "name": "Kuffert Fuld Af Mursten",
+        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
+      },
+      "artists": [
+        {
+          "name": "Claus Hempler",
+          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
+        }
+      ],
+      "duration_ms": 294506,
+      "name": "Op",
+      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
     },
     {
       "added_at": "2025-10-07 14:04:26",

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-03-21",
-  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Tito Double P",
+  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: RIA",
   "name": "Tumbado Rom\u00e1ntico",
   "tracks": [
+    {
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155518,
+      "name": "/Desvelaos",
+      "url": "https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk"
+    },
     {
       "album": {
         "name": "130",
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 177638,
       "name": "EN ALTAVOZ",
       "url": "https://open.spotify.com/track/0YpYqtnjIWYR516n46of97"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 176192,
       "name": "Juntos Pa Jap\u00f3n",
       "url": "https://open.spotify.com/track/4vATMg7zYcGhEbumY7p6fL"
@@ -2680,6 +2698,24 @@
       "duration_ms": 258303,
       "name": "Otra Mentira",
       "url": "https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q"
+    },
+    {
+      "album": {
+        "name": "Pagana",
+        "url": "https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Pagana",
+      "url": "https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 130822,
+  "num_followers": 130840,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -515,30 +515,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Alvo Mais Que a Neve",
         "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 217968,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
     },
     {
       "added_at": "2025-08-29 03:01:05",

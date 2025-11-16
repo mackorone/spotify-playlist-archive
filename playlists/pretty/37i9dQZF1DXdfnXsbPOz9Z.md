@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,687 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 62 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:55 |
 | 63 | [L'hymne de la vie](https://open.spotify.com/track/03JIJMS3xCvi6Z8mTICOMq) | [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt) | [L'hymne de la vie](https://open.spotify.com/album/5zi8FmXgjmC42cCCRsAbzp) | 3:07 |
 | 64 | [Cheap Thrills](https://open.spotify.com/track/5MbaCozMxkXzx6nKWyufeA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o) | 3:07 |
-| 65 | [La tribu de Dana](https://open.spotify.com/track/7dtqGkkWFUOOPHuERA772V) | [Evan et Marco](https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I) | [Evan et Marco](https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR) | 3:39 |
+| 65 | [La tribu de Dana](https://open.spotify.com/track/7dtqGkkWFUOOPHuERA772V) | [Evan et Marco](https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I) | [Evan et Marco](https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR) | 3:40 |
 | 66 | [Sorry](https://open.spotify.com/track/64rOVBWON5cE3RmPgdv8Yz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 31](https://open.spotify.com/album/6I4KqQwYmTZufx0KKTcy1s) | 3:02 |
 | 67 | [Trois petits pas](https://open.spotify.com/track/4YXs7LCyMLx5vgWnT7x6ey) | [Carla](https://open.spotify.com/artist/6FLqKeDxjLqbbEifG4oCuz), [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt), [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [YUN](https://open.spotify.com/artist/3ubqH7KHuudR4dSQ8P2nmE) | [Trois petits pas](https://open.spotify.com/album/1qD3qEnZyS5hbV9L6xCUFL) | 2:33 |
 | 68 | [I'm a Lady \- from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady \(from SMURFS: THE LOST VILLAGE\)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:44 |

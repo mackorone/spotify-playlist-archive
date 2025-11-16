@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6213,
+  "num_followers": 6214,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACK9sFU+aJkxtUrecprfAMM",
+  "snapshot_id": "aRZxAAAAAAC4wWCAjyIo6gW7MPZMeSo1",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "(What's The Story) Morning Glory?",
-        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 327920,
-      "name": "Some Might Say",
-      "url": "https://open.spotify.com/track/6CpEUxOlhcynZpIvPY08iv"
+      "duration_ms": 240093,
+      "name": "Roll with It - Remastered",
+      "url": "https://open.spotify.com/track/05CNnC9ugYgnJgg6fIgyeQ"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
       "duration_ms": 233640,
       "name": "Let's All Make Believe",
       "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 391146,
+      "name": "Roll It Over",
+      "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
     }
   ],
   "unique_name": "This Is Oasis (3)",

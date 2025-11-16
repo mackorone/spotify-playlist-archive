@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/25k4Ptse4uzo6Oiy9Vnmgu"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181794,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS"
+    },
+    {
+      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
       },
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 187668,
       "name": "Otra Navidad :(",
       "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"

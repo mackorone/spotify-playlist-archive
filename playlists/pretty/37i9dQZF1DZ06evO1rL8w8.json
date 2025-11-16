@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 231956,
+  "num_followers": 231997,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAAq8QWjAVj7y5g04uF9YxBq",
+  "snapshot_id": "aRZxAAAAAACkEOaPVWbGkipcX3HUI/Rr",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 140750,
       "name": "Amado Carrillo",
       "url": "https://open.spotify.com/track/227X7GnGSMjX57IbSTSZmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiero Llevarte a Madrid",
+        "url": "https://open.spotify.com/album/4AcFrOOS2kLd979gC1dJJr"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 162410,
+      "name": "Quiero Llevarte a Madrid",
+      "url": "https://open.spotify.com/track/5VXbUOkC96eU8ko17tRZzf"
     },
     {
       "added_at": null,
@@ -71,6 +87,38 @@
       "duration_ms": 187834,
       "name": "El Papel Cambio (Bonus Track)",
       "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 199471,
+      "name": "El Cigarrito Banado",
+      "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Cuernito Armani",
+      "url": "https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD"
     },
     {
       "added_at": null,
@@ -131,38 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Cuernito Armani",
-      "url": "https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 199471,
-      "name": "El Cigarrito Banado",
-      "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -175,42 +191,6 @@
       "duration_ms": 189282,
       "name": "A Mi Me Interesa",
       "url": "https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Buitres Con Tololoche",
-        "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
-      },
-      "artists": [
-        {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "El Tamarindo",
-      "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -231,6 +211,42 @@
       "duration_ms": 199836,
       "name": "Trato De Muerte",
       "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Buitres Con Tololoche",
+        "url": "https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ganadero",
-        "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 222516,
-      "name": "El Ganadero",
-      "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 229013,
       "name": "Carteles Unidos",
       "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ganadero",
+        "url": "https://open.spotify.com/album/5JPfETECxYvWT7dLrJIlRm"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 222516,
+      "name": "El Ganadero",
+      "url": "https://open.spotify.com/track/0xCClm07GLpGj87j5Wo6Wr"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 156252,
       "name": "Me Quiero Casar",
       "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Empresario",
-        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 154357,
-      "name": "El Empresario",
-      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
     }
   ],
   "unique_name": "This Is El Komander",

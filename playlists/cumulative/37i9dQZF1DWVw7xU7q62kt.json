@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "2Am",
+        "url": "https://open.spotify.com/album/3ZVitlJ8CbhRnGHcQpqxyy"
+      },
+      "artists": [
+        {
+          "name": "Hans Hu$tle",
+          "url": "https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149260,
+      "name": "2Am",
+      "url": "https://open.spotify.com/track/6dUqAgH7Ea6fqQUWnaMOPE"
+    },
+    {
+      "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/3Jz14bSCFU3f56kef6Oasy"
       },
@@ -13010,7 +13028,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 105600,
       "name": "Timeless Love",
       "url": "https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2"

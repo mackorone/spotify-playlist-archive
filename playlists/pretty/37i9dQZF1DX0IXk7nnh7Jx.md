@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Dell Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,779 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,797 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 63 | [SOMETIME](https://open.spotify.com/track/2dpyYp2a4HJj5UhdzS14dB) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [SOMETIME](https://open.spotify.com/album/3EVfzhpYLVPbqhvbN7R4E0) | 2:58 |
 | 64 | [Let the World Turn](https://open.spotify.com/track/5qW4xiwfF7wKiHG9MGwTjP) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Let the World Turn](https://open.spotify.com/album/6ta4aHnWlpplU9CHwH20DS) | 3:57 |
 | 65 | [ECHOES](https://open.spotify.com/track/7kxORsxT8au9IXd3eXws6p) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [ECHOES](https://open.spotify.com/album/4O3QrXKYtKEg5O85v71UUN) | 2:39 |
-| 66 | [oasis for my soul](https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [oasis for my soul](https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt) | 2:16 |
+| 66 | [oasis for my soul](https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [oasis for my soul](https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt) | 2:16 |
 | 67 | [together forever](https://open.spotify.com/track/28CX4c59AswgTJgt0BB6m1) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [together forever](https://open.spotify.com/album/63j9BaXZoVMISZ89x8iYU6) | 3:10 |
 | 68 | [This Isn't Over](https://open.spotify.com/track/2u9PRMOH9RP5Npwalqglgs) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [This Isn't Over](https://open.spotify.com/album/2bAgzoRo4u2KA70Qh9jL8b) | 2:36 |
 | 69 | [Every Little Thing](https://open.spotify.com/track/2aHijQHQYZfCtNFkojLlDz) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Every Little Thing](https://open.spotify.com/album/22LAQAYAN8N9lG5oujD06U) | 2:16 |

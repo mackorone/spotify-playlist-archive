@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 367896,
+  "num_followers": 367915,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADq5u4vjm/RyY6YdE9W+hBF",
+  "snapshot_id": "aRZxAAAAAAAYuw9i2hX320aMSSAddhGE",
   "tracks": [
     {
       "added_at": null,
@@ -350,15 +350,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 158518,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
+      "duration_ms": 182525,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
     },
     {
       "added_at": null,
@@ -422,11 +418,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 182525,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH"
+      "duration_ms": 158518,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUE SED",
-        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 130784,
-      "name": "ARRUINAME LA VIDA",
-      "url": "https://open.spotify.com/track/0slYOI5BLJPxK7uBSywVLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Boy! (feat. Kenia OS)",
         "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 165963,
       "name": "Bad Boy! - feat. Kenia OS",
       "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QUE SED",
+        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 130784,
+      "name": "ARRUINAME LA VIDA",
+      "url": "https://open.spotify.com/track/0slYOI5BLJPxK7uBSywVLv"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kenia Roast Yourself",
+        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 236288,
+      "name": "Kenia Roast Yourself",
+      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Sol",
         "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 204955,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kenia Roast Yourself",
-        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 236288,
-      "name": "Kenia Roast Yourself",
-      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
     },
     {
       "added_at": null,

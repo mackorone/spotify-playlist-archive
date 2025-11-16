@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388440,
+  "num_followers": 388451,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262335,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "The Universe Smiles Upon You ii",
         "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 291190,
       "name": "White Gloves ii",
       "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262335,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -159,34 +159,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
-        "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        },
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 217901,
-      "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
-      "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
       },
@@ -247,38 +219,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Ridin' (Deluxe)",
-        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 233051,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
       },
@@ -299,18 +239,62 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Somebody To You",
-        "url": "https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG"
+        "name": "Ridin' (Deluxe)",
+        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 177446,
-      "name": "Somebody To You",
-      "url": "https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE"
+      "duration_ms": 233051,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+        "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 217901,
+      "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+      "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -327,6 +311,22 @@
       "duration_ms": 234723,
       "name": "Sit Back Baby",
       "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Somebody To You",
+        "url": "https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "Somebody To You",
+      "url": "https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "Satin Psicodelic",
+        "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
+      },
+      "artists": [
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        }
+      ],
+      "duration_ms": 324130,
+      "name": "Mornin Dew",
+      "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "La femme aux yeux de sel",
         "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Satin Psicodelic",
-        "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
-      },
-      "artists": [
-        {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
-        }
-      ],
-      "duration_ms": 324130,
-      "name": "Mornin Dew",
-      "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Old Man",
         "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 201133,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "you chose this",
+        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "you chose this",
+      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "Learning to Live",
         "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Grateful For",
-        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 219779,
-      "name": "Grateful For",
-      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Archwood (the playlist)",
         "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 149546,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Grateful For",
+        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 219779,
+      "name": "Grateful For",
+      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -991,26 +1007,6 @@
       "duration_ms": 205146,
       "name": "The Eyes Of C\u00e9cilia",
       "url": "https://open.spotify.com/track/7cQ2BmsLbPSapjBmo8tku4"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Pegasus (ft. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
       "added_at": "2025-11-13 23:00:19",

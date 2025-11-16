@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 95633,
+  "num_followers": 95664,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
+        "name": "M'du Or Die",
+        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Siya Jola (Ok'Salayo)",
+      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 240061,
       "name": "Boss Zonke",
       "url": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -287,18 +287,18 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "M'du Or Die",
-        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
       },
       "artists": [
         {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
         }
       ],
-      "duration_ms": 336666,
-      "name": "Siya Jola (Ok'Salayo)",
-      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Chaka Chaka",
-          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Umqombothi",
-      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 229586,
       "name": "Kaptein",
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Chaka Chaka",
+          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Umqombothi",
+      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 314772,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 314772,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 404600,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 315266,
       "name": "Palafala (feat. S'bu)",
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404600,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Grand Masters",
-        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
-      },
-      "artists": [
-        {
-          "name": "Simphiwe Dana",
-          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
-        }
-      ],
-      "duration_ms": 296911,
-      "name": "Ndiredi",
-      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Ultimate Zoid",
         "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Grand Masters",
+        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        }
+      ],
+      "duration_ms": 296911,
+      "name": "Ndiredi",
+      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
     }
   ],
   "unique_name": "SA Gold",

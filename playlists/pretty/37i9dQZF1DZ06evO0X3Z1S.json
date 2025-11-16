@@ -1,18 +1,18 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87780,
+  "num_followers": 87782,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACfh42uco3UswjsGGLo9P7A",
+  "snapshot_id": "aRZxAAAAAADT0uohB9Sl7IpXcguK+7Ts",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Edge of Desire",
-        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
+        "name": "Edge of Desire (Sunrise Mix)",
+        "url": "https://open.spotify.com/album/6n4xyEx2rY8zUcEXTlwpe4"
       },
       "artists": [
         {
@@ -24,9 +24,9 @@
           "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
         }
       ],
-      "duration_ms": 134905,
-      "name": "Edge of Desire",
-      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+      "duration_ms": 162222,
+      "name": "Edge of Desire - Sunrise Mix",
+      "url": "https://open.spotify.com/track/1ac15vAo8vh5Tt5xeRvqn7"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Give Up (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Don't Give Up - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fast Car (Remixes)",
         "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 330967,
       "name": "Fast Car - Club Mix",
       "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Give Up (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Don't Give Up - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aceita (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 170000,
       "name": "Aceita - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
     },
     {
       "added_at": null,

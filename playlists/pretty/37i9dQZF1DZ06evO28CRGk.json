@@ -1,12 +1,12 @@
 {
   "description": "This is Marco Polo. The essential tracks, all in one playlist.",
-  "num_followers": 477,
+  "num_followers": 478,
   "original_name": "This Is Marco Polo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAADrGy5VG67OEyAsfdvTgryo",
+  "snapshot_id": "aRZxAAAAAABmkX7yhHld3kocScyl+LH3",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+        "name": "E.A.T.",
+        "url": "https://open.spotify.com/album/7BfWDxD4oZFYqNRg2XgFE8"
       },
       "artists": [
         {
-          "name": "Solo For Dolo",
-          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
         }
       ],
-      "duration_ms": 190680,
-      "name": "Quarter Water Kids",
-      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
+      "duration_ms": 227498,
+      "name": "E.A.T.",
+      "url": "https://open.spotify.com/track/4goFtr9yRM2WAIxUDBzWVq"
     },
     {
       "added_at": null,
@@ -419,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+      },
+      "artists": [
+        {
+          "name": "Solo For Dolo",
+          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Quarter Water Kids",
+      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -439,50 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "E.A.T.",
-        "url": "https://open.spotify.com/album/7BfWDxD4oZFYqNRg2XgFE8"
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
       "artists": [
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 227498,
-      "name": "E.A.T.",
-      "url": "https://open.spotify.com/track/4goFtr9yRM2WAIxUDBzWVq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/0GldmQgDQiN0sDSeAwjujo"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 188710,
-      "name": "Kings",
-      "url": "https://open.spotify.com/track/5q2tRqvZoCg5ggX4eeJluz"
+      "duration_ms": 231755,
+      "name": "Wi\u0119zie\u0144 W\u0142asnych Granic",
+      "url": "https://open.spotify.com/track/1L525mhtifli4X9LroMYLx"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
       "duration_ms": 195055,
       "name": "Heat of the Moment",
       "url": "https://open.spotify.com/track/46alQ7Ry32UqtgCqHgz43h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 231755,
-      "name": "Wi\u0119zie\u0144 W\u0142asnych Granic",
-      "url": "https://open.spotify.com/track/1L525mhtifli4X9LroMYLx"
     },
     {
       "added_at": null,
@@ -576,21 +556,17 @@
       },
       "artists": [
         {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
           "name": "Masta Ace",
           "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
-          "name": "Pearl Gates",
-          "url": "https://open.spotify.com/artist/13j8j5VnTX0hALjojjqDdk"
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 275902,
-      "name": "Still Love Her (feat. Pearl Gates)",
-      "url": "https://open.spotify.com/track/5ZgXExVJk2FlwQJO24njB9"
+      "duration_ms": 188710,
+      "name": "Kings",
+      "url": "https://open.spotify.com/track/5q2tRqvZoCg5ggX4eeJluz"
     },
     {
       "added_at": null,
@@ -731,30 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/4CTMQGaFA9t4nnsKKwU6d8"
-      },
-      "artists": [
-        {
-          "name": "Koncept",
-          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
-        },
-        {
-          "name": "Royce Da 5'9\"",
-          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 169505,
-      "name": "Watch the Sky Fall (feat. Royce da 5'9)",
-      "url": "https://open.spotify.com/track/1MOub6s2JiT3D5Gs51TeCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -775,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/0GldmQgDQiN0sDSeAwjujo"
       },
       "artists": [
         {
@@ -784,13 +736,41 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Pearl Gates",
+          "url": "https://open.spotify.com/artist/13j8j5VnTX0hALjojjqDdk"
         }
       ],
-      "duration_ms": 198418,
-      "name": "BK 2 NJ",
-      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
+      "duration_ms": 275902,
+      "name": "Still Love Her (feat. Pearl Gates)",
+      "url": "https://open.spotify.com/track/5ZgXExVJk2FlwQJO24njB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/4CTMQGaFA9t4nnsKKwU6d8"
+      },
+      "artists": [
+        {
+          "name": "Koncept",
+          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 169505,
+      "name": "Watch the Sky Fall (feat. Royce da 5'9)",
+      "url": "https://open.spotify.com/track/1MOub6s2JiT3D5Gs51TeCy"
     },
     {
       "added_at": null,
@@ -819,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
       "artists": [
         {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
         }
       ],
-      "duration_ms": 206854,
-      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
-      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
+      "duration_ms": 198418,
+      "name": "BK 2 NJ",
+      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 249666,
       "name": "Low Budget Allstar",
       "url": "https://open.spotify.com/track/7oyMGm1Jy02UDYgiyKjO4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 206854,
+      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
+      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -919,30 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Lil Fame",
-          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
-        }
-      ],
-      "duration_ms": 315369,
-      "name": "Kartagina",
-      "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PA2: The Director's Cut (Instrumental)",
         "url": "https://open.spotify.com/album/1Ts416oCJAyGN4H38LvmHu"
       },
@@ -955,6 +931,26 @@
       "duration_ms": 221531,
       "name": "Drunken Sleuth - Instrumental",
       "url": "https://open.spotify.com/track/7wWGIcrIix3NzYjrPTOUzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "What Is The Question",
+      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
     },
     {
       "added_at": null,
@@ -975,6 +971,34 @@
       "duration_ms": 94463,
       "name": "Reloaded (Intro)",
       "url": "https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TG1",
+        "url": "https://open.spotify.com/album/6afYOrheB4vWcTTs88JPxi"
+      },
+      "artists": [
+        {
+          "name": "Big Twins",
+          "url": "https://open.spotify.com/artist/1RJ0urzZaKveppsxzSj5X4"
+        },
+        {
+          "name": "F.T.",
+          "url": "https://open.spotify.com/artist/4lmgW4lWr6xWnM8jQRbDNV"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Nature",
+          "url": "https://open.spotify.com/artist/6hOMsNrEKV7FzQpypeZGf5"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/2mnMp0AvtlIIC3wwl6h7oq"
     },
     {
       "added_at": null,
@@ -1010,11 +1034,15 @@
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Lil Fame",
+          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 210867,
-      "name": "Nie S\u0142ucha\u0107 Przed Trzydziestk\u0105",
-      "url": "https://open.spotify.com/track/51rlx11tFsvWnQWGB3s9Tz"
+      "duration_ms": 315369,
+      "name": "Kartagina",
+      "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
     },
     {
       "added_at": null,
@@ -1039,34 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TG1",
-        "url": "https://open.spotify.com/album/6afYOrheB4vWcTTs88JPxi"
-      },
-      "artists": [
-        {
-          "name": "Big Twins",
-          "url": "https://open.spotify.com/artist/1RJ0urzZaKveppsxzSj5X4"
-        },
-        {
-          "name": "F.T.",
-          "url": "https://open.spotify.com/artist/4lmgW4lWr6xWnM8jQRbDNV"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Nature",
-          "url": "https://open.spotify.com/artist/6hOMsNrEKV7FzQpypeZGf5"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/2mnMp0AvtlIIC3wwl6h7oq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PA2: The Director's Cut",
         "url": "https://open.spotify.com/album/00rbXYbqYmG0xv450jEDov"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 265613,
       "name": "3-O-Clock",
       "url": "https://open.spotify.com/track/4eYgeFxu7QYUBJmU08DePg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MMO OX",
+        "url": "https://open.spotify.com/album/333LCM0HpyDTguQjpEkiAT"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 175957,
+      "name": "MMO OX - Marco Mix",
+      "url": "https://open.spotify.com/track/5CquvaLbwM1JXluZHOlZCg"
     },
     {
       "added_at": null,
@@ -1115,46 +1131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Per la mia gente / For my people",
-        "url": "https://open.spotify.com/album/4rUKWAZwjlTKNlNzwKVWaD"
+        "name": "MP On The MP: The Beat Tape Vol. 1",
+        "url": "https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh"
       },
       "artists": [
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Meglio che chiedi a qualcuno",
-      "url": "https://open.spotify.com/track/1ozEUYcyidM6jfa8zB8PeC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Lil Fame",
-          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
-        }
-      ],
-      "duration_ms": 179288,
-      "name": "Fame For President",
-      "url": "https://open.spotify.com/track/4eRfNBuj4EyOmGHvvPmTsd"
+      "duration_ms": 234466,
+      "name": "Don't Touch That Phone",
+      "url": "https://open.spotify.com/track/5XweTODWq5Fp93bcXVLYMq"
     }
   ],
   "unique_name": "This Is Marco Polo",

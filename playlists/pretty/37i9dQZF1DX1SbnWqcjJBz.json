@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 131524,
+  "num_followers": 131557,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Gourmandises",
         "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 264282,
       "name": "Moi... Lolita",
       "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
     },
     {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Magic Still Exists",
+        "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 212043,
+      "name": "Here Comes The Night",
+      "url": "https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv"
+    },
+    {
       "added_at": "2025-09-05 02:01:30",
       "album": {
         "name": "Me, You & The Music",
@@ -1091,22 +1107,6 @@
       "duration_ms": 238284,
       "name": "Tonight (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Magic Still Exists",
-        "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 212043,
-      "name": "Here Comes The Night",
-      "url": "https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+        "name": "Breathe In. Breathe Out.",
+        "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
         }
       ],
-      "duration_ms": 219520,
-      "name": "What I Need (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
+      "duration_ms": 185920,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Breathe In. Breathe Out.",
-        "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
       "artists": [
         {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
+      "duration_ms": 219520,
+      "name": "What I Need (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1215,6 +1215,22 @@
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Lost In My Bedroom",
+      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1251,22 +1267,6 @@
       "duration_ms": 152511,
       "name": "Cherry (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Lost In My Bedroom",
-      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "You\u2019re Not The One",
+      "url": "https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 228413,
       "name": "Radar",
       "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "You\u2019re Not The One",
-      "url": "https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1675,22 +1675,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Who's That Chick ? (feat. Rihanna) - Single Version",
-      "url": "https://open.spotify.com/track/45PdLo6r1tME4Uhkg5h7ak"
+      "duration_ms": 212413,
+      "name": "Tom's Diner (feat. Britney Spears)",
+      "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
     }
   ],
   "unique_name": "Deserved",

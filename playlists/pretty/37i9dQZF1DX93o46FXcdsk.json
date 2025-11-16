@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 48726,
+  "num_followers": 48747,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Het Beste Van Guus Meeuwis",
+        "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 171080,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Het Beste Van Guus Meeuwis",
-        "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Geef Mij Je Angst",
-      "url": "https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Vaag En Stil",
-        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Vaag En Stil",
-      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Het Beste Van Guus Meeuwis",
         "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 232413,
       "name": "Proosten",
       "url": "https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Vaag En Stil",
+        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Vaag En Stil",
+      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Krak",
-        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
-      },
-      "artists": [
-        {
-          "name": "Neet o\u00e9t Lottum",
-          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Hald Mich 'S Vas",
-      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Adem",
         "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 181066,
       "name": "De Kapitein Deel II",
       "url": "https://open.spotify.com/track/25v3woD9LIoL8wJZDu7HId"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Krak",
+        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
+      },
+      "artists": [
+        {
+          "name": "Neet o\u00e9t Lottum",
+          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Hald Mich 'S Vas",
+      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Uit de schaduw",
-        "url": "https://open.spotify.com/album/7cmD7hkRNir64DrmIte6aC"
-      },
-      "artists": [
-        {
-          "name": "IOS",
-          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Uit de Schaduw",
-      "url": "https://open.spotify.com/track/5pKnOLs18biSw3IBZ2XcKi"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Adem",
         "url": "https://open.spotify.com/album/4JSTsGRrrd5yBnNtzPsnlO"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 233440,
       "name": "Ren Lenny Ren",
       "url": "https://open.spotify.com/track/7bDI0xPdgGJIq6j8Gueqhj"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Uit de schaduw",
+        "url": "https://open.spotify.com/album/7cmD7hkRNir64DrmIte6aC"
+      },
+      "artists": [
+        {
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Uit de Schaduw",
+      "url": "https://open.spotify.com/track/5pKnOLs18biSw3IBZ2XcKi"
     },
     {
       "added_at": "2020-02-10 14:27:21",

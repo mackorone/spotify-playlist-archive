@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: PLAYERTWO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,818 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,800 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 16 | [The Mileage](https://open.spotify.com/track/0ZUajodtCkJCusZoXziaNs) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [The Mileage](https://open.spotify.com/album/3Tuhgglsy6KSuOWAj61HhX) | 2:11 |
 | 17 | [Money & Peace](https://open.spotify.com/track/41KCUdcFwtGV5eS2zdIWAI) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Money & Peace](https://open.spotify.com/album/5OVNx6Cy4uPwkcR7IcDG1I) | 2:29 |
 | 18 | [MORE IS MORE](https://open.spotify.com/track/0HXwgEGpvY7eRPd6rD4BLi) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [WISH YOU WERE \(T\)HERE](https://open.spotify.com/album/0dO1yNAZg24voi0Tu4IRpz) | 2:53 |
-| 19 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
+| 19 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
 | 20 | [IRDC](https://open.spotify.com/track/7JIgpHtU0fZOlnzL1JYDBv) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [IRDC](https://open.spotify.com/album/5R18debjLS1B8EpiIY5hu7) | 1:46 |
 | 21 | [Chaos \(feat\. Isaiah Rashad\)](https://open.spotify.com/track/75pWaQwRzbEL7e9Bgf59PX) | [iAMLYRIC](https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Chaos \(feat\. Isaiah Rashad\)](https://open.spotify.com/album/08O64Qty8xLcn6jcd1lGnm) | 3:51 |
 | 22 | [Let Go of My Cup \(feat\. That Mexican OT\)](https://open.spotify.com/track/0QJ7MUdSemxAvC1nLXxCaW) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Square Bidnez](https://open.spotify.com/album/0ZZXvaxfAh7KSw7sNkpo8s) | 3:35 |

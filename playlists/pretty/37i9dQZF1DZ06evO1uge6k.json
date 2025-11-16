@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 258877,
+  "num_followers": 258896,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACL04DztQTgxiQ3sXmEwSpB",
+  "snapshot_id": "aRZxAAAAAABg9wY2Ly5dXVgCSHfBkp0w",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Hot, Blue and Righteous (2006 Remaster)",
-      "url": "https://open.spotify.com/track/3PjUjSHQcZteFB77WX3WYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 221626,
       "name": "Delirious",
       "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Hot, Blue and Righteous (2006 Remaster)",
+      "url": "https://open.spotify.com/track/3PjUjSHQcZteFB77WX3WYZ"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Precious and Grace (2005 Remaster)",
-      "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 213600,
       "name": "Francine",
       "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Precious and Grace (2005 Remaster)",
+      "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
     },
     {
       "added_at": null,

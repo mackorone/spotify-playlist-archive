@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Summer Walker
 
-1,173 songs - 2 day 12 hr 40 min
+1,174 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Assumptions](https://open.spotify.com/track/0egBqATpcSau87VeLWdZQt) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Assumptions](https://open.spotify.com/album/0AligRsoUXy8NgojEVYWyM) | 2:16 | 2025-09-05 |  |
 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-04-15 | 2022-12-10 |
 | [Ave Maria](https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ave Maria](https://open.spotify.com/album/1YtC5fvdj2z7XosDbmZYAS) | 2:57 | 2023-10-20 | 2024-06-08 |
-| [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-03 |  |
+| [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-03 | 2025-11-16 |
 | [ayo](https://open.spotify.com/track/4qExpqP0xAjotJa8gA5FkS) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [unreleased](https://open.spotify.com/album/6e81zuZl9JgP82NpGWCVpU) | 3:04 | 2025-05-16 | 2025-07-19 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-07 |  |
 | [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 | 2022-06-10 | 2022-07-16 |
@@ -696,6 +696,7 @@
 | [Niagara Falls](https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:37 | 2025-01-31 |  |
 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 | 2022-01-21 | 2022-06-18 |
 | [Nice n' Sweet](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 | 2025-11-14 |  |
+| [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 | 2025-11-14 |  |
 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 | 2024-08-16 | 2025-11-15 |
 | [NO EVIL](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [NO EVIL](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-01-26 | 2024-03-30 |
 | [No Fake Love \(with YoungBoy Never Broke Again\)](https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [No Fake Love \(with YoungBoy Never Broke Again\)](https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA) | 2:28 | 2023-09-01 | 2024-06-08 |

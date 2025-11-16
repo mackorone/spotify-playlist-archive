@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 255536,
+  "num_followers": 255526,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Married Life",
-      "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
     },
     {
       "added_at": "2024-01-23 19:55:12",

@@ -2,7 +2,7 @@
 
 ### [Classical Piano](https://open.spotify.com/playlist/37i9dQZF1DWUqIzZNMSCv3)
 
-> The world's most iconic and relaxing classical piano.
+> Relaxing classical piano.
 
 160 songs - 10 hr 30 min
 
@@ -29,7 +29,7 @@
 | [5 Lieder, Op\. 49: No\. 4, Wiegenlied \(Arr\. Reger for Piano\)](https://open.spotify.com/track/2tCVMrhDkCgaEBQtNjOvis) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Rudolf Buchbinder](https://open.spotify.com/artist/7bdwlNOPsycFColkPRlNxY) | [Brahms: 5 Lieder, Op\. 49: No\. 4, Wiegenlied \(Arr\. Reger for Piano\)](https://open.spotify.com/album/4ghXeTnAvUxJfkUHMiTEn8) | 1:30 | 2024-02-08 |  |
 | [5 Piano Pieces Op\. 3, TrV 105: No\. 1, Andante](https://open.spotify.com/track/1udE8BlEoI3vEiM5HnOAMt) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Guillaume Bellom](https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK) | [Strauss: 5 Piano Pieces Op\. 3, TrV 105: No\. 1, Andante](https://open.spotify.com/album/0F1u2TnD7187KGZYuWwNe1) | 4:51 | 2024-03-01 | 2025-05-03 |
 | [6 Chorale Preludes, BV B 50: Herzlich tut mich verlangen, Op\. 122/10](https://open.spotify.com/track/0Ck1w9drSHl9NrWV9diIXv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Encounter](https://open.spotify.com/album/1Deu0jSVqpCLj6QtUn5f6a) | 3:01 | 2021-12-06 |  |
-| [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 | 2021-12-06 |  |
+| [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:14 | 2021-12-06 |  |
 | [6 Piano Pieces, Op\. 118: No\. 2 in A Major\. Intermezzo](https://open.spotify.com/track/4neOAoU5m6utkn78C6uLcC) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 6 Piano Pieces, Op\. 118: No\. 2 in A Major\. Intermezzo](https://open.spotify.com/album/2tFBCHZlWUwvlhR1BuAeZy) | 6:35 | 2023-11-24 | 2025-04-05 |
 | [6 Romances, Op\. 16: No\. 1, Lullaby \(Cradle Song\) \[Version for Piano\]](https://open.spotify.com/track/28JNLgjTU0Rlpp5H82q8to) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Tchaikovsky: 6 Romances, Op\. 16: No\. 1, Lullaby \(Cradle Song\) \[Version for Piano\]](https://open.spotify.com/album/0CjDTMlNdGQgbLywdS6pBj) | 2:36 | 2025-04-25 |  |
 | [7 canciones populares españolas: VI\. Canción](https://open.spotify.com/track/7F4LZFe1kAUEClacsL5KyA) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Falla: Nights in the Garden of Spain; Solo Piano Works](https://open.spotify.com/album/3r85Aw3DIDErCQEiYHk0lu) | 2:19 | 2022-01-25 |  |

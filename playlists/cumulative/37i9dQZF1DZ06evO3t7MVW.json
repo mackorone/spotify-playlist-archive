@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Walking in My Shoes",
+      "url": "https://open.spotify.com/track/2LvZ1yfVNjQDUPDVQJy0ZL"
+    },
+    {
+      "album": {
         "name": "Local Motion",
         "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
       },

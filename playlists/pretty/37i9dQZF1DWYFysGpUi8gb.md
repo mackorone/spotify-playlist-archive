@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring sorry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,279 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,255 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 69 | [Tiles & Moss](https://open.spotify.com/track/5MHKVTslowdhxzyOLOgA5X) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Tiles & Moss](https://open.spotify.com/album/6k1wy9i4vriYhKfBHIuWlx) | 4:03 |
 | 70 | [Lisboa](https://open.spotify.com/track/5fxKiTlkEPEDwrPMcWTojo) | [Sydney Minsky Sargeant](https://open.spotify.com/artist/67XmpPOLIuRRGNUfXxyZ8J) | [Lunga](https://open.spotify.com/album/4GJMQvQwwCVhJZn4iWIPuc) | 4:16 |
 
-Snapshot ID: `AAAAADAzbd2XT0iYHmnI9oddz8EuZm37`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

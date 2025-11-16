@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 178213,
+  "num_followers": 178226,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,30 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
+        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists": [
+        {
+          "name": "Damien Sargue",
+          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        {
+          "name": "Cyril Niccola\u00ef",
+          "url": "https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm"
+        },
+        {
+          "name": "John Eyzen",
+          "url": "https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
+      "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Nino Ferrer",
         "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 236840,
       "name": "D\u00e9jeuner en paix",
       "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
-        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
-        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
-      },
-      "artists": [
-        {
-          "name": "Damien Sargue",
-          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
-        },
-        {
-          "name": "Cyril Niccola\u00ef",
-          "url": "https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm"
-        },
-        {
-          "name": "John Eyzen",
-          "url": "https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
-      "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Simplement",
-        "url": "https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW"
-      },
-      "artists": [
-        {
-          "name": "Larusso",
-          "url": "https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Tu m'oublieras",
-      "url": "https://open.spotify.com/track/616O2jmafiModH0RgonGqf"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "La goffa Lolita",
-        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
+        "name": "Simplement",
+        "url": "https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW"
       },
       "artists": [
         {
-          "name": "Vinc\u00e8 la petite culotte",
-          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
+          "name": "Larusso",
+          "url": "https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry"
         }
       ],
-      "duration_ms": 221149,
-      "name": "La goffa Lolita",
-      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
+      "duration_ms": 219760,
+      "name": "Tu m'oublieras",
+      "url": "https://open.spotify.com/track/616O2jmafiModH0RgonGqf"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -571,6 +555,22 @@
       "duration_ms": 197706,
       "name": "L\u00e9a",
       "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "La goffa Lolita",
+        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
+      },
+      "artists": [
+        {
+          "name": "Vinc\u00e8 la petite culotte",
+          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
+        }
+      ],
+      "duration_ms": 221149,
+      "name": "La goffa Lolita",
+      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Juste Comme \u00c7a",
-        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
-      },
-      "artists": [
-        {
-          "name": "Mickael Miro",
-          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "L'horloge tourne",
-      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "Juste Comme \u00c7a",
+        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
+      },
+      "artists": [
+        {
+          "name": "Mickael Miro",
+          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "L'horloge tourne",
+      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Meilleurs souvenirs - Best Of",
-        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
-      },
-      "artists": [
-        {
-          "name": "Les Innocents",
-          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "L'autre finist\u00e8re",
-      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Sur La Route De Memphis",
         "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+      },
+      "artists": [
+        {
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 165557,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
         "name": "Le Dernier Jour du Disco",
         "url": "https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
       "artists": [
         {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
         }
       ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+      "duration_ms": 215813,
+      "name": "Les voisines",
+      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
     }
   ],
   "unique_name": "Bleu Blanc Route",

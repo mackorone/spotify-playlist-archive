@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Mikayla Geier
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,048 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,041 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [All that !](https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [All that !](https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8) | 3:24 |
 | 100 | [My Hometown Is Sinking](https://open.spotify.com/track/6gNJ4x41nHgnvfe8baw75g) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [My Hometown Is Sinking](https://open.spotify.com/album/3d5sL5QzwVxXL3KsbFRN2W) | 3:11 |
 
-Snapshot ID: `AAAAAAdDsk5iXWyre9ugXyHACafjrNBY`
+Snapshot ID: `AAAAAP58bKNakIVvql5wTRA7udtiJuXr`

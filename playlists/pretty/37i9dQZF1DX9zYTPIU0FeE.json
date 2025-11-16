@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12426,
+  "num_followers": 12434,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "People of the South",
         "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
@@ -691,18 +675,46 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Born Coloured, not Born-Free",
-        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Homecoming (Part 1) [Revisited]",
+        "url": "https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT"
       },
       "artists": [
         {
           "name": "Benjamin Jephta",
           "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        },
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        },
+        {
+          "name": "Sisonke Xonti",
+          "url": "https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
         }
       ],
-      "duration_ms": 334300,
-      "name": "Gadija (Pt. 1)",
-      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
+      "duration_ms": 371396,
+      "name": "Homecoming (Part 1) - Revisited",
+      "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -783,30 +795,18 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Homecoming (Part 1) [Revisited]",
-        "url": "https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT"
+        "name": "Born Coloured, not Born-Free",
+        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
       },
       "artists": [
         {
           "name": "Benjamin Jephta",
           "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
-        },
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        },
-        {
-          "name": "Sisonke Xonti",
-          "url": "https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm"
-        },
-        {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
         }
       ],
-      "duration_ms": 371396,
-      "name": "Homecoming (Part 1) - Revisited",
-      "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
+      "duration_ms": 334300,
+      "name": "Gadija (Pt. 1)",
+      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
     },
     {
       "added_at": "2025-11-07 00:07:51",

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-827 songs - 2 day 13 hr 56 min
+828 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 | 2024-01-06 |
 | [Rohrdommel](https://open.spotify.com/track/5dp3GmE5fxaVpU1Txh7CrE) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Rohrdommel](https://open.spotify.com/album/2gLaWHcazbQZl5CGvx4Djd) | 7:19 | 2025-07-18 | 2025-08-01 |
+| [Rollin'](https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Rollin'](https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE) | 2:52 | 2025-11-13 |  |
 | [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 | 2025-07-25 |
 | [Run](https://open.spotify.com/track/4bZh8RQpNQCJs5A7WvVC69) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Run](https://open.spotify.com/album/0zJtwrOgT3IqXpYAOFX71i) | 4:05 | 2024-11-28 | 2025-03-28 |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |
@@ -751,7 +752,7 @@
 | [Touch Me](https://open.spotify.com/track/1rBhIXBniWaeGINWQORMTH) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Touch Me](https://open.spotify.com/album/7bCY023tjPbvwGcAfkq0Fe) | 3:42 | 2025-01-16 |  |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-31 | 2023-10-14 |
 | [Transmission](https://open.spotify.com/track/0q4jvSCvU5fVkq1X5Fhcri) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Transmission](https://open.spotify.com/album/03qFRpGEpGRtDfJr8xfLxu) | 4:34 | 2022-12-28 | 2023-01-06 |
-| [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ) | 3:44 | 2024-04-18 |  |
+| [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ) | 3:44 | 2024-04-18 | 2025-11-16 |
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2023-03-10 | 2024-04-19 |
 | [Trekni Hek](https://open.spotify.com/track/5aWOnhEkTp9aEstrbLW9Sm) | [Gutenn](https://open.spotify.com/artist/6i1WgIYo6KAMsYz5CZRlYl) | [Trekni Hek](https://open.spotify.com/album/3wSU8GqpquLK62LCFegpfk) | 6:09 | 2023-02-17 | 2023-02-28 |
 | [Tria](https://open.spotify.com/track/6x9H65PxFRK2hfpGTMfmSd) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Tria EP](https://open.spotify.com/album/7JrgK72yIGkJlxo58gu0XA) | 5:34 | 2025-01-16 | 2025-02-14 |

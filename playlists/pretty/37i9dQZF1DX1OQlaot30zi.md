@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Papa, Skinny e Yugi, Nitro, Astro, 22Simba, Hash e IvanBi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,825 likes - 107 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,844 likes - 107 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 11 | [Tocco Pitocco](https://open.spotify.com/track/0gYffd4envdyCft10iF45g) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Tocco Pitocco](https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU) | 2:43 |
 | 12 | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/7aED3khDoMw7bgL8wNMVy3) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/4YxAONurTW20P7AOYo6rNR) | 2:33 |
 | 13 | [PORTICI \(feat\. Silent Bob\)](https://open.spotify.com/track/0rAv8y4R8PChpkAKzlChLh) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [Incubi](https://open.spotify.com/album/10SKT9rzO48WQRmzzmjstN) | 2:41 |
-| 14 | [4 Macchine \(feat\. Dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 |
+| 14 | [4 Macchine \(feat\. dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 |
 | 15 | [SPARATI \(feat\. Macello\)](https://open.spotify.com/track/5tX0FwmbPvh3COqy2w1Qe2) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [VOCAZIONE](https://open.spotify.com/album/3vpZR4KBggeeG5Eh34b983) | 2:27 |
 | 16 | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/track/5rg4OSRLS9OySeuyJ4in0x) | [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm), [Mated](https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ) | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/album/59i6g44pJoLgIiofjjOThG) | 3:15 |
 | 17 | [STATUA \(ATTUORN 'O CUORP TUOIJ\)](https://open.spotify.com/track/2oi7DDyAP8FjaY2bxWJRqp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [NICOLA SICILIANO](https://open.spotify.com/album/5RVxm9pSvD21EB4LYwsJHc) | 2:34 |

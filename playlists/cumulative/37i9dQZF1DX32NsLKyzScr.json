@@ -12419,6 +12419,28 @@
     },
     {
       "album": {
+        "name": "Insomnia (Disclosure's 2025 Edit)",
+        "url": "https://open.spotify.com/album/4YfEXbb3DjWKLFiW67pDqx"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260807,
+      "name": "Insomnia - Disclosure's 2025 Edit",
+      "url": "https://open.spotify.com/track/4cgoqLcfYRBesDEmSVR1Ek"
+    },
+    {
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
       },
@@ -13148,7 +13170,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 167272,
       "name": "Koko",
       "url": "https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf"

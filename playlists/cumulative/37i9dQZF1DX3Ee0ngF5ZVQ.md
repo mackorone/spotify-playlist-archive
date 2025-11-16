@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Drake Milligan
 
-717 songs - 1 day 18 hr 40 min
+718 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 | 2021-12-17 | 2022-03-19 |
 | [Cigarettes and Milk](https://open.spotify.com/track/0HzZnV2SmvysrMb6VCO3az) | [Kenny Feidler](https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q) | [Cigarettes and Milk](https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx) | 3:51 | 2024-02-09 | 2025-01-10 |
 | [Classic Again](https://open.spotify.com/track/1BquNUtf3tpIY1XaAPrXkk) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Classic Again](https://open.spotify.com/album/3ZyAS99kwhBRExYV6GY4tN) | 3:30 | 2023-07-14 | 2023-09-19 |
-| [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 | 2023-11-10 |  |
+| [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 | 2023-11-10 | 2025-11-16 |
 | [Codigo GoGo](https://open.spotify.com/track/15HixhUOdmGIQRrMTyILRb) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Codigo GoGo](https://open.spotify.com/album/2w2xvGHpgGz7OY7UgXn4Yk) | 3:10 | 2021-12-17 | 2022-03-19 |
 | [Cold Beer Time](https://open.spotify.com/track/0LhOghHV90jLGJIwnRPT8x) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Cold Beer Time](https://open.spotify.com/album/3LFp3s7t5JLAqP2jnJ0FhP) | 3:17 | 2022-06-03 | 2022-07-09 |
 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 | 2023-08-18 | 2025-08-09 |
@@ -537,6 +537,7 @@
 | [Something Wrong](https://open.spotify.com/track/6iiieW9Az0k3dqytcwQaGV) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Quicksand](https://open.spotify.com/album/71c9E1RjHBacjk9hY8titl) | 3:10 | 2025-01-17 | 2025-04-24 |
 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 | 2023-04-14 |  |
 | [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 | 2023-05-19 | 2023-09-07 |
+| [Somewhere Down In Texas](https://open.spotify.com/track/6pqaIXLOa0WOKUMpAdbMpv) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Somewhere Down In Texas](https://open.spotify.com/album/7iaf6aKTXK8ZktXasyiwtW) | 5:04 | 2025-11-15 |  |
 | [Somewhere Else](https://open.spotify.com/track/6FGUiI0OdnZvV1e7hFJ4RH) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [The Going](https://open.spotify.com/album/4E2Zev3ljGSNMBMNsOoNel) | 3:34 | 2025-10-24 |  |
 | [Somewhere in the Sun](https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Somewhere in the Sun](https://open.spotify.com/album/4VyXe0br7H7CWt4QU3AOfS) | 3:01 | 2022-03-11 | 2022-07-23 |
 | [Sound Of Missing You](https://open.spotify.com/track/4CDTIEtvz4DOEQyvTUN1E7) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Sound Of Missing You](https://open.spotify.com/album/2fzSL2prvp7ZxmoKaapK6E) | 3:49 | 2024-01-12 | 2025-08-09 |

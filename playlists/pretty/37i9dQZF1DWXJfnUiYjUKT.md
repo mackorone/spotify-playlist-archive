@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Charli xcx on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,939 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,994 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 50 | [Memories and Empties](https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Memories and Empties](https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr) | 3:22 |
 | 51 | [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 |
 | 52 | [Nasty](https://open.spotify.com/track/1sKLFVc86oelMYuXvZ4LBg) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Nasty](https://open.spotify.com/album/06npIIgUg1GgZSK7DkKz6U) | 2:54 |
-| 53 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
+| 53 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
 | 54 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 |
 | 55 | [Cosas de Enamorao \- Salud mi Reina](https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cosas de Enamorao \(Salud mi Reina\)](https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8) | 2:39 |
 | 56 | [HELLO](https://open.spotify.com/track/6dPD9wvY94z8rGdVOOOUU3) | [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [HELLO](https://open.spotify.com/album/3vDZNr1zxHyCxxYwJYDw0E) | 2:24 |

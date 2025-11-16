@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 ### [Classical Piano](https://open.spotify.com/playlist/37i9dQZF1DWUqIzZNMSCv3)
 
-> The world's most iconic and relaxing classical piano.
+> Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,443 likes - 122 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,538 likes - 122 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 89 | [Three Visions: II\. Summerland](https://open.spotify.com/track/61NVGsaU1YXShnv2nwdJ0s) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Natalie Hinderas](https://open.spotify.com/artist/5QLM2Mh4Uz580PqO6figt2) | [Piano Music by African\-American Composers](https://open.spotify.com/album/6uvdXbMHeBaBis4cGdVadM) | 4:37 |
 | 90 | [Consolations, S\. 172: No\. 5 in E Major\. Andantino](https://open.spotify.com/track/2CfXlbBfZIv38SwUMDqSfb) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Liszt: Via Crucis & Solo Piano Works](https://open.spotify.com/album/2PZ9uZ71W2dWKMUiiJq1JU) | 2:07 |
 | 91 | [Suite No\. 7 in B\-Flat Major, HWV 440: III\. Sarabande](https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 2:36 |
-| 92 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 |
+| 92 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:14 |
 | 93 | [In einer Nacht, Op\. 15: No\. 2, Sehr langsam \- Musical Moments](https://open.spotify.com/track/0b0NXgRU5fX5U6dfjYsgKe) | [Paul Hindemith](https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Hindemith: In einer Nacht, Op\. 15: No\. 2, Sehr langsam \(Musical Moments\)](https://open.spotify.com/album/6MBeNgru816JprogFP7YjD) | 1:24 |
 | 94 | [24 Preludes, Op\. 11: No\. 21 in B\-Flat Major \- Andante](https://open.spotify.com/track/3lxToYK7vt3OysDMAMVT9A) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [24 Preludes, Op\. 11/No\. 21 in B\-Flat Major \- Andante](https://open.spotify.com/album/2MAeQ1QI3a6tIxVdKqOmJS) | 2:00 |
 | 95 | [Ständchen, S\. 560 \(Trans\. from Schwanengesang No\. 4, D\. 957\)](https://open.spotify.com/track/4b59u2E74KcDuyHCRBkf5v) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 7:22 |

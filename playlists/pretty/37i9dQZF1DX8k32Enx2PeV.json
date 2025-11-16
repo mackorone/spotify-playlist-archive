@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 14758,
+  "num_followers": 14763,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-10-31 04:59:32",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2025-10-31 04:59:32",
-      "album": {
         "name": "Perdiendo el Control",
         "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 202221,
       "name": "Perdiendo el Control",
       "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2025-10-31 04:59:32",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2025-10-31 04:59:32",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-10-31 04:59:32",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
+    },
+    {
+      "added_at": "2025-10-31 04:59:32",
+      "album": {
         "name": "S\u00ed",
         "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 158428,
       "name": "S\u00ed",
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
-    },
-    {
-      "added_at": "2025-10-31 04:59:32",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
     },
     {
       "added_at": "2025-10-31 04:59:32",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-10-31 04:59:32",
       "album": {
-        "name": "Calz\u00f3n",
-        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "Calz\u00f3n",
-      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
-    },
-    {
-      "added_at": "2025-10-31 04:59:32",
-      "album": {
         "name": "Losken Roland",
         "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
       },
@@ -1383,6 +1367,42 @@
     {
       "added_at": "2025-10-31 04:59:32",
       "album": {
+        "name": "Calz\u00f3n",
+        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Calz\u00f3n",
+      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+    },
+    {
+      "added_at": "2025-10-31 04:59:32",
+      "album": {
+        "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
+      },
+      "artists": [
+        {
+          "name": "Tostao",
+          "url": "https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT"
+        },
+        {
+          "name": "Luis Eduardo Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2025-10-31 04:59:32",
+      "album": {
         "name": "Ese Dinero",
         "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 217366,
       "name": "Loco Playa",
       "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
-    },
-    {
-      "added_at": "2025-10-31 04:59:32",
-      "album": {
-        "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
-      },
-      "artists": [
-        {
-          "name": "Tostao",
-          "url": "https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT"
-        },
-        {
-          "name": "Luis Eduardo Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
     },
     {
       "added_at": "2025-10-31 04:59:32",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-10-31 04:59:32",
       "album": {
-        "name": "Mudanza",
-        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
-      },
-      "artists": [
-        {
-          "name": "Kid Fresco",
-          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
-        }
-      ],
-      "duration_ms": 212178,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
-    },
-    {
-      "added_at": "2025-10-31 04:59:32",
-      "album": {
         "name": "Pa' que lo bailen (Radio Edit)",
         "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 194770,
       "name": "Pa' que lo bailen - Radio Edit",
       "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
+    },
+    {
+      "added_at": "2025-10-31 04:59:32",
+      "album": {
+        "name": "Mudanza",
+        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
+      },
+      "artists": [
+        {
+          "name": "Kid Fresco",
+          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
+        }
+      ],
+      "duration_ms": 212178,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
     },
     {
       "added_at": "2025-10-31 04:59:32",

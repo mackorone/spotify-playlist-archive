@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "JJ Heller Christmas",
+        "url": "https://open.spotify.com/album/6xdcCHqI8RfvzVqhE3J320"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Born in Me (Album Version)",
+      "url": "https://open.spotify.com/track/7xcHCg6V2oVDlfTCmZKNbE"
+    },
+    {
+      "album": {
         "name": "We Have A Savior",
         "url": "https://open.spotify.com/album/1DltfgAtgRgLmXbhve2g4B"
       },
@@ -1342,6 +1360,24 @@
       "duration_ms": 240066,
       "name": "Carol of the Bells / Sing We Now of Christmas",
       "url": "https://open.spotify.com/track/7hHVcFvJn0DQXxzl1RTPdB"
+    },
+    {
+      "album": {
+        "name": "Christ Is Born (Happy Birthday)",
+        "url": "https://open.spotify.com/album/4H7SNEqHLSeaEzUR5XmkuT"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143024,
+      "name": "Christ Is Born (Happy Birthday)",
+      "url": "https://open.spotify.com/track/7CAzuEpPobaDVObnp4Zibt"
     },
     {
       "album": {
@@ -1653,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "CHRISTMAS MORNING",
+        "url": "https://open.spotify.com/album/1e6yUvVixHZisjzEuJamSe"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130496,
+      "name": "CHRISTMAS MORNING",
+      "url": "https://open.spotify.com/track/2EexyQTsG7IyJIvXkjeozV"
+    },
+    {
+      "album": {
         "name": "Peace On Earth",
         "url": "https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249"
       },
@@ -1682,7 +1740,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 285450,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/4cYsUX11X8o82bP9Vmaabo"
@@ -2314,7 +2372,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 207986,
       "name": "For Unto Us a Child Is Born/Open the Eyes of My Heart",
       "url": "https://open.spotify.com/track/2zdie7CHg1v4LZsg5YTphr"
@@ -2350,7 +2408,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 228266,
       "name": "From Heaven To Earth (Joy To The World)",
       "url": "https://open.spotify.com/track/0PrGjIdocNthK35qFKShB4"
@@ -3356,7 +3414,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 271769,
       "name": "He Comes",
       "url": "https://open.spotify.com/track/0lYkt2IT6tsgccbVjKXTOf"
@@ -3998,6 +4056,24 @@
       "duration_ms": 178784,
       "name": "In the Bleak Mid Winter (All I Can Do) - Edit",
       "url": "https://open.spotify.com/track/6HZZBfALYl5XO3sTggthHw"
+    },
+    {
+      "album": {
+        "name": "In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/0r4HO8lxsJZsr42MIBj5ME"
+      },
+      "artists": [
+        {
+          "name": "lydi lynn",
+          "url": "https://open.spotify.com/artist/6jGJeOQrvBV8UKsvWGQkJI"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209167,
+      "name": "In The Bleak Midwinter",
+      "url": "https://open.spotify.com/track/0x5E4b9PzVCASUYK1ZBCXK"
     },
     {
       "album": {
@@ -5286,10 +5362,28 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 244497,
       "name": "Mary & Joseph",
       "url": "https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2"
+    },
+    {
+      "album": {
+        "name": "Every December",
+        "url": "https://open.spotify.com/album/6LxUBndkfp7428XpNOLyY4"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244497,
+      "name": "Mary & Joseph",
+      "url": "https://open.spotify.com/track/6Hg7qEygUthwiVVmbFh5kO"
     },
     {
       "album": {
@@ -6335,6 +6429,24 @@
     },
     {
       "album": {
+        "name": "Rejoice! (A Celtic Christmas)",
+        "url": "https://open.spotify.com/album/2fpYcIaEHetaRYy7SLU2fR"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242944,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6l5FMT9Q48hgJI6QynqZvn"
+    },
+    {
+      "album": {
         "name": "Lowborn",
         "url": "https://open.spotify.com/album/42fwK8CU4k8YMq2d0rVxOO"
       },
@@ -6714,7 +6826,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 372506,
       "name": "Prince Of Heaven",
       "url": "https://open.spotify.com/track/4Ukgts8jEXRnQkC2Qmem6A"
@@ -7594,6 +7706,28 @@
       "duration_ms": 203679,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/2AdneFz73x981Tq26WQ1DU"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        },
+        {
+          "name": "R.VI.VI.",
+          "url": "https://open.spotify.com/artist/3yusSby0AqY4DyJxIEmvVC"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184434,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4VzbNfhAcJKf0z9NAVcfRK"
     },
     {
       "album": {
@@ -8579,7 +8713,7 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 249720,
+      "duration_ms": 250853,
       "name": "What Child Is This (Christ the King)",
       "url": "https://open.spotify.com/track/1ToNr7zmERGSpLetXvWF0R"
     },
@@ -9002,7 +9136,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 162649,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/3ngmCccTVjZLi8wFFEOO5d"

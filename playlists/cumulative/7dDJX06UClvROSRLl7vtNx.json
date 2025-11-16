@@ -3915,6 +3915,28 @@
     },
     {
       "album": {
+        "name": "Dance In The Dark",
+        "url": "https://open.spotify.com/album/2kEfNyO8AkwPImvpIoldrD"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Baked Moon",
+          "url": "https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/3LSPoubZ1lhdh9FsRu2vur"
+    },
+    {
+      "album": {
         "name": "Dance The Night",
         "url": "https://open.spotify.com/album/38s0QGaLaA2xryTIQkjTEi"
       },

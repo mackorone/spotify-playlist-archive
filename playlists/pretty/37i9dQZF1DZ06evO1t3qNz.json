@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 50995,
+  "num_followers": 51042,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACCKVS7DQJ44t+PjMaEs/TK",
+  "snapshot_id": "aRZxAAAAAACKe4jJU9yMK6Mx7pThcvn7",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 139429,
       "name": "I'm Not There For You",
       "url": "https://open.spotify.com/track/3kLqlYcPuj5864tVB5LVL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177601,
+      "name": "I Stay I Leave I Love I Lose",
+      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
     },
     {
       "added_at": null,
@@ -523,6 +539,22 @@
       "duration_ms": 190471,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/4FowjhkBn9wwIWNgbBvlke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 271625,
+      "name": "Wildflowers and Wine",
+      "url": "https://open.spotify.com/track/3DjBBD4u8mxzAQRsS9ua1u"
     }
   ],
   "unique_name": "This Is Jessie Murph",

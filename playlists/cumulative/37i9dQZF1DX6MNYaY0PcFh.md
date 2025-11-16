@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Kwengface, Flowdan, Interplanetary Criminal
 
-329 songs - 18 hr 30 min
+329 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 | 2025-06-12 |  |
 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 | 2023-01-24 | 2024-06-28 |
 | [feel it yet? \- Pìjus Remix](https://open.spotify.com/track/7vOuN0g6feJQI6TaGYA8uB) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F), [Pìjus](https://open.spotify.com/artist/06cVODXXiHCj0c0YrRt4vz) | [feel it yet? \(Pìjus Remix\)](https://open.spotify.com/album/0iChLiLya9rY6xDl1YlT68) | 3:10 | 2025-05-15 | 2025-08-07 |
-| [Feel The Beat](https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc), [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [SELECTA](https://open.spotify.com/album/3w9BwqNfaGC2IBNwXpOEWc) | 3:30 | 2025-11-14 |  |
+| [Feel The Beat](https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc), [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [SELECTA](https://open.spotify.com/album/3w9BwqNfaGC2IBNwXpOEWc) | 3:24 | 2025-11-14 |  |
 | [Feel The Rush](https://open.spotify.com/track/3qAHlj0o7h3WkiMTVjMuKr) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Feel The Rush](https://open.spotify.com/album/0RJI2RE716kMq0TWZGPPwi) | 3:53 | 2025-06-12 | 2025-08-16 |
 | [Feels Like](https://open.spotify.com/track/43m82UNzbK17KIqHLJwZlT) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [MHITR: The Album](https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO) | 2:27 | 2025-10-23 |  |
 | [Figured U Out](https://open.spotify.com/track/3pGW7CYHTKKFnra9dWnyHw) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [Figured U Out](https://open.spotify.com/album/43xw66nPTLgz8Nq3colz6A) | 2:18 | 2024-06-28 | 2024-07-27 |

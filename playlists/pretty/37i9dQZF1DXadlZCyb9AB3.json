@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 204716,
+  "num_followers": 204745,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "That's Not What I Heard",
-        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Where the Girls Are",
-      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Soda Pop * Rip Off",
         "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 123240,
       "name": "What Kind of Monster Are You?",
       "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "That's Not What I Heard",
+        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Where the Girls Are",
+      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Oh Me I'm Never",
-        "url": "https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU"
-      },
-      "artists": [
-        {
-          "name": "ShitKid",
-          "url": "https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m"
-        }
-      ],
-      "duration_ms": 177884,
-      "name": "Oh Me I'm Never",
-      "url": "https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Frenching the Bully",
+        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
+      },
+      "artists": [
+        {
+          "name": "The Gits",
+          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "Second Skin",
+      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Frenching the Bully",
-        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
+        "name": "Oh Me I'm Never",
+        "url": "https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU"
       },
       "artists": [
         {
-          "name": "The Gits",
-          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
+          "name": "ShitKid",
+          "url": "https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m"
         }
       ],
-      "duration_ms": 177960,
-      "name": "Second Skin",
-      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
+      "duration_ms": 177884,
+      "name": "Oh Me I'm Never",
+      "url": "https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6"
     },
     {
       "added_at": "2024-10-07 20:36:39",

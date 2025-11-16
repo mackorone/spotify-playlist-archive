@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Holy Forever - Christmas Songs Of Worship",
+        "url": "https://open.spotify.com/album/0XQi9bYqMEHSoL7tkDwicW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349660,
+      "name": "Holy Forever (Christmas\ud83c\udf84)",
+      "url": "https://open.spotify.com/track/53mDshdRCHJpQdOgPMHg4Z"
+    },
+    {
+      "album": {
         "name": "Holy Forever (Instrumental)",
         "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 250800,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU"

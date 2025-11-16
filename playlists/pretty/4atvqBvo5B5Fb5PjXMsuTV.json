@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Nov 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Nov 19:05 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWISWbOjOrTbC/obiWixmj32vCYjII",
+  "snapshot_id": "AAAWJYXayQ/uaC1FNdkkB6pVNO88Mqf5",
   "tracks": [
     {
       "added_at": "2025-11-14 09:05:35",
@@ -23,6 +23,38 @@
       "duration_ms": 189915,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "added_at": "2025-11-15 14:04:46",
+      "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/0i8kFlv1Sf4LQRjYMQ4DwJ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 272986,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/6P0W0azMoFa2GchGcRlQdA"
+    },
+    {
+      "added_at": "2025-11-15 19:05:01",
+      "album": {
+        "name": "NPC",
+        "url": "https://open.spotify.com/album/76OeV1RkQcnOhoMfuk4EYt"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "NPC",
+      "url": "https://open.spotify.com/track/1gha8sE1ZhS3G74nQaazHH"
     },
     {
       "added_at": "2025-11-14 09:05:35",
@@ -87,6 +119,26 @@
       "duration_ms": 192255,
       "name": "ANY MINUTE NOW",
       "url": "https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs"
+    },
+    {
+      "added_at": "2025-11-15 14:04:46",
+      "album": {
+        "name": "SCARY MERRi",
+        "url": "https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "duration_ms": 149191,
+      "name": "SCARY MERRi",
+      "url": "https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5"
     },
     {
       "added_at": "2025-11-14 23:04:47",
@@ -767,54 +819,6 @@
       "duration_ms": 144807,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
-    },
-    {
-      "added_at": "2025-11-03 23:05:03",
-      "album": {
-        "name": "LET'S JUST CRASH",
-        "url": "https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD"
-      },
-      "artists": [
-        {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        }
-      ],
-      "duration_ms": 195035,
-      "name": "LET'S JUST CRASH",
-      "url": "https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li"
-    },
-    {
-      "added_at": "2025-11-04 19:05:14",
-      "album": {
-        "name": "Pain Shows",
-        "url": "https://open.spotify.com/album/3wxflD8SQCI5IYOWt6oYF5"
-      },
-      "artists": [
-        {
-          "name": "Edward Skeletrix",
-          "url": "https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Pain Shows",
-      "url": "https://open.spotify.com/track/7KIkRwnQQbj7acM33tLUHM"
-    },
-    {
-      "added_at": "2025-10-31 23:04:30",
-      "album": {
-        "name": "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
-        "url": "https://open.spotify.com/album/60pPcuYWCIAdcErvx2TLGB"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225816,
-      "name": "The Fate of Ophelia - Alone In My Tower Acoustic Version",
-      "url": "https://open.spotify.com/track/3Z2nTctPsTsgqqJm5fCSvG"
     }
   ],
   "unique_name": "New Singles Now",

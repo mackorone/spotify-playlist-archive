@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,821 likes - 200 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,293 likes - 200 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 199 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 |
 | 200 | [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 |
 
-Snapshot ID: `AAAAAKW9M20VwdwkGOYll1OHm+xGPz+Y`
+Snapshot ID: `AAAAAKF+bTH8f0kLxuAsvYjOjTpaODPX`

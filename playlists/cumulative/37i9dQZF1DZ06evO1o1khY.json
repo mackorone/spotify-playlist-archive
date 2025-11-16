@@ -137,6 +137,36 @@
     },
     {
       "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Baller (with GloRilla, Sexyy Red & Monaleo)",
+      "url": "https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm"
+    },
+    {
+      "album": {
         "name": "Bestfrenn (feat. GloRilla)",
         "url": "https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m"
       },
@@ -1466,7 +1496,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 158136,
       "name": "Nut Quick",
       "url": "https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv"

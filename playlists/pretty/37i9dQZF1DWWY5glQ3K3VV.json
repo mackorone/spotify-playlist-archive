@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 111461,
+  "num_followers": 111491,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -723,30 +723,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "In Italia 2024 (feat. Emma & Baby Gang)",
-        "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 245292,
-      "name": "In Italia 2024 (feat. Emma & Baby Gang)",
-      "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 204668,
       "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
       "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "In Italia 2024 (feat. Emma & Baby Gang)",
+        "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 245292,
+      "name": "In Italia 2024 (feat. Emma & Baby Gang)",
+      "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 119217,
-      "name": "BIKINI (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Club Dogo",
         "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
       },
@@ -947,13 +927,37 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "Tip Tap",
-        "url": "https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5"
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 119217,
+      "name": "BIKINI (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "Trap Fatta Bene",
+        "url": "https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143"
       },
       "artists": [
         {
           "name": "Papa V",
           "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
         },
         {
           "name": "Nerissima Serpe",
@@ -964,9 +968,9 @@
           "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
         }
       ],
-      "duration_ms": 129795,
-      "name": "Tip Tap",
-      "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
+      "duration_ms": 142000,
+      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1055,17 +1059,13 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "Trap Fatta Bene",
-        "url": "https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143"
+        "name": "Tip Tap",
+        "url": "https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5"
       },
       "artists": [
         {
           "name": "Papa V",
           "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Kuremino",
-          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
         },
         {
           "name": "Nerissima Serpe",
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx"
+      "duration_ms": 129795,
+      "name": "Tip Tap",
+      "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
         "name": "C'EST LA VIE",
         "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
       },
@@ -1451,22 +1471,18 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
+      "duration_ms": 155133,
+      "name": "Mollami Pt.2",
+      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1483,22 +1499,6 @@
       "duration_ms": 144930,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Mollami Pt.2",
-      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 182407,
       "name": "FASHION (feat. ANNA, Lazza, Tony Effe & Benny Benassi)",
       "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -2107,22 +2107,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "FENOMENO",
-        "url": "https://open.spotify.com/album/7kgvW0bVB878kkc89imFK0"
+        "name": "HARD TECH",
+        "url": "https://open.spotify.com/album/5sy8YaOuCsuJl1EOH34XBq"
       },
       "artists": [
         {
-          "name": "Benii",
-          "url": "https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF"
+          "name": "Axel Cooper",
+          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
         },
         {
-          "name": "NiceKidd",
-          "url": "https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX"
+          "name": "Ame 2.0",
+          "url": "https://open.spotify.com/artist/1XlwE6XhQCFKpTmZWEDY96"
         }
       ],
-      "duration_ms": 104318,
-      "name": "FENOMENO",
-      "url": "https://open.spotify.com/track/5l0xqgraCr4hXmFEy6twuM"
+      "duration_ms": 114149,
+      "name": "HARD TECH",
+      "url": "https://open.spotify.com/track/47CKxzkqTc8erp0UiuxN6o"
     }
   ],
   "unique_name": "Club Rap ",

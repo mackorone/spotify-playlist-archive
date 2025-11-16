@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-308 songs - 19 hr 53 min
+309 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [For You](https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Cinderella & Four Knights, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT) | 4:19 | 2024-04-04 |  |
 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 | 2022-05-11 |  |
 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 | 2024-04-03 |  |
-| [From now on](https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) | 3:10 | 2024-04-04 |  |
+| [From now on](https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) | 3:10 | 2024-04-04 | 2025-11-16 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-06-09 | 2023-06-04 |
 | [Gift](https://open.spotify.com/track/3SLTWrFWIR2Pxnwak20oWc) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Lovely Runner, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/7C639nugyBt3TboUcUJMas) | 4:49 | 2024-10-10 |  |
 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 | 2022-05-11 |  |
@@ -162,6 +162,7 @@
 | [Love Message](https://open.spotify.com/track/439W2QNN1wflj0i81zUQCT) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Unfamiliar Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu) | 4:10 | 2022-06-24 | 2022-10-07 |
 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 | 2022-05-11 |  |
 | [Love so Fine](https://open.spotify.com/track/5vLh2E2BqadttPtaylJno1) | [Cha Eun Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [True Beauty \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/7AmL4EoLhnyIID5LDi3WaX) | 3:09 | 2022-05-11 | 2022-06-01 |
+| [Love Story](https://open.spotify.com/track/59Jq02jMj7gInyclQePYs8) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [The Legend of The Blue Sea OST Part.1](https://open.spotify.com/album/3VArMvD885SqMxsHqyBfzD) | 3:24 | 2024-10-10 |  |
 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 | 2024-04-04 |  |
 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-10-10 |  |
 | [Lucky](https://open.spotify.com/track/1De79ur0U8mLeIOSBgaPA0) | [Ashily](https://open.spotify.com/artist/5shg7YVACGTlnae4Ld9lQR) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:00 | 2024-10-10 | 2025-09-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,153 likes - 79 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,200 likes - 79 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

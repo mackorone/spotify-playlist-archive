@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,767 songs - 20 day 1 hr 19 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,769 songs - 20 day 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6548,7 +6548,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6538 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
 | 6539 | [You're Not The Only One I Know](https://open.spotify.com/track/7BaxYnTazocAOK3istsW1z) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Reading, Writing And Arithmetic](https://open.spotify.com/album/6Gym0ls2Eqkh1BtCOhBplN) | 3:50 |
 | 6540 | [NO TRENDS](https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:31 |
-| 6541 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
+| 6541 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:08 |
 | 6542 | [Do Ya Like X Resonance](https://open.spotify.com/track/3QntMmPocNqnLoUGbVG5Jp) | [noturgf](https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS) | [Do Ya Like X Resonance](https://open.spotify.com/album/6Jaut5V6mmUuDbQ8GEb4eF) | 3:39 |
 | 6543 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
 | 6544 | [Jealous \- Remix](https://open.spotify.com/track/5NQJnRpJHRaupdegphntQT) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 3:42 |
@@ -7775,5 +7775,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7765 | [\(Why Do\) I Have to Get Up Tomorrow](https://open.spotify.com/track/0nwFLPwetTfIn7yZ4rt1A8) | [thquib](https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm) | [Deep Morning](https://open.spotify.com/album/1ZsCg7SUvQoiHUkEb6ioGC) | 2:12 |
 | 7766 | [I Just Love the 50s!!!](https://open.spotify.com/track/1At66VMSGx03JwOrHEGMXj) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt\. 2](https://open.spotify.com/album/7pmuSRFBvY0D0tce5dpqdY) | 1:17 |
 | 7767 | [Storytellers](https://open.spotify.com/track/4dLNyPz58eSwVQz6K1JmDQ) | [Foreground Eclipse](https://open.spotify.com/artist/133ZFcHur9ckcKLnJ0XNJS) | [Stories That Last Through The Sleepless Nights](https://open.spotify.com/album/3QWB22qBGpDSwALq5mxnvQ) | 3:57 |
+| 7768 | [Say Goodbye](https://open.spotify.com/track/3RnkPoduHhQX4FY9x2rEeY) | [Kado](https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb), [Maiza](https://open.spotify.com/artist/4VV9icF9SRufglMKhsDDrf) | [Say Goodbye](https://open.spotify.com/album/5VzYQ9BHrTI6HPV5sk4R79) | 3:12 |
+| 7769 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
 
-Snapshot ID: `AAAJaikWxl+tvCXmwSKQGwLqhsAdYfTk`
+Snapshot ID: `AAAJbKLqu3okwyAwJqVUbA94mnmxtvPW`

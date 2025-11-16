@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20665,
+  "num_followers": 20663,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAAQSMeCp7J9xWC+K91gvpKJ",
+  "snapshot_id": "aRZxAAAAAAAPurGTc8j5a/d3WfodvyaF",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entourage",
-        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 129433,
-      "name": "Entourage",
-      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vader & zoon (Remix)",
         "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 140202,
       "name": "Vader & zoon - Remix",
       "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
       "added_at": null,

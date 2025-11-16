@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 1170000,
       "name": "50/50 Tails (Buchla Piece Tails Out)",
       "url": "https://open.spotify.com/track/31M0glZi87wdByJSHw8Fk2"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 199880,
       "name": "Duet",
       "url": "https://open.spotify.com/track/2DpRCugH6W4YelZWeprDNv"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 733447,
       "name": "Festival of the Cicada - Live",
       "url": "https://open.spotify.com/track/2T3OJMfoUPV3zK08Jjs5DB"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 254960,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 811323,
       "name": "How We Got Here",
       "url": "https://open.spotify.com/track/0db0kwA4hfvlXVIBiXbIFK"
@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 654386,
       "name": "Maritime Rites: Rattlesnake Mountain",
       "url": "https://open.spotify.com/track/3Eg7ej0MOufgqKkFZFAu1V"
@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 2018160,
       "name": "Mind Bog",
       "url": "https://open.spotify.com/track/3kZm6sinhvCCvLE77gYa5l"
@@ -3210,6 +3210,24 @@
       "duration_ms": 1323000,
       "name": "Rattlesnake Mountain",
       "url": "https://open.spotify.com/track/1J889Ry1ETg8IPa6mGgKMU"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2025-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1285560,
+      "name": "Red Horse Headache",
+      "url": "https://open.spotify.com/track/5djelhgz2tNVCFae7W6C5t"
     },
     {
       "album": {

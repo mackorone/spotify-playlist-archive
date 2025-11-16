@@ -34334,7 +34334,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 196848,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/1DyQWdt3rLhGV7xlqNCjyD"
@@ -36982,7 +36982,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 164869,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/3X8WtsnuV8ihufNhmUXG0M"
@@ -51677,6 +51677,24 @@
     },
     {
       "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208972,
+      "name": "FMT",
+      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
+    },
+    {
+      "album": {
         "name": "FNBM (feat. NLE Choppa)",
         "url": "https://open.spotify.com/album/6PKpQGvFAz8iLgJnlY09X4"
       },
@@ -54652,7 +54670,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 265960,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/6kUiZRVld2AlDRpX2EvMe7"
@@ -60722,7 +60740,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 210560,
       "name": "Growing",
       "url": "https://open.spotify.com/track/54zNEwM2FYxYXKEHuonsfY"
@@ -77376,7 +77394,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 210000,
       "name": "In the Middle",
       "url": "https://open.spotify.com/track/6tzx99fbmrc8TGCNWKjavA"
@@ -105595,6 +105613,32 @@
     },
     {
       "album": {
+        "name": "CiCi (Deluxe)",
+        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Nice n' Sweet",
+      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "album": {
         "name": "Nice Shoes",
         "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
       },
@@ -131806,7 +131850,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Sin Sin Sin",
       "url": "https://open.spotify.com/track/70ity6h9Am48CgtgwAiqCP"

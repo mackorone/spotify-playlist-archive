@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "H.E.R. Volume 2",
+        "url": "https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219677,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu"
+    },
+    {
+      "album": {
         "name": "H.E.R.",
         "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
@@ -1390,24 +1408,6 @@
       "duration_ms": 219680,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w"
-    },
-    {
-      "album": {
-        "name": "H.E.R. Volume 2",
-        "url": "https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "date_added": "2024-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219693,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu"
     },
     {
       "album": {

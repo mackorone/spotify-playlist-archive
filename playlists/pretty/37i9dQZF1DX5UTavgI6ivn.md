@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,019 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,048 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 54 | [Y Si Te Quedas, ¿Qué?](https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de Caminos](https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW) | 3:38 |
 | 55 | [COMO ASÍ?](https://open.spotify.com/track/7MfplpxSPOQQUU30obu8w9) | [LuisRa](https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY) | [COMO ASÍ?](https://open.spotify.com/album/1dUCP0hlimsUoEgVMxDzzy) | 3:23 |
 
-Snapshot ID: `AAAAABZRQe86lPKZ6xn5kxBSQSq6BpMd`
+Snapshot ID: `AAAAAE747Nstt8s7otClUKguOwUbpL7u`

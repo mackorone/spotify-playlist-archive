@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-239 songs - 13 hr 4 min
+241 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Circle Back](https://open.spotify.com/track/3xfzpDdA9LlsrdrqheJBWW) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0WF1oRTBC2WNIrBUNUX8tn) | 2:56 | 2025-11-10 | 2025-11-15 |
 | [close 2 me](https://open.spotify.com/track/7hP9JQq32fN0Oowzvt71DW) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [dying art](https://open.spotify.com/album/1fne7Ywwqq0XdjjY6tmsQr) | 2:41 | 2025-07-09 |  |
 | [Come Back Down](https://open.spotify.com/track/4e3E1VBwKJkB7keKuiVRuR) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Honeyblonde](https://open.spotify.com/album/0cvDLEQcJ9559XKdpWfY6U) | 4:15 | 2025-06-06 |  |
-| [Conflict Resolution](https://open.spotify.com/track/07ZK6ePdIMQ6YJnOMNDapN) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Lee Lawrence](https://open.spotify.com/artist/3rt8rtb0U2E3Hm9pYRnAb6) | [Family Business](https://open.spotify.com/album/0WF1oRTBC2WNIrBUNUX8tn) | 3:28 | 2025-11-10 |  |
+| [Conflict Resolution](https://open.spotify.com/track/07ZK6ePdIMQ6YJnOMNDapN) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Lee Lawrence](https://open.spotify.com/artist/3rt8rtb0U2E3Hm9pYRnAb6) | [Family Business](https://open.spotify.com/album/0WF1oRTBC2WNIrBUNUX8tn) | 3:28 | 2025-11-10 | 2025-11-16 |
 | [Conflict Resolution](https://open.spotify.com/track/2Wbl9KdMT0Ui1NzvamjmXM) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Lee Lawrence](https://open.spotify.com/artist/7w6CsL1hL56qqGtG5D9RDK) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:28 | 2025-06-06 | 2025-11-11 |
+| [Conflict Resolution](https://open.spotify.com/track/5dN8ikaS2aRLlm0iJZOYkk) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Lee Lawrence](https://open.spotify.com/artist/4McBXklVLtwztAzFyRnKnS) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:28 | 2025-11-15 |  |
 | [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:26 | 2025-06-06 |  |
 | [Couples Retreat](https://open.spotify.com/track/7pMS0byKI7V1Mpl0SlWEDq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:28 | 2025-06-06 |  |
 | [Crop Circles](https://open.spotify.com/track/2SCUNHTUORvAnmWjSsp5Ib) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Crop Circles](https://open.spotify.com/album/4oNTQtyqMltQXSnrmgMYWh) | 2:27 | 2025-06-06 |  |
@@ -142,6 +143,7 @@
 | [Little Things \(with Quinn XCII & Chelsea Cutler\)](https://open.spotify.com/track/52681Ivj8kgCi90Lu8B9fl) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 3:17 | 2025-06-06 |  |
 | [Looking for Me \(feat\. Mo3\)](https://open.spotify.com/track/751k32bhveKHdzJGLbHg5e) | [Chris P](https://open.spotify.com/artist/3oq8os8cwb3DtB1jTlG0Vh), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Looking for Me \(feat\. Mo3\)](https://open.spotify.com/album/7kSdsg4SJejaJi0cza5FHm) | 5:26 | 2025-06-06 |  |
 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2025-06-06 |  |
+| [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 | 2025-11-15 |  |
 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 | 2025-06-06 |  |
 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 | 2025-06-06 |  |
 | [Luxury](https://open.spotify.com/track/5CgFGKdTn8R5dXGEPEX6Gm) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Audra Mae](https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 4:03 | 2025-06-06 |  |

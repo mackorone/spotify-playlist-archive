@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,330 songs - 3 day 0 hr 13 min
+1,331 songs - 3 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,6 +565,7 @@
 | [In The Dark](https://open.spotify.com/track/2mGIYrzDcaEjGeZpnltE3Y) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [LP Giobbi x Insomniac Records Presents Femme House](https://open.spotify.com/album/4vPR8RUetBphiU2UDaMwV1) | 5:42 | 2022-03-11 | 2022-04-21 |
 | [Ininna Tora](https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mildenhaus](https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP) | [Ininna Tora](https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G) | 3:24 | 2022-07-01 | 2024-01-27 |
 | [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 | 2025-07-25 |  |
+| [Insomnia \- Disclosure's 2025 Edit](https://open.spotify.com/track/4cgoqLcfYRBesDEmSVR1Ek) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Insomnia \(Disclosure's 2025 Edit\)](https://open.spotify.com/album/4YfEXbb3DjWKLFiW67pDqx) | 4:20 | 2025-11-14 |  |
 | [Interstellar](https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Interstellar](https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A) | 3:51 | 2024-12-24 |  |
 | [Into The Fire](https://open.spotify.com/track/2pkLSXs8Wv9Xe3aiCR7K5p) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Arsnøvä](https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA) | [Into The Fire](https://open.spotify.com/album/33i8sQO6hNZk6wMhIBJSEv) | 2:57 | 2022-01-21 | 2022-04-02 |
 | [Into The Light](https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Into The Light](https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi) | 3:11 | 2021-01-23 | 2021-08-07 |
@@ -598,7 +599,7 @@
 | [Know You](https://open.spotify.com/track/21AwRXJcrb0rq0SaCnzk01) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh) | [Know You](https://open.spotify.com/album/2u4MSSmix7IGd2wpBt6Sea) | 2:33 | 2020-09-21\* | 2021-01-05 |
 | [Know Yourself](https://open.spotify.com/track/1kuWUmxfaHRv0UEMyG1gtc) | [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Know Yourself](https://open.spotify.com/album/2ONS0xPbhOsVX6xAUQJHmd) | 5:25 | 2020-09-21\* | 2020-12-18 |
 | [Known You Before \(with Emilie Brandt\)](https://open.spotify.com/track/46EA3tB2G4GrOMhDie094Q) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Emilie Brandt](https://open.spotify.com/artist/5ooIuCvSBl6Eo4cHixvB7x) | [Known You Before \(with Emilie Brandt\)](https://open.spotify.com/album/26xtoxHhaAn3Y3mZ1kvE9V) | 3:39 | 2020-09-21\* | 2021-02-20 |
-| [Koko](https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Koko](https://open.spotify.com/album/4wcfyp6Jo32SXCSyPZwqaH) | 2:47 | 2025-11-03 |  |
+| [Koko](https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Koko](https://open.spotify.com/album/4wcfyp6Jo32SXCSyPZwqaH) | 2:47 | 2025-11-03 | 2025-11-16 |
 | [Kong](https://open.spotify.com/track/4GTZNsnEwRCG2l0H2nTKiA) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Kong](https://open.spotify.com/album/3bBQi7fx59FjnpFBWOxgPq) | 2:13 | 2021-08-14 | 2022-01-29 |
 | [L.E.D\. There Be Light \- Cosmic Gate Remix](https://open.spotify.com/track/5A46DyoGOI7pSMIIZgelu4) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [20 Years \[Forward Ever Backward Never\]](https://open.spotify.com/album/6d4PJ6qE1Gv96huFCVQiEQ) | 3:30 | 2020-09-21\* | 2021-01-23 |
 | [La Danse](https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [La Danse](https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl) | 4:08 | 2022-12-16 | 2023-02-23 |

@@ -7741,6 +7741,24 @@
     },
     {
       "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/5zHkCFv17jKavqJPRZITWJ"
+    },
+    {
+      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -10934,7 +10952,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 156521,
       "name": "Chance",
       "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
@@ -16350,7 +16368,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 206322,
       "name": "Desde Que Llegaste",
       "url": "https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG"
@@ -25088,7 +25106,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -28682,7 +28700,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 197972,
       "name": "ILUSI\u00d3N 98",
       "url": "https://open.spotify.com/track/1USQtp27NgyJ8myRD1v6SJ"
@@ -38024,7 +38042,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 175333,
       "name": "Mi Cuernito",
       "url": "https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB"
@@ -48980,10 +48998,28 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 229386,
       "name": "Private",
       "url": "https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6"
+    },
+    {
+      "album": {
+        "name": "(((((ultraSOUND)))))",
+        "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2025-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229386,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/2qoxzXXSWPodTTsX4FkWEk"
     },
     {
       "album": {
@@ -49876,7 +49912,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Que Lo Cumpla Feliz",
       "url": "https://open.spotify.com/track/3scCnVeeMxe0wjj2nR3CKs"
@@ -62098,7 +62134,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 244800,
       "name": "Tu Misterioso Alguien",
       "url": "https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY"

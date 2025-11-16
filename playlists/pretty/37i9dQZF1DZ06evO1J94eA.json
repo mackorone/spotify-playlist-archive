@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40955,
+  "num_followers": 40958,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAABOx48y5r5/PRV8gCbrYqPO",
+  "snapshot_id": "aRZxAAAAAAAi7H1KsDDP6uHpqUK+J0go",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 408466,
+      "name": "The Maze - Remastered 2007",
+      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Imagine Project",
         "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 356160,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 408466,
-      "name": "The Maze - Remastered 2007",
-      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Man-Child",
+        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Sun Touch",
+      "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Funny Valentine (feat. Herbie Hancock)",
         "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 293493,
       "name": "My Funny Valentine (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Man-Child",
-        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Sun Touch",
-      "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 603213,
-      "name": "Survival Of The Fittest - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2LaMFV3M42B69mYVy9qf0u"
+      "duration_ms": 280146,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+        "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 280146,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
+      "duration_ms": 603213,
+      "name": "Survival Of The Fittest - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2LaMFV3M42B69mYVy9qf0u"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

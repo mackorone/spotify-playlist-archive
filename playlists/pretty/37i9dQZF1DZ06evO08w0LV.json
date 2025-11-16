@@ -1,12 +1,12 @@
 {
   "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
-  "num_followers": 958956,
+  "num_followers": 958937,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAACRL5ryfxE0O//thrlrSQKe",
+  "snapshot_id": "aRZxAAAAAABvjY7IAMywJGOVVwUnecns",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA FINE",
-        "url": "https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 200588,
-      "name": "LA FINE",
-      "url": "https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 192000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA FINE",
+        "url": "https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 200588,
+      "name": "LA FINE",
+      "url": "https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS"
     },
     {
       "added_at": null,

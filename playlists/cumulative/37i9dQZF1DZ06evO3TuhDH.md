@@ -4,7 +4,7 @@
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 14 min
+117 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Keep It](https://open.spotify.com/track/2QJ8y7KKrbTlHoLCI69TsQ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Keep It](https://open.spotify.com/album/7HV9vePbQOjxInYeHILjbG) | 2:53 | 2025-02-09 | 2025-05-29 |
 | [Leave You Alone](https://open.spotify.com/track/02xoXDa2h6hd2kZdLdQSTF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 2:34 | 2025-02-16 | 2025-06-05 |
 | [Lemon Cars](https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6) | 2:53 | 2024-05-12 | 2025-01-13 |
-| [Lick Back](https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:16 | 2025-02-16 |  |
+| [Lick Back](https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:16 | 2025-02-16 | 2025-11-16 |
+| [Lick Back \(feat\. Skrilla\) \- Remix](https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Lick Back \(feat\. Skrilla\) \[Remix\]](https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo) | 2:13 | 2025-11-16 |  |
 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 | 2023-09-15 | 2024-03-05 |
 | [Lost In Time \(feat\. Coi Leray\)](https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [PAIN?](https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD) | 2:39 | 2022-10-28 | 2024-07-22 |
 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/10tfI0fBzPnoC0IcVkgOhS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:18 | 2023-12-13 | 2024-01-26 |

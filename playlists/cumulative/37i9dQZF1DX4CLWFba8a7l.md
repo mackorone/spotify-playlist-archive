@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Thelma Plum, The 046, Hatchie, Paul Kelly, Dom Dolla, Ninajirachi
 
-499 songs - 1 day 3 hr 47 min
+500 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Eraser](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Some Kind of Alchemy](https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3) | 3:29 | 2025-10-09 | 2025-10-17 |
 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 | 2024-05-31 | 2025-09-05 |
 | [Everyone Will See It](https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Everyone Will See It](https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x) | 3:24 | 2025-02-06 | 2025-04-09 |
+| [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 | 2025-11-13 |  |
 | [FACEDOWN](https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [FACEDOWN](https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee) | 3:41 | 2025-08-14 |  |
 | [FaceTime \(feat\. Don Toliver\)](https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Euphoria](https://open.spotify.com/album/1NATXlXj7ZUSJuAbLoQyIE) | 2:18 | 2025-11-13 |  |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-05-31 | 2025-10-24 |
@@ -411,7 +412,7 @@
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2024-05-31 | 2024-10-25 |
 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-03-27 | 2025-06-25 |
 | [summer in december](https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [wraith](https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC) | 4:05 | 2025-05-01 |  |
-| [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-07-31 |  |
+| [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-07-31 | 2025-11-16 |
 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 | 2025-05-08 | 2025-10-11 |
 | [Sunset Psalm](https://open.spotify.com/track/5wnKqpNO2h39M44TMQk3cC) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Sunset Psalm](https://open.spotify.com/album/6kB1iLsUqM30kw5d8Fgg31) | 4:09 | 2025-05-29 | 2025-06-06 |
 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 | 2024-06-27 | 2025-01-31 |

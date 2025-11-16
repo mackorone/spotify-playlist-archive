@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Musawir Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,868 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,866 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tabeer](https://open.spotify.com/track/2BIcXipnYjFxGdGrCv9lRe) | [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH) | [Tabeer](https://open.spotify.com/album/4k31RqBphquyWwb08c53yS) | 3:22 |
 | 2 | [First Sight](https://open.spotify.com/track/5BnaxUEj7dGUOovqJcSqCc) | [Mujjam](https://open.spotify.com/artist/10OD6jYT9JyOpFRAeXzS3O), [Amina B](https://open.spotify.com/artist/5IMrJtpPWMWJB6SiFBS7k9) | [First Sight](https://open.spotify.com/album/5cowhFLqxMBSkmWkdx6PFj) | 2:35 |
-| 3 | [Remember me?](https://open.spotify.com/track/0y84BspkZ6BFyzF7ZwgVpc) | [Hassan Aayan](https://open.spotify.com/artist/3iNq7eLUYGck2x3askoUhP), [MabTrapp](https://open.spotify.com/artist/1YhXZDTj7SkIfQetK27epT) | [Remember me?](https://open.spotify.com/album/3ofRNYsoFZWStrkiYcnOYm) | 2:55 |
+| 3 | [Remember me?](https://open.spotify.com/track/0y84BspkZ6BFyzF7ZwgVpc) | [Hassan Aayan](https://open.spotify.com/artist/3iNq7eLUYGck2x3askoUhP), [MabTrapp](https://open.spotify.com/artist/69axTALqtIqYZyRUwZBw96) | [Remember me?](https://open.spotify.com/album/3ofRNYsoFZWStrkiYcnOYm) | 2:55 |
 | 4 | [Dil Lagana](https://open.spotify.com/track/2mEj2v0aAuSirH0OeAnnYZ) | [Syed Shahroz Abbas](https://open.spotify.com/artist/3B5sYacvtfwKOJxzO6njYK) | [Dil Lagana](https://open.spotify.com/album/7iTzLcqHfzux8Zkc8Hzys5) | 4:19 |
 | 5 | [I lost My Father Unplugged](https://open.spotify.com/track/3czBz6QCGtJdBDwV8r2Gfv) | [Grehan Band](https://open.spotify.com/artist/4NjwzFMg5JOIpWmlkZMSKT) | [I lost My Father Unplugged](https://open.spotify.com/album/5MQeT9P9kIDBM35UDCW3K6) | 2:25 |
 | 6 | [Jo Hai Hua Jane Bhi De](https://open.spotify.com/track/2Sb5T26FqFRIrSL1A3lgZX) | [Junaid Joji](https://open.spotify.com/artist/0oIGrHon7PIZtHhXf1kbs3), [SHAINA](https://open.spotify.com/artist/4ncOukFq1e8hkxYZZ1N2l8) | [Jo Hai Hua Jane Bhi De](https://open.spotify.com/album/1UeAy1EkoKDmQbStFc82zd) | 2:11 |

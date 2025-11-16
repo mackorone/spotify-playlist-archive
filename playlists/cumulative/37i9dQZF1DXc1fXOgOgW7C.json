@@ -1535,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Los Esp\u00edritus",
+        "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299880,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
+    },
+    {
+      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-16",
       "duration_ms": 223692,
       "name": "R\u00edos de Lava",
       "url": "https://open.spotify.com/track/1LclQTL1W61TRCesAJzRJB"
@@ -1933,7 +1951,7 @@
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 218800,
+      "duration_ms": 218671,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },

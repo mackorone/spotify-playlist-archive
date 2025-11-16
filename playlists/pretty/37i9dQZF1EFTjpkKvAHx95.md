@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,042 likes - 157 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,043 likes - 157 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 113 | [Big Girl$ Don't Cry](https://open.spotify.com/track/3WeuZV4NojioFZzpQgTS8V) | [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Big Girl$ Don't Cry](https://open.spotify.com/album/45C6hBhqcivLphFmdVhkf6) | 3:27 |
 | 114 | [New New](https://open.spotify.com/track/4rw6Sla1yxud0nPNjdm9tf) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 2:50 |
 | 115 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 |
-| 116 | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/track/5jAMZqnBULAQqx0lNXI6VA) | [Daniel Skye](https://open.spotify.com/artist/1pqYQmeqnqQU7X3DbuA7So), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/album/2oQ3J7XDCyveh0WGaFCruc) | 3:17 |
-| 117 | [Forbidden Fruit](https://open.spotify.com/track/3Ma3fShNScqVDXImAZo7zH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:22 |
+| 116 | [Forbidden Fruit](https://open.spotify.com/track/3Ma3fShNScqVDXImAZo7zH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:22 |
+| 117 | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/track/5jAMZqnBULAQqx0lNXI6VA) | [Daniel Skye](https://open.spotify.com/artist/1pqYQmeqnqQU7X3DbuA7So), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/album/2oQ3J7XDCyveh0WGaFCruc) | 3:17 |
 | 118 | [Focus](https://open.spotify.com/track/797eFgfqbDNdvXXqKOl74E) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:16 |
 | 119 | [Try Again](https://open.spotify.com/track/0STqc1tADAVkJvpbkd1fol) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:58 |
 | 120 | [Be the One](https://open.spotify.com/track/0g1u0CXybYSVLho9gvtLMC) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:41 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 133 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
 | 134 | [Running Away \(feat\. Leigh\-Anne\)](https://open.spotify.com/track/6QChGL1rJ3R4VpESDVCb7w) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 5:01 |
 | 135 | [Rare](https://open.spotify.com/track/5LYZJ6kIXUQkryKCMriD1z) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 3:06 |
-| 136 | [Fixerupper](https://open.spotify.com/track/1VKQWXyl22hSstnrxUywW4) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:34 |
-| 137 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 |
+| 136 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 |
+| 137 | [Fixerupper](https://open.spotify.com/track/1VKQWXyl22hSstnrxUywW4) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:34 |
 | 138 | [Just A Moment](https://open.spotify.com/track/4zRxP44VrDs7ltYgh6KUIL) | [Symphani Soto](https://open.spotify.com/artist/5N2lZ3f6pIpMTnpfVV4Adg), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Under The Sun](https://open.spotify.com/album/0d5s5Jp5BJ6S7arBPAnfyg) | 3:22 |
 | 139 | [CUT THE LIGHTS\. \- CHAMPIONSHIP VERSION](https://open.spotify.com/track/3hjfnZgJM3BYiEA6fQ7Dlb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:44 |
 | 140 | [Better Sober](https://open.spotify.com/track/6KGZr7QHHthQmUCYmuQtvA) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:20 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 156 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 157 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `AcBmWgAAAABej/B+gIWeICKe1KTeojUZ`
+Snapshot ID: `AcBr+gAAAADhlFLkfA6mITpus3FsWGfN`

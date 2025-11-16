@@ -6,23 +6,63 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRa3UAAAAADVbB0j9onmRyV34IOTGCtP",
+  "snapshot_id": "aRa3UAAAAABf/ZtqsC50uuRalydzi8pB",
   "tracks": [
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "The Fate of Ophelia",
-        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 217862,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
+      "duration_ms": 324776,
+      "name": "1-800 Heartbreak (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
+    },
+    {
+      "added_at": "2025-11-14 05:00:00",
+      "album": {
+        "name": "Black And Blue (2025 Mix)",
+        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 233250,
+      "name": "Cherry Oh Baby - 2025 Mix",
+      "url": "https://open.spotify.com/track/6gJMAwnHv4pd5GlQxrDji1"
+    },
+    {
+      "added_at": "2025-11-14 05:00:00",
+      "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/7ewYfNRexvl3zorBnwsMZ4"
+      },
+      "artists": [
+        {
+          "name": "David Dallas",
+          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/6F4kLWOW0j2h4yiVXjAFSK"
     },
     {
       "added_at": "2025-11-14 05:00:00",
@@ -55,26 +95,6 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/7ewYfNRexvl3zorBnwsMZ4"
-      },
-      "artists": [
-        {
-          "name": "David Dallas",
-          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/6F4kLWOW0j2h4yiVXjAFSK"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
         "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
       },
@@ -95,38 +115,18 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Black And Blue (2025 Mix)",
-        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 268500,
-      "name": "Hand Of Fate - 2025 Mix",
-      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 324776,
-      "name": "1-800 Heartbreak (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
+      "duration_ms": 217862,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
     },
     {
       "added_at": "2025-11-14 05:00:00",
@@ -191,38 +191,6 @@
       "duration_ms": 189021,
       "name": "The God of Lying (feat. IDLES)",
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 241783,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269433,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2025-11-14 05:00:00",
@@ -303,6 +271,22 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
+        "name": "Who Wants To Live Forever (Stranger Things Remix)",
+        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 167103,
+      "name": "Who Wants To Live Forever - Stranger Things Remix",
+      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
+    },
+    {
+      "added_at": "2025-11-14 05:00:00",
+      "album": {
         "name": "Abhorrent",
         "url": "https://open.spotify.com/album/6cxzyGqzc5qmZG1O63MtuZ"
       },
@@ -323,22 +307,6 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Who Wants To Live Forever (Stranger Things Remix)",
-        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 167103,
-      "name": "Who Wants To Live Forever - Stranger Things Remix",
-      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
         "name": "C0FFEE!",
         "url": "https://open.spotify.com/album/1F14HUbfaQsbk8bf9txfJb"
       },
@@ -351,22 +319,6 @@
       "duration_ms": 93653,
       "name": "LOOKING FOR PARKING",
       "url": "https://open.spotify.com/track/7vDvAe08AwY7at6TyCduKJ"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "Under The Moon",
-        "url": "https://open.spotify.com/album/5htwDF4DJFuae9rE5LDQiV"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 206681,
-      "name": "Under The Moon",
-      "url": "https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk"
     },
     {
       "added_at": "2025-11-14 05:00:00",
@@ -411,50 +363,50 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Stereo (Bladerunner Remix)",
-        "url": "https://open.spotify.com/album/11yd2MaUvWB9mUglzmSebx"
+        "name": "Swimming by Moonlight (New Music from the Documentary \"Let's Get Lost\")",
+        "url": "https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         },
         {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Bladerunner",
-          "url": "https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl"
-        },
-        {
-          "name": "Lovelle",
-          "url": "https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx"
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
         }
       ],
-      "duration_ms": 202931,
-      "name": "Stereo (Bladerunner Remix)",
-      "url": "https://open.spotify.com/track/5bsBvExU1BYlv2H8PLAEKN"
+      "duration_ms": 377862,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5"
     },
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Jungle Noise",
-        "url": "https://open.spotify.com/album/0w7aVPPmIfRe92MUbefhY7"
+        "name": "Nodega",
+        "url": "https://open.spotify.com/album/62BSz8pWCmSK1fxxEp9CoQ"
       },
       "artists": [
         {
-          "name": "Jus Cool",
-          "url": "https://open.spotify.com/artist/1zl3lcwxYLYoMkwz6H61b9"
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Tristate",
+          "url": "https://open.spotify.com/artist/5bcgK9qwYin6TDNXiDIJFl"
         }
       ],
-      "duration_ms": 167688,
-      "name": "Jungle Noise",
-      "url": "https://open.spotify.com/track/0HhxR4eW4vj7ZZXPrGKnSQ"
+      "duration_ms": 204003,
+      "name": "Rooftop Shottas",
+      "url": "https://open.spotify.com/track/5JB5bn1vu5b2MRehhI7HqK"
     },
     {
       "added_at": "2025-11-14 05:00:00",
@@ -483,34 +435,6 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Rooftop Shottas",
-        "url": "https://open.spotify.com/album/1uhU6n7pi4ou48wc2q7Fe2"
-      },
-      "artists": [
-        {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Tristate",
-          "url": "https://open.spotify.com/artist/5bcgK9qwYin6TDNXiDIJFl"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "Rooftop Shottas",
-      "url": "https://open.spotify.com/track/28T7onL1Jjk12TJPhO0T5G"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
         "name": "red moon",
         "url": "https://open.spotify.com/album/3AGNHG6lqPZYphbRdSxBKA"
       },
@@ -531,22 +455,22 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Swimming by Moonlight (New Music from the Documentary \"Let's Get Lost\")",
-        "url": "https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B"
+        "name": "Jungle Noise",
+        "url": "https://open.spotify.com/album/0w7aVPPmIfRe92MUbefhY7"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Jus Cool",
+          "url": "https://open.spotify.com/artist/1zl3lcwxYLYoMkwz6H61b9"
         },
         {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 377862,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5"
+      "duration_ms": 167688,
+      "name": "Jungle Noise",
+      "url": "https://open.spotify.com/track/0HhxR4eW4vj7ZZXPrGKnSQ"
     },
     {
       "added_at": "2025-11-14 05:00:00",
@@ -595,6 +519,22 @@
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
+        "name": "Elaenia (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/4y8CLxoV77gwzciPcNNEqr"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 388853,
+      "name": "Precursor",
+      "url": "https://open.spotify.com/track/0M1UEWcNQLmuXfyvOvqyAN"
+    },
+    {
+      "added_at": "2025-11-14 05:00:00",
+      "album": {
         "name": "Metaphysical Sherpa: Spiritual Alchemy",
         "url": "https://open.spotify.com/album/6yhgMeJtyBmDnSHHfbyQgQ"
       },
@@ -615,102 +555,6 @@
       "duration_ms": 191141,
       "name": "Territories (Hell's a Foolish Flow)",
       "url": "https://open.spotify.com/track/64s2b4VAUBM3lh0S5KSqxY"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "Soul In The Horn (Act 1)",
-        "url": "https://open.spotify.com/album/3ujkFMUuCGExtP50OCLIVG"
-      },
-      "artists": [
-        {
-          "name": "Soul In The Horn",
-          "url": "https://open.spotify.com/artist/2nDmZKLnQ3mFg4pqu0hEju"
-        },
-        {
-          "name": "Ben Williams",
-          "url": "https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV"
-        },
-        {
-          "name": "Dead Prez",
-          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Kendra Foster",
-          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Keep On - Power To The People Remix",
-      "url": "https://open.spotify.com/track/2sJCBPAWzId7Z4rCrlAiDy"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "Elaenia (10 Year Anniversary)",
-        "url": "https://open.spotify.com/album/4y8CLxoV77gwzciPcNNEqr"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 388853,
-      "name": "Precursor",
-      "url": "https://open.spotify.com/track/0M1UEWcNQLmuXfyvOvqyAN"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "Chronicles (Vinyl Version)",
-        "url": "https://open.spotify.com/album/5AsPic5vfqmHNfBHf9K03s"
-      },
-      "artists": [
-        {
-          "name": "Ironkap",
-          "url": "https://open.spotify.com/artist/5jVbg3Rq1nYckNjxYQJPC4"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        }
-      ],
-      "duration_ms": 168551,
-      "name": "Why You Lookin At Me? - Vinyl Version",
-      "url": "https://open.spotify.com/track/1qJfpg50U6aXMqeqtRK2lv"
-    },
-    {
-      "added_at": "2025-11-14 05:00:00",
-      "album": {
-        "name": "My Payback",
-        "url": "https://open.spotify.com/album/6A1WfTybv8lvaE08xniTxD"
-      },
-      "artists": [
-        {
-          "name": "DJ Gangster",
-          "url": "https://open.spotify.com/artist/4EC9qT1phaX0xMjdxFmZZ2"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 172668,
-      "name": "My Payback",
-      "url": "https://open.spotify.com/track/2a6f9Z6WXitQXLXScfIvKk"
     },
     {
       "added_at": "2025-11-14 05:00:00",
@@ -740,29 +584,37 @@
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
-      "duration_ms": 206292,
-      "name": "Hector The Hero - Version 2",
-      "url": "https://open.spotify.com/track/0gSN0JBMkefXt6ckasVWPa"
+      "duration_ms": 191209,
+      "name": "Les Sauvages",
+      "url": "https://open.spotify.com/track/48AhUdhr7sneJ9WKy2WkP0"
     },
     {
       "added_at": "2025-11-14 05:00:00",
       "album": {
-        "name": "Coming Forth by Day",
-        "url": "https://open.spotify.com/album/1UewRcxjZ7QRtpgnY96FXk"
+        "name": "My Payback",
+        "url": "https://open.spotify.com/album/6A1WfTybv8lvaE08xniTxD"
       },
       "artists": [
         {
-          "name": "Tiombe Lockhart",
-          "url": "https://open.spotify.com/artist/1kqZOF1WEoAV23hEZU6Gta"
+          "name": "DJ Gangster",
+          "url": "https://open.spotify.com/artist/4EC9qT1phaX0xMjdxFmZZ2"
         },
         {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         }
       ],
-      "duration_ms": 229302,
-      "name": "Strange Things",
-      "url": "https://open.spotify.com/track/4CFnU3XFXMfomq2jStVCTn"
+      "duration_ms": 172668,
+      "name": "My Payback",
+      "url": "https://open.spotify.com/track/2a6f9Z6WXitQXLXScfIvKk"
     },
     {
       "added_at": "2025-11-14 05:00:00",

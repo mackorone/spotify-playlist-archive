@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 130873,
+  "num_followers": 130884,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAAZ5Tcj5rzUXcqflie0TnEv",
+  "snapshot_id": "aRZxAAAAAAB8XFhDNPPTh4F1gKtFY+pM",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KAI",
-        "url": "https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO"
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 176666,
-      "name": "KAI",
-      "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+        "name": "KAI",
+        "url": "https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+      "duration_ms": 176666,
+      "name": "KAI",
+      "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Malo (Remix)",
         "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 184009,
       "name": "Lo Malo - Remix",
       "url": "https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,527 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,583 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 2 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
 | 3 | [RINKS’!](https://open.spotify.com/track/72aZm9tfActTh1uWIPOJ30) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Ojivolta](https://open.spotify.com/artist/6FBUHxCdl6ePwkYY6JMclM), [Turich Benjy](https://open.spotify.com/artist/6JeI0JssXGpQ4SO1g6rjRw) | [RINKS’!](https://open.spotify.com/album/2Jeet2NgNZs9DQVw8vlLJZ) | 2:58 |
 | 4 | [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 |
-| 5 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
+| 5 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
 | 6 | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu) | 2:46 |
 | 7 | [twenty four](https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [twenty four](https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g) | 2:43 |
 | 8 | [Royal Flush \(feat\. Vinny Radio\)](https://open.spotify.com/track/0S5LZJ2SBqoJ4h31Xiwcu6) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vinny Radio](https://open.spotify.com/artist/3MYeNcgeOjPzfwCgXGw5X2) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 3:32 |

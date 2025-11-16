@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 53004,
+  "num_followers": 53014,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aRUfgAAAAAA28QuSqQnHGBGhoh230zq3",
+  "snapshot_id": "aRZxAAAAAAAFE+2nOVXXPA+DzP5yP3L4",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Morning Music: Wake Up Workout",
         "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 203920,
       "name": "Heads Will Roll - A-Trak Remix Radio Edit",
       "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
-        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 135906,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 197759,
-      "name": "Thirteen - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 140800,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 197759,
+      "name": "Thirteen - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
     },
     {
       "added_at": null,

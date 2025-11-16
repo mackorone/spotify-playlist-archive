@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 
 > Good Trouble official playlist \~ featuring songs from each episode.
 
-[Freeform](https://open.spotify.com/user/abcfamily) - 9,920 likes - 664 songs - 1 day 15 hr 37 min
+[Freeform](https://open.spotify.com/user/abcfamily) - 9,922 likes - 664 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,7 +269,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 | 259 | [The Name](https://open.spotify.com/track/2ob1GyRq0Av7Ce6hknDvUE) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [The Name](https://open.spotify.com/album/6OJyMCvaKspDCbnbOvy51G) | 3:11 |
 | 260 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 |
 | 261 | [Everything's Changing](https://open.spotify.com/track/6ZHypl5hBTfSIAgnfQFcJE) | [Plastic Hotels](https://open.spotify.com/artist/2ajtIBal1W3bRKFivHo0EQ) | [Everything's Changing](https://open.spotify.com/album/05TQCLLQUQHmjNoeyNyHrq) | 3:25 |
-| 262 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
+| 262 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:09 |
 | 263 | [One More Try](https://open.spotify.com/track/0UsjbN1zd5qEd6OcvO1TGE) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:01 |
 | 264 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 |
 | 265 | [Same For You](https://open.spotify.com/track/09qiH14LVVBKvZ0kbtq3E4) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Oil & Water](https://open.spotify.com/album/3sU7GRKFreALxPAgjBpcy7) | 3:37 |

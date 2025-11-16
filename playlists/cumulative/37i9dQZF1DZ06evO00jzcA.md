@@ -4,7 +4,7 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 41 min
+103 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Betrayed \- Outtake](https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Betrayed \(Outtake\)](https://open.spotify.com/album/1cliarCXzPu1Ha0zYIOaKq) | 4:38 | 2022-08-28 | 2022-10-26 |
 | [Black Diamond](https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 5:14 | 2022-01-11 | 2025-04-02 |
 | [Burn Bitch Burn](https://open.spotify.com/track/7lX9cNmBs138KdCnmry4MC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 4:42 | 2022-01-18 | 2022-10-13 |
-| [Burning Up With Fever \- Studio Demo](https://open.spotify.com/track/11sbOWO1r8n0erZdcUsy55) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Burning Up With Fever \(Studio Demo\)](https://open.spotify.com/album/6iJbGh59tsc8TjdXgkOT6S) | 4:28 | 2025-10-19 |  |
+| [Burning Up With Fever \- Studio Demo](https://open.spotify.com/track/11sbOWO1r8n0erZdcUsy55) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Burning Up With Fever \(Studio Demo\)](https://open.spotify.com/album/6iJbGh59tsc8TjdXgkOT6S) | 4:28 | 2025-10-19 | 2025-11-16 |
 | [C'mon And Love Me](https://open.spotify.com/track/1wkRMOmqwayWDVR9FLOTFP) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:58 | 2022-10-12 | 2025-11-09 |
 | [C'mon And Love Me \- Live At RKO Orpheum Theatre, Davenport, Iowa, July 20, 1975 / Show 2](https://open.spotify.com/track/5ekQmxStA0MsmqfgsJA2sQ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [C’mon And Love Me \(Live In Davenport, Iowa – Show 2\)](https://open.spotify.com/album/5zuB75a2b4SikwWzVbxmPW) | 3:15 | 2025-11-09 |  |
 | [Calling Dr\. Love](https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:44 | 2022-01-11 |  |
@@ -100,6 +100,7 @@
 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 | 2022-01-11 |  |
 | [Sure Know Something](https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:01 | 2022-01-11 |  |
 | [Take Me](https://open.spotify.com/track/12hTHnCBajZeyEiZi1drMz) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 2:56 | 2022-01-11 | 2022-02-03 |
+| [Talk To Me](https://open.spotify.com/track/1LYPRQIN8YHIX4da8fX3CX) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 4:02 | 2025-11-16 |  |
 | [Tears Are Falling](https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 3:55 | 2022-01-11 |  |
 | [Tears Are Falling \- Live In San Antonio, Texas \- December 3, 1985](https://open.spotify.com/track/4imOlXC5YfMvQ2OzDjQ87u) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Off The Soundboard: Live in San Antonio \(December 3, 1985\)](https://open.spotify.com/album/5vKLNTZmedI2t4caP2aSNN) | 3:51 | 2025-03-30 | 2025-04-27 |
 | [Thrills In The Night](https://open.spotify.com/track/4DYrRcGMv6zovQkKpA5ymp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 4:21 | 2022-01-11 | 2023-09-05 |

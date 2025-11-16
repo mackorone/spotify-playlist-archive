@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Young Hash e IvanBi in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,962 likes - 63 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,967 likes - 63 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 9 | [La Cura](https://open.spotify.com/track/24lMpSDWvI4iZ5h1ZDB7Lx) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [La Cura](https://open.spotify.com/album/00McN06J1SBCnck2lW9ftZ) | 1:40 |
 | 10 | [HO VISTO \(feat\. Silent Bob\)](https://open.spotify.com/track/5xmpAGQciuznNyNLIu1CKl) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Moli](https://open.spotify.com/artist/43ri3Sg88Uk5PcjmHelD8S) | [HO VISTO \(feat\. Silent Bob\)](https://open.spotify.com/album/4nJqfyZszDcSnF9QFj0OTi) | 2:26 |
 | 11 | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/track/5rg4OSRLS9OySeuyJ4in0x) | [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm), [Mated](https://open.spotify.com/artist/7dIGJ7Kx7vyUsszaP2mbxQ) | [NON MI VERGOGNO \(feat\. Guè, Ceejay & Mated\)](https://open.spotify.com/album/59i6g44pJoLgIiofjjOThG) | 3:15 |
-| 12 | [4 Macchine \(feat\. Dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 |
+| 12 | [4 Macchine \(feat\. dedde\)](https://open.spotify.com/track/5Hw9kJltVowEph9wApvONN) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Dedde](https://open.spotify.com/artist/2FAZEaFF6jIabjvOh2rdtO) | [4 Macchine](https://open.spotify.com/album/2zATUEeHRYPkfQjfzX0sVQ) | 2:58 |
 | 13 | [No Pinscher \(feat\. Nerissima Serpe, Papa V & Rhove\)](https://open.spotify.com/track/6qaIxiM2EFYaec3oBaRqwj) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Best](https://open.spotify.com/album/169sTK9nskG7EdmL78KR8y) | 2:38 |
 | 14 | [Scama](https://open.spotify.com/track/4yoixiIoVeayqPFfAxIYo1) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [Scama](https://open.spotify.com/album/1sq14uYbikBnVfn1xB5erA) | 2:03 |
 | 15 | [MARTEDÌ GRASSO \(feat\. Diss Gacha\)](https://open.spotify.com/track/3qwFXbmI64WdXWxlb7afkd) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 2:17 |
